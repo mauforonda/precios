@@ -40,9 +40,10 @@ def get_all(page=1):
 def format_results(productos, timestamp):
     
     df = pd.DataFrame(productos)
-    for col in ['price', 'quantity']:
+    for col in ['price']:
         df[col] = df[col].astype(float)
-    df['id'] = df['id'].astype(int)
+    for col in ['id', 'quantity']:
+        df[col] = df[col].astype(int)
     df = df[['id', 'category', 'brand', 'name', 'price', 'quantity']]
     df.insert(0, 'time', timestamp)
     return df
