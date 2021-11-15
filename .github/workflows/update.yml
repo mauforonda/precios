@@ -1,7 +1,7 @@
 name: Update
 on:
   schedule:
-    - cron: '0 4 * * *
+    - cron: '0 4 * * *'
 jobs:
   update:
     name: update
@@ -12,7 +12,7 @@ jobs:
         with:
           ref: master
       - name: python setup
-        uses: actions/setup-python@v1
+        uses: actions/setup-python@v2
         with:
           python-version: '3.6'
       - name: python install
