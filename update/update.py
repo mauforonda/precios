@@ -43,7 +43,7 @@ def format_results(productos, timestamp):
     for col in ['price']:
         df[col] = df[col].astype(float)
     for col in ['id', 'quantity']:
-        df[col] = df[col].astype(int)
+        df[col] = df[col].apply(lambda x: x.split('.')[0]).astype(int)
     df = df[['id', 'category', 'brand', 'name', 'price', 'quantity']]
     df.insert(0, 'time', timestamp)
     return df
@@ -51,7 +51,7 @@ def format_results(productos, timestamp):
 
 def save_results(df):
 
-    precios = 'data/precios.csv'
+    precios = 'data/{}.csv'.format(dt.datetime.now().strftime('%Y_%m'))
     productos = 'data/productos.csv'
 
     if os.path.exists(precios):
