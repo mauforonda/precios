@@ -196,6 +196,7 @@ id,category,brand,name
 8010320,Abarrotes,Windsor,Te Windsor Clasico 50Un
 8010344,Abarrotes,Windsor,Te Windsor Mix Frutas 40Un
 8020229,Abarrotes,Lupi,Mate Lupi Surtido 100Un
+8020286,Abarrotes,Cbse,Yerba Mate Cbse 500Gr Endulzada
 8020349,Abarrotes,Windsor,Mate Windsor Mix 4 Sabores 100Un
 8020350,Abarrotes,Windsor,Mate Windsor Manzanilla 100Un
 8020351,Abarrotes,Windsor,Mate Windsor Manzanilla 50Un
@@ -896,6 +897,7 @@ id,category,brand,name
 71012446,Abarrotes,Sao,Aceite Sao 4.5L
 71012455,Abarrotes,Windsor,Te Windsor Pina 50Un
 71012457,Abarrotes,Windsor,Te Windsor 50Un Manzana Tranquilizante
+71012837,Abarrotes,Cbse,Yerba Mate Cbse 500Gr Regularis
 71012872,Aseo y Limpieza,Archer,Limpiahornos Archer 860Cc Gatillo
 71013206,Aseo y Limpieza,Scotch Brite,Esponja Scotch Brite Metalica 1X160
 71013862,"Bebidas, Licores y Tabacos",Bc Campagnola,Jugo Bc Campagnola Multifrutal 1Lt
@@ -1672,11 +1674,15 @@ id,category,brand,name
 80157707,Abarrotes,Gourmet,Esencia Gourmet Canela 60Ml
 80157716,Productos frescos,Sin Marca,Golden Berry Por Kilo
 80157733,Aseo y Limpieza,Skip,Detergente Skip Reg Perfect Result 3.8Kilogram
+80157746,Abarrotes,Sabor Andino,Quinua Sabor Andino Real Blanca Cj 500Gr
+80157748,Abarrotes,Sabor Andino,Quinua Sabor Andino Real Roja Cj 500Gr
 80157762,Lácteos,Pil,Leche Pil Chicolac Uht 140Ml
 80157786,Lácteos,Sancor,Queso Sancor Reggianito 100Gr
 80157815,Cuidado Personal,Nosotras,Toalla Fem Nosotras Invisib Rapigel 10Un
 80157890,Cuidado Personal,Liz,Sanitizador Liz Lavanda 360Ml
 80157901,Abarrotes,Mc Cormick,Paprika Mccormick Pet 53Gr
+80157912,Abarrotes,,Azafran De Cachemira Kailash 2Gr
+80157913,Abarrotes,,Azafran De Cachemira Kailash 1Gr
 80157922,Abarrotes,Comrural,Quinua Quinut Blanca 1Kg
 80157954,Hogar y Electro,Thomson,Vajilla Thomson Bali Green 16Pz 202255
 80157967,Refrigerado y Congelado,Cabrera,Helado Cabrera Yog Natural 1\/2Lt
@@ -1783,6 +1789,7 @@ id,category,brand,name
 80164445,Abarrotes,Fino,Aceite Fino Mental Activ 4.5Lt
 80164462,BlackWeek,Maybelline,Base Maybe Dream Fresh Bb Light 30Ml
 80164483,"Bebidas, Licores y Tabacos",Del Valle,Jugo  Del Valle Manzana 1L
+80164493,Cuidado Personal,Gama,Alisador Gama Cp1 Nova Tourmal Ion Plus
 80164503,Cuidado Personal,Colgate,Enjuague Bucal Colgate Ice Infinit 500Ml
 80164542,"Bebidas, Licores y Tabacos",La Republica,Ginebra La Republica Andina 700 Ml
 80164783,Refrigerado y Congelado,Sofia,Salame Feteado Sofia Vacio 100Gr
@@ -1890,6 +1897,7 @@ id,category,brand,name
 80168666,Aseo y Limpieza,Amor,Suavizante Amor Lavanda 1950Ml
 80168685,Cuidado Personal,Gillette,Afeitadora Gillette Prestobar3 Sens 2Un
 80169336,Abarrotes,Sabor Andino,Lenteja Sabor Andino  450Gr
+80169337,Abarrotes,Sabor Andino,Quinua Real Sabor Andino Blanca Bol 500G
 80169339,Aseo y Limpieza,Igenix,Clorogel Igenix Lavanda 900Ml
 80169340,Aseo y Limpieza,Igenix,Clorogel Igenix Floral 900Ml
 80169342,Aseo y Limpieza,Igenix,Pastilla Tanque Igenix Azul 48Grx3Un
@@ -1985,6 +1993,7 @@ id,category,brand,name
 80172095,Bebés y Nin@s,Johnson & Johnson,Acond Johnsons Gotas De Brillo 200Ml
 80172115,Hogar y Electro,Moduart,Librero Moduart Supra 14021-04 122Cm X 60Cm X 25Cm
 80172120,Hogar y Electro,Moduart,Mesa P\/Tv Moduart Wengue 15180-0 70Cm X  130Cm X 37Cm
+80172480,"Snack, golosinas y galletas",Manitoba,Pack 3X2 Pistachos Manitoba 3X85G
 80172689,Cuidado Personal,Ballerina,Acond Ballerina Manzanilla Frasco 750Ml.
 80172690,Cuidado Personal,Ballerina,Jabon Liq Ballerina Hipoalergen 900Ml
 80172698,Productos frescos,Sin Marca,Lechuga Hidroponica Grande Por Unidad
@@ -2050,6 +2059,7 @@ id,category,brand,name
 80174012,Aseo y Limpieza,Bolivar,Det. Bolivar Matic 2Kg
 80174018,"Bebidas, Licores y Tabacos",,Vino Campos De Sola Trivariet Blan 750Ml
 80174212,Espumantes,Prosecco,Vino Valdo Prosecco Docg 750Ml
+80174245,"Snack, golosinas y galletas",Taboada,Grageas Taboada Arroz 50Gr
 80174295,Aseo y Limpieza,Futuro,Deterg Liq.Fut Ola L\/Completo 1.8Lt
 80174296,Aseo y Limpieza,Futuro,Deterg Liq.Fut Ola Bebe 1.8Lt
 80174298,Aseo y Limpieza,Futuro,Deterg Liq.Fut Ola Ropacolor 1.8Lt
@@ -2092,6 +2102,7 @@ id,category,brand,name
 80174682,"Snack, golosinas y galletas",Bioxxl,Galleta Bioxxl Chocochip 160Gr
 80174685,Abarrotes,Bioxxl,Premezcla Bioxxl Panqueques Quinua 250Gr
 80174692,Abarrotes,Maggi,Sopa Maggi Pollo Con Caracolitos 76G
+80174882,Abarrotes,,Sal El Salerito Liquida 225Ml
 80174886,BlackWeek,Maybelline,Mascara Maybelline Falsies Push Ap Wp 9.
 80174992,Lácteos,Delizia,Leche Delizia Deslactosada Uht 800Ml
 80175062,Abarrotes,Maggi,Crema Maggi Hongos 65Gr
@@ -2176,6 +2187,7 @@ id,category,brand,name
 80177899,Cuidado Personal,Ballerina,Jabon Liq Ballerina Hipoalergenico 350Ml
 80177981,"Bebidas, Licores y Tabacos",Frutall,3 Pack  Frut-All  Varios Exotico 1Lt
 80178023,Hogar y Electro,Moduart,"Escritorio Moduart Cajon 73,5Cm X 160Cm X 67Cm"
+80178025,Abarrotes,,Mermelada Nutrijam Quinua Durazno 340Gr
 80178044,"Snack, golosinas y galletas",Sublime,Sv 4 Chocolate Sublime En Barra 30G
 80178080,Cuidado Personal,Gillette,Aerosol Gillette Artic Ice 150Ml
 80178118,BlackWeek,Maybelline,Labial Maybelline Craving Cora 685 4.2Gr
@@ -2226,6 +2238,7 @@ id,category,brand,name
 80178828,Hogar y Electro,Rey,Embudo Rey Grande  Ebx002000
 80178831,Hogar y Electro,Rey,Jarra Rey Bonita 2.5Lt Rwx006600
 80178841,,Rey,Org Rey D\/Ducha  Pbx064900
+80178951,Hogar y Electro,Black&Decker,Licuadora B&amp;D Digital F Blade  Bl6010
 80178957,Hogar y Electro,Black&amp;Decker,Procesador De Alim B&amp;D   Fp1700B
 80178960,Hogar y Electro,Black&amp;Decker,Olla Arrocera B&amp;D  5.3Lt Rc5225
 80179004,Vinos,,Vino La Concepcion Estirpe Rose 700Ml
@@ -2339,6 +2352,7 @@ id,category,brand,name
 80182269,Cuidado Personal,Tio Nacho,Acondicionador Tio Nacho Engrosador 415
 80182270,Cuidado Personal,Tio Nacho,Tratamiento Tio Nacho Engrosador 135Ml
 80182275,"Snack, golosinas y galletas",Arcor,Caramelo Arcor Diablo Halloween 100G
+80182293,Lácteos,Nestle,Sv 3X2 Crema De Leche Nestle 3X300G
 80182454,"Bebidas, Licores y Tabacos",Prost,Cerveza Prost Premium Lager 355Ml Lata
 80182632,Productos frescos,,Kale Granja Ventilla Verdura
 80182636,Cuidado Personal,Axe,Deo Axe Bodyspray Cuero + Cookies 96G
@@ -2531,8 +2545,10 @@ id,category,brand,name
 80187354,Aseo y Limpieza,Surf,Detergente Pol Surf Hort Flor Bca 3.8Kg
 80187369,Aseo y Limpieza,Ola,Lava Vajilla Ola Doypack Limon 1Lt
 80187373,Aseo y Limpieza,Omo,Detergente Omo Limon 3.8Kg
+80187380,Cuidado Personal,Gama,Plancha Ga.Ma Elegance Bloom Pink
 80187381,Cuidado Personal,Gama,Plancha Ga.Ma Elegance Bloom Violeta
 80187382,Cuidado Personal,Gama,Plancha Ga.Ma Elegance Bloom Orange
+80187396,Cuidado Personal,Gama,Depiladora Ga.Ma Skin Lady Waterproof
 80187397,Cuidado Personal,Gama,Set Viaggio Ga.Ma Ergostyler + Secadora
 80187402,Refrigerado y Congelado,Sofia,Hamburguesa Sofia Res Clasica 12X83Gr
 80187403,Refrigerado y Congelado,Sofia,Hamburguesa Sofia Pollo Clasica 12X83Gr
@@ -2607,6 +2623,7 @@ id,category,brand,name
 80188792,Refrigerado y Congelado,Dmar,Filete De Pescado Dmar Atun Vacio X Kg
 80188801,Aseo y Limpieza,Downy,Suavizante Downy Passion 750 Ml
 80188804,Aseo y Limpieza,Downy,Suavizante Downy Floral Concent 2800 Ml
+80188824,Abarrotes,San Marcos,Salsa Bqq  San Marcos  Chipotle 500Gr
 80188842,Hogar y Electro,Black&amp;Decker,Batidora De Mano B&amp;D 5 Vel  Mx1500W
 80188844,"Snack, golosinas y galletas",Pringles,Papas Pringles Original 124 Gr
 80188854,Abarrotes,Irupana,Quinua Irupana Organica Blanca 400G
@@ -2806,6 +2823,7 @@ id,category,brand,name
 80192281,"Snack, golosinas y galletas",Haribo,Gomitas Haribo Peaches 80Gr
 80192284,Hogar y Electro,,Silicona Spray Sapolio Cherry 360Ml
 80192295,Cuidado Personal,Belmed,Shampoo Belmed Hombre 420Gr
+80192326,Abarrotes,S. Mi Tierra,Miel Abeja S. Tierra Moringa Camu 250Gr
 80192327,Abarrotes,S. Mi Tierra,Miel Abeja  S. Mi Tierra Jengibre  250Gr
 80192329,Refrigerado y Congelado,Sofia,Chorizo Sofia Chuquisaqueno Kg
 80192336,Cuidado Personal,Nivea,Deo Nivea Men Fresh Ice  150Ml
@@ -2834,6 +2852,7 @@ id,category,brand,name
 80192551,Abarrotes,,Cereal Life Granola 560G
 80192566,Cuidado Personal,Recamier,Pack Cuartita Recamier Mix Jab L
 80192575,Cuidado Personal,Gama,Afeitadora Ga.Ma Gsh 855 Master
+80192687,Lácteos,Nestle,Sv 3X2 Leche Condensada Nestle 3X397G
 80192763,Cuidado Personal,Dove,Aco Dove Hidratacion Int 400Ml
 80192764,Cuidado Personal,Lifebuoy,Jabon Lifebuoy Total 3Un 125Gr
 80192768,Vinos,,Vino Aranjuez Oporto 700Ml
@@ -2853,6 +2872,7 @@ id,category,brand,name
 80193011,Aseo y Limpieza,Ola,Suavizante Ola Original Doy P 900Ml
 80193059,Cuidado Personal,Rexona,Jabon Rexona Antibacterial Aloe 3X90Gr
 80193060,Cuidado Personal,Rexona,Jabon Rexona Antibacterial Orig 3X90Gr
+80193063,"Bebidas, Licores y Tabacos",Mdc,Vino Mdc Crianza Tempr 750Ml
 80193064,Vinos,,Vino Alta Vista Prem Malbec 750Ml
 80193065,Vinos,,Vino Alta Vista Prem Cab.Sauv 750Ml
 80193067,Vinos,,Vino Alta Vista Clas Malbec 750Ml
@@ -3144,6 +3164,10 @@ id,category,brand,name
 80195827,Hogar y Electro,,Adorno Miro Relleno Verde Cl 56Cm 233H
 80195830,Hogar y Electro,,Adorno Miro Relleno Dorado 100Cm 786B
 80195832,Hogar y Electro,,Adorno Miro Relleno Verde Lim 100Cm 786D
+80195931,"Snack, golosinas y galletas",Fini,Pack 3X2 Marshmallows Fini Surt 3X250G
+80195935,Abarrotes,Hindu,Pack 3X2 Te Hindu Negro Chai 3X20Un
+80195953,Abarrotes,Kris,Sv 3X2 Avena Kris 3X400G
+80195966,Abarrotes,Ketal,Sv 3X2 Pure De Tomate Arcor 3X520G
 80195986,Hogar y Electro,,Adorno Miro Ponsetia Ro\/Bco 35Cm 118H
 80196009,Hogar y Electro,,Adorno Miro Spray Nav Be Do 70Cm 355B
 80196010,Hogar y Electro,,Adorno Miro Spray Nav Be Pl 70Cm 355C
@@ -3482,6 +3506,7 @@ id,category,brand,name
 80198779,Productos frescos,Ketal,Lichi  Fresco Por Kilo
 80198780,Cuidado Personal,Nivea,Jabon Nivea Cremoso 3X125Gr
 80198781,Mascotas,Super Mix,Arena P\/Gato Super Mix 7.5Kg
+80198806,Lácteos,Carnation,Sv 3X2 Leche Evap Carnation 3X360G
 80198809,Aseo y Limpieza,Skip,Detergente Pol Skip Escencia Comfort 2Kg                    
 80198810,Aseo y Limpieza,Skip,Detergente Pol Skip Escencia Comf 3.8Kg                     
 80198863,Aseo y Limpieza,Ola,Lavandina Ola Clorito Desinfectante 250M
@@ -3583,6 +3608,7 @@ id,category,brand,name
 80199669,Hogar y Electro,Glory,Bolsa D\/Mujer  Kt3189
 80199670,Hogar y Electro,Glory,Bolsa D\/Mujer  Kt3190
 80199671,Hogar y Electro,Glory,Paraguas   Kt3211
+80199689,"Snack, golosinas y galletas",Fini,Pack 3X2 Regaliz Fini Surtido 3X80G
 80199741,Cuidado Personal,Rocio,Alcohol Spray Desinfectante Rocio  129Gr
 80199759,Hogar y Electro,Ufesa,"Licuadora A Ufesa 1,75L Vid 1200W Bs4799"
 80199760,Hogar y Electro,Ufesa,"Hervidor De A Ufesa 1,7L 2200W Ha7616"
@@ -3743,6 +3769,7 @@ id,category,brand,name
 80200561,"Snack, golosinas y galletas",Breick,Chocolate Breick Calabaza 60Gr
 80200562,"Snack, golosinas y galletas",Breick,Chocolate Breick Calavera 100Gr
 80200616,Refrigerado y Congelado,Osfim,Sv 3X2 Salchicha Osfim Vienissima Sachet
+80200626,"Snack, golosinas y galletas",Noel,Pack 3X2 Galletas Noel Saltin Surt 1100G
 80200634,Aseo y Limpieza,Mr.Flash,Lavandina Mr Flash Liquida 1 L
 80200684,"Bebidas, Licores y Tabacos",Del Valle,Jugo Del Valle Durazno 2 Lt Pet
 80200685,"Bebidas, Licores y Tabacos",Del Valle,Jugo Del Valle Manzana 2 Lt Pet
@@ -4090,6 +4117,7 @@ id,category,brand,name
 80201890,Hogar y Electro,Skyworth,Tv Skyworth 40&#039;&#039; Led Android9.0 40Tb7000
 80201891,Vinos,Aranjuez,Vino Tinto Aranjuez Pionero Bonarda 750M
 80201905,Hogar y Electro,Dimax,Cortapico \/Tomacorriente Dimax 6 Salidas
+80201909,Abarrotes,Lazzaroni,Pack 3X2 Pasta Lazzaroni Corta 3X400G
 80201983,"Bebidas, Licores y Tabacos",Aruba,Jugo Aruba Fruit Punch 3Lt
 80201999,Panadería y Pastelería,Ketal,Pan Ketal Sarnita 10 Un
 80202008,Hogar y Electro,Noritex,Portaretrato 3Pzas 531-26740
@@ -4187,6 +4215,7 @@ id,category,brand,name
 80202303,Mascotas,Ricocan,Comida Perro Ricocan Poll Troc Cach 100G
 80202304,Mascotas,Ricocan,Comida Perro Ricocan Cord Troc Cach 100G
 80202307,Aseo y Limpieza,Bolivar,Detergente Liq. Bolivar Matic 1.9 Lt
+80202317,"Snack, golosinas y galletas",Oreo,Sv 4 Galletas Mini Oreo Clasico 4X40G
 80202319,"Bebidas, Licores y Tabacos",Keep Cooler,Bebida Keep Cooler Durazno 275Ml
 80202320,"Bebidas, Licores y Tabacos",Keep Cooler,Bebida Keep Cooler Frutilla 275Ml
 80202321,"Bebidas, Licores y Tabacos",Keep Cooler,Bebida Keep Cooler Citrus 275Ml
@@ -4401,6 +4430,7 @@ id,category,brand,name
 80203251,Hogar y Electro,Bosch,Refrigerador  Bosch Nofrost  Kag93Aiep
 80203253,Hogar y Electro,Ufesa,"Aspir S\/Cable  Ufesa Mascot 25,9V Ae4625"
 80203255,Hogar y Electro,Ufesa,Tostador Ufesa 2Ranuras 800W Acer Tt7985
+80203257,Hogar y Electro,Ufesa,Bascula Cocina Ufesa 5K Dig Plana Bc1550
 80203258,Hogar y Electro,Ufesa,Bascula Cocina Ufesa 5K Dig Recip Bc1450
 80203259,Hogar y Electro,Ufesa,Tostador De Pan Ufesa 4 Uni 1400W Tt7375
 80203263,"Snack, golosinas y galletas",,Trufas Lindor Corazon Surt 168G
@@ -4426,6 +4456,8 @@ id,category,brand,name
 80203491,Hogar y Electro,Energizer,Pila Energizer Titanio Aax4
 80203492,Hogar y Electro,Energizer,Pila Energizer Eco Advanced Aax4
 80203494,Abarrotes,Irupana,Pack 6 Cereal Barra Irupana Surtido 120G
+80203495,Abarrotes,Lazzaroni,Pack 3X2 Pasta Larga Lazzaroni  400G
+80203570,Abarrotes,Hindu,Pack 3X2 Mate Hindu Jengibre 3X20Un
 80203599,Bebés y Nin@s,Sin Marca,Pack 3 Panuelos Familia Cuidado Gripal 4
 80203600,Bebés y Nin@s,Sin Marca,Pack 3 Servilleta Familia Acholcamax 100
 80203622,Abarrotes,Dani,Trozos De Poton Dani En Su Tinta 106G
@@ -4435,6 +4467,7 @@ id,category,brand,name
 80203715,Refrigerado y Congelado,Sofia,Mortadela  Sofia Jumbo Primavera Kg
 80203722,Hogar y Electro,Philips,Licuadora Philips Malibu 700W  Hr2134\/50
 80203725,Hogar y Electro,Philips,Procesador D\/Alim Philips   Hr7631\/50
+80203744,"Snack, golosinas y galletas",,Chupete Pin Pop Sandia 24Un
 80203745,Abarrotes,Hindu,Te Hindu Cafe Chocolate 20Un
 80203767,Hogar y Electro,Moduart,Biblioteca Nola Walnut 17-192 182Cm X 60Cm X 24Cm
 80203768,Hogar y Electro,Moduart,Biblioteca Nola Walnut  73-192 100Cm X 40Cm X 25Cm
@@ -4446,6 +4479,7 @@ id,category,brand,name
 80203781,Hogar y Electro,Moduart,"Mesa Tv Moduart Entrepano 15198-252 74,5Cm X 120Cm X 110Cm"
 80203788,Bebés y Nin@s,Huggies,Panal Huggies Actsec Pants Xxl 58Und
 80203789,Bebés y Nin@s,Huggies,Panal Huggies Actsec Pants Xl 66Und
+80203803,"Snack, golosinas y galletas",Ducal,Pack 2 Galletas Ducal 2X294G +Atun 170G
 80203808,Abarrotes,Gustoso,Sardinas Gustoso Salsa De Tomate 155G
 80203824,Refrigerado y Congelado,Stege,Hamburguesa Stege Arveja 280 Gr
 80203825,Refrigerado y Congelado,Stege,Hamburguesa Stege Quinoa 281 Gr
@@ -4762,6 +4796,7 @@ id,category,brand,name
 80205689,Lácteos,Extra,Queso Danbo Extra Sancor Kg
 80205690,Lácteos,Extra,Queso Reggianito Extra Sancor Kg
 80205694,Lácteos,Extra,Queso Sardo Extra Lactear Kg
+80205745,Abarrotes,Chocapic,Sv 3X2 Cereal Chocapic Duo 3X400G
 80205792,Aseo y Limpieza,Dishwasher,Sal De Lavavajillas Dishwasher Salt 2Kg
 80205793,Abarrotes,Pasta´N Sauce,Pasta N Sauce Checken &amp; Mushrrom 99Gr
 80205794,Abarrotes,Pasta´N Sauce,Pasta N Sauce Cheese Leek &amp;Ham 99Gr
@@ -4782,6 +4817,7 @@ id,category,brand,name
 80205901,Hogar y Electro,Energizer,Linterna Energizer Eco Led 2D
 80205908,"Bebidas, Licores y Tabacos",Pil,Sv 4 Juguito 150Ml Tetra Clasic
 80205920,"Bebidas, Licores y Tabacos",Huari,Sv6 Cerveza Huari Lata 354Ml
+80206024,"Snack, golosinas y galletas",Maria,Sv 2X1 Galletas Maria Bonita X6 2X210G
 80206197,"Bebidas, Licores y Tabacos",Inca,Sv 3X2 Bicervecina El Inca Lata 354Ml
 80206206,Lácteos,Delizia,Yogurt Proact Def Delizia Miel&amp;Jen 200G
 80206276,Hogar y Electro,,Cesta Plastica 3.50Lt G-649
@@ -4888,6 +4924,8 @@ id,category,brand,name
 80206758,"Snack, golosinas y galletas",Breick,Bombones Breick Menta 190G
 80206759,"Snack, golosinas y galletas",Breick,Bombones Breick Frutilla 190G
 80206760,"Snack, golosinas y galletas",Breick,Bombones Breick Berries 190G
+80206762,"Snack, golosinas y galletas",Isabela,Pack 2 Galletas Isabela  2X400G
+80206765,"Snack, golosinas y galletas",Georgalos,Pack 3X2 Chocolates Georgalos 3X30G
 80206768,"Bebidas, Licores y Tabacos",Mendocina,Gaseosa  Mendocina Limonada 3 Lt
 80206774,"Snack, golosinas y galletas",Para Ti,Chocolate Para Ti Caja Corazones 150G
 80206775,Cuidado Personal,Babaria,Body Milk Babaria Oliva 400Ml
@@ -5032,12 +5070,21 @@ id,category,brand,name
 80207311,"Bebidas, Licores y Tabacos",Cascada,Sv 3X2 Gaseosa Cascada 2Lt Coka Quina
 80207312,"Bebidas, Licores y Tabacos",Cascada,Sv 3X2 Agua Mendocina 1Lt Tonica
 80207313,"Bebidas, Licores y Tabacos",Aloe Vera,Pack 3X2 Jugos Tai Aloe Vera Surt 500Ml
+80207315,"Snack, golosinas y galletas",Nucrem,Pack 3X2 Barra Nucrem Mani 3X70G
+80207319,"Snack, golosinas y galletas",Fini,Pack 3X2 Gomitas Fini Vitaminas 3X18G
+80207321,"Snack, golosinas y galletas",Isabela,Pack 3X2 Galletas Isabela Mousse 3X130G
+80207322,"Snack, golosinas y galletas",Isabela,Pack 3X2 Galletas Isabela Duo 3X140G
+80207323,"Snack, golosinas y galletas",Isabela,Pack 3X2 Galletas Isabela Surt 3X400G
+80207325,Abarrotes,Hindu,Pack 3X2 Te Verde Hindu Pina 3X20Un
 80207326,Panadería y Pastelería,Extra,Pack 4Leches 160G+Flan Churkis  Bakery
 80207335,Panadería y Pastelería,La Francesa,Sv3 Paneton La Francesa Mini Chip 70Gr
 80207336,Panadería y Pastelería,La Francesa,Sv3 Paneton La Francesa Extrafino 70Gr
 80207339,Refrigerado y Congelado,Delizia,Postre Trad. Delizia Achachairu 300Ml
 80207340,Refrigerado y Congelado,Delizia,Postre Trad. Delizia Acai 300Ml
+80207341,"Snack, golosinas y galletas",Visconti,Pack 3X2 Galletas Visconti Varios 3X60G
+80207342,Panadería y Pastelería,Visconti,Pack 3X2 Tostadas Visconti Trad 3X120G
 80207345,"Bebidas, Licores y Tabacos",Juan Diablo,Sv 3X2 Vino Juan Diablo Blanco 700Ml
+80207350,"Snack, golosinas y galletas",Sin Marca,Pack 3X2 Stick Wafer Look Surt 3X55G
 80207351,"Bebidas, Licores y Tabacos",Sin Marca,Pack 3X2 Agua Tonica Fentimans Prem Ind
 80207357,Productos frescos,Frigor,Picanha Frigor Baby Beef Vacio Kg
 80207358,Productos frescos,Frigor,Lomito Frigor Baby Beef Vacio Kg
@@ -5198,6 +5245,8 @@ id,category,brand,name
 80207804,Cuidado Personal,Sin Marca,Panal De Adulto Tena Pants Ultra M 20Un
 80207808,Panadería y Pastelería,El Ceibo,Panettone El Ceibo Trad.Frutas Abr. 750G
 80207815,"Snack, golosinas y galletas",Manitoba,Mani Manitoba Saludable Sin Sal 200Gr
+80207818,"Bebidas, Licores y Tabacos",Casillero Diablo,Vino Cas Del Diablo Red Blend  750Ml
+80207819,"Bebidas, Licores y Tabacos",,Vino Chakana Atorrante  Malbec 750Ml
 80207828,Panadería y Pastelería,Arco Iris,Paneton Arco Iris Italiano 750Gr
 80207829,Panadería y Pastelería,Arco Iris,Paneton Arco Iris Chocolate 750Gr
 80207830,Panadería y Pastelería,Arco Iris,Paneton Arco Iris Stollen  950Gr
@@ -5252,6 +5301,7 @@ id,category,brand,name
 80208025,Refrigerado y Congelado,Fish Burger,Hamburguesa Fish Burger Pacu 420Gr
 80208027,Bebés y Nin@s,Huggies,Panal Huggies Natcare Pants Xg X48
 80208028,Bebés y Nin@s,Huggies,Panal Huggies Natcare Pants Xxg X48
+80208035,"Bebidas, Licores y Tabacos",,Vino Chakana Maipe Cab.Sauvignon 750Ml
 80208045,Refrigerado y Congelado,Gogreen,Waffles Gogreen Cong. Vainilla 492G
 80208046,Refrigerado y Congelado,Gogreen,Waffles Gogreen Chocloqueso Cong 500G
 80208047,Refrigerado y Congelado,Gogreen,Waffles Gogreen Arandano Cong. 500G
@@ -5311,9 +5361,11 @@ id,category,brand,name
 80208172,Hogar y Electro,,Luces De Navidad Zy400C
 80208173,Hogar y Electro,,Luces De Navidad Zy70200-M
 80208174,Hogar y Electro,,Luces De Navidad Lu10450Led-B
+80208369,"Snack, golosinas y galletas",Baure,Chocolate Baure Leche 70G
 80208389,Abarrotes,Kris Choco Explosion,Sv 2X1 Cereal Choco Explosion Bolsa 750G
 80208390,Abarrotes,Kris,Sv 2X1 Gelatina Kris Frambuesa 1Kg
 80208391,Abarrotes,Kris,Sv 2X1 Maicena Kris Caja 800G
+80208394,Abarrotes,Irupana,Pack 2X1 Nutribarra Irupana Surt 24X20G
 80208396,Abarrotes,El Pescador,Sv 2X1 Jurel El Pescador Salsa Tom 2X425
 80208397,Hogar y Electro,,Televisor 55 Com De Voz Skyworth 32Gb
 80208398,Hogar y Electro,,"Barra De Sonido, Usb, 40W. Skyworth"
