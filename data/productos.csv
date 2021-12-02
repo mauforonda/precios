@@ -37,6 +37,7 @@ id,category,brand,name
 4010082,Abarrotes,Guabira,Azucar Guabira Extra Fina 5Kg
 4010083,Abarrotes,Guabira,Azucar Guabira Morena 1 Kg
 4030077,Abarrotes,Irupana,Azucar Irupana 2Kg Morena
+4030079,Abarrotes,Irupana,Azucar Irupana 1Kg Morena
 5010110,"Bebidas, Licores y Tabacos",Paceña,Cerveza Pacena Centenario Bot 350Ml
 5010112,"Bebidas, Licores y Tabacos",Paceña,Cerveza Pacena Lata 354 Ml.
 5010121,"Bebidas, Licores y Tabacos",Paceña,Cerveza Pacena Pilsener Pico Plat 300 Ml
@@ -101,6 +102,8 @@ id,category,brand,name
 5022906,Vinos,,Vino C. De Solana Oporto 700Ml
 5022910,Vinos,,Vino C. De Solana Cab.Sauv. Merlot 750Ml
 5023101,"Bebidas, Licores y Tabacos",,Sidra Cereser Frutilla 660Ml
+5023102,"Bebidas, Licores y Tabacos",Cereser,Sidra Cereser Durazno 660Ml
+5023105,"Bebidas, Licores y Tabacos",Cereser,Sidra Cereser Manzana 660Ml
 5023181,Vinos,Norton,Vino Norton Roble Cab.Sauvignon 750Ml
 5023185,Vinos,Norton,Vino Norton Malbec Doc 750Ml
 5023187,Vinos,,Vino  Norton Cosecha Tardia Bladul 750Ml
@@ -115,6 +118,7 @@ id,category,brand,name
 5023329,Vinos,Montes,Vino Montes Folly Syrah 750Ml
 5023331,Vinos,Montes,Vino Montes Alpha Cabernet Sauv 375Ml
 5023332,"Bebidas, Licores y Tabacos",Montes,Vino Montes Purple Angel 750Ml
+5027561,"Bebidas, Licores y Tabacos",Cereser,Sidra Cereser Uva 660Ml
 5027705,Vinos,,Vino Trapiche Fca. Reserva Malbec 750Ml
 5027710,Vinos,Trapiche,Vino Trapiche Varietal Malbec 750Ml
 5027716,Vinos,Trapiche,Vino Trapiche Astica Sauvig Blan 750Ml
@@ -210,6 +214,7 @@ id,category,brand,name
 10050258,Productos frescos,Santa Rosa,Pavo Santa Rosa Kg Entero
 10070001,Refrigerado y Congelado,Stege,Albondigas Stege Unidad Albondigas
 11030096,Abarrotes,Kelloggs,Cereal Kelloggs Corn Flakes  500Gr
+11030100,Abarrotes,Kelloggs,Cereal Kelloggs Corn Flakes 200Gr
 11030126,Abarrotes,Nestle,Cereal Nestle Corn Flakes 500Gr
 11030143,Abarrotes,Nestle,Cereal Nestle Trix 480Gr
 11030205,Abarrotes,Kelloggs,Muesli Kelloggs Manzana 300G
@@ -229,10 +234,12 @@ id,category,brand,name
 12010782,"Snack, golosinas y galletas",Charge,Chocolate Charge 40Gr
 12010910,"Snack, golosinas y galletas",Snickers,Chocolate Snickers Barra 58.7Gr
 12010919,"Snack, golosinas y galletas",Snickers,Chocolate Snickers Almond Barra 49.9Gr
+12011044,"Snack, golosinas y galletas",Toblerone,Chocolate Toblerone Leche 100G
 12011770,"Snack, golosinas y galletas",El Ceibo,Chocolate El Ceibo Pasas 100Gr
 12011771,"Snack, golosinas y galletas",El Ceibo,Chocolate El Ceibo Leche 100Gr
 12011774,Abarrotes,El Ceibo,Chocolate El Ceibo Submarino 200Gr
 12011777,"Snack, golosinas y galletas",,Chocolate El Ceibo Mani 100Gr
+12020049,"Snack, golosinas y galletas",,Bombones Bon O Bon Leche 288Gr
 12020060,"Snack, golosinas y galletas",Vizzio,Chocolate Costa Vizzio Estuche 131Gr
 12020337,"Snack, golosinas y galletas",Breick,Chocolate Breick Caja Menta 218Gr
 12020363,"Snack, golosinas y galletas",Breick,Bombones Breick Selectos 130G
@@ -344,6 +351,7 @@ id,category,brand,name
 19020441,"Snack, golosinas y galletas",Soproma,Ciruelas Soproma Grandes 300Gr
 19040091,"Snack, golosinas y galletas",Soproma,Almendra Soproma Espanola 280Gr
 19040421,"Snack, golosinas y galletas",,Nueces Titos Peladas 100G
+20010041,"Snack, golosinas y galletas",Arcor,Galletas Serranitas X3 315G
 20010050,"Snack, golosinas y galletas",La Francesa,Galleta La Francesa Pancrek 180Gr
 20010056,"Snack, golosinas y galletas",La Francesa,Galleta  La Francesa Pancrek 1 Kg
 20010072,"Snack, golosinas y galletas",Ferrari,Galletas Ferrari Crackers 200G
@@ -399,12 +407,18 @@ id,category,brand,name
 23030009,"Snack, golosinas y galletas",Arcor,Budin Arcor Con Frutas 230G
 23030010,Panadería y Pastelería,Arcor,Pan Dulce Arcor C\/Frutas 500Gr
 23030018,"Snack, golosinas y galletas",Arcor,Budin Arcor Chocolate 215G
+23030142,Panadería y Pastelería,San Gabriel,Paneton San Gabriel 750Gr Lujo Caja
+23030143,Panadería y Pastelería,San Gabriel,Paneton San Gabriel 750Gr Delich
+23030245,Panadería y Pastelería,La Francesa,Paneton La Francesa Extra Fino 70Gr
 23030247,Panadería y Pastelería,La Francesa,Paneton La Francesa Chips C\/Choco 560 Gr
 23030280,Panadería y Pastelería,La Francesa,Paneton La Francesa Extra Fino 750Gr
 23030951,Panadería y Pastelería,Arcor,Pan Dulce Arcor Madril C\/Choco 500Gr
 23031008,Panadería y Pastelería,Leo Nothmann,Galleta Leo Nothmann Mantequilla
+23031253,Panadería y Pastelería,Bauducco,Mini Paneton Bauducco  100Gr
 23031450,Panadería y Pastelería,Donofrio,Paneton Donofrio Caja 900 Gr
 23031500,Panadería y Pastelería,Alexander Coffee,Galleta Alexander Cookie Choco Chip
+23031510,Panadería y Pastelería,Alexander,Paneton Alexander Bolsa
+23031594,Panadería y Pastelería,Alexander,Paneton Alexander Caja
 23035081,Panadería y Pastelería,Donofrio,Paneton Donofrio Chocotone 500Gr
 24030169,Bebés y Nin@s,Cerelac,Cereal Cerelac 5 Cereales 400G
 24030341,Abarrotes,Ecco,Café Ecco Cebada 170GR
@@ -516,6 +530,7 @@ id,category,brand,name
 28030709,Panadería y Pastelería,Leo Nothmann,Pan Integral Leo Nothmann Molde
 28030725,Panadería y Pastelería,Leo Nothmann,Pan Integral Leo Nothmann Vollkornbrot
 28030908,Panadería y Pastelería,Leo Nothmann,Pan Leo Nothmann Molde Blanco 700Gr
+29010352,Abarrotes,Real,Atun Real Lomito Aceite 185Gr
 29010353,Abarrotes,Real,Atun Real Lomito Agua 185Gr
 29011974,Abarrotes,Van Camps,Atun Van Camps Lomitos En Aceite 354Gr
 29011976,Abarrotes,Van Camps,Atun Van Camps Lomitos Agua Dieta 354Gr
@@ -714,6 +729,7 @@ id,category,brand,name
 34020581,"Snack, golosinas y galletas",Irupana,Pipoca Irupana 155Gr Dquinua Cmiel
 35012442,Mascotas,Dog Chow,Comida Dog Chow Adulto Rz Med\/Gra 3Kg
 35012451,Mascotas,Dog Chow,Comida Dog Chow Adulto Raza Peq 3Kg
+36010989,Bebés y Nin@s,Mattel,Autos Mattel  Hot Weels 5Gift St
 36110410,Bebés y Nin@s,Mattel,Auto Mattel Surtido Hotwheels C4982
 37010139,Aseo y Limpieza,Glade,Ambientador Glade Campos De Jazmi 360Ml
 37010140,Aseo y Limpieza,Glade,Ambientador Glade Caricias Algodon 360Ml
@@ -753,8 +769,18 @@ id,category,brand,name
 38016672,Bebés y Nin@s,Ballerina,Shampoo Ballerina Baby Doy Pack 900Ml
 38016675,Cuidado Personal,Ballerina,Shampoo Ballerina Manzanilla Dp 900Ml
 38022708,Cuidado Personal,Fixer,Gel Fixer Incoloro 200Gr
+38030340,Cuidado Personal,Excellence,Tinte Excellence Negro 1
 38030347,Cuidado Personal,Excellence,Tinte Excellence Castano 4
 38030355,Cuidado Personal,Excellence,Tinte Excellence Castano Claro 5
+38030360,Cuidado Personal,Excellence,Tinte Excellence Castano Ceniza 5 1
+38030363,Cuidado Personal,Excellence,Tinte Excellence Chocolate 6 34
+38030365,Cuidado Personal,Excellence,Tinte Excellence Rubio Oscuro 6
+38030367,Cuidado Personal,Excellence,Tinte Excellence Rubio Oscur Ceniza 6 1
+38030373,Cuidado Personal,Excellence,Tinte Excellence Rubio 7
+38030375,Cuidado Personal,Excellence,Tinte Excellence Rubio Ceniza 7 1
+38030379,Cuidado Personal,Excellence,Tinte Excellence Rubio C Frofundo 7 11
+38030394,Cuidado Personal,Excellence,Tinte Excellence Rubio C Ceniza 8 1
+38030413,Cuidado Personal,Excellence,Tinte Excellence Castano C Dorado 5 3
 39010492,Cuidado Personal,Colgate,Pasta Dental Colgate Maxima Protec 180Gr
 39010495,Cuidado Personal,Colgate,Pasta Dental Colgate Maxf Mint Burs 75Ml
 39020388,Cuidado Personal,Listerine,Enjuague Bucal Listerine Freshbrst 500Ml
@@ -776,12 +802,14 @@ id,category,brand,name
 40050154,Cuidado Personal,Gillette,Afeitadora Gillette Mach3 4 Pzas
 40050168,Cuidado Personal,Gillette,Afeitadora Gillette Mach3 Turbo 4 Pzas
 40070309,Cuidado Personal,Axe,Deo Axe Musk Body Spray H 150Ml
+40072420,Cuidado Personal,Nivea,Deo Nivea Dry Azul Roll On H 50Ml
 40072430,Cuidado Personal,Nivea,Deo Nivea Dry Blanco Spray M 150Ml
 40072432,Cuidado Personal,Nivea,Deo Nivea Dry Azul Spray H 150Ml
 40072443,Cuidado Personal,Nivea,Deo Nivea Aqua Cool Spray H 150Ml
 40072448,Cuidado Personal,Nivea,Deo Nivea Pearl Beauty Spray M 150Ml
 40072449,Cuidado Personal,Nivea,Deo Nivea Pearl Beauty Roll On M 50Ml
 40073674,Cuidado Personal,Dove,Deo Dove Original Spray M 89Gr
+40092758,Cuidado Personal,Nivea,Toalla Facial Nivea Visage Seca\/Sen 25Un
 41010985,Cuidado Personal,Nosotras,Toalla Fem Nosotras Buenas Noches 10Un
 41010987,Cuidado Personal,Nosotras,Toalla Fem Nosotras Ultrainv Rap
 41010994,Cuidado Personal,Nosotras,Toalla Fem Nosotras Nat Inv Clasica 10Un
@@ -896,6 +924,7 @@ id,category,brand,name
 71012100,Lácteos,Pil,Yogurt Pil 750Gr Durazno Vaso
 71012101,Lácteos,Pil,Yogurt Pil 750Gr Coco Vaso
 71012254,Panadería y Pastelería,La Francesa,Paneton La Francesa Economico 400Gr
+71012313,Bebés y Nin@s,Hasbro,Plastilina Hasbro Playdoh Picnic
 71012359,"Snack, golosinas y galletas",El Ceibo,Chocolate El Ceibo Caja Intenso 216Gr
 71012446,Abarrotes,Sao,Aceite Sao 4.5L
 71012455,Abarrotes,Windsor,Te Windsor Pina 50Un
@@ -960,9 +989,11 @@ id,category,brand,name
 71018865,Panadería y Pastelería,Leo Nothmann,Paneton Leo Nothmann Chocolate 700Gr
 71018869,Panadería y Pastelería,La Francesa,Paneton La Francesa Extra Especia 860Gr
 71018870,Panadería y Pastelería,La Francesa,Paneton La Francesa Aniversario Lata 1Kg
+71018873,Panadería y Pastelería,La Francesa,Paneton La Francesa Mini Magic 70Gr
 71018879,"Snack, golosinas y galletas",La Francesa,Galleta La Francesa Salvado Natural 1Kg
 71019073,Productos frescos,Mc Cain,Papas Mccain 720 Gr Prefritas Cort\/Trad
 71019085,Vinos,Nieto Senetiner,Vino Nieto Senet Benjamin Malbec 750Ml
+71019142,"Bebidas, Licores y Tabacos",Smirnoff,Vodka Smirnoff Etiq Roja 1Lt
 71019172,Cuidado Personal,Confort,Papel Hig Confort Morado Dh 50Mts 12Un
 71019978,"Bebidas, Licores y Tabacos",Jack Daniels,Whisky Jack Daniels  1Lt
 71019980,Panadería y Pastelería,Donofrio,Paneton Donofrio Lata 900 Gr
@@ -988,6 +1019,7 @@ id,category,brand,name
 71022181,Aseo y Limpieza,Vanish,Quitaman Vanish Poder O2 Pote 450Gr
 71022188,Bebés y Nin@s,Johnson & Johnson,Shampoo Johnson &amp; Johnson Clasico 400Ml
 71022517,Cuidado Personal,Aval,Sanitizador Aval Amazon Fco 380Ml
+71022518,Cuidado Personal,Aval,Sanitizador Aval Ocean Fco 380Ml
 71022543,Bebés y Nin@s,Pequenin,Toalla Hum Pequenin Orig Doyp Amar 50Un
 71022544,Bebés y Nin@s,Pequenin,Toalla Hum Pequenin Aloe Doyp Verde 50Un
 71022545,Bebés y Nin@s,Pequenin,Toalla Hum Pequenin Aloe Verde 100Un
@@ -1027,6 +1059,7 @@ id,category,brand,name
 71025793,Hogar y Electro,Tramontina,Molde Tramon Brasil Redon 35Cm 20058\/035
 71025941,Productos frescos,,Papa Roja Altiplano Por Kilo
 71025942,Productos frescos,,Papa Negra Altiplano Por Kilo
+71025951,Abarrotes,Del Valle,Mermelada Del Valle Frutilla 460G
 71025952,Abarrotes,Del Valle,Mermelada Del Valle Guinda 460G
 71025953,Abarrotes,Del Valle,Mermelada Del Valle Maracuya 460G
 71026011,Abarrotes,Colavita,Pasta Colavita Capellinni 500G
@@ -1043,11 +1076,14 @@ id,category,brand,name
 71026979,Productos frescos,Fruver,Palta Dedo Por Kilo
 71027054,Abarrotes,Kris,Mayonesa Kris Doypack 230Gr
 71027253,"Snack, golosinas y galletas",Quality Street,Chocolate Quality Street Tin 240Gr
+71027254,"Snack, golosinas y galletas",Quality Street,Chocolate Quality Street Tin 480Gr
 71027437,Lácteos,San Javier,Queso San Javier Criollo Por Kilo
 71027443,Panadería y Pastelería,Leo Nothmann,Pan Integral Leo Nothmann Avena
 71027735,"Snack, golosinas y galletas",El Ceibo,Chocolate El Ceibo Blanco 100Gr
 71027800,Vinos,Norton,Vino Norton Perdriel Terruno Cabsau 750M
+71027902,"Bebidas, Licores y Tabacos",Johnnie Walker,Whisky J. Walker Etiq Dorada 750Ml
 71027904,"Bebidas, Licores y Tabacos",Sandy Mac,Whisky Sandy Mac 8 Anos 1Lt
+71027972,Cuidado Personal,Excellence,Tinte Excellence Castano Clar Caoba 5 5
 71028062,Abarrotes,Aurora,Harina De Trigo Aurora Leudante 1Kg
 71028254,Refrigerado y Congelado,Pil,Gelatina Pil Yeli Frutilla  110Gr
 71028255,Refrigerado y Congelado,Pil,Gelatina Pil Yeli Naranja 120 Gr
@@ -1078,6 +1114,7 @@ id,category,brand,name
 71034855,Lácteos,Pil,Leche  Pil Deslactosada Uht 800Ml
 71034860,Hogar y Electro,Sm,Carbon Sm Papel Madera 5Gr
 71035129,Panadería y Pastelería,La Francesa,Paneton La Francesa Marmolado 750Gr
+71035899,Panadería y Pastelería,Bauducco,Paneton Bauducco Lata 750Gr
 71037429,Refrigerado y Congelado,Sofia,Pollo Sofia Relleno En Caja Por Unid
 71037493,Refrigerado y Congelado,Sofia,Pate Sofia De Higado Dpollo 240 Gr
 71037495,Refrigerado y Congelado,Sofia,Pate Sofia De Higado D Cerdo 240 Gr
@@ -1101,6 +1138,7 @@ id,category,brand,name
 80002819,"Bebidas, Licores y Tabacos",Sin Marca,Whisky Bacardi William Law Malta 1000Ml
 80002844,Cuidado Personal,Gillette,Afeitadora Gillette Prestoborba3 Exc2
 80002847,Cuidado Personal,Gillette,Afeitadora Gillette Prestoborba3 Muj4P
+80002921,Bebés y Nin@s,Hasbro,Juguete Pet Shop Con Accesorios
 80002979,Refrigerado y Congelado,Delizia,Helado Delizia Tentacion Frambuesa
 80003872,"Bebidas, Licores y Tabacos",Powerade,Hidratante Powerade Mora Azul 473Ml
 80003874,"Bebidas, Licores y Tabacos",Powerade,Hidratante Powerade Multi Fruta 473Ml
@@ -1229,6 +1267,7 @@ id,category,brand,name
 80134560,Abarrotes,Chawei,Salsa Soya Chawei 1Lt
 80134599,Cuidado Personal,Nivea,Deo Nivea Inv B&amp;N Clear Spray M 150Ml
 80134601,Cuidado Personal,Nivea,Deo Nivea Inv B&amp;N Power Roll On H 50Ml
+80134602,Cuidado Personal,Nivea,Deo Nivea Inv B&amp;N Clear Roll On M 50Ml
 80134792,"Snack, golosinas y galletas",Doritos,Doritos Queso  200Gr
 80135162,Bebés y Nin@s,Johnson & Johnson,Toallas Hum Johnson Skinc Doyp Rosa 48Un
 80135329,Refrigerado y Congelado,Sofia,Hamburguesa Sofia 83 Res Clasica S 2Un
@@ -1345,6 +1384,7 @@ id,category,brand,name
 80143721,BlackWeek,Maybelline,Base Maybelline Pure Beige Fit235 30Ml
 80143940,"Bebidas, Licores y Tabacos",Real,Cerveza Real Pilsener Lata 350Ml
 80144198,Cuidado Personal,Clear,Shampo Clear Men 2En1 Dual Effect 400Ml
+80144233,Bebés y Nin@s,Barbie,Muneca Barbie 2 Hermanas 3284
 80144253,Cuidado Personal,Casting,Crema Col Casting Gloss 300 Castano Oscu
 80144337,Hogar y Electro,Energizer,Pila Recargable Energizer Aa2
 80144340,Hogar y Electro,Energizer,Pila Energizer Lithio Aax2 1.5V
@@ -1391,6 +1431,7 @@ id,category,brand,name
 80146980,"Bebidas, Licores y Tabacos",,Vino Espumante Altosama Demi Sec 750Ml
 80146981,"Bebidas, Licores y Tabacos",,Vino Espumante Altosama Rose 750Ml
 80146993,Cuidado Personal,Scott,Papel Hig Scott Control 2Un
+80147115,Panadería y Pastelería,Alexander,Paneton Alexander Choco Chips
 80147208,"Snack, golosinas y galletas",La Francesa,Galleta La Francesa Pancrek 500Gr
 80147239,"Snack, golosinas y galletas",Colombina,Galletas Colombina Nav Arbolito 252G
 80147242,Hogar y Electro,,Corona Miro Nav 40Cm Vi-017
@@ -1436,10 +1477,16 @@ id,category,brand,name
 80149834,Abarrotes,Pil,Durazno Pil En Almibar 820Gr
 80150009,Lácteos,Ayo Ayo,Queso Ayo Ayo Criollo 500Gr
 80150029,Lácteos,Yogu Yogu,Bebida Lactea Yogu Yogu Chirimoya 200Ml
+80150035,"Bebidas, Licores y Tabacos",Cereser,Sidra Cereser Frutas Del Bosque 660Ml
+80150036,"Bebidas, Licores y Tabacos",Cereser,Sidra Cereser Manzana S\/Alcohol 660Ml
+80150039,"Bebidas, Licores y Tabacos",Cereser,Sidra Cereser Frutilla S\/Alcohol 660Ml
+80150040,"Bebidas, Licores y Tabacos",Cereser,Sidra Cereser Durazno S\/Alcohol 660Ml
+80150042,"Bebidas, Licores y Tabacos",Cereser,Sidra Cereser Frutas S\/Alcohol 660Ml
 80150050,Bebés y Nin@s,Colgate,Cepillo Dental Colgate Lum\/White Med 2X1
 80150051,Cuidado Personal,Colgate,Enjuague Bucal Colgate Lum\/White 250Ml
 80150061,"Bebidas, Licores y Tabacos",Camel,Cigarrillo Camel Activate Freshness 20Un
 80150082,Aseo y Limpieza,Cif,Limpiador Cif Crema Limon 750Gr
+80150140,Bebés y Nin@s,Clementoni,Muneca Clementoni Didac Minnie Cl65347
 80150185,Productos frescos,Sofia,Matambre Sofia De Cerdo En Bandeja Kg
 80150254,Cuidado Personal,Gillette,Afeitadora Gillette Prestobar3 Ice 2Un
 80150401,Lácteos,,Queso Flor De Leche Florandino 250Gr
@@ -1460,6 +1507,7 @@ id,category,brand,name
 80151244,Aseo y Limpieza,Ola,Detergente Ola Cuidado Total 2 Kg
 80151249,Refrigerado y Congelado,Sofia,Salchicha Sofia De Res Kg
 80151251,Refrigerado y Congelado,Sofia,Mini Salchicha Sofia De Res Vacio 20Un
+80151523,Bebés y Nin@s,Mattel,Jgo D\/Mesa Mattel Cartas Uno Tlw2085
 80151561,Cuidado Personal,Gillette,Afeitadora Gillette Venus Sensitive 2Un
 80151651,"Snack, golosinas y galletas",Arcor,Galleta Hogarena Salvado X 3Un 600Gr
 80151705,Abarrotes,Alpen,Cereal Bar Alpen Fruit&amp;Nut 5Un
@@ -1505,6 +1553,7 @@ id,category,brand,name
 80152267,Cuidado Personal,Remington,Afeitadora Elec Reming Pivot&amp;Flex Pr1235
 80152288,Lácteos,Regia,Margarina Regia Tapper 410 Gr
 80152318,Refrigerado y Congelado,Sofia,Jamon Sofia Pavo En Barra  X Kilo
+80152385,Bebés y Nin@s,Mattel,Muneca Mattel Barbie Zapat Mag Tlx8810
 80152411,Productos frescos,,Mora Por Kilo
 80152464,Vinos,,Vino Frontera Merlot 750Ml
 80152480,Cuidado Personal,Stives,Crema St. Ives Avena Y Karite 400Ml
@@ -1549,6 +1598,10 @@ id,category,brand,name
 80153191,"Bebidas, Licores y Tabacos",Pil,Te Helado Pil Refresca T Limo&amp;Cane 2Lt
 80153194,Productos frescos,,Champinon Damush Blanco De Paris 250Gr
 80153195,Productos frescos,,Champinon Damush Portobellos 250Gr
+80153477,Aseo y Limpieza,Scott,Papel Toalla Scott Duramax 3D 2Un
+80153499,Bebés y Nin@s,Golberger,Muneca Golberger Canta Y Aprende Gb82118
+80153548,Bebés y Nin@s,Golberger,Muneca Golberger Risas Y Besitos Gb21280
+80153549,Bebés y Nin@s,Golberger,Muneca Golberger Molly Maners Gb31390
 80153555,Abarrotes,Pil,Mermelada Pil Durazno 454Gr
 80153557,Abarrotes,Pil,Mermelada Pil Durazno 720Gr
 80153592,"Snack, golosinas y galletas",,Nachos Dona Susy De Maiz 300Gr
@@ -1660,6 +1713,7 @@ id,category,brand,name
 80157440,Mascotas,Gati,Comida Gati Pollo Con Vegetales 1Kg
 80157441,Mascotas,Gati,Comida Gati Carne Con Cereales 1Kg
 80157453,Panadería y Pastelería,Criss,Pan Integral Pan Cris 10Un
+80157538,Bebés y Nin@s,Mattel,Llaves Mattel Bb Educativas Tl71084
 80157548,Aseo y Limpieza,Asatex,Guante Asatex Cl Grueso Naranja T\/S
 80157550,Aseo y Limpieza,Belen,Bolsa Belen Blanca 100Un
 80157551,Aseo y Limpieza,Belen,Bolsa Belen Negra 50Un
@@ -1707,6 +1761,7 @@ id,category,brand,name
 80158267,Productos frescos,,Champinon Damush Laminados 250Gr
 80158269,,,Vino Aranjuez Chardonay Sauvignon 750Ml
 80158290,Cuidado Personal,Lux,Jabon Lux Tripack Jazmin 3X125Gr
+80158602,Aseo y Limpieza,Bistro,Bandeja Bistro Alumini 45X34X75Cm Af4558
 80158632,Cuidado Personal,,Jabon Asepxia Exofoliante 100Gr
 80158651,Cuidado Personal,Tio Nacho,Shampoo Tio Nacho Aclaran.Manzanil 415Ml
 80158652,Cuidado Personal,Tio Nacho,Shampoo Tio Nacho Caid Ant.Ed\/Jale 415Ml
@@ -1732,6 +1787,7 @@ id,category,brand,name
 80160482,"Snack, golosinas y galletas",La Estrella,Pipocas La Estrella Familiar 220Gr
 80160484,Panadería y Pastelería,La Suprema,Paneton La Suprema Chocolate Caja
 80160486,Panadería y Pastelería,Leo Nothmann,Paneton Leo Nothmann Stollen 700Gr
+80160825,Bebés y Nin@s,Hasbro,Muneco Hasbro Spider Strike Haa5700 14
 80160996,Hogar y Electro,Tramontina,Caldera Tramon Paris 1.9Lt 20550619
 80161008,Hogar y Electro,Ufesa,Licuadora Ufesa C\/2 Jarras Bs1000
 80161131,Abarrotes,Brixy,Chucrut Brixy Fermentado Natural 370Gr
@@ -1839,7 +1895,9 @@ id,category,brand,name
 80166797,Hogar y Electro,Kennedy Home Collection,Molde Kennedy P\/Horno 24X24X7Cm 28201
 80166848,Cuidado Personal,Ballerina,Shampoo Ballerina Manzanilla 750Ml
 80166852,Cuidado Personal,Ballerina,Shampoo Ballerina Baby Hipoalergen 750Ml
+80166866,Bebés y Nin@s,Pampers,Panal Pampers Super Pack S3 M 104Un
 80166867,Bebés y Nin@s,Pampers,Panal Pampers Super Pack S4 G 92Un
+80166868,Bebés y Nin@s,Pampers,Panal Pampers Super Pack S5 Xg 78Un
 80166943,Cuidado Personal,Liz,Jabon Liz Suavidad De Algodon 360Ml
 80166944,Cuidado Personal,Liz,Jabon Liz Seduccion Floral 360Ml
 80166946,Cuidado Personal,Liz,Jabon Liz Tentacion Cremosa 360Ml
@@ -1865,6 +1923,8 @@ id,category,brand,name
 80167412,Bebés y Nin@s,,Pijama Jacks Nina Dif.T 2Pza 80042302
 80167428,Bebés y Nin@s,,Pijama Bungee Dif Talla 2Pza 80041802
 80167436,Bebés y Nin@s,,Polera Bungee Nina Dif.T  2030106301
+80167467,Panadería y Pastelería,Bauducco,Paneton Bauducco Tradicional 400Gr
+80167468,Panadería y Pastelería,Bauducco,Paneton Bauducco Chocoton 400Gr
 80167523,Refrigerado y Congelado,Extra,Chorizo Extra Precocido 350Gr
 80167603,Aseo y Limpieza,Ola,Ambientador Ola Manzana Verde Aer 300Ml
 80167605,Aseo y Limpieza,Ola,Ambientador Ola Marina Aer 300Ml
@@ -1881,6 +1941,7 @@ id,category,brand,name
 80167785,Cuidado Personal,Opus,Toa Desmaqui Opus Z33 Control Brill 25Un
 80167786,Cuidado Personal,Elvive,Shampoo Elvive Oleo Extraor Intens 400Ml
 80167788,Cuidado Personal,Elvive,Shampoo Elvive Oleo Extraordinario 400Ml
+80167797,"Snack, golosinas y galletas",La Francesa,Galletas La Francesa Nav Surt Jojoj 250G
 80167818,Refrigerado y Congelado,Extra,Jamon Extra Ahumado Vacio 200Gr
 80167819,Refrigerado y Congelado,Extra,Jamon Extra Pollo Vacio 200Gr
 80167821,Refrigerado y Congelado,Extra,Mortadela Extra Primav Pollo Vacio 150Gr
@@ -1891,6 +1952,7 @@ id,category,brand,name
 80167837,"Snack, golosinas y galletas",La Francesa,Galletas S\/G Qkies Chip Choc 198Gr
 80167980,Vinos,,Vino Vinas De Balbo Clasico 1.125Lt
 80167982,Cuidado Personal,Nosotras,Toalla Nosotras Nat Inv Clas Aseg 30Un
+80167983,Cuidado Personal,Nosotras,Toalla Nosotras Invisible Rapig Aseg 30U
 80167984,Cuidado Personal,Nosotras,Toalla Nosotras Nat Buenas Noches 24Un
 80168047,"Snack, golosinas y galletas",El Ceibo,Chocolate El Ceibo Tableta Te Amo 80Gr
 80168131,Abarrotes,Aconcagua,Durazno Aconcagua Mitades 820Gr
@@ -1994,6 +2056,7 @@ id,category,brand,name
 80172093,Bebés y Nin@s,Johnson & Johnson,Shampoo Johnsons Gotas De Brillo 200Ml
 80172094,Bebés y Nin@s,Johnson & Johnson,Spray Johnsons Gotas De Brillo 200Ml
 80172095,Bebés y Nin@s,Johnson & Johnson,Acond Johnsons Gotas De Brillo 200Ml
+80172109,Abarrotes,Matarazzo,Pasta Matarazzo Spaghetti 400G
 80172115,Hogar y Electro,Moduart,Librero Moduart Supra 14021-04 122Cm X 60Cm X 25Cm
 80172120,Hogar y Electro,Moduart,Mesa P\/Tv Moduart Wengue 15180-0 70Cm X  130Cm X 37Cm
 80172480,"Snack, golosinas y galletas",Manitoba,Pack 3X2 Pistachos Manitoba 3X85G
@@ -2109,6 +2172,7 @@ id,category,brand,name
 80174886,BlackWeek,Maybelline,Mascara Maybelline Falsies Push Ap Wp 9.
 80174992,Lácteos,Delizia,Leche Delizia Deslactosada Uht 800Ml
 80175062,Abarrotes,Maggi,Crema Maggi Hongos 65Gr
+80175078,Bebés y Nin@s,Sin Marca,Jgte Zeconds Dardos 2P Stk846-127
 80175162,Abarrotes,Don Vitorio,Pasta Don Vittorio Spaghetti 1Kg
 80175163,Abarrotes,Don Vitorio,Pasta Don Vittorio Linguini Grosso 1Kg
 80175254,Abarrotes,Buena Vista,Cafe Buena Vista A Toda Hora 500Gr
@@ -2143,6 +2207,7 @@ id,category,brand,name
 80176233,Lácteos,Pil,Pilfrut Pil Frutilla Bolsa 200Ml
 80176321,Hogar y Electro,Oster,Cafetera Oster Expreso Bvstem4188
 80176339,Cuidado Personal,Kotex,Toalla Kotex Normal 10 Un
+80176377,Bebés y Nin@s,Clementoni,Pelota Clementoni Bebe Mickey Cl
 80176442,Cuidado Personal,Nosotras,Diarios Nosotras Deo 150Un
 80176443,"Bebidas, Licores y Tabacos",Vital,Agua Vital S\/G 6. Lt
 80176474,Aseo y Limpieza,Bistro,Molde Bistro D\/Aluminio  22747
@@ -2220,12 +2285,14 @@ id,category,brand,name
 80178280,Bebés y Nin@s,Tramontina,Jgo Tramontina Infantil 2Un 99\/193
 80178281,Bebés y Nin@s,Tramontina,Jgo Tramontina Infantil 3Un 9\/191
 80178284,Bebés y Nin@s,Tramontina,Jgo Tramontina Infantil 2Un 99\/495
+80178316,"Snack, golosinas y galletas",Donofrio,Sv 4 Chocolate Donofrio Triangulo 32G
 80178348,"Bebidas, Licores y Tabacos",Quinut,Jugo Quinut Manzana Con Quinua 300Ml
 80178352,Productos frescos,Fruver,Apio Por Amarro
 80178372,Productos frescos,Fruver,Mango Por Unidad
 80178420,"Snack, golosinas y galletas",Ula Ula,Galletas Ula Ula Chocolate Coco 300G
 80178421,"Snack, golosinas y galletas",Ula Ula,Galletas Ula Ula Coco 300G
 80178425,"Snack, golosinas y galletas",Infinitas,Galletas Infinitas Pack 300G
+80178506,Bebés y Nin@s,Fisher Price,Torre Fisher Price Animales  2002
 80178697,Cuidado Personal,Bamboo,Papel Higiénico Bamboo 2 Hojas 6Un
 80178705,Bebés y Nin@s,Johnson & Johnson,Talco Johnson´S  Almidon  200Gr
 80178714,"Bebidas, Licores y Tabacos",Baileys,Pack Baileys 750Ml+Ferrero Rocher T8
@@ -2308,6 +2375,7 @@ id,category,brand,name
 80181036,Bebés y Nin@s,St. Jacks,Pijama Disney P\/Nina Dif Tam 2Pza 110104
 80181100,Productos frescos,Sin Marca,Mango Irwin  Por Kilo
 80181164,Abarrotes,Quinut,Quinua Real Quinut Blanca 400Gr
+80181169,Cuidado Personal,Pepsodent,Pasta Pepsodent Cd Prot Anticaries 130Gr
 80181170,Cuidado Personal,Dove,Jabon Dove Original 3Un
 80181174,"Snack, golosinas y galletas",La Suprema,Galleta Ronditas Chocolate 228Gr
 80181183,Aseo y Limpieza,Ola,Desinf Ola Aromatic Neut De Olor 1800Ml
@@ -2334,10 +2402,15 @@ id,category,brand,name
 80181577,"Bebidas, Licores y Tabacos",Huari,Cerveza Huari Lata 354Ml
 80181614,"Bebidas, Licores y Tabacos",H2Oh,Bebida H2Oh Limoneto 2Lt
 80181616,Bebés y Nin@s,Nestum,Cereal Nestum 5 Cereales 270Gr
+80181619,Abarrotes,Hellmanns,Ketchup Hellmanns Doypack 500Gr
+80181641,Aseo y Limpieza,Nova,Toalla Dh Nova Mega Rollo 2Un
 80181777,Hogar y Electro,,Bolas Maranelo D\/Nav 6Pza 730-1258
 80181987,"Bebidas, Licores y Tabacos",,Gaseosa Coca Cola  3Lt
+80182028,Bebés y Nin@s,Hasbro,Balas Hasbro Nerf Accustrike 12U
 80182051,Bebés y Nin@s,Hasbro,Juego D\/Mesa Hasbro Life  17152
 80182052,Bebés y Nin@s,Hasbro,Juego Hasbro D\/Mesa Connect 4  B
+80182091,Bebés y Nin@s,Hasbro,Masa Play-Doh Bote 4Un 448Gr B5517
+80182094,Bebés y Nin@s,Play Doh,Fabrica Play-Doh Diversion Con M B5554
 80182125,Bebés y Nin@s,Hasbro,Pistola Hasbro Nerf Elite Jolt  B8802
 80182138,Hogar y Electro,Rayovac,Bateria Rayovac Alkalina 9V 1Un
 80182153,Cuidado Personal,Sedal,Shampoo Sedal Sh Rizos Def 12X650Ml
@@ -2368,6 +2441,7 @@ id,category,brand,name
 80183069,Hogar y Electro,Termolar,Termo Termolar Pers. Azul 1Lt
 80183071,Hogar y Electro,Termolar,Termo Termolar Pers. Negro 1Lt
 80183076,Vinos,,Vino Campos De Solana Esther Ortiz 750Ml
+80183077,"Bebidas, Licores y Tabacos",Nieto Senetiner,Vino Nieto Senetiner Malbec  750Ml.
 80183090,Vinos,,Vino Aranjuez Alma De Tannat 75Cl
 80183094,Hogar y Electro,Adrimex,Farol Adrimex Murcielago
 80183096,Hogar y Electro,Adrimex,Disfraz Adrimex Set Mariposa Esp
@@ -2387,6 +2461,8 @@ id,category,brand,name
 80183531,"Snack, golosinas y galletas",Haribo,Gomitas Haribo Starmix E1 160Gr
 80183559,Productos frescos,Ketal,Keperi Ketal  Por Kilo
 80183790,Vinos,La Concepcion,Vino Rosado Carmin Semidulce 700Ml
+80183809,Bebés y Nin@s,Mattel,Muneco Mateel Dif\/Modelos Dph24
+80183818,Bebés y Nin@s,Mattel,Muneca Mattel Barbie Chels Dif\/M
 80183893,Hogar y Electro,Kennedy Home Collection,Cubitera Kitchen D D\/Hielo  39238
 80183990,"Bebidas, Licores y Tabacos",Vital,Agua Vital Botella 3Lt
 80183999,Vinos,,Vino El Enemigo Malbec 750Ml
@@ -2616,6 +2692,7 @@ id,category,brand,name
 80188250,Panadería y Pastelería,Leo Nothmann,Pan Molde Leo Nothmann Int Ciruelo 480G
 80188251,Panadería y Pastelería,Leo Nothmann,Pan Molde Leo Nothmann Int Sesamo 480G
 80188374,Abarrotes,Maicena,Maicena Maizena Original 1Kg
+80188435,Refrigerado y Congelado,Pil,Helado Pil Yogurt Mora 1Lt
 80188548,Mascotas,Glory,Correa D\/Mascota 2.5X45Cm Kt1233
 80188671,"Snack, golosinas y galletas",La Estrella,Come Come La Estrella Familiar 200Gr
 80188711,Hogar y Electro,Powerade,Botella Powerade D\/ Agua 950Ml 72921
@@ -2655,6 +2732,7 @@ id,category,brand,name
 80189147,"Snack, golosinas y galletas",Charge,Sv 4 Chocolate Charge 40Gr
 80189158,Cuidado Personal,Axe,Deo Axe Bs Gold O. Wood\/D. Vainilla 96Gr
 80189160,Cuidado Personal,Dove,Aco Dove Oleo-Micelar 400Mlx12
+80189164,Cuidado Personal,Nivea,Deo Nivea Spray Fresh Ocean 150Ml
 80189167,Hogar y Electro,,Bolas Miro Nav Verde 24Un 4Cm 933Gv
 80189175,Hogar y Electro,,Ornamento Miro Nav Dif Mod 4Un 15Cm 053S
 80189179,Hogar y Electro,,Relleno Miro Nav Dif Mod 98Cm -479C
@@ -2696,6 +2774,8 @@ id,category,brand,name
 80189801,Hogar y Electro,,Candelero Sant C Dif Mod Nav  8966
 80189804,Abarrotes,Kris,Gelatina Kris Light Frutilla 24Gr
 80189805,Abarrotes,Kris,Mayonesa Kris Picante 230Gr
+80189813,Bebés y Nin@s,Pampers,Panal Pampers Premium Care M 52Un
+80189814,Bebés y Nin@s,Pampers,Panal Pampers Premium Care G 46Un
 80189817,Cuidado Personal,Scott,Papel Scott Rindemax Sanitation  X32
 80189822,"Snack, golosinas y galletas",Arcor,Caramelo Sugus Halloween 750G
 80189824,"Snack, golosinas y galletas",Arcor,Masticable Arcor Huesos 450Gr
@@ -2724,6 +2804,7 @@ id,category,brand,name
 80190155,Hogar y Electro,Somela,Tostador De Pan Somela 4 Rebandas Tp4T
 80190158,Hogar y Electro,Somela,Licuadora Personal  Somela 300 W Bse10
 80190180,"Bebidas, Licores y Tabacos",Rebel,Vodka Rebel 750Ml
+80190181,"Bebidas, Licores y Tabacos",Vat 69,Whisky Vat 69 750Ml
 80190191,Panadería y Pastelería,Reyna,Paneton Reyna C\/Algarrob+Chispas Ca 500G
 80190264,Panadería y Pastelería,Ketal,Pan Ketal Negro bolsa de 10 unidades
 80190271,"Bebidas, Licores y Tabacos",Ion Life,Agua Ion Life Alcalina E Ionizada 5Lt
@@ -2750,14 +2831,21 @@ id,category,brand,name
 80190869,Bebés y Nin@s,Hasbro,Pistola Hasbro Nerf Elite Jolt  B8802
 80190871,Bebés y Nin@s,Hasbro,Pistola Hasbro Nerf Doubledown H
 80190872,Bebés y Nin@s,Hasbro,Pistola Hasbro Nerf Doubledown H A9316
+80190888,Bebés y Nin@s,Hasbro,Muneco Hasbro Star W Dif Mod C1531
 80190913,Cuidado Personal,Protex,Jabon Liq Protex Avena Doypack 500Ml
 80190914,Cuidado Personal,Colgate,Crema Dental Colgate Maxwhite 180Gr
+80190924,Bebés y Nin@s,Hasbro,Juego De Mesa Hasbro No Te Discu
+80190926,Bebés y Nin@s,Hasbro,Juego De Mesa Hasbro Mystery G E
+80190927,Bebés y Nin@s,Hasbro,Jgo De Mesa Hasbro Climb And Sli
 80190929,Bebés y Nin@s,Hasbro,Jgo De Mesa Hasbro Pastelazo Cano E1972
 80190965,Mascotas,Cat Chow,Comida Cat Chow Peso Saludable 3Kg
 80190968,"Bebidas, Licores y Tabacos",Matilde,Cerveza Matilda Pale Ale 330 Ml
 80190969,"Bebidas, Licores y Tabacos",195,Cerveza 159 Premium Lager 330 Ml
 80190985,Bebés y Nin@s,Hasbro,Masa Play-Doh Animales E2124
 80190989,Bebés y Nin@s,Hasbro,Mochila Play-Doh Dif Mod B1169
+80191016,Bebés y Nin@s,Mattel,Peluche Fisher Price Hipo Lint C
+80191033,Bebés y Nin@s,Mattel,Pista Hot Wheels Ataque Fnb05
+80191034,Bebés y Nin@s,Mattel,Pista Hot Wheels Rueda Fnb15
 80191038,Bebés y Nin@s,Mattel, Jgte Fisher Price Monstruos Fnv36
 80191072,Hogar y Electro,Sin Marca,Botella Mr. Coffee P\/Agua 116834.01
 80191112,Bebés y Nin@s,Hasbro,Princesa Disney Dif Mod E180192
@@ -2766,6 +2854,8 @@ id,category,brand,name
 80191131,Productos frescos,Ecofesh,Lechuga  Hidroponica Por Unidad
 80191134,Cuidado Personal,Dove,Deo Dove Men Invisible Dry Spray H 150Ml
 80191137,Aseo y Limpieza,Skip,Detergente Polvo Skip Perfect White 2Kg
+80191150,Panadería y Pastelería,Bauducco,Paneton Bauducco Chocotone Mousse 500Gr
+80191151,Panadería y Pastelería,Bauducco,Paneton Bauducco Chocotone Trufa 550Gr
 80191180,Hogar y Electro,,Bolas Navidenas Peq Dif Col  10Un 124
 80191185,Hogar y Electro,,Bolas Navidenas Doradas 12Un 131G
 80191186,Hogar y Electro,,Bolas Navidenas Plomas 12Un 131P
@@ -2789,6 +2879,7 @@ id,category,brand,name
 80191330,Hogar y Electro,Bosch,Lavad-Secad Bosch 10\/6K Blanc Wdu28540Es
 80191333,Bebés y Nin@s,Colgate,Crema Dent Colgate Luminous Bipack 2X75M
 80191366,Hogar y Electro,House,Taza House&amp;Home Floral Arel259-019A
+80191416,Bebés y Nin@s,Tonka,Carro Tonka Contruccion  8039
 80191602,Hogar y Electro,Stor,Platos Stor Princess 2Pza 35178St
 80191611,Hogar y Electro,Stor,Botel Stor Sport Pj Masks 530Ml 01935St
 80191616,Hogar y Electro,Stor,Vaso Stor Doc Macstu 430Ml 53706St
@@ -2860,6 +2951,7 @@ id,category,brand,name
 80192764,Cuidado Personal,Lifebuoy,Jabon Lifebuoy Total 3Un 125Gr
 80192768,Vinos,,Vino Aranjuez Oporto 700Ml
 80192812,"Snack, golosinas y galletas",Princesa,Galletas Princesa Avena Chocolate 6Un
+80192816,"Snack, golosinas y galletas",Princesa,Galleta Princesa Avena C\/Almend 6Un
 80192826,Refrigerado y Congelado,Sofia,Morcilla Sofia Al Vacio 5Un
 80192827,Refrigerado y Congelado,Sofia,Chorizo Sofia Churrasquero Al Vacio 5Un
 80192828,Refrigerado y Congelado,Sofia,Chorizo Sofia De Res Al Vacio 5Un
@@ -2870,9 +2962,12 @@ id,category,brand,name
 80192927,"Bebidas, Licores y Tabacos",Speranza,Agua Speranza Botella 2Lt
 80192934,"Bebidas, Licores y Tabacos",Bendita,Cerveza Bendita Ipa 350Ml Lata
 80192939,Lácteos,Nestle,Crema De Leche Nestle Abre Facil 225Gr
+80192969,Abarrotes,Nuna,Esparrago Nuna Blanco 330Gr
 80192972,Abarrotes,Nuna,Pimenton Nuna Morron 340Gr
 80192984,Bebés y Nin@s,Pompiglos,Toallita Pompiglos Clasico 100Un
 80193011,Aseo y Limpieza,Ola,Suavizante Ola Original Doy P 900Ml
+80193016,Cuidado Personal,Liz,Jabon Liq Liz Antiba S Floral Doypack 1L
+80193018,Cuidado Personal,Liz,Jabon Liq Liz Lavanda Relaj Doypack 1L
 80193059,Cuidado Personal,Rexona,Jabon Rexona Antibacterial Aloe 3X90Gr
 80193060,Cuidado Personal,Rexona,Jabon Rexona Antibacterial Orig 3X90Gr
 80193063,"Bebidas, Licores y Tabacos",Mdc,Vino Mdc Crianza Tempr 750Ml
@@ -3006,6 +3101,9 @@ id,category,brand,name
 80194302,"Bebidas, Licores y Tabacos",Villa Santa,Agua Villa Santa De Mesa 7Lt
 80194346,Hogar y Electro,Kennedy Home Collection,Set Totally H C Ganch P\/Cort 12Pz 5295-P
 80194368,"Bebidas, Licores y Tabacos",Four Loko,Combo 3X2 Bebida Four Loko 473 Ml
+80194371,Lácteos,Lactear,Queso Lactear Cheddar 4Kg
+80194373,Lácteos,Lactear,Queso Lactear Mozarella 4Kg
+80194375,Lácteos,Lactear,Queso Lactear Sardo 3.2Kg
 80194384,Productos frescos,Valenciana,Salsa Valenciana Pesto Andino 200Gr
 80194385,Productos frescos,Valenciana,Salsa Valenciana Hummus De Pim Roj 200Gr
 80194454,Abarrotes,Hindu,Te Verde Hindu Pina 50 Un
@@ -3076,6 +3174,7 @@ id,category,brand,name
 80195164,Aseo y Limpieza,Scott,Servilleta Scott Super Absorbentes X500
 80195195,Abarrotes,Del Valle,Mermelada Del Valle Durazno 200Gr
 80195204,Hogar y Electro,Rayovac,Combo Rayovac Pilas Alc Aax4+Aaax4
+80195205,Abarrotes,Gustoso,Aceitunas Gustoso Negras 340Gr
 80195209,"Bebidas, Licores y Tabacos",Diablo Rojo,Cerveza Diablo Rojo Lata 355Ml
 80195211,"Bebidas, Licores y Tabacos",Juan Diablo,Vino Juan Diablo Blanco 700Ml
 80195212,Vinos,Juan Diablo,Vino Juan Diablo Tinto 700Ml
@@ -3184,9 +3283,17 @@ id,category,brand,name
 80196031,Hogar y Electro,,Adorno Miro Nav Santa\/H Nieve 30Cm 122
 80196032,Hogar y Electro,,Adorno Miro Nav Santa\/H Nieve 30Cm 137
 80196034,Hogar y Electro,,Adorno Miro Muneco Nav 7X7X11Cm -235
+80196047,Bebés y Nin@s,Fisher Price,Bi Bot Y Bel Bot Fisher P Bebe F
 80196049,Bebés y Nin@s,Fisher Price,Little Fisher P People Dif Mod Dvp63
+80196050,Bebés y Nin@s,Fisher Price,Sonajas Fisher P Divert Dif Mod Dpk29
 80196051,Bebés y Nin@s,Fisher Price,Juguete Fisher P P\/Bebe 2000517
+80196053,Bebés y Nin@s,Fisher Price,Telef Fisher P Rie Y Aprende Dif
+80196058,Bebés y Nin@s,Hotwheels,Acrobacias H Wheels Clas Dif Mod
+80196059,Bebés y Nin@s,Hotwheels,Triceratops H Wheels Destructor
+80196061,Bebés y Nin@s,Fisher Price,Figura Fisher P Mickey Carr Dif M Fjj23
 80196062,Bebés y Nin@s,Little Mommy,Muneca L Mommy Hacer Pipi Fbc88
+80196063,Bebés y Nin@s,Little Mommy,Muneca L Mommy Tierna Como Yo Flb80
+80196065,Bebés y Nin@s,Polly Pocket,Muneca P Pocket D\/Aventura Ftp67
 80196070,Hogar y Electro,,Adorno Miro Muneco Nav 10X10X14Cm -003
 80196086,Hogar y Electro,,Ornamento Miro Nav Verde 10X9X2Cm 817R
 80196089,Hogar y Electro,,Ornamento Miro Nav Verde L 12X8C2Cm 827D
@@ -3239,17 +3346,23 @@ id,category,brand,name
 80196374,"Snack, golosinas y galletas",Saltus,Chocolate Saltus 62 Cacao Con Cafe 44G
 80196375,"Snack, golosinas y galletas",Saltus,Chocolate Saltus 62 Cacao Con Nibs 44G
 80196376,"Snack, golosinas y galletas",Saltus,Chocolate Saltus 75 Cacao 44G
+80196408,Bebés y Nin@s,Mizratex,Juguete Infantil 1Pza 491415
+80196417,Bebés y Nin@s,Mizratex,Cuadratrack Scrawl 492449
 80196424,Bebés y Nin@s,Mizratex,Cocina C\/Luz Y Sonido 492928
 80196426,Bebés y Nin@s,Mizratex,Juego De Destreza 493004
 80196436,Bebés y Nin@s,Mizratex,Muneca C\/Accesorios 30Cm 495008
 80196438,Bebés y Nin@s,Mizratex,Juego D\/Arena 3Col 495175
 80196439,Bebés y Nin@s,Mizratex,Juego D\/Arena 1Col 495182
 80196448,Bebés y Nin@s,Mizratex,Juego D\/ Mesa Gourmet 496278
+80196449,Bebés y Nin@s,Mizratex,Juego D\/Mesa Matematicas 496289
+80196451,Bebés y Nin@s,Mizratex,Muneca C\/Accesorios 497627
 80196457,Bebés y Nin@s,Mizratex,Dinosaurio D\/Plastico 498595
 80196458,Bebés y Nin@s,Mizratex,Dinosaurio D\/Plastico 498596
 80196468,Bebés y Nin@s,Mizratex,Guitarra Instrumento Musical 499870
+80196478,Bebés y Nin@s,Mizratex,Juego De Te\/Cocina 500902
 80196494,Bebés y Nin@s,Transformers,Figura Transformers Heroes E0191
 80196500,Bebés y Nin@s,Hasbro,My Little Pony Hasbro Llav Dif Mod E2920
+80196504,Bebés y Nin@s,Play Doh,Creaciones Playdoh Dif Mod E3342
 80196505,Bebés y Nin@s,Hasbro,Figura Marvel End Game Dif Mod E3348
 80196507,Bebés y Nin@s,Hasbro,Fig Transformers Dif Mod 2Pza E3420
 80196508,Bebés y Nin@s,Hasbro,Fig Transformers Dif Mod E3432
@@ -3262,6 +3375,8 @@ id,category,brand,name
 80196517,Bebés y Nin@s,Play Doh,Creaciones Playdoh Kitchen+Horno E4576
 80196519,Bebés y Nin@s,Play Doh,Llavero Playdoh C\/Molde E4996
 80196521,Bebés y Nin@s,Hasbro,Littlest Pet Shop Hasbro 7Un E5149
+80196523,Bebés y Nin@s,Hasbro,My Littlest Pet Shop E5237
+80196524,Bebés y Nin@s,Play Doh,Paleta Playdoh Dif Mod E5332
 80196529,Bebés y Nin@s,Hasbro,Fig Power Rangers Dif Mod E5915
 80196530,Bebés y Nin@s,Hasbro,Figura Power Rangers Micro M E5916
 80196534,Abarrotes,Aguai,Azucar Aguai Morena  5 Kg
@@ -3425,14 +3540,17 @@ id,category,brand,name
 80197596,Cuidado Personal,Ballerina,Acond Micelar Ballerina Coco  900 Ml
 80197603,Cuidado Personal,,Tampones Johnsons Ob Medio 8 Un
 80197606,Bebés y Nin@s,Johnson & Johnson,Shampoo Johnsons Baby Clasico 750 Ml
+80197629,Bebés y Nin@s,Hotwheels,Bebe Little M Almuerza Fcn10
 80197631,Bebés y Nin@s,Hasbro,Avengers Hasbro Dif Fig E3350
 80197632,Bebés y Nin@s,Hasbro,Avengers Hasbro Cap+Cap Marvel E5078
 80197638,Bebés y Nin@s,Hasbro,Figura Power R Dif Mun E5899
+80197641,Bebés y Nin@s,Hasbro,Figura Star Wars Dif Mod E3016
 80197643,Bebés y Nin@s,Hasbro,Fig Transformers Dif Mod E3431
 80197648,Bebés y Nin@s,Hasbro,Princesa Disney Fashion E4020
 80197649,Bebés y Nin@s,Hasbro,Princesa Disney Pequena E3049
 80197651,Bebés y Nin@s,Hasbro,Mini Disney + Habitacion E3052
 80197652,Bebés y Nin@s,Hasbro,Muneca Disney Frozen Ii Elsa E6709
+80197653,Bebés y Nin@s,Hasbro,Muneca Disney Frozen Ii Anna E6710
 80197655,Bebés y Nin@s,Hasbro,Littlest Pet Shop Gallet D\/La Fort E7260
 80197662,Bebés y Nin@s,Hasbro,Masa Play Doh Dif Mod E3365
 80197674,Bebés y Nin@s,Hasbro,Masa Play Doh Peluquero E2930
@@ -3460,6 +3578,7 @@ id,category,brand,name
 80197905,"Snack, golosinas y galletas",Sublime,Galletas Sublime X6 276G
 80197910,Cuidado Personal,Nivea,Deo Nivea Spray Aclarante M 100Ml
 80197917,"Bebidas, Licores y Tabacos",Casa Real,Singani Casa Real Etiqueta Negra 1Lt
+80197967,"Snack, golosinas y galletas",Nestle,Sv 3 Choco Nestle Kit Kat Papa Noel3X29G
 80198000,Cuidado Personal,Nosotras,Toalla Nosotras Inv. Sensitive 10Un
 80198004,Cuidado Personal,Nosotras,Jabon Intimo  Nosotras Sensitive 200Ml
 80198005,Cuidado Personal,Nosotras,Jabon Intimo Nosotras Fre Extrema 200Ml
@@ -3473,6 +3592,7 @@ id,category,brand,name
 80198063,Hogar y Electro,Pasabahce,Vaso Pasabahce Barrel New Concept 41010
 80198069,Hogar y Electro,Pasabahce,Vaso Pasabahce Luna Concept2 42338
 80198077,Productos frescos,Sin Marca,Limon Italiano X Kilo
+80198079,"Bebidas, Licores y Tabacos",Pura Vida,Nectar Puravida Fruts Durazno 1Lt Tetra
 80198083,"Bebidas, Licores y Tabacos",Pura Vida,Nectar Puravida Fruts Naranja 1Lt Tetra
 80198093,"Bebidas, Licores y Tabacos",Parce,Ron Parce 12 Anos 750Ml
 80198218,"Snack, golosinas y galletas",Fini,Marshmallows Fini Alvorada 250G
@@ -3490,6 +3610,7 @@ id,category,brand,name
 80198485,Hogar y Electro,Thomson,Vajilla Thomson Bali Blue 16Pza 224088
 80198490,Hogar y Electro,Thomson,Vajilla Thomson Pinstripe 16Pza 205038T
 80198507,"Snack, golosinas y galletas",Dr. Picks,Snack Dr. Picks Conitos Queso Nacho 230G
+80198516,"Bebidas, Licores y Tabacos",Frutss,Aqua Frutss Pera 2Lt
 80198520,"Bebidas, Licores y Tabacos",1825,Vodka 1825 700Ml
 80198532,Productos frescos,Ketal,Pitahaya Fresca Rosa X Un
 80198533,Productos frescos,Ketal,Pitahaya Fresca Amarilla X Un
@@ -3551,6 +3672,7 @@ id,category,brand,name
 80199138,Hogar y Electro,,Pila Alcalina Eveready Aaax6
 80199141,,,Chip 4G Lte Tigo Un
 80199169,Abarrotes,Menoyo,Vinagre Menoyo Manzana 500Ml
+80199173,Refrigerado y Congelado,Stege,Pack Stege Jamon Canad+Lomito Coc 310Gr
 80199178,Hogar y Electro,Termolar,Termo Termolar Versatil Flores 500Ml
 80199179,Hogar y Electro,Termolar,Termo Termolar Versatil Lila 500Ml
 80199180,Hogar y Electro,Termolar,Termo Termolar Versatil Osos Masc 1Lt
@@ -3735,14 +3857,21 @@ id,category,brand,name
 80200348,Abarrotes,Cheerios,Cereal Cheerios Miel 210Gr
 80200352,Bebés y Nin@s,Alliance,Jgo D\/Piezas Armables 187Pzas 46-B62162
 80200354,Bebés y Nin@s,,Jgo D\/Cocina D\/Helados  46-B62490
+80200356,Bebés y Nin@s,Alliance,Muneca   46-B63736
 80200358,Bebés y Nin@s,Alliance,Carro A Friccion Graffit Dif C 46-B63871
+80200359,Bebés y Nin@s,Alliance,Juguete Infantil  46-B64447
 80200362,Bebés y Nin@s,,Juego D\/Piezas Armables 48Pzas 46-B65483
 80200364,Bebés y Nin@s,Alliance,Juego D\/Piezas Magneticas  46-B65511
+80200365,Bebés y Nin@s,Alliance,Carro Todo Terreno  46-B65958
 80200366,Bebés y Nin@s,,Juego D\/Pesca De Madera  46-B66085
+80200368,Bebés y Nin@s,Alliance,Tren C\/Luz Y Sonido  46-B66222
 80200369,Bebés y Nin@s,Alliance,Juego De Destreza  46-B66236
 80200371,Bebés y Nin@s,,Juego De Destreza  46-B66253
 80200375,Bebés y Nin@s,,Juego De Plastilina 750Gr 46-B66550
+80200378,Bebés y Nin@s,Alliance,Juego De Piezas Armabl 24Pzas 46-B67320
+80200379,Bebés y Nin@s,Alliance,Juego De Piezas Armabl 50Pzas 46-B67323
 80200381,Bebés y Nin@s,Alliance,Juego De Piezas Armabl 24Pzas 46-B67865
+80200383,Bebés y Nin@s,Alliance,Juego Didactico D\/Madera  46-B67984
 80200387,Bebés y Nin@s,Alliance,Juego De Dinosaurio  46-B68590
 80200388,Bebés y Nin@s,Alliance,Juego De Dinosaurio  46-B68591
 80200392,Bebés y Nin@s,Alliance,Juego Didactico D\/Madera  46-B69545
@@ -3752,6 +3881,7 @@ id,category,brand,name
 80200402,Bebés y Nin@s,Alliance,Juego De Cocina  46-B72033
 80200403,Bebés y Nin@s,Alliance,Juego De Cocina  46-B72034
 80200409,Bebés y Nin@s,,Juego De Alimentos  46-B73843
+80200411,Bebés y Nin@s,Alliance,Figura Transformable  46-B73863
 80200412,Bebés y Nin@s,Alliance,Juego Casa Miniatura  46-B73874
 80200421,"Bebidas, Licores y Tabacos",Fanta,Gaseosa Fanta Uva 3Lt
 80200422,"Bebidas, Licores y Tabacos",Fanta,Gaseosa Fanta Uva 2Lt
@@ -3783,6 +3913,9 @@ id,category,brand,name
 80200698,Hogar y Electro,Samsung,Refrigerador Samsung 234 Litros  Rt22Far
 80200699,Hogar y Electro,Samsung,Refrigerador Samsung 368 Litros  Rt38K59
 80200701,Panadería y Pastelería,Reyna,Paneton Tradic. Reyna Bolsa 90Gr
+80200706,Aseo y Limpieza,Sapolio,Limpiatodo Sapolio Lavanda 1800Ml
+80200707,Aseo y Limpieza,Sapolio,Limpiatodo Sapolio Floral 1800Ml
+80200708,Aseo y Limpieza,Sapolio,Limpiatodo Sapolio Limon 1800Ml
 80200757,Cuidado Personal,Milcar,Barbijo Quirugico Milcar Triplecapa 50Un
 80200758,Cuidado Personal,Milcar,Barbijo Kn95 Milcar 5 Capas 1 Pza
 80200788,Abarrotes,Princesa,Avena  Princesa Instantanea 350G
@@ -3856,6 +3989,7 @@ id,category,brand,name
 80201003,Vinos,Valduero,Vino Tinto Valduero Unacepa 750Ml
 80201004,Vinos,Valduero,Vino Tinto Valduero Blanco De Albillo 750Ml
 80201016,Lácteos,Bella Holandesa,Leche Evap Bella Holandesa Light 410Gr
+80201017,Refrigerado y Congelado,Torito,Pack Stege Chorizo Ahum+Salch.6Un
 80201020,Panadería y Pastelería,El Ceibo,Paneton El Ceibo Vain C Chips Choc 750Gr
 80201021,Panadería y Pastelería,El Ceibo,Paneton El Ceibo Choc C Chips Choc 750Gr
 80201041,Hogar y Electro,,Colgador Miro D\/Puerta 011Frf
@@ -3900,6 +4034,8 @@ id,category,brand,name
 80201099,,Delizia,Postre Delizia Ego Caramel Crunch 450 Ml
 80201100,,Delizia,Postre Delizia Ego Brownie Bro 450 Ml
 80201102,Lácteos,Delizia,Bebida Lac Delizia Prote Shak Fru 200 Gr
+80201104,"Snack, golosinas y galletas",La Francesa,Galletas La Francesa Christmas Surt 500G
+80201105,"Snack, golosinas y galletas",La Francesa,Galletas La Francesa Pesebre Surt 500G
 80201111,Abarrotes,Quaker,Avena Quaker Instantanea 700G
 80201113,Abarrotes,B&R Foods,Llajua B&amp;R Super Picante 220G
 80201120,Abarrotes,Miura,Azucar Molida Miura  250G
@@ -3971,6 +4107,7 @@ id,category,brand,name
 80201381,Bebés y Nin@s,Alliance,Carro A Control C\/Bat  B62461
 80201382,Bebés y Nin@s,,Juguete Infantil Gasolinera  B62766
 80201386,Bebés y Nin@s,Alliance,Juguete D\/Cocina  B63402
+80201388,Bebés y Nin@s,Alliance,Juego D\/Destreza Infantil  B63450
 80201389,Bebés y Nin@s,Alliance,Juego D\/Destreza Infantil  B63451
 80201390,Bebés y Nin@s,Alliance,Juguete D\/Pingãœino Infantil  B63454
 80201392,Bebés y Nin@s,Alliance,Jgo Lanzador Espacial  B63865
@@ -3987,14 +4124,18 @@ id,category,brand,name
 80201413,Bebés y Nin@s,Alliance,Muneca Bebe C\/Acc  B68784
 80201416,Bebés y Nin@s,Alliance,Muneca Bebe C\/Sonido  B69290
 80201417,Bebés y Nin@s,,Muneca Bebe C\/Acc  B69299
+80201418,Bebés y Nin@s,Alliance,Muneca Bebe C\/Acc  B69300
 80201419,Bebés y Nin@s,Alliance,Muneca Bebe C\/Acc  B69358
 80201420,Bebés y Nin@s,Alliance,Muneca Bebe C\/Acc  B69359
 80201421,Bebés y Nin@s,Alliance,Muneca Bebe C\/Acc  B69569
 80201426,Bebés y Nin@s,Alliance,Muneca Bebe C\/Acc  B70542
+80201427,Bebés y Nin@s,Alliance,Muneca Bebe C\/Acc  B70543
 80201428,Bebés y Nin@s,,Muneca Bebe C\/Acc  B70547
+80201429,Bebés y Nin@s,Alliance,Pista D\/Autos Luminosa  B71334
 80201431,Bebés y Nin@s,Alliance,Carro A Control  B71464
 80201432,Bebés y Nin@s,Alliance,Jgo Bloques Magneticos  B71865
 80201434,Bebés y Nin@s,,Carro A Control  B72436
+80201435,Bebés y Nin@s,Alliance,Pista D\/Autos C\/Sonido  B72815
 80201436,Bebés y Nin@s,,Juguete Infantil C\/Acc  B73310
 80201437,Bebés y Nin@s,Alliance,Camion Desarmable  B73526
 80201438,Bebés y Nin@s,Alliance,Muneca Bebe  B73695
@@ -4114,6 +4255,8 @@ id,category,brand,name
 80201859,Cuidado Personal,Philips,Alisador De Cabello Philips   Bhs674
 80201867,Bebés y Nin@s,Polly Pocket,Juguete Polly P Vehiculos Fnh14
 80201868,Bebés y Nin@s,,Muneca Barbie Y Rey Elef Fpl83
+80201869,Bebés y Nin@s,Fisher Price,Juguete Fisher P Rie Y Aprende Fpr01
+80201871,Bebés y Nin@s,Hotwheels,Lanzador Hot W D\/Bolsillo Fth84
 80201874,Bebés y Nin@s,Hotwheels,Pista Hot W El Triburon Fyk14
 80201876,Bebés y Nin@s,Polly Pocket,Juguete Polly Pocket D\/Modas Gdm01
 80201882,Bebés y Nin@s,Hasbro,Juguete Hasbro Apila Y Emp Ggb43
@@ -4233,6 +4376,13 @@ id,category,brand,name
 80202348,Mascotas,Pedigree,Comida Pedigree Adulto Raza Peq 8Kg
 80202351,Cuidado Personal,Milcar,Barbijo Kn95 Con Respirador Milcar Nino
 80202352,Cuidado Personal,Milcar,Barbijo Kn95 Con Respirador Milcar Nina
+80202355,"Bebidas, Licores y Tabacos",Aurora,Espumante Aurora Chardonnay 750 Ml.
+80202356,"Bebidas, Licores y Tabacos",Aurora,Espumante Aurora Brut Rose 750 Ml.
+80202357,"Bebidas, Licores y Tabacos",Aurora,Espumante Aurora Moscatel 750 Ml.
+80202358,"Bebidas, Licores y Tabacos",Aurora,Espumante Aurora Moscatel Rose 750 Ml.
+80202359,"Bebidas, Licores y Tabacos",Aurora,Espumante Aurora Brut 750 Ml.
+80202360,"Bebidas, Licores y Tabacos",Aurora,Espumante Aurora Demi-Sec 750 Ml.
+80202361,"Bebidas, Licores y Tabacos",Aurora,Espumante Aurora Prosecco 750 Ml.
 80202371,Hogar y Electro,,Jgo Kennedy Carpets Alfom D\/Nav Csml-A
 80202372,Hogar y Electro,,Alfombra Kennedy Carpets De Nav 0X60-A
 80202376,Hogar y Electro,Home Accents,Sabana Home A Royal Full 2620018121
@@ -4265,9 +4415,11 @@ id,category,brand,name
 80202419,Bebés y Nin@s,Hasbro,Figura Hasbro Star Wars E3405
 80202420,Bebés y Nin@s,Hasbro,Juego Hasbro  Battleship E8229
 80202421,Bebés y Nin@s,Hasbro,Pistola Nerf Alphastrike E8309
+80202422,Bebés y Nin@s,Hasbro,Pistola Nerf Alphastrike E6972
 80202424,Bebés y Nin@s,Hasbro,Pistola Nerf Alphastrike E7562
 80202426,Bebés y Nin@s,Hasbro,Masa Playdooh Gallina E6647
 80202429,Bebés y Nin@s,Hasbro,Figura Hasbro Spiderman E7335
+80202430,Bebés y Nin@s,Hasbro,Figura Hasbro Mr Potato E7341
 80202431,Bebés y Nin@s,Hasbro,Figura Hasbro Avengers E7377
 80202433,Bebés y Nin@s,Hasbro,Bebe Baby Alive  E6944
 80202434,Bebés y Nin@s,Hasbro,Masa Playdooh Granja Dif Mod E6722
@@ -4362,6 +4514,8 @@ id,category,brand,name
 80202984,Abarrotes,Miura,Api Miura Amarillo 500Gr
 80202986,Abarrotes,Miura,Lagua Miura De Jankaquipa 200Gr
 80202987,Abarrotes,Miura,Lagua Miura De Choclo 200Gr
+80202996,Refrigerado y Congelado,Churquisbakery,Postre Churquisbakery 4 Leches 750Gr
+80202997,Refrigerado y Congelado,Churquisbakery,Postre Churquisbakery 4 Leches 160Gr
 80202998,Panadería y Pastelería,Churquisbakery,Croissant Churquisbakery Clasico 240Gr
 80203019,BlackWeek,Maybelline,Base Superstay Maybellin Light 118 30 Ml
 80203020,BlackWeek,Maybelline,"Iluminador Master Maybe Rose Gold 6,7 Gr"
@@ -4454,6 +4608,9 @@ id,category,brand,name
 80203378,Refrigerado y Congelado,,S.Wind Carpaccio De Atun Conge 100G
 80203379,Refrigerado y Congelado,,S.Wind Carpaccio De Pulpo Conge 100G
 80203393,"Snack, golosinas y galletas",Toblerone,Chocolate  Toblerone Tiny 200G
+80203394,"Snack, golosinas y galletas",Milka,Chocolate Milka Chips Ahoy 100G
+80203395,"Snack, golosinas y galletas",Milka,Chocolate Milka Oreo 100G
+80203396,Abarrotes,Milka,Chocolate Milka Haselnuss 100G
 80203487,Lácteos,Pil,Yogurt Pil Yogurello Fam Frutilla 800Ml
 80203488,Lácteos,Pil,Yogurt Pil Yogurello Fam Durazno 800Ml
 80203490,Cuidado Personal,Remington,Cortador Remington Chrome Hc1080
@@ -4461,6 +4618,7 @@ id,category,brand,name
 80203492,Hogar y Electro,Energizer,Pila Energizer Eco Advanced Aax4
 80203494,Abarrotes,Irupana,Pack 6 Cereal Barra Irupana Surtido 120G
 80203495,Abarrotes,Lazzaroni,Pack 3X2 Pasta Larga Lazzaroni  400G
+80203557,"Bebidas, Licores y Tabacos",Mendocina,Sv3 Agua Mendocina 1Lt Tonica
 80203570,Abarrotes,Hindu,Pack 3X2 Mate Hindu Jengibre 3X20Un
 80203599,Bebés y Nin@s,Sin Marca,Pack 3 Panuelos Familia Cuidado Gripal 4
 80203600,Bebés y Nin@s,Sin Marca,Pack 3 Servilleta Familia Acholcamax 100
@@ -4473,6 +4631,9 @@ id,category,brand,name
 80203725,Hogar y Electro,Philips,Procesador D\/Alim Philips   Hr7631\/50
 80203744,"Snack, golosinas y galletas",,Chupete Pin Pop Sandia 24Un
 80203745,Abarrotes,Hindu,Te Hindu Cafe Chocolate 20Un
+80203758,Bebés y Nin@s,Babysec,Panal Babysec Premium G 64 Un
+80203759,Bebés y Nin@s,Babysec,Panal Babysec Premium Xg 52 Un
+80203760,Bebés y Nin@s,Babysec,Panal Babysec Premium Xxg 48 Un
 80203767,Hogar y Electro,Moduart,Biblioteca Nola Walnut 17-192 182Cm X 60Cm X 24Cm
 80203768,Hogar y Electro,Moduart,Biblioteca Nola Walnut  73-192 100Cm X 40Cm X 25Cm
 80203769,Hogar y Electro,Moduart,Biblioteca Tula Oak  28-274 160Cm X 75Cm X 25Cm
@@ -4506,6 +4667,7 @@ id,category,brand,name
 80203927,,Delizia,Packx8 Bombon Delizia Vainilla Split 640
 80203929,"Bebidas, Licores y Tabacos",Burbush,Vino Burbush Burbujeante 300Ml
 80203937,Lácteos,Sin Marca,Pack 3X2 Leche Condensada Mococa 3X395G
+80203950,Productos frescos,Rolon,Huevo Rolon Sedem 20 Un
 80203952,Cuidado Personal,Fluocardent,P. Dental Fluocardent Multiaccion 100Gr
 80203970,Hogar y Electro,Plenus,Alfombrilla Matt Plenus Azul 6Mm Tpe
 80203971,Hogar y Electro,Plenus,Alfombrilla Matt Plenus Purpura 6Mm Tpe
@@ -4556,6 +4718,7 @@ id,category,brand,name
 80204305,"Bebidas, Licores y Tabacos",Bendita,Cerveza Bendita Hoppy 6X350Ml
 80204308,Abarrotes,Kikkoman,Salsa Soya Kikkoman Original 591Ml
 80204327,"Bebidas, Licores y Tabacos",Bid,Licor Bid Marula 720Ml
+80204338,Lácteos,Pil,Pack X12 Pilfrut 200Ml Varios Sabores
 80204341,Lácteos,Pil,Packx3 Leche Soya 946Ml Varios Sabores
 80204345,Refrigerado y Congelado,Pil,Packx2 Hamburguesa Prosana 250G Varios
 80204424,Aseo y Limpieza,Opal,Detergente Opal Floral 3.8Kg
@@ -4819,6 +4982,7 @@ id,category,brand,name
 80205856,Cuidado Personal,Jamsa,Alcohol En Gel Jamsa  360G
 80205857,"Snack, golosinas y galletas",Maria,Galletas Maria Bonita X6 210G
 80205858,"Bebidas, Licores y Tabacos",Mendocina,Sv3X2 Gaseosa Mendocina Sinalco 3Lt
+80205859,"Bebidas, Licores y Tabacos",Mendocina,Sv2 Gaseosa Mendocina Sinalco 3Lt
 80205900,Hogar y Electro,Energizer,Linterna Energizer Pack Lint+Pilas+Bolso
 80205901,Hogar y Electro,Energizer,Linterna Energizer Eco Led 2D
 80205908,"Bebidas, Licores y Tabacos",Pil,Sv 4 Juguito 150Ml Tetra Clasic
@@ -4884,6 +5048,7 @@ id,category,brand,name
 80206455,Refrigerado y Congelado,Sofia,Lomo Canadiense Kostlich  130G.
 80206466,"Bebidas, Licores y Tabacos",Real,Cerveza Real Lager Lata 269 Ml
 80206477,Productos frescos,Fruver,Curcuma Kg
+80206509,Cuidado Personal,Septona,Disco De Algodon Septona  100 Unid
 80206536,"Bebidas, Licores y Tabacos",Paceña,Sv 2 Cerveza Pacena 235Ml
 80206563,Refrigerado y Congelado,Delizia,Postre Trad Delizia Api 300Ml
 80206564,Refrigerado y Congelado,Delizia,Postre Trad Delizia Huminta 300Ml
@@ -4904,11 +5069,16 @@ id,category,brand,name
 80206648,Cuidado Personal,Higietex,Algodon Zigzag Higietex  100 G
 80206656,Lácteos,Lacteosbol,Pack3 Leche Lacteosbl Ent.Uht 946Ml
 80206674,Bebés y Nin@s,Pequenin,Pack 2 Pequenin Babyshower Rn 150Gr
+80206685,Aseo y Limpieza,Bolivar,Detergente Bolivar Floral  1Kg
+80206686,Aseo y Limpieza,Bolivar,Detergente Bolivar Limon 1Kg
+80206687,Aseo y Limpieza,Bolivar,Detergente Bolivar Matic 1Kg
+80206688,Aseo y Limpieza,Bolivar,Detergente Bolivar Suavizante 1Kg
 80206690,"Bebidas, Licores y Tabacos",Seven Up,Sv 3X2 Gaseosa Seven Up 2L
 80206698,Cuidado Personal,Tio Nacho,Shampoo Tio Nacho Dp Aclarante 400 Ml
 80206699,Cuidado Personal,Tio Nacho,Shampoo Tio Nacho Dp Herbolaria 400Ml
 80206702,Aseo y Limpieza,Downy,Enjuague Downy Elegance 750 Ml
 80206704,Aseo y Limpieza,Downy,Enjuague Downy Elegance 2600 Ml
+80206706,Lácteos,Pil,Sv3 Leche Con Cafe X 800 Ml.
 80206714,"Bebidas, Licores y Tabacos",Real,Cerveza Real Lager Lata 4X3 473 Ml
 80206715,"Bebidas, Licores y Tabacos",Real,Malta Real Bipackpromo Lata  350 Ml
 80206722,Cuidado Personal,,Serum Antimanchas Cicatricure  15Ml
@@ -5234,6 +5404,43 @@ id,category,brand,name
 80207660,Hogar y Electro,,Bola Maranelo Navideno Xm2163-9
 80207662,Hogar y Electro,,Corona Maran Nav Verde 50Cm Nb20190-132
 80207663,Hogar y Electro,,Corona Maran Nav Verde 60Cm Nb20190-133
+80207685,Bebés y Nin@s,Djeco,Animales Madera Djeco Pipop Pidoo Madera
+80207686,Bebés y Nin@s,Djeco,Caja Con Cubos Djeco Cachatou Madera
+80207687,Bebés y Nin@s,Djeco,Tren Djeco Creagranja Madera
+80207688,Bebés y Nin@s,Djeco,Mini Tren Djeco Madera
+80207689,Bebés y Nin@s,Djeco,Jgo Herramientas Djeco Bricolou Madera
+80207690,Bebés y Nin@s,Djeco,Maletin 4 Juegos Djeco Ludo Wood
+80207691,Bebés y Nin@s,Djeco,Jgo De Recorrdio Djeco Mini Circuito
+80207692,Bebés y Nin@s,Djeco,Jgo De Mesa Djeco Mini Familia
+80207693,Bebés y Nin@s,Djeco,Jgo De Mesa Djeco Mini Rigolo
+80207694,Bebés y Nin@s,Djeco,Jgo De Mesa Djeco Tactilo Loto Granja
+80207695,Bebés y Nin@s,Ses,Jgo De Mesa Ses Yoga Animal
+80207696,Bebés y Nin@s,Ses,Kit Decorativo Ses Vinchas Orejas Y Moã‘
+80207697,Bebés y Nin@s,Ses,Set Moldear Y Pintar Ses Esqueleto T Rex
+80207698,Bebés y Nin@s,Mercurio,Jgo De Mesa Mercurio Pijamas A La Cama
+80207699,Bebés y Nin@s,Mercurio,Jgo De Mesa Mercurio Story Tailors
+80207700,Bebés y Nin@s,Djeco,Jgo De Cartas Djeco Magic School
+80207701,Bebés y Nin@s,Djeco,Jgo De Mesa Djeco Chop Chop
+80207702,Bebés y Nin@s,Djeco,Jgo De Mesa Djeco Big Pirate
+80207703,Bebés y Nin@s,Djeco,Jgo De Mesa Djeco Animouv
+80207704,Bebés y Nin@s,Mercurio,Jgo De Mesa Mercurio Academia Cupcakes
+80207705,Bebés y Nin@s,Mercurio,Jgo De Mesa Mercurio Sherlock Express
+80207706,Bebés y Nin@s,Lego,Bloques Lego Duplo Policia &amp; Bombero
+80207708,Bebés y Nin@s,Lego,Bloques Lego Duplo Moto Policia
+80207709,Bebés y Nin@s,Lego,Bloques Lego City Transporte Policia
+80207710,Bebés y Nin@s,Lego,Bloques Lego City Bombero C\/Escalera
+80207711,Bebés y Nin@s,Lego,Bloques Lego City Camiã“N Bombero
+80207712,Bebés y Nin@s,Lego,Bloques Lego City Helicoptero Policia
+80207713,Bebés y Nin@s,Lego,Bloques Lego City Unidad Policia C\/Perro
+80207714,Bebés y Nin@s,Lego,Bloques Lego Marvel Spiderman Sandman
+80207715,Bebés y Nin@s,Lego,Bloques Lego Marvel Thor
+80207716,Bebés y Nin@s,Lego,Bloques Lego Marvel Cap. America
+80207717,Bebés y Nin@s,Lego,Bloques Lego Marvel Bat Boat
+80207718,Bebés y Nin@s,Lego,Bloques Lego Friends Buggy
+80207719,Bebés y Nin@s,Lego,Bloques Lego Friends Pasteleria
+80207720,Bebés y Nin@s,Lego,Bloques Lego Friends Peluqueria Felina
+80207721,Bebés y Nin@s,Lego,Bloques Lego Friends Peluqueria
+80207722,Bebés y Nin@s,Lego,Bloques Lego Friends Parque
 80207760,"Bebidas, Licores y Tabacos",La Curiosa,Vino Tinto La Curiosa Blend 750Ml
 80207761,"Bebidas, Licores y Tabacos",Cruce Del Zorro,Vino Tinto Cruce Del Zorro Blend 750Ml
 80207765,Aseo y Limpieza,Bristar,Detergente Bristar Limon 800Gr
@@ -5258,6 +5465,65 @@ id,category,brand,name
 80207830,Panadería y Pastelería,Arco Iris,Paneton Arco Iris Stollen  950Gr
 80207831,"Snack, golosinas y galletas",Arcor,Budin Arcor Trocitos Chocolate 215G
 80207835,Hogar y Electro,Samsung,Tv Samsung Uhd 4K 50Pulg Un50Au7000G
+80207838,Bebés y Nin@s,Ketal,Dinosaurio Dif Mod 12Pzas An1071985
+80207839,Bebés y Nin@s,Ketal,Dinosaurio A Control Rem Anb788402
+80207841,Bebés y Nin@s,Ketal,Dinosaurio A Control Rem Anr1019384
+80207842,Bebés y Nin@s,Ketal,Juguete P\/Bebe Bt1062105
+80207844,Bebés y Nin@s,Ketal,Juguete P\/Bebe C\/Luz Bt686914
+80207846,Bebés y Nin@s,Ketal,Muneca Bebe C\/Sonido Do1011090
+80207848,Bebés y Nin@s,Ketal,Muneca Solida Do1054700
+80207849,Bebés y Nin@s,Ketal,Muneca Dif Mod Do1055015
+80207850,Bebés y Nin@s,Ketal,Muneca Dif Mod 8Pzas Do1055255
+80207852,Bebés y Nin@s,Ketal,Muneca C\/Acc Dif Mod Do1062654
+80207853,Bebés y Nin@s,Ketal,Muneca C\/Acc Dif Mod Do999759
+80207854,Bebés y Nin@s,Ketal,Pizarra Dif Mod Eg1029961
+80207855,Bebés y Nin@s,Ketal,Tarjetas Didacticas Eg1031509
+80207857,Bebés y Nin@s,Ketal,Bloques 200Pzas Eg1050681
+80207859,Bebés y Nin@s,Ketal,Bloques 58Pzas Eg1054401
+80207860,Bebés y Nin@s,Ketal,Bloques 58Pzas Eg1054402
+80207861,Bebés y Nin@s,Ketal,Bloques 17Pzas Eg852812
+80207862,Bebés y Nin@s,Ketal,Juguete D\/Madera Eg863528
+80207863,Bebés y Nin@s,Ketal,Juguete D\/Madera Auto Eg863558
+80207864,Bebés y Nin@s,Ketal,Set D\/Doctor Ld1027212
+80207865,Bebés y Nin@s,Ketal,Set D\/Supermercado Lk1048789
+80207866,Bebés y Nin@s,Ketal,Set D\/Frutas Y Veg Lk1058504
+80207867,Bebés y Nin@s,Ketal,Set D\/Cocina C\/Luz Lk993249
+80207868,Bebés y Nin@s,Ketal,Set Tostadora D\/Madera Lkdh1294
+80207869,Bebés y Nin@s,Ketal,Set Procesadora D\/Mad Lkdh1295
+80207870,Bebés y Nin@s,Ketal,Set Juguera D\/Made Lkdh1296
+80207871,Bebés y Nin@s,Ketal,Set D\/Belleza Lm979502
+80207872,Bebés y Nin@s,Ketal,Masas D\/Moldear Ot1058719
+80207874,Bebés y Nin@s,Ketal,Masas D\/Moldear Ot1058736
+80207875,Bebés y Nin@s,Ketal,Casa D\/Munecas Pdh1037615
+80207876,Bebés y Nin@s,Ketal,Parque D\/Diversiones Pdh1037619
+80207877,Bebés y Nin@s,Ketal,Casa D\/Munecas Pdh1066546
+80207878,Bebés y Nin@s,Ketal,Set D\/Comidas Pdh1066551
+80207880,Bebés y Nin@s,Ketal,Set D\/Herramientas Pto1048844
+80207881,Bebés y Nin@s,Ketal,Set D\/Herramientas 28Pzas Pto1050318
+80207882,Bebés y Nin@s,Ketal,Set D\/Herramientas 22Pzas Pto1057481
+80207884,Bebés y Nin@s,Ketal,Set D\/Herramientas 41Pzas Pto1063704
+80207885,Bebés y Nin@s,Ketal,Set D\/Herramientas 31Pzas Pto979130
+80207887,Bebés y Nin@s,Ketal,Figura D\/Accion Sc983354
+80207889,Bebés y Nin@s,Ketal,Juego D\/Futbol Disco Spdh1232C
+80207891,Bebés y Nin@s,Ketal,Camion D\/Contruccion Tbc1066836
+80207895,Bebés y Nin@s,Ketal,Camion A Friccion A Escala Tfc1008321
+80207897,Bebés y Nin@s,Ketal,Carro Trepador A Ficcion Tfc1047536
+80207898,Bebés y Nin@s,Ketal,Set Carro D\/Friccion Tfc1069594
+80207900,Bebés y Nin@s,Ketal,Set D\/Pista Tp972155
+80207901,Bebés y Nin@s,Ketal,Auto D\/Acrobacias Trc1024736
+80207902,Bebés y Nin@s,Ketal,Carro D\/Acrobacias Trc1056405
+80207903,Bebés y Nin@s,Ketal,Auto D\/Acrobacias Trc1064345
+80207904,Bebés y Nin@s,Ketal,Carro D\/Acrobacias Trcdh1292A
+80207905,Bebés y Nin@s,Ketal,Camion P\/Armar Ts1042299
+80207906,Bebés y Nin@s,Ketal,Vehiculo D\/Construccion Ts967329
+80207908,Bebés y Nin@s,Ketal,Vehiculo D\/Construccion Ts996556
+80207909,Bebés y Nin@s,Ketal,Bateria Musical Vmd1021886
+80207911,Bebés y Nin@s,Ketal,Pistola D\/Dardos 6Pzas Wg1053621
+80207912,Bebés y Nin@s,Ketal,Pistola D\/Dardos 13Pzas Wg1053627
+80207915,Bebés y Nin@s,Ketal,Vehiculo A Control Rem Dhtrc10301
+80207916,Bebés y Nin@s,Ketal,Vehiculo A Control Rem Dhtrc10346
+80207917,Bebés y Nin@s,Ketal,Helicoptero Infrarrojo Dhtrp20077
+80207918,Bebés y Nin@s,Ketal,Helicoptero Y Auto A Control Rem Dhtrp20
 80207925,"Snack, golosinas y galletas",Breick,Calabaza Chocolate Breick Caja 65G
 80207935,Refrigerado y Congelado,Sofia,Hamburguesa Sofia Res Premium 150G
 80207936,Panadería y Pastelería,La Suprema,Paneton La Suprema Vain.Chocochip 630Gr
@@ -5284,6 +5550,8 @@ id,category,brand,name
 80207968,"Snack, golosinas y galletas",Inka Chips,Papas Inka Chips Parmesano\/Ceb Dul 142Gr
 80207970,Panadería y Pastelería,La Francesa,Sv 3 Paneton La Francesa Mini Magic 70Gr
 80207971,"Bebidas, Licores y Tabacos",Cascada,Sv Agua Cascada 1.5Lt  Sport  S Gas Lim
+80207972,"Snack, golosinas y galletas",La Suprema,Budin Nav La Suprema Frutas 230G
+80207973,"Snack, golosinas y galletas",La Suprema,Budin Nav La Suprema Chips Choc 230G
 80207977,"Bebidas, Licores y Tabacos",Pepsi,Sv Gaseosa Pepsi 2L +Cubiertos Pepsi
 80207978,Aseo y Limpieza,Igenix,Toalla Desinfectate Igenix Frasco 105U
 80207979,Aseo y Limpieza,Igenix,Toalla Desinfectante Igenix Frasco 40U
@@ -5367,6 +5635,141 @@ id,category,brand,name
 80208172,Hogar y Electro,,Luces De Navidad Zy400C
 80208173,Hogar y Electro,,Luces De Navidad Zy70200-M
 80208174,Hogar y Electro,,Luces De Navidad Lu10450Led-B
+80208196,Bebés y Nin@s,Bburago,Auto Bburago Control Junior Ferrari
+80208197,Bebés y Nin@s,Bburago,Auto Bburago Control Junior Jeep
+80208198,Bebés y Nin@s,Bburago,Auto Bburago Mi Primera Lamborghini
+80208199,Bebés y Nin@s,Bburago,Pista Bburago Torre Volqueta Apila\/Apren
+80208200,Bebés y Nin@s,Bburago,Pista Bburago Mi Primer Garaje
+80208201,Bebés y Nin@s,Caterpillar,Volqueta Caterpillar Mi 1Ra Junior
+80208204,Bebés y Nin@s,Caterpillar,Coches Caterpillar Set 5Pcs
+80208205,Bebés y Nin@s,Caterpillar,Cargador Caterpillar Mini
+80208207,Bebés y Nin@s,Caterpillar,Coche Construccion Caterpillar Mini
+80208208,Bebés y Nin@s,Caterpillar,Coche Construccion Caterpillar
+80208209,Bebés y Nin@s,Caterpillar,Volqueta Caterpillar Clasica
+80208210,Bebés y Nin@s,Clementoni,Balon Clementoni Actividades Bebe Minnie
+80208211,Bebés y Nin@s,Clementoni,Jgte Formas Y Colores Clementoni Minnie
+80208212,Bebés y Nin@s,Clementoni,Proyector Clementoni Lamparita Mickey
+80208213,Bebés y Nin@s,Fisher Price,Muneco Fisher Price Leon Ruedas 10001
+80208214,Bebés y Nin@s,Fisher Price,Muneco Fisher Price Zebra Ruedas 10002
+80208215,Bebés y Nin@s,Fisher Price,Rompecabezas Fisher Price 3Pzs Animalito
+80208216,Bebés y Nin@s,Fisher Price,Cubos Fisher Price Primeros Apila Y Enca
+80208217,Bebés y Nin@s,Fisher Price,Jgte Fisher Price Mi 1Ra Balanza Apilabl
+80208218,Bebés y Nin@s,Fisher Price,Juego Parejas Fisher Price Mi 1Er Memo 2
+80208219,Bebés y Nin@s,Fisher Price,Rompecabezas Fisher Price 6 Pcs  305423
+80208220,Bebés y Nin@s,Fisher Price,Rompecabezas Fisher Price 12Pcs 305562
+80208221,Bebés y Nin@s,Fisher Price,Rompecabezas Fisher Price 6 En 1 Aventur
+80208222,Bebés y Nin@s,Golbergert,Muneca Golbergert Bebe Hora Dormir 21630
+80208223,Bebés y Nin@s,Golbergert,Muneca Golbergert Bebe Princ Zipit 41390
+80208224,Bebés y Nin@s,Golbergert,Muneca Golbergert Bebe Suavecita 51140
+80208225,Bebés y Nin@s,Golbergert,Muneca Golbergert Bebe Toma Leche C\/Soni
+80208226,Bebés y Nin@s,Golbergert,Muneca Golbergert Bebe  71230
+80208227,Bebés y Nin@s,Golbergert,Muneca Golbergert Bebe Rap Robbie 71410
+80208228,Bebés y Nin@s,Golbergert,Muneca Golbergert Bebe Suavecita 85114
+80208229,Bebés y Nin@s,Gigo,Muneca Gigo Bebe Hora De Comer
+80208230,Bebés y Nin@s,Gigo,Muneca Gigo Bebe Hora De Banarse
+80208231,Bebés y Nin@s,Gigo,Muneca Gigo Bebe Hora Del Bano
+80208232,Bebés y Nin@s,Gigo,Muneca Gigo Bebe Hora Del Bano
+80208233,Bebés y Nin@s,Gigo,Muneca Gigo Bebe C\/Silla Cargador
+80208234,Bebés y Nin@s,Gigo,Muneca Gigo Bebes Gemelos
+80208237,Bebés y Nin@s,Little Pet Shop,Fig Little Pet Shop Con Accesorios 93488
+80208239,Bebés y Nin@s,Little Pet Shop,Fig Little Pet Shop Sorpresita A1344
+80208240,Bebés y Nin@s,Baby Alive,Muneca Baby Alive Patadita Abrazo A1693
+80208241,Bebés y Nin@s,Hasbro,Fig Hasbro Transformers Construye 58Pcs
+80208242,Bebés y Nin@s,Play Doh,Juego Play Doh Kitchen Sarten B9014
+80208244,Bebés y Nin@s,Hasbro,Jgo Mesa Hasbro Monopolio Cartas E3113
+80208245,Bebés y Nin@s,Hasbro,Jgo Mesa Hasbro Conecta 4 De Viaje E3279
+80208246,Bebés y Nin@s,Hasbro,Jgo Mesa Hasbro Battleship Viaje E3280
+80208247,Bebés y Nin@s,Hasbro,Fig Hasbro Avengers Titan E3308
+80208249,Bebés y Nin@s,Play Doh,Juego Play Doh Fabrica Pipocas E5110
+80208250,Bebés y Nin@s,Hasbro,Jgo Mesa Hasbro Monopolio De Viaje E5340
+80208251,Bebés y Nin@s,Hasbro,Jgo Mesa Hasbro Clue De Viaje E5341
+80208254,Bebés y Nin@s,Baby Alive,Muneca Baby Alive Equipo Aventuras E6646
+80208255,Bebés y Nin@s,Nerf,Pistola Nerf Microshots Fortnite E6741
+80208256,Bebés y Nin@s,Play Doh,Juego Play Doh Elastix Est\/Moldea E6967
+80208257,Bebés y Nin@s,Nerf,Pistola Nerf Alpha Strike Punteria E8310
+80208258,Bebés y Nin@s,Hasbro,Fig Hasbro Superman Maximum Venom E8686
+80208259,Bebés y Nin@s,Nerf,Pistola Nerf Commander Elite 2.0 E9486
+80208260,Bebés y Nin@s,Nerf,Pistola Nerf Volt Sd1 Elite 2.0 E9953
+80208262,Bebés y Nin@s,Nerf,Pistola Nerf Dardos 20U Elite 2.0 F0040
+80208264,Bebés y Nin@s,Hasbro,Jgo Mesa Hasbro Bop It Bebe Yoda F1258
+80208265,Bebés y Nin@s,Play Doh,Juego Play Doh Fiesta Panqueques F1279
+80208266,Bebés y Nin@s,Play Doh,Juego Play Doh Dino Cuello Largo F1503
+80208268,Bebés y Nin@s,Play Doh,Juego Play Doh Cupcakes\/Macarones F1788
+80208270,Bebés y Nin@s,Longshore,Jgo Mesa Longshore Serpientes Y Escalera
+80208271,Bebés y Nin@s,Longshore,Jgo Mesa Longshore Wobblo De Viaje
+80208272,Bebés y Nin@s,Longshore,Fig Longshore Fortnite
+80208273,Bebés y Nin@s,Longshore,Fig Longshore Roblox
+80208274,Bebés y Nin@s,Longshore,Fig Longshore Roblox Simulador Fantasma
+80208275,Bebés y Nin@s,Longshore,Fig Longshore Fortnite
+80208276,Bebés y Nin@s,Cuentos,Cuentos Cuentos Princesas Disney 4U
+80208277,Bebés y Nin@s,Cuentos,Cuentos Cuentos Clasicos Disney Pixar 4U
+80208278,Bebés y Nin@s,Cuentos,Cuentos Cuentos Mi Primer Cofrecito 4U
+80208279,Bebés y Nin@s,Cuentos,Cuentos Cuentos Buscando A Nemo 4U
+80208280,Bebés y Nin@s,Cuentos,Cuentos Cuentos La Casa De Mickey Mouse
+80208281,Bebés y Nin@s,Cuentos,Cuentos Cuentos Toy Story 4U
+80208282,Bebés y Nin@s,Massen,Pista Massen Luminosa 363Pcs
+80208283,Bebés y Nin@s,Lol,Muneca Lol Sorpresa Omg Dance
+80208284,Bebés y Nin@s,Slime,Muneca Slime Poopsie Popo
+80208285,Bebés y Nin@s,Lol,Muneca Lol Hairgoals
+80208286,Bebés y Nin@s,Slime,Muneco Slime Hangrees Parodias
+80208288,Bebés y Nin@s,Lol,Muneca Lol Sorpresa J.K.
+80208289,Bebés y Nin@s,Tonka,Camion De Bomberos Tonka C\/Sonido
+80208290,Bebés y Nin@s,Tonka,Helicoptero De Rescate Tonka C\/Sonido
+80208291,Bebés y Nin@s,Tonka,Carro Bombero Tonka Salvaje C\/Sonido
+80208292,Bebés y Nin@s,Tonka,Vehiculo Tonka Al Rescate
+80208293,Bebés y Nin@s,Tonka,Camiones Tonka Micro Metales Multipack
+80208296,Bebés y Nin@s,Tonka,Excavador Tonka Mini C\/Luz Y Sonido
+80208299,Bebés y Nin@s,Fisher Price,Tablet Fisher Price Aprende Conmig Chd90
+80208301,Bebés y Nin@s,Fisher Price,Sonaja Fisher Price Corn Popper D43
+80208303,Bebés y Nin@s,Barbie,Muneca Barbie Espia Teresa\/Renee Dhf06
+80208305,Bebés y Nin@s,Barbie,Muneca Barbie Princesa Dmm06
+80208306,Bebés y Nin@s,Fisher Price,Coches Fisher Price Monstruitos Drg16
+80208307,Bebés y Nin@s,Barbie,Muneca Barbie Profesiones Dvf50
+80208309,Bebés y Nin@s,Barbie,Muneco Barbie Ken Fashionista Dwk44
+80208311,Bebés y Nin@s,Fisher Price,Andadera Fisher Price Bolitas Salt Fgy72
+80208312,Bebés y Nin@s,Little Mommy,Muneca Little Mommy Recien Nacida Fj45
+80208313,Bebés y Nin@s,Little Mommy,Muneca Little Mommy Dia Especial Fb72
+80208316,Bebés y Nin@s,Fisher Price,Control Fisher Price Juega\/Aprende Fwg10
+80208317,Bebés y Nin@s,Barbie,Muneca Barbie Cuidadora De Perros Fxh08
+80208318,Bebés y Nin@s,Barbie,Muneca Barbie Dreamtopia Fxr94
+80208320,Bebés y Nin@s,Hot Wheels,Pista  Hot Wheels De Campeonato F81
+80208321,Bebés y Nin@s,Mattel,Jgo Mesa Mattel P\/Viaje N78
+80208322,Bebés y Nin@s,Hot Wheels,Auto Hot Wheels Truck Bash Ups Gcf94
+80208323,Bebés y Nin@s,Polly Pocket,Muneca Polly Pocket Escondite  Gdk76
+80208324,Bebés y Nin@s,Polly Pocket,Muneca Polly Pocket Estrella Deport Gd97
+80208326,Bebés y Nin@s,Barbie,Muneca Barbie Glam C\/Piscina Gh91
+80208327,Bebés y Nin@s,Barbie,Muneca Barbie Mani Pedi Spa Ghn07
+80208328,Bebés y Nin@s,Barbie,Muneco Barbie Ken Ensueno Ghr61
+80208329,Bebés y Nin@s,Barbie,Muneca Barbie Hora De Escuela Ghv80
+80208330,Bebés y Nin@s,Barbie,Muneca Barbie C\/Carrito P\/Perritos Ghv92
+80208331,Bebés y Nin@s,Hot Wheels,Pista Hot Wheels Componentes Gc87
+80208332,Bebés y Nin@s,Barbie,Muneca Barbie Bienestar Respira Gnk01
+80208333,Bebés y Nin@s,Hot Wheels,Auto Hot Wheels Truck Bash Up Gpy49
+80208334,Bebés y Nin@s,Barbie,Muneca Barbie Peinados Fantasticos Gf37
+80208335,Bebés y Nin@s,Hot Wheels,Pista Hot Wheels Lanzador Nemesis Gvf41
+80208336,Bebés y Nin@s,Hot Wheels,Auto Hot Wheels Truck Todoterreno Gvk37
+80208338,Bebés y Nin@s,Tasia,Jgte Accesorios Tasia Diseno Brazaletes
+80208339,Bebés y Nin@s,Tasia,Jgte Accesorios Tasia Diseno Marav Trenz
+80208340,Bebés y Nin@s,Tasia,Jgte Accesorios Tasia Brazalete Alfabeto
+80208341,Bebés y Nin@s,Tasia,Jgte Accesorios Tasia Audifonos Diy
+80208342,Bebés y Nin@s,Tasia,Jgte Accesorios Tasia Set Princesa Hielo
+80208343,Bebés y Nin@s,Tasia,Jgte Accesorios Tasia Coleccion Brazalet
+80208344,Bebés y Nin@s,Tasia,Jgte Accesorios Tasia Set 2En1 Scented
+80208345,Bebés y Nin@s,Zuru,Pistola Zuru X-Shot Micro
+80208346,Bebés y Nin@s,Zuru,Pistola Zuru X-Shot Kickback
+80208347,Bebés y Nin@s,Zuru,Pistola Zuru X-Shot Kickback
+80208348,Bebés y Nin@s,Zuru,Pistola Zuru X-Shot Reflex &amp; Pulse
+80208349,Bebés y Nin@s,Zuru,Pistola Zuru X-Shot Turbo Fire
+80208350,Bebés y Nin@s,Zuru,Pistola Zuru X-Shot Fury 4 2Pcs
+80208351,Bebés y Nin@s,Zuru,Pistola Zuru X-Shot Fury 4
+80208352,Bebés y Nin@s,Zuru,Pistola Zuru X-Shot Quick Slide
+80208353,Bebés y Nin@s,Zuru,Pistola Zuru X-Shot Xcess
+80208354,Bebés y Nin@s,Zuru,Pistola Zuru X-Shot Vigilante
+80208355,Bebés y Nin@s,Zuru,Pista Zuru Metal Machines Ataque T Rex
+80208356,Bebés y Nin@s,Zuru,Pista Zuru Metal Machines Cocodrilo
+80208357,Bebés y Nin@s,Zuru,Pista Zuru Metal Machines Tiburon
+80208358,Bebés y Nin@s,Zuru,Robot Zuru Robo Alive-Dragon
+80208359,Bebés y Nin@s,Zuru,Robot Zuru Robo Alive-T Rex
 80208369,"Snack, golosinas y galletas",Baure,Chocolate Baure Leche 70G
 80208389,Abarrotes,Kris Choco Explosion,Sv 2X1 Cereal Choco Explosion Bolsa 750G
 80208390,Abarrotes,Kris,Sv 2X1 Gelatina Kris Frambuesa 1Kg
@@ -5377,3 +5780,9 @@ id,category,brand,name
 80208398,Hogar y Electro,,"Barra De Sonido, Usb, 40W. Skyworth"
 80208399,Hogar y Electro,,"Televisor 43 Android 10, 4K Skyworth"
 80208400,Hogar y Electro,,"Televisor 70 Android 10, 4K Skyworth"
+80208408,"Snack, golosinas y galletas",Paititi,Chocolate Paititi 70% Cacao 100G
+80208412,"Bebidas, Licores y Tabacos",Somos,Sv 3 Agua Somos 500Ml
+80208413,"Bebidas, Licores y Tabacos",Pepsi,Sv 2 Gaseosa Pepsi  2L
+80208414,"Bebidas, Licores y Tabacos",Huari,Sv 3X2 Cerveza Huari Trigo 330Ml
+80208415,"Bebidas, Licores y Tabacos",Somos,Sv 4 Cerveza Pacena Lata 473 Ml
+80208419,"Bebidas, Licores y Tabacos",Mendocina,Sv 2 Gaseosa Mendocina Ginger Ale 2Lt
