@@ -1219,6 +1219,12 @@ id,category,brand,name
 80008097,"Bebidas, Licores y Tabacos",Johnnie Walker,Whisky J. Walker Etiq Roja 750Ml
 80010522,Hogar y Electro,Tramontina,Sarten Tramon Paris Teflo 30Cm 70\/630
 80010548,Abarrotes,Lucchetti,Lasagna Lucchetti Precocida 360G
+80010687,"Snack, golosinas y galletas",Ketal,Canaston Economico Ketal
+80010688,"Snack, golosinas y galletas",Ketal,Canaston Basico Ketal
+80010689,"Snack, golosinas y galletas",Ketal,Canaston Estandar Ketal
+80010690,"Snack, golosinas y galletas",Ketal,Canaston Especial Ketal
+80010692,"Snack, golosinas y galletas",Ketal,Canaston Ejecutivo Ketal
+80010693,"Snack, golosinas y galletas",Ketal,Canaston De Lujo Ketal
 80130173,Vinos,Alma Negra,Vino Alma Negra Misterio Ii 2007 750Ml
 80130175,Vinos,Tahuan,Vino Tahuan Malbec 750Ml
 80130459,Productos frescos,Sin Marca,Albahaca Costanera
@@ -1437,7 +1443,7 @@ id,category,brand,name
 80147242,Hogar y Electro,,Corona Miro Nav 40Cm Vi-017
 80147244,Hogar y Electro,,Corona Miro Nav  30Cm Vi-011
 80147275,Hogar y Electro,,Guirnalda Miro Nav 274X20Cm Vi-002
-80147319,Productos frescos,,Pavo Sofia Congelado X Kilo
+80147319,Productos frescos,Sofia,Pavo Sofia Congelado X Kilo
 80147399,Mascotas,Whiskas,Comida Whiskas Carne 1Kg
 80147400,Mascotas,Whiskas,Comida Whiskas Pollo Y Leche 1Kg
 80147401,Mascotas,Whiskas,Comida Whiskas Carne Y Leche 1Kg
@@ -1456,6 +1462,10 @@ id,category,brand,name
 80148382,Aseo y Limpieza,Virutex,Virutilla Virutex Fina Mediana 62Gr
 80148425,Hogar y Electro,Moduart,"Librero Esq Moduart Squa 14040-04 182Cm X 29,6Cm X 29,6Cm"
 80148451,"Snack, golosinas y galletas",Haribo,Gomitas Haribo Super Mix 160Gr
+80148498,"Snack, golosinas y galletas",Lindt,Chocolate Lindt Oso Peq
+80148517,"Snack, golosinas y galletas",Nestle,Calendario Choc Cadbury C\/Lech 90Gr
+80148546,"Snack, golosinas y galletas",Lindt,Bombon Lindt Lindor Milk 200Gr
+80148584,"Snack, golosinas y galletas",Sin Marca,Gift Tube Love Hearts 108Gr
 80149005,"Snack, golosinas y galletas",Para Ti,Chocolates Para Ti Surt Cj Naranja 140Gr
 80149018,Hogar y Electro,Uhu,Corrector Uhu Cinta Roller 10Mt 50370-1
 80149097,Abarrotes,Quaker,Avena Quaker Instantánea 300gr
@@ -1640,6 +1650,7 @@ id,category,brand,name
 80154627,Refrigerado y Congelado,Sofia,Mortadela Sofia Primavera Pollo Vac 200G
 80154628,Refrigerado y Congelado,Sofia,Jamon Sofia Ligth Pollo Vacio 250Gr
 80154629,Refrigerado y Congelado,Sofia,Jamon Sofia Sandwichero Vacio 250Gr
+80154653,"Snack, golosinas y galletas",Nestle,Calendario Choc Milky Bar Bco 85Gr
 80154709,Bebés y Nin@s,Huggies,Panal Huggies Rec Nac Prematuro Lao 30Un
 80154736,Abarrotes,Sabrosa,Sardina Sabrosa Oval 425Gr
 80154746,"Bebidas, Licores y Tabacos",Salvietti,Gaseosa Salvietti Papaya 3Lt
@@ -2221,7 +2232,15 @@ id,category,brand,name
 80176590,Abarrotes,Windsor,Te Windsor Durazno 50Un
 80176592,Abarrotes,Windsor,Mate Windsor Cedron 100Un
 80176614,Cuidado Personal,Elvive,Shampoo Elvive Oleo Rizos Definido 400Ml
+80176710,"Snack, golosinas y galletas",After Eight,Choc Nestle After Eight 300Gr
+80176711,"Snack, golosinas y galletas",After Eight,Choc Nestle After Eight 110Gr
+80176712,"Snack, golosinas y galletas",Milky Bar,Choc Milky Bar Buttons 100Gr
+80176713,"Snack, golosinas y galletas",Little Rolo,Choc Little Rojo C\/Lech Y Rell 100Gr
+80176714,"Snack, golosinas y galletas",Munchies,Choc Munchies C\/Lech Y Rell 100Gr
+80176729,"Snack, golosinas y galletas",Sin Marca,Santa Kinder Surprise 75Gr
 80176736,Cuidado Personal,Familand,Shampoo Familand Manzanilla 750Ml
+80176798,"Snack, golosinas y galletas",Anthon Berg,Choc A.Berg Liqueurs 62Gr
+80176850,"Snack, golosinas y galletas",Cadbury,Galleta Cadbury Festi Friend 150Gr
 80176958,Vinos,,Vino Campos De Solana Encuentro 750Ml
 80176959,Bebés y Nin@s,Panolini,Panal Panolini Delicare Rn 20 Un
 80176960,Bebés y Nin@s,Panolini,Panal Panolini Delicare P 44 Un
@@ -2483,7 +2502,29 @@ id,category,brand,name
 80184342,"Snack, golosinas y galletas",La Suprema,Galletas La Suprema Nav Surt Caja 400G
 80184374,Panadería y Pastelería,Crocsitos,Cunape Crocsitos Abizcochado 200 Gr
 80184397,"Snack, golosinas y galletas",Hider,Choc Hider Jumbo Raisins 135Gr
+80184400,"Snack, golosinas y galletas",Anthon Berg,Choc Abd Liqueurs 125Gr
+80184402,"Snack, golosinas y galletas",Anthon Berg,Choc Abd Cocktail Liqueurs 125Gr
 80184434,"Snack, golosinas y galletas",Toblerone,Chocolate Toblerone Milk Larg Bar 360G
+80184450,"Snack, golosinas y galletas",Lindt,Chocolate Lindt Lindor Mini Truff 100G
+80184451,"Snack, golosinas y galletas",Toblerone,Chocolate Toblerone Dark Larg 360G
+80184452,"Snack, golosinas y galletas",Kinder,Chocolate Kinder 10 Small Bar 125G
+80184453,"Snack, golosinas y galletas",Cadbury,Chocolate Cadbury Dairymilk Winter 100G
+80184454,"Snack, golosinas y galletas",Toblerone,Chocolate Toblerone Fruit &amp; Nut 360G
+80184460,"Snack, golosinas y galletas",Fox'S,Chocolate Tin Foxs 365G
+80184461,"Snack, golosinas y galletas",Cadbury,Chocolate Cadbury Snowy Fingers 115G
+80184462,"Snack, golosinas y galletas",Butter,Galleta Butter Danish Cookie 150G
+80184465,"Snack, golosinas y galletas",Vinnie,Biscuits Vinnie Foxs Carton 365G
+80184483,"Snack, golosinas y galletas",Baileys,Chocolate Baileys Truffles Carton 135G
+80184484,"Snack, golosinas y galletas",Ferrero,Chocolate Ferrero Christmas Tree 150G
+80184486,"Snack, golosinas y galletas",Nestle,Chocolate Nestle Kids Medium Pack 143G
+80184511,"Snack, golosinas y galletas",Foxs,Galleta Foxs Brandy Snaps 100G
+80184528,"Snack, golosinas y galletas",Cadbury,Chocolate Cadbury Choc Mousse Snow 30G
+80184529,"Snack, golosinas y galletas",Rowntree,Masticables Rowntree Jelly Tot Tub 130G
+80184532,"Snack, golosinas y galletas",Nestle,Chocolate Nestle Aero Orange 100G
+80184565,"Snack, golosinas y galletas",Honeyrose,Galleta Honeyrose D\/Mantequilla 125Gr
+80184570,"Snack, golosinas y galletas",Honeyrose,Galleta Honeyrose D\/Manteq Y Lim 125Gr
+80184571,"Snack, golosinas y galletas",Honeyrose,Galleta Honeyrose D\/Avena Y Mant 115Gr
+80184572,"Snack, golosinas y galletas",Honeyrose,Galleta Honeyrose D\/Choc S\/Gluten 115Gr
 80184612,BlackWeek,Maybelline,Rimel Maybelline Push Up Angel Washale 9
 80184649,"Bebidas, Licores y Tabacos",Del Valle,Jugo Del Valle Manzana 200Ml
 80184777,Vinos,,Vino La Concepcion Infinitum Blend 750Ml
@@ -3479,6 +3520,8 @@ id,category,brand,name
 80197253,Refrigerado y Congelado,Prosana,Hamburguesa Prosana Quinua Mix 260Gr
 80197265,Hogar y Electro,Glory,Espejo De Maquillaje Kt2481
 80197275,"Snack, golosinas y galletas",Skittles,Masticable Skittles Sours Bag 45Gr
+80197279,"Snack, golosinas y galletas",Quality,Chocolate Nestle Quality Street 240G
+80197298,"Snack, golosinas y galletas",Quality,Chocolate Quality Street Tub 650Gr
 80197315,Hogar y Electro,Glory,Cubetera De Hielo Kt2675
 80197346,"Snack, golosinas y galletas",Squashies,Gomitas Squashies Manzana Y Cherry 145Gr
 80197348,"Snack, golosinas y galletas",Skittles,Caramelos Skittles Tropical Pouch 196Gr
@@ -4266,6 +4309,7 @@ id,category,brand,name
 80201905,Hogar y Electro,Dimax,Cortapico \/Tomacorriente Dimax 6 Salidas
 80201909,Abarrotes,Lazzaroni,Pack 3X2 Pasta Lazzaroni Corta 3X400G
 80201983,"Bebidas, Licores y Tabacos",Aruba,Jugo Aruba Fruit Punch 3Lt
+80201985,"Snack, golosinas y galletas",Raffaello,Chocolate Ferrero Raffaello T3 30Gr
 80201999,Panadería y Pastelería,Ketal,Pan Ketal Sarnita 10 Un
 80202008,Hogar y Electro,Noritex,Portaretrato 3Pzas 531-26740
 80202009,Hogar y Electro,Noritex,Portaretrato 3Pzas 531-26742
@@ -5786,6 +5830,19 @@ id,category,brand,name
 80208414,"Bebidas, Licores y Tabacos",Huari,Sv 3X2 Cerveza Huari Trigo 330Ml
 80208415,"Bebidas, Licores y Tabacos",Somos,Sv 4 Cerveza Pacena Lata 473 Ml
 80208419,"Bebidas, Licores y Tabacos",Mendocina,Sv 2 Gaseosa Mendocina Ginger Ale 2Lt
+80208518,"Snack, golosinas y galletas",Quality Street,Chocolate Quality S Tin Ps 900Gr
+80208519,"Snack, golosinas y galletas",Quality Street,Chocolate Quality S Giant P 330Gr
+80208520,"Snack, golosinas y galletas",Quality Street,Chocolate Quality S Tin Ps 2Kg
+80208521,"Snack, golosinas y galletas",Smarties,Chocolate Smarties Giant Tube 120Gr
+80208522,"Snack, golosinas y galletas",,Chocolate M&amp;M Friends
+80208523,"Snack, golosinas y galletas",,Chocolates M&amp;M Friends 139Gr
+80208524,"Snack, golosinas y galletas",Lindt,Chocolate Lindt Milk 337Gr
+80208525,"Snack, golosinas y galletas",Lindt,Chocolate Lindt Milk 37Gr
+80208526,"Snack, golosinas y galletas",Smarties,Chocolate Smarties Pink Tube 120Gr
+80208527,"Snack, golosinas y galletas",After Eight,Chocolates After Eight Tube 80Gr
+80208528,"Snack, golosinas y galletas",,Chocolate Tree Dec 108Gr
+80208529,"Snack, golosinas y galletas",Smarties,Chocolate Smarties Orange Tube 120Gr
+80208530,Abarrotes,,Caramelos Fruit Tube 115Gr
 560500173,Bebés y Nin@s,Mattel,Autos Mattel  Hot Weels 5Gift St
 560500174,Bebés y Nin@s,Mattel,Auto Mattel Surtido Hotwheels C4982
 560500178,Bebés y Nin@s,Hasbro,Plastilina Hasbro Playdoh Picnic
