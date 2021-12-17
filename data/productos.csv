@@ -10,6 +10,7 @@ id,category,brand,name
 1060280,Abarrotes,Sabrosa,Aceite Sabrosa 4.5L
 1061873,Abarrotes,Fino,Aceite Fino Light 4500Ml
 1080100,Lácteos,Karina,Manteca Karina 450 Gr
+2020472,Abarrotes,Gourmet,Base Gourmet Hamburguesa 90Gr
 2020475,Abarrotes,Gourmet,Base Gourmet Chapsui 33Gr
 2030207,Abarrotes,Kris,Ketchup Kris Doypack 1000Gr
 2030483,Abarrotes,Hellmanns,Ketchup Hellmanns 400Gr
@@ -24,6 +25,8 @@ id,category,brand,name
 2060715,Abarrotes,Hunts,Pasta De Tomate Hunts Natural 170Gr
 2061120,Abarrotes,Mc Ilhenny,Tabasco Mcilhenny Original 60Ml
 2061122,Abarrotes,Mc Ilhenny,Tabasco Mcilhenny Original 150Ml
+2070850,Abarrotes,Gourmet,Salsa Gourmet Alfredo 41Gr
+2070853,Abarrotes,Gourmet,Salsa Gourmet Champinones 30Gr
 2081241,Abarrotes,Favinco,Vinagre Favinco Manzana 500Ml
 2081242,Abarrotes,Favinco,Vinagre Favinco Manzana 1Lt
 2081244,Abarrotes,Favinco,Vinagre Favinco Alcohol Blanco 1Lt
@@ -315,6 +318,7 @@ id,category,brand,name
 16060060,Abarrotes,Irupana,Miel  Irupana De Abeja 670Gr
 16060061,Abarrotes,Irupana,Miel Irupana De Cana 360 Gr
 16061264,Abarrotes,Gourmet,Jarabe Gourmet Chocolate 280Gr
+16061266,Abarrotes,Gourmet,Jarabe Gourmet Frutilla 300Gr
 16070053,Lácteos,Nestle,Manjar Nestle 1Kg
 16070075,Lácteos,Pil,Dulce De Leche Pil 250Gr Vaso
 16070201,Lácteos,Sancor,Dulce De Leche Sancor 1Kg
@@ -400,6 +404,7 @@ id,category,brand,name
 22021187,"Snack, golosinas y galletas",El Ceibo,Gragea El Ceibo Mani 100Gr
 22030752,Abarrotes,Gourmet,Esencia Gourmet Vainilla 100Ml
 22030757,Abarrotes,Gourmet,Esencia Gourmet Vainilla 155Ml
+22030759,Abarrotes,Gourmet,Esencia Gourmet Vainilla 500Ml
 23024300,Refrigerado y Congelado,Rapidmasa,Tapas Pempan Rapidmasa  Chica Freir
 23024304,Refrigerado y Congelado,Rapidmasa,Tapas Pempan Rapidmasa  Chica Horno
 23024320,Refrigerado y Congelado,Rapidmasa,Masa Rapidmasa  Hojaldre 1Kg
@@ -463,6 +468,7 @@ id,category,brand,name
 26021804,Lácteos,Delizia,Leche Delizia 946Ml Larga Vida Light
 26021823,Lácteos,Pil,Leche Soy De Soya Banana 946 Ml
 26030177,Lácteos,Nestle,Crema De Leche Nestle 300Gr
+26031062,Abarrotes,Gourmet,Crema Gourmet Chantilly Lucuma 56Gr
 26031064,Abarrotes,Gourmet,Crema Gourmet Chantilly Chocolate 65Gr
 26031070,Abarrotes,Gourmet,Crema Gourmet Chantilly 60Gr
 26040220,Lácteos,Pil,Mantequilla Pil 200Gr Csal Paquete
@@ -539,6 +545,7 @@ id,category,brand,name
 29026301,Refrigerado y Congelado,Dmar,Cola Langostino Dmar Camaron 36 40 500Gr
 29026303,Refrigerado y Congelado,Dmar,Cola Langostino Dmar Camaron Iqf 400Gr
 29026304,Refrigerado y Congelado,Dmar,Mariscos Dmar Mixtura Iqf 400Gr
+30010031,Abarrotes,Gourmet,Colapiz Loor 3Un En Laminas
 30010355,Abarrotes,Kris,Gelatina Kris Frutilla 230Gr
 30010356,Abarrotes,Kris,Gelatina Kris Cereza 230Gr
 30010357,Abarrotes,Kris,Gelatina Kris Pina 230Gr
@@ -1245,6 +1252,8 @@ id,category,brand,name
 80131963,Abarrotes,Gourmet,Crema Gourmet Esparragos 53Gr
 80131964,Abarrotes,Gourmet,Crema Gourmet Zapallo 53Gr
 80131967,Abarrotes,Gourmet,Crema Gourmet Espinacas 53Gr
+80131969,Abarrotes,Gourmet,Salsa Gourmet Pesto 30Gr
+80131972,Abarrotes,Gourmet,Base Gourmet Apanar Pollo-Pescado 80Gr
 80131973,Abarrotes,Gourmet,Crema Gourmet Pastelera 78Gr
 80132098,Aseo y Limpieza,Ola,Lavavajilla Ola Manzana Spring 1050Ml
 80132101,Aseo y Limpieza,Skip,Detergente Skip Intelligent 800Gr
@@ -1443,6 +1452,7 @@ id,category,brand,name
 80147242,Hogar y Electro,,Corona Miro Nav 40Cm Vi-017
 80147244,Hogar y Electro,,Corona Miro Nav  30Cm Vi-011
 80147275,Hogar y Electro,,Guirnalda Miro Nav 274X20Cm Vi-002
+80147318,Refrigerado y Congelado,Sofia,Pollo Sofia Relleno C\/Arroz A La Valenc
 80147319,Productos frescos,Sofia,Pavo Sofia Congelado X Kilo
 80147399,Mascotas,Whiskas,Comida Whiskas Carne 1Kg
 80147400,Mascotas,Whiskas,Comida Whiskas Pollo Y Leche 1Kg
@@ -1684,6 +1694,7 @@ id,category,brand,name
 80155382,Bebés y Nin@s,Pequenin,Panal Pequenin Extraconfort Plus G 40Un
 80155383,Bebés y Nin@s,Pequenin,Panal Pequenin Extraconfort Plus Xg 36Un
 80155384,Bebés y Nin@s,Pequenin,Panal Pequenin Extraconfort Plus Xxg 32U
+80155428,Abarrotes,Gourmet,Salsa Gourmet Blanca 36Gr
 80155504,Vinos,,Vino Torres Grans Sangre De Toro 750Ml
 80155508,"Bebidas, Licores y Tabacos",Jagermeister,Jagermeister 700Ml
 80156025,Bebés y Nin@s,Pequenin,Panal Pequenin Recien Nacido Et 0 30Un
@@ -1736,10 +1747,25 @@ id,category,brand,name
 80157606,Aseo y Limpieza,Asatex,Guante Asatex Cl Household Colores T\/S
 80157607,Aseo y Limpieza,Asatex,Guante Asatex Cl Household Colores T\/M
 80157670,Panadería y Pastelería,San Gabriel,Pan Molde San Gabriel Multicereal 650Gr
+80157683,Abarrotes,Gourmet,Base Gourmet Pollo Crispy 80Gr
+80157685,Abarrotes,Gourmet,Base Gourmet Goulash 33Gr
+80157686,Abarrotes,Gourmet,Base Gourmet Papas Gratinadas 50G
+80157687,Abarrotes,Gourmet,Base Gourmet Carne Mongoliana 30Gr
+80157688,Abarrotes,Gourmet,Crema Gourmet Alcachofas 53Gr
+80157689,Abarrotes,Gourmet,Crema Gourmet Camarones 50Gr
+80157691,"Bebidas, Licores y Tabacos",Gourmet,Base Gourmet Pisco Sour Mix 200Gr
+80157697,"Snack, golosinas y galletas",Gourmet,Salsa Gourmet Ajo&amp;Oregano 200Gr
+80157699,"Snack, golosinas y galletas",Gourmet,Salsa Gourmet Cheddar\/Jalapeã‘O 200G
+80157700,"Snack, golosinas y galletas",Gourmet,Salsa Gourmet Yogurt&amp;Ciboulette 200Gr
 80157701,Abarrotes,Gourmet,Esencia Gourmet Cola De Mono 100Ml
 80157702,Abarrotes,Gourmet,Esencia Gourmet Pan De Pascua 60Ml
+80157703,Abarrotes,Gourmet,Esencia Gourmet Almendra 60Ml
 80157704,Abarrotes,Gourmet,Esencia Gourmet Anis 60Ml
+80157706,Abarrotes,Gourmet,Esencia Gourmet Naranja 60Ml
 80157707,Abarrotes,Gourmet,Esencia Gourmet Canela 60Ml
+80157709,Abarrotes,Gourmet,Esencia Gourmet Limon 60Ml
+80157710,Abarrotes,Gourmet,Esencia Gourmet Coco 60Ml
+80157712,Abarrotes,Gourmet,Caldo Gourmet Verduras 4Un
 80157716,Productos frescos,Sin Marca,Golden Berry Por Kilo
 80157733,Aseo y Limpieza,Skip,Detergente Skip Reg Perfect Result 3.8Kilogram
 80157746,Abarrotes,Sabor Andino,Quinua Sabor Andino Real Blanca Cj 500Gr
@@ -2016,6 +2042,7 @@ id,category,brand,name
 80170056,Bebés y Nin@s,,Blusa Bungee Nina Dif Talla 2030117001
 80170078,Bebés y Nin@s,,Polera Bungee Nino Dif Talla 3030125802
 80170149,Cuidado Personal,Plenitud,Panal Plenitud Adulto G\/Xg 20Un
+80170295,Abarrotes,Gourmet,Chocolate Gourmet Granulado 100Gr
 80170298,Abarrotes,Gourmet,Deco Reposteria Gourmet Multicolor 100Gr
 80170300,Refrigerado y Congelado,Sofia,Hamburguesa Sofia Tubo Pavo 670Gr
 80170323,"Snack, golosinas y galletas",B&R,Salsa B&amp;R Nachos Picante 360Gr
@@ -2025,6 +2052,8 @@ id,category,brand,name
 80170328,Abarrotes,Gourmet,Merengue Gourmet Polvo 180Gr
 80170329,Abarrotes,Gourmet,Coco Rallado Gourmet Blanco 100Gr
 80170330,Abarrotes,Gourmet,Coco Rallado Gourmet Rosado 100Gr
+80170332,Abarrotes,Gourmet,Colorante Gourmet R-A-A 75Ml
+80170333,Abarrotes,Gourmet,Colorante Gourmet M-C-F 75Ml
 80170435,"Bebidas, Licores y Tabacos",Aquarius,Bebida Aquarius Pomelo 500Ml
 80170436,"Bebidas, Licores y Tabacos",Aquarius,Bebida Aquarius Pomelo 2Lt
 80170619,Aseo y Limpieza,Bistro,Envase Aluminio Bistro 5350Ml 90193688
@@ -2210,6 +2239,7 @@ id,category,brand,name
 80176060,Aseo y Limpieza,Vanish,Quitamanchas Vanish Power Gel 201Gr
 80176061,Refrigerado y Congelado,Sofia,Tenders Sofia De Pollo 500Gr
 80176081,"Snack, golosinas y galletas",Piqueo,Snacks Piqueo Snax 210G
+80176181,Refrigerado y Congelado,Sofia,Arrollado De Pollo Sofia Congelado 1Kg
 80176184,Lácteos,Pil,Leche Pil Cafe 800Ml Bolsa
 80176229,Lácteos,Pil,Pilfrut Pil Durazno Bolsa 200Ml
 80176230,Lácteos,Pil,Pilfrut Pil Manzana Bolsa 200Ml
@@ -3616,6 +3646,7 @@ id,category,brand,name
 80197733,Aseo y Limpieza,Surf,Detergente Surf Coco 800Gr
 80197750,Cuidado Personal,Elvive,Shampoo Elvive Arcilla  400 Ml
 80197755,Productos frescos,Simplot,Papa Frita Congelada Simplot 10Mm 2.5Kg
+80197759,Abarrotes,Gourmet,Jarabe Gourmet Choc S\/Az Anadida
 80197768,"Bebidas, Licores y Tabacos",La Curiosa,Vino La Curiosa Cab Sauv 750Ml
 80197902,"Bebidas, Licores y Tabacos",,Vermut Yerbasanta Amazonico 900Ml
 80197905,"Snack, golosinas y galletas",Sublime,Galletas Sublime X6 276G
@@ -4637,6 +4668,24 @@ id,category,brand,name
 80203259,Hogar y Electro,Ufesa,Tostador De Pan Ufesa 4 Uni 1400W Tt7375
 80203263,"Snack, golosinas y galletas",,Trufas Lindor Corazon Surt 168G
 80203276,Abarrotes,Post,Cereal Post Fruit Pebbles 56Gr
+80203277,Abarrotes,Gourmet,Sazonador Gourmet P\/ Tacos 48Gr
+80203278,Abarrotes,Gourmet,Sazonador Gourmet Guacamole 28Gr
+80203279,Abarrotes,Gourmet,Decoracion Gorumet Corazones Multi 80Gr
+80203281,Abarrotes,Gourmet,Base Gorumet P\/Ceviche
+80203283,Abarrotes,Gourmet,Premezcla Gourmet P\/Galletas Chips 420Gr
+80203284,Abarrotes,Gourmet,Mezcla Gorumet P\/Queque Chips Choc 450Gr
+80203285,Abarrotes,Gourmet,Chips Gourmet Chocolate 200Gr
+80203286,Abarrotes,Gourmet,Confetti Gourmet Multicolor 80Gr
+80203287,Abarrotes,Gourmet,Decoracion Gourmet Fiesta 80Gr
+80203288,Abarrotes,Gourmet,Fondant Gourmet En Polvo 200Gr
+80203291,Abarrotes,Gourmet,Salsa Gourmet P\/Carne 30Gr
+80203292,"Snack, golosinas y galletas",Gourmet,Salsa Gourmet D\/Queso
+80203293,"Snack, golosinas y galletas",Gourmet,Salsa Gourmet P\/Untar Ceb Carm Y Ajo 200
+80203294,"Snack, golosinas y galletas",Gourmet,Salsa Gourmet P\/Untar Alca Y Espi 200Gr
+80203295,Abarrotes,Gourmet,Syrap Gourmet Salsa D\/Frambuesa 280Gr
+80203298,Abarrotes,Gourmet,Premezcla Gourmet P\/Brownie 300Gr
+80203299,Abarrotes,Gourmet,Premezcla Gourmet P\/Cupcake Choc 300Gr
+80203300,Abarrotes,Gourmet,Mezcla Gourmet P\/Vainilla 500Gr
 80203307,,Delizia,Helado Crema Delizia Trufa Gostosa 450Gr
 80203310,Hogar y Electro,Tolsen,Alicate De Punta 8&quot; M Acero Tolsen  260G
 80203311,Hogar y Electro,Tolsen,Alicate Universal 8&quot; Tolsen  380Gr
@@ -5090,6 +5139,7 @@ id,category,brand,name
 80206453,"Bebidas, Licores y Tabacos",Pura Vida,Nectar Pura Vida Frutts Manzana  3 Lt
 80206454,"Bebidas, Licores y Tabacos",Pura Vida,Nectar Pura Vida Frutts Durazno 3 Lt
 80206455,Refrigerado y Congelado,Sofia,Lomo Canadiense Kostlich  130G.
+80206465,Aseo y Limpieza,Sapolio,Lavandina Sapolio  1L
 80206466,"Bebidas, Licores y Tabacos",Real,Cerveza Real Lager Lata 269 Ml
 80206477,Productos frescos,Fruver,Curcuma Kg
 80206509,Cuidado Personal,Septona,Disco De Algodon Septona  100 Unid
