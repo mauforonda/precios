@@ -2,6 +2,7 @@ id,category,brand,name
 202773,Panadería y Pastelería,Ketal,Pan Ketal Baguete Por Unidad
 1020075,Abarrotes,Sabrosa,Aceite Sabrosa Girasol 900Ml
 1040081,Abarrotes,Carbonell,Aceite Carbonell Virg Extr. Fco 500Ml
+1040160,Abarrotes,Ketal,Aceite Cocinero Oliva Pet 500Ml
 1060132,Abarrotes,Fino,Aceite Fino 900Ml
 1060135,Abarrotes,Fino,Aceite Fino 1.8 Lt
 1060136,Abarrotes,Fino,Aceite Fino Light 900Ml
@@ -304,8 +305,10 @@ id,category,brand,name
 15100101,"Snack, golosinas y galletas",,Pipoca P\/Micrond Act Ii Manteq Light 85G
 15140570,Lácteos,Pil,Yogurt Pil Light Frutilla 1000Ml Botella
 15140571,Lácteos,Pil,Yogurt Pil Light Durazno 1000Ml Botella
+16010173,"Snack, golosinas y galletas",Ketal,Masticable Arcor Frutas 800Gr
 16010193,"Snack, golosinas y galletas",Arcor,Caramelo Arcor Relleno Frutales 810Gr
 16010370,"Snack, golosinas y galletas",Breick,Gomita Breick Bolsa 140Gr
+16011581,"Snack, golosinas y galletas",Ketal,Masticable Sugus Plegado 700Gr
 16014420,"Snack, golosinas y galletas",Cristal,Caramelo Arcor Menta Cristal 150Gr
 16020151,"Snack, golosinas y galletas",Air Heads,Masticable Airheads Blue Raspberry 16G
 16020156,"Snack, golosinas y galletas",Air Heads,Masticable Airheads Watermelon 16G
@@ -1413,6 +1416,7 @@ id,category,brand,name
 80144822,Cuidado Personal,Dove,Crema Dove Nutricion Cremosa 400Ml
 80144831,"Snack, golosinas y galletas",Breick,Tableta Breick Chocolat Amargo 60% 100Gr
 80144833,"Snack, golosinas y galletas",Breick,Tableta Breick Chocolat Amargo 50% 100Gr
+80144844,"Snack, golosinas y galletas",Ketal,Chocolate Hersheys Miniatura 150Gr
 80144856,"Snack, golosinas y galletas",Para Ti,Grageas Para Ti Arroz 100Gr
 80144906,Cuidado Personal,Colgate,Hilo Dental Colgate Fluor Y Menta 25Mt
 80144935,Lácteos,Delizia,Yogurt Delizia Familiar Mora 2Lt
@@ -1518,6 +1522,7 @@ id,category,brand,name
 80150635,"Bebidas, Licores y Tabacos",Bacardi,Ron Bacardi Anejo 5 Anos 750Ml
 80150653,"Snack, golosinas y galletas",Haribo,Gomitas Haribo Super Mix 175Gr
 80150655,"Snack, golosinas y galletas",Haribo,Gomitas Haribo Tangfastics 160Gr
+80150675,"Snack, golosinas y galletas",Ketal,Pack 4X3 Pipocas Act Ii 358G
 80150755,Lácteos,Pil,Leche Pil Entera 3 Uht 946Ml
 80150791,"Bebidas, Licores y Tabacos",Havana Club,Ron Havana Club Anejo Especial 1L
 80150851,Hogar y Electro,Ika,Caldera Ika Electrica He-9970
@@ -1775,6 +1780,7 @@ id,category,brand,name
 80157815,Cuidado Personal,Nosotras,Toalla Fem Nosotras Invisib Rapigel 10Un
 80157890,Cuidado Personal,Liz,Sanitizador Liz Lavanda 360Ml
 80157901,Abarrotes,Mc Cormick,Paprika Mccormick Pet 53Gr
+80157903,Abarrotes,Ketal,Canela Mccormick Molida Pet 55Gr
 80157912,Abarrotes,,Azafran De Cachemira Kailash 2Gr
 80157913,Abarrotes,,Azafran De Cachemira Kailash 1Gr
 80157922,Abarrotes,Comrural,Quinua Quinut Blanca 1Kg
@@ -1972,6 +1978,7 @@ id,category,brand,name
 80167690,Abarrotes,Angelmo,Cholgas Angelmo En Aceite 425Gr
 80167692,Abarrotes,Angelmo,Cholgas Angelmo En Aceite 190Gr
 80167694,Panadería y Pastelería,Reyna,Paneton Reyna C\/Chisp De Chocola Ca 500G
+80167720,Abarrotes,Ketal,Cebolla Mccormick En Polvo 66Gr
 80167767,Aseo y Limpieza,Ola,Ambientador Aromatic Lavanda 300Ml
 80167770,Cuidado Personal,Liz,Jabon Liq Liz Seduccion Floral 1Lt
 80167776,Aseo y Limpieza,Ola,Bolsa Ola P\/Basura 60X63Cm 35Lt 10Un
@@ -2018,6 +2025,7 @@ id,category,brand,name
 80169461,Refrigerado y Congelado,Sofia,Chorizo Sofia Parrillero Vacio 5Kg
 80169517,Hogar y Electro,Black&amp;Decker,Hervidor Black&amp;Decker Plast Jhc681
 80169581,"Snack, golosinas y galletas",Bloch,Maiz Pipoca Bloch 400Gr
+80169584,Abarrotes,Ketal,Te Hindu Esvelta Frutos Rojos 20Un
 80169585,"Bebidas, Licores y Tabacos",Hindu,Te Hindu Helado Frutos Rojos 300Gr
 80169643,Refrigerado y Congelado,Mendia,Tapas Empanadas Mendia Freir 390Gr
 80169647,Refrigerado y Congelado,Mendia,Ravioles Mendia Ricota Espinaca 500Gr
@@ -2307,7 +2315,7 @@ id,category,brand,name
 80177981,"Bebidas, Licores y Tabacos",Frutall,3 Pack  Frut-All  Varios Exotico 1Lt
 80178023,Hogar y Electro,Moduart,"Escritorio Moduart Cajon 73,5Cm X 160Cm X 67Cm"
 80178025,Abarrotes,,Mermelada Nutrijam Quinua Durazno 340Gr
-80178044,"Snack, golosinas y galletas",Sublime,Sv 4 Chocolate Sublime En Barra 30G
+80178044,"Snack, golosinas y galletas",Ketal,Sv 4 Chocolate Sublime En Barra 30G
 80178080,Cuidado Personal,Gillette,Aerosol Gillette Artic Ice 150Ml
 80178118,BlackWeek,Maybelline,Labial Maybelline Craving Cora 685 4.2Gr
 80178122,BlackWeek,Maybelline,Labial Maybelline Nude Embrace 650 4.2Gr
@@ -2803,7 +2811,7 @@ id,category,brand,name
 80189112,Hogar y Electro,,Muneco Miro Nav Dif Mod 2-005Wj
 80189113,Hogar y Electro,,Colg Miro Nav Placa  2-007Wj
 80189137,Hogar y Electro,,Ornam Miro Nav Dif Mod 12Cm -092Cp
-80189147,"Snack, golosinas y galletas",Charge,Sv 4 Chocolate Charge 40Gr
+80189147,"Snack, golosinas y galletas",Ketal,Sv 4 Chocolate Charge 40Gr
 80189158,Cuidado Personal,Axe,Deo Axe Bs Gold O. Wood\/D. Vainilla 96Gr
 80189160,Cuidado Personal,Dove,Aco Dove Oleo-Micelar 400Mlx12
 80189164,Cuidado Personal,Nivea,Deo Nivea Spray Fresh Ocean 150Ml
@@ -2873,6 +2881,7 @@ id,category,brand,name
 80190116,"Bebidas, Licores y Tabacos",Four Loko,Bebida Four Loko Sandia 473Ml
 80190117,"Bebidas, Licores y Tabacos",Four Loko,Bebida Four Loko Black 473Ml
 80190120,"Snack, golosinas y galletas",Fini,Marshmallows Fini Torcido  250Gr
+80190123,Abarrotes,Ketal,Te Verde Hindu Jengibre - Miel 26Gr
 80190150,Hogar y Electro,Somela,Plancha A Vapor Somela 1200 W Pv320
 80190153,Hogar y Electro,Somela,"Hervidor De Agua Somela 1,7 Lts He300"
 80190155,Hogar y Electro,Somela,Tostador De Pan Somela 4 Rebandas Tp4T
@@ -3079,6 +3088,7 @@ id,category,brand,name
 80193259,Hogar y Electro,Glory,Lavadora De Verduras Kt1804
 80193260,Hogar y Electro,Glory,Paraguas Básico Kt1772
 80193261,Hogar y Electro,Glory,Paragua Negro Automa Kt1773
+80193264,"Snack, golosinas y galletas",Ketal,Pack 5 Galletas Wafer Wafs Cubitos 5X50G
 80193271,Hogar y Electro,Glory,Taza C\/ Cuch Tapa Kt1825
 80193272,Hogar y Electro,Glory,Taza C\/ Cuch Tapa De Bamboo Kt1831
 80193273,Hogar y Electro,Glory,Taza C\/ Cuch Tapa Kt1832
@@ -3114,6 +3124,7 @@ id,category,brand,name
 80193619,Hogar y Electro,Concepts,Delantal Concepts 100% Alg 55X75Cm 713
 80193620,Hogar y Electro,Concepts,Individual Concepts 100% Alg 30X45Cm 716
 80193621,Hogar y Electro,Concepts,Individual Concepts 100% Alg 30X45Cm 724
+80193628,"Snack, golosinas y galletas",Ketal,Mate Hindu Manz\/Miel\/Jengibre 20Un
 80193646,Hogar y Electro,Noritex,Vela 8.9X8Cm 651471
 80193654,Hogar y Electro,Noritex,Vela  -75016
 80193681,Hogar y Electro,Tramontina,Kit Tramontina P\/Ninos 2Pza 660
@@ -3692,12 +3703,14 @@ id,category,brand,name
 80198485,Hogar y Electro,Thomson,Vajilla Thomson Bali Blue 16Pza 224088
 80198490,Hogar y Electro,Thomson,Vajilla Thomson Pinstripe 16Pza 205038T
 80198507,"Snack, golosinas y galletas",Dr. Picks,Snack Dr. Picks Conitos Queso Nacho 230G
+80198509,Abarrotes,Ketal,Sal Rosada Montesal Fina De Mesa 150Gr
 80198516,"Bebidas, Licores y Tabacos",Frutss,Aqua Frutss Pera 2Lt
 80198520,"Bebidas, Licores y Tabacos",1825,Vodka 1825 700Ml
 80198532,Productos frescos,Ketal,Pitahaya Fresca Rosa X Un
 80198533,Productos frescos,Ketal,Pitahaya Fresca Amarilla X Un
 80198541,Cuidado Personal,Ufesa,Secador De Pelo  Ufesa 2400 W Plegable S
 80198579,Lácteos,Pil,Leche De Soya Chirimoya 946 Ml
+80198595,Hogar y Electro,Ketal,Marshmallows Fini Americano 80G
 80198606,"Bebidas, Licores y Tabacos",La Republica,Ginebra La Republica R Del Maestro 700Ml
 80198612,Abarrotes,Carozzi,Pack 3 Pasta Carozzi Surt 1.2Kg
 80198634,Abarrotes,Ole,Salsa De Tomate Ole Preparada 260G
@@ -4009,6 +4022,10 @@ id,category,brand,name
 80200796,"Bebidas, Licores y Tabacos",Chivas,Whisky Chivas 12 Anos + Vaso Largo 1Lt
 80200799,Cuidado Personal,Elvive,Shampoo Elvive Dream Long Liss 400 Ml
 80200804,"Bebidas, Licores y Tabacos",Paceña,COMBO Parrillero p\/6 Personas Pacena Lata 473ml
+80200822,"Snack, golosinas y galletas",Ketal,Galletas Wafer Isabela Chocolate 100G
+80200824,"Snack, golosinas y galletas",Ketal,Galletas Wafer Isabela Frutilla 100G
+80200825,"Snack, golosinas y galletas",Ketal,Galletas Wafer Isabela Choc Blanco 100G
+80200827,"Snack, golosinas y galletas",Ketal,Galletas Wafer Isabela Choc Suizo 100G
 80200844,Hogar y Electro,Bosch,Cocina Bosch 60 Cm 4 Hornallas Pro449Ix
 80200845,Hogar y Electro,Bosch,Cocina Bosch 77 Cm 5 Hornallas Pro549Ix
 80200846,Hogar y Electro,Bosch,Cocina Bosch 77 Cm 5 Hornallas Pro567Ix
@@ -4516,6 +4533,8 @@ id,category,brand,name
 80202458,Vinos,1750,Tinto 1750 Syrah 750 Ml
 80202459,Vinos,1750,Blanco 1750 Pedro Gimenez 750 Ml
 80202481,"Snack, golosinas y galletas",Cheetos,Snacks Cheetos Queso 200Gr
+80202495,Abarrotes,Ketal,Aceitunas Gustoso Rellenas Jalapeno 340G
+80202496,Abarrotes,Ketal,Aceitunas Gustoso Rellenas Aji Amar 340G
 80202509,Hogar y Electro,Rey,Bebetodo Rey Hermetico 1Lt Ttv020000
 80202510,Hogar y Electro,Rey,Bebetodo Rey Yaku 850Ml Ttv043000
 80202516,Mascotas,Monello,"Alim Monello Gato Castrado  10,1 Kg"
@@ -4746,6 +4765,8 @@ id,category,brand,name
 80203788,Bebés y Nin@s,Huggies,Panal Huggies Actsec Pants Xxl 58Und
 80203789,Bebés y Nin@s,Huggies,Panal Huggies Actsec Pants Xl 66Und
 80203803,"Snack, golosinas y galletas",Ducal,Pack 2 Galletas Ducal 2X294G +Atun 170G
+80203806,Abarrotes,Ketal,Atun Gustoso En Aceite 170G
+80203807,Abarrotes,Ketal,Atun Gustoso En Agua 170G
 80203808,Abarrotes,Gustoso,Sardinas Gustoso Salsa De Tomate 155G
 80203824,Refrigerado y Congelado,Stege,Hamburguesa Stege Arveja 280 Gr
 80203825,Refrigerado y Congelado,Stege,Hamburguesa Stege Quinoa 281 Gr
@@ -5196,6 +5217,9 @@ id,category,brand,name
 80206738,Abarrotes,Reyna,Pina Reyna En Trozos 850G
 80206739,Abarrotes,La Mesa,Palmitos La Mesa Entero 800G
 80206740,Abarrotes,Quaker,Avena Quaker Multisemillas 590G
+80206743,"Snack, golosinas y galletas",Ketal,Chocolate Sin Azucares Leche 70G
+80206744,"Snack, golosinas y galletas",Ketal,Chocolate Sin Azucares Almendras 70G
+80206745,"Snack, golosinas y galletas",Ketal,Chocolate Sin Azucares Blanco 70G
 80206751,"Snack, golosinas y galletas",Georgalos,Turron Georgalos Torroni 40G
 80206752,"Snack, golosinas y galletas",Georgalos,Turron Georgalos Chocolate 75G
 80206753,"Bebidas, Licores y Tabacos",Villa Santa,Pack Villa Santa Rosa Celeste 600Ml
@@ -5228,6 +5252,7 @@ id,category,brand,name
 80206955,Cuidado Personal,Sin Marca,Jabon Liq Ballerina Maqui Acai  900Ml
 80206961,Refrigerado y Congelado,Sofia,Butifarra Kostlich Con Jalapeno 320G
 80206962,Productos frescos,Sofia,Entrana De Cerdo Congelada Al Vacio 550G
+80206964,"Snack, golosinas y galletas",Ketal,Gomitas Mogul Frutillas Acidas 150G
 80206979,Lácteos,Eba,Leche Eba Asai 1L
 80206980,Lácteos,Eba,Queso Eba Fundido 200G
 80206982,Lácteos,Eba,Combo 10 Leche Eba Asai 140Ml
