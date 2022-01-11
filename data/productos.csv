@@ -333,6 +333,7 @@ id,category,brand,name
 17010486,Refrigerado y Congelado,Stege,Jamon Stege Kilogram Ingles
 17010515,Refrigerado y Congelado,Stege,Morcilla Stege Empacada Kg
 17010560,Refrigerado y Congelado,Stege,Salchicha Stege Kg Bock
+17010582,Refrigerado y Congelado,Stege,Tocino Stege Kg Cortado
 17010586,Refrigerado y Congelado,Stege,Chorizo Stege Ahumado 4Un Vacio
 17011342,Refrigerado y Congelado,Extra,Jamon Especial Extra Por Kilo
 17030179,Refrigerado y Congelado,Sofia,Salchicha Sofia Viena Por Kilo
@@ -344,6 +345,7 @@ id,category,brand,name
 17070872,Refrigerado y Congelado,Stege,Milanesa De Pollo Stege 600Gr X 6Un
 17070882,Refrigerado y Congelado,Stege,Silpancho Stege  650Gr
 17070892,Refrigerado y Congelado,Stege,Mortadela Stege Cervecero Vacio 140 Gr
+17070896,Refrigerado y Congelado,Stege,Pate Stege Berlines Pequeno 100Gr
 18010220,Abarrotes,Carozzi,Fideo Carozzi Sopa Granizado 400G
 18010534,Abarrotes,La Estrella,Fideo La Estrella 400Gr
 18010537,Abarrotes,La Estrella,Fideo La Estrella 1.2 Kg
@@ -525,10 +527,12 @@ id,category,brand,name
 26094929,Lácteos,Jupiter,Queso Cremoso Melincue X Kg
 26094930,Lácteos,Melingue,Queso Por Salut Magro Melincue 4.5 Kg
 26094936,Lácteos,,Queso Tybo Melincue Barra 4.5Kg
+27010076,Refrigerado y Congelado,Delizia,Helado Dlz. Famil.Chirmoya Alegre 1Lt
 28030124,Panadería y Pastelería,La Francesa,Pan La Francesa  Molde Blanco
 28030125,Panadería y Pastelería,La Francesa,Pan La Francesa 500Gr Miga Extra
 28030127,Panadería y Pastelería,La Francesa,Pan La Francesa  Molde Integral
 28030138,Panadería y Pastelería,La Francesa,Pan La Francesa  Hot Dog Pancho 77 12Un
+28030220,Panadería y Pastelería,Mamina,Pan Mamina Medias Lunas
 28030303,Panadería y Pastelería,Criss,Pan Cris  Sarnita
 28030320,Panadería y Pastelería,Criss,Pan Cris  Cena
 28030330,Panadería y Pastelería,Criss,Pan Cris  Hamburguesa
@@ -1208,6 +1212,7 @@ id,category,brand,name
 80004871,"Bebidas, Licores y Tabacos",Barr,Gaseosa Barr Irn Bru Naranja Lata 330Ml
 80005108,Refrigerado y Congelado,Extra,Salchicha Xl Extra Al Vacio 6 Unid
 80005449,Lácteos,Pil,Crema De Leche Pil 1Lt Uht
+80005450,Lácteos,Pil,Crema De Leche Pil 500Ml Uht
 80005623,,,Vino Campos De Solana Rose 750Ml
 80005653,Lácteos,Pil,Leche Pil Entera Caja 1Lt
 80005654,Lácteos,Pil,Leche Pil Light 1 Lt Caja
@@ -1533,6 +1538,7 @@ id,category,brand,name
 80150635,"Bebidas, Licores y Tabacos",Bacardi,Ron Bacardi Anejo 5 Anos 750Ml
 80150653,"Snack, golosinas y galletas",Haribo,Gomitas Haribo Super Mix 175Gr
 80150655,"Snack, golosinas y galletas",Haribo,Gomitas Haribo Tangfastics 160Gr
+80150672,Lácteos,Delizia,Mantequilla Delizia Con Sal 200Gr
 80150675,"Snack, golosinas y galletas",Ketal,Pack 4X3 Pipocas Act Ii 358G
 80150755,Lácteos,Pil,Leche Pil Entera 3 Uht 946Ml
 80150791,"Bebidas, Licores y Tabacos",Havana Club,Ron Havana Club Anejo Especial 1L
@@ -1589,6 +1595,7 @@ id,category,brand,name
 80152267,Cuidado Personal,Remington,Afeitadora Elec Reming Pivot&amp;Flex Pr1235
 80152288,Lácteos,Regia,Margarina Regia Tapper 410 Gr
 80152318,Refrigerado y Congelado,Sofia,Jamon Sofia Pavo En Barra  X Kilo
+80152319,Productos frescos,Sofia,Pechuga De Pavo Sofia Ahumada Xkilo
 80152385,Bebés y Nin@s,Mattel,Muneca Mattel Barbie Zapat Mag Tlx8810
 80152411,Productos frescos,,Mora Por Kilo
 80152464,Vinos,,Vino Frontera Merlot 750Ml
@@ -1710,6 +1717,8 @@ id,category,brand,name
 80155382,Bebés y Nin@s,Pequenin,Panal Pequenin Extraconfort Plus G 40Un
 80155383,Bebés y Nin@s,Pequenin,Panal Pequenin Extraconfort Plus Xg 36Un
 80155384,Bebés y Nin@s,Pequenin,Panal Pequenin Extraconfort Plus Xxg 32U
+80155397,Lácteos,Delizia,Yogurt Delizia Silueta Frutilla 1Lt
+80155398,Lácteos,Delizia,Yogurt Delizia Silueta Vainilla 1Lt
 80155428,Abarrotes,Gourmet,Salsa Gourmet Blanca 36Gr
 80155504,Vinos,,Vino Torres Grans Sangre De Toro 750Ml
 80155508,"Bebidas, Licores y Tabacos",Jagermeister,Jagermeister 700Ml
@@ -1923,6 +1932,7 @@ id,category,brand,name
 80165431,"Bebidas, Licores y Tabacos",,Vino Espumante Altosama Brut 750Ml
 80165540,Hogar y Electro,Thomson,Vajilla Thomson Indies Grani 16Pz 204013
 80165548,Aseo y Limpieza,Cif,Antigrasa Cif P\/Cocina Gat 500Ml
+80165551,Aseo y Limpieza,Cif,Limpia Bano Cif Gatillo 500Ml
 80165552,Aseo y Limpieza,Cif,Limpia Bano Cif Repues Doyp 450Ml
 80165574,Cuidado Personal,Listerine,Enjua Buc Lister Coolmi 350Ml Llev 500Ml
 80165615,Aseo y Limpieza,Ola,Detergente Ola Limpieza Total 2 Kg
@@ -2037,6 +2047,7 @@ id,category,brand,name
 80169460,Refrigerado y Congelado,Sofia,Chorizo Sofia Res Picante por Kilo
 80169461,Refrigerado y Congelado,Sofia,Chorizo Sofia Parrillero Vacio 5Kg
 80169517,Hogar y Electro,Black&amp;Decker,Hervidor Black&amp;Decker Plast Jhc681
+80169542,Cuidado Personal,,Barbijo R&amp;G Blanca 3 Capas
 80169581,"Snack, golosinas y galletas",Bloch,Maiz Pipoca Bloch 400Gr
 80169584,Abarrotes,Ketal,Te Hindu Esvelta Frutos Rojos 20Un
 80169585,"Bebidas, Licores y Tabacos",Hindu,Te Hindu Helado Frutos Rojos 300Gr
@@ -2145,6 +2156,8 @@ id,category,brand,name
 80172831,Bebés y Nin@s,Colgate,Pasta Dent Colgate Smile Minions 6+ 75Ml
 80172874,Aseo y Limpieza,Skip,Detergente Skip Perfect Results 2Kilogram
 80172887,"Snack, golosinas y galletas",Kit Kat,Chocolate Nestle Kit Kat 41.5Gr
+80172897,Aseo y Limpieza,Sapolio,Ambientador Sapolio Jardin D\/Rosas 360Ml
+80172901,Aseo y Limpieza,Sapolio,Ambientador Sapolio Vainilla Franc 360Ml
 80172938,Productos frescos,Sofia,Pechuga De Pavo Sofia Al Vacio 200Gr
 80173030,Lácteos,Delizia,Yogurt Griego Delizia Durazno 170Gr
 80173031,Lácteos,Delizia,Yogurt Griego Delizia Fresa 170Gr
@@ -2321,6 +2334,7 @@ id,category,brand,name
 80177545,Lácteos,Pil,Leche Polvo Pil Deslactosada Sachet 760G
 80177617,BlackWeek,Maybelline,Polvo Fitme Matte Maybelline 220 8.5Gr
 80177620,BlackWeek,Maybelline,Polvo Fitme Matte Maybelline 330 8.5Gr
+80177623,Cuidado Personal,Kleenex,Panuelo Kleenex Pocket Kidz  Bolsa
 80177751,Hogar y Electro,Sin Marca,Separador Trudeau 3 Huevos  09605220
 80177823,Cuidado Personal,Colgate,Enj Bucal Colg Softmint Splash 250 Ml
 80177840,Abarrotes,Aji No Men,Sopa Lista Vaso Ajinomen Pollo 67Gr
@@ -2340,6 +2354,7 @@ id,category,brand,name
 80178137,Abarrotes,Supremo,Te Supremo Rosa Jamaica 20Un 20Gr
 80178141,"Snack, golosinas y galletas",Mabels,Maxi Wafer Mabels Chocolate 192Gr
 80178151,Vinos,,Combo 2 Vino C.Solana Encuentro 750Ml
+80178155,Cuidado Personal,Kleenex,Panuelo Kleenex Kids Triple Hoja 60.5Gr
 80178156,Productos frescos,Valenciana,Salsa Valenciana Pesto De Tomate 200Gr
 80178157,Productos frescos,Valenciana,Salsa Valenciana Hummus De Quinoa 200Gr
 80178158,Productos frescos,Valenciana,Salsa Valenciana Crema Huacataya 200Gr
@@ -2530,6 +2545,7 @@ id,category,brand,name
 80183239,Hogar y Electro,Hong Kong,Vela Halloween Digital 1Un
 80183379,Abarrotes,Don Vitorio,Salsa Don Vittorio Roja 400G
 80183495,Aseo y Limpieza,Perlita,Servilleta  Perlita Azul 500 Un
+80183497,Cuidado Personal,Perlita,Papel Hig  Perlita Mega 27 M 12 Un
 80183500,Bebés y Nin@s,Johnson &amp; Johnson,Jabon Liquido Johnson Antes De Dormir 40
 80183512,"Bebidas, Licores y Tabacos",Mendocina,Gaseosa Mendocina Sinalco 3Lt
 80183518,"Bebidas, Licores y Tabacos",Mendocina,Bipack Agua Mendocina Sin Gas 3Lt
@@ -3214,6 +3230,7 @@ id,category,brand,name
 80194371,Lácteos,Lactear,Queso Lactear Cheddar 4Kg
 80194373,Lácteos,Lactear,Queso Lactear Mozarella 4Kg
 80194375,Lácteos,Lactear,Queso Lactear Sardo 3.2Kg
+80194379,Lácteos,Lactear,Queso Lactear Gruyerito 10Kg
 80194384,Productos frescos,Valenciana,Salsa Valenciana Pesto Andino 200Gr
 80194385,Productos frescos,Valenciana,Salsa Valenciana Hummus De Pim Roj 200Gr
 80194454,Abarrotes,Hindu,Te Verde Hindu Pina 50 Un
@@ -3425,10 +3442,19 @@ id,category,brand,name
 80196155,Hogar y Electro,,Tapon Trudeau D\/Vino Expandible  9007
 80196164,Hogar y Electro,Trudeau,Botella Trudeau D\/Agua 768Ml 5306
 80196165,Hogar y Electro,Trudeau,Botella Trudeau D\/Agua 768Ml 5303
+80196166,Hogar y Electro,Trudeau,Contenedor Trudeau D\/Fruta 354Ml 9326
 80196167,Hogar y Electro,Trudeau,Contenedor Trudeau 2 Espacios  9326
 80196168,Hogar y Electro,Trudeau,Sandwichera Trudeau Bento Box  9326
+80196170,Hogar y Electro,Trudeau,Botella Trudeau D\/Salpicaduras  8327
+80196171,Hogar y Electro,Trudeau,Bolsa Trudeau D\/Almuerzo  8328
 80196172,Hogar y Electro,Trudeau,Contenedor Trudeau De Snack 236Ml 8329
+80196173,Hogar y Electro,Trudeau,Tazon Trudeau P\/Almuerzo 473Ml 8326
+80196174,Hogar y Electro,Trudeau,Botella Trudeau D\/Agua 500Ml 8327
+80196175,Hogar y Electro,Trudeau,Juego Trudeau D\/Cub Plegables  8328
 80196176,Hogar y Electro,Trudeau,Contenedor Trudeau D\/Bocadillos  8326
+80196178,Hogar y Electro,Trudeau,Contenedor Trudeau C\/Cubiertos  9326
+80196179,Hogar y Electro,Trudeau,Contenedor Trudeau Glaciar 236Ml 8329
+80196180,Hogar y Electro,Trudeau,Botella Trudeau Deportiva 500Ml 8327
 80196181,Hogar y Electro,Trudeau,Envase Trudeau D\/Comida 500Ml 8329
 80196182,Hogar y Electro,Trudeau,Sandwichera Trudeau Tropical 236Ml 8326
 80196208,Cuidado Personal,Tio Nacho,Shampoo Tio Nacho Coco 415 Ml
@@ -3764,6 +3790,7 @@ id,category,brand,name
 80198970,Cuidado Personal,Shabay,Alcohol En Gel Shabay Neutro 390Ml
 80198975,Mascotas,,Arena Gato Canada Litter Baby Power 6 Kg
 80198990,Cuidado Personal,Rex,Alcohol Rex Antibacterial Gel 1Lt
+80198996,Bebés y Nin@s,Huggies,Toalla Humeda Huggies Limp Efect X120
 80198999,Aseo y Limpieza,,Protector Facial Perceptron  1 Un
 80199008,Refrigerado y Congelado,Criss,Pre Pizza Criss Redonda Mediana 3Un
 80199015,Cuidado Personal,Recamier,Jabon Recamier Liq Frutos Rojos 300Ml
@@ -3808,6 +3835,7 @@ id,category,brand,name
 80199226,Abarrotes,Ri-K,Pack Ri-K Mayonesa\/Ketchup 500G+400G
 80199227,Abarrotes,Gustoso,Champinones Gustoso Lata 400G
 80199228,Aseo y Limpieza,Nacional,Papel Nacional Desechable Interf 150Un
+80199243,Refrigerado y Congelado,Osfim,Tocino Osfim Tocino Ahumado Por Kilo
 80199247,Refrigerado y Congelado,Osfim,Salchicha Osfim Sin Piel Granel Kilo
 80199258,Cuidado Personal,Sin Marca,Barbijo Senatex Triple Capa. Reutil 5Un
 80199260,Productos frescos,,Champinon Damush Blanco De Paris 150 Gr
@@ -3912,6 +3940,7 @@ id,category,brand,name
 80199996,Hogar y Electro,Stor,Botella Stor Minnie 400Ml 18832St
 80199997,Hogar y Electro,Stor,Botella Stor Mickey 400Ml 44232St
 80199998,Hogar y Electro,Stor,Botella Stor Unicornio 400Ml 29032St
+80199999,Hogar y Electro,Stor,Botella Stor Spderman 400Ml 37932St
 80200000,Hogar y Electro,Stor,Botella Stor Avengers 400Ml 87732St
 80200001,Hogar y Electro,Stor,Botella Stor Lol 400Ml 16832St
 80200002,Hogar y Electro,Stor,Botella Stor Frozen Ii 400Ml 35032St
@@ -4800,6 +4829,7 @@ id,category,brand,name
 80203770,Hogar y Electro,Moduart,"Mesa Tv Linea Squadra Wen 70X60X40 25-04 143,5Cm X 140Cm X 94Cm"
 80203771,Hogar y Electro,Moduart,Mesa Tv 1 Madera 04-192 74Cm X 120Cm X 80Cm
 80203772,Hogar y Electro,Moduart,Escritorio Wengue Madera 82-04 75Cm X 120Cm X 50Cm
+80203775,Hogar y Electro,Moduart,Escritorio Cacao 72.5 X 120 X 44.5  -253
 80203777,Hogar y Electro,Moduart,Centro Bco Liso 55-199 107Cm X 140Cm X 88Cm
 80203781,Hogar y Electro,Moduart,"Mesa Tv Moduart Entrepano 15198-252 74,5Cm X 120Cm X 110Cm"
 80203788,Bebés y Nin@s,Huggies,Panal Huggies Actsec Pants Xxl 58Und
@@ -5042,6 +5072,10 @@ id,category,brand,name
 80205152,Hogar y Electro,Herevin,Taza De Cafe 440Ml 161487-006
 80205153,Hogar y Electro,Herevin,Taza De Cafe 440Ml 161487-007
 80205171,Hogar y Electro,Herevin,Desnatadora  365201-500
+80205196,Hogar y Electro,Herevin,Sandwichera Peq Mariposa 161271-001
+80205197,Hogar y Electro,Herevin,Sandwichera Peq Nueva 161271-002
+80205198,Hogar y Electro,Herevin,Sandwichera Peq Nueva 161271-003
+80205199,Hogar y Electro,Herevin,Sandwichera Peq Nueva 161271-004
 80205219,Hogar y Electro,Ketal,Recipiente Hermetico 1.8Lt 161570-005
 80205220,Hogar y Electro,Ketal,Recipiente Hermetico De Alm 2Lt 85-005
 80205221,Hogar y Electro,Ketal,Recipiente Hermetico 2.8Lt 161590-005
@@ -5079,6 +5113,10 @@ id,category,brand,name
 80205394,"Bebidas, Licores y Tabacos",,Combo 2Un Naturagua Sin Gas 1 Lt
 80205395,"Bebidas, Licores y Tabacos",Frutall,Combo 2Un Frut-All Exotico Varios
 80205396,"Bebidas, Licores y Tabacos",Cascada,Pack La Cascada Trio Ganador Man\/Pap\/Pom
+80205397,Hogar y Electro,Trudeau,Recipiente Trudeau Tropical 38609326
+80205399,Hogar y Electro,Trudeau,Recipiente Trudeau Tropical 03018175
+80205401,Hogar y Electro,Trudeau,Recipiente Trudeau Bote Tropic 03018169
+80205403,Hogar y Electro,Trudeau,Bolsa Trudeau C\/Compart Tropi 03017008
 80205418,Hogar y Electro,Trudeau,Puradores Trudeau D\/Botella 0570114
 80205421,Hogar y Electro,Trudeau,Cucharas Trudeau Medidor 5Un 05117121
 80205422,Hogar y Electro,Trudeau,Tazas Trudeau D\/Medicion 5Un 05117120
