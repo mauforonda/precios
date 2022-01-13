@@ -1,5 +1,6 @@
 id,category,brand,name
 202773,Panadería y Pastelería,Ketal,Pan Ketal Baguete Por Unidad
+1020073,Lácteos,Sabrosa,Aceite Sabrosa Light 900Ml
 1020075,Abarrotes,Sabrosa,Aceite Sabrosa Girasol 900Ml
 1040081,Abarrotes,Carbonell,Aceite Carbonell Virg Extr. Fco 500Ml
 1040160,Abarrotes,Ketal,Aceite Cocinero Oliva Pet 500Ml
@@ -17,6 +18,7 @@ id,category,brand,name
 2030483,Abarrotes,Hellmanns,Ketchup Hellmanns 400Gr
 2040091,Abarrotes,Hellmanns,Mayonesa Hellmanns Doypack 500Gr
 2040092,Abarrotes,Hellmanns,Mayonesa Hellmanns Doypack 1Kg
+2040252,Abarrotes,Kris,Mayonesa Kris Pomo 380Gr
 2040257,Abarrotes,Kris,Mayonesa Kris Doypack 1000Gr
 2040685,Abarrotes,Kris,Mayonesa Kris Doypack 500Gr
 2050152,Abarrotes,Kris,Mostaza Kris Doypack 1000Gr
@@ -40,6 +42,7 @@ id,category,brand,name
 4010080,Abarrotes,Guabira,Azucar Guabira Extra Fina 1Kg
 4010082,Abarrotes,Guabira,Azucar Guabira Extra Fina 5Kg
 4010083,Abarrotes,Guabira,Azucar Guabira Morena 1 Kg
+4020020,Abarrotes,Agrosol,Azucar Agrosol 250Gr Molida
 4030077,Abarrotes,Irupana,Azucar Irupana 2Kg Morena
 4030079,Abarrotes,Irupana,Azucar Irupana 1Kg Morena
 5010110,"Bebidas, Licores y Tabacos",Paceña,Cerveza Pacena Centenario Bot 350Ml
@@ -289,6 +292,7 @@ id,category,brand,name
 14020720,"Snack, golosinas y galletas",Soproma,Coco Soproma Rallado 200Gr
 14022412,Abarrotes,Andes,Canela Andes Molida 16 Gr
 14022418,Abarrotes,Andes,Canela Andes Entera 16 Gr
+14022423,Abarrotes,Andes,Hojas De Laurel Andes 10 Gr
 15030053,Abarrotes,Chucker,Edulcorante Chucker Liquido 600Cc
 15030071,Abarrotes,Sucaryl,Edulcorante Sucaryl Frasco 180Cc
 15030082,Abarrotes,Equal,Edulcorante Equal Sobre 200Und
@@ -781,6 +785,7 @@ id,category,brand,name
 37100095,Aseo y Limpieza,Bettanin,Esponja Bettanin Esfrebom
 37100748,Aseo y Limpieza,Ober,Pano Ober P\/Piso Plomo 60X50Cm
 37101088,Aseo y Limpieza,Scotch Brite,Pano Scotch Brite X3 Absorbente
+37103140,Aseo y Limpieza,Clorinda,Escobillon Clorinda Con Mango Interior
 38011196,Bebés y Nin@s,Johnson &amp; Johnson,Shampoo Johnson &amp; Johnson Clasico 200Ml
 38011200,Bebés y Nin@s,Johnson &amp; Johnson,Shampoo Johnson&amp;Johnson Manzanilla 400Ml
 38011965,Cuidado Personal,Elvive,Shampoo Elvive Color Vive C Tenido 400Ml
@@ -1030,6 +1035,7 @@ id,category,brand,name
 71021024,Abarrotes,Safra,Picadillo Safra De Carne 90Gr
 71021025,Abarrotes,Campagnola,Mermelada Bc Campagnola Arandano 454G
 71021243,"Snack, golosinas y galletas",Nestle,Chocolate Nestle Especialidades 153Gr
+71021592,Abarrotes,Kris,Gelatina Kris Light Naranja 24Gr
 71021804,Refrigerado y Congelado,Hunts,Postre Snack Pack Chocolate 368Gr
 71021806,Refrigerado y Congelado,Hunts,Postre Snack Pack Vanilla 4Un
 71021910,Abarrotes,Campo Verde,Palmito Campo Verde Frasco Vidrio 410Gr
@@ -1278,6 +1284,7 @@ id,category,brand,name
 80132101,Aseo y Limpieza,Skip,Detergente Skip Intelligent 800Gr
 80132589,Hogar y Electro,Stabilo,Resaltador Swing Cool Stabilo 4C
 80132653,Productos frescos,Sin Marca,Calabacin Por Kilo
+80132766,Aseo y Limpieza,Sapolio,Ambientador Sapolio Pulso+Rpto Jard 12Ml
 80132909,Cuidado Personal,Dove,Deo Dove Cleam Comfort Spray H 50Ml
 80132926,Productos frescos,Rolon,Huevo Rolon De Codorniz Bandeja 24Un
 80133094,Cuidado Personal,Gillette,Afeitadora Gillette Mach3 Sens 4Pzs
@@ -1295,6 +1302,7 @@ id,category,brand,name
 80133557,Abarrotes,Nutella,Crema Untable Nutella Hzeln Choco 200Gr
 80133581,"Snack, golosinas y galletas",Ambrosoli,Gomitas Ambrosoli Flipy 100Gr
 80133599,Abarrotes,Gustoso,Choclo Gustoso Enlatado 340G
+80133758,Abarrotes,Badia,Clavo De Olor Molido Badia Frasco 49.6G
 80133844,Cuidado Personal,Gama,Alisador Gama P\/Pelo Multi-Styler Profes
 80134523,Cuidado Personal,Casting,Crema Col Casting Gloss 200 Negro
 80134559,Abarrotes,Chawei,Salsa Soya Chawei 500Ml
@@ -1357,6 +1365,7 @@ id,category,brand,name
 80139779,"Bebidas, Licores y Tabacos",Camel,Cigarrillo Camel Blue 20Un
 80140153,Cuidado Personal,Nivea,Locion Intima 250Ml X12
 80140215,Productos frescos,Sin Marca,Arandano Fresco 125Gr
+80140467,Productos frescos,Yolanda,Maiz Yolanda Pelado X Kilo
 80140468,Abarrotes,Yolanda,Mani Yolanda Blanco X Kilo
 80140478,Panadería y Pastelería,Criss,Panetone Pan Cris En Bolsa Clasico 750Gr
 80140568,Hogar y Electro,Duracell,Pilas Duracell Aa 6 Unidades
@@ -1379,6 +1388,7 @@ id,category,brand,name
 80141815,Abarrotes,B&R,Llajua B&amp;R Picante 220G
 80141817,"Snack, golosinas y galletas",,Salsa B&amp;R Para Nachos 360G
 80141844,Productos frescos,Yolanda,Tunta Seca Yolanda Por Kg
+80141845,Productos frescos,Yolanda,Chuno Seco Yolanda Por Kg
 80141864,Cuidado Personal,Nivea,Jabon Nivea Avena 3X90Gr
 80141876,Abarrotes,Sin Marca,Trigo Grano De Oro Pelado 1000Gr
 80141893,Abarrotes,Grano De Oro,Almidon Grano De Oro De Yuca 800Gr
@@ -1399,6 +1409,7 @@ id,category,brand,name
 80143041,Cuidado Personal,Dove,Jabon Liq Dove Beauty Cream Wash 250Ml
 80143123,Cuidado Personal,Nivea,Crema Corp Nivea Reparadora Intens 400Ml
 80143151,Cuidado Personal,Nivea,Deo Nivea Sensitive Protect Spray H 50Ml
+80143551,Aseo y Limpieza,Sapolio,Ambient. Sapolio Pulso+Rpto Bebe 12Ml
 80143555,Refrigerado y Congelado,Sofia,Hamburguesa Sofia 83 Res Selecta T 12 Un
 80143557,Refrigerado y Congelado,Sofia,Hamburguesa Sofia 56 Res Express T 12 Un
 80143558,Refrigerado y Congelado,Sofia,Hamburguesa Sofia 56 Res Express 18X6
@@ -1417,6 +1428,7 @@ id,category,brand,name
 80143720,BlackWeek,Maybelline,Base Maybelline Soft Honey Fit315 30Ml
 80143721,BlackWeek,Maybelline,Base Maybelline Pure Beige Fit235 30Ml
 80143940,"Bebidas, Licores y Tabacos",Real,Cerveza Real Pilsener Lata 350Ml
+80144138,Aseo y Limpieza,Sapolio,Ambient. Sapolio Pulso+Rpto Lavanda 12Ml
 80144198,Cuidado Personal,Clear,Shampo Clear Men 2En1 Dual Effect 400Ml
 80144233,Bebés y Nin@s,Barbie,Muneca Barbie 2 Hermanas 3284
 80144253,Cuidado Personal,Casting,Crema Col Casting Gloss 300 Castano Oscu
@@ -1450,6 +1462,7 @@ id,category,brand,name
 80145604,BlackWeek,Maybelline,Corrector Maybelline Fair 15 6.8 Ml
 80145619,Aseo y Limpieza,Bolivar,Jabon Bolivar Floral 210 Gr
 80145741,Bebés y Nin@s,Foramen,Gel Dental Foramen Kids Fresa 75Ml
+80145746,Abarrotes,La Suprema,Harina La Suprema De Trigo 1Kg
 80145771,Hogar y Electro,,Copa Pasabahce Lyric 320Ml 6Un 44876
 80146071,"Bebidas, Licores y Tabacos",Sprite,Gaseosa Sprite Sin Azucar 2Lt
 80146079,Hogar y Electro,,Vela Maciel Yander 6 Unidades
@@ -1529,6 +1542,7 @@ id,category,brand,name
 80150140,Bebés y Nin@s,Clementoni,Muneca Clementoni Didac Minnie Cl65347
 80150185,Productos frescos,Sofia,Matambre Sofia De Cerdo En Bandeja Kg
 80150254,Cuidado Personal,Gillette,Afeitadora Gillette Prestobar3 Ice 2Un
+80150269,Aseo y Limpieza,Nacional,Haragan De Goma Nacional Para Piso
 80150401,Lácteos,,Queso Flor De Leche Florandino 250Gr
 80150404,Quesos,Flor De Leche,Queso Flor De Leche Criollo Prensa 500Gr
 80150405,Lácteos,,Queso Flor De Leche Florandino 500Gr
@@ -1722,6 +1736,7 @@ id,category,brand,name
 80155428,Abarrotes,Gourmet,Salsa Gourmet Blanca 36Gr
 80155504,Vinos,,Vino Torres Grans Sangre De Toro 750Ml
 80155508,"Bebidas, Licores y Tabacos",Jagermeister,Jagermeister 700Ml
+80156001,Aseo y Limpieza,Scotch Brite,Escoba Scotch Brite Dolly Multiuso
 80156025,Bebés y Nin@s,Pequenin,Panal Pequenin Recien Nacido Et 0 30Un
 80156026,Bebés y Nin@s,Pequenin,Panal Pequenin Extra Plus  Et 1 28Un
 80156027,Cuidado Personal,Colgate,Cepillo Dent Colgate Surround Twin 2X1
@@ -1749,6 +1764,8 @@ id,category,brand,name
 80156411,Mascotas,Cat Chow,Comida Cat Chow Adulto Carne 3Kg
 80156430,Cuidado Personal,Aval,Sanitizante Aval Amazon 120Ml
 80156432,Cuidado Personal,Aval,Sanitizante Aval Natural 120Ml
+80156433,Aseo y Limpieza,Sapolio,Ambientador Sapolio L. Silvestr Rep 12Ml
+80156434,Aseo y Limpieza,Sapolio,Ambientador Sapolio P.Flores Rep 12Ml
 80156476,Hogar y Electro,Ika,Plancha Ika D\/Viaje Ika-2058
 80156608,"Bebidas, Licores y Tabacos",Gatorade,Hidratante Gatorade Tropical Fruits 500M
 80156618,Cuidado Personal,Nivea,Crema Nivea Cellular Anti Age Noche 50Ml
@@ -1794,8 +1811,10 @@ id,category,brand,name
 80157712,Abarrotes,Gourmet,Caldo Gourmet Verduras 4Un
 80157716,Productos frescos,Sin Marca,Golden Berry Por Kilo
 80157733,Aseo y Limpieza,Skip,Detergente Skip Reg Perfect Result 3.8Kilogram
+80157736,Abarrotes,Sabor Andino,Frejol Sabor Andino Negro Grano 450Gr
 80157746,Abarrotes,Sabor Andino,Quinua Sabor Andino Real Blanca Cj 500Gr
 80157748,Abarrotes,Sabor Andino,Quinua Sabor Andino Real Roja Cj 500Gr
+80157754,"Snack, golosinas y galletas",Arcor,Dulce Frutal Rodajas Crazy 465Gr
 80157762,Lácteos,Pil,Leche Pil Chicolac Uht 140Ml
 80157786,Lácteos,Sancor,Queso Sancor Reggianito 100Gr
 80157815,Cuidado Personal,Nosotras,Toalla Fem Nosotras Invisib Rapigel 10Un
@@ -2001,6 +2020,7 @@ id,category,brand,name
 80167690,Abarrotes,Angelmo,Cholgas Angelmo En Aceite 425Gr
 80167692,Abarrotes,Angelmo,Cholgas Angelmo En Aceite 190Gr
 80167694,Panadería y Pastelería,Reyna,Paneton Reyna C\/Chisp De Chocola Ca 500G
+80167718,Abarrotes,Mc Cormick,Salsa Mccormick Tabasco 148Ml
 80167720,Abarrotes,Ketal,Cebolla Mccormick En Polvo 66Gr
 80167767,Aseo y Limpieza,Ola,Ambientador Aromatic Lavanda 300Ml
 80167770,Cuidado Personal,Liz,Jabon Liq Liz Seduccion Floral 1Lt
@@ -2332,6 +2352,7 @@ id,category,brand,name
 80177431,Abarrotes,Irupana,Nutribarra Irupana Chocolate 12x20Gr
 80177542,Aseo y Limpieza,Scotch Brite,Esponja Scotch Brite Multiuso 4X120
 80177545,Lácteos,Pil,Leche Polvo Pil Deslactosada Sachet 760G
+80177582,Abarrotes,Kris,Mayonesa Kris Picante 380Gr
 80177617,BlackWeek,Maybelline,Polvo Fitme Matte Maybelline 220 8.5Gr
 80177620,BlackWeek,Maybelline,Polvo Fitme Matte Maybelline 330 8.5Gr
 80177623,Cuidado Personal,Kleenex,Panuelo Kleenex Pocket Kidz  Bolsa
@@ -2547,6 +2568,7 @@ id,category,brand,name
 80183495,Aseo y Limpieza,Perlita,Servilleta  Perlita Azul 500 Un
 80183497,Cuidado Personal,Perlita,Papel Hig  Perlita Mega 27 M 12 Un
 80183500,Bebés y Nin@s,Johnson &amp; Johnson,Jabon Liquido Johnson Antes De Dormir 40
+80183503,Abarrotes,,Cereal Azucaraditas 250G
 80183512,"Bebidas, Licores y Tabacos",Mendocina,Gaseosa Mendocina Sinalco 3Lt
 80183518,"Bebidas, Licores y Tabacos",Mendocina,Bipack Agua Mendocina Sin Gas 3Lt
 80183520,"Aguas, Gaseosas, Jugos Y Otros",Mendocina,Tripack Gase Mendocina Nar-Guar-Pap 3Lt
@@ -3328,6 +3350,7 @@ id,category,brand,name
 80195369,Hogar y Electro,Glory,Correa Dif Col 31.50Cm Kt2603
 80195370,Hogar y Electro,Glory,Maleta Grd C\/Ruedas Kt2604
 80195374,Refrigerado y Congelado,Kostlich,Pate Kostlich Oliva 100Gr
+80195411,Aseo y Limpieza,Sapolio,Ambientador Sapolio Lavanda X2 24Ml
 80195443,Hogar y Electro,Sin Marca,Vaso C\/Tapa 450Ml 35099
 80195447,Hogar y Electro,Sin Marca,Planta Decorativa 8X9Cm 35159
 80195448,Hogar y Electro,Sin Marca,Planta Decorativa 8X9Cm 35162
@@ -4417,6 +4440,7 @@ id,category,brand,name
 80201788,Hogar y Electro,Tramontina,Cuchara Tramont De Mesa 3Pzas 66960017
 80201808,Bebés y Nin@s,Sin Marca,Jgo Caleidoscopio  Dif Col  B69178
 80201811,"Bebidas, Licores y Tabacos",Autentica,Cerveza Autentica Lata  473Ml
+80201815,Abarrotes,,Palmito De La Selva Entero 400Gr
 80201817,Abarrotes,Andean Blueberries,Mermelada Andean Blueberries Arand 450Gr
 80201852,Hogar y Electro,Kuken,Cafetera Kuken Para Capsulas
 80201859,Cuidado Personal,Philips,Alisador De Cabello Philips   Bhs674
@@ -4431,6 +4455,7 @@ id,category,brand,name
 80201890,Hogar y Electro,Skyworth,Tv Skyworth 40&#039;&#039; Led Android9.0 40Tb7000
 80201891,Vinos,Aranjuez,Vino Tinto Aranjuez Pionero Bonarda 750M
 80201905,Hogar y Electro,Dimax,Cortapico \/Tomacorriente Dimax 6 Salidas
+80201908,Lácteos,Bonle,Alimento Lacteo Bonle Polvo Sachet 800G
 80201909,Abarrotes,Lazzaroni,Pack 3X2 Pasta Lazzaroni Corta 3X400G
 80201983,"Bebidas, Licores y Tabacos",Aruba,Jugo Aruba Fruit Punch 3Lt
 80201985,"Snack, golosinas y galletas",Raffaello,Chocolate Ferrero Raffaello T3 30Gr
@@ -4791,6 +4816,7 @@ id,category,brand,name
 80203317,Mascotas,Fino Trato,Arena Fino Trato Bio Liter 2 Kg
 80203334,Mascotas,Dogui,Alim Dogui Carne Asada C\/Veg 8 Kg
 80203360,Cuidado Personal,Dove,Crema Para Manos Dove Antibacterial 75Ml
+80203368,Abarrotes,Carbonell,Aceitunas Carbonell Verdes Pimiento 100G
 80203376,Refrigerado y Congelado,,S.Wind Filete De Salmon Congel Kg
 80203377,Refrigerado y Congelado,,S.Wind Carpaccio De Salmon Conge 100G
 80203378,Refrigerado y Congelado,,S.Wind Carpaccio De Atun Conge 100G
@@ -4909,6 +4935,7 @@ id,category,brand,name
 80204295,Abarrotes,La Suprema,Pasta La Suprema Nidos Rec Italiana 400G
 80204305,"Bebidas, Licores y Tabacos",Bendita,Cerveza Bendita Hoppy 6X350Ml
 80204308,Abarrotes,Kikkoman,Salsa Soya Kikkoman Original 591Ml
+80204323,Abarrotes,,Estevia Stevie  40G
 80204327,"Bebidas, Licores y Tabacos",Bid,Licor Bid Marula 720Ml
 80204338,Lácteos,Pil,Pack X12 Pilfrut 200Ml Varios Sabores
 80204341,Lácteos,Pil,Packx3 Leche Soya 946Ml Varios Sabores
@@ -5743,6 +5770,7 @@ id,category,brand,name
 80207936,Panadería y Pastelería,La Suprema,Paneton La Suprema Vain.Chocochip 630Gr
 80207937,Panadería y Pastelería,La Suprema,Paneton La Suprema Choc.Chocochip 630Gr
 80207938,"Bebidas, Licores y Tabacos",Cordillera,Combo Cerveza Cordillera 10Pack Lat 269M
+80207944,Aseo y Limpieza,Sapolio,Ambientador Pulso Sapolio Rptoflores 12M
 80207949,"Bebidas, Licores y Tabacos",Mosquita Muerta,Vino Tinto Mosquita Muerta Red Blend 750
 80207950,"Bebidas, Licores y Tabacos",Mosquita Muerta,Vino Tinto Mosquita Muerta Malbec 750Ml
 80207951,"Bebidas, Licores y Tabacos",Sapo De Otro Pozo,Vino Tinto Sapo De Otro Pozo Red Blend 7
@@ -6014,6 +6042,11 @@ id,category,brand,name
 80208528,"Snack, golosinas y galletas",,Chocolate Tree Dec 108Gr
 80208529,"Snack, golosinas y galletas",Smarties,Chocolate Smarties Orange Tube 120Gr
 80208530,Abarrotes,,Caramelos Fruit Tube 115Gr
+80208759,"Bebidas, Licores y Tabacos",Corona,Cerveza Corona  210Ml
+80208760,"Bebidas, Licores y Tabacos",,Cerveza Leffe Blonde 330Ml
+80208761,"Bebidas, Licores y Tabacos",,Cerveza Leffe Brune 330Ml
+80208762,"Bebidas, Licores y Tabacos",,Cerveza Hoegaarden White 330Ml
+80208763,"Bebidas, Licores y Tabacos",Budweiser,Cerveza Budweiser  473Ml
 80208765,Cuidado Personal,,Crema Facial Teatrical Humectante 200 Gr
 80208766,Cuidado Personal,,Crema Facial Teatrical Aclaradora 200 Gr
 80208767,Cuidado Personal,,Crema Facial Teatrical Antiarrugas 200Gr
@@ -6029,6 +6062,7 @@ id,category,brand,name
 80208812,"Bebidas, Licores y Tabacos",,Sv 3 Gaseosa Pepsi  500Ml
 80208813,"Bebidas, Licores y Tabacos",,Sv 4 Cerveza Huari Lata 354Ml
 80208814,"Bebidas, Licores y Tabacos",,Sv 2 Agua Tai  De Coco 330Ml
+80209054,"Bebidas, Licores y Tabacos",Sin Marca,Sv 6 Gatorade 500 Cc Pet X 6 Cool Blue
 560500173,Bebés y Nin@s,Mattel,Autos Mattel  Hot Weels 5Gift St
 560500174,Bebés y Nin@s,Mattel,Auto Mattel Surtido Hotwheels C4982
 560500178,Bebés y Nin@s,Hasbro,Plastilina Hasbro Playdoh Picnic
