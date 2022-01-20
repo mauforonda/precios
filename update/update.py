@@ -20,6 +20,7 @@ def get_page(page):
             data = re.findall('\"ecommerce\"\:\{\"currencyCode\"\:\"BOB\"\,\"impressions\"\:\[(.*)\]\}', response.text)
             if len(data) > 0:
                 listado = list(eval(data[0]))
+                listado = [i for i in listado if type(i) == dict]
                 return listado
     except Exception as e:
         print(e)
