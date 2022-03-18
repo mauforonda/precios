@@ -941,9 +941,21 @@ id,category,brand,name
 56060001,Panadería y Pastelería,Ketal,Alfajor Ketal Especial 6 Unidades
 56060009,Panadería y Pastelería,Ketal,Budin Ketal Pza Miga
 56060036,Panadería y Pastelería,Ketal,Pie Ketal Pza Limon
+56060054,Panadería y Pastelería,Ketal,Torta Ketal 20 P Mil Hojas
+56060067,Panadería y Pastelería,Ketal,Torta Ketal Selva Negra 10 P
+56060068,Panadería y Pastelería,Ketal,Torta Ketal 20 P Selva Negra
 56060081,Panadería y Pastelería,Ketal,Queque Ketal Pza Naranja
 56060082,Panadería y Pastelería,Ketal,Queque Ketal Pza Platano
+56060095,Panadería y Pastelería,Ketal,Tal 10 Pers.  Especial
+56060096,Panadería y Pastelería,Ketal,Torta Ketal 20 Pers.  Especial
 56060209,Panadería y Pastelería,Ketal,Pie Ketal Pza Maracuya
+56060276,Panadería y Pastelería,Ketal,Torta Ketal 10 P Mil Hojas
+56060278,Panadería y Pastelería,Ketal,Torta Ketal 10 P Sacher
+56060279,Panadería y Pastelería,Ketal,Torta Ketal 20 P Sacher
+56060280,Panadería y Pastelería,Ketal,Torta Ketal Tres Leches 10 P
+56060281,Panadería y Pastelería,Ketal,Torta Ketal 20 P Tres Leches
+56060289,Panadería y Pastelería,Ketal,Torta Ketal Moca 10 P
+56060290,Panadería y Pastelería,Ketal,Torta Ketal 20 P Moca
 56070786,,Ketal,Sopas Ketal Plato Chairo
 56070966,Refrigerado y Congelado,Extra,Sandwich Extra Triple Miga Jamon Un
 59010025,Productos frescos,Ketal,Ciruelos Ketal Secos A Granel
@@ -2451,6 +2463,7 @@ id,category,brand,name
 80175842,Cuidado Personal,Colgate,Enj Bucal Colgate Luminous White 500Ml
 80175948,Cuidado Personal,Nivea,Crema  Facial Nivea Cuid Nutritivo 101Gr
 80175951,Cuidado Personal,Nivea,Crema  Facial Nivea Cu Aclarado Nat 100G
+80175995,Abarrotes,Nescafe,Cafe Nescafe Gold 100Gr
 80176005,Abarrotes,Urupe,Arroz Urupe  5Kg
 80176007,Abarrotes,Pauhichi,Arroz Pauhichi  5Kg
 80176023,"Bebidas, Licores y Tabacos",Jumbo,Jugo Jumbo Citrus 2.5Lt
@@ -2614,6 +2627,7 @@ id,category,brand,name
 80178828,Hogar y Electro,Rey,Embudo Rey Grande  Ebx002000
 80178831,Hogar y Electro,Rey,Jarra Rey Bonita 2.5Lt Rwx006600
 80178841,,Rey,Org Rey D\/Ducha  Pbx064900
+80178917,,Ketal,Sv Combo Saltena Ketal
 80178951,Hogar y Electro,Black&Decker,Licuadora B&amp;D Digital F Blade  Bl6010
 80178957,Hogar y Electro,Black&amp;Decker,Procesador De Alim B&amp;D   Fp1700B
 80178960,Hogar y Electro,Black&amp;Decker,Olla Arrocera B&amp;D  5.3Lt Rc5225
@@ -5445,6 +5459,8 @@ id,category,brand,name
 80204838,Productos frescos,,Charque San Borja De Res 120 Gr
 80204839,Productos frescos,,Charque San Borja De Res 180 Gr
 80204848,"Bebidas, Licores y Tabacos",,Vino Campos De S 2Pack Marse-Rose 1500
+80204866,Panadería y Pastelería,Ketal,Torta Ketal Red Velvet 20 Por
+80204867,Panadería y Pastelería,Ketal,Torta  Ketal Zanahoria 20 P
 80204871,Bebés y Nin@s,,Biberon Carlitos C\/Agarradores Anc 207Ml
 80204876,Bebés y Nin@s,,Tetina Carlitos Siliconada X2 C\/Ancho
 80204877,"Snack, golosinas y galletas",Pacari,Chocolate Pacari 100 50Gr
@@ -5672,6 +5688,8 @@ id,category,brand,name
 80205901,Hogar y Electro,Energizer,Linterna Energizer Eco Led 2D
 80205908,"Bebidas, Licores y Tabacos",Pil,Sv 4 Juguito 150Ml Tetra Clasic
 80205920,"Bebidas, Licores y Tabacos",Huari,Sv6 Cerveza Huari Lata 354Ml
+80205923,"Snack, golosinas y galletas",Garoto,Chocolate Garoto Baton Smarties 90G
+80205926,"Snack, golosinas y galletas",Garoto,Chocolate Garoto Baton Cookie 90G
 80206024,"Snack, golosinas y galletas",Maria,Sv 2X1 Galletas Maria Bonita X6 2X210G
 80206025,"Snack, golosinas y galletas",Maria,Sv 3 Galletas Maria Bonita X6 3X210G
 80206028,"Bebidas, Licores y Tabacos",Glory,Sv Te Amate Pina Jengibre+Menta Maracuya
@@ -5808,6 +5826,8 @@ id,category,brand,name
 80206762,"Snack, golosinas y galletas",Isabela,Pack 2 Galletas Isabela  2X400G
 80206765,"Snack, golosinas y galletas",Georgalos,Pack 3X2 Chocolates Georgalos 3X30G
 80206768,"Bebidas, Licores y Tabacos",,Gaseosa  Mendocina Limonada 3 Lt
+80206772,,Ketal,Sv Saltena Ketal Carne X 2Un
+80206773,,Ketal,Sv Saltena Ketal Pollo X 2Un
 80206774,"Snack, golosinas y galletas",Para Ti,Chocolate Para Ti Caja Corazones 150G
 80206775,Cuidado Personal,Babaria,Body Milk Babaria Oliva 400Ml
 80206776,Cuidado Personal,Babaria,Gel De Bano Babaria Oliva 600Ml
@@ -6621,6 +6641,7 @@ id,category,brand,name
 80208812,"Bebidas, Licores y Tabacos",,Sv 3 Gaseosa Pepsi  500Ml
 80208813,"Bebidas, Licores y Tabacos",,Sv 4 Cerveza Huari Lata 354Ml
 80208814,"Bebidas, Licores y Tabacos",,Sv 2 Agua Tai  De Coco 330Ml
+80208815,"Snack, golosinas y galletas",,Chocolate Baton Choco Croc 90G
 80208822,Hogar y Electro,Dello,Folder Dello Serena Amarillo 1\/2Oficio
 80208823,Hogar y Electro,Dello,Folder Dello Serena Azul 1\/2Oficio
 80208824,Hogar y Electro,Dello,Folder Dello Serena Lila 1\/2Oficio
@@ -6681,6 +6702,7 @@ id,category,brand,name
 80208951,Hogar y Electro,Vinifan,Tijera  Vinifan Zurdos
 80208954,Hogar y Electro,Vinifan,Tijera  Vinifan Oficina 17 Cm
 80208955,Hogar y Electro,Vinifan,Cuchilla Vinifan Easy 9Mm
+80208958,Panadería y Pastelería,Ketal,Torta Ketal Oreo 20 Personas
 80208960,Hogar y Electro,,Maquina De Sopa Smartlife  1.6 L
 80208961,Hogar y Electro,,Maquina De Pan Smartlife
 80208962,Hogar y Electro,,Cafetera Smartlife Digital 1.5 L
@@ -6884,7 +6906,7 @@ id,category,brand,name
 80209465,Cuidado Personal,Nosotras,Pack 3 Nosotras  Antibacterial  10Un
 80209466,Aseo y Limpieza,Nosotras,Pack 3 Familia  T. Coc Decor  120Un
 80209467,Cuidado Personal,Nosotras,Pack Nosotras  2Salar 10Un+ 1Prot Mult
-80209468,Bebés y Nin@s,Nosotras,Pack 3 Toa Hum Pequenin Alor Vera 100Und
+80209468,Bebés y Nin@s,Pequenin,Pack 3 Toa Hum Pequenin Alor Vera 100Und
 80209469,Productos frescos,,Trucha Emisur Evis. Congelada X Kg
 80209470,"Bebidas, Licores y Tabacos",Pepsi,Sv3  Gaseosa Pepsi 1Lt
 80209471,"Bebidas, Licores y Tabacos",Pepsi,Sv3 Cerveza Pacena 269Ml
@@ -6941,6 +6963,7 @@ id,category,brand,name
 80209549,Cuidado Personal,Belmed,Sv 3 Shampoo Belmed Hombre 420Gr
 80209550,Cuidado Personal,Nacional,Sv 3 Papel Hig Nacional Celeste  6Un
 80209616,Abarrotes,Chocapic,Sv 3X2 Cereal Chocapic 3X400G 
+80209649,,Ketal,Sv 10 Saltena Ketal + Coca Cola 2Lt
 560500173,Bebés y Nin@s,Mattel,Autos Mattel  Hot Weels 5Gift St
 560500174,Bebés y Nin@s,Mattel,Auto Mattel Surtido Hotwheels C4982
 560500178,Bebés y Nin@s,Hasbro,Plastilina Hasbro Playdoh Picnic
