@@ -1163,7 +1163,7 @@ id,category,brand,name
 71023982,Refrigerado y Congelado,Sofia,Mini Salchicha Sofia 20Un Pollo Vacio
 71024332,Abarrotes,Kelloggs,Muesli Kelloggs Arandanos 300G
 71024349,Cuidado Personal,Nivea,Deo Nivea Silver Protec Roll On H 50Ml
-71024390,BlackWeek,Maybelline,Base Maybelline Pure Makeup Dorado 30Ml
+71024390,,Maybelline,Base Maybelline Pure Makeup Dorado 30Ml
 71024392,BlackWeek,Maybelline,Base Maybelline Pure Makeup Natural 30Ml
 71024411,Aseo y Limpieza,Ola,Antigrasa-Lh Ola Maximus Original 850Ml
 71024412,Aseo y Limpieza,Ola,Antigrasa-Lh Ola Maximus Recarga 850Ml
@@ -1461,9 +1461,9 @@ id,category,brand,name
 80136332,Panadería y Pastelería,Soalpro,Pan Molde Soalpro Integ Dietetico 650Gr
 80136369,"Snack, golosinas y galletas",Donofrio,Chocolate Donofrio Triangulo E\/Barra 32G
 80136370,"Snack, golosinas y galletas",Sublime,Chocolate Sublime En Barra 30G
-80136408,BlackWeek,Maybelline,Base Maq Maybe Sup Stay Pure Beig 202814
-80136409,BlackWeek,Maybelline,Base Maq Maybelli Super Stay Nude 201813
-80136411,BlackWeek,Maybelline,Base Maq Maybellin Sup Stay Beige 202812
+80136408,,Maybelline,Base Maq Maybe Sup Stay Pure Beig 202814
+80136409,,Maybelline,Base Maq Maybelli Super Stay Nude 201813
+80136411,,Maybelline,Base Maq Maybellin Sup Stay Beige 202812
 80136574,Abarrotes,Maya,Salsa De Tomate Caxamarka 140Gr
 80136762,Refrigerado y Congelado,Sofia,Salame Sofia En Barra Vacio Kg
 80136788,Refrigerado y Congelado,,Filete Trucha Titikaka Marip Aprox 500Gr
@@ -1583,8 +1583,8 @@ id,category,brand,name
 80143634,Mascotas,Pet Shop,Palitos Pet Shop Perro Comest Estrus 10U
 80143639,Aseo y Limpieza,Ola,Lavandina Ola Clorito Desinfectante 5Lt
 80143640,Aseo y Limpieza,Ola,Lavandina Ola Clorito Desinfectante 1Lt
-80143720,BlackWeek,Maybelline,Base Maybelline Soft Honey Fit315 30Ml
-80143721,BlackWeek,Maybelline,Base Maybelline Pure Beige Fit235 30Ml
+80143720,,Maybelline,Base Maybelline Soft Honey Fit315 30Ml
+80143721,,Maybelline,Base Maybelline Pure Beige Fit235 30Ml
 80143940,"Bebidas, Licores y Tabacos",Real,Cerveza Real Pilsener Lata 350Ml
 80144138,Aseo y Limpieza,Sapolio,Ambient. Sapolio Pulso+Rpto Lavanda 12Ml
 80144198,Cuidado Personal,Clear,Shampo Clear Men 2En1 Dual Effect 400Ml
@@ -1620,7 +1620,7 @@ id,category,brand,name
 80145283,Abarrotes,Sabrosa,Aceite Sabrosa 1.8L
 80145333,Abarrotes,Kikkoman,Salsa Kikkoman Ponzu Lime 296Ml
 80145599,"Bebidas, Licores y Tabacos",Pepsi,Gaseosa Pepsi Light 2Lt
-80145604,BlackWeek,Maybelline,Corrector Maybelline Fair 15 6.8 Ml
+80145604,,Maybelline,Corrector Maybelline Fair 15 6.8 Ml
 80145619,Aseo y Limpieza,Bolivar,Jabon Bolivar Floral 210 Gr
 80145741,Bebés y Nin@s,Foramen,Gel Dental Foramen Kids Fresa 75Ml
 80145746,Abarrotes,La Suprema,Harina La Suprema De Trigo 1Kg
@@ -2161,7 +2161,7 @@ id,category,brand,name
 80164002,Abarrotes,Kelloggs,Granola Kelloggs Almen&amp;Coco 310Gr
 80164035,Aseo y Limpieza,Ola,Bolsa Ola P\/Basura 70X75Cm 50Lt 10Un
 80164445,Abarrotes,Fino,Aceite Fino Mental Activ 4.5Lt
-80164462,BlackWeek,Maybelline,Base Maybe Dream Fresh Bb Light 30Ml
+80164462,,Maybelline,Base Maybe Dream Fresh Bb Light 30Ml
 80164483,"Bebidas, Licores y Tabacos",Del Valle,Jugo  Del Valle Manzana 1L
 80164493,Cuidado Personal,Gama,Alisador Gama Cp1 Nova Tourmal Ion Plus
 80164503,Cuidado Personal,Colgate,Enjuague Bucal Colgate Ice Infinit 500Ml
@@ -2630,7 +2630,7 @@ id,category,brand,name
 80177545,Lácteos,Pil,Leche Polvo Pil Deslactosada Sachet 760G
 80177582,Abarrotes,Kris,Mayonesa Kris Picante 380Gr
 80177617,BlackWeek,Maybelline,Polvo Fitme Matte Maybelline 220 8.5Gr
-80177620,BlackWeek,Maybelline,Polvo Fitme Matte Maybelline 330 8.5Gr
+80177620,,Maybelline,Polvo Fitme Matte Maybelline 330 8.5Gr
 80177623,Cuidado Personal,Kleenex,Panuelo Kleenex Pocket Kidz  Bolsa
 80177626,Hogar y Electro,Confetti,Folder Dello Simple Cristal
 80177751,Hogar y Electro,Sin Marca,Separador Trudeau 3 Huevos  09605220
@@ -2648,9 +2648,9 @@ id,category,brand,name
 80178080,Cuidado Personal,Gillette,Aerosol Gillette Artic Ice 150Ml
 80178088,Aseo y Limpieza,Ariel,Det Polvo Ariel Regular 800Gr
 80178089,Aseo y Limpieza,Ariel,Det Polvo Ariel Regular 2Kg
-80178118,BlackWeek,Maybelline,Labial Maybelline Craving Cora 685 4.2Gr
-80178122,BlackWeek,Maybelline,Labial Maybelline Nude Embrace 650 4.2Gr
-80178125,BlackWeek,Maybelline,Labial Maybelline Touch Spice 660 4.2Gr
+80178118,,Maybelline,Labial Maybelline Craving Cora 685 4.2Gr
+80178122,,Maybelline,Labial Maybelline Nude Embrace 650 4.2Gr
+80178125,,Maybelline,Labial Maybelline Touch Spice 660 4.2Gr
 80178135,Productos frescos,Sofia,Pechuga Sin Piel Sofia Pollo Bandeja XKilogram
 80178137,Abarrotes,Supremo,Te Supremo Rosa Jamaica 20Un 20Gr
 80178141,"Snack, golosinas y galletas",Mabels,Maxi Wafer Mabels Chocolate 192Gr
@@ -2716,7 +2716,7 @@ id,category,brand,name
 80179187,Mascotas,Procao,Acondicionador Procao Desenredante 200Ml
 80179235,"Snack, golosinas y galletas",La Suprema,Galletas Ronditas Frutilla 288G
 80179236,"Snack, golosinas y galletas",La Suprema,Galletas Ronditas Vainilla 288G
-80179251,BlackWeek,Better,Corrector Better Skin 40 Medium 7.5Ml
+80179251,,Better,Corrector Better Skin 40 Medium 7.5Ml
 80179255,Cuidado Personal,Elite,Papel Higienico Elite Plus 24 Rollos
 80179264,Abarrotes,,Cereal Life Granola 300G
 80179265,Abarrotes,,Cereal Life Fibra 300G
@@ -3098,13 +3098,13 @@ id,category,brand,name
 80187404,Refrigerado y Congelado,Sofia,Hamburguesa Sofia Pollo Express 12X56Gr
 80187433,,Dell Tex,Cobija  Vaquita Rosa 75X105Cm
 80187437,Abarrotes,Frutte,Mate Frutte Jengibre\/Limon Y Miel 20 Und
-80187509,BlackWeek,Remington,Risador Remington Chrome Curls Ci-11A19
+80187509,,Remington,Risador Remington Chrome Curls Ci-11A19
 80187510,Cuidado Personal,Remington,Alisador Remington Therapy S-8599
 80187514,"Bebidas, Licores y Tabacos",,Licor Kuemmerling Krauter Likor 500Ml
 80187516,"Bebidas, Licores y Tabacos",Casa Real,Singani Casa Real Don Lucho De Oro 700Ml
 80187519,Cuidado Personal,Lux,Jabon Lux Flor De Vainilla 3X125Gr
 80187528,"Snack, golosinas y galletas",Dr. Picks,Snacks Dr. Picks Pickesos Picantes 200Gr
-80187565,BlackWeek,Loreal,Labial Maybelline Almond Rose 565 4.2Gr
+80187565,,Loreal,Labial Maybelline Almond Rose 565 4.2Gr
 80187575,Productos frescos,Ovoplus,Clara De Huevo Ovoplus Pasteurizada 1Lt
 80187576,Abarrotes,Princesa Almohada,Cereal Princesa Almohada Frutilla 200Gr
 80187577,Abarrotes,Princesa Almohada,Cereal Princesa Ardilla Vainilla 200G
@@ -3262,10 +3262,10 @@ id,category,brand,name
 80190066,Hogar y Electro,,Adorno Maranelo Navideno  34-21
 80190067,Hogar y Electro,,Adorno Maranelo Navideno  34-11
 80190069,Hogar y Electro,,Adorno Maranelo Navideno  34-35
-80190077,BlackWeek,Maybelline,Labial Superstay 40 Violeta Oscuro 5Ml
-80190078,BlackWeek,Maybelline,Labial Superstay 35 Violeta 5Ml
-80190082,BlackWeek,Maybelline,Labial Superstay 15 Coral 5Ml
-80190085,BlackWeek,Maybelline,Labial Superstay 50 Vino Rojo 5Ml
+80190077,,Maybelline,Labial Superstay 40 Violeta Oscuro 5Ml
+80190078,,Maybelline,Labial Superstay 35 Violeta 5Ml
+80190082,,Maybelline,Labial Superstay 15 Coral 5Ml
+80190085,,Maybelline,Labial Superstay 50 Vino Rojo 5Ml
 80190086,BlackWeek,Maybelline,Labial Superstay 25 Naranja 5Ml
 80190104,Lácteos,Pil,Sv 10 Leche Uht Pil Chiquichoc 140 Ml
 80190111,"Bebidas, Licores y Tabacos",Four Loko,Bebida Four Loko Uva 473Ml
@@ -5063,8 +5063,8 @@ id,category,brand,name
 80202320,"Bebidas, Licores y Tabacos",Keep Cooler,Bebida Keep Cooler Frutilla 275Ml
 80202321,"Bebidas, Licores y Tabacos",Keep Cooler,Bebida Keep Cooler Citrus 275Ml
 80202322,"Bebidas, Licores y Tabacos",Keep Cooler,Bebida Keep Cooler Acai 275Ml
-80202326,BlackWeek,Maybelline,"Mascara Maybelline Lash Lift Wash 9,6 Ml"
-80202327,BlackWeek,Maybelline,"Mascara Maybelline Lashlift Waterp 9,6 M"
+80202326,,Maybelline,"Mascara Maybelline Lash Lift Wash 9,6 Ml"
+80202327,,Maybelline,"Mascara Maybelline Lashlift Waterp 9,6 M"
 80202331,Cuidado Personal,Tio Nacho,Acondicionado Tio Nacho Aloe Vera 415 Ml
 80202332,Cuidado Personal,Tio Nacho,Shampoo Tio Nacho Aloe Vera 415 Ml
 80202339,Cuidado Personal,Dove,Jabon Dove Cuida Y Protege Antibac. 3X90
@@ -5239,25 +5239,25 @@ id,category,brand,name
 80202997,Refrigerado y Congelado,Churquisbakery,Postre Churquisbakery 4 Leches 160Gr
 80202998,Panadería y Pastelería,Churquisbakery,Croissant Churquisbakery Clasico 240Gr
 80203004,Abarrotes,Dani,Trozos De Calamar Dani En Su Tinta 106G
-80203019,BlackWeek,Maybelline,Base Superstay Maybellin Light 118 30 Ml
-80203020,BlackWeek,Maybelline,"Iluminador Master Maybe Rose Gold 6,7 Gr"
-80203021,BlackWeek,Maybelline,Corrector Maybelli Stay Caramelo#40 7 Ml
-80203022,BlackWeek,Maybelline,Corrector Maybelline Stay Light#15 7 Ml
-80203023,BlackWeek,Maybelline,Corrector Mayb Stay Light Medium#18 7 Ml
-80203024,BlackWeek,Maybelline,Corrector Maybelline Medium#25 7 Ml
-80203025,BlackWeek,Maybelline,Corrector Maybelline Sand Sable#20 7 Ml
-80203026,BlackWeek,Maybelline,Polvo Superstay Mayb Buff Beige#130 6 Gr
-80203027,BlackWeek,Maybelline,Polvo Superstay Maybellin Ivori#120 6 Gr
-80203028,BlackWeek,Maybelline,Polvo Superstay Maybelli Golden#312 6 Gr
-80203029,BlackWeek,Maybelline,Polvo Superstay Maybel Caramelo#312 6 Gr
-80203030,BlackWeek,Maybelline,Labial Superstay Mayb Matte Ink#160 5 Ml
-80203031,BlackWeek,Maybelline,Labial Superstay Mayb Matte Ink#150 5 Ml
-80203032,BlackWeek,Maybelline,Labial Superstay Mayb Matte Ink#155 5 Ml
-80203033,BlackWeek,Maybelline,Labial Superstay Mayb Matte Ink#175 5 Ml
-80203034,BlackWeek,Maybelline,Labial Superstay Mayb Matte Ink#180 5 Ml
-80203036,BlackWeek,Maybelline,"Gel Ceja Mybell Tatoo Blonde #250 6,8 Ml"
-80203037,BlackWeek,Maybelline,"Gel Ceja Mybell Tatoo Deep Brown#260 6,8"
-80203038,BlackWeek,Maybelline,"Gel Ceja Mybe Tatoo Medium Brown#257 6,8"
+80203019,,Maybelline,Base Superstay Maybellin Light 118 30 Ml
+80203020,,Maybelline,"Iluminador Master Maybe Rose Gold 6,7 Gr"
+80203021,,Maybelline,Corrector Maybelli Stay Caramelo#40 7 Ml
+80203022,,Maybelline,Corrector Maybelline Stay Light#15 7 Ml
+80203023,,Maybelline,Corrector Mayb Stay Light Medium#18 7 Ml
+80203024,,Maybelline,Corrector Maybelline Medium#25 7 Ml
+80203025,,Maybelline,Corrector Maybelline Sand Sable#20 7 Ml
+80203026,,Maybelline,Polvo Superstay Mayb Buff Beige#130 6 Gr
+80203027,,Maybelline,Polvo Superstay Maybellin Ivori#120 6 Gr
+80203028,,Maybelline,Polvo Superstay Maybelli Golden#312 6 Gr
+80203029,,Maybelline,Polvo Superstay Maybel Caramelo#312 6 Gr
+80203030,,Maybelline,Labial Superstay Mayb Matte Ink#160 5 Ml
+80203031,,Maybelline,Labial Superstay Mayb Matte Ink#150 5 Ml
+80203032,,Maybelline,Labial Superstay Mayb Matte Ink#155 5 Ml
+80203033,,Maybelline,Labial Superstay Mayb Matte Ink#175 5 Ml
+80203034,,Maybelline,Labial Superstay Mayb Matte Ink#180 5 Ml
+80203036,,Maybelline,"Gel Ceja Mybell Tatoo Blonde #250 6,8 Ml"
+80203037,,Maybelline,"Gel Ceja Mybell Tatoo Deep Brown#260 6,8"
+80203038,,Maybelline,"Gel Ceja Mybe Tatoo Medium Brown#257 6,8"
 80203056,Abarrotes,Froot Loops,Cereal Froot Loops  350Gr
 80203071,"Bebidas, Licores y Tabacos",Pacena,Cerveza Pacena Con Botella Incluid 235Ml
 80203072,Cuidado Personal,Head &amp; Shoulder,Acond H&amp;S Manzana 300Ml
@@ -5578,28 +5578,28 @@ id,category,brand,name
 80204771,Hogar y Electro,Bizol,Limpia Radiador Bizol +R70 250 Ml
 80204775,Refrigerado y Congelado,,Filete El Chasqui Trucha Al Vacio  Kg
 80204776,Refrigerado y Congelado,,Trucha El Chasqui Eviscerada Congel Kg
-80204783,BlackWeek,Maybelline,Polvo Matte Maybelline Fitme 222  12G
-80204784,BlackWeek,Maybelline,Polvo Matte Maybelline Fitme 130 12G
-80204785,BlackWeek,Maybelline,Polvo Matte Maybelline Fitme 230 12G
-80204786,BlackWeek,Maybelline,Polvo Matte Maybelline Fitme 310 12G
-80204787,BlackWeek,Maybelline,Polvo Matte Maybelline Fitme 235 12G
-80204788,BlackWeek,Maybelline,Labial Supstay Mayb. Matte Ink #260 5Ml
-80204789,BlackWeek,Maybelline,Labial Supstay Mayb. Matte Ink #255 5Ml
-80204790,BlackWeek,Maybelline,Labial Supstay Mayb. Matte Ink #265 5Ml
-80204791,BlackWeek,Maybelline,Labial Supstay Mayb. Matte Ink #270 5Ml
-80204792,BlackWeek,Maybelline,Labial Supstay Mayb. Matte Ink #275 5Ml
-80204793,BlackWeek,Maybelline,Labial Supstay Mayb. Matte Ink #280 5Ml
-80204794,BlackWeek,Maybelline,Labial Crayon Mayb. Matte Ink #20 12G
-80204795,BlackWeek,Maybelline,Labial Crayon Mayb. Matte Ink #65 12G
-80204796,BlackWeek,Maybelline,Labial Crayon Mayb. Matte Ink #40 12G
-80204797,BlackWeek,Maybelline,Labial Crayon Mayb. Matte Ink #35 12G
-80204798,BlackWeek,Maybelline,Labial Crayon Mayb. Matte Ink #30 12G
-80204799,BlackWeek,Maybelline,Labial Crayon Mayb. Matte Ink #60 12G
-80204800,BlackWeek,Maybelline,Labial Crayon Mayb. Matte Ink #15 12G
-80204801,BlackWeek,Maybelline,Labial Crayon Mayb. Matte Ink #50 12G
-80204802,BlackWeek,Maybelline,Labial Crayon Mayb. Matte Ink #255 12G
-80204803,BlackWeek,Maybelline,Masc. Pestana Mayb. Fals Lash Mask 10 M
-80204821,BlackWeek,Maybelline,Labial Crayon Mayb. Matte Ink #55 12G
+80204783,,Maybelline,Polvo Matte Maybelline Fitme 222  12G
+80204784,,Maybelline,Polvo Matte Maybelline Fitme 130 12G
+80204785,,Maybelline,Polvo Matte Maybelline Fitme 230 12G
+80204786,,Maybelline,Polvo Matte Maybelline Fitme 310 12G
+80204787,,Maybelline,Polvo Matte Maybelline Fitme 235 12G
+80204788,,Maybelline,Labial Supstay Mayb. Matte Ink #260 5Ml
+80204789,,Maybelline,Labial Supstay Mayb. Matte Ink #255 5Ml
+80204790,,Maybelline,Labial Supstay Mayb. Matte Ink #265 5Ml
+80204791,,Maybelline,Labial Supstay Mayb. Matte Ink #270 5Ml
+80204792,,Maybelline,Labial Supstay Mayb. Matte Ink #275 5Ml
+80204793,,Maybelline,Labial Supstay Mayb. Matte Ink #280 5Ml
+80204794,,Maybelline,Labial Crayon Mayb. Matte Ink #20 12G
+80204795,,Maybelline,Labial Crayon Mayb. Matte Ink #65 12G
+80204796,,Maybelline,Labial Crayon Mayb. Matte Ink #40 12G
+80204797,,Maybelline,Labial Crayon Mayb. Matte Ink #35 12G
+80204798,,Maybelline,Labial Crayon Mayb. Matte Ink #30 12G
+80204799,,Maybelline,Labial Crayon Mayb. Matte Ink #60 12G
+80204800,,Maybelline,Labial Crayon Mayb. Matte Ink #15 12G
+80204801,,Maybelline,Labial Crayon Mayb. Matte Ink #50 12G
+80204802,,Maybelline,Labial Crayon Mayb. Matte Ink #255 12G
+80204803,,Maybelline,Masc. Pestana Mayb. Fals Lash Mask 10 M
+80204821,,Maybelline,Labial Crayon Mayb. Matte Ink #55 12G
 80204822,"Snack, golosinas y galletas",El Yuromeno,Mix Frutas El Yurumeno Deshidrat 120G
 80204824,"Snack, golosinas y galletas",El Yuromeno,Manzana V El Yurumeno Deshidratada 40G
 80204832,"Bebidas, Licores y Tabacos",Taquina,Bebida Taquina Chicha 354Ml
