@@ -242,7 +242,7 @@ id,category,brand,name
 11061095,Abarrotes,Titos,Granola Titos Arroz Quinua Miel 225G
 12010221,"Snack, golosinas y galletas",,Chocolate Breick Rosa 100Gr
 12010222,"Snack, golosinas y galletas",Breick,Chocolate Breick 100Gr Blanco
-12010573,"Snack, golosinas y galletas",Lindt Excellence,Choco Lindt Excell Dark 70% Cocoa 100Gr
+12010573,"Snack, golosinas y galletas",Lindt Excellence,Chocolate Lindt Excellence 70 Cacao 100G
 12010782,"Snack, golosinas y galletas",Charge,Chocolate Charge 40Gr
 12010910,"Snack, golosinas y galletas",Snickers,Chocolate Snickers Barra 58.7Gr
 12010919,"Snack, golosinas y galletas",Snickers,Chocolate Snickers Almond Barra 49.9Gr
@@ -1310,16 +1310,37 @@ id,category,brand,name
 80004417,"Snack, golosinas y galletas",Mabels,Galleta Mabels Rosquita Coco 540Gr
 80004418,"Snack, golosinas y galletas",Mabels,Galleta Mabels Rosquita Bicolor  540Gr
 80004427,Panadería y Pastelería,La Francesa,Pan Molde Miga Francesa Sin Corteza 450G
+80004465,Abarrotes,Colmans,Mostaza Colmans Original English 150Gr
 80004471,Abarrotes,Cadbury,Chocolate Cadbury Drinking Cho V 250Gr
 80004472,"Snack, golosinas y galletas",Nestle,Chocolate Nestle After Eight Barra 60Gr
+80004480,"Snack, golosinas y galletas",Cadbury,Chocolate Cadbury Twirl X2 V 43Gr
+80004483,"Snack, golosinas y galletas",Nestle,Chocolate Nestle Rolo Relleno 52Gr
 80004495,Abarrotes,Cardinis,Aderezo Cardinis Orig Caesar Dress 250Ml
 80004514,Abarrotes,Twinings,Te Twinings Original English Breakf 50Un
+80004518,Abarrotes,Twinings,Te Twinings Lady Grey 50Un
+80004519,Abarrotes,Twinings,Te Twinings Earl Grey 50Un
+80004521,Abarrotes,Twinings,Te Twinings Strawberry &amp; Raspberry 20Un
 80004522,Abarrotes,Twinings,Te Twinings Assam Strong&amp;Mighty 40Un
+80004523,"Snack, golosinas y galletas",Mc Vities,Galletas Mcvities Dige Orig V E1.29 400G
+80004524,Abarrotes,Twinings,Te Twinings Inf Cranberry&amp;Raspberry 20Un
+80004528,"Snack, golosinas y galletas",Nairns,Galleta Nairns Stem Ginger Oat 200Gr
+80004531,"Snack, golosinas y galletas",Maltesers,Chocolate Maltesers V 37Gr
 80004556,Panadería y Pastelería,Kallo,Queque De Arroz Kallo Low Fat V 130G
 80004561,Abarrotes,Crown Prince,Arenque Princes En Aceite 125G
+80004567,"Snack, golosinas y galletas",Nestle,Wafer Nestle Blue Riband 5Un 96.5Gr
+80004568,"Snack, golosinas y galletas",Cadbury,Galletas Cadbury Fingers Milk V 114Gr
+80004571,Abarrotes,Princes,Anchoa Princes En Aceite Oliva 50G
+80004582,"Bebidas, Licores y Tabacos",Ocean Spray,Jugo Ocean Spray Cranberry Classic 1Lt
+80004587,"Snack, golosinas y galletas",Milky Way,Chocolate Milky Way X2 43Gr
 80004589,"Snack, golosinas y galletas",Smarties,Lentejas Nestle Smarties Tubo 38Gr
 80004601,"Snack, golosinas y galletas",Starburst,Masticable Starburst Fruity Chews 45Gr
+80004602,Abarrotes,Colmans,Mostaza Colmans Orig English Tubo 50Gr
+80004603,"Snack, golosinas y galletas",Nestle,Dulces Rowntrees Fruit Pastilles 50Gr
+80004605,"Snack, golosinas y galletas",Maynards,Gomitas Maynards Wine Gums 52Gr
+80004606,"Snack, golosinas y galletas",Rowntrees,Gomitas Rowntrees Fruit Gums 43.5Gr
 80004626,Abarrotes,Uncle Bens,Salsa Uncle Bens Swee&amp;Sou Ex Pinea 450Gr
+80004627,Abarrotes,Sharwoods,Salsa Sharwoods Indian Bhuna 420G
+80004628,Abarrotes,Sharwoods,Salsa Sharwoods Tikka Masala Cook 420Gr
 80004633,Abarrotes,Pataks,Salsa Pataks Tikka Paste 300Gr
 80004634,Abarrotes,Pataks,Salsa Pataks Madras Spice Paste 283Gr
 80004637,Abarrotes,Sharwoods,Salsa Sharwoods Mango Chutney 360G
@@ -1329,6 +1350,7 @@ id,category,brand,name
 80004682,Abarrotes,Stute,Mermelada P\/Diabet Stute Frutilla 430G
 80004683,Abarrotes,Lea & Perrins,Salsa Lea &amp; Perrins Worcestershire 150Ml
 80004685,Abarrotes,Uncle Bens,Salsa Uncle Bens Orig Sweet&amp;Sour V 450Gr
+80004687,"Bebidas, Licores y Tabacos",Lipton,Te Helado Lipton Lemon 500Ml
 80004692,Abarrotes,Twinings,Te Twinings Camomile 20Un
 80004694,Abarrotes,Roses,Mermelada Roses Orange Fine Cut 454Gr
 80004695,"Snack, golosinas y galletas",Ryvita,Galleta Ryvita Crackerbread Orig V 125Gr
@@ -1345,7 +1367,17 @@ id,category,brand,name
 80004747,Abarrotes,Nestle,Cafe Inst Nestle Descaff Gold Blend 100G
 80004757,"Snack, golosinas y galletas",Lays Stax,Papas Fritas Lays Stax Original 163Gr
 80004788,Abarrotes,Twinings,Te Twinings Camomille\/Honey 20Un
+80004840,"Bebidas, Licores y Tabacos",Lipton,Te Helado Lipton Peach 500Ml
+80004855,"Bebidas, Licores y Tabacos",,Agua Schweppes Indian Tonic 1Lt
+80004856,"Bebidas, Licores y Tabacos",,Agua Schweppes Indian Tonic C\/Quinine 1L
+80004861,"Bebidas, Licores y Tabacos",Benshaws,Gaseosa Benshaws Cream Classic 330Ml
+80004862,"Bebidas, Licores y Tabacos",Benshaws,Gaseosa Benshaws Dandelion &amp; Burdo 330Ml
+80004863,"Bebidas, Licores y Tabacos",Benshaws,Gaseosa Benshaws Cloudy Lemon Lata 330Ml
+80004865,"Bebidas, Licores y Tabacos",Benshaws,Gaseosa Benshaws Bitter Shand Lata 330Ml
 80004871,"Bebidas, Licores y Tabacos",Barr,Gaseosa Barr Irn Bru Naranja Lata 330Ml
+80004875,"Bebidas, Licores y Tabacos",Fanta,Gaseosa Fanta Fruit Twist 65P Lata 330Ml
+80004879,"Bebidas, Licores y Tabacos",,Gaseosa Coca Cola Cherry Lata 330Ml
+80004903,"Bebidas, Licores y Tabacos",Dr Pepper,Gaseosa Dr Pepper 65P Lata 330Ml
 80005108,Refrigerado y Congelado,Extra,Salchicha Xl Extra Al Vacio 6 Unid
 80005449,Lácteos,Pil,Crema De Leche Pil 1Lt Uht
 80005450,Lácteos,Pil,Crema De Leche Pil 500Ml Uht
@@ -1405,6 +1437,9 @@ id,category,brand,name
 80130602,Abarrotes,Tate & Lyle,Cubitos D\/Azucar Tate&amp;Lyle Morena 500G
 80130603,Abarrotes,Tate & Lyle,Cubitos D\/Azucar Tate&amp;Lyle Blanca 500Gr
 80130604,"Bebidas, Licores y Tabacos",Fanta,Gaseosa Fanta Icy Lemon Lata 330Ml
+80130639,"Snack, golosinas y galletas",Penn-State,Pretzels Penn State Orig Sea Salt V 175G
+80130640,"Snack, golosinas y galletas",Penn-State,Pretzels Penn State S\/Cream&amp;Chive V 175G
+80130643,"Bebidas, Licores y Tabacos",Seven Up,Gaseosa 7Up Lem Lime Free S\/A Lata 330Ml
 80130684,Abarrotes,Opies,Cerezas Opies Cocktail Marasch Fla 225Gr
 80130767,"Bebidas, Licores y Tabacos",Bacardi,Mojito Bacardi 980Ml
 80131597,Productos frescos,Sin Marca,Lechuga Romana Verde-Roja
@@ -1486,10 +1521,14 @@ id,category,brand,name
 80136574,Abarrotes,Maya,Salsa De Tomate Caxamarka 140Gr
 80136762,Refrigerado y Congelado,Sofia,Salame Sofia En Barra Vacio Kg
 80136788,Refrigerado y Congelado,,Filete Trucha Titikaka Marip Aprox 500Gr
+80136815,"Snack, golosinas y galletas",Kit Kat,Chocolate Nestle Kit Kat Chun Duo V 70Gr
+80136818,"Snack, golosinas y galletas",Nestle,Chocolate Nestle Aero Bubble Mint V 80G
 80136829,Abarrotes,Cadbury,Cocoa Cadbury Bournville V 125Gr
 80136840,"Bebidas, Licores y Tabacos",Fanta,Gaseosa Fanta Orange Lata 330Ml
 80136844,"Bebidas, Licores y Tabacos",Old Jamaica,Bebida Old Jamaica D\/Jenjibre 330Ml
 80136855,Abarrotes,Nescafe,Cafe Nestle Nescafe Latt Iris Cre V 176G
+80136859,"Snack, golosinas y galletas",Nestle,Caramelo Nestle Polo Fruits 37Gr
+80136869,Abarrotes,Alpen,Muesli Alpen Swiss Style 500G
 80136879,"Bebidas, Licores y Tabacos",Canada Dry,Gaseosa Canada Dry Ginger Ale Mini 150Ml
 80136889,Aseo y Limpieza,Ola,Desinfectante Ola Aromatic Pino 5Lt
 80136890,Aseo y Limpieza,Ola,Desinfectante Ola Aromatic Lavanda 5Lt
@@ -1681,6 +1720,8 @@ id,category,brand,name
 80147560,Vinos,Montes,Vino Montes Selec Limit Carmenere 750Ml
 80147573,"Bebidas, Licores y Tabacos",Frutall,Jugo Frutall Pera 1Lt
 80147602,Panadería y Pastelería,Criss,Paneton Pan Cris C\/Chips Chocolate 700Gr
+80147767,"Snack, golosinas y galletas",Nairns,Galleta Nairns Fine Milled  V 218Gr
+80147784,"Snack, golosinas y galletas",Whitworths,Ciruelos Whitworths Soft Dates 300Gr
 80147801,"Snack, golosinas y galletas",El Ceibo,Gragea El Ceibo Arroz 500Gr
 80147912,Lácteos,Pereyra,Queso Pereyra Muzzarela 500Gr
 80147991,Hogar y Electro,Trudeau,Rebanador Trudeau P\/Palta 2En1 0
@@ -1747,8 +1788,11 @@ id,category,brand,name
 80150579,Abarrotes,,Aceite D\/Oliva Olivo De Plata Bend 250Ml
 80150626,Vinos,Montes Alpha,Vino Montes Alpha Malbec 750Ml
 80150635,"Bebidas, Licores y Tabacos",Bacardi,Ron Bacardi Anejo 5 Anos 750Ml
+80150652,"Snack, golosinas y galletas",Whitworths,Ciruelos Whitworths Soft Prunes 210G
 80150653,"Snack, golosinas y galletas",Haribo,Gomitas Haribo Super Mix 175Gr
 80150655,"Snack, golosinas y galletas",Haribo,Gomitas Haribo Tangfastics 160Gr
+80150668,"Snack, golosinas y galletas",Cadbury,Chocolate Cadbury Dairy Milk V 45Gr
+80150669,"Snack, golosinas y galletas",Nestle,Chocolate Nestle Aero Bubble Mint V 92G
 80150672,Lácteos,Delizia,Mantequilla Delizia Con Sal 200Gr
 80150675,"Snack, golosinas y galletas",Ketal,Pack 4X3 Pipocas Act Ii 358G
 80150755,Lácteos,Pil,Leche Pil Entera 3 Uht 946Ml
@@ -1764,17 +1808,28 @@ id,category,brand,name
 80151561,Cuidado Personal,Gillette,Afeitadora Gillette Venus Sensitive 2Un
 80151645,Abarrotes,Arcor,Aceite Arcor Maiz 900Ml
 80151651,"Snack, golosinas y galletas",Arcor,Galletas Hogarenas Salvado X3 600G
+80151672,"Snack, golosinas y galletas",Nestle,Chocolate Nestle Munchies 52Gr
+80151690,Abarrotes,Dorset Cereals,Cereal Dorset Simp Delicious Muesl 850Gr
+80151697,Abarrotes,Alpen,Cereal Bar Alpen Fruit&amp;Nut Milk Choco 5U
 80151705,Abarrotes,Alpen,Cereal Bar Alpen Fruit&amp;Nut 5Un
+80151706,Abarrotes,Alpen,Cereal Bar Alpen Strawberry&amp;Yogurt V 5Un
 80151707,"Snack, golosinas y galletas",Lindt Excellence,Choco Lindt Excell Milk Extra Cream 100G
 80151719,Abarrotes,Princes,Salchichas Princes 8 Hot Dogs 400G
+80151725,"Snack, golosinas y galletas",Milky Way,Chocolate Milky Way Magic Stars 33Gr
 80151728,"Snack, golosinas y galletas",Cadbury,Chocolate Cadbury Flake Milk Choc V 32Gr
 80151730,"Snack, golosinas y galletas",Maltesers,Chocolate Maltesers Big Bag 58.5Gr
 80151733,"Snack, golosinas y galletas",Cadbury,Chocolate Cadbury Giant Buttons V 40Gr
 80151735,"Snack, golosinas y galletas",Snickers,Chocolate Snickers Duo V 83.4G
-80151752,"Snack, golosinas y galletas",Nestle,Chocolate Nestle Milkybar V 25Gr
+80151744,"Snack, golosinas y galletas",Mars,Chocolate Mars Duo V 78.8Gr
+80151752,"Snack, golosinas y galletas",Milky Bar,Chocolate Nestle Milkybar V 25Gr
+80151754,"Snack, golosinas y galletas",Mars,Chocolate Mars Bar V 51G
 80151772,Abarrotes,Blue Dragon,Pasta Inst B Dragon Oriental Chick 65Gr
+80151777,"Bebidas, Licores y Tabacos",,Gaseosa Coca Cola Mini 150Ml
+80151781,"Bebidas, Licores y Tabacos",Rubicon,Gaseosa Rubicon Passion 330Ml
 80151784,"Bebidas, Licores y Tabacos",Tango,Gaseosa Tango Orange 330Ml
 80151787,Abarrotes,Nutella,Crema Untable Nutella Hzeln Choco 350Gr
+80151788,"Bebidas, Licores y Tabacos",Old Jamaica,Bebida Old Jam D\/Jenjibre Ligh S\/A 330Ml
+80151790,Abarrotes,Nutella,Crema Untable Nutella Hzeln Choco 1 Kg
 80151792,Lácteos,Kingfisher,Leche De Coco Kingfisher Light 400Ml
 80151794,Lácteos,Kingfisher,Leche De Coco Kingfisher Creamy 400Ml
 80151808,Abarrotes,Blue Dragon,Pasta Blue Dragon Egg Noodles 300G
@@ -1791,6 +1846,8 @@ id,category,brand,name
 80151826,Abarrotes,Hp,Salsa Hp Rich&amp;Smokey Org Bbq Class 465Gr
 80151829,Abarrotes,Geetas,Salsa Geetas Premium Mango Chutney 320Gr
 80151830,Abarrotes,Geetas,Salsa Geetas Lime&amp;Chili Chutney 310G
+80151831,Abarrotes,Ainsley Harriott,Couscous Ainsley Harriott Roast Veg 100G
+80151832,Abarrotes,,Salsa Soya Amoy Light 150Ml
 80151837,Abarrotes,Ainsley Harriott,Couscous Ainsley Harriott Moroccan 100G
 80151838,Abarrotes,Jack Daniels,Salsa Jack Daniels Bbq Glaze Sweet 275Gr
 80151839,Abarrotes,Jack Daniels,Salsa Jack Daniels Barbecue 260G
@@ -1798,6 +1855,7 @@ id,category,brand,name
 80151851,Abarrotes,Hellmanns,Aderezo Hellmanns Garlic&amp;Herbs 250Ml
 80151914,"Snack, golosinas y galletas",Galaxy,Chocolate Galaxy Caramel 48Gr
 80151915,Abarrotes,Twinings,Te Twinings Cranberry Green 20Un
+80151932,"Snack, golosinas y galletas",Lo Salt,Sal Lo Salt Reduced Sodium Salt 350G
 80151987,Cuidado Personal,Rexona,Deo Rexona Omega Xtracool H 90Gr
 80152171,Cuidado Personal,Nivea,Deo Nivea Stress Protect 48H Spr M 150Ml
 80152172,Cuidado Personal,Nivea,Deo Nivea Stress Protect 48H Spr H 150Ml
@@ -1832,9 +1890,30 @@ id,category,brand,name
 80152695,Abarrotes,Nescafe,Cafe Nescafe Mokaccino Stick 150Gr
 80152697,Abarrotes,Nescafe,Cafe Nescafe Cappuccino Trad Stick 120G
 80152809,"Bebidas, Licores y Tabacos",Supay,Licor Supay Picante Aji De Padilla 750Ml
+80152826,Abarrotes,Pukka,Te Pukka Revitalise S\/G O 20Un
 80152829,Abarrotes,Pukka,Te Pukka Refresh S\/G O 20Un
-80152871,"Snack, golosinas y galletas",Lindt,Chocolate Lindt Lindor Barra 100Gr
+80152830,Abarrotes,Pukka,Te Pukka Love S\/G O 20Un
+80152837,"Aguas, Gaseosas, Jugos Y Otros",,Jugo Sojade D\/Soya Calcium S\/G O 1Lt
+80152838,"Aguas, Gaseosas, Jugos Y Otros",,Jugo Sojade D\/Soya Nat S\/G S\/A O 1Lt
+80152839,"Aguas, Gaseosas, Jugos Y Otros",,Jugo Sojade D\/Soya Vanil+Caliu S\/G O 1Lt
+80152854,"Snack, golosinas y galletas",Maynards,Gomitas Bassetts Liquorice Allsort 190Gr
+80152871,"Snack, golosinas y galletas",Lindt,Barra Chocolate Lindor Milk 100G
+80152873,"Snack, golosinas y galletas",Twix,Galleta Twix Fingers 138Gr
+80152898,Abarrotes,,Jarabe Shady Maple 250Ml
+80152906,Abarrotes,,Harina Doves Farm Rice Flour S\/G 1Kg
 80152926,"Snack, golosinas y galletas",St.Dalfour,Castanas St.Dalfour Whole Chestnuts 200G
+80152930,Abarrotes,King Soba,Sopa King Soba Miso Zapallo S\/Gluten 60G
+80152938,"Snack, golosinas y galletas",Annas,Galleta Annas Almond Thins Org 150Gr
+80152955,Panadería y Pastelería,Kallo,Queque De Arroz Kallo Salt&amp;Balsam V 127G
+80152956,Abarrotes,Ma Baker,Cereal Bar Ma Baker Cranberry V 90Gr
+80152957,Abarrotes,Ma Baker,Cereal Bar Ma Baker Strawberry V 90Gr
+80152958,Abarrotes,Ma Baker,Cereal Bar Ma Baker Blueberry V 90Gr
+80152959,Abarrotes,Ma Baker,Cereal Bar Ma Baker Raspberry V 90Gr
+80152960,Abarrotes,Ma Baker,Cereal Bar Ma Baker Cherry V 90Gr
+80152961,Abarrotes,Ma Baker,Cereal Bar Ma Baker Banana V 90Gr
+80152962,Abarrotes,Ma Baker,Cereal Bar Ma Baker Apple V 90Gr
+80152963,Abarrotes,Ma Baker,Cereal Bar Ma Baker Apricot V 90Gr
+80152966,Abarrotes,Pukka,Te Pukka Night Time S\/G O 20Un
 80153017,Aseo y Limpieza,Renuzit,Ambientador Renuzit Raspberry 198Gr
 80153083,Hogar y Electro,Glade,Vela Glade Beerry &amp; Raspberry 108Gr
 80153084,Hogar y Electro,Glade,Vela Glade Hawaiian Breeze 108Gr
@@ -1899,12 +1978,15 @@ id,category,brand,name
 80154590,Abarrotes,Kris,Ketchup Kris Doypack 500Gr
 80154591,Abarrotes,Kris,Mostaza Kris Doypack 500Gr
 80154593,Abarrotes,Sharwoods,Curry Sharwoods Medium V 102Gr
+80154602,Abarrotes,King Soba,Sopa King Soba Miso Soya S\/Gluten 60G
+80154614,"Snack, golosinas y galletas",Cadbury,Caramelos Cadbury Eclairs Classic V 130G
 80154625,Refrigerado y Congelado,Sofia,Mortadela Sofia Pollo Vacio 200Gr
 80154626,Refrigerado y Congelado,Sofia,Mortadela Sofia Jamonada Pollo Vac 200Gr
 80154627,Refrigerado y Congelado,Sofia,Mortadela Sofia Primavera Pollo Vac 200G
 80154628,Refrigerado y Congelado,Sofia,Jamon Sofia Ligth Pollo Vacio 250Gr
 80154629,Refrigerado y Congelado,Sofia,Jamon Sofia Sandwichero Vacio 250Gr
 80154653,"Snack, golosinas y galletas",Nestle,Calendario Choc Milky Bar Bco 85Gr
+80154663,"Snack, golosinas y galletas",Haribo,Masticable Haribo Maoam Stripes 140Gr
 80154691,Refrigerado y Congelado,Fridosa,Nugget Fridosa Pop Pollo 300Gr
 80154709,Bebés y Nin@s,Huggies,Panal Huggies Rec Nac Prematuro Lao 30Un
 80154736,Abarrotes,Sabrosa,Sardina Sabrosa Oval 425Gr
@@ -1999,6 +2081,7 @@ id,category,brand,name
 80156680,Vinos,Siesta En El Tahuantinsuyu,Vino Siesta En El Tahuantin Malbec 750Ml
 80156723,Mascotas,Animal Planet,Juguete Animal P P\/Gato 8Cm C750
 80157180,Hogar y Electro,Bosch,Hervidor Bosch D\/Agu 1.7L 2400W Twk3A014
+80157433,"Snack, golosinas y galletas",Mc Vities,Galleta Mcvities Digest Milk Choc V 266G
 80157436,Mascotas,Gati,Comida Gati Pescado Con Vegetales 1Kg
 80157437,Mascotas,Gati,Comida Gati Pescado Con Vegetales 3Kg
 80157440,Mascotas,Gati,Comida Gati Pollo Con Vegetales 1Kg
@@ -2061,6 +2144,7 @@ id,category,brand,name
 80158003,Refrigerado y Congelado,Sofia,Milanesa Sofia Cordon Bleu 600Gr
 80158018,Cuidado Personal,Colgate,Pasta Dent Colgate Luminous White 125Ml
 80158057,Aseo y Limpieza,Ola,Lavavajillas Ola Limon 2Lt
+80158063,"Bebidas, Licores y Tabacos",Dr Pepper,Gaseosa Dr Pepper Lata 150Ml
 80158064,"Snack, golosinas y galletas",Lindt,Chocolate Lindt Lindor Milk Barra 38Gr
 80158065,Abarrotes,Stute,Mermelada P\/Diabet Stute Frambuesa 430G
 80158072,"Snack, golosinas y galletas",Ocean Spray,Arandanos Ocean Spray Craisins Org 150Gr
@@ -2068,6 +2152,11 @@ id,category,brand,name
 80158092,"Snack, golosinas y galletas",Haribo,Gomitas Haribo Fizzy Cola 160Gr
 80158095,"Snack, golosinas y galletas",Haribo,Gomitas Haribo Starmix Mini 16Gr
 80158096,"Snack, golosinas y galletas",Haribo,Gomitas Haribo Tangfastics Mini 16Gr
+80158097,"Bebidas, Licores y Tabacos",Rubicon,Gaseosa Rubicon Mango 330Ml
+80158098,"Bebidas, Licores y Tabacos",Ribena,Jugo Ribena Blackcurrant 250Ml
+80158099,"Bebidas, Licores y Tabacos",Rubicon,Gaseosa Rubicon Guava 330Ml
+80158104,"Bebidas, Licores y Tabacos",Fanta,Gaseosa Fanta Orange Lata 150Ml
+80158107,"Bebidas, Licores y Tabacos",Sprite,Gaseosa Sprite Rediscover 150Ml
 80158112,"Bebidas, Licores y Tabacos",Cawston,Jugo Cawston Press Cloudy Apple 1Lt
 80158151,Abarrotes,Stute,Mermelada P\/Diabet Stute Naranja 430G
 80158267,Productos frescos,,Champinon Damush Laminados 250Gr
@@ -2170,9 +2259,13 @@ id,category,brand,name
 80163101,"Bebidas, Licores y Tabacos",Johnnie Walker,Whisky Johnnie Walker Double Black 1Lt
 80163120,Hogar y Electro,Bosch,Batidora Bosch 350W 4Vel Mfq3030
 80163174,Refrigerado y Congelado,Sofia,Salchicha Sofia Res  Al Vacio 14 Cm
+80163196,Abarrotes,Coffee Mate,Cafe Coffee Mate Orig V 200Gr
 80163212,"Snack, golosinas y galletas",Annas,Galleta Annas Ginger Thins Org 150G
-80163252,"Snack, golosinas y galletas",Lindt Excellence,Choco Lindt Excell Dark 85% Cocoa 100Gr
+80163221,"Snack, golosinas y galletas",Nestle,Chocolate Nestle Yorkie Original 46Gr
+80163232,Abarrotes,Heinz,Frijoles Heinz Barbecue 390Gr
+80163252,"Snack, golosinas y galletas",Lindt Excellence,Chocolate Lindt Excellence 85 Cacao 100G
 80163254,"Snack, golosinas y galletas",Lindt Excellence,Choco Lindt Excell Dark 90% Cocoa 100Gr
+80163260,"Snack, golosinas y galletas",Lindt Excellence,Choco Lindt Excell Dark Caramel 100Gr
 80163270,"Snack, golosinas y galletas",Lindt Excellence,Choco Lindt Excell Dark Mint Int 100Gr
 80163280,"Snack, golosinas y galletas",Lindt,Chocolate Lindt Lindor Weiss Barra 100Gr
 80163291,Refrigerado y Congelado,Dontaco,Tortilla Don Taco De Trigo 660Gr
@@ -2671,6 +2764,7 @@ id,category,brand,name
 80177823,Cuidado Personal,Colgate,Enj Bucal Colg Softmint Splash 250 Ml
 80177840,Abarrotes,Aji No Men,Sopa Lista Vaso Ajinomen Pollo 67Gr
 80177842,Abarrotes,Aji No Men,Sopa Lista Vaso Ajinomen Carne 67Gr
+80177867,"Snack, golosinas y galletas",Kit Kat,Chocoo Kitkat Dark 41.5Gr
 80177881,Abarrotes,Irupana,Nutribarra Irupana Frutos Rojos 12x20G
 80177882,"Bebidas, Licores y Tabacos",Four Loko,Agua Ardiente Four Loko Cinnamon 750Ml
 80177899,Cuidado Personal,Ballerina,Jabon Liq Ballerina Hipoalergenico 350Ml
@@ -2853,6 +2947,7 @@ id,category,brand,name
 80182138,Hogar y Electro,Rayovac,Bateria Rayovac Alkalina 9V 1Un
 80182153,Cuidado Personal,Sedal,Shampoo Sedal Sh Rizos Def 12X650Ml
 80182164,Hogar y Electro,,Bolsa Regalo Merletto Nav 24X18 6523262
+80182189,"Bebidas, Licores y Tabacos",Seven Up,7Up Regular Pm49P 330 Ml
 80182198,Refrigerado y Congelado,Kostlich,Pate Kostlich De Ternera 100Gr
 80182199,Refrigerado y Congelado,Kostlich,Pate Kostlich De Finas Hierbas 100Gr
 80182200,Refrigerado y Congelado,Kostlich,Pate Kostlich De Pechuga De Pavo 100Gr
@@ -2912,6 +3007,7 @@ id,category,brand,name
 80183518,"Bebidas, Licores y Tabacos",Mendocina,Bipack Agua Mendocina Sin Gas 3Lt
 80183520,"Aguas, Gaseosas, Jugos Y Otros",Mendocina,Tripack Gase Mendocina Nar-Guar-Pap 3Lt
 80183531,"Snack, golosinas y galletas",Haribo,Gomitas Haribo Starmix E1 160Gr
+80183532,"Snack, golosinas y galletas",Mc Vities,Galleta Mcvit Dige Dark Choc V E1.5 266G
 80183559,Productos frescos,Ketal,Keperi Ketal  Por Kilo
 80183790,Vinos,La Concepcion,Vino Rosado Carmin Semidulce 700Ml
 80183809,Bebés y Nin@s,Mattel,Muneco Mateel Dif\/Modelos Dph24
@@ -3402,6 +3498,7 @@ id,category,brand,name
 80191263,Hogar y Electro,Decore,Mochila Disney 9436
 80191264,Hogar y Electro,Decore,Mochila Disney 5679
 80191267,Hogar y Electro,Decore,Mochila Disney 5541
+80191281,Abarrotes,Colmans,Salsa Colmans Horseradish 136Gr
 80191296,"Snack, golosinas y galletas",Kit Kat,Chocolate Kit Kat Chunky Peanut Butter 4
 80191302,Hogar y Electro,Moduart,Mueble Moduart P\/Tv Wengue 38-04 107Cm X 140Cm X 88Cm
 80191303,Hogar y Electro,Moduart,"Mueble Moduart P\/Tv Wengue Mad 68-04 71,5Cm X 170Cm X 36Cm"
@@ -4058,11 +4155,23 @@ id,category,brand,name
 80196963,"Bebidas, Licores y Tabacos",Activade,Hidratante Activade Frambuesa 600 Ml
 80196964,"Bebidas, Licores y Tabacos",Activade,Hidratante Activade Maracuya 600 Ml
 80196966,"Bebidas, Licores y Tabacos",Activade,Hidratante Activade Mora 600 Ml
+80196968,Abarrotes,Nutella,Crema Untable Nutella Hzeln Choco&amp;Go 48G
+80196969,"Snack, golosinas y galletas",Cadbury,Choco Cadbury Marv Creation Jelly 47Gr
+80196970,"Snack, golosinas y galletas",Kinder,Chocolate Kinder Medium Bar 21Gr
+80196971,"Snack, golosinas y galletas",Nutella,Nalleta Nutella B - Ready 22Gr
+80196972,"Snack, golosinas y galletas",,Chocolate M&amp;M Crispy Treat Bag 77Gr
+80196974,"Snack, golosinas y galletas",Nutella,Galleta Nutella B - Ready 6Un 132Gr
+80196975,Abarrotes,Twinings,Te Twinings Green Apple&amp;Pear 20Un
 80196976,Abarrotes,Twinings,Te Twinings Green &amp; Lemon 20Un
 80196977,"Snack, golosinas y galletas",Cadbury,Chocolate Cadbury Picnic 55P 48.4Gr
 80196978,"Snack, golosinas y galletas",Cadbury,Chocolate Cadbury Caramel 45Gr
+80196979,"Snack, golosinas y galletas",Cadbury,Chocolate Cadbury Crunchie 55P 40Gr
 80196980,"Snack, golosinas y galletas",Cadbury,Chocolate Cadbury Starbar 55P 49Gr
+80196981,"Snack, golosinas y galletas",Kinder,Chocolate Kinder Bueno 43Gr
+80196982,"Snack, golosinas y galletas",Kinder,Chocolate Kinder Bueno White 40Gr
 80196983,"Snack, golosinas y galletas",Swizzels,Gomitas Swizzels Drumst Raspb&amp;Milk 45Gr
+80196984,"Snack, golosinas y galletas",Swizzels,Gomitas Swizzels Drumst Cherry&amp;Apple 45G
+80196985,Abarrotes,Tetley,Te Tetley Green Berry Burst Vit B6 20Un
 80196996,"Snack, golosinas y galletas",Tatin,Alfajor Tatin Chocolate Blanco 33Gr
 80197037,Abarrotes,Robinson Crusoe,Pack 3X2 Atun Robinson Crusoe Surt 510G
 80197077,"Bebidas, Licores y Tabacos",Rujero,Singani Rujero Dg 750Ml
@@ -4095,8 +4204,11 @@ id,category,brand,name
 80197279,"Snack, golosinas y galletas",Quality,Chocolate Nestle Quality Street 240G
 80197298,"Snack, golosinas y galletas",Quality,Chocolate Quality Street Tub 650Gr
 80197315,Hogar y Electro,Glory,Cubetera De Hielo Kt2675
+80197345,"Snack, golosinas y galletas",Snickers,Chocolate Snickers C\/Caramelo 142Gr
 80197346,"Snack, golosinas y galletas",Squashies,Gomitas Squashies Manzana Y Cherry 145Gr
+80197347,"Snack, golosinas y galletas",Starburst,Caramelos Starburst F Varios Sab 210Gr
 80197348,"Snack, golosinas y galletas",Skittles,Caramelos Skittles Tropical Pouch 196Gr
+80197349,"Snack, golosinas y galletas",Skittles,Caramelos Skittles Berry Pouch 196Gr
 80197356,Hogar y Electro,Concepts,Manta Concepts 127X152Cm+10Cm 426-66041
 80197357,Hogar y Electro,Concepts,Manta Concepts 127X152Cm+10Cm 426-66045
 80197358,Hogar y Electro,Concepts,Manta Concepts 127X152Cm+10Cm 426-66047
@@ -4646,6 +4758,7 @@ id,category,brand,name
 80200824,"Snack, golosinas y galletas",Ketal,Galletas Wafer Isabela Frutilla 100G
 80200825,"Snack, golosinas y galletas",Ketal,Galletas Wafer Isabela Choc Blanco 100G
 80200827,"Snack, golosinas y galletas",Ketal,Galletas Wafer Isabela Choc Suizo 100G
+80200835,"Snack, golosinas y galletas",,Chocolate M&amp;Ms Crispy Std 36Gr
 80200844,Hogar y Electro,Bosch,Cocina Bosch 60 Cm 4 Hornallas Pro449Ix
 80200845,Hogar y Electro,Bosch,Cocina Bosch 77 Cm 5 Hornallas Pro549Ix
 80200846,Hogar y Electro,Bosch,Cocina Bosch 77 Cm 5 Hornallas Pro567Ix
@@ -5449,6 +5562,7 @@ id,category,brand,name
 80203710,Abarrotes,Rob Crusoe,Calamar Rob Crusoe Aceite Oliva 111G
 80203713,Refrigerado y Congelado,Sofia,Mortadela  Sofia Jumbo Jamonada Kg
 80203715,Refrigerado y Congelado,Sofia,Mortadela  Sofia Jumbo Primavera Kg
+80203718,"Bebidas, Licores y Tabacos",Huari,Sv3X2 Cerveza Huari Lata 354Ml
 80203722,Hogar y Electro,Philips,Licuadora Philips Malibu 700W  Hr2134\/50
 80203725,Hogar y Electro,Philips,Procesador D\/Alim Philips   Hr7631\/50
 80203744,"Snack, golosinas y galletas",,Chupete Pin Pop Sandia 24Un
@@ -5887,6 +6001,10 @@ id,category,brand,name
 80205792,Aseo y Limpieza,Dishwasher,Sal De Lavavajillas Dishwasher Salt 2Kg
 80205793,Abarrotes,Pasta´N Sauce,Pasta N Sauce Checken &amp; Mushrrom 99Gr
 80205794,Abarrotes,Pasta´N Sauce,Pasta N Sauce Cheese Leek &amp;Ham 99Gr
+80205795,Aseo y Limpieza,Sin Marca,Co Op White Flowers Air Freshener 300Ml
+80205796,Aseo y Limpieza,Sin Marca, Co Op Cherry Blossom Air Freshener 250M
+80205797,Aseo y Limpieza,Sin Marca,Co Op Cotton Fresh Air Freshener 300Ml
+80205798,Aseo y Limpieza,Sin Marca,Glade Solid Lily Of The Valley 1S
 80205799,Aseo y Limpieza,Fresh Rince,Limpiador Fresh Rinse D\/Lavavaj 400Ml
 80205800,Aseo y Limpieza,Dishwasher,Limpiador Dishwasher D\/Lavavaj 250Ml
 80205801,Abarrotes,Blue Dragon,Salsa Blue Dragon Chow Mein 120Gr
@@ -5894,7 +6012,8 @@ id,category,brand,name
 80205803,"Snack, golosinas y galletas",Horlicks,Mezcla Horlicks Original 300Gr
 80205804,"Snack, golosinas y galletas",Haribo,Caramelo Haribo Pont Cakes 160Gr
 80205805,Aseo y Limpieza,Neutradol,Ambientrador Neutradol S Fresh Ext 330Ml
-80205806,Aseo y Limpieza,Neutradol,Ambientrador Neutradol F Pink Ext 330Ml
+80205806,Aseo y Limpieza,Neutradol,Ambientrador Neutradol F Pink Ext 300Ml
+80205808,Aseo y Limpieza,Neutradol,Gel Neutradol Fresh Pink 90Dias
 80205810,"Snack, golosinas y galletas",Sublime,Pack 3X2 Chocolate Sublime Surt 3X100G
 80205812,"Snack, golosinas y galletas",Sin Marca,Pack 3 Galletas Oreo Surt 3X216G
 80205817,Abarrotes,Sin Marca,Pack 3 Sopas \/ Cremas Kris Surt 3X61G
@@ -7366,6 +7485,14 @@ id,category,brand,name
 80210248,Hogar y Electro,,Licuadora Black+Decker 10 Vel. Durapro B
 80210249,Hogar y Electro,,Procesador Black+Decker 8 Tazas Dfp4200B
 80210339,"Bebidas, Licores y Tabacos",,Pack6 Cerveza Pacenita+ Utensilio
+80210495,Aseo y Limpieza,Sin Marca,Limpiador De Vajillas 250Ml
+80210496,Aseo y Limpieza,Sin Marca,Descalsificador P\/Lavavajillas 2X75Gr
+80210497,Aseo y Limpieza,,Limpiador Harpic Power Plus 680Ml
+80210498,Aseo y Limpieza,,Pastillas P\/Lavavajillas 7 En 1
+80210499,"Bebidas, Licores y Tabacos",,Agua Tonica Schweppes Indian 150Ml
+80210500,"Snack, golosinas y galletas",Little Rolo,Chocolate Rolo Relleno 166Gr
+80210501,"Snack, golosinas y galletas",Little Rolo,Chocolate Rolo Little 103Gr
+80210515,Aseo y Limpieza,,Descalsificador Todo Uso 3X25Ml
 80210516,Panadería y Pastelería,,Brownie Panetteria Sabores Surtidos 1Un
 80210517,Panadería y Pastelería,,Cheesecake Panetteria Sabores Surtidos 1UN
 80210518,Panadería y Pastelería,,Galleton Panetteria Sabores Surtidos 1Un
