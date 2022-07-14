@@ -3825,6 +3825,13 @@ id,category,brand,name
 80193522,Hogar y Electro,Rayovac,Foco Rayovac Led 8W Blanca
 80193523,Hogar y Electro,Rayovac,Foco Rayovac Led 10W Amarilla
 80193524,Hogar y Electro,Rayovac,Foco Rayovac Led 10W Blanca
+80193529,Mascotas,Dog Chow,Alimento Hum Dog Chow Cach Pollo 100Gr
+80193530,Mascotas,Dog Chow,Alimento Hum Dog Chow Adult Carne 100Gr
+80193531,Mascotas,Dog Chow,Alimento Hum Dog Chow Adult Pollo 100Gr
+80193532,Mascotas,Dog Chow,Alimento Hum Dog Chow Adul Peq Pav 100Gr
+80193536,Mascotas,Felix,Alimento Hum Felix Carne Gatitos 85Gr
+80193537,Mascotas,Felix,Alimento Hum Felix Atún En Salsa 85Gr
+80193538,Mascotas,Felix,Alimento Hum Felix Salmón En Salsa 85Gr
 80193539,Mascotas,Felix,Alimento Hum Cat Chow Adultos Carne 85Gr
 80193540,Cuidado Personal,Felix,Plancha Gama Attiva Ion 3D Ther Ion Plus
 80193542,Cuidado Personal,Felix,Secadora Gama Viaveneto Green Ion
@@ -3915,6 +3922,8 @@ id,category,brand,name
 80194551,"Bebidas, Licores y Tabacos",Del Valle,Jugo Del Valle Fresh Cytrus 3Lt
 80194792,Abarrotes,Comrural,Sv 2 Quinua Quinut Grano 2X300G
 80194807,Abarrotes,Breick,Sv 3X2 Quinua Quinut Grano 3X300G
+80194849,Mascotas,Ricocan,Lata Ricocat Pescado 330Gr Adulto
+80194850,Mascotas,Ricocan,Lata Ricocat Pollo 330Gr Adulto
 80194892,Vinos,Kaiken,Vino Kaiken Ultra 750Ml Malbec
 80194893,Vinos,Kaiken,Vino Kaiken Terrior 750Ml Malbec
 80194894,Vinos,Kaiken,Vino Kaiken Reserva Rose 750Ml Malbec
@@ -4720,6 +4729,7 @@ id,category,brand,name
 80199917,Hogar y Electro,Kitchen Helper,Tapa para Microondas Kitchen Helper 2Pza 2609950
 80199918,Hogar y Electro,Kitchen Helper,Triturador P\/Vegetal Kitchen H   2609960
 80199919,Hogar y Electro,Kitchen Helper,Envase Kitchen Helper P\/Aderezo  2609920
+80199920,Hogar y Electro,Betty Crocker,Molde Betty Crocker P\/Horno 4Pza Bc1050
 80199921,Hogar y Electro,Betty Crocker,Molde Betty Crocker P\/Horno 1Un Bc1083
 80199939,Mascotas,Animal Planet,Correa Animal P P\/Mascota  D715-299
 80199947,Mascotas,Animal Planet,Plato Animal P  25X25Cm D024-014
@@ -4812,6 +4822,7 @@ id,category,brand,name
 80200327,Hogar y Electro,Magefesa,Radiador Mgf 11 Paneles Celsius Mgf-1392
 80200328,Hogar y Electro,Magefesa,Termoventilador Mgf Caille Mgf-1294
 80200334,Refrigerado y Congelado,Fridosa,Hamburguesa Fridosita Tubo Res 12Un
+80200337,Mascotas,Felix,Wet Felix Gatitos Sensaciones 85Gr
 80200338,Hogar y Electro,Black&amp;Decker,Exprimidor De Citricos Balck + D Cj650
 80200344,Aseo y Limpieza,Bolivar,Suavizante Bolivar Floral 1.5Lt
 80200345,Aseo y Limpieza,Ecocleaner,Esponja Ecocleaner Borrador Magico 3Un
@@ -5363,7 +5374,10 @@ id,category,brand,name
 80202283,Bebés y Nin@s,Bungee,Pijama Bungee P\/Nina Dif Talla 0126702
 80202289,Mascotas,Ricocan,Comida Perro Ricocan Edad Avanzada 3Kg
 80202292,Mascotas,Ricocan,Comida Perro Ricocan Adulto 15Kg
+80202293,Mascotas,Ricocat,Comida Gato Ricocat Adul Esterilizad 1Kg
 80202294,Mascotas,Ricocat,Comida Gato Ricocat Adul Esterilizad 9Kg
+80202295,Mascotas,Ricocat,Comida Gato Ricocat Adul Festi Sabor 1Kg
+80202296,Mascotas,Ricocat,Comida Gato Ricocat Adul Festi Sabor 3Kg
 80202297,Mascotas,Ricocat,Comida Gato Ricocat Adul Festi Sabor 9Kg
 80202298,Mascotas,Ricocan,Comida Perro Ricocan Cachorro Pate 330Gr
 80202299,Mascotas,Ricocan,Comida Perro Ricocan Adul Pate Poll 330G
@@ -5602,9 +5616,13 @@ id,category,brand,name
 80203171,Mascotas,Ricocan,Lata Ricocan Adulto Carne&amp;Verduras 280Gr
 80203172,Mascotas,Ricocan,Lata Ricocan Cachorro Cordero 280Gr
 80203173,Mascotas,Ricocan,Lata Ricocan Adulto Cordero 330Gr
+80203175,Mascotas,Ricocat,Pouch Ricocat Cachorro Trocitos Car 85Gr
+80203176,Mascotas,Ricocat,Pouch Ricocat Adulto Trocitos Marin 85Gr
+80203177,Mascotas,Ricocat,Pouch Ricocat Adulto Trocitos Salmon 85G
 80203178,Mascotas,Ricocat,Pouch Ricocat Adulto Trocitos Pollo 85Gr
 80203179,Mascotas,Ricocat,Lata Ricocat Gatitos Trocitos Carne 160G
 80203180,Mascotas,Ricocat,Lata Ricocat Adultos Trocitos Pollo 160G
+80203181,Mascotas,Ricocat,Lata Ricocat Adultos Pate Higado&amp;Po 330G
 80203196,Refrigerado y Congelado,Taquinos,Tortilla Taquinos De Maiz 260Gr
 80203201,Hogar y Electro,Olego,Papel De Regalo Olego  1Un
 80203202,Hogar y Electro,Olego,Bolsa Regalo  Olego Grande 1Un
@@ -6268,6 +6286,15 @@ id,category,brand,name
 80206326,Hogar y Electro,,Set Accesorios P\/Picnic 31Pzas G-159
 80206329,Hogar y Electro,,Bomba Gondol D\/Crema G-01
 80206338,Mascotas,Ricocrack,Galleta Ricocrack Menta Adul 200Gr
+80206339,Mascotas,Ricocat,Alim Ricocat Trocitos Pescado Adul 160Gr
+80206352,Mascotas,Ricocat,Alim Ricocat Atun Sardin Trucha Adul 1K
+80206353,Mascotas,Ricocat,Alim Ricocat Atun Sardin Trucha Adul 9K
+80206354,Mascotas,Ricocat,Alim Ricocat Carne Salmon Leche Adul 1K
+80206355,Mascotas,Ricocat,Alim Ricocat Carne Salmon Leche Adul 9K
+80206356,Mascotas,Ricocat,Alim Ricocat Pollo Sardina Salm Adul 1Kg
+80206357,Mascotas,Ricocat,Alim Ricocat Pollo Sardina Salm Adul 9Kg
+80206358,Mascotas,Ricocat,Alim Ricocat Carne Pesc Lech Gatitos 1Kg
+80206359,Mascotas,Ricocat,Alim Ricocat Carne Pesc Lech Gatitos 9Kg
 80206360,Hogar y Electro,,Taladro Energy Percutor 550W
 80206361,Hogar y Electro,,Hidrolavadora Energy  1200W
 80206362,Hogar y Electro,,Atornillador Energy Recargable 3.6V
@@ -6322,6 +6349,7 @@ id,category,brand,name
 80206512,Cuidado Personal,Kotex,Toalla Femenina Kotex Noct Uf Tela 12Un
 80206513,Cuidado Personal,Kotex,Protector Diario Kotex  180Un
 80206536,"Bebidas, Licores y Tabacos",Paceña,Sv 2 Cerveza Pacena 235Ml
+80206562,Mascotas,Doguitos,Alim Doguitos Bife Chorizo 45 Gr
 80206563,Refrigerado y Congelado,Delizia,Postre Trad Delizia Api 300Ml
 80206564,Refrigerado y Congelado,Delizia,Postre Trad Delizia Huminta 300Ml
 80206565,Refrigerado y Congelado,Delizia,Postre Trad Delizia Arroz Con Leche 300M
@@ -6568,9 +6596,15 @@ id,category,brand,name
 80207241,Hogar y Electro,,Casas Santini C\/Luz Led D\/A Bat 600020
 80207243,Cuidado Personal,,Termometro Infrarojo Digital Dikang
 80207256,Refrigerado y Congelado,Delizia,Postre Tradicional Delizia Canela 300Ml
+80207269,Hogar y Electro,Betty Crocker,Molde Betty C Desmontable Bc1006
 80207270,Hogar y Electro,Betty Crocker,Molde Betty C Desmontable Bc1015
 80207271,Hogar y Electro,Betty Crocker,Molde Betty C Rectangular Bc1033
 80207272,Hogar y Electro,Betty Crocker,Molde Betty C P\/Muffin Bc1042
+80207274,Hogar y Electro,Betty Crocker,Prensador Betty C D\/Ajo Bc4012
+80207275,Hogar y Electro,Betty Crocker,Abridor Betty C D\/Latas Bc4023
+80207276,Hogar y Electro,Betty Crocker,Batidor Betty C D\/Huevos Bc4063
+80207277,Hogar y Electro,Betty Crocker,Cortador Betty C D\/Pizza Bc4072
+80207278,Hogar y Electro,Betty Crocker,Rallador Betty C  Bc4089
 80207281,Hogar y Electro,,Alfombra Kennedy D\/Navidad 20-40X70-A
 80207282,Hogar y Electro,,Alfombra Kennedy D\/Navidad 20-50X80Ov-A
 80207287,Carnavales Ketal,Adrimex,Peluca Adrimex Afro Colores
@@ -7703,9 +7737,36 @@ id,category,brand,name
 80209830,Panadería y Pastelería,Pipopan,Pan Molde Pipopan Integ. Con Avena 650Gr
 80209831,Panadería y Pastelería,Pipopan,Pan Molde Pipopan Integmulticereal 650Gr
 80209832,Panadería y Pastelería,Pipopan,Pan Molde Pipopan Integ. Con Chia 650Gr
+80209833,Hogar y Electro,Rayovac,Combo Foco Led Rayovac 8W Amar 6+1 8W
+80209834,Hogar y Electro,Rayovac,Combo Foco Led Rayovac 8W Blanc 6+1 8W
+80209835,Hogar y Electro,Rayovac,Combo Foco Led Rayovac 10W Amar 6+1 10W
+80209836,Hogar y Electro,Rayovac,Combo Foco Led Rayovac 10W Blanc 6+1 10W
+80209837,Hogar y Electro,Rayovac,Combo Foco Led Rayovac 12W Amar 6+1 12W
+80209838,Hogar y Electro,Rayovac,Combo Foco Led Rayovac 12W Blanc 6+1 12W
+80209839,Hogar y Electro,Rayovac,Combo Foco Led Rayovac 14W Amar 6+1 14W
+80209840,Hogar y Electro,Rayovac,Combo Foco Led Rayovac 14W Blanc 6+1 14W
+80209845,Mascotas,Felix,Alim Hum Felix Classic Sardina 85Gr
 80209846,Mascotas,Cat Chow,Comida Cat Chow Sin Col Gatitos 1Kg
 80209913,Cuidado Personal,Gama,Balanza Ga.Ma De Cocina
 80209914,Cuidado Personal,Gama,Depiladora Ga.Ma Oasis Supreme
+80209956,Hogar y Electro,Betty Crocker,Molde Betty C P\/Mini Cupcake Bc1008
+80209957,Hogar y Electro,Betty Crocker,Molde Betty C P\/Muffin Bc1009
+80209958,Hogar y Electro,Betty Crocker,Molde Betty C P\/Pan Bc1010
+80209959,Hogar y Electro,Betty Crocker,Sarten Betty C Antiadherete Bc2001
+80209960,Hogar y Electro,Betty Crocker,Sarten Betty C Antiadherete Bc2002
+80209961,Hogar y Electro,Betty Crocker,Olla Betty C C\/Tapa Bc2003
+80209962,Hogar y Electro,Betty Crocker,Cacerola Betty C C\/Tapa Bc2004
+80209963,Hogar y Electro,Betty Crocker,Sarten Betty C Antiadherete Bc2005
+80209964,Hogar y Electro,Betty Crocker,Set Betty C D\/Cuchillos 2P Bc4011
+80209965,Hogar y Electro,Betty Crocker,Espatula Betty C 0 Bc4017
+80209966,Hogar y Electro,Betty Crocker,Brocha Betty C D\/ Silicona Bc4019
+80209967,Hogar y Electro,Betty Crocker,Espatula Betty C 0 Bc4022
+80209968,Hogar y Electro,Betty Crocker,Rodillo Betty C P\/Cocina Bc4115
+80209969,Hogar y Electro,Betty Crocker,Contenedor Betty C P\/Cuadrado 12 Bc5003
+80209970,Hogar y Electro,Betty Crocker,Conten Betty C Plast Cuadr 2.3Lt Bc5004
+80209971,Hogar y Electro,Betty Crocker,Conten Betty C Plast Cuadr 3.3Lt Bc5005
+80209972,Hogar y Electro,Betty Crocker,Contene Betty C Plast Cuadr 4Lt Bc5006
+80209973,Hogar y Electro,Betty Crocker,Recipiente Betty C D\/Alm Plast Bc5011
 80209991,"Bebidas, Licores y Tabacos",Paceña,Combo 6 Cerveza Pacena 354Ml
 80210014,"Bebidas, Licores y Tabacos",,Vodka Vorus Clasico 1 Lt
 80210015,"Bebidas, Licores y Tabacos",,Vodka Vorus Berries 1 Lt
@@ -7736,6 +7797,7 @@ id,category,brand,name
 80210075,"Snack, golosinas y galletas",Maria,Sv 3X2 Galletas Maria Maizena X3 9X90G
 80210076,"Snack, golosinas y galletas",Mabels,Sv 3X2 Galletas Mabels Crackers 3X250G
 80210077,"Snack, golosinas y galletas",Mabels,Sv 3X2 Galletas Mabels Salvado 3X250G
+80210211,Mascotas,Felix,Alim Felix Classic Pesc Blanco 85Gr
 80210213,Cuidado Personal,Protex,Jabon Barra Protex Macadamia 6X110
 80210214,Cuidado Personal,Protex,Jabon Barra Protex Deep Clean 6X110
 80210215,Cuidado Personal,Colgate,Enjuague Colg Luminous Carbon 250 Ml
@@ -8115,6 +8177,7 @@ id,category,brand,name
 80211246,Refrigerado y Congelado,Vaca Fria,Helado Vacafria Crema Americana 150 Ml
 80211251,"Bebidas, Licores y Tabacos",,Vino Campos De Solana Tannat - Marselan
 80211360,Hogar y Electro,Oster,Exprimidor Citricos Oster Blanco Fpstju1
+80211396,Lácteos,Lacteosbol,Sv 2X1 Leche Eba Entera Uht 946Ml
 560500173,Bebés y Nin@s,Mattel,Autos Mattel  Hot Weels 5Gift St
 560500174,Bebés y Nin@s,Mattel,Auto Mattel Surtido Hotwheels C4982
 560500178,Bebés y Nin@s,Hasbro,Plastilina Hasbro Playdoh Picnic
