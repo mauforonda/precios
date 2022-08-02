@@ -507,6 +507,8 @@ id,category,brand,name
 24050710,Bebés y Nin@s,Johnson &amp; Johnson,Toalla Hum Johnson Dulce Doyp Lila 48Un
 24051111,Aseo y Limpieza,Amor,Detergente Amor Suavidad 800Gr
 24052601,Bebés y Nin@s,Johnson &amp; Johnson,Talco Johnson Dulces Suenos 200Gr
+25010255,"Bebidas, Licores y Tabacos",Frutall,Jugo Frutall Manzana 200Ml
+25010256,"Bebidas, Licores y Tabacos",Frutall,Jugo Frutall Durazno 200Ml
 25010268,"Bebidas, Licores y Tabacos",Frutall,Jugo Frutall Manzana 1Lt
 25010269,"Bebidas, Licores y Tabacos",Frutall,Jugo Frutall Durazno 1Lt
 25010278,"Bebidas, Licores y Tabacos",Frutall,Zumo Frutall Light Durazno 1L
@@ -3029,7 +3031,7 @@ id,category,brand,name
 80178834,Hogar y Electro,Rey,Jarra Rey Reyware 1.5Lt Jrx007000
 80178835,Hogar y Electro,Rey,Jarra Rey Reyware 4Lt Jrx009000
 80178836,Hogar y Electro,Rey,Lavacuela Rey Mediano 21Cm Esx011000
-80178841,,Rey,Org Rey D\/Ducha  Pbx064900
+80178841,Festiplástico,Rey,Org Rey D\/Ducha  Pbx064900
 80178843,Hogar y Electro,Rey,Basurero Rey Florencia  Ppx010000
 80178851,Hogar y Electro,Rey,Colador Rey Mediano  25Cm Cox011000
 80178917,,Ketal,Sv Combo Saltena Ketal
@@ -3687,6 +3689,7 @@ id,category,brand,name
 80190472,Hogar y Electro,Adrimex,Farol Adrimex Arana
 80190473,Hogar y Electro,Adrimex,Canasta Adrimex Fieltro Hallowee
 80190474,Hogar y Electro,Adrimex,Colgante Adrimex Papel Halloween
+80190502,Cuidado Personal,Kotex,Protector Diario Kotex Ultradel Flex X15
 80190506,Refrigerado y Congelado,Taquinos,Tortillas Taquinos Trigo 240Gr
 80190508,Panadería y Pastelería,Taquinos,Pan Arabe Taquinos Dietetico 130Gr
 80190509,Panadería y Pastelería,Taquinos,Pan Arabe Taquinos Integral 130Gr
@@ -8167,6 +8170,11 @@ id,category,brand,name
 80210499,"Bebidas, Licores y Tabacos",,Agua Tonica Schweppes Indian 150Ml
 80210500,"Snack, golosinas y galletas",Little Rolo,Chocolate Rolo Relleno 166Gr
 80210501,"Snack, golosinas y galletas",Little Rolo,Chocolate Rolo Little 103Gr
+80210502,Aseo y Limpieza,Mr Musculo,Saca Grasa Mr Musculo Limon Gat 500Ml
+80210503,Aseo y Limpieza,Pato,Gel Limp P\/ Inodoro Pato Floral 500 Ml
+80210504,Aseo y Limpieza,Hude,Escoba Hude Escobon Verde
+80210505,Aseo y Limpieza,Hude,Escoba  Hude  Escobestia Verde
+80210506,Aseo y Limpieza,Hude,Recogedor  Hude  Flip Verde
 80210515,Aseo y Limpieza,Harpic Power Plus,Descalsificador Todo Uso 3X25Ml
 80210516,Panadería y Pastelería,,Brownie Panetteria Sabores Surtidos 1Un
 80210517,Panadería y Pastelería,,Cheesecake Panetteria Sabores Surtidos 1UN
@@ -8185,6 +8193,16 @@ id,category,brand,name
 80210538,Abarrotes,El Pescador,Pack 2 Atun El Pescador Varios 2X170G
 80210539,"Bebidas, Licores y Tabacos",Estrella Galicia,Pack6 Cerv. Estrella G.  +10 Posv. 269Ml
 80210542,"Snack, golosinas y galletas",Fini,Pack 2 Marshmallows Fini Surt 2X80G
+80210548,Aseo y Limpieza,Surf,Lavavajilla Surf Limon Dp 1Lt
+80210556,Aseo y Limpieza,Surf,Limpia Vidrios Surf Gatillo 900Ml
+80210557,Aseo y Limpieza,Surf,Detergente Surf Coco 5Kg
+80210558,Aseo y Limpieza,Ola,Suavizante Ola Bebe Bot. 5Lt
+80210559,Aseo y Limpieza,Ola,Antisarro Ola Maximus Bot. 5Lt
+80210560,Aseo y Limpieza,Ola,Limpia Banos Ola Maximus Bot. 5Lt
+80210561,Aseo y Limpieza,Ola,Guante Ola Domestico Talla L
+80210562,Aseo y Limpieza,Ola,Guante Ola Domestico Talla M
+80210563,Aseo y Limpieza,Ola,Guante Ola Domestico Talla S
+80210564,Cuidado Personal,Axe,Deo Barra Axe Ice Chill 50G
 80210568,"Bebidas, Licores y Tabacos",Cascada,Sv4 Gaseosas La Cascada Surtidas 300Ml
 80210569,"Bebidas, Licores y Tabacos",Bendita,Svcombo6 Bendita Ipa +Mr Crispy Cebolla
 80210570,"Bebidas, Licores y Tabacos",Bendita,Svcombo6 Bendita Hoppy + Mr Crispy Orig
@@ -8193,6 +8211,7 @@ id,category,brand,name
 80210573,"Bebidas, Licores y Tabacos",Bc Campagnola,Sv3 Jugos Bc Campagnola Surtido 200Ml
 80210586,Bebés y Nin@s,Nido,Leche Nido Prebio 1 Bolsa 800G
 80210613,Productos frescos,Fruver,Packx25 Un Mandarina Japonesa
+80210624,Aseo y Limpieza,Archer,Ayuda Plomero Archer En Gel 2Lts
 80210638,Productos frescos,Fruver,Palta Linda Kg
 80210639,Productos frescos,Fruver,Palta Nava Kg
 80210640,Productos frescos,Fruver,Palta Fuerte Kg
@@ -8480,6 +8499,12 @@ id,category,brand,name
 80211192,Mascotas,Luminar,Sv 3 Comida Perro Champ Mix Carnes 3Kg
 80211197,Hogar y Electro,Bahamas,Aromatizante Oahu Bahamas Sandalia Isla
 80211198,Hogar y Electro,Bahamas,Aromatizante Waikiki  Bahamas Flor Colga
+80211208,Cuidado Personal,Revlon,Cepillo Paleta Revlon Suave
+80211209,Cuidado Personal,Revlon,Set Glamouroso Revlon 3 Peines
+80211210,Cuidado Personal,Revlon,Cepillo Acolchonado Revlon Diseno Ligero
+80211211,Cuidado Personal,Revlon,Mini Cepillo Acolchonado Revlon Estiliza
+80211212,Cuidado Personal,Revlon,Cepillo Ionico Revlon Desenredante
+80211213,Cuidado Personal,Revlon,Cepillo Ionico Revlon Ventilado
 80211226,"Bebidas, Licores y Tabacos",Beefeater,Gin Beefeater 24 1000Ml
 80211227,"Bebidas, Licores y Tabacos",The Glentivet,Whisky The Glenlivet Founders 1000
 80211228,"Bebidas, Licores y Tabacos",The Glentivet,Whisky The Glenlivet 12 Anos 1000
@@ -8524,6 +8549,8 @@ id,category,brand,name
 80211399,"Bebidas, Licores y Tabacos",,Sv3X2 Gaseosa Coca Cola 2Lt
 80211406,Mascotas,Dog Chow,Pack Dog Chow Alim Hum 5U X 100Gr
 80211407,Mascotas,Dog Chow,Pack Cat Chow Alim Hum 5U X 85Gr
+80211422,Aseo y Limpieza,Vanish,Quitamanchas Vanish Dp Rosa 800Ml
+80211423,Aseo y Limpieza,Vanish,Quitamanchas Vanish Dp Blanco  800Ml
 80211424,Hogar y Electro,Gama,Calienta Cama Ga.Ma 1 Plaza Polyester
 80211425,Panadería y Pastelería,Anapqui,Galleta Anapqui Quinoachips Choco. 273G
 80211438,"Snack, golosinas y galletas",Crunch,Pack 3 Chocolate Crunch  3X90G
@@ -8583,6 +8610,25 @@ id,category,brand,name
 80211557,Hogar y Electro,Samsung,Tv Samsung 55 Pulg 55Bu8000
 80211558,Hogar y Electro,Samsung,Tv Samsung 65 Pulg 65Au8000
 80211559,Hogar y Electro,Samsung,Tv Samsung 65 Pulg 65Bu8000
+80211570,Mascotas,Kendy,Pocillo P\/Mascota Kendy Lunar N 1
+80211571,Mascotas,Kendy,Pocillo P\/Mascota Kendy Lunar N 2
+80211572,Mascotas,Kendy,Pocillo P\/Mascota Kendy Lunar N 3
+80211573,Mascotas,Kendy,Pocillo P\/Mascota Kendy Lunar Doble
+80211574,Mascotas,Kendy,Pocillo P\/Mascota Kendy Cuadrado N 1
+80211575,Mascotas,Kendy,Pocillo P\/Mascota Kendy Cuadrado N 2
+80211576,Mascotas,Kendy,Pocillo P\/Mascota Kendy Cuadrado N 3
+80211723,Hogar y Electro,Bosch,Refrigerador Bosch No Frost A 60Cm 306Lt
+80211724,Hogar y Electro,Bosch,Refrigerador Bosch No Frost A 60Cm 357Lt
+80211725,Hogar y Electro,Bosch,Refrigerador Bosch No Frost A 60Cm 400Lt
+80211726,Hogar y Electro,Bosch,Refrigerador Bosch No Frost A 70Cm 466Lt
+80211727,Hogar y Electro,Bosch,Refrigerador Bosch No Frost A 91Cm 605Lt
+80211728,Hogar y Electro,Bosch,Lavavaj Bosch 14 Cubiertos Acero 60Cm Di
+80211729,Hogar y Electro,Bosch,Extract Bosch 3 Veloc Acero 60Cm 350 M3\/
+80211730,Hogar y Electro,Bosch,Extract Bosch 3 Veloc Acero 75Cm 590 M3H
+80211731,Hogar y Electro,Bosch,Lav-Sec Bosch 8\/5 Kg Blanca 60Cm 1400 Rp
+80211732,Hogar y Electro,Bosch,Lav-Sec Bosch 10\/6 Kg Blanca 60Cm 1400 R
+80211733,Hogar y Electro,Bosch,Secadora De Ropa Bosch 8Kg Blanca 60Cm B
+80211734,Hogar y Electro,Bosch,Secadora De Ropa Bosch 9Kg Blanca 60Cm B
 560500173,Bebés y Nin@s,Mattel,Autos Mattel  Hot Weels 5Gift St
 560500174,Bebés y Nin@s,Mattel,Auto Mattel Surtido Hotwheels C4982
 560500178,Bebés y Nin@s,Hasbro,Plastilina Hasbro Playdoh Picnic
