@@ -12,6 +12,7 @@ id,category,brand,name
 1060280,Abarrotes,Sabrosa,Aceite Sabrosa 4.5L
 1061873,Abarrotes,Fino,Aceite Fino Light 4500Ml
 1080100,Lácteos,Karina,Manteca Karina 450 Gr
+2010746,Abarrotes,Wish Bone,Aderezo Wish-Bone Creamy Caesar 444Ml
 2020472,Abarrotes,Gourmet,Base Gourmet Hamburguesa 90Gr
 2020475,Abarrotes,Gourmet,Base Gourmet Chapsui 33Gr
 2030207,Abarrotes,Kris,Ketchup Kris Doypack 1000Gr
@@ -312,6 +313,7 @@ id,category,brand,name
 13010240,Refrigerado y Congelado,Dontaco,Tortillas Don Taco Trigo 360 Gr
 13010241,Refrigerado y Congelado,Dontaco,Tortillas Don Taco Trigo 240 Gr
 13013096,Productos frescos,Mc Cain,Papas Mccain 2.5Kg Prefritas Corte Trad
+13020217,Abarrotes,Old El Paso,Sazonador Old El Paso Mild Taco 28Gr
 13020600,Refrigerado y Congelado,Mamina,Pre Pizza Mamina Cuadrada
 13020602,Refrigerado y Congelado,Mamina,Pre Pizza Mamina Redonda
 13020650,Refrigerado y Congelado,Criss,Pre Pizza Cris Redonda Grande 2Un
@@ -1022,10 +1024,20 @@ id,category,brand,name
 56050003,Panadería y Pastelería,Ketal,Pan Ketal Molde Con Corteza Blanco Pza
 56050005,Panadería y Pastelería,Ketal,Pan Ketal Molde Con Corteza Integral Pza
 56050008,Panadería y Pastelería,Ketal,Pan Ketal Pza Molde Blanco
+56050012,Panadería y Pastelería,Ketal,Pan Ketal Kg Frances
 56050017,,Ketal,Paneton Ketal Tradicional 700Gr
+56050020,Panadería y Pastelería,Ketal,Pan Ketal Kg Negro
+56050021,Panadería y Pastelería,Ketal,Pan Ketal Kg Hallulla Chilena
+56050022,Panadería y Pastelería,Ketal,Pan Ketal Kg Sarna
+56050029,Panadería y Pastelería,Ketal,Pan Ketal Cauca Kg
+56050031,Panadería y Pastelería,Ketal,Pan Ketal Kg Baguette
 56050039,Panadería y Pastelería,Ketal,Pan Ketal Hot Dog 12Un
 56050041,Panadería y Pastelería,Ketal,Pan Ketal Pza Molde Integral
+56050043,Panadería y Pastelería,Ketal,Pan Ketal Kg Cachos
 56050054,,Ketal,Paneton Ketal Dulce 700Gr
+56050058,Panadería y Pastelería,Ketal,Pan Ketal Kg De Maiz
+56050060,Panadería y Pastelería,Ketal,Pan Ketal De Leche Kg
+56050122,Panadería y Pastelería,Ketal,Pan Ketal Kg Coliza
 56050152,,Ketal,Paneton Ketal Chocolate C\/ Chispas 700 G
 56050154,,Ketal,Paneton Ketal C\/ Chispas Chocolate 700 G
 56050158,,Ketal,Paneton Ketal Tradicional Bolsa 500 G
@@ -1640,6 +1652,8 @@ id,category,brand,name
 80138168,Hogar y Electro,,Sombero Miro Navideno 28X41Cm -10606
 80138508,Abarrotes,Magic Time,Mostaza Magic Time Dijon 340Gr
 80138510,Abarrotes,Magic Time,Mostaza Magic Time Honey 340Gr
+80138519,Abarrotes,Magic Time,Salsa Magictime Orig Hot Sauce 88Ml
+80138522,Abarrotes,Magic Time,Salsa Magictime Buffalo Wings Org 355Ml
 80138538,Abarrotes,Magic Time,Salsa Magictime Jalapeno Pepper 177Ml
 80138559,"Bebidas, Licores y Tabacos",Ice 51,Vodka 51 Ice Kiwi 275Ml
 80138568,"Bebidas, Licores y Tabacos",Miks,Vodka Miks Tea Frutilla Y Kiwi 1 275Ml
@@ -3724,7 +3738,9 @@ id,category,brand,name
 80190969,"Bebidas, Licores y Tabacos",195,Cerveza 159 Premium Lager 330 Ml
 80190985,Bebés y Nin@s,Hasbro,Masa Play-Doh Animales E2124
 80190989,Bebés y Nin@s,Hasbro,Mochila Play-Doh Dif Mod B1169
+80191002,Bebés y Nin@s,Playskool,Transf Plaskool Dif Mod C0212
 80191016,Bebés y Nin@s,Mattel,Peluche Fisher Price Hipo Lint C
+80191023,Bebés y Nin@s,Mattel, Jgo D\/Mesa Mattel Bounce-Off Fbl39
 80191033,Bebés y Nin@s,Mattel,Pista Hot Wheels Ataque Fnb05
 80191034,Bebés y Nin@s,Mattel,Pista Hot Wheels Rueda Fnb15
 80191038,Bebés y Nin@s,Mattel, Jgte Fisher Price Monstruos Fnv36
@@ -4281,6 +4297,7 @@ id,category,brand,name
 80196031,Hogar y Electro,,Adorno Miro Nav Santa\/H Nieve 30Cm 122
 80196032,Hogar y Electro,,Adorno Miro Nav Santa\/H Nieve 30Cm 137
 80196034,Hogar y Electro,,Adorno Miro Muneco Nav 7X7X11Cm -235
+80196044,Bebés y Nin@s,Barbie,Hada Barbie Dif Mod Fjc84
 80196047,Bebés y Nin@s,Fisher Price,Bi Bot Y Bel Bot Fisher P Bebe F
 80196049,Bebés y Nin@s,Fisher Price,Little Fisher P People Dif Mod Dvp63
 80196050,Bebés y Nin@s,Fisher Price,Sonajas Fisher P Divert Dif Mod Dpk29
@@ -4371,6 +4388,8 @@ id,category,brand,name
 80196491,Cuidado Personal,Farmax,Aceite Corp Y Cap Farmax Coco 100Ml
 80196494,Bebés y Nin@s,Transformers,Figura Transformers Heroes E0191
 80196500,Bebés y Nin@s,Hasbro,My Little Pony Hasbro Llav Dif Mod E2920
+80196501,Bebés y Nin@s,Disney,Princesa Disney +Pareja 2Pza E3051
+80196502,Bebés y Nin@s,Baby Alive,Baby Alive Hasbro C\/Acc E3137
 80196504,Bebés y Nin@s,Play Doh,Creaciones Playdoh Dif Mod E3342
 80196505,Bebés y Nin@s,Hasbro,Figura Marvel End Game Dif Mod E3348
 80196507,Bebés y Nin@s,Hasbro,Fig Transformers Dif Mod 2Pza E3420
@@ -4386,6 +4405,7 @@ id,category,brand,name
 80196521,Bebés y Nin@s,Hasbro,Littlest Pet Shop Hasbro 7Un E5149
 80196523,Bebés y Nin@s,Hasbro,My Littlest Pet Shop E5237
 80196524,Bebés y Nin@s,Play Doh,Paleta Playdoh Dif Mod E5332
+80196526,Bebés y Nin@s,Hasbro,Figuras Power Rangers Sabans E5869
 80196529,Bebés y Nin@s,Hasbro,Fig Power Rangers Dif Mod E5915
 80196530,Bebés y Nin@s,Hasbro,Figura Power Rangers Micro M E5916
 80196534,Abarrotes,Aguai,Azucar Aguai Morena  5 Kg
@@ -4566,6 +4586,7 @@ id,category,brand,name
 80197463,Hogar y Electro,Concepts,Caja Concepts 17X9X27Cm  448-6011362
 80197464,Hogar y Electro,Concepts,Planta Concepts 13Cm  456-502557
 80197484,Bebés y Nin@s,Stor,Scooter Stor Cars 3 Ruedas 16365
+80197492,Bebés y Nin@s,Stor,Patines Stor Cars 31-34 16125-M
 80197493,Bebés y Nin@s,Stor,Patines Stor Cars 35-38 16125-L
 80197494,Bebés y Nin@s,Stor,Patines Stor Paw Pa 31-34 19048-M
 80197501,"Snack, golosinas y galletas",Colombina,Galletas Colombina Nav Casita 200G
@@ -4573,6 +4594,10 @@ id,category,brand,name
 80197527,,,Vino Tinto Campos De Sol. Tannat 750Ml
 80197528,Bebés y Nin@s,Stor,Patines Stor Racer 31-34 19565-M
 80197529,Bebés y Nin@s,Stor,Patines Stor Racer 35-38 19567-L
+80197531,Bebés y Nin@s,Stor,Peluche Stor Mickey C\/Taza 10044
+80197532,Bebés y Nin@s,Stor,Peluche Stor Minnie  Roja C\/Taza 10045
+80197533,Bebés y Nin@s,Stor,Peluche Stor Minnie Rosa C\/Taza 10046
+80197541,Bebés y Nin@s,Stor,Juego Equilibrio Stor Mickey Jca-906
 80197556,Bebés y Nin@s,Stor,Juego Stor Princesa 26135-Pr
 80197557,Bebés y Nin@s,Stor,Juego Stor Minnie 26135-Mn
 80197562,Hogar y Electro,Concepts,Planta Concepts 13Cm  456-502559
@@ -4589,6 +4614,7 @@ id,category,brand,name
 80197629,Bebés y Nin@s,Hotwheels,Bebe Little M Almuerza Fcn10
 80197631,Bebés y Nin@s,Hasbro,Avengers Hasbro Dif Fig E3350
 80197632,Bebés y Nin@s,Hasbro,Avengers Hasbro Cap+Cap Marvel E5078
+80197637,Bebés y Nin@s,Hasbro,Figura Power R Dif Mun E5900
 80197638,Bebés y Nin@s,Hasbro,Figura Power R Dif Mun E5899
 80197641,Bebés y Nin@s,Hasbro,Figura Star Wars Dif Mod E3016
 80197643,Bebés y Nin@s,Hasbro,Fig Transformers Dif Mod E3431
@@ -5013,6 +5039,7 @@ id,category,brand,name
 80200348,Abarrotes,Cheerios,Cereal Cheerios Miel 210Gr
 80200349,Abarrotes,Sublime,Cereal Sublime  330Gr
 80200352,Bebés y Nin@s,Alliance,Jgo D\/Piezas Armables 187Pzas 46-B62162
+80200353,Bebés y Nin@s,Alliance,Jgo D\/Piezas Armables 188Pzas 46-B62163
 80200354,Bebés y Nin@s,,Jgo D\/Cocina D\/Helados  46-B62490
 80200356,Bebés y Nin@s,Alliance,Muneca   46-B63736
 80200358,Bebés y Nin@s,Alliance,Carro A Friccion Graffit Dif C 46-B63871
@@ -5021,6 +5048,7 @@ id,category,brand,name
 80200364,Bebés y Nin@s,Alliance,Juego D\/Piezas Magneticas  46-B65511
 80200365,Bebés y Nin@s,Alliance,Carro Todo Terreno  46-B65958
 80200366,Bebés y Nin@s,,Juego D\/Pesca De Madera  46-B66085
+80200367,Bebés y Nin@s,Alliance,Juego Deportivo  46-B66179
 80200368,Bebés y Nin@s,Alliance,Tren C\/Luz Y Sonido  46-B66222
 80200369,Bebés y Nin@s,Alliance,Juego De Destreza  46-B66236
 80200371,Bebés y Nin@s,,Juego De Destreza  46-B66253
@@ -5029,17 +5057,25 @@ id,category,brand,name
 80200379,Bebés y Nin@s,Alliance,Juego De Piezas Armabl 50Pzas 46-B67323
 80200381,Bebés y Nin@s,Alliance,Juego De Piezas Armabl 24Pzas 46-B67865
 80200383,Bebés y Nin@s,Alliance,Juego Didactico D\/Madera  46-B67984
+80200384,Bebés y Nin@s,Alliance,Muneca C Bateria  46-B68127
+80200385,Bebés y Nin@s,Alliance,Juego De Accesorios  46-B68338
 80200387,Bebés y Nin@s,Alliance,Juego De Dinosaurio  46-B68590
 80200388,Bebés y Nin@s,Alliance,Juego De Dinosaurio  46-B68591
 80200392,Bebés y Nin@s,Alliance,Juego Didactico D\/Madera  46-B69545
+80200394,Bebés y Nin@s,Alliance,Juego Piezas Armables 224Pzas 46-B69718
 80200396,Bebés y Nin@s,,Juego De Cocina 7Pzas 46-B70195
 80200399,Bebés y Nin@s,,Pista Para Armar  46-B71324
 80200400,Bebés y Nin@s,Alliance,Muneca P\/Peinar  46-B71432
+80200401,Bebés y Nin@s,Alliance,Juego De Doctor 24Pzas 46-B71565
 80200402,Bebés y Nin@s,Alliance,Juego De Cocina  46-B72033
 80200403,Bebés y Nin@s,Alliance,Juego De Cocina  46-B72034
+80200408,Bebés y Nin@s,Alliance,Jueguete Infantil  46-B73307
 80200409,Bebés y Nin@s,,Juego De Alimentos  46-B73843
+80200410,Bebés y Nin@s,Alliance,Figura Transformable  46-B73861
 80200411,Bebés y Nin@s,Alliance,Figura Transformable  46-B73863
 80200412,Bebés y Nin@s,Alliance,Juego Casa Miniatura  46-B73874
+80200413,Bebés y Nin@s,Alliance,Juego Casa Miniatura  46-B73875
+80200420,Bebés y Nin@s,Alliance,Carro C\/Luz Y Sonido  46-B74742
 80200421,"Bebidas, Licores y Tabacos",Fanta,Gaseosa Fanta Uva 3Lt
 80200422,"Bebidas, Licores y Tabacos",Fanta,Gaseosa Fanta Uva 2Lt
 80200435,Cuidado Personal,Aguai,Alcohol  Aguai 70% 1Lt
@@ -5292,18 +5328,24 @@ id,category,brand,name
 80201397,Bebés y Nin@s,Alliance,Jgo Armables 69Pza B65487
 80201399,Bebés y Nin@s,Alliance,Carro C\/Acc A Friccion  B65980
 80201402,Bebés y Nin@s,Alliance,Carro A Control C\/Acc  B66453
+80201403,Bebés y Nin@s,Alliance,Carro A Control  B66531
 80201404,Bebés y Nin@s,Alliance,Munecas Dif Mod 3Pza B67194
 80201406,Bebés y Nin@s,,Jgo Piezas Armables 3D B67818
+80201407,Bebés y Nin@s,Alliance,Jgo Educativo Tablero  B68205
 80201408,Bebés y Nin@s,,Jgo Educativo Tablero  B68206
+80201410,Bebés y Nin@s,Alliance,Carro A Control  B68414
 80201411,Bebés y Nin@s,Alliance,Carro A Control  B68416
 80201412,Bebés y Nin@s,,Jgo D\/Dinosaurios  B68587
 80201413,Bebés y Nin@s,Alliance,Muneca Bebe C\/Acc  B68784
+80201414,Bebés y Nin@s,Alliance,Carro A Friccion C\/Acc  B68938
 80201416,Bebés y Nin@s,Alliance,Muneca Bebe C\/Sonido  B69290
 80201417,Bebés y Nin@s,,Muneca Bebe C\/Acc  B69299
 80201418,Bebés y Nin@s,Alliance,Muneca Bebe C\/Acc  B69300
 80201419,Bebés y Nin@s,Alliance,Muneca Bebe C\/Acc  B69358
 80201420,Bebés y Nin@s,Alliance,Muneca Bebe C\/Acc  B69359
 80201421,Bebés y Nin@s,Alliance,Muneca Bebe C\/Acc  B69569
+80201423,Bebés y Nin@s,Alliance,Jgo Infantil Armable 90Pza B69675
+80201425,Bebés y Nin@s,Alliance,Jgo D\/Cocina Y Acc 14Pza B70200
 80201426,Bebés y Nin@s,Alliance,Muneca Bebe C\/Acc  B70542
 80201427,Bebés y Nin@s,Alliance,Muneca Bebe C\/Acc  B70543
 80201428,Bebés y Nin@s,,Muneca Bebe C\/Acc  B70547
@@ -8522,6 +8564,11 @@ id,category,brand,name
 80211245,Refrigerado y Congelado,Vaca Fria,Helado Vacafria Dulce De Leche 150 Ml
 80211246,Refrigerado y Congelado,Vaca Fria,Helado Vacafria Crema Americana 150 Ml
 80211251,"Bebidas, Licores y Tabacos",,Vino Campos De Solana Tannat - Marselan
+80211310,Abarrotes,Post,Cereal Post Honey Bunches Straw 340Gr
+80211311,Abarrotes,General Mills,Cereal G Mills Cinnamon Chex 340Gr
+80211312,Abarrotes,General Mills,Cereal G Mills Churros 337Gr
+80211313,Abarrotes,General Mills,Cereal G Mills Multi Grain 340Gr
+80211314,Abarrotes,Old El Paso,Sazonador Old El Paso Cheesy Taco 28Gr
 80211360,Hogar y Electro,Oster,Exprimidor Citricos Oster Blanco Fpstju1
 80211370,Hogar y Electro,Rey,Banco Rey Bambino Bnx003000
 80211371,Hogar y Electro,Rey,Banco Rey Roble Pegable Med Bnx020000
