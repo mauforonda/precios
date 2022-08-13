@@ -1774,6 +1774,7 @@ id,category,brand,name
 80144492,Abarrotes,Colonia,Cafe Colonia Molido Bolsa 250Gr
 80144501,Hogar y Electro,Altenburg,Almohada Altenburg Baby 30X40Cm
 80144502,Hogar y Electro,Altenburg,Almohada Altenburg Royal Baby 30X40Cm
+80144503,Hogar y Electro,Altenburg,Almohada Altenburg Visc Elas Cer 48X68Cm
 80144507,Hogar y Electro,Altenburg,Almohada Altenburg Prata Plumi 50X70Cm
 80144538,Refrigerado y Congelado,Sofia,Silpancho Sofia D\/Res En Caja
 80144587,Abarrotes,Arcor,Arvejas Arcor Secas En Lata 300G
@@ -1983,6 +1984,7 @@ id,category,brand,name
 80151932,"Snack, golosinas y galletas",Lo Salt,Sal Lo Salt Reduced Sodium Salt 350G
 80151935,"Snack, golosinas y galletas",Aldor,Chupete Aldor Yogueta Surtido 408Gr
 80151940,"Bebidas, Licores y Tabacos",Hindu,Ice Tea Hindu Manzana 300Gr
+80151958,Hogar y Electro,Altenburg,Almohada Altenburg Visc Elas Alt 48X68Cm
 80151987,Cuidado Personal,Rexona,Deo Rexona Omega Xtracool H 90Gr
 80152171,Cuidado Personal,Nivea,Deo Nivea Stress Protect 48H Spr M 150Ml
 80152172,Cuidado Personal,Nivea,Deo Nivea Stress Protect 48H Spr H 150Ml
@@ -4719,6 +4721,16 @@ id,category,brand,name
 80198397,Hogar y Electro,Faber,Crayones Faber Frozen 12Col+Cart+Sticker
 80198399,Hogar y Electro,Faber,Crayones Faber Mickey 12Col+Cart+Sticker
 80198409,Hogar y Electro,Artwork,Papel Bond Artwork Oficio 500H
+80198411,Hogar y Electro,,Sabanas Cannon Orion Full
+80198415,Hogar y Electro,,Edredon Cannon Orion Queen
+80198420,Hogar y Electro,,Sabanas Cannon Twill Super King
+80198429,Hogar y Electro,,Edredon Cannon Barbery Queen
+80198431,Hogar y Electro,,Sabanas Cannon Whisper Twin
+80198434,Hogar y Electro,,Sabanas Cannon Whisper Super King
+80198436,Hogar y Electro,,Edredon Cannon Whisper Queen
+80198443,Hogar y Electro,,Edredon Cannon Biscay Queen
+80198449,Hogar y Electro,,Edredon Cannon Camelia Single
+80198464,Hogar y Electro,,Edredon Cannon Mirage Queen
 80198477,Lácteos,Arcor,Leche La Serenisima Liviana Descre 1L.
 80198485,Hogar y Electro,Thomson,Vajilla Thomson Bali Blue 16Pza 224088
 80198490,Hogar y Electro,Thomson,Vajilla Thomson Pinstripe 16Pza 205038T
@@ -5648,12 +5660,14 @@ id,category,brand,name
 80202378,Hogar y Electro,Home Accents,Sabana Home A Royal King 2620018123
 80202379,Hogar y Electro,Home Accents,Sabana Home A Prague Twin 2620018152
 80202382,Hogar y Electro,Home Accents,Sabana Home A Prague King 2620018155
+80202384,Hogar y Electro,Home Accents,Sabana Home A Florence Full 2620018169
 80202386,Hogar y Electro,Home Accents,Sabana Home A Florence King 2620018171
 80202387,Hogar y Electro,Home Accents,Sabana Home A Venice Twin 2620018184
 80202388,Hogar y Electro,Home Accents,Sabana Home A Venice Full 2620018185
 80202389,Hogar y Electro,Home Accents,Sabana Home A Venice Queen 2620018186
 80202390,Hogar y Electro,Home Accents,Sabana Home A Venice King 2620018187
 80202391,Hogar y Electro,Home Accents,Sabana Home A Cars Full Cars-Sf
+80202392,Hogar y Electro,Home Accents,Sabana Home A Cars Twin Cars-St
 80202394,Hogar y Electro,Home Accents,Sabana Home A Spring Twin Spring-St
 80202400,Bebés y Nin@s,Baby,Zapatitos De Bebe Navy Ggp14011-I
 80202401,Bebés y Nin@s,Baby,Zapatitos De Bebe Blanco Ggp16098-1
@@ -6404,6 +6418,21 @@ id,category,brand,name
 80205454,Aseo y Limpieza,Fuzol,Suavizante Fuzol Piel Delicada 1L
 80205455,Aseo y Limpieza,Fuzol,Suavizante Fuzol Primavera 1L
 80205464,"Snack, golosinas y galletas",Docile,Pack 3X2 Marshmallows Docile Varios 3X75
+80205495,Hogar y Electro,,Sabanas Cannon Twin Monra
+80205496,Hogar y Electro,,Sabanas Cannon Full Monra
+80205497,Hogar y Electro,,Sabanas Cannon Super Queen Monra
+80205498,Hogar y Electro,,Sabanas Cannon Super King Monra
+80205499,Hogar y Electro,,Edredon Cannon Queen Monra
+80205500,Hogar y Electro,,Sabanas Cannon Twin Namaste
+80205501,Hogar y Electro,,Sabanas Cannon Full Namaste
+80205502,Hogar y Electro,,Sabanas Cannon Super Queen Namaste
+80205503,Hogar y Electro,,Sabanas Cannon Super King Namaste
+80205504,Hogar y Electro,,Edredon Cannon Queen Namaste
+80205505,Hogar y Electro,,Sabanas Cannon Twin Betron
+80205506,Hogar y Electro,,Sabanas Cannon Full Betron
+80205507,Hogar y Electro,,Sabanas Cannon Super Queen Betron
+80205508,Hogar y Electro,,Sabanas Cannon Super King Betron
+80205509,Hogar y Electro,,Edredon Cannon Queen Betron
 80205540,Hogar y Electro,Skyworth,Tv Skyworth Android 9  32'' 32Tb7000
 80205541,Hogar y Electro,Skyworth,Tv Skyworth Android 9  43&#039;&#039; 43Tb7000
 80205542,Hogar y Electro,Skyworth,Tv Skyworth Android 10 50&#039;&#039; 50Suc9300
@@ -7145,6 +7174,11 @@ id,category,brand,name
 80207721,Bebés y Nin@s,Lego,Bloques Lego Friends Peluqueria
 80207722,Bebés y Nin@s,Lego,Bloques Lego Friends Parque
 80207723,Hogar y Electro,Ketal,Cunape Monona Mini 150Gr
+80207724,Hogar y Electro,,Almohada Duoflex Nasa X Alto
+80207725,Hogar y Electro,,Almohada Duoflex Nasa Alto Luxo
+80207726,Hogar y Electro,,Almohada Duoflex Nasa Gel Flex 14Cm
+80207727,Hogar y Electro,,Almohada Duoflex Cervical Fresh
+80207728,Hogar y Electro,,Almohada Nabeles Camomille &quot;Manzanilla&quot;
 80207748,Bebés y Nin@s,Zummy,Compota Zummy Manzana Durazno 90G
 80207750,Bebés y Nin@s,Zummy,Compota Zummy Pera 90G
 80207760,"Bebidas, Licores y Tabacos",La Curiosa,Vino Tinto La Curiosa Blend 750Ml
@@ -8000,6 +8034,7 @@ id,category,brand,name
 80209658,Productos frescos,Imba,Muslo Bolsa Imba Pollo Kg
 80209677,"Bebidas, Licores y Tabacos",Activade,Hidratante Activade Frutilla 1000 Ml
 80209678,"Bebidas, Licores y Tabacos",Activade,Hidratante Activade Frambuesa 1000 Ml
+80209680,Hogar y Electro,,Almohada Duoflex Nasa Cervical 45X65
 80209681,Mascotas,Champion,Comida Perro Champ Mix Carnes 3Kg
 80209684,Lácteos,Pil,Sv3 Leche Evaporada Bonle 400Gr Bol.
 80209685,Lácteos,Pil,Sv3 Leche Soy De Soya  Natural 946 Ml
@@ -8159,6 +8194,22 @@ id,category,brand,name
 80210215,Cuidado Personal,Colgate,Enjuague Colg Luminous Carbon 250 Ml
 80210216,Cuidado Personal,Colgate,Crema Dent Colg Kids Frutilla 50Gr
 80210217,Cuidado Personal,Protex,Jabon Barra Protex Balance Salud 3X110
+80210218,Hogar y Electro,,Sabanas Cannon Full Rafer
+80210219,Hogar y Electro,,Sabanas Cannon Super Queen Rafer
+80210220,Hogar y Electro,,Sabanas Cannon Super King Rafer
+80210221,Hogar y Electro,,Edredon Cannon Queen Rafer
+80210222,Hogar y Electro,,Sabanas Cannon Full Alesan
+80210223,Hogar y Electro,,Sabanas Cannon Super Queen Alesan
+80210224,Hogar y Electro,,Sabanas Cannon Super King Alesan
+80210225,Hogar y Electro,,Edredon Cannon Queen Alesan
+80210226,Hogar y Electro,,Sabanas Cannon Full Temps
+80210227,Hogar y Electro,,Sabanas Cannon Super Queen Temps
+80210228,Hogar y Electro,,Sabanas Cannon Super King Temps
+80210229,Hogar y Electro,,Edredon Cannon Queen Temps
+80210230,Hogar y Electro,,Sabanas Cannon Full Bistre
+80210231,Hogar y Electro,,Sabanas Cannon Super Queen Bistre
+80210232,Hogar y Electro,,Sabanas Cannon Super King Bistre
+80210233,Hogar y Electro,,Edredon Cannon Queen Bistre
 80210237,"Bebidas, Licores y Tabacos",Carabao,Energizante Carabao Green Apple 330Ml
 80210238,"Bebidas, Licores y Tabacos",Carabao,Energiz Carabao Green Apple Zero 330Ml
 80210239,"Bebidas, Licores y Tabacos",Carabao,Energizante Carabao Orange Blast 330Ml
@@ -8569,6 +8620,8 @@ id,category,brand,name
 80211312,Abarrotes,General Mills,Cereal G Mills Churros 337Gr
 80211313,Abarrotes,General Mills,Cereal G Mills Multi Grain 340Gr
 80211314,Abarrotes,Old El Paso,Sazonador Old El Paso Cheesy Taco 28Gr
+80211358,Hogar y Electro,,Almohada Cannon Regular
+80211359,Hogar y Electro,,Almohada Cannon Firme
 80211360,Hogar y Electro,Oster,Exprimidor Citricos Oster Blanco Fpstju1
 80211370,Hogar y Electro,Rey,Banco Rey Bambino Bnx003000
 80211371,Hogar y Electro,Rey,Banco Rey Roble Pegable Med Bnx020000
@@ -8651,6 +8704,16 @@ id,category,brand,name
 80211527,Hogar y Electro,Energizer,Linterna Energizer Touch On
 80211528,Hogar y Electro,Energizer,Linterna Energizer Para Gorra
 80211529,Hogar y Electro,,Freidora De Aire Smartlife 3.5 L
+80211530,Lácteos,,Leche Risoscotti  Arroz Original 1L
+80211531,Lácteos,,Leche Risoscotti Arroz Calcio 1L
+80211532,Lácteos,,Leche Risoscotti Arroz Chocolate 1L
+80211533,Lácteos,,Leche Risoscotti Arroz Coco 1L
+80211534,Lácteos,,Leche Risoscotti Almendras Original 1L
+80211535,Lácteos,,Leche Risoscotti Almendras Sin Azucar 1L
+80211536,Lácteos,,Leche Risoscotti Avena Original 1L
+80211537,Lácteos,,Leche Risoscotti Avena Sin Gluten 1L
+80211538,Lácteos,,Leche Risoscotti Avena Calcio 1L
+80211539,Lácteos,,Leche Risoscotti Avena Barista 1L
 80211554,Hogar y Electro,Samsung,Tv Samsung 43Pulg Uhd 4K 4Ticks 43Au7000
 80211555,Hogar y Electro,Samsung,Tv Samsung 50 Pulg 50Bu8000
 80211556,Hogar y Electro,Samsung,Tv Samsung 55 Pulg 55Au8000
