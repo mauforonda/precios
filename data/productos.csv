@@ -211,6 +211,7 @@ id,category,brand,name
 7010040,Abarrotes,Copacabana,Cafe Copacabana Tradicional 250Gr
 7010042,Abarrotes,Copacabana,Cafe Copacabana Tradicional 500Gr
 7010044,Abarrotes,Copacabana,Cafe Copacabana Tradicional 1Kg
+7010046,Abarrotes,Copacabana,Cafe Copacabana Premium 250G
 7010070,Abarrotes,Irupana,Cafe Irupana Torrado Molido 500G
 7010081,Abarrotes,Irupana,Cafe Irupana Organico Molido 250G
 7020119,Abarrotes,Monterrey,Cafe Monterrey Torrado Y Cebada 190Gr
@@ -355,7 +356,7 @@ id,category,brand,name
 15100101,"Snack, golosinas y galletas",,Pipoca P\/Micrond Act Ii Manteq Light 85G
 15140570,Lácteos,Pil,Yogurt Pil Light Frutilla 1000Ml Botella
 15140571,Lácteos,Pil,Yogurt Pil Light Durazno 1000Ml Botella
-16010173,"Snack, golosinas y galletas",Ketal,Masticable Arcor Frutas 800Gr
+16010173,"Snack, golosinas y galletas",Arcor,Masticable Arcor Frutas 800Gr
 16010193,"Snack, golosinas y galletas",Arcor,Caramelo Arcor Relleno Frutales 810Gr
 16010370,"Snack, golosinas y galletas",Breick,Gomita Breick Bolsa 140Gr
 16011581,"Snack, golosinas y galletas",Ketal,Masticable Sugus Plegado 700Gr
@@ -381,6 +382,7 @@ id,category,brand,name
 16080041,Abarrotes,Paulo,Mantequilla De Mani Paulo 250Gr Vaso
 17010180,Refrigerado y Congelado,Sofia,Jamon Sofia Sandwichero En Barra X Kilo
 17010462,Refrigerado y Congelado,Stege,Mortadela Stege Cervecero Kilogram
+17010474,Refrigerado y Congelado,Stege,Jamon Stege Kg Artesanal
 17010485,Refrigerado y Congelado,Stege,Jamon Stege Especial Kilogram
 17010486,Refrigerado y Congelado,Stege,Jamon Stege Kilogram Ingles
 17010515,Refrigerado y Congelado,Stege,Morcilla Stege Empacada Kg
@@ -421,6 +423,7 @@ id,category,brand,name
 19010040,Abarrotes,Arcor,Durazno Al Jugo  Arcor  820Gr
 19020435,"Snack, golosinas y galletas",Soproma,Pasas Soproma Negras 200Gr
 19020441,"Snack, golosinas y galletas",Soproma,Ciruelas Soproma Grandes 300Gr
+19020940,"Snack, golosinas y galletas",Logal,Pasas Titos Negras 150G
 19040091,"Snack, golosinas y galletas",Soproma,Almendra Soproma Espanola 280Gr
 19040421,"Snack, golosinas y galletas",,Nueces Titos Peladas 100G
 20010041,"Snack, golosinas y galletas",Arcor,Galletas Serranitas X3 315G
@@ -2625,6 +2628,7 @@ id,category,brand,name
 80169910,Cuidado Personal,Kotex,Toalla Higienica Kotex Uf Tela X10
 80169926,Abarrotes,Real,Arroz Grano Real 5Kg
 80169928,Abarrotes,Gaviota,Arroz Gaviota 5Kg
+80169929,Abarrotes,Tiluchi,Arroz Tiluchi 1Kg
 80169930,Abarrotes,Tiluchi,Arroz Tiluchi 5Kg
 80169932,"Bebidas, Licores y Tabacos",Ionlife,Agua Ionlife Alcalina E Ionizada 2Lt
 80169955,Bebés y Nin@s,Pampers,Panal Pampers S6 Cj 64Un
@@ -3227,6 +3231,8 @@ id,category,brand,name
 80182293,Lácteos,Nestle,Sv 3X2 Crema De Leche Nestle 3X300G
 80182322,"Snack, golosinas y galletas",Princesa,Sv 3 Galletas Oreo Clasica Tubo 3X126G
 80182454,"Bebidas, Licores y Tabacos",Prost,Cerveza Prost Premium Lager 355Ml Lata
+80182501,Productos frescos,Extra,Mix De Verdura Extra Sopa Completo Un
+80182502,Productos frescos,Extra,Mix De Verdura Extra Sopa Basica Un
 80182522,"Snack, golosinas y galletas",Crunch,Chocolate Nestle Crunch 100Gr
 80182632,Productos frescos,,Kale Granja Ventilla Verdura
 80182636,Cuidado Personal,Axe,Deo Axe Bodyspray Cuero + Cookies 96G
@@ -3259,6 +3265,7 @@ id,category,brand,name
 80183239,Hogar y Electro,Hong Kong,Vela Halloween Digital 1Un
 80183364,Aseo y Limpieza,,Amb Febreze Spring Renewal 250Gr Spray
 80183379,Abarrotes,Don Vitorio,Salsa Don Vittorio Roja 400G
+80183396,Abarrotes,Gorilla,Arroz Orilla Integral 1 Kg
 80183495,Aseo y Limpieza,Perlita,Servilleta  Perlita Azul 500 Un
 80183497,Cuidado Personal,Perlita,Papel Hig Perlita Mega  26 M 12 Un
 80183500,Bebés y Nin@s,Johnson &amp; Johnson,Jabon Liquido Johnson Antes De Dormir 40
@@ -3409,6 +3416,7 @@ id,category,brand,name
 80185496,Productos frescos,Nacional,Manzana Nacional Por Kilo
 80185500,"Bebidas, Licores y Tabacos",Mendocina,Agua Mendocina Con Gas 2 Lts
 80185522,Productos frescos,Fresco,Trucha Fresca Eviscerada Por Kilo
+80185523,Lácteos,Amalic,Queso Amalic Fresco Prensado 500 Gr
 80185541,Carnavales Ketal,Soy Tu Espuma,Espuma Soy Tu Espuma Dif Frag. 540 Ml
 80185544,Cuidado Personal,Listerine,Enjuague Bucal Lister Anticari Zero 500M
 80185602,Hogar y Electro,Tramontina,Juego Tramon P\/Asado 26499\/032
@@ -4122,6 +4130,8 @@ id,category,brand,name
 80194895,"Bebidas, Licores y Tabacos",Kaiken,Vino Kaiken Sparkling 750Ml Brut
 80194922,Abarrotes,Stege,Escabeche Stege Sanguchero Grande 410 Gr
 80194924,Lácteos,Nestle,Sv 3X2 Leche Evaporada Gloria 3X395G
+80194934,Abarrotes,Valenciana,Pesto Valenciana Albahaca 200G
+80194936,Abarrotes,Valenciana,Pepinillos Valenciana 200G
 80194938,Bebés y Nin@s,Huggies,Panal Huggies Active Sec Hulk  Xg X72
 80194939,Bebés y Nin@s,Huggies,Panal Huggies Active Sec Hulk  Xxg X72
 80194940,Bebés y Nin@s,Huggies,Panal Huggies Active Sec Hulk  G X80
@@ -4724,6 +4734,7 @@ id,category,brand,name
 80198271,Carnavales Ketal,Adrimex,Set Adrimex Play Boy
 80198276,Carnavales Ketal,Adrimex,Bombillas Adrimex 4 Pcs Con Frut
 80198277,Carnavales Ketal,Adrimex,Bombillas Adrimex 3 Pcs Con Cuch
+80198279,Abarrotes,La Despensa,Duraznos La Despensa Al Jugo 820G
 80198286,"Bebidas, Licores y Tabacos",Paulaner,Cerveza Paulaner Naturtrub 500Ml Lata
 80198311,Vinos,Santa Rosa,Vino Rosado Santa Rosa Semidulce 700Ml
 80198317,"Bebidas, Licores y Tabacos",Rebel,Ron Rebel  750Ml
@@ -4838,6 +4849,7 @@ id,category,brand,name
 80199137,Hogar y Electro,,Pila Alcalina Eveready Aaax4
 80199138,Hogar y Electro,,Pila Alcalina Eveready Aaax6
 80199141,,,Chip 4G Lte Tigo Un
+80199162,Abarrotes,Badia,Pimienta Negra Badia Frasco 56.7G
 80199169,Abarrotes,Menoyo,Vinagre Menoyo Manzana 500Ml
 80199173,Refrigerado y Congelado,Stege,Pack Stege Jamon Canad+Lomito Coc 310Gr
 80199176,Cuidado Personal,Septona,Cotonetes Septona Kids Pote 100Un
@@ -4877,6 +4889,7 @@ id,category,brand,name
 80199298,Cuidado Personal,Rexona,Sanitizador Rexona Original 1Lt
 80199299,Cuidado Personal,Rexona,Jabon Liq Rexona Antiba Original 300Ml
 80199301,Mascotas,Dogui,Comida Dogui Sabor Carne Cer Y Arroz 8Kg
+80199310,Abarrotes,,Estevia Stevie En Polvo 80G
 80199314,Abarrotes,Miura,Api Miura Morado 500G
 80199317,Lácteos,Mococa,Leche Condensada Mococa Lata 395G
 80199336,Abarrotes,Nesfit,Cereal Nesfit Original 570G
@@ -5839,6 +5852,7 @@ id,category,brand,name
 80202984,Abarrotes,Miura,Api Miura Amarillo 500Gr
 80202986,Abarrotes,Miura,Lagua Miura De Jankaquipa 200Gr
 80202987,Abarrotes,Miura,Lagua Miura De Choclo 200Gr
+80202988,Abarrotes,Miura,Willcaparu Miura 145Gr
 80202996,Refrigerado y Congelado,Churquisbakery,Postre Churquisbakery 4 Leches 750Gr
 80202997,Refrigerado y Congelado,Churquisbakery,Postre Churquisbakery 4 Leches 160Gr
 80202998,Panadería y Pastelería,Churquisbakery,Croissant Churquisbakery Clasico 240Gr
@@ -6069,6 +6083,7 @@ id,category,brand,name
 80203844,Hogar y Electro,Metta,Libros Colorear Metta Col Primeros 20Pg
 80203845,Hogar y Electro,Metta,Libros Colorear Metta Col Animales 20Pg
 80203857,"Snack, golosinas y galletas",,Pack 6 Pipocas Act Ii +Vaso 544Gr
+80203906,Abarrotes,Uyuni,Sal Uyuni Con Hierbas Frasco 100Gr
 80203914,"Bebidas, Licores y Tabacos",,Pack 2 Four Loko  2X65Ml + Lata Regalo
 80203924,"Bebidas, Licores y Tabacos",Maltin,Sv2 Maltin Malta Sin Alcohol 473Ml Lata
 80203926,,Delizia,Packx8 Bombon Delizia Dulce.D.Leche 640M
@@ -6154,6 +6169,7 @@ id,category,brand,name
 80204295,Abarrotes,La Suprema,Pasta La Suprema Nidos Rec Italiana 400G
 80204305,"Bebidas, Licores y Tabacos",Bendita,Cerveza Bendita Hoppy 6X350Ml
 80204308,Abarrotes,Kikkoman,Salsa Soya Kikkoman Original 591Ml
+80204311,Abarrotes,Kikkoman,Salsa Soya Kikkoman Reduc Sodio 591Ml
 80204323,Abarrotes,,Estevia Stevie  40G
 80204327,"Bebidas, Licores y Tabacos",Bid,Licor Bid Marula 720Ml
 80204332,Lácteos,Pil,Sv3 Chicolac Uht X 800 Ml (Bolsa)
@@ -8740,6 +8756,16 @@ id,category,brand,name
 80211537,Lácteos,,Leche Risoscotti Avena Sin Gluten 1L
 80211538,Lácteos,,Leche Risoscotti Avena Calcio 1L
 80211539,Lácteos,,Leche Risoscotti Avena Barista 1L
+80211541,Productos frescos,Fruver,Pack X 10 Manzana Verde
+80211542,Productos frescos,Fruver,Pack X 10  Manzana Roja
+80211546,Cuidado Personal,Ballerina,Ac Frasco Ballerina Largo Increib 750 Ml
+80211547,Cuidado Personal,Ballerina,Ac. Frasco Ballerina Onda Rizos 750 Ml
+80211548,Cuidado Personal,Ballerina,Spray Ballerina Largo Increible 200 Ml
+80211549,Cuidado Personal,Ballerina,Crema Peinar Ballerina Onda Rizos 200 Ml
+80211550,Cuidado Personal,Ballerina,Ac Frasco Ballerina Carbon 750 Ml
+80211551,Cuidado Personal,Ballerina,Sh Frasco Ballerina Largo Increib 750 Ml
+80211552,Cuidado Personal,Ballerina,Sh Frasco Ballerina Onda Rizos 750 Ml
+80211553,Cuidado Personal,Ballerina,Sh Frasco Ballerina Carbon 750 Ml
 80211554,Hogar y Electro,Samsung,Tv Samsung 43Pulg Uhd 4K 4Ticks 43Au7000
 80211555,Hogar y Electro,Samsung,Tv Samsung 50 Pulg 50Bu8000
 80211556,Hogar y Electro,Samsung,Tv Samsung 55 Pulg 55Au8000
@@ -8755,6 +8781,7 @@ id,category,brand,name
 80211574,Mascotas,Kendy,Pocillo P\/Mascota Kendy Cuadrado N 1
 80211575,Mascotas,Kendy,Pocillo P\/Mascota Kendy Cuadrado N 2
 80211576,Mascotas,Kendy,Pocillo P\/Mascota Kendy Cuadrado N 3
+80211582,Refrigerado y Congelado,Stege,Pack Stege Chori+Morci+Hamburg 1.17 Kg
 80211722,"Bebidas, Licores y Tabacos",Sin Marca,Sv3X2 Gaseosa Oriental Pomelo 3Lt
 80211723,Hogar y Electro,Bosch,Refrigerador Bosch No Frost A 60Cm 306Lt
 80211724,Hogar y Electro,Bosch,Refrigerador Bosch No Frost A 60Cm 357Lt
@@ -8768,6 +8795,7 @@ id,category,brand,name
 80211732,Hogar y Electro,Bosch,Lav-Sec Bosch 10\/6 Kg Blanca 60Cm 1400 R
 80211733,Hogar y Electro,Bosch,Secadora De Ropa Bosch 8Kg Blanca 60Cm B
 80211734,Hogar y Electro,Bosch,Secadora De Ropa Bosch 9Kg Blanca 60Cm B
+80211760,Refrigerado y Congelado,Stege,Pack X2 Stege Jamon Artesanal Vacio 550G
 80211848,"Bebidas, Licores y Tabacos",,Vino Salvaje Cabernet Sauvignon 750Ml
 80211872,"Bebidas, Licores y Tabacos",Stolichnaya,Pack Stolichnaya + Mug Cobre 1Lt
 560500173,Bebés y Nin@s,Mattel,Autos Mattel  Hot Weels 5Gift St
