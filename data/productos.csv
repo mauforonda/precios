@@ -406,13 +406,20 @@ id,category,brand,name
 18010010,Abarrotes,Buitoni,Pasta Buitoni Linguine  500Gr
 18010022,Abarrotes,Buitoni,Fideo Buitoni Tortiglioni 500Gr
 18010093,Abarrotes,Carozzi,Pasta Carozzi Spaguetti 5 Vitamin 400Gr
+18010147,Abarrotes,Carozzi,Fideo Carozzi 400Gr Fusilli Tricolor
 18010169,Abarrotes,Carozzi,Pasta Carozzi Tallarin 87 400Gr
 18010171,Abarrotes,Carozzi,Pasta Carozzi Fettuccine 88 400G
 18010220,Abarrotes,Carozzi,Fideo Carozzi Sopa Granizado 400G
+18010461,Abarrotes,Ferrari,Pasta Ferrari Cabello De Angel 200G
+18010495,Abarrotes,Ferrari,Pasta Ferrari Spaghetti Caja 400Gr
+18010499,Abarrotes,Ferrari,Pasta Ferrari Fettuccine 400G
+18010524,Abarrotes,Ferrari,Pasta Ferrari Especial Al Huevo 400Gr
 18010534,Abarrotes,La Estrella,Fideo La Estrella 400Gr
 18010537,Abarrotes,La Estrella,Fideo La Estrella 1.2 Kg
 18011117,Abarrotes,Don Vitorio,Pasta Don Vittorio Spaghetti 400G
 18011118,Abarrotes,Don Vitorio,Pasta Don Vittorio Tallarin 400G
+18011120,Abarrotes,Don Vitorio,Fideo Don Vittorio Canuto Chico 400G
+18011121,Abarrotes,Don Vitorio,Fideo Don Vittorio Codo Rayado 400G
 18011124,Abarrotes,Don Vitorio,Fideo Don Vittorio Rigatoni 400G
 18011125,Abarrotes,Don Vitorio,Fideo Don Vittorio Espirales 400G
 18040244,Refrigerado y Congelado,Jupiter,Capelletis 4 Quesos Litolarena 5
@@ -1376,6 +1383,7 @@ id,category,brand,name
 80000733,"Snack, golosinas y galletas",Schogetten,Chocolate Schogetten Avellanas 100G
 80000734,"Snack, golosinas y galletas",Schogetten,Chocolate Schogetten Pasta\/Avellana 100G
 80000743,Abarrotes,La Suprema,Fideo La Suprema 1 Kg
+80000745,Abarrotes,La Suprema,Fideo Suprema Nidos 400Gr
 80001024,Productos frescos,Fruver,Coco Por Unidad
 80001026,"Snack, golosinas y galletas",El Ceibo,Conejo De Chocolate El Ceibo Conny 80G
 80001027,"Snack, golosinas y galletas",El Ceibo,Huevo De Chocolate El Ceibo Dinovo 40G
@@ -1503,6 +1511,7 @@ id,category,brand,name
 80006910,Aseo y Limpieza,Glade,Ambientador Glade Harmony 360 Cm3
 80006931,Cuidado Personal,Plenitud,Panal Depend Plenitud Classic Gde 20Un
 80006932,Cuidado Personal,Plenitud,Panal Depend Plenitud Classic M 20Un
+80006933,Abarrotes,Lazzaroni,Pasta Larga Lazzaroni 400Gr
 80006942,Productos frescos,Mc Cain,Papas Mccain 2.250 Kg Prefritas Corte Fi
 80007132,Cuidado Personal,Elvive,Shampoo Elvive Total 5 Cab Danado 400Ml
 80007134,Cuidado Personal,Elvive,Acondic Elvive Total 5 Cab Danado 400Ml
@@ -1661,6 +1670,7 @@ id,category,brand,name
 80137767,Mascotas,Whiskas,Comida Whikas Adulto Pavo 85Gr
 80137769,Mascotas,Whiskas,Comida Whikas Adulto Carne 66Gr
 80138168,Hogar y Electro,,Sombero Miro Navideno 28X41Cm -10606
+80138422,Abarrotes,Don Vitorio,Pasta Don Vittorio Cabello De Angel 400G
 80138508,Abarrotes,Magic Time,Mostaza Magic Time Dijon 340Gr
 80138510,Abarrotes,Magic Time,Mostaza Magic Time Honey 340Gr
 80138519,Abarrotes,Magic Time,Salsa Magictime Orig Hot Sauce 88Ml
@@ -2494,6 +2504,7 @@ id,category,brand,name
 80166548,"Snack, golosinas y galletas",Taboada,Chocolate Taboada Caja Corazon 100Gr
 80166685,Aseo y Limpieza,Skip,Detergente Skip Liq Perfect Doyp 1.4Lt
 80166686,Cuidado Personal,Lux,Jabon Lux Orquidia Negra 3X125Gr
+80166701,Abarrotes,Don Vitorio,Fideo Don Vittorio Corbata Chica 400Gr
 80166735,"Snack, golosinas y galletas",Arcor,Dulces Arcor Halloween Frankie 100Gr
 80166796,Hogar y Electro,Kennedy Home Collection,Molde Kennedy P\/Horno 3Pza 28204
 80166797,Hogar y Electro,Kennedy Home Collection,Molde Kennedy P\/Horno 24X24X7Cm 28201
@@ -2866,6 +2877,10 @@ id,category,brand,name
 80174627,Carnavales Ketal,Adrimex,Antifaz Adrimex Tela
 80174628,Hogar y Electro,Adrimex,Disfraz Adrimex Leon
 80174629,Hogar y Electro,Adrimex,Disfraz Adrimex Monito
+80174664,Abarrotes,Bioxxl,Pasta Bioxxl Spaghetti Andino 250Gr
+80174665,Abarrotes,Bioxxl,Pasta Bioxxl Fusilli 250Gr
+80174666,Abarrotes,Bioxxl,Pasta Bioxxl Anelli 250Gr
+80174668,Abarrotes,Bioxxl,Pasta Bioxxl Spaghetti Multigrano 250Gr
 80174682,"Snack, golosinas y galletas",Bioxxl,Galleta Bioxxl Chocochip 160Gr
 80174685,Abarrotes,Bioxxl,Premezcla Bioxxl Panqueques Quinua 250Gr
 80174692,Abarrotes,Maggi,Sopa Maggi Pollo Con Caracolitos 76G
@@ -3143,6 +3158,7 @@ id,category,brand,name
 80180104,Cuidado Personal,Tresemme,Shampoo Tresemme Detox Capilar 400Ml
 80180145,"Bebidas, Licores y Tabacos",Prost,Cerveza Prost Winterbier 500Ml
 80180321,Abarrotes,Anapqui,Fideo Anapqui Quinua S\/Gluten 400Gr
+80180322,Abarrotes,Anapqui,Fideo Anapqui Quinua S\/Gluten 250Gr
 80180339,Cuidado Personal,Ballerina,Shamp Ballerina Pal\/Alme S\/Sal Dp 900Ml
 80180340,Cuidado Personal,Ballerina,Acond Ballerina Pal\/Alme S\/Sal Dp 900Ml
 80180341,Cuidado Personal,Ballerina,Shampoo Ballerina Granada S\/Sal Dp 900Ml
@@ -4463,6 +4479,7 @@ id,category,brand,name
 80196601,"Snack, golosinas y galletas",Il Cibo,Mani Il Cibo Mix 300 Gr
 80196602,"Snack, golosinas y galletas",Il Cibo,Mani Il Cibo C\/ Pasas 300 Gr
 80196605,"Bebidas, Licores y Tabacos",Delizia,Nectar Delizia Frush Tamarindo 2Lt
+80196613,Abarrotes,Don Vitorio,Fideo Don Vittorio Corbata Grande 400Gr
 80196623,Lácteos,Bella Holandesa,Pack Leche Cond Bella Hol 397G+E
 80196626,Refrigerado y Congelado,Fridosa,Safari Fridosa Nuggets De Pollo 500Gr
 80196633,Cuidado Personal,Gama,Afeitadora Ga.Ma  Gsh Sport
@@ -4955,6 +4972,7 @@ id,category,brand,name
 80199808,Cuidado Personal,Colgate,Crema Dental Tot 12 Antisarro 3X75Ml
 80199809,Cuidado Personal,Colgate,Kit Portat Tot Cln Mint 22Ml Con Cep
 80199813,"Snack, golosinas y galletas",Arcor,Barra Chocolate Arcor Blanco 80G
+80199820,Abarrotes,Bioxxi,Spaghetti S\/Gluten Bioxxi Andino 480G
 80199821,Abarrotes,Bioxxi,Cabello De Angel Bioxxi Arroz\/Amrnt 250G
 80199834,Abarrotes,Sin Marca,Fideo La Suprema Tornillo 400Gr
 80199835,Abarrotes,La Suprema,Fideo La Suprema Canuto 400Gr
@@ -6471,7 +6489,7 @@ id,category,brand,name
 80205509,Hogar y Electro,,Edredon Cannon Queen Betron
 80205540,Hogar y Electro,Skyworth,Tv Skyworth Android 9  32'' 32Tb7000
 80205541,Hogar y Electro,Skyworth,Tv Skyworth Android 9  43&#039;&#039; 43Tb7000
-80205542,Hogar y Electro,Skyworth,Tv Skyworth Android 10 50&#039;&#039; 50Suc9300
+80205542,Hogar y Electro,Skyworth,Tv Skyworth Androir 10 50&#039;&#039; 50Suc9300
 80205543,Hogar y Electro,Skyworth,Tv Skyworth Android 10 55&#039;&#039; 55Suc9300
 80205544,Hogar y Electro,Skyworth,Tv Skyworth Android 10 65'' 65Suc9300
 80205546,Aseo y Limpieza,Scotch Brite,Pack 4X3 Esponja Scoth Brite Multiuso 3U
@@ -7110,6 +7128,7 @@ id,category,brand,name
 80207577,Cuidado Personal,Elvive,Pack 2X1 Sha\/Ac Elvive Dream Long 400Ml
 80207578,Cuidado Personal,Elvive,Pack 2X1 Sha\/Ac Elvive Oleo Ext 400Ml
 80207579,Cuidado Personal,Elvive,Pack 2X1 Sha\/Ac Elvive Color Viv 400Ml
+80207582,Aseo y Limpieza,Bristar,Detergente Polvo Bristar Limon 2.2Kg
 80207584,Cuidado Personal,Gama,Combo Ga.Ma Quinoa Plancha Elegance Led
 80207594,Hogar y Electro,,Guirnalda Maranelo Navidena Nb20190-273
 80207595,Hogar y Electro,,Corona Maranelo Navidena Nb20190-285
@@ -7239,6 +7258,8 @@ id,category,brand,name
 80207819,"Bebidas, Licores y Tabacos",,Vino Chakana Atorrante  Malbec 750Ml
 80207820,"Bebidas, Licores y Tabacos",Mdc Costanilla,Vino Mdc Costanilla  Rioja 750Ml
 80207821,Vinos,,Vino Mdc Blanco  Rioja 750Ml
+80207822,Abarrotes,Anapqui,Fideo Anapqui Quinua Sin Gluten 1Kg
+80207823,Abarrotes,Anapqui,Spaghetti Anapqui Quinua Sin Gluten 250G
 80207828,Panadería y Pastelería,Arco Iris,Paneton Arco Iris Italiano 750Gr
 80207829,Panadería y Pastelería,Arco Iris,Paneton Arco Iris Chocolate 750Gr
 80207830,Panadería y Pastelería,Arco Iris,Paneton Arco Iris Stollen  950Gr
@@ -7575,7 +7596,7 @@ id,category,brand,name
 80208397,Hogar y Electro,Skyworth,Televisor 55 Com De Voz Skyworth 32Gb
 80208398,Hogar y Electro,,"Barra De Sonido, Usb, 40W. Skyworth"
 80208399,Hogar y Electro,Skyworth,"Televisor 43 Android 10, 4K Skyworth"
-80208400,Hogar y Electro,,"Televisor 70 Android 10, 4K Skyworth"
+80208400,Hogar y Electro,Skyworth,"Televisor 70 Android 10, 4K Skyworth"
 80208402,Abarrotes,A1,Atun A1 Filetes En Aceite 170Gr
 80208404,Abarrotes,A1,Atun Light A1 Filetes En Agua 140Gr
 80208408,"Snack, golosinas y galletas",Paititi,Chocolate Paititi 70% Cacao 100G
@@ -7878,6 +7899,7 @@ id,category,brand,name
 80209307,"Bebidas, Licores y Tabacos",Uyuni,Cerveza Uyuni Cristales De Sal Lata 350M
 80209308,"Bebidas, Licores y Tabacos",Uyuni,Combo6 Cerveza Uyuni Prem. Lager   330Ml
 80209309,"Bebidas, Licores y Tabacos",Uyuni,Combo6 Cerveza Uyuni Crist. De Sal 330Ml
+80209328,Hogar y Electro,Skyworth,Barra De Sonido Skyworth  30W Bluetooth
 80209331,Hogar y Electro,Sin Marca,Sv 3 Colador Plastic Rey N01 27Cm Cox001
 80209332,Hogar y Electro,Sin Marca,Sv 3 Lavacuela Rey Mediano 21Cm Esx01100
 80209333,Hogar y Electro,Sin Marca,Sv 3 Tasa Rey Dif.Col  Jrx013000
@@ -8059,6 +8081,7 @@ id,category,brand,name
 80209583,Refrigerado y Congelado,Delizia,Postre Helado Tradicion Pesque 300Ml
 80209616,Abarrotes,Chocapic,Sv 3X2 Cereal Chocapic 3X400G 
 80209625,Refrigerado y Congelado,Sofia,Nugget Sofia  Dino 1 Kg
+80209627,Abarrotes,Don Vitorio,Fideo Don Vittorio Tornillo Colores 400G
 80209641,Lácteos,Delizia,Nectar Frush Sachet Manzana 140Ml
 80209642,Lácteos,Delizia,Nectar Frush Sachet Durazno 140Ml
 80209643,Lácteos,Delizia,Nectar Frush Sachet Tamarindo 140Ml
@@ -8795,7 +8818,21 @@ id,category,brand,name
 80211732,Hogar y Electro,Bosch,Lav-Sec Bosch 10\/6 Kg Blanca 60Cm 1400 R
 80211733,Hogar y Electro,Bosch,Secadora De Ropa Bosch 8Kg Blanca 60Cm B
 80211734,Hogar y Electro,Bosch,Secadora De Ropa Bosch 9Kg Blanca 60Cm B
+80211736,Hogar y Electro,Skyworth,Tv Skyworth 32Pulg Android 11 32Std6500
+80211737,Hogar y Electro,Skyworth,Tv Skyworth 40Pulg Android 11 40Std6500
+80211738,Hogar y Electro,Skyworth,Tv Skyworth 43Pulg Android 11 43Std6500
+80211739,Hogar y Electro,Skyworth,Tv Skyworth 65Pulg Android 10 Pro 65Suc9
 80211760,Refrigerado y Congelado,Stege,Pack X2 Stege Jamon Artesanal Vacio 550G
+80211776,Hogar y Electro,Skyworth,Frigobar Skyworth Escarcha 1 Puerta 87L
+80211777,Hogar y Electro,Skyworth,Refriger Skyworth Frio\/Sec 2Puert 232L
+80211778,Hogar y Electro,Skyworth,Refriger Skyworth Frio\/Sec 2Puert 402L
+80211779,Hogar y Electro,Skyworth,Refriger Skyworth Sec 2Puert Disp 569L
+80211780,Hogar y Electro,Skyworth,Lavadora Skyworth Tamb\/Inox Superior 9Kg
+80211781,Hogar y Electro,Skyworth,Lavadora Skyworth Tamb\/Inox Superior 13K
+80211782,Hogar y Electro,Skyworth,Lavadora Skyworth Mot\/Inverter Front 9Kg
+80211783,Hogar y Electro,Skyworth,Sound Bar Skyworth Bluetooth Touch 30W
+80211784,Hogar y Electro,Skyworth,Sound Bar Skyworth Barra\/Bajo Inalambric
+80211785,Hogar y Electro,Skyworth,Lavadora Skyworth Mot\/Inverter Front 10K
 80211848,"Bebidas, Licores y Tabacos",,Vino Salvaje Cabernet Sauvignon 750Ml
 80211872,"Bebidas, Licores y Tabacos",Stolichnaya,Pack Stolichnaya + Mug Cobre 1Lt
 560500173,Bebés y Nin@s,Mattel,Autos Mattel  Hot Weels 5Gift St
