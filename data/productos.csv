@@ -15,6 +15,7 @@ id,category,brand,name
 2010746,Abarrotes,Wish Bone,Aderezo Wish-Bone Creamy Caesar 444Ml
 2020472,Abarrotes,Gourmet,Base Gourmet Hamburguesa 90Gr
 2020475,Abarrotes,Gourmet,Base Gourmet Chapsui 33Gr
+2030202,Abarrotes,Kris,Ketchup Kris Pomo 410Gr
 2030207,Abarrotes,Kris,Ketchup Kris Doypack 1000Gr
 2030215,Abarrotes,Kris,Pack Trio Salsas Kris Pomo 3X380Ml
 2030483,Abarrotes,Hellmanns,Ketchup Hellmanns 400Gr
@@ -150,6 +151,7 @@ id,category,brand,name
 5028040,Vinos,Trumpeter,Vino Trumpeter 750Ml. Cabernet Sauvignon
 5030800,"Bebidas, Licores y Tabacos",Amarula,Licor Amarula 750Ml
 5030801,"Bebidas, Licores y Tabacos",Amarula,Licor Amarula 375Ml
+5040065,"Bebidas, Licores y Tabacos",Cuba Libre,Cuba Libre Lata 350Ml
 5040067,"Bebidas, Licores y Tabacos",Cuba Libre,Cuba Libre Botella 1Lt
 5040620,"Bebidas, Licores y Tabacos",Ice 51,Vodka 51 Ice Limon 275Ml
 5040621,"Bebidas, Licores y Tabacos",Ice 51,Vodka 51 Ice Maracuya 275Ml
@@ -387,7 +389,9 @@ id,category,brand,name
 17010486,Refrigerado y Congelado,Stege,Jamon Stege Kilogram Ingles
 17010515,Refrigerado y Congelado,Stege,Morcilla Stege Empacada Kg
 17010560,Refrigerado y Congelado,Stege,Salchicha Stege Kg Bock
+17010567,Refrigerado y Congelado,Stege,Salchicha Stege Kg Viena Cocktail
 17010582,Refrigerado y Congelado,Stege,Tocino Stege Kg Cortado
+17010583,Refrigerado y Congelado,Stege,Tocino Stege Kg Jamonada Cortado
 17010586,Refrigerado y Congelado,Stege,Chorizo Stege Ahumado 4Un Vacio
 17011342,Refrigerado y Congelado,Extra,Jamon Especial Extra Por Kilo
 17030179,Refrigerado y Congelado,Sofia,Salchicha Sofia Viena Por Kilo
@@ -398,11 +402,13 @@ id,category,brand,name
 17070126,Refrigerado y Congelado,Sofia,Pack Salchi Sofia Res 350G+ Salsa Y Pan
 17070850,Refrigerado y Congelado,Stege,Pate Stege Berlines Grande 200Gr
 17070854,Refrigerado y Congelado,Stege,Pasta De Higado Stege Grande 200Gr
+17070858,Refrigerado y Congelado,Stege,Salame Tipo Milan Al Vacio
 17070862,Refrigerado y Congelado,Stege,Salchicha Stege Viena 6Un 200Gr
 17070872,Refrigerado y Congelado,Stege,Milanesa De Pollo Stege 600Gr X 6Un
 17070882,Refrigerado y Congelado,Stege,Silpancho Stege  650Gr
 17070892,Refrigerado y Congelado,Stege,Mortadela Stege Cervecero Vacio 140 Gr
 17070896,Refrigerado y Congelado,Stege,Pate Stege Berlines Pequeno 100Gr
+17070897,Refrigerado y Congelado,Stege,Hamburguesa Stege 300Gr
 18010010,Abarrotes,Buitoni,Pasta Buitoni Linguine  500Gr
 18010022,Abarrotes,Buitoni,Fideo Buitoni Tortiglioni 500Gr
 18010093,Abarrotes,Carozzi,Pasta Carozzi Spaguetti 5 Vitamin 400Gr
@@ -497,6 +503,7 @@ id,category,brand,name
 23030245,Panadería y Pastelería,La Francesa,Paneton La Francesa Extra Fino 70Gr
 23030247,Panadería y Pastelería,La Francesa,Paneton La Francesa Chips C\/Choco 560 Gr
 23030280,Panadería y Pastelería,La Francesa,Paneton La Francesa Extra Fino 750Gr
+23030360,Panadería y Pastelería,Criss,Galleta Cris 370Gr Dulces
 23030951,Panadería y Pastelería,Arcor,Pan Dulce Arcor Madril C\/Choco 500Gr
 23031008,Panadería y Pastelería,Leo Nothmann,Galleta Leo Nothmann Mantequilla
 23031253,Panadería y Pastelería,Bauducco,Mini Paneton Bauducco  100Gr
@@ -615,7 +622,10 @@ id,category,brand,name
 26094930,Lácteos,Melingue,Queso Por Salut Magro Melincue 4.5 Kg
 26094936,Lácteos,,Queso Tybo Melincue Barra 4.5Kg
 26094952,Lácteos,Queseria Suiza,Queso Flor De Leche Kg Edam Maduro
+27010067,Refrigerado y Congelado,Delizia,Helado Dlz. Famil.Pasas Al Ron 1Lt
 27010073,Refrigerado y Congelado,Delizia,Helado Dlz. Famil.Vainilla 1Lt
+27010074,Refrigerado y Congelado,Delizia,Helado Dlz. Famil.Chocolate 1Lt
+27010075,Refrigerado y Congelado,Delizia,Helado Dlz. Famil.Frutilla 1Lt
 27010076,Refrigerado y Congelado,Delizia,Helado Dlz. Famil.Chirmoya Alegre 1Lt
 28030124,Panadería y Pastelería,La Francesa,Pan La Francesa  Molde Blanco
 28030125,Panadería y Pastelería,La Francesa,Pan La Francesa 500Gr Miga Extra
@@ -865,7 +875,9 @@ id,category,brand,name
 37020869,Aseo y Limpieza,Sapolio,Insecticida Sapolio Matamos\/Zancud 360Ml
 37020871,Aseo y Limpieza,Sapolio,Insecticida Sapolio Matapulgas 360Ml
 37040080,Aseo y Limpieza,Sapolio,Limpador Sapolio Antihogo Gat 550Ml
+37040081,Aseo y Limpieza,Sapolio,Pulidor Sapolio Antibacterial 450Gr
 37040701,Aseo y Limpieza,Ola,"Desinfectante Ola Aromatic Flores 1,8L"
+37041810,Aseo y Limpieza,Sapolio,Pulidor Sapolio Antibacteral Bolsa 450Gr
 37041950,Aseo y Limpieza,Sapolio,Limpiador Sapolio Taza Quitas Nat 500Ml
 37051354,Aseo y Limpieza,Sapolio,Sacagrasas Sapolio Limon Gatillo 650Ml
 37060250,Aseo y Limpieza,Sapolio,Limpiavidrios Sapolio Gatillo 650Ml
@@ -1099,6 +1111,8 @@ id,category,brand,name
 71010813,Vinos,,"Vino Palo Alto Cab, Sauv 750Ml"
 71010815,Vinos,,Vino Casillero Cab Sauv Reserva 750Ml
 71011238,Abarrotes,Cebila,Aceitunas Cebila Descarozada Shc 80Gr
+71011250,"Bebidas, Licores y Tabacos",Don Nicanor,Vino Don Nicanor Cabernet Sauv.  750Ml.
+71011251,"Bebidas, Licores y Tabacos",Don Nicanor,Vino Nieto Senet Don Nicano Malbec 750Ml
 71011274,Abarrotes,Del Valle,Mermelada Del Valle Frutilla Frco 350Gr
 71011275,Abarrotes,Del Valle,Mermelada Del Valle Durazno Frco 350Gr
 71011276,Abarrotes,Del Valle,Mermelada Del Valle Guayaba Frco 350Gr
@@ -1126,6 +1140,7 @@ id,category,brand,name
 71012872,Aseo y Limpieza,Archer,Limpiahornos Archer 860Cc Gatillo
 71012888,Aseo y Limpieza,Archer,Quitasarro Archer 550Cc Pato
 71012893,Aseo y Limpieza,Archer,Desatorador Archer  2 Lt
+71012903,Aseo y Limpieza,Archer,Cera Archer Sachet Amarilla 500Gr
 71013176,Abarrotes,Fragata,Aceite Oliva Pomace Fragata Pet 1000 Ml
 71013180,Abarrotes,Dani,Mejillones Dani En Escabeche 111G
 71013206,Aseo y Limpieza,Scotch Brite,Esponja Scotch Brite Metalica 1X160
@@ -1142,6 +1157,7 @@ id,category,brand,name
 71014602,"Bebidas, Licores y Tabacos",Pil,Jugo Pil Durazno Clasic Tetra 150Ml
 71014603,"Bebidas, Licores y Tabacos",Pil,Jugo Pil Manzana Clasic Tetra 150Ml
 71014604,"Bebidas, Licores y Tabacos",Pil,Jugo Pil Naranja Clasic Tetra 150Ml
+71014700,"Bebidas, Licores y Tabacos",Flor De Cana,Ron Flor De Cana 4 Anos Gold 1.75L
 71014701,"Bebidas, Licores y Tabacos",Flor De Cana,Ron Flor De Cana 7 Anos 750Ml
 71014858,"Snack, golosinas y galletas",,Bombones Bon O Bon  Leche 480Gr
 71015120,Abarrotes,Carozzi,Salsa Carozzi Toscana Bolognesa 200G
@@ -1329,6 +1345,7 @@ id,category,brand,name
 71033072,Productos frescos,Rolon,Huevo  Rolon Vitaminado Cortado 10 Unid
 71033094,Aseo y Limpieza,Sapolio,Insecticida Sapolio Mataacaros 360Ml
 71033366,Refrigerado y Congelado,Sofia,Milanesa Sofia De Pollo En Caja 4Unid
+71033489,Bebés y Nin@s,Nido,Leche En Polvo Nido +1 360G
 71033506,Abarrotes,San Lorenzo,Vinagre San Lorenzo Manzana600Ml
 71033532,Abarrotes,Ketal,Pan La Francesa Cena 18Unid Bolsa
 71033535,Panadería y Pastelería,La Francesa,Pan La Francesa Cena Cqueso 18Unid Blsa
@@ -1625,6 +1642,7 @@ id,category,brand,name
 80136040,Aseo y Limpieza,Limppano,Esponja Limppano Multiuso 4Un
 80136052,Refrigerado y Congelado,Stege,Pack Salchicha Viena C\/Piel San Juan Ste
 80136062,Refrigerado y Congelado,Stege,Mortadela Stege Cazador 140 Gr
+80136065,Refrigerado y Congelado,Stege,Salami Grande Stege Al Vacio
 80136068,Refrigerado y Congelado,Stege,Salami Stege Pequeno 140Gr
 80136226,"Bebidas, Licores y Tabacos",Tampico,Jugo Tampico Mango 3 Lt
 80136227,"Bebidas, Licores y Tabacos",Tampico,Jugo Tampico Citrus Punch 3 Lt
@@ -1770,6 +1788,7 @@ id,category,brand,name
 80143581,"Snack, golosinas y galletas",Para Ti,Chocola Para Ti Tablet Sab.Pistacho 100G
 80143582,"Snack, golosinas y galletas",Para Ti,Chocolat Para Ti Tablet Sab.Naranja 100G
 80143586,"Snack, golosinas y galletas",Para Ti,Chocolate Para Ti Tableta C\/Leche 100Gr
+80143596,Abarrotes,Carbonell,Aceite Oliva Carbonell Virgen Mezq 750Ml
 80143604,Cuidado Personal,Dove,Tripack Dove Jabon Original 3X90Gr
 80143613,Cuidado Personal,Dove,Acondicionador Dove Control Queda 400Ml
 80143629,Mascotas,Pet Shop,Hueso Pet Shop P\/Perro Comestib Dob Mini
@@ -1836,6 +1855,7 @@ id,category,brand,name
 80146637,"Bebidas, Licores y Tabacos",Pepsi,Gaseosa Pepsi 1Lt
 80146647,"Snack, golosinas y galletas",Mabels,Galleta Mabels Navid Surtido Espec 270Gr
 80146656,Cuidado Personal,Pepsodent,Pasta Dent Pepsode Triple Toothpaste 90G
+80146671,Aseo y Limpieza,Sapolio,Ambientador Sapolio Perfumatic 3 Tiempo
 80146719,Aseo y Limpieza,Ola,Ola Aromatic Desinf Lavanda Cremo 1800Ml
 80146720,Aseo y Limpieza,Ola,Ola Aromatic Desinf Floral Cremo 1800Ml
 80146730,"Bebidas, Licores y Tabacos",Villa Santa,Agua Villasanta Sin Gas Rosado 600Ml
@@ -2080,6 +2100,7 @@ id,category,brand,name
 80153146,Lácteos,Pil,Leche Deslactosada Pil Light Bolsa 800Ml
 80153149,Lácteos,Pil,Yogurt Bebible Pil Manzana Botella 1Lt
 80153150,Lácteos,Pil,Yogurt Bebible Pil Pina Botella 1Lt
+80153156,"Snack, golosinas y galletas",Pringles,Papas Fritas Pringles Original 67G
 80153169,Lácteos,Regia,Margarina Regia Light 425Gr
 80153181,Abarrotes,Monaco,Cafe Pil Monaco Liofilizado Premiu 100Gr
 80153182,Abarrotes,Pil,Cafe Pil Monaco Liofilizado Premiu 200Gr
@@ -2191,6 +2212,7 @@ id,category,brand,name
 80155396,Abarrotes,B&R Foods,Salsa Br Alitas Picantes 250Gr
 80155397,Lácteos,Delizia,Yogurt Delizia Silueta Frutilla 1Lt
 80155398,Lácteos,Delizia,Yogurt Delizia Silueta Vainilla 1Lt
+80155418,Bebés y Nin@s,Johnson & Johnson,Shampoo J&amp;J Fragancia Prolongada 200Ml
 80155422,Cuidado Personal,Sundown,Bloqueador J&amp;J Sundown Fps 50 200Ml
 80155428,Abarrotes,Gourmet,Salsa Gourmet Blanca 36Gr
 80155442,Refrigerado y Congelado,Sofia,Chorizo Sofia Churrasquero Kilo
@@ -2363,6 +2385,8 @@ id,category,brand,name
 80160996,Hogar y Electro,Tramontina,Caldera Tramon Paris 1.9Lt 20550619
 80161008,Hogar y Electro,Ufesa,Licuadora Ufesa C\/2 Jarras Bs1000
 80161131,Abarrotes,Brixy,Chucrut Brixy Fermentado Natural 370Gr
+80161133,"Snack, golosinas y galletas",Kral,Salsa Kral Nacho 230Gr
+80161134,"Snack, golosinas y galletas",Kral,Salsa Kral Queso 230Gr
 80161147,Hogar y Electro,Moduart,Librero Moduart Supra 14017-04 182Cm X 60Cm X 24Cm
 80161149,Hogar y Electro,Moduart,Librero Moduart Supra  14022-04 162Cm X 60Cm X 25Cm
 80161151,Hogar y Electro,Moduart,Librero Moduart Supra  14173-04 100Cm X 40Cm X 25Cm
@@ -2742,6 +2766,7 @@ id,category,brand,name
 80172887,"Snack, golosinas y galletas",Kit Kat,Chocolate Nestle Kit Kat 41.5Gr
 80172896,Aseo y Limpieza,Sapolio,Ambientador Sapolio Lavanda Silves 360Ml
 80172897,Aseo y Limpieza,Sapolio,Ambientador Sapolio Jardin D\/Rosas 360Ml
+80172898,Aseo y Limpieza,Sapolio,Ambientador Sapolio Potpurri Flore 360Ml
 80172900,Aseo y Limpieza,Sapolio,Ambientador Sapolio Arrullos Bebe 360Ml
 80172901,Aseo y Limpieza,Sapolio,Ambientador Sapolio Vainilla Franc 360Ml
 80172906,Aseo y Limpieza,Sapolio,Ambientador Sapolio Frutas Frescas 360Ml
@@ -2841,6 +2866,7 @@ id,category,brand,name
 80174319,Bebés y Nin@s,Huggies,Panal Huggies Autoajuste Unisex Xg 40Un
 80174321,Bebés y Nin@s,Huggies,Panal Huggies Autoajuste Unisex Xxg 36Un
 80174323,Bebés y Nin@s,Huggies,Toalla Hum Huggies Hands &amp; Face 24Un
+80174332,Cuidado Personal,Nivea,Deo Roll-On Nivea Aclarado Nat M 50 Ml
 80174337,"Snack, golosinas y galletas",Wafs,Galletas Wafs Chocolate 110Gr
 80174338,"Snack, golosinas y galletas",Wafs,Galletas Wafs Frutilla 110Gr
 80174339,"Snack, golosinas y galletas",Wafs,Galletas Wafs Vainilla 110Gr
@@ -2904,6 +2930,7 @@ id,category,brand,name
 80175948,Cuidado Personal,Nivea,Crema  Facial Nivea Cuid Nutritivo 101Gr
 80175951,Cuidado Personal,Nivea,Crema  Facial Nivea Cu Aclarado Nat 100G
 80175995,Abarrotes,Nescafe,Cafe Nescafe Gold 100Gr
+80175997,"Bebidas, Licores y Tabacos",Hindu,Ice Tea Hindu Frutos Salvajes 300Gr
 80176005,Abarrotes,Urupe,Arroz Urupe  5Kg
 80176007,Abarrotes,Pauhichi,Arroz Pauhichi  5Kg
 80176023,"Bebidas, Licores y Tabacos",Jumbo,Jugo Jumbo Citrus 2.5Lt
@@ -2995,6 +3022,7 @@ id,category,brand,name
 80177582,Abarrotes,Kris,Mayonesa Kris Picante 380Gr
 80177617,BlackWeek,Maybelline,Polvo Fitme Matte Maybelline 220 8.5Gr
 80177620,,Maybelline,Polvo Fitme Matte Maybelline 330 8.5Gr
+80177622,"Bebidas, Licores y Tabacos",Frush,Nectar Delizia Frush Naranja 2Lt
 80177623,Cuidado Personal,Kleenex,Panuelo Kleenex Pocket Kidz  Bolsa
 80177626,Hogar y Electro,Confetti,Folder Dello Simple Cristal
 80177751,Hogar y Electro,Sin Marca,Separador Trudeau 3 Huevos  09605220
@@ -3027,6 +3055,7 @@ id,category,brand,name
 80178158,Productos frescos,Valenciana,Salsa Valenciana Crema Huacataya 200Gr
 80178165,Abarrotes,Windsor,Cafe Windsor Liofilizado Premium 200G
 80178179,"Snack, golosinas y galletas",Breick,Combo Pascuero Breick Surtido 230G
+80178182,Abarrotes,Hindu,Te  Hindu Frutales Surtidos 50Gr
 80178224,Mascotas,8 In 1,Hueso 8 In 1 Stick Nat 20U 95Gr
 80178225,Mascotas,8 In 1,Hueso 8 In 1 Stick Pol 20U 95Gr
 80178226,Mascotas,8 In 1,Hueso 8 In 1 Stick Car 20U 95Gr
@@ -3213,6 +3242,7 @@ id,category,brand,name
 80181616,Bebés y Nin@s,Nestum,Cereal Nestum 5 Cereales 270Gr
 80181619,Abarrotes,Hellmanns,Ketchup Hellmanns Doypack 500Gr
 80181641,Aseo y Limpieza,Nova,Toalla Dh Nova Mega Rollo 2Un
+80181685,Refrigerado y Congelado,Stege,Hamburguesa Stege 2Un 140 Gr
 80181777,Hogar y Electro,,Bolas Maranelo D\/Nav 6Pza 730-1258
 80181987,"Bebidas, Licores y Tabacos",,Gaseosa Coca Cola  3Lt
 80182001,Cuidado Personal,Kotex,Toalla Fem  Kotex Sport Uf 10Un
@@ -3266,6 +3296,7 @@ id,category,brand,name
 80183076,Vinos,,Vino Campos De Solana Esther Ortiz 750Ml
 80183077,"Bebidas, Licores y Tabacos",Nieto Senetiner,Vino Nieto Senetiner Malbec  750Ml.
 80183078,Vinos,,Vino Nieto Senetiner  Blend Collection
+80183081,"Bebidas, Licores y Tabacos",Trapiche,Vino Trapiche Fond Cave Malbec 750Ml
 80183090,Vinos,,Vino Aranjuez Alma De Tannat 75Cl
 80183094,Hogar y Electro,Adrimex,Farol Adrimex Murcielago
 80183096,Carnavales Ketal,Adrimex,Disfraz Adrimex Set Mariposa Esp
@@ -3354,6 +3385,8 @@ id,category,brand,name
 80184713,Hogar y Electro,Top,Cuaderno Top Esp Mix2 Dis-Marv C
 80184714,Hogar y Electro,Top,Cuaderno Top Esp Mix1 Dis-Mar 1\/2Of 100H
 80184715,Hogar y Electro,Top,Cuaderno Top Esp Mix2 Dis-Marv1\/2Of 100H
+80184717,Refrigerado y Congelado,Delizia,Helado Tentacion Delizia Frambuesa 1 Lt
+80184718,Refrigerado y Congelado,Delizia,Helado Tentacion Delizia Mora 1 Lt
 80184721,Hogar y Electro,Stabilo,Marcador Stabilo P\/Pizarra 3 Col
 80184735,Hogar y Electro,Stabilo,"Resaltador Stabilo Neon 3 Pzas Am, Ve, R"
 80184768,Aseo y Limpieza,Elite,Toalla De Cocina Elite Megarollo 2Un
@@ -3708,6 +3741,7 @@ id,category,brand,name
 80189857,"Snack, golosinas y galletas",Garoto,Chocolate Garoto Bombones Surtidos 128Gr
 80189884,Lácteos,Serenisima,Queso La Serensi Danbo Kg
 80189885,Lácteos,Serenisima,Dulce De Leche La Serensi Colonial 250Gr
+80189925,Cuidado Personal,Colgate,Crema Dental Colgate Salud Visible 75Ml
 80190003,Hogar y Electro,,Velas Maranelo Navideno 4Pza 05-17
 80190005,Lácteos,Pil,Leche Nutriboom Pil Mix Cereales 140Ml
 80190066,Hogar y Electro,,Adorno Maranelo Navideno  34-21
@@ -3970,6 +4004,7 @@ id,category,brand,name
 80193011,Aseo y Limpieza,Ola,Suavizante Ola Original Doy P 900Ml
 80193016,Cuidado Personal,Liz,Jabon Liq Liz Antiba S Floral Doypack 1L
 80193018,Cuidado Personal,Liz,Jabon Liq Liz Lavanda Relaj Doypack 1L
+80193044,"Bebidas, Licores y Tabacos",Amate,Te Amate Pina - Jengibre 500Ml
 80193059,Cuidado Personal,Rexona,Jabon Rexona Antibacterial Aloe 3X90Gr
 80193060,Cuidado Personal,Rexona,Jabon Rexona Antibacterial Orig 3X90Gr
 80193063,"Bebidas, Licores y Tabacos",Mdc,Vino Mdc Crianza Tempr 750Ml
@@ -3980,6 +4015,8 @@ id,category,brand,name
 80193069,"Bebidas, Licores y Tabacos",Alta Vista,Vino Alta Vista Clas Chardonnay 750Ml
 80193070,"Bebidas, Licores y Tabacos",Clos De Los Siete,Vino Clos De Los Siete Malbec 750Ml
 80193071,Vinos,,Vino L.F.Edwards Reserva Carmenere 750Ml
+80193078,Hogar y Electro,Energizer,Pila Energizer Pila Aax6
+80193079,Hogar y Electro,Energizer,Pila Energizer Pila Aaax6
 80193080,Hogar y Electro,Energizer,Pila Energizer Alcalina Aaa8 8Unid
 80193082,Abarrotes,Gustoso,Aceituna Gustoso Verde 340Gr
 80193117,Mascotas,Podium,Alimento Podium Adulto 23Kg R\/Pequena
@@ -4718,10 +4755,12 @@ id,category,brand,name
 80198005,Cuidado Personal,Nosotras,Jabon Intimo Nosotras Fre Extrema 200Ml
 80198006,Bebés y Nin@s,Tena,Toalla Humeda Tena Clasica  60Un
 80198024,Abarrotes,Kris,Pack 3 Gelatinas Kris Surt 3X250G
+80198026,Refrigerado y Congelado,Stege,Mortadela Lyoneza Stege Al Vacio 0.140Gr
 80198032,Productos frescos,Aurora,Pavo Imba Entero X Kilo
 80198041,"Bebidas, Licores y Tabacos",Peregrino,Licor Peregrino Durazno Y Anis 750Ml
 80198043,"Bebidas, Licores y Tabacos",Parce,Ron Parce 3 Anos 1Lt
 80198044,"Bebidas, Licores y Tabacos",Parce,Ron Parce 8 Anos 750Ml
+80198045,"Bebidas, Licores y Tabacos",Prost,Cerveza Prost Barley Wine 750Ml
 80198060,Hogar y Electro,Pasabahce,Vaso Pasabahce Lyric New Concept 42030
 80198063,Hogar y Electro,Pasabahce,Vaso Pasabahce Barrel New Concept 41010
 80198069,Hogar y Electro,Pasabahce,Vaso Pasabahce Luna Concept2 42338
@@ -4732,6 +4771,7 @@ id,category,brand,name
 80198085,"Bebidas, Licores y Tabacos",Pura Vida,Nectar Puravida Fruts Pina 1Lt Tetra
 80198093,"Bebidas, Licores y Tabacos",Parce,Ron Parce 12 Anos 750Ml
 80198102,Carnavales Ketal,Soy Tu Espuma,Espuma Soy Tu Espuma Dif Frag 10
+80198118,"Snack, golosinas y galletas",Ritz,Sv 2 Galleta Ritz Tubo 2X67G
 80198165,Hogar y Electro,Foroni,Cuaderno Foroni Carta Sirenah
 80198166,Hogar y Electro,Schneider,Pack Schneider  Resalt + 3Bolã#G
 80198168,Hogar y Electro,Schneider,Pack Schneider  Resalt + 3Bolã#G
@@ -4789,6 +4829,7 @@ id,category,brand,name
 80198532,Productos frescos,Ketal,Pitahaya Fresca Rosa X Un
 80198533,Productos frescos,Ketal,Pitahaya Fresca Amarilla X Un
 80198541,Cuidado Personal,Ufesa,Secador De Pelo  Ufesa 2400 W Plegable S
+80198552,"Bebidas, Licores y Tabacos",Carabao,Energizante Carabao Original 330Ml
 80198579,Lácteos,Pil,Alim. Beb. De Soya Chirimoya 946 Ml.
 80198595,Hogar y Electro,Ketal,Marshmallows Fini Americano 80G
 80198604,Abarrotes,Isabela,Pack 3 Sopas Inst Isabela Surt 3X85G
@@ -4981,6 +5022,7 @@ id,category,brand,name
 80199838,Abarrotes,La Suprema,Fideo La Suprema Codo Mediano 400Gr
 80199839,Abarrotes,La Suprema,Fideo La Suprema Caracol 400Gr
 80199861,Hogar y Electro,Soho Carpet,Jgo Alfomb Soho C Bano  Antigua-14Pc-Blk
+80199869,Hogar y Electro,Ezy Storage,Cesto Ezy Storage  74Lt 32514
 80199874,Hogar y Electro,Ezy Storage,Cesto Ezy Storage C\/Rueda 66Lt 32390
 80199877,Hogar y Electro,Kennedy Home Collection,Organizador Kennedy H P\/Revista  4892
 80199882,Hogar y Electro,Kennedy Home Collection,Cortina Home Collection P\/Ducha  46346
@@ -5448,6 +5490,7 @@ id,category,brand,name
 80201487,Hogar y Electro,Alliance,Vajilla por Unidad H&amp;Home Dif Mod 27Cm 33-016
 80201525,Panadería y Pastelería,Gustossi,Paneton Gustossi Caja Tradicional 750 Gr
 80201526,Panadería y Pastelería,Gustossi,Paneton Gustossi Caja Chocolate 750 Gr
+80201540,Refrigerado y Congelado,Chocolinas,Postre Bon O Bon Brazo Gitano 637Gr
 80201553,Hogar y Electro,,Bolas Miro Dif Col 12Un 3972Me
 80201554,Hogar y Electro,,Bolas Miro Dorado 6Un 39309G
 80201555,Hogar y Electro,,Bolas Miro Plata 6Un 39309S
@@ -5554,8 +5597,12 @@ id,category,brand,name
 80201815,Abarrotes,,Palmito De La Selva Entero 400Gr
 80201817,Abarrotes,Andean Blueberries,Mermelada Andean Blueberries Arand 450Gr
 80201819,Abarrotes,Bioxxi,Pasta Bio Xxi Codito Lenteja Quinua 250G
+80201845,Hogar y Electro,Cristar,Copa Cristar Rioja Agua 3U  5416Cl3
+80201846,Hogar y Electro,Cristar,Copa Cristar Rioja V. Tinto 3U  5414Cl3
+80201847,Hogar y Electro,Cristar,Copa Cristar Rioja V. Blanco 3U  5412Cl3
 80201852,Hogar y Electro,Kuken,Cafetera Kuken Para Capsulas
 80201853,"Bebidas, Licores y Tabacos",Barbacana,Vino Tinto Barbacana Tannat Reserv 750Ml
+80201854,"Bebidas, Licores y Tabacos",Barbacana,Vino Tinto Barbacana Tannat 750Ml
 80201855,"Bebidas, Licores y Tabacos",Barbacana,Vino Rose Barbacana Cofradia 750Ml
 80201856,"Bebidas, Licores y Tabacos",Barbacana,Vino Tinto Barbacana Cofradia 750Ml
 80201859,Cuidado Personal,Philips,Alisador De Cabello Philips   Bhs674
@@ -5758,7 +5805,7 @@ id,category,brand,name
 80202488,Hogar y Electro,Tilibra,Agenda Tilibra Neon 176H
 80202489,Hogar y Electro,Tilibra,Agenda Tilibra Raptor 176H
 80202495,Abarrotes,Gustoso,Aceitunas Gustoso Rellenas Jalapeno 340G
-80202496,Abarrotes,Ketal,Aceitunas Gustoso Rellenas Aji Amar 340G
+80202496,Abarrotes,Gustoso,Aceitunas Gustoso Rellenas Aji Amar 340G
 80202506,Hogar y Electro,Rey,Jarra Rey Medidora 1Lt Jrx019000
 80202507,Hogar y Electro,Rey,Taper Rey Biofood 330Ml Tpx066000
 80202509,Hogar y Electro,Rey,Bebetodo Rey Hermetico 1Lt Ttv020000
@@ -6076,6 +6123,7 @@ id,category,brand,name
 80203789,Bebés y Nin@s,Huggies,Panal Huggies Actsec Pants Xl 66Und
 80203791,Cuidado Personal,Kotex,Toalla Femenina Kotex Nocturna Tela  8Un
 80203798,Hogar y Electro,Philips,Freidora Philips Hd9218
+80203799,"Bebidas, Licores y Tabacos",Bendita,Cerveza Bendita Hoppy Lager Lata  350 Ml
 80203803,"Snack, golosinas y galletas",Ducal,Pack 2 Galletas Ducal 2X294G +Atun 170G
 80203804,Abarrotes,Gustoso,Atun Gustoso Desmenuzado Aceite 170G
 80203805,Abarrotes,Gustoso,Atun Gustoso Desmenuzado Agua 170G
@@ -6247,6 +6295,9 @@ id,category,brand,name
 80204610,Hogar y Electro,Tramontina,Sarten Tramontina 24Cm Loreto
 80204611,Hogar y Electro,Tramontina,Cozi Vapore Tramontina 16Cm Loreto
 80204613,Cuidado Personal,Colgate,Crema Dental Tot 12 Encias Ref 3X75Ml
+80204617,Lácteos,Apego,Bebida Lactea Apego Cafe- Caramelo 300Ml
+80204618,Lácteos,Apego,Bebida Lactea Apego Cafe-Vainilla 300Ml
+80204619,Lácteos,Apego,Bebida Lactea Apego Cafe-Almendras 300Ml
 80204626,Mascotas,Animal Planet,Juguetes P\/Gatos Z8 Ap-C796-009
 80204627,Mascotas,Animal Planet,Juguetes P\/Gatos Z8 Ap-C796-010
 80204628,Mascotas,Animal Planet,Juguetes P\/Gatos Z8 Ap-C796-017
@@ -6418,6 +6469,12 @@ id,category,brand,name
 80205283,Hogar y Electro,Marinex,Cacerola Marinex 2.4 Lt 749-6345
 80205284,Hogar y Electro,Marinex,Cacerola Marinex 1.6Lt 749-6532
 80205285,Hogar y Electro,Marinex,Cacerola Marinex 2.4Lt 749-6496
+80205289,Hogar y Electro,Bandeirante,Frasco Bandeirante 1.2Lt 723-3100
+80205290,Hogar y Electro,Bandeirante,Frasco Bandeirante 2.1Lt 723-3200
+80205291,Hogar y Electro,Bandeirante,Frasco Bandeirante 3Lt 723-3300
+80205292,Hogar y Electro,Bandeirante,Frasco Bandeirante 1.2Lt 723-3103
+80205293,Hogar y Electro,Bandeirante,Frasco Bandeirante 2.1Lt 723-3203
+80205294,Hogar y Electro,Bandeirante,Frasco Bandeirante 3Lt 723-3303
 80205301,Hogar y Electro,Glad,Plato Glad Hondo 726-70047
 80205302,Hogar y Electro,Life Art,Jarra Life Art  707-34599
 80205313,Hogar y Electro,Mr. Bar-B-Q,Utensilios Mr. Bar-B-Q P\/Bbq 5Pz 94178X
@@ -6611,6 +6668,7 @@ id,category,brand,name
 80205900,Hogar y Electro,Energizer,Linterna Energizer Pack Lint+Pilas+Bolso
 80205901,Hogar y Electro,Energizer,Linterna Energizer Eco Led 2D
 80205902,Lácteos,Carnation,Sv 2 Leche Evaporada Carnation 2X360G
+80205906,"Bebidas, Licores y Tabacos",Amate Te,Te Amate Menta-Maracuya Y Te Negro 500M
 80205908,"Bebidas, Licores y Tabacos",Pil,Sv 4 Juguito 150Ml Tetra Clasic
 80205920,"Bebidas, Licores y Tabacos",Huari,Sv6 Cerveza Huari Lata 354Ml
 80205923,"Snack, golosinas y galletas",Garoto,Chocolate Garoto Baton Smarties 90G
@@ -7620,6 +7678,7 @@ id,category,brand,name
 80208458,Aseo y Limpieza,Bolivar,Pack 2 Jabon Bolivar Floral 190Gr
 80208459,Aseo y Limpieza,Bolivar,Pack 2 Jabon Bolivar Limon 190Gr
 80208460,Aseo y Limpieza,Bolivar,Pack 2 Jabon Bolivar Bebekids 190Gr
+80208469,Cuidado Personal,Elite,Panuelo Elite  Pack Familiar 160Un
 80208478,Panadería y Pastelería,,Paneton Condor Beso De Negro 750Gr
 80208482,"Bebidas, Licores y Tabacos",Escorihuela Gasco,Vino Tinto Escorihuela G Cabernet S 750M
 80208484,"Bebidas, Licores y Tabacos",Escorihuela Gasco,Vino Tinto Escorihuela G Syrah 750Ml
@@ -7777,6 +7836,7 @@ id,category,brand,name
 80208951,Hogar y Electro,Vinifan,Tijera  Vinifan Zurdos
 80208954,Hogar y Electro,Vinifan,Tijera  Vinifan Oficina 17 Cm
 80208955,Hogar y Electro,Vinifan,Cuchilla Vinifan Easy 9Mm
+80208957,Refrigerado y Congelado,Stege,Jamon Artesanal Stege Al Vacio Xkg
 80208958,Panadería y Pastelería,Ketal,Torta Ketal Oreo 20 Personas
 80208960,Hogar y Electro,,Maquina De Sopa Smartlife  1.6 L
 80208961,Hogar y Electro,,Maquina De Pan Smartlife
@@ -7823,7 +7883,7 @@ id,category,brand,name
 80209038,Hogar y Electro,Talbot,Goma Eva Talbot Lisa Col Surt Paq X 5
 80209039,Hogar y Electro,Talbot,Goma Eva Talbot Brillo Col Surt Paq X 5
 80209040,Hogar y Electro,Talbot,"Goma Eva Talbot Iridi, Col Surt Paq X 5"
-80209054,"Bebidas, Licores y Tabacos",Sin Marca,Sv 6 Gatorade 500 Cc Pet X 6 Cool Blue
+80209054,"Bebidas, Licores y Tabacos",Gatorade,Sv 6 Gatorade 500 Cc Pet X 6 Cool Blue
 80209063,Cuidado Personal,Carissa,Shampoo Dp Carissa Bebe 900Ml
 80209064,Cuidado Personal,Carissa,Shampoo Dp Carissa Chocolate 900Ml
 80209065,Cuidado Personal,Carissa,Shampoo Dp Carissa Coco Acai 900Ml
@@ -8080,6 +8140,7 @@ id,category,brand,name
 80209577,Cuidado Personal,Tio Nacho,Sh Tio Nacho Celulas Madres 415 Ml
 80209583,Refrigerado y Congelado,Delizia,Postre Helado Tradicion Pesque 300Ml
 80209616,Abarrotes,Chocapic,Sv 3X2 Cereal Chocapic 3X400G 
+80209620,"Snack, golosinas y galletas",Mogul,Gomitas Mogul Ositos 500G
 80209625,Refrigerado y Congelado,Sofia,Nugget Sofia  Dino 1 Kg
 80209627,Abarrotes,Don Vitorio,Fideo Don Vittorio Tornillo Colores 400G
 80209641,Lácteos,Delizia,Nectar Frush Sachet Manzana 140Ml
@@ -8182,10 +8243,14 @@ id,category,brand,name
 80209838,Hogar y Electro,Rayovac,Combo Foco Led Rayovac 12W Blanc 6+1 12W
 80209839,Hogar y Electro,Rayovac,Combo Foco Led Rayovac 14W Amar 6+1 14W
 80209840,Hogar y Electro,Rayovac,Combo Foco Led Rayovac 14W Blanc 6+1 14W
+80209844,Aseo y Limpieza,Sapolio,Ambientador Sapolio Coco 360Ml
 80209845,Mascotas,Felix,Alim Hum Felix Classic Sardina 85Gr
 80209846,Mascotas,Cat Chow,Comida Cat Chow Sin Col Gatitos 1Kg
 80209913,Cuidado Personal,Gama,Balanza Ga.Ma De Cocina
 80209914,Cuidado Personal,Gama,Depiladora Ga.Ma Oasis Supreme
+80209928,Hogar y Electro,Kennedy Home Collection,Set Kennedy H C D\/Org D\/Zapat 37193
+80209929,Hogar y Electro,Kennedy Home Collection,Set Kennedy H C D\/Org D\/Zapat 37195
+80209939,Hogar y Electro,Kennedy Home Collection,Pesa Kennedy H Elect P\/Bano 752252
 80209956,Hogar y Electro,Betty Crocker,Molde Betty C P\/Mini Cupcake Bc1008
 80209957,Hogar y Electro,Betty Crocker,Molde Betty C P\/Muffin Bc1009
 80209958,Hogar y Electro,Betty Crocker,Molde Betty C P\/Pan Bc1010
@@ -8241,7 +8306,12 @@ id,category,brand,name
 80210100,Hogar y Electro,,Alfombra P\/Bano 70X38Cm 736-05354
 80210101,Hogar y Electro,,Alf P\/Escurrir Platos 38X50Cm 68-0446305
 80210102,Hogar y Electro,,Alf P\/Escurrir Platos 40X50Cm 0446308
+80210117,Hogar y Electro,Blue Line,Pesa P\/ Bano 180Kg  734-Vs1602A
+80210118,Hogar y Electro,Sin Marca,Pesa 180Kg 734-35977
 80210160,Hogar y Electro,Plasutil,Basurero C\/Pedal 14L  766-3495
+80210161,Hogar y Electro,Mr Coffee,Basurero 3.0Lt  766-0406665
+80210162,Hogar y Electro,Mr Coffee,Basurero 5.0Lt  766-0406666
+80210163,Hogar y Electro,Mr Coffee,Basurero 8.0Lt  766-0406667
 80210173,Hogar y Electro,,Basurero 5.3Gal  766-12182Xp
 80210176,Mascotas,,Casa P\/Mascota (S) 30X30X30Cm  847-04393
 80210177,Mascotas,,Cama P\/ Mascota (S) 50X45X28Cm 847-03041
@@ -8285,6 +8355,10 @@ id,category,brand,name
 80210294,Hogar y Electro,Tiny Tots,Mantilla Tiny Dif Disenos Cng
 80210300,Hogar y Electro,Tiny Tots,Chalina Tiny P\/ Varon Cng
 80210339,"Bebidas, Licores y Tabacos",,Pack6 Cerveza Pacenita+ Utensilio
+80210342,"Bebidas, Licores y Tabacos",Cañon Escondido,Vino Canon Escondido Tannat Reserva 750M
+80210343,"Bebidas, Licores y Tabacos",Cañon Escondido,Vino Canon Escondido Rose 750Ml
+80210344,"Bebidas, Licores y Tabacos",Cañon Escondido,Vino Canon Escondido Orange Wine 750Ml
+80210345,"Bebidas, Licores y Tabacos",Cañon Escondido,Vino Canon Escondido Tinto De Finca 750M
 80210346,Aseo y Limpieza,Sapolio,Lavandina Sapolio  1.8 L
 80210347,Aseo y Limpieza,Virginia,Esponja Virginia Zapatos Negro 80Gr.
 80210348,Aseo y Limpieza,Virginia,Abrillant Virginia  P Flot Lavanda 400Ml
@@ -8328,6 +8402,7 @@ id,category,brand,name
 80210504,Aseo y Limpieza,Hude,Escoba Hude Escobon Verde
 80210505,Aseo y Limpieza,Hude,Escoba  Hude  Escobestia Verde
 80210506,Aseo y Limpieza,Hude,Recogedor  Hude  Flip Verde
+80210512,Refrigerado y Congelado,Delizia,Helado Familiar Delizia Granizado 1Lts
 80210515,Aseo y Limpieza,Harpic Power Plus,Descalsificador Todo Uso 3X25Ml
 80210516,Panadería y Pastelería,,Brownie Panetteria Sabores Surtidos 1Un
 80210517,Panadería y Pastelería,,Cheesecake Panetteria Sabores Surtidos 1UN
@@ -8340,12 +8415,14 @@ id,category,brand,name
 80210524,Panadería y Pastelería,,Croissant Panetteria Simple Un
 80210525,Panadería y Pastelería,,Croissant Panetteria C\/Queso Un
 80210526,"Bebidas, Licores y Tabacos",,Pack2 Vino C. De Solana Malb\/Rose+Pano
+80210529,"Bebidas, Licores y Tabacos",Sin Marca,Sv6 Gatorade Tropical Fruits 500M
 80210530,Panadería y Pastelería,,Croissant Panetteria Jamon Y Queso Un
 80210531,Panadería y Pastelería,,Croissant Panetteria Chocolate Un
 80210533,Panadería y Pastelería,,Media Luna Panetteria  Un
 80210538,Abarrotes,El Pescador,Pack 2 Atun El Pescador Varios 2X170G
 80210539,"Bebidas, Licores y Tabacos",Estrella Galicia,Pack6 Cerv. Estrella G.  +10 Posv. 269Ml
 80210542,"Snack, golosinas y galletas",Fini,Pack 2 Marshmallows Fini Surt 2X80G
+80210545,Abarrotes,Princesa,Avena Princesa Instantanea Doypack 500G
 80210548,Aseo y Limpieza,Surf,Lavavajilla Surf Limon Dp 1Lt
 80210556,Aseo y Limpieza,Surf,Limpia Vidrios Surf Gatillo 900Ml
 80210557,Aseo y Limpieza,Surf,Detergente Surf Coco 5Kg
@@ -8677,6 +8754,7 @@ id,category,brand,name
 80211245,Refrigerado y Congelado,Vaca Fria,Helado Vacafria Dulce De Leche 150 Ml
 80211246,Refrigerado y Congelado,Vaca Fria,Helado Vacafria Crema Americana 150 Ml
 80211251,"Bebidas, Licores y Tabacos",,Vino Campos De Solana Tannat - Marselan
+80211289,Mascotas,Ricocat,Comida Perro Thor Adultos Clasicos 1Kg
 80211310,Abarrotes,Post,Cereal Post Honey Bunches Straw 340Gr
 80211311,Abarrotes,General Mills,Cereal G Mills Cinnamon Chex 340Gr
 80211312,Abarrotes,General Mills,Cereal Cinnamon Toast Crunch Churro 337G
@@ -8685,6 +8763,7 @@ id,category,brand,name
 80211339,"Bebidas, Licores y Tabacos",Del Valle,Combo6X5 Jugo Del Valle Manzana 300Ml
 80211340,"Bebidas, Licores y Tabacos",Del Valle,Combo6X5 Jugo Del Valle Durazno 300Ml
 80211341,"Bebidas, Licores y Tabacos",Del Valle,Combo6X5 Jugo Del Valle Fresh  300Ml
+80211348,"Bebidas, Licores y Tabacos",Paceñita,Combo6 Cerveza Pacenita 235Ml
 80211358,Hogar y Electro,,Almohada Cannon Regular
 80211359,Hogar y Electro,,Almohada Cannon Firme
 80211360,Hogar y Electro,Oster,Exprimidor Citricos Oster Blanco Fpstju1
@@ -8743,6 +8822,7 @@ id,category,brand,name
 80211464,Lácteos,Delizia,Sv19Leche Choc. Delizia 150Ml
 80211465,Lácteos,Delizia,Sv19Leche Delizia Vaquita Frutilla 120 M
 80211466,Lácteos,Delizia,Sv19Leche Delizia 150Ml Sab Mora
+80211467,Abarrotes,B&R,Pepinillos Br Rodajas 340G
 80211470,"Bebidas, Licores y Tabacos",Taquina,Sv3 Bebida Taquina Chicha 473Ml
 80211471,Aseo y Limpieza,Bistro,Sv2X1 Molde Bistro D\/Aluminio 45X33 7066
 80211472,Aseo y Limpieza,Bistro,Sv2X1 Molde Bistro D\/Aluminio 47X42 7066
@@ -8805,6 +8885,7 @@ id,category,brand,name
 80211575,Mascotas,Kendy,Pocillo P\/Mascota Kendy Cuadrado N 2
 80211576,Mascotas,Kendy,Pocillo P\/Mascota Kendy Cuadrado N 3
 80211582,Refrigerado y Congelado,Stege,Pack Stege Chori+Morci+Hamburg 1.17 Kg
+80211583,Refrigerado y Congelado,Sofia,Jamon Sofia York Barra 2Kg
 80211722,"Bebidas, Licores y Tabacos",Sin Marca,Sv3X2 Gaseosa Oriental Pomelo 3Lt
 80211723,Hogar y Electro,Bosch,Refrigerador Bosch No Frost A 60Cm 306Lt
 80211724,Hogar y Electro,Bosch,Refrigerador Bosch No Frost A 60Cm 357Lt
@@ -8835,6 +8916,40 @@ id,category,brand,name
 80211785,Hogar y Electro,Skyworth,Lavadora Skyworth Mot\/Inverter Front 10K
 80211848,"Bebidas, Licores y Tabacos",,Vino Salvaje Cabernet Sauvignon 750Ml
 80211872,"Bebidas, Licores y Tabacos",Stolichnaya,Pack Stolichnaya + Mug Cobre 1Lt
+80212060,Abarrotes,Van Camps,Pack2 Atun Van Camps +Chocl Cajamar 538G
+80212067,Lácteos,Apego,To Go Apego Avellana 300Ml
+80212071,"Snack, golosinas y galletas",Edeka,Galletas Edeka Mantequilla 125G
+80212076,Refrigerado y Congelado,Haas,Sv2X1 Pate Haas Grande 240 Gr
+80212077,Refrigerado y Congelado,Haas,Sv2X1 Pate Haas De Campo 125 Gr
+80212078,Refrigerado y Congelado,Haas,Sv2X1 Pate Haas De Jamon Westalia 150 Gr
+80212079,Lácteos,Delizia,Sv10 Cafe Con Leche Delizia 250Ml
+80212088,"Bebidas, Licores y Tabacos",Mio,Bebida Mio Limonada Electrica 300Ml
+80212089,"Bebidas, Licores y Tabacos",Mio,Bebida Mio Pina Colada 300Ml
+80212090,"Bebidas, Licores y Tabacos",Mio,Bebida Mio Acai  300Ml
+80212091,"Bebidas, Licores y Tabacos",Pil,Pack5 Jugo Tetra Pil Surtido 150Ml
+80212093,"Bebidas, Licores y Tabacos",Pacena,Sv2 Cerveza Pacena Lata 473 Ml
+80212094,Mascotas,Felix,Pack 5U Felix Alim Hum  85Gr
+80212131,Hogar y Electro,Corona,Plato Corona Caribe Plano 24Cm
+80212132,Hogar y Electro,Corona,Platillo Corona Caribe Panero 20Cm
+80212133,Hogar y Electro,Corona,Plato Corona Caribe Hondo 20.5Cm
+80212134,Hogar y Electro,Corona,Plato Corona Nevada Plano 24Cm Hueso
+80212135,Hogar y Electro,Corona,Plato Corona Nevada Panero 20Cm Hueso
+80212136,Hogar y Electro,Corona,Plato Corona Nevada Hondo 21Cm Hueso
+80212137,Hogar y Electro,Corona,Bowl Corona Oslo 770Cc Cuadrado Blanco
+80212149,Hogar y Electro,Brinox,Basurero Brinox C\/ Pedal Decorline 30L
+80212150,Hogar y Electro,Brinox,Caldera Brinox Cereza 2L
+80212151,Hogar y Electro,Brinox,Caldera Brinox Ploma 2L
+80212152,Hogar y Electro,Brinox,Cubiertos Brinox Acero Inox Lyon 24 Pzas
+80212153,Hogar y Electro,Brinox,Cubiertos Brinox Siena 24 Pzas
+80212154,Hogar y Electro,Brinox,Cubiertos Brinox Turim 24 Pzas
+80212155,Hogar y Electro,Brinox,Sarten Brinox C\/Espatula 16Cm
+80212156,Hogar y Electro,Brinox,Sarten Brinox C\/Espatula 18Cm
+80212157,Hogar y Electro,Brinox,Sarten Brinox C\/Espatula 22Cm
+80212158,Hogar y Electro,Brinox,Sarten Brinox C\/Espatula 24Cm
+80212159,Hogar y Electro,Brinox,Sarten Brinox C\/Espatula 26Cm
+80212160,Hogar y Electro,Brinox,Olla A Presion Brinox Plata 7.5L
+80212161,Mascotas,Thor,Comida Mascota Thor Cachorros Carne 1K
+80212162,Mascotas,Thor,"Comida Masc Thor Adulto Car, Hig Y C 1K"
 560500173,Bebés y Nin@s,Mattel,Autos Mattel  Hot Weels 5Gift St
 560500174,Bebés y Nin@s,Mattel,Auto Mattel Surtido Hotwheels C4982
 560500178,Bebés y Nin@s,Hasbro,Plastilina Hasbro Playdoh Picnic
