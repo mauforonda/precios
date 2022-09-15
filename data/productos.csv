@@ -186,6 +186,7 @@ id,category,brand,name
 6010066,"Bebidas, Licores y Tabacos",Vital,Agua Vital Sin Gas 600Ml
 6010068,"Bebidas, Licores y Tabacos",Mineragua,Agua Mineragua Limon 2Lt
 6010089,"Bebidas, Licores y Tabacos",Naturagua,Agua Naturagua Sin Gas 2 Lt
+6010095,"Bebidas, Licores y Tabacos",Naturagua,Agua Naturagua Sin Gas 660Ml
 6010122,"Bebidas, Licores y Tabacos",Viscachani,Agua Viscachani 2Lt Sin Gas
 6010126,"Bebidas, Licores y Tabacos",Viscachani,Agua Mineral Viscachani Con Gas 2Lt
 6010301,"Bebidas, Licores y Tabacos",Cascada,Agua Cascada 1.5Lt Pura Sport S Gas Lim
@@ -354,7 +355,7 @@ id,category,brand,name
 15081081,"Bebidas, Licores y Tabacos",Livean,Refresco Livean Durazno 9Gr
 15081082,"Bebidas, Licores y Tabacos",Livean,Refresco Livean Mango 9Gr
 15081086,"Bebidas, Licores y Tabacos",Livean,Refresco Livean Naranja 9Gr
-15091285,Abarrotes,Hellmanns,Mayonesa Hellmanns Light 500Gr
+15091285,Abarrotes,Hellmanns,Mayonesa Hellmanns Light 475G
 15100101,"Snack, golosinas y galletas",,Pipoca P\/Micrond Act Ii Manteq Light 85G
 15140570,Lácteos,Pil,Yogurt Pil Light Frutilla 1000Ml Botella
 15140571,Lácteos,Pil,Yogurt Pil Light Durazno 1000Ml Botella
@@ -531,6 +532,7 @@ id,category,brand,name
 25010256,"Bebidas, Licores y Tabacos",Frutall,Jugo Frutall Durazno 200Ml
 25010268,"Bebidas, Licores y Tabacos",Frutall,Jugo Frutall Manzana 1Lt
 25010269,"Bebidas, Licores y Tabacos",Frutall,Jugo Frutall Durazno 1Lt
+25010271,"Bebidas, Licores y Tabacos",Frutall,Jugo Frutall Naranja 1Lt
 25010278,"Bebidas, Licores y Tabacos",Frutall,Zumo Frutall Light Durazno 1L
 25011531,"Bebidas, Licores y Tabacos",Ades,Jugo Ades Manzana 200Ml
 25011536,"Bebidas, Licores y Tabacos",Ades,Jugo Ades Manzana 1Lt
@@ -2384,6 +2386,7 @@ id,category,brand,name
 80159195,Aseo y Limpieza,Amor,Suavizante Amor Frescura Natural 1950Ml
 80159225,"Bebidas, Licores y Tabacos",,Cerveza Real Botella 620Ml
 80159355,Cuidado Personal,Opus,Toallas Desmaquillantes Opus Z33 25Un
+80159397,"Bebidas, Licores y Tabacos",Naturagua,Agua Naturagua Sin Gas 1Lt
 80159450,Panadería y Pastelería,Donofrio,Paneton Donofrio Bolsa 900Gr
 80159551,Cuidado Personal,Plenitud,Panal Plenitud Neutrazone Med Ii 20Und
 80159594,Refrigerado y Congelado,Sofia,Jamon Sofia Ingles X Kilo
@@ -2881,6 +2884,7 @@ id,category,brand,name
 80174013,Cuidado Personal,Nivea,Deo Nivea Aclarado Natural Spray M 150Ml
 80174018,"Bebidas, Licores y Tabacos",,Vino Campos De Sola Trivariet Blan 750Ml
 80174021,Productos frescos,Sofia,Chuleta De Bondiola Sofia Cong 7
+80174066,Hogar y Electro,Homz,Ganchos Homz P\/Ropa 1Pcs 6808Tl1
 80174212,Espumantes,Prosecco,Vino Valdo Prosecco Docg 750Ml
 80174244,"Snack, golosinas y galletas",Taboada,Grageas Taboada Pasas 50Gr
 80174245,"Snack, golosinas y galletas",Taboada,Grageas Taboada Arroz 50Gr
@@ -4212,6 +4216,7 @@ id,category,brand,name
 80194287,Refrigerado y Congelado,San Delina,Chicharron San Delina De Soya 200Gr
 80194288,Refrigerado y Congelado,San Delina,Hamburguesa San Delina Falafel 240Gr
 80194302,"Bebidas, Licores y Tabacos",Villa Santa,Agua Villa Santa De Mesa 7Lt
+80194323,Hogar y Electro,Kennedy Home Collection,Tabla Kennedy H C D\/Planchar 48601
 80194333,Hogar y Electro,Kennedy Tools,Candados Kennedy T De Comb 2Pza Mb-Set
 80194334,Hogar y Electro,Kennedy Tools,Linterna Kennedy T Led Para Cab -60011
 80194337,Hogar y Electro,Kennedy Home Collection,Cinta Kennedy T Metrica 5M -5C42E
@@ -6388,6 +6393,7 @@ id,category,brand,name
 80204668,Hogar y Electro,Kennedy Home Collection,Organizador Ezy S D\/Pan 30833
 80204669,Hogar y Electro,Kennedy Home Collection,Organizador Ezy S Cuad P\/Cake 30835
 80204672,Mascotas,Kennedy Home Collection,Bandeja Ezy S Esquinera 32109
+80204684,Hogar y Electro,Kennedy Home Collection,Organizador Bath B P\/Bano 24202-Rust
 80204690,Hogar y Electro,Kennedy Home Collection,Caja Simplify Organizad Grd 26831-Marb
 80204692,Hogar y Electro,Kennedy Home Collection,Organizador Simplify P\/Zapatos 26836-M
 80204693,Hogar y Electro,Kennedy Home Collection,Organizador Simplify Colg P\/Zap 26838-M
@@ -6526,6 +6532,7 @@ id,category,brand,name
 80205238,Hogar y Electro,Toskana,Bolsa Toskana P\/Lavar 701-35522
 80205243,Mascotas,,Juguete Puppy&amp;Co P\/Mascota 847-03565
 80205245,Mascotas,,Juguete Puppy&amp;Co P\/Perro 847-04411
+80205253,Hogar y Electro,Home Living,Organizador Home Living P\/Bano 0488362
 80205254,Hogar y Electro,Bistro,Utensilio Bistro De Cocina 716-36450
 80205255,Hogar y Electro,Bistro,Utensilio Bistro De Cocina 716-36451
 80205256,Hogar y Electro,Life Art,Set Life Art D\/Tabla 739-00724
@@ -6995,6 +7002,7 @@ id,category,brand,name
 80206922,Hogar y Electro,Ketal,Velas Blancas 65G\/4Pc Xn012
 80206926,Hogar y Electro,Ketal,Escurridor D\/Platos 31.5*24.3* 33Cm 3300
 80206927,Hogar y Electro,Ketal,Escurridor D\/Platos 36*12*30Cm 33008
+80206928,Hogar y Electro,Ketal,Tendedero D\/Ropa 160X50X   90Cm 33009
 80206935,Aseo y Limpieza,Duramax,Toalla De Cocina Duramax Antibac X48
 80206938,"Bebidas, Licores y Tabacos",Paulaner, Cerveza Paulaner Lemon Radler  500Ml
 80206951,Cuidado Personal,Sin Marca,Acon Ballerina Bajo Poo Micelar 750Ml
@@ -8398,6 +8406,8 @@ id,category,brand,name
 80210161,Hogar y Electro,Mr Coffee,Basurero 3.0Lt  766-0406665
 80210162,Hogar y Electro,Mr Coffee,Basurero 5.0Lt  766-0406666
 80210163,Hogar y Electro,Mr Coffee,Basurero 8.0Lt  766-0406667
+80210164,Hogar y Electro,Life Art,Set Gancho P\/Ropa 5Pzas  701-35015
+80210167,Hogar y Electro,Wonder House,Tendedero P\/Ropa 180X50X108Cm  701-86133
 80210173,Hogar y Electro,,Basurero 5.3Gal  766-12182Xp
 80210176,Mascotas,,Casa P\/Mascota (S) 30X30X30Cm  847-04393
 80210177,Mascotas,,Cama P\/ Mascota (S) 50X45X28Cm 847-03041
@@ -8541,6 +8551,7 @@ id,category,brand,name
 80210672,"Bebidas, Licores y Tabacos",,Gin Dharma Spicy 750Ml
 80210673,"Bebidas, Licores y Tabacos",,Gin Dharma Citrus 750Ml
 80210674,Hogar y Electro,Tiny Tots,Guantes Tiny Varios Colores
+80210677,Hogar y Electro,Glory,Colgador D\/Ropa Infantil 5Pza
 80210678,Lácteos,,Leche De Almendra Blue Diamond Orig 1L
 80210679,Lácteos,,Leche De Almendra Blue Diamond Vain 1L
 80210684,Refrigerado y Congelado,Delizia,Postre Helado Delizia Tumbo 200 Ml
@@ -9069,6 +9080,11 @@ id,category,brand,name
 80212160,Hogar y Electro,Brinox,Olla A Presion Brinox Plata 7.5L
 80212161,Mascotas,Thor,Comida Mascota Thor Cachorros Carne 1K
 80212162,Mascotas,Thor,"Comida Masc Thor Adulto Car, Hig Y C 1K"
+80212303,Bebés y Nin@s,Karifruits,Compota Karifruits Manzana 100G
+80212304,Bebés y Nin@s,Karifruits,Compota Karifruits Manzana Banana 100G
+80212305,Bebés y Nin@s,Karifruits,Compota Karifruits Mix Frutas 100G
+80212306,Bebés y Nin@s,Karifruits,Compota Karifruits Manzana Melocot 100G
+80212307,Bebés y Nin@s,Karifruits,Compota Karifruits Manzana Pera 100G
 560500173,Bebés y Nin@s,Mattel,Autos Mattel  Hot Weels 5Gift St
 560500174,Bebés y Nin@s,Mattel,Auto Mattel Surtido Hotwheels C4982
 560500178,Bebés y Nin@s,Hasbro,Plastilina Hasbro Playdoh Picnic
