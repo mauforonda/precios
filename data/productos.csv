@@ -489,7 +489,7 @@ id,category,brand,name
 22011705,Abarrotes,Kris,Polvo Hornear Kris 57Gr
 22021187,"Snack, golosinas y galletas",El Ceibo,Gragea El Ceibo Mani 100Gr
 22030752,Abarrotes,Gourmet,Esencia Gourmet Vainilla 100Ml
-22030757,Abarrotes,Gourmet,Esencia Gourmet Vainilla 155Ml
+22030757,Abarrotes,Gourmet,Esencia Gourmet Vainilla 165Ml
 22030759,Abarrotes,Gourmet,Esencia Gourmet Vainilla 500Ml
 23024204,Refrigerado y Congelado,Mamina,Tapas P\/Empanada Mamina Grande Horno
 23024300,Refrigerado y Congelado,Rapidmasa,Tapas Pempan Rapidmasa  Chica Freir
@@ -948,6 +948,7 @@ id,category,brand,name
 40012580,Cuidado Personal,Ballerina,Jabon Liq Ballerina Avena Almen Dp 750ml
 40012581,Cuidado Personal,Ballerina,Jabon Liq Ballerina Ave &amp; Ac.Almen 350Ml
 40030600,Cuidado Personal,Nivea,Crema Nivea Creme 60Ml
+40030602,Cuidado Personal,Nivea,Gel Nivea Visage Exfoliante Suave 75Ml
 40030604,Cuidado Personal,Nivea,Crema Nivea Creme 150Ml
 40030608,Cuidado Personal,Nivea,Crema Nivea Creme 250Ml
 40030612,Cuidado Personal,Nivea,Crema Nivea Creme 400Ml
@@ -957,6 +958,7 @@ id,category,brand,name
 40030627,Cuidado Personal,Nivea,Crema Nivea Reafirmante Q10 Plus 400Ml
 40030683,Cuidado Personal,Nivea,Crema Nivea Soft 100Ml
 40030684,Cuidado Personal,Nivea,Crema Nivea Soft 200Ml
+40036465,Cuidado Personal,Loreal,Crema Revitalift Ojos 15Ml
 40050154,Cuidado Personal,Gillette,Afeitadora Gillette Mach3 4 Pzas
 40050168,Cuidado Personal,Gillette,Afeitadora Gillette Mach3 Turbo 4 Pzas
 40052100,Cuidado Personal,Bic,Afeitadora Bic Comfort Twin C\/Aloe X2
@@ -971,8 +973,10 @@ id,category,brand,name
 40072448,Cuidado Personal,Nivea,Deo Nivea Pearl Beauty Spray M 150Ml
 40072449,Cuidado Personal,Nivea,Deo Nivea Pearl Beauty Roll On M 50Ml
 40073674,Cuidado Personal,Dove,Deo Dove Original Spray M 89Gr
+40080266,Cuidado Personal,Sundown,Bloqueador J&amp;J Sundown 50 120Ml
 40092758,Cuidado Personal,Nivea,Toalla Facial Nivea Visage Seca\/Sen 25Un
 40092916,Cuidado Personal,Maybelline,Mascara Maybelline Great Lash Wp Negro
+40093162,Cuidado Personal,Loreal,Crema Revitalift R Noche Manosomas 50Ml
 40093250,Cuidado Personal,Nivea,Rotector Nivea Labios Care Med 4.8Gr
 40093521,Cuidado Personal,Veet,Cera Veet Depila Fria Menta 12Un
 41010985,Cuidado Personal,Nosotras,Toalla Fem Nosotras Buenas Noches 10Un
@@ -2234,6 +2238,7 @@ id,category,brand,name
 80155397,Lácteos,Delizia,Yogurt Delizia Silueta Frutilla 1Lt
 80155398,Lácteos,Delizia,Yogurt Delizia Silueta Vainilla 1Lt
 80155418,Bebés y Nin@s,Johnson & Johnson,Shampoo J&amp;J Fragancia Prolongada 200Ml
+80155421,Cuidado Personal,Sundown,Bloqueador J&amp;J Sundown Fps 30 200Ml
 80155422,Cuidado Personal,Sundown,Bloqueador J&amp;J Sundown Fps 50 200Ml
 80155428,Abarrotes,Gourmet,Salsa Gourmet Blanca 36Gr
 80155442,Refrigerado y Congelado,Sofia,Chorizo Sofia Churrasquero Kilo
@@ -2315,7 +2320,7 @@ id,category,brand,name
 80157689,Abarrotes,Gourmet,Crema Gourmet Camarones 50Gr
 80157691,"Bebidas, Licores y Tabacos",Gourmet,Base Gourmet Pisco Sour Mix 200Gr
 80157697,"Snack, golosinas y galletas",Gourmet,Salsa Gourmet Ajo&amp;Oregano 200Gr
-80157699,"Snack, golosinas y galletas",Gourmet,Salsa Gourmet Cheddar\/Jalapeã‘O 200G
+80157699,"Snack, golosinas y galletas",Gourmet,Salsa Gourmet Cheddar\/Jalapeno 200G
 80157700,"Snack, golosinas y galletas",Gourmet,Salsa Gourmet Yogurt&amp;Ciboulette 200Gr
 80157701,Abarrotes,Gourmet,Esencia Gourmet Cola De Mono 100Ml
 80157702,Abarrotes,Gourmet,Esencia Gourmet Pan De Pascua 60Ml
@@ -2488,6 +2493,7 @@ id,category,brand,name
 80163474,Cuidado Personal,Plusbelle,Jabon Plusbelle Humectacion 3X120Gr
 80163568,Aseo y Limpieza,Renuzit,Ambientador Renuzit Fresh Lavender 198Gr
 80163582,Refrigerado y Congelado,Sofia,Sofipocas Sofia De Pollo 300Gr
+80163609,Cuidado Personal,Profusion,Brocha Profusion B-836
 80163629,"Bebidas, Licores y Tabacos",Pil,Te Helado Pil Refresca T Lim&amp;Can Lig 2Lt
 80163658,Bebés y Nin@s,Hasbro,Muneco Hasbro Vengadores Mini Hab1686
 80163668,Cuidado Personal,Plusbelle,Acond Plusbelle Antioxidante 1Lt
@@ -2502,6 +2508,7 @@ id,category,brand,name
 80164002,Abarrotes,Kelloggs,Granola Kelloggs Almen&amp;Coco 310Gr
 80164035,Aseo y Limpieza,Ola,Bolsa Ola P\/Basura 70X75Cm 50Lt 10Un
 80164445,Abarrotes,Fino,Aceite Fino Mental Activ 4.5Lt
+80164459,Cuidado Personal,Loreal,Crema Loreal Revit Acc Int Cuid Dia 50Ml
 80164462,,Maybelline,Base Maybe Dream Fresh Bb Light 30Ml
 80164483,"Bebidas, Licores y Tabacos",Del Valle,Jugo  Del Valle Manzana 1L
 80164493,Cuidado Personal,Gama,Alisador Gama Cp1 Nova Tourmal Ion Plus
@@ -2955,6 +2962,7 @@ id,category,brand,name
 80175708,Abarrotes,Maggi,Crema Maggi De Esparragos 68G
 80175739,Hogar y Electro,,Bolsa Regalo Navidad Bol10444
 80175743,Hogar y Electro,,Bolsa Regalo Navidad Boln10215
+80175831,Cuidado Personal,Sin Marca,Brocha Palladio Polvos  787002
 80175839,Panadería y Pastelería,La Francesa,Paneton La Francesa Extra Fino 610Gr Cja
 80175842,Cuidado Personal,Colgate,Enj Bucal Colgate Luminous White 500Ml
 80175893,Aseo y Limpieza,Igenix,Pastilla Igenix Desinfectante 48Gr
@@ -3793,8 +3801,8 @@ id,category,brand,name
 80190066,Hogar y Electro,,Adorno Maranelo Navideno  34-21
 80190067,Hogar y Electro,,Adorno Maranelo Navideno  34-11
 80190069,Hogar y Electro,,Adorno Maranelo Navideno  34-35
-80190077,,Maybelline,Labial Superstay 40 Violeta Oscuro 5Ml
-80190078,,Maybelline,Labial Superstay 35 Violeta 5Ml
+80190077,Cuidado Personal,Maybelline,Labial Superstay 40 Violeta Oscuro 5Ml
+80190078,Cuidado Personal,Maybelline,Labial Superstay 35 Violeta 5Ml
 80190082,Cuidado Personal,Maybelline,Labial Superstay 15 Coral 5Ml
 80190083,Cuidado Personal,Maybelline,Labial Superstay 20 Rojo 5Ml
 80190085,Cuidado Personal,Maybelline,Labial Superstay 50 Vino Rojo 5Ml
@@ -4963,6 +4971,9 @@ id,category,brand,name
 80199099,Aseo y Limpieza,Qingdao,Guantes De Latex Talla M Caja 100Un
 80199100,Aseo y Limpieza,Qingdao,Guantes De Latex Talla L Caja 100Un
 80199110,Abarrotes,Hindu,Te Negro Hindu Chai 50Un
+80199120,Cuidado Personal,Revitalift,Pack Revitalift Dia+Noche Fps30
+80199121,Cuidado Personal,Age Perfect,Pack Age Perfect Dia+Noche
+80199122,Cuidado Personal,Ht5,Pack Ht5 Antiarrugas 35 Anos+ Micelar 20
 80199136,Hogar y Electro,Eveready,Pila Alcalina Eveready Aaax2
 80199137,Hogar y Electro,,Pila Alcalina Eveready Aaax4
 80199138,Hogar y Electro,,Pila Alcalina Eveready Aaax6
@@ -5158,6 +5169,7 @@ id,category,brand,name
 80200078,"Bebidas, Licores y Tabacos",San Miguel,Cerveza Matilda Ipa 330Ml
 80200105,Cuidado Personal,Remington,Afeitador Remington Power Seri A Pr1342
 80200106,Cuidado Personal,Remington,Afeitadora Remington Rotativa Hyperflex
+80200114,Cuidado Personal,Loreal,Crema Facial Loreal Hialuronic Noch 50Ml
 80200124,Cuidado Personal,Recamier,Gel Antibacterial Recamier Aloe 300Ml
 80200125,Cuidado Personal,Recamier,Gel Antibacterial Recamier Aloe 100Ml
 80200127,Cuidado Personal,Recamier,Spray Antibacterial Recamier Aloe 120Ml
@@ -5977,6 +5989,7 @@ id,category,brand,name
 80202960,"Bebidas, Licores y Tabacos",Cordillera,Cerveza Cordillera Lata 473Ml
 80202961,"Bebidas, Licores y Tabacos",Guarana Antartica,Gaseosa Antartica Guarana 3Lt
 80202962,"Bebidas, Licores y Tabacos",Keep Cooler,Bebida Keep Cooler Uva 275Ml
+80202965,Cuidado Personal,Johnson & Johnson,Bloqueador J&amp;J Sundown 70 120Ml
 80202974,Abarrotes,Pop,Quinua Insuflada Pop Miel 155G
 80202978,Abarrotes,Knorr,Crema Knorr Champinon 64G
 80202982,Hogar y Electro,La Razon,Periodiquito La Razon Alasitas
@@ -5989,14 +6002,15 @@ id,category,brand,name
 80202998,Panadería y Pastelería,Churquisbakery,Croissant Churquisbakery Clasico 240Gr
 80203004,Abarrotes,Dani,Trozos De Calamar Dani En Su Tinta 106G
 80203005,"Snack, golosinas y galletas",Air Heads,Masticable Airheads Bites 57Gr
+80203018,Cuidado Personal,Garnier,Gel Exfoliante Garnier Carbon   150 Ml
 80203019,Cuidado Personal,Maybelline,Base Superstay Maybellin Light 118 30 Ml
-80203020,,Maybelline,"Iluminador Master Maybe Rose Gold 6,7 Gr"
+80203020,Cuidado Personal,Maybelline,Iluminador Master Maybe Rose Gold 6.7 Gr
 80203021,Cuidado Personal,Maybelline,Corrector Maybelli Stay Caramelo#40 7 Ml
 80203022,,Maybelline,Corrector Maybelline Stay Light#15 7 Ml
 80203023,Cuidado Personal,Maybelline,Corrector Mayb Stay Light Medium#18 7 Ml
 80203024,Cuidado Personal,Maybelline,Corrector Maybelline Medium#25 7 Ml
 80203025,Cuidado Personal,Maybelline,Corrector Maybelline Sand Sable#20 7 Ml
-80203026,,Maybelline,Polvo Superstay Mayb Buff Beige#130 6 Gr
+80203026,Cuidado Personal,Maybelline,Polvo Superstay Mayb Buff Beige#130 6 Gr
 80203027,Cuidado Personal,Maybelline,Polvo Superstay Maybellin Ivori#120 6 Gr
 80203028,,Maybelline,Polvo Superstay Maybelli Golden#312 6 Gr
 80203029,Cuidado Personal,Maybelline,Polvo Superstay Maybel Caramelo#312 6 Gr
@@ -6008,7 +6022,7 @@ id,category,brand,name
 80203035,Cuidado Personal,Remington,Secadora Remington Pro Titanium D3019 (2
 80203036,Cuidado Personal,Maybelline,Gel Ceja Mybell Tatoo Blonde 250 6.8 Ml
 80203037,Cuidado Personal,Maybelline,Gel Ceja Mybell Tatoo Deep Brown 260 6.8
-80203038,,Maybelline,"Gel Ceja Mybe Tatoo Medium Brown#257 6,8"
+80203038,Cuidado Personal,Maybelline,Gel Ceja Mybe Tatoo Medium Brown 257 6.8
 80203055,Cuidado Personal,Protex,Jabon Protex Duo Protect 3X110Gr
 80203056,Abarrotes,Froot Loops,Cereal Froot Loops  350Gr
 80203071,"Bebidas, Licores y Tabacos",Pacena,Cerveza Pacena Con Botella Incluid 235Ml
@@ -6094,12 +6108,15 @@ id,category,brand,name
 80203278,Abarrotes,Gourmet,Sazonador Gourmet Guacamole 28Gr
 80203279,Abarrotes,Gourmet,Decoracion Gorumet Corazones Multi 80Gr
 80203281,Abarrotes,Gourmet,Base Gorumet P\/Ceviche
-80203283,Abarrotes,Gourmet,Premezcla Gourmet P\/Galletas Chips 420Gr
+80203282,Abarrotes,Gourmet,Premezcla Gourmet P\/Galletas Vaini 420Gr
+80203283,Abarrotes,Gourmet,Premezcla Gourmet P\/Galletas Chips 450Gr
 80203284,Abarrotes,Gourmet,Mezcla Gorumet P\/Queque Chips Choc 450Gr
 80203285,Abarrotes,Gourmet,Chips Gourmet Chocolate 200Gr
 80203286,Abarrotes,Gourmet,Confetti Gourmet Multicolor 80Gr
 80203287,Abarrotes,Gourmet,Decoracion Gourmet Fiesta 80Gr
 80203288,Abarrotes,Gourmet,Fondant Gourmet En Polvo 200Gr
+80203289,Abarrotes,Gourmet,Cobertura Gourmet Choco Leche 500Gr
+80203290,Abarrotes,Gourmet,Cobertura Gourmet Choco Bco 500Gr
 80203291,Abarrotes,Gourmet,Salsa Gourmet P\/Carne 30Gr
 80203292,"Snack, golosinas y galletas",Gourmet,Salsa Gourmet D\/Queso
 80203293,"Snack, golosinas y galletas",Gourmet,Salsa Gourmet P\/Untar Ceb Carm Y Ajo 200
@@ -6414,21 +6431,21 @@ id,category,brand,name
 80204787,,Maybelline,Polvo Matte Maybelline Fitme 235 12G
 80204788,,Maybelline,Labial Supstay Mayb. Matte Ink #260 5Ml
 80204789,Cuidado Personal,Maybelline,Labial Supstay Mayb. Matte Ink #255 5Ml
-80204790,,Maybelline,Labial Supstay Mayb. Matte Ink #265 5Ml
+80204790,Cuidado Personal,Maybelline,Labial Supstay Mayb. Matte Ink #265 5Ml
 80204791,Cuidado Personal,Maybelline,Labial Supstay Mayb. Matte Ink #270 5Ml
 80204792,Cuidado Personal,Maybelline,Labial Supstay Mayb. Matte Ink #275 5Ml
 80204793,,Maybelline,Labial Supstay Mayb. Matte Ink #280 5Ml
 80204794,,Maybelline,Labial Crayon Mayb. Matte Ink #20 12G
 80204795,,Maybelline,Labial Crayon Mayb. Matte Ink #65 12G
 80204796,Cuidado Personal,Maybelline,Labial Crayon Mayb. Matte Ink #40 12G
-80204797,,Maybelline,Labial Crayon Mayb. Matte Ink #35 12G
+80204797,Cuidado Personal,Maybelline,Labial Crayon Mayb. Matte Ink #35 12G
 80204798,Cuidado Personal,Maybelline,Labial Crayon Mayb. Matte Ink #30 12G
 80204799,,Maybelline,Labial Crayon Mayb. Matte Ink #60 12G
 80204800,Cuidado Personal,Maybelline,Labial Crayon Mayb. Matte Ink #15 12G
 80204801,Cuidado Personal,Maybelline,Labial Crayon Mayb. Matte Ink #50 12G
 80204802,,Maybelline,Labial Crayon Mayb. Matte Ink #255 12G
 80204803,,Maybelline,Masc. Pestana Mayb. Fals Lash Mask 10 M
-80204821,,Maybelline,Labial Crayon Mayb. Matte Ink #55 12G
+80204821,Cuidado Personal,Maybelline,Labial Crayon Mayb. Matte Ink #55 12G
 80204822,"Snack, golosinas y galletas",El Yuromeno,Mix Frutas El Yurumeno Deshidrat 120G
 80204824,"Snack, golosinas y galletas",El Yuromeno,Manzana V El Yurumeno Deshidratada 40G
 80204832,"Bebidas, Licores y Tabacos",Taquina,Bebida Taquina Chicha 354Ml
@@ -6894,6 +6911,7 @@ id,category,brand,name
 80206698,Cuidado Personal,Tio Nacho,Shampoo Tio Nacho Dp Aclarante 400 Ml
 80206699,Cuidado Personal,Tio Nacho,Shampoo Tio Nacho Dp Herbolaria 400Ml
 80206700,Cuidado Personal,Tio Nacho,Shampoo Tio Nacho Dp Engrosador 400Ml
+80206701,Cuidado Personal,Cicatricure,Oil Cicatricure Anti Estrias 50 Ml
 80206702,Aseo y Limpieza,Downy,Enjuague Downy Elegance 750 Ml
 80206704,Aseo y Limpieza,Downy,Enjuague Downy Elegance 2600 Ml
 80206706,Lácteos,Pil,Sv3 Leche Con Cafe X 800 Ml.
@@ -6901,8 +6919,11 @@ id,category,brand,name
 80206714,"Bebidas, Licores y Tabacos",Real,Cerveza Real Lager Lata 4X3 473 Ml
 80206715,"Bebidas, Licores y Tabacos",Real,Malta Real Bipackpromo Lata  350 Ml
 80206716,Cuidado Personal,Cicatricure,Crema Antiarrugas Cicatricure  30 Gr
+80206717,Cuidado Personal,Cicatricure,Gel Cicatrizante Cicatricure  30 Gr
+80206718,Cuidado Personal,Cicatricure,Roll On Ojos Cicatricure  15 Ml
+80206719,Cuidado Personal,Cicatricure,Contorno Blur&amp;Filler Cicatricure  15 Gr
 80206720,Cuidado Personal,Cicatricure,Beauty Care Cicatricure  50 Gr
-80206722,Cuidado Personal,,Serum Antimanchas Cicatricure  15Ml
+80206722,Cuidado Personal,Cicatricure,Serum Antimanchas Cicatricure  15Ml
 80206723,Cuidado Personal,Cicatricure,Crema  Antimanchas Cicatricure  50 Gr
 80206724,Cuidado Personal,, Age Care Cicatricure Humectante 50 Ml
 80206725,Cuidado Personal,, Age Care Cicatricure Aclarante 50 Ml
@@ -9046,6 +9067,7 @@ id,category,brand,name
 80211839,Bebés y Nin@s,Huggies,Toallas Humedas Huggies Max Clean 100Un
 80211848,"Bebidas, Licores y Tabacos",,Vino Salvaje Cabernet Sauvignon 750Ml
 80211872,"Bebidas, Licores y Tabacos",Stolichnaya,Pack Stolichnaya + Mug Cobre 1Lt
+80212016,Cuidado Personal,Mny,Gel Loreal Hidra Hialuronico 150 Ml
 80212060,Abarrotes,Van Camps,Pack2 Atun Van Camps +Chocl Cajamar 538G
 80212067,Lácteos,Apego,To Go Apego Avellana 300Ml
 80212071,"Snack, golosinas y galletas",Edeka,Galletas Edeka Mantequilla 125G
@@ -9086,6 +9108,12 @@ id,category,brand,name
 80212305,Bebés y Nin@s,Karifruits,Compota Karifruits Mix Frutas 100G
 80212306,Bebés y Nin@s,Karifruits,Compota Karifruits Manzana Durazno 100G
 80212307,Bebés y Nin@s,Karifruits,Compota Karifruits Manzana Pera 100G
+80212314,Hogar y Electro,Brinox,Wok Brinox Chilli Prata 28Cm 4.1L
+80212315,Hogar y Electro,Brinox,Wok Brinox C\/Tapa Chilli Prata  28Cm 4.1
+80212316,Hogar y Electro,Brinox,Wok Brinox Chilli Cherry 28Cm 4.1L
+80212317,Hogar y Electro,Brinox,Wok Brinox Chilli Cherry 24Cm 2.3L
+80212318,Hogar y Electro,Brinox,Wok Brinox C\/ Tapa Terracota 28Cm 3.55L
+80212319,Hogar y Electro,Brinox,Wok Brinox C\/ Tapa Negro 28Cm 3.55L
 560500173,Bebés y Nin@s,Mattel,Autos Mattel  Hot Weels 5Gift St
 560500174,Bebés y Nin@s,Mattel,Auto Mattel Surtido Hotwheels C4982
 560500178,Bebés y Nin@s,Hasbro,Plastilina Hasbro Playdoh Picnic
