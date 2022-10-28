@@ -927,8 +927,11 @@ id,category,brand,name
 37100748,Aseo y Limpieza,Ober,Pano Ober P\/Piso Plomo 60X50Cm
 37101088,Aseo y Limpieza,Scotch Brite,Pano Scotch Brite X3 Absorbente
 37103140,Aseo y Limpieza,Clorinda,Escobillon Clorinda Con Mango Interior
+38010027,Cuidado Personal,Pantene,Shampoo Pantene Pro-V Rizos 400Ml                           
+38010033,Cuidado Personal,Pantene,Shampo Pantene Pro-V Control Caida 400Ml                    
 38011196,Bebés y Nin@s,Johnson &amp; Johnson,Shampoo Johnson &amp; Johnson Clasico 200Ml
 38011200,Bebés y Nin@s,Johnson &amp; Johnson,Shampoo Johnson&amp;Johnson Manzanilla 400Ml
+38011642,Cuidado Personal,Pantene,Shampoo Pantene Pro-V Extra Liso 400Ml                      
 38011965,Cuidado Personal,Elvive,Shampoo Elvive Color Vive C Tenido 400Ml
 38011973,Cuidado Personal,Elvive,Acondicionador Elvive Color Vive 400Ml
 38012162,Cuidado Personal,Selfy,Shampoo Selfy Huevo 1000Ml
@@ -1172,6 +1175,11 @@ id,category,brand,name
 71012888,Aseo y Limpieza,Archer,Quitasarro Archer 550Cc Pato
 71012893,Aseo y Limpieza,Archer,Desatorador Archer  2 Lt
 71012903,Aseo y Limpieza,Archer,Cera Archer Sachet Amarilla 500Gr
+71013029,Cuidado Personal,Capilatis,Shampoo Capilatis Brillo Extremo 420Ml                      
+71013030,Cuidado Personal,Capilatis,Shampoo Capilatis Ortiga Cabsecos 410Ml                     
+71013031,Cuidado Personal,Capilatis,Shampoo Capilatis Ortiga Cab Caspa 410Ml                    
+71013035,Cuidado Personal,Capilatis,Shampoo Capilatis Ortiga Cab Graso 410Ml                    
+71013036,Cuidado Personal,Capilatis,Shampoo Capilatis Ortiga Tratante 410Ml                     
 71013176,Abarrotes,Fragata,Aceite Oliva Pomace Fragata Pet 1000 Ml
 71013180,Abarrotes,Dani,Mejillones Dani En Escabeche 111G
 71013206,Aseo y Limpieza,Scotch Brite,Esponja Scotch Brite Metalica 1X160
@@ -1202,6 +1210,7 @@ id,category,brand,name
 71016221,"Snack, golosinas y galletas",Vizzio,Chocolate Vizzio Display 72Gr
 71016352,Panadería y Pastelería,La Francesa,Pan La Francesa  Molde Integ Nat
 71016353,Panadería y Pastelería,La Francesa,Pan La Francesa 10Un Integral Nat
+71016395,Cuidado Personal,Capilatis,Shampoo Capilatis Hombre Platinum 370Ml                     
 71016480,Lácteos,Pil,Leche Pil Con Avena Uht 800Ml
 71016495,Vinos,Trivento,Vino Trivento Mixtus Caber-Merlot 750 Ml
 71016496,Vinos,Trivento,Vino Trivento Mixtus Merlot-Malbec 750Ml
@@ -1233,6 +1242,7 @@ id,category,brand,name
 71018678,Productos frescos,Ricappa,Papas Ricapapa Roja Gourmet Por Kilo
 71018685,Cuidado Personal,Lady Speed Stick,Deo Lady Speed Stick Floral Barra 45Gr
 71018747,Aseo y Limpieza,Ola,Lavavajilla Ola Limon Spring 1050Ml
+71018757,Cuidado Personal,Capilatis,Shampoo Capilatis Ortiga Mujer 350Ml                        
 71018789,Lácteos,Vida Sana,Leche Vida Sana 1Lt Natural Vegetal Uht
 71018790,Lácteos,Vida Sana,Leche Vida Sana 1Lt Choco Veget
 71018863,Panadería y Pastelería,Leo Nothmann,Paneton Leo Nothmann Noche B. 600Gr
@@ -1269,8 +1279,10 @@ id,category,brand,name
 71021907,Hogar y Electro,Tiny Tots,Cartera Tiny 2 Piezas Dif. Modelos
 71021909,Refrigerado y Congelado,Stege,Jamon Stege Kg Candiense
 71021910,Abarrotes,Campo Verde,Palmito Campo Verde Frasco Vidrio 410Gr
+71021939,Cuidado Personal,Capilatis,Shampoo Capilatis Ilum Puro Rubio 420Ml                     
 71021976,Abarrotes,Kelloggs,Cereal Zucaritas 730G
 71021977,Abarrotes,Kelloggs,Cereal Kelloggs Corn Flakes 350Gr
+71022043,Cuidado Personal,Pantene,Shamp Pantene Pro-V Brillo Extremo 400Ml                    
 71022093,Hogar y Electro,Tilibra,Etiquetas Adhe Tilibra  Cart Jolie 12Un
 71022099,Hogar y Electro,Bic,Pegamento Bic 90Gr Blanco
 71022117,Hogar y Electro,Bic,Lapiz Bic  Evolution Pijama Hb2 X12Un
@@ -1426,6 +1438,7 @@ id,category,brand,name
 80000114,Hogar y Electro,Tilibra,Cuaderno Univ Tilibr Spiral Supr Max 96H
 80000121,Hogar y Electro,Tilibra,Etiquetas Adhesivas Tilibra Red Nose X12
 80000316,Cuidado Personal,Nivea,Jabon Nivea Tripack Hinojo Y Aceites 85G
+80000346,Cuidado Personal,Pantene,Shampoo Pantene Pro-V Restaura 400Ml                        
 80000350,"Bebidas, Licores y Tabacos",Pil,Juguito Pil Pina Tetra Clasic 150 Ml
 80000468,"Snack, golosinas y galletas",Mogul,Gomitas Mogul Gusanitos Acidos 500Gr
 80000574,"Snack, golosinas y galletas",Crick,Galleta Crick Cracker Fibra 250Gr
@@ -1438,6 +1451,7 @@ id,category,brand,name
 80000734,"Snack, golosinas y galletas",Schogetten,Chocolate Schogetten Pasta\/Avellana 100G
 80000743,Abarrotes,La Suprema,Fideo La Suprema 1 Kg
 80000745,Abarrotes,La Suprema,Fideo Suprema Nidos 400Gr
+80000815,Cuidado Personal,Capilatis,Shampoo Capilatis + Concentrado Ortiga                      
 80001024,Productos frescos,Fruver,Coco Por Unidad
 80001026,"Snack, golosinas y galletas",El Ceibo,Conejo De Chocolate El Ceibo Conny 80G
 80001027,"Snack, golosinas y galletas",El Ceibo,Huevo De Chocolate El Ceibo Dinovo 40G
@@ -1466,6 +1480,7 @@ id,category,brand,name
 80003874,"Bebidas, Licores y Tabacos",Powerade,Hidratante Powerade Multi Fruta 473Ml
 80003975,Refrigerado y Congelado,,Filete Trucha Titikaka Indiv Aprox 500Gr
 80003978,Refrigerado y Congelado,,Filete Trucha Tk Ahumada En Frio 125Gr
+80003986,Cuidado Personal,Capilatis,Shampoo Capilatis Ortiga Cab Finos 410Ml                    
 80004005,Refrigerado y Congelado,Prosana,Hamburguesa Prosana D\/Lenteja 4Und
 80004006,Refrigerado y Congelado,Prosana,Hamburguesa Prosana D\/Soya C\/Queso 4Und
 80004292,Hogar y Electro,Magefesa,Termoventilador Mgf Siskin Model 1237
@@ -1842,6 +1857,7 @@ id,category,brand,name
 80143586,"Snack, golosinas y galletas",Para Ti,Chocolate Para Ti Tableta C\/Leche 100Gr
 80143596,Abarrotes,Carbonell,Aceite Oliva Carbonell Virgen Mezq 750Ml
 80143604,Cuidado Personal,Dove,Tripack Dove Jabon Original 3X90Gr
+80143611,Cuidado Personal,Dove,Shampoo Dove Control Queda 400Ml                            
 80143613,Cuidado Personal,Dove,Acondicionador Dove Control Queda 400Ml
 80143629,Mascotas,Pet Shop,Hueso Pet Shop P\/Perro Comestib Dob Mini
 80143630,Mascotas,Pet Shop,Hueso Pet Shop P\/Perro Comestible Pequen
@@ -1857,6 +1873,8 @@ id,category,brand,name
 80143940,"Bebidas, Licores y Tabacos",Real,Cerveza Real Pilsener Lata 350Ml
 80143964,Hogar y Electro,Ika,Sandwichera Ika Ika-40Y
 80144138,Aseo y Limpieza,Sapolio,Ambient. Sapolio Pulso+Rpto Lavanda 12Ml
+80144196,Cuidado Personal,Clear,Shampo Clear Men Ice Cool Menthol 400Ml                     
+80144197,Cuidado Personal,Clear,Shampo Clear Men Caida Control 400Ml                        
 80144198,Cuidado Personal,Clear,Shampo Clear Men 2En1 Dual Effect 400Ml
 80144233,Bebés y Nin@s,Barbie,Muneca Barbie 2 Hermanas 3284
 80144253,Cuidado Personal,Casting,Crema Col Casting Gloss 300 Castano Oscu
@@ -1978,6 +1996,9 @@ id,category,brand,name
 80149267,Bebés y Nin@s,Pequenin,Toa Hum Pequenin Pure Skin X 80Un
 80149269,Abarrotes,Van Camps,Atun Van Camps Lomitos Aceite 184G
 80149273,Abarrotes,,Atun Van Camps Lomitos Agua 184G
+80149387,Cuidado Personal,Herbal,Shampoo Herbal Curvas Peligrosas 300Ml                      
+80149392,Cuidado Personal,Herbal,Shampoo Herbal Prolongado 300Ml                             
+80149393,Cuidado Personal,Herbal,Shampoo Herbal Alborotalo 300Ml                             
 80149426,"Snack, golosinas y galletas",Manitoba,Mani Manitoba Japones 150Gr
 80149434,"Snack, golosinas y galletas",Manitoba,Pistachos Manitoba 35Gr
 80149435,"Snack, golosinas y galletas",Manitoba,Pistachos Manitoba 85Gr
@@ -2003,6 +2024,7 @@ id,category,brand,name
 80150140,Bebés y Nin@s,Clementoni,Muneca Clementoni Didac Minnie Cl65347
 80150185,Productos frescos,Sofia,Matambre Sofia De Cerdo En Bandeja Kg
 80150254,Cuidado Personal,Gillette,Afeitadora Gillette Prestobar3 Ice 2Un
+80150257,Cuidado Personal,Herbal,Shampoo Herbal Ess Endulz C\/Fuerza 300Ml                    
 80150269,Aseo y Limpieza,Nacional,Haragan De Goma Nacional Para Piso
 80150401,Lácteos,,Queso Flor De Leche Florandino 250Gr
 80150404,Quesos,Flor De Leche,Queso Flor De Leche Criollo Prensa 500Gr
@@ -2022,6 +2044,8 @@ id,category,brand,name
 80150755,Lácteos,Pil,Leche Pil Entera 3 Uht 946Ml
 80150791,"Bebidas, Licores y Tabacos",Havana Club,Ron Havana Club Anejo Especial 1L
 80150851,Hogar y Electro,Ika,Caldera Ika Electrica He-9970
+80151072,Cuidado Personal,Herbal,Shampoo Herbal Curvas Peligrosas 700Ml                      
+80151074,Cuidado Personal,Herbal,Shampoo Herbal Prolongalo 700Ml                             
 80151082,Aseo y Limpieza,Elite,Servilleta Elite Coctel 400Un
 80151106,Productos frescos,,Oca Ricapapa Por Kilo
 80151112,Abarrotes,B&R Foods,Salsa Byr Foods P\/Hamburguesa 250Gr
@@ -2208,6 +2232,7 @@ id,category,brand,name
 80154516,Productos frescos,Ketal,Punta De S Al Vacio Ketal Kg
 80154545,Cuidado Personal,Tresemme,Acond Tresemme Keratin Inf.Quera 750Ml
 80154555,Cuidado Personal,Tresemme,Shampoo Tresemme Keratin Inf.Quera 400Ml
+80154561,Cuidado Personal,Tresemme,Shampoo Tresemme Keratin Inf.Quera 750Ml                    
 80154562,Cuidado Personal,Tresemme,Acond Tresemme Keratin Con.Caida 400Ml
 80154590,Abarrotes,Kris,Ketchup Kris Doypack 500Gr
 80154591,Abarrotes,Kris,Mostaza Kris Doypack 500Gr
@@ -2385,6 +2410,7 @@ id,category,brand,name
 80157954,Hogar y Electro,Thomson,Vajilla Thomson Bali Green 16Pz 202255
 80157967,Refrigerado y Congelado,Cabrera,Helado Cabrera Yog Natural 1\/2Lt
 80157991,Cuidado Personal,Lux,Jabon Lux Rosas Francesas 3X125Gr
+80157992,Cuidado Personal,Tresemme,Shampoo Tresemme Blindaje Platinum 750Ml                    
 80157998,Cuidado Personal,Foramen,Cepillo Dent Foramen F-30 Tynex Duro 2X1
 80157999,Cuidado Personal,Foramen,Cepillo Dent Foramen F-30 Tynex Med 2X1
 80158003,Refrigerado y Congelado,Sofia,Milanesa Sofia Cordon Bleu 600Gr
@@ -2517,6 +2543,7 @@ id,category,brand,name
 80163101,"Bebidas, Licores y Tabacos",Johnnie Walker,Whisky Johnnie Walker Double Black 1Lt
 80163120,Hogar y Electro,Bosch,Batidora Bosch 350W 4Vel Mfq3030
 80163140,"Bebidas, Licores y Tabacos",Four Loko,Bebida Four Loko Uva 695Ml
+80163156,Cuidado Personal,Capilatis,Shampoo Capilatis C\/Keratina 350Ml                          
 80163174,Refrigerado y Congelado,Sofia,Salchicha Sofia Res  Al Vacio 14 Cm
 80163196,Abarrotes,Coffee Mate,Cafe Coffee Mate Orig V 200Gr
 80163212,"Snack, golosinas y galletas",Annas,Galleta Annas Ginger Thins Org 150G
@@ -2691,6 +2718,8 @@ id,category,brand,name
 80168657,Aseo y Limpieza,Amor,Suavizante Amor Bebe 1950Ml
 80168666,Aseo y Limpieza,Amor,Suavizante Amor Lavanda 1950Ml
 80168685,Cuidado Personal,Gillette,Afeitadora Gillette Prestobar3 Sens 2Un
+80168687,Cuidado Personal,Herbal,Shampoo Herbal Desnudo Brillo 300Ml                         
+80168688,Cuidado Personal,Herbal,Shampoo Herbal Desnudo Hidrata 300Ml                        
 80168691,Cuidado Personal,Herbal,Crema Pei Herbal Desnudo Hidrata 300Ml
 80168721,Carnavales Ketal,Adrimex,Set Barba Y Bigote Adrimex 1Pza
 80168726,Carnavales Ketal,Adrimex,Sombrero Adrimex Maceta
@@ -2719,6 +2748,7 @@ id,category,brand,name
 80169581,"Snack, golosinas y galletas",Bloch,Maiz Pipoca Bloch 400Gr
 80169584,Abarrotes,Hindu,Te Hindu Esvelta Frutos Rojos 20Un
 80169585,"Bebidas, Licores y Tabacos",Hindu,Ice Tea Hindu Frutos Rojos 300Gr
+80169597,Cuidado Personal,Dove,Shampoo Dove Oleo Nutricion 650Ml                           
 80169643,Refrigerado y Congelado,Mendia,Tapas Empanadas Mendia Freir 390Gr
 80169647,Refrigerado y Congelado,Mendia,Ravioles Mendia Ricota Espinaca 500Gr
 80169649,Refrigerado y Congelado,Mendia,Ravioles Mendia Ricota Jamon 500Gr
@@ -2775,6 +2805,9 @@ id,category,brand,name
 80170960,"Bebidas, Licores y Tabacos",Frutall,Combo  2 Unidades Jugo Frut-All  1 Lt
 80171291,"Bebidas, Licores y Tabacos",La Republica,Ginebra La Republica Amazonica 700 Ml
 80171370,Cuidado Personal,Sedal,Shampoo Sedal Caspa 2En1 340Ml
+80171372,Cuidado Personal,Sedal,Shampoo Sedal Reconstruccion Inst 340Ml                     
+80171373,Cuidado Personal,Sedal,Shampoo Sedal Liso Perfecto 340Ml                           
+80171376,Cuidado Personal,Sedal,Shampoo Sedal Ceramidas 650Ml                               
 80171379,Cuidado Personal,Sedal,Acond Sedal Rizos Obedientes 340Ml
 80171424,Cuidado Personal,Remington,Secadora Remington Pro Silk Ac9096
 80171425,Cuidado Personal,Remington,Secadora Remington Styli C\/Dif D-3015
@@ -2789,6 +2822,8 @@ id,category,brand,name
 80171474,Mascotas,Procao,Colonia Procao Mascota Macho 120Ml
 80171620,Abarrotes,Maggi,Caldo Maggi Pollo 75.2Gr
 80171621,Abarrotes,Maggi,Caldo Maggi Carne 72.2Gr
+80171690,Cuidado Personal,Sedal,Shampoo Sedal Reconstruc Instant 650Ml                      
+80171692,Cuidado Personal,Sedal,Shampoo Sedal Liso Perfecto 650Ml                           
 80171815,Panadería y Pastelería,Ketal,Queque Ketal Marmolado Un
 80171816,Panadería y Pastelería,Ketal,Queque Ketal Chips De Chocolate Un
 80171832,Refrigerado y Congelado,Sofia,Chorizo Sofia Churrasquero Al Vacio 1Kilogram
@@ -2812,6 +2847,7 @@ id,category,brand,name
 80172056,Refrigerado y Congelado,Extra,Sv Combo Completo Extra
 80172069,Refrigerado y Congelado,Mendia,Noquis Mendia De Papa 500Gr
 80172076,"Bebidas, Licores y Tabacos",Reaktor,Energizante Reaktor 350Ml
+80172085,Cuidado Personal,Sedal,Shampoo Sedal Rizos 340Ml                                   
 80172093,Bebés y Nin@s,Johnson &amp; Johnson,Shampoo Johnsons Gotas De Brillo 200Ml
 80172094,Bebés y Nin@s,Johnson &amp; Johnson,Spray Johnsons Gotas De Brillo 200Ml
 80172095,Bebés y Nin@s,Johnson &amp; Johnson,Acond Johnsons Gotas De Brillo 200Ml
@@ -2823,6 +2859,7 @@ id,category,brand,name
 80172133,Aseo y Limpieza,Arom,Ambientador Arom Vainilla\/Coco 190Gr
 80172134,Aseo y Limpieza,Arom,Ambientador Arom Sandia\/Melon 190Gr
 80172136,Aseo y Limpieza,Arom,Ambientador Arom Manzana\/Canela 190Gr
+80172162,Cuidado Personal,Sedal,Shampoo Sedal Ceramidas 340Ml                               
 80172177,Bebés y Nin@s,Alpina,Compota Alpina Durazno 113Gr
 80172178,Bebés y Nin@s,Alpina,Compota Alpina Manzana 113Gr
 80172480,"Snack, golosinas y galletas",Manitoba,Pack 3X2 Pistachos Manitoba 3X85G
@@ -2879,6 +2916,9 @@ id,category,brand,name
 80173337,Abarrotes,Deymas,Champinones Deymas Enteros 425Gr
 80173341,Cuidado Personal,Nivea,Deo Nivea Aclarado Natural Barra 43Gr
 80173344,"Bebidas, Licores y Tabacos",Prost,Cerveza Prost Dunkel 500Ml
+80173357,Cuidado Personal,Vitane,Shampoo Vitane Restauracion 6 En 1 400Ml                    
+80173359,Cuidado Personal,Vitane,Shampoo Vitane Anticaida Mujer 400Ml                        
+80173361,Cuidado Personal,Vitane,Shampoo Vitane Color Safe 400Ml                             
 80173369,Cuidado Personal,Vitane,Gel Vitane Max Extrem Control 250Gr
 80173372,Cuidado Personal,Vitane,Gel Vitane Max Extrem Control 500Gr
 80173404,Cuidado Personal,Bellacoton,Discos Bellacotton D\/Algodon 100Un
@@ -2985,6 +3025,7 @@ id,category,brand,name
 80174557,Aseo y Limpieza,Ola,Suavizante Ola Sensaciones 1.8L
 80174580,Cuidado Personal,Tena,Panal Tena Slip Medium 9Un
 80174581,Cuidado Personal,Tena,Panal Tena Slip Large 21Un
+80174595,Cuidado Personal,Sedal,Shampoo Sedal Miel Germen De Trigo 340Ml                    
 80174611,Hogar y Electro,Termolar,Maxi Termo Termolar Rojo 12Lt
 80174613,Hogar y Electro,Termolar,Maxi Termo Termolar Azul 12Lt
 80174614,Hogar y Electro,Termolar,Super Termo Termolar Azul 5Lt
@@ -3306,6 +3347,7 @@ id,category,brand,name
 80180592,Abarrotes,Sin Marca,Sv 3X2 Cereal Zucaritas 3X300G
 80180603,Abarrotes,Sin Marca,Pack 3X2 Pudin Kris Chocolate 113G
 80180644,"Snack, golosinas y galletas",Mabels,Sv 3X2 Galleta Mabels Salvado 3X1Kg
+80180679,Cuidado Personal,Tresemme,Shampoo Tresemme Detox Capilar 750Ml                        
 80180696,Refrigerado y Congelado,Serrano Sierra Nevada,Chorizo Espanol Sierra Nevada  250Gr
 80180708,"Bebidas, Licores y Tabacos",Mendocina,Agua Mendocina  Sin Gas 3 Lt
 80180793,Cuidado Personal,Colgate,Crema Dental Colgate Total12 150Ml
@@ -3322,12 +3364,17 @@ id,category,brand,name
 80181186,Aseo y Limpieza,Ola,Desinfectante Ola Aromatic Bebe 390Ml
 80181187,Aseo y Limpieza,Ola,Ambientador Ola Aromatic Bebe 300Ml
 80181206,Cuidado Personal,Kotex,Protector Kotex Ultradelgado 150 Un
+80181211,Cuidado Personal,,Shampoo H&amp;S Nutr Profunda 700Ml                             
 80181219,Cuidado Personal,Head &amp; Shoulder,Shampoo H&amp;S Suave Y Man 2En1 375Ml
 80181220,Cuidado Personal,Head &amp; Shoulder,Shampoo H&amp;S Anti Caida 375Ml
 80181221,Cuidado Personal,Head &amp; Shoulder,Shampoo H&amp;S Manzana 375Ml
+80181222,Cuidado Personal,,Shampoo H&amp;S Alivio Instantaneo 375Ml                        
+80181223,Cuidado Personal,,Shampoo H&amp;S Hum Instan 375Ml                                
 80181225,Cuidado Personal,Head &amp; Shoulder,Shampoo H&amp;S Suave Y Man 2N1 700Ml
 80181226,Cuidado Personal,Head &amp; Shoulder,Shampoo H&amp;S Manzana 700Ml
+80181227,Cuidado Personal,,Shampoo H&amp;S Alivio Inst 700Ml                               
 80181330,Cuidado Personal,Sedal,Shampoo Sedal Bom Nutricion 650Ml
+80181332,Cuidado Personal,Sedal,Shampoo Sedal Bom Nutricion 340Ml                           
 80181374,Cuidado Personal,Nivea,Deo Nivea Spray Inv Blach\/White 150Ml
 80181377,Cuidado Personal,Nivea,Deo Nivea Roll-On Prot\/Care Men 50Ml
 80181406,Hogar y Electro,Fatelares,Sec Fatelares D\/Cocina 30X50 08264
@@ -3603,12 +3650,14 @@ id,category,brand,name
 80185881,Refrigerado y Congelado,Sofia,Pernil Feteado Sofia Ahumado 200Gr
 80185882,Refrigerado y Congelado,Kostlich,Pate Kostlich Costilla Ahumada 100 Gr
 80185934,Cuidado Personal,Dove,Acondic Dove Rit Repaparacion 400Ml
+80185937,Cuidado Personal,Dove,Shampoo Dove Rit Fortalecimiento 400Ml                      
 80185942,Cuidado Personal,Dove,Shampoo Dove Rit Repaparacion 400Ml
 80185979,Bebés y Nin@s,Disney Baby,Conjunto Disney B D\/Nina Dif Tam 2P 127D
 80186095,Cuidado Personal,Nivea,Toalla Facial Nivea Miracelares 25Un
 80186148,"Bebidas, Licores y Tabacos",Cuba Libre,Ron Cuba Libre Pet 3Lt
 80186149,Vinos,,Vino Aranjuez Cabernet Franc 750Ml
 80186196,Cuidado Personal,Head &amp; Shoulder,Shampoo H&amp;S Old Spice 375Ml
+80186197,Cuidado Personal,,Shampoo H&amp;S Limpieza Renovadora 1Lt                         
 80186202,Cuidado Personal,Old Spice,Deo Old Spice Leña Anitrans H 93Gr
 80186214,Hogar y Electro,Rey,Bebetodo Rey C\/Cobertor 400Ml Ttv022600
 80186215,Hogar y Electro,Rey,Bebetodo Rey C\/Cooler 750Ml Ttv024000
@@ -3651,7 +3700,10 @@ id,category,brand,name
 80186874,Hogar y Electro,Rey,Taper Rey Rect 2.9Lt 68000
 80186875,Productos frescos,Moofoods,Carne Deshidratada Moofoods Picante 100G
 80186933,Cuidado Personal,Head &amp; Shoulder,Shampoo H&amp;S Proteccion Caida  700 Ml
+80186936,Cuidado Personal,Pantene,Shampoo Pantene Fuerza Y Recons 400 Ml                      
 80186939,Cuidado Personal,Pantene,Crema P\/Pein Pantene Restauracion 300 Ml
+80186940,Cuidado Personal,Pantene,Shampoo Pantene Control Caida 700 Ml                        
+80186941,Cuidado Personal,Pantene,Shampoo Pantene Restauracion 700 Ml                         
 80186956,Cuidado Personal,Tio Nacho,Acond Tio Nacho Jal Real Anti Edad 415Ml
 80186957,Cuidado Personal,Tio Nacho,Acond Tio Nacho  Herbolari 415Ml
 80186989,Mascotas,Glory,Correa  D\/Mascota 2Mts Kt0557
@@ -3700,6 +3752,9 @@ id,category,brand,name
 80187598,"Snack, golosinas y galletas",Tostitos,Nachos Tostitos Original 200 Gr
 80187599,Cuidado Personal,Elite,Papel Hig Elite Ultra Perfum 52 Mts 12Un
 80187648,Aseo y Limpieza,Downy,Suavizante Downy Adorable 2.8Lt
+80187649,Cuidado Personal,,Shampoo H&amp;S Suave Y Manejable 1 Lt                          
+80187653,Cuidado Personal,Pantene,Shampoo Pantene Hidratacion Ext.  700 Ml                    
+80187654,Cuidado Personal,Pantene,Shampoo Pantene Rizos Defin. 700 Ml                         
 80187665,"Bebidas, Licores y Tabacos",Don Pascual,Vino Reserva Don Pascual Tannat 750Ml
 80187666,"Bebidas, Licores y Tabacos",Don Pascual,Vino Varietal Don Pascual Tannat 750Ml
 80187701,Cuidado Personal,Nosotras,Combo Nosotras  Nic X10 + Nic Deox10
@@ -3778,6 +3833,9 @@ id,category,brand,name
 80188797,Cuidado Personal,Nivea,Deo Nivea Inv For Black &amp; White M 43Gr
 80188801,Aseo y Limpieza,Downy,Suavizante Downy Passion 750 Ml
 80188804,Aseo y Limpieza,Downy,Suavizante Downy Floral Concent 2800 Ml
+80188808,Cuidado Personal,Herbal,Shampoo Herbal Essence Prolongalo 1L                        
+80188809,Cuidado Personal,,Shampoo H&amp;S Old Spice 1L                                    
+80188811,Cuidado Personal,Pantene,Shampoo Pantene Control Caida 1L                            
 80188824,Abarrotes,San Marcos,Salsa Bqq  San Marcos  Chipotle 500Gr
 80188838,Cuidado Personal,Vitane,Deo Vitane P\/Pies Clinical 260Ml
 80188842,Hogar y Electro,Black&amp;Decker,Batidora De Mano B&amp;D 5 Vel  Mx1500W
@@ -3864,6 +3922,7 @@ id,category,brand,name
 80189840,Hogar y Electro,Refresh,Ambientador Dual Oil  Ryc Summer Breeze
 80189848,Mascotas,Whiskas,Comida Whiskas Adulto Pescado 3Kg
 80189857,"Snack, golosinas y galletas",Garoto,Chocolate Garoto Bombones Surtidos 128Gr
+80189879,Cuidado Personal,Sedal,Shampoo Sedal Bomba Argan 340Ml                             
 80189884,Lácteos,Serenisima,Queso La Serensi Danbo Kg
 80189885,Lácteos,Serenisima,Dulce De Leche La Serensi Colonial 250Gr
 80189925,Cuidado Personal,Colgate,Crema Dental Colgate Salud Visible 75Ml
@@ -4070,6 +4129,7 @@ id,category,brand,name
 80192298,Cuidado Personal,Belmed,Acondicionador Belmed Uso Frecue 410Gr
 80192299,Cuidado Personal,Belmed,Acondicionador Belmed Tenido 410Gr
 80192307,Cuidado Personal,Listerine,Enjuague Bucal Listerine Anti Zero 500Ml
+80192317,Cuidado Personal,Pantene,Shampoo Pantene Micelar 750Ml                               
 80192326,Abarrotes,S. Mi Tierra,Miel Abeja S. Tierra Moringa Camu 250Gr
 80192327,Abarrotes,S. Mi Tierra,Miel Abeja  S. Mi Tierra Jengibre  250Gr
 80192329,Refrigerado y Congelado,Sofia,Chorizo Sofia Chuquisaqueno Kg
@@ -4227,6 +4287,7 @@ id,category,brand,name
 80193539,Mascotas,Felix,Alimento Hum Cat Chow Adultos Carne 85Gr
 80193540,Cuidado Personal,Felix,Plancha Gama Attiva Ion 3D Ther Ion Plus
 80193542,Cuidado Personal,Felix,Secadora Gama Viaveneto Green Ion
+80193572,Cuidado Personal,Pantene,Shampoo Pantene Micelar 400Ml                               
 80193579,Cuidado Personal,Kotex,Toalla Fem Kotex Sport Fitness Uf 30Un
 80193584,"Bebidas, Licores y Tabacos",Villa Santa,Agua Villa Santa Sport Fit 1Lt
 80193619,Hogar y Electro,Concepts,Delantal Concepts 100% Alg 55X75Cm 713
@@ -4390,7 +4451,7 @@ id,category,brand,name
 80195094,Productos frescos,,Verdura Congelada Pingui Brocoli 300Gr
 80195111,Aseo y Limpieza,Mr. Cloro,Lavandina  Mr Cloro  1Lt
 80195121,"Bebidas, Licores y Tabacos",Cordillera,Combo12 Cerveza Cordillera Lata 350ml
-80195130,Aseo y Limpieza,Ola,Suavisante Ola Libre Enjuague 1.7Lt
+80195130,Aseo y Limpieza,Ola,Suavizante Ola Libre Enjuague 1.7Lt
 80195131,Aseo y Limpieza,Ola,Suavisante Ola Libre Enjuague 3.7Lt
 80195145,"Snack, golosinas y galletas",Bonare,Platano Frito Ralf Chipilos 180Gr
 80195150,Mascotas,Dog Chow,Comida Dog Chow Adulto Rz Pequena 8K
@@ -4588,6 +4649,8 @@ id,category,brand,name
 80196244,Hogar y Electro,,Velas Maranelo Navideno  5-25
 80196246,Hogar y Electro,,Figura Maranelo Navideno  87-7
 80196254,Lácteos,Delizia,Yogumix Delizia Grajeas De Choco 130Gr
+80196310,Cuidado Personal,Dove,Shampoo Dove Ritual De Crecimiento 400Ml                    
+80196320,Cuidado Personal,Sedal,Shampoo Sedal Bomba Coco 340Ml                              
 80196321,Cuidado Personal,Sedal,Shampoo Sedal Bomba Coco 650Ml
 80196323,Cuidado Personal,Sedal,Aco. Sedal Bomba Coco 650Ml
 80196333,Cuidado Personal,Hogar,Papel Higienico Hogar Mega 12Und
@@ -5277,6 +5340,7 @@ id,category,brand,name
 80200183,Hogar y Electro,Vistony,Brillanta Vistony Protege Y Brilla 300Ml
 80200210,Mascotas,Pedigree,Dentastix Pedigree Adul Peq Pollo 15.7Kg
 80200212,Cuidado Personal,Rexona,Alcohol En Spray Rexona Para Manos 125Ml
+80200215,Cuidado Personal,Dove,Shampoo Dove Regeneracion Extrema 400Ml                     
 80200223,Cuidado Personal,Rocio,Alcohol Rocio Spray 360Ml
 80200224,Mascotas,Pedigree,Dentastix Pedigree Adul Med Pollo 25.7Kg
 80200225,Mascotas,Pedigree,Biscrock Pedigree Adul Razas Snack 100Gr
@@ -5362,6 +5426,7 @@ id,category,brand,name
 80200469,Refrigerado y Congelado,Sofia,"Papas Pre Fritas Cong Sofia Tradi 2,5Kg"
 80200470,Refrigerado y Congelado,Sofia,Papas Pre Fritas Cong Sofia Fast F 2Kg
 80200471,Cuidado Personal,Rexona,Alcohol Gel Rexona Con Glicerina 300Ml
+80200472,Cuidado Personal,Sedal,Shampoo Sedal Crecimiento Antiestr 650Ml                    
 80200473,Aseo y Limpieza,Ola,Lava Vajillas Ola Limon Antibacte 1050Ml
 80200480,Lácteos,Delizia,Leche Delizia Frutilla 120 Ml
 80200487,"Bebidas, Licores y Tabacos",Hindu,Ice Tea  Hindu Frutos Exoticos  300Gr
@@ -5916,6 +5981,7 @@ id,category,brand,name
 80202329,Hogar y Electro,Electrolux,Microondas Electolux 23L Acero  Emdn23G5
 80202331,Cuidado Personal,Tio Nacho,Acondicionado Tio Nacho Aloe Vera 415 Ml
 80202332,Cuidado Personal,Tio Nacho,Shampoo Tio Nacho Aloe Vera 415 Ml
+80202334,Cuidado Personal,Sedal,Shampoo Sedal Caspa 2 En 1 650 Ml                           
 80202339,Cuidado Personal,Dove,Jabon Dove Cuida Y Protege Antibac. 3X90
 80202345,Aseo y Limpieza,Surf,Desinfectante Piso Surf Floral 900Ml
 80202348,Mascotas,Pedigree,Comida Pedigree Adulto Raza Peq 8Kg
@@ -6125,6 +6191,8 @@ id,category,brand,name
 80203038,Cuidado Personal,Maybelline,Gel Ceja Mybe Tatoo Medium Brown 257 6.8
 80203055,Cuidado Personal,Protex,Jabon Protex Duo Protect 3X110Gr
 80203056,Abarrotes,Froot Loops,Cereal Froot Loops  350Gr
+80203068,Cuidado Personal,Herbal,Shampoo Herbal Aceitearganmarruecos 400M                    
+80203070,Cuidado Personal,Herbal,Shampoo Herbal Caida Manuka Honey 400Ml                     
 80203071,"Bebidas, Licores y Tabacos",Pacena,Cerveza Pacena Con Botella Incluid 235Ml
 80203072,Cuidado Personal,Head &amp; Shoulder,Acond H&amp;S Manzana 300Ml
 80203073,Cuidado Personal,Head &amp; Shoulder,Acond H&amp;S Purificacion Carbon 300Ml
@@ -6243,6 +6311,7 @@ id,category,brand,name
 80203328,"Snack, golosinas y galletas",La Suprema,Budin La Suprema Marmolado 220G
 80203329,"Snack, golosinas y galletas",La Suprema,Budin La Suprema Maracuya 220G
 80203334,Mascotas,Dogui,Alim Dogui Carne Asada C\/Veg 8 Kg
+80203359,Cuidado Personal,Sedal,Shampoo Sedal Caspa Con Aloe Y Men 650Ml                    
 80203360,Cuidado Personal,Dove,Crema Para Manos Dove Antibacterial 75Ml
 80203368,Abarrotes,Carbonell,Aceitunas Carbonell Verdes Pimiento 100G
 80203376,Refrigerado y Congelado,,S.Wind Filete De Salmon Congel Kg
@@ -6737,7 +6806,10 @@ id,category,brand,name
 80205454,Aseo y Limpieza,Fuzol,Suavizante Fuzol Piel Delicada 1L
 80205455,Aseo y Limpieza,Fuzol,Suavizante Fuzol Primavera 1L
 80205464,"Snack, golosinas y galletas",Docile,Pack 3X2 Marshmallows Docile Varios 3X75
+80205466,Cuidado Personal,,Shampoo H&amp;S Fuerte Desde La Rais 375Ml                      
+80205467,Cuidado Personal,,Shampoo H&amp;S Fuerte Desde La Rais 700Ml                      
 80205468,Cuidado Personal,,Acond H&amp;S Fuerte Desde La Rais 300Ml
+80205469,Cuidado Personal,Pantene,Shampoo Pantene Bambu 400Ml                                 
 80205495,Hogar y Electro,,Sabanas Cannon Twin Monra
 80205496,Hogar y Electro,,Sabanas Cannon Full Monra
 80205497,Hogar y Electro,,Sabanas Cannon Super Queen Monra
@@ -6905,6 +6977,7 @@ id,category,brand,name
 80206206,Lácteos,Delizia,Yogurt Proact Def Delizia Miel&amp;Jen 200G
 80206209,"Snack, golosinas y galletas",Ole Ole,Sv 3X2 Marshmallows Ole Ole 3X270G
 80206214,"Snack, golosinas y galletas",Ole Ole,Sv 2 Marshmallows Ole Ole 2X270G
+80206230,Cuidado Personal,,Shampoo Medicasp  400Ml                                     
 80206262,Abarrotes,Goya,Alcachofa Goya Corazones En Aceite 6Oz
 80206276,Hogar y Electro,,Cesta Plastica 3.50Lt G-649
 80206277,Hogar y Electro,,Cesta Plastica 6.80Lt G-650
@@ -7928,6 +8001,15 @@ id,category,brand,name
 80208492,"Bebidas, Licores y Tabacos",,Vino Tinto Porfiado Tannat 750Ml
 80208493,"Bebidas, Licores y Tabacos",,Vino Tinto Porfiado Blend 750Ml
 80208498,Cuidado Personal,Fructis,Mascarilla Fructis Aloe Vera 350 Ml
+80208503,Cuidado Personal,Dove,Shampoo Dove Regeneracion Extrema 750Ml                     
+80208506,Cuidado Personal,Sedal,Shampoo Sedal Hialuronico Y Vit A 650Ml                     
+80208507,Cuidado Personal,Sedal,Shampoo Sedal Colageno Y Vit C 650Ml                        
+80208510,Cuidado Personal,Sedal,Shampoo Sedal Colageno Y Vit C 340Ml                        
+80208511,Cuidado Personal,Sedal,Shampoo Sedal Hialuronico Y Vit A 340Ml                     
+80208514,Cuidado Personal,Sedal,Shampoo Sedal Doypack 2En1 Caspa 850Ml                      
+80208515,Cuidado Personal,Sedal,Shampoo Sedal Doypack Bomba Coco 850Ml                      
+80208516,Cuidado Personal,Sedal,Shampoo Sedal Dp Miel Germen Trigo 850Ml                    
+80208517,Cuidado Personal,Sedal,Shampoo Sedal Doypack Ceramidas 850Ml                       
 80208518,"Snack, golosinas y galletas",Quality Street,Chocolate Quality S Tin Ps 900Gr
 80208519,"Snack, golosinas y galletas",Quality Street,Chocolate Quality S Giant P 330Gr
 80208520,"Snack, golosinas y galletas",Quality Street,Chocolate Quality S Tin Ps 2Kg
@@ -8856,7 +8938,7 @@ id,category,brand,name
 80210912,"Bebidas, Licores y Tabacos",Frutall,Sv3X2 Gaseosa Mendocina Pomelo 3Lts
 80210913,"Bebidas, Licores y Tabacos",Frutall,Sv2 Gaseosa Mendocina Pomelo 3Lts
 80210914,"Bebidas, Licores y Tabacos",Hatsu,Pack2 Hatsu  Surtido 400Ml
-80210915,"Bebidas, Licores y Tabacos",Hatsu,Pack3X2 Hatsu  Surtido 400Ml
+80210915,"Bebidas, Licores y Tabacos",Hatsu,Pack3 Hatsu Surtido 400Ml
 80210916,"Bebidas, Licores y Tabacos",Speed Max,Energizante Speed Max  269Ml
 80210917,"Bebidas, Licores y Tabacos",B&R,Refresco B&amp;R Te Helado 500Ml
 80210918,"Bebidas, Licores y Tabacos",B&R,Refresco B&amp;R Limonada 500Ml
@@ -9164,6 +9246,7 @@ id,category,brand,name
 80211497,Cuidado Personal,Nivea,Pack Nivea Piel Seca 400Ml+125Ml
 80211500,Cuidado Personal,Plusbelle,Acondicionador Plusbelle Nutricion 1Lt
 80211502,Cuidado Personal,Tio Nacho,Acon Tio Nacho Celulas Madre 415 Ml
+80211503,Cuidado Personal,Tio Nacho,Sh Tio Nacho Celulas Madres 1 Litro                         
 80211508,Cuidado Personal,,Gel Capilar Algabo Humedo 475 Gr
 80211509,Cuidado Personal,,Gel Capilar Algabo Brillo&amp;Cont 475 Gr
 80211510,Cuidado Personal,,Gel Capilar Algabo Fuerte 475 Gr
@@ -9254,6 +9337,8 @@ id,category,brand,name
 80211839,Bebés y Nin@s,Huggies,Toallas Humedas Huggies Max Clean 100Un
 80211848,"Bebidas, Licores y Tabacos",,Vino Salvaje Cabernet Sauvignon 750Ml
 80211872,"Bebidas, Licores y Tabacos",Stolichnaya,Pack Stolichnaya + Mug Cobre 1Lt
+80212011,Cuidado Personal,Mny,Shampoo Fructis Coco 300 Ml                                 
+80212013,Cuidado Personal,Mny,Shampoo Fructis Banana 300 Ml                               
 80212014,Cuidado Personal,Mny,Acondicionador Fructis Banana 300 Ml
 80212015,Cuidado Personal,Mny,Mascara Fructis Banana 350 Ml
 80212016,Cuidado Personal,Mny,Gel Loreal Hidra Hialuronico 150 Ml
@@ -9321,14 +9406,14 @@ id,category,brand,name
 80212334,Bebés y Nin@s,Carlitos,Mordedor Carlitos Manito Varios Colores
 80212335,Bebés y Nin@s,Carlitos,Mordedor Carlitos Osito Varios Colores
 80212385,"Bebidas, Licores y Tabacos",San Miguel,6Pack  San Miguel Oktoberfest Un
-80212386,"Bebidas, Licores y Tabacos",Postobon,Pack 3X2 Gaseosa Postobon  Colom 1.5L
-80212387,"Bebidas, Licores y Tabacos",Postobon,Pack 3X2 Gaseosa Postobon  Manz 1.5L
+80212386,"Bebidas, Licores y Tabacos",Postobon,Pack 3 Gaseosa Postobon Colom 1.5L
+80212387,"Bebidas, Licores y Tabacos",Postobon,Pack 3 Gaseosa Postobon  Manz 1.5L
 80212391,"Bebidas, Licores y Tabacos",Paulaner,Tripack Paulaner Oktoberfest+Posav 0.5Lt
-80212395,"Bebidas, Licores y Tabacos",Speranza,Sv3X2 Agua Speranza Botella De 2L
-80212396,"Bebidas, Licores y Tabacos",Speranza,Sv3X2 Agua Speranza Botella 600Ml
-80212397,"Bebidas, Licores y Tabacos",La Casa Del Camba,Sv3X2 Bebida La Casa Del Camba Chi 500Ml
-80212398,"Bebidas, Licores y Tabacos",La Casa Del Camba,Sv3X2 Bebida La Casa Del Camba M 500Ml
-80212399,"Bebidas, Licores y Tabacos",Mandala,Sv3X2 Te Frio Mandala 473Ml
+80212395,"Bebidas, Licores y Tabacos",Speranza,Sv3 Agua Speranza Botella De 2L
+80212396,"Bebidas, Licores y Tabacos",Speranza,Sv3 Agua Speranza Botella 600Ml
+80212397,"Bebidas, Licores y Tabacos",La Casa Del Camba,Sv3 Bebida La Casa Del Camba Chicha 500Ml
+80212398,"Bebidas, Licores y Tabacos",La Casa Del Camba,Sv3 Bebida La Casa Camba Mocochinchi 500Ml
+80212399,"Bebidas, Licores y Tabacos",Mandala,Sv3 Te Frio Mandala 473Ml
 80212400,"Bebidas, Licores y Tabacos",Burguesa,Sv6 Cerveza Burguesa 354Ml
 80212412,"Snack, golosinas y galletas",Cremosita,Pack3X2 Galleta Minicremosita Sur 3X264G
 80212413,"Snack, golosinas y galletas",Mogul,Pack 3X2 Gomitas Mogul Surt 3X500G
