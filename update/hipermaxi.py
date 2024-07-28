@@ -10,11 +10,11 @@ from time import time
 
 requests.packages.urllib3.disable_warnings()
 
-# Las sucursales con el id más bajo (probablemente de mayor antigüedad en cada ciudad)
+# Las sucursales con más subcategorías de productos en cada ciudad al 28 de Julio de 2024
 sucursales_representativas = {
-    "la_paz": 32,  # Calacoto
-    "cochabamba": 47,  # Juan de la Rosa
-    "santa_cruz": 57,  # Cañoto
+    "la_paz": 34,  # Achumani
+    "cochabamba": 48,  # Sacaba
+    "santa_cruz": 91,  # Las Brisas
 }
 hipermaxi = "data/hipermaxi"
 
