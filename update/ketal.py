@@ -52,8 +52,8 @@ def format_results(productos, timestamp):
 
 def save_results(df):
 
-    precios = 'data/{}.csv'.format(dt.datetime.now().strftime('%Y_%m'))
-    productos = 'data/productos.csv'
+    precios = 'data/ketal/{}.csv'.format(dt.datetime.now().strftime('%Y_%m'))
+    productos = 'data/ketal/productos.csv'
 
     if os.path.exists(precios):
         dfi = pd.concat([pd.read_csv(precios), df[['time', 'id', 'price', 'quantity']]])
