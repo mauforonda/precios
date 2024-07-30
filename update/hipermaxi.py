@@ -17,14 +17,19 @@ sucursales_representativas = {
     "santa_cruz": 91,  # Las Brisas
 }
 hipermaxi = "data/hipermaxi"
+TIMEOUT = 10
 
 
 def construirHeaders():
     def conseguirMain():
-        response = requests.get("https://tienda.hipermaxi.com", verify=False)
+        response = requests.get(
+            "https://tienda.hipermaxi.com", verify=False, timeout=TIMEOUT
+        )
         js = re.findall(r"src=\"\/static\/js\/(main.+\.js)\">", response.text)[0]
         response = requests.get(
-            f"https://tienda.hipermaxi.com/static/js/{js}", verify=False
+            f"https://tienda.hipermaxi.com/static/js/{js}",
+            verify=False,
+            timeout=TIMEOUT,
         )
         return response.text
 
@@ -32,6 +37,7 @@ def construirHeaders():
         response = requests.put(
             "https://tienda-api.hipermaxi.com/api/v1/CuentasMarket/Anonimo-Por-Token",
             verify=False,
+            timeout=10,
         )
         return [response.json()["Dato"][i] for i in ["Codigo", "Token"]]
 
@@ -61,6 +67,7 @@ def construirHeaders():
             Token=token,
         ),
         verify=False,
+        timeout=TIMEOUT,
     )
     bearer = response.json()["access_token"]
     return dict(
@@ -73,14 +80,16 @@ def construirHeaders():
 def actualizarSucursales(sesion):
     def listarRegiones(sesion):
         response = sesion.get(
-            "https://tienda-api.hipermaxi.com/api/v1/markets/ciudades"
+            "https://tienda-api.hipermaxi.com/api/v1/markets/ciudades", timeout=TIMEOUT
         )
         return {r["IdRegion"]: r["Nombre"] for r in response.json()["Dato"]}
 
     def listarSucursales(sesion):
         params = dict(IdMarket="0", IdTipoServicio="0")
         response = sesion.get(
-            "https://tienda-api.hipermaxi.com/api/v1/markets/activos", params=params
+            "https://tienda-api.hipermaxi.com/api/v1/markets/activos",
+            params=params,
+            timeout=TIMEOUT,
         )
         return pd.DataFrame(
             [
@@ -107,6 +116,7 @@ def consultarPrecios(sesion, sucursal):
         response = sesion.get(
             "https://tienda-api.hipermaxi.com/api/v1/markets/clasificaciones",
             params=dict(IdMarket=sucursal, IdSucursal=sucursal),
+            timeout=TIMEOUT,
         )
         categorias = []
         for grupo in response.json()["Dato"]:
@@ -138,6 +148,7 @@ def consultarPrecios(sesion, sucursal):
                     "Pagina": pagina,
                     "Cantidad": 50,
                 },
+                timeout=TIMEOUT,
             )
             listado = response.json()["Dato"]
             if listado:
@@ -175,7 +186,9 @@ def consultarPrecios(sesion, sucursal):
         )
     precios = pd.DataFrame(data)
     precios.loc[:, "oferta"] = (precios.original > 0) * 1
-    return precios[["categoria", "subcategoria", "id_producto", "producto", "precio", "oferta"]]
+    return precios[
+        ["categoria", "subcategoria", "id_producto", "producto", "precio", "oferta"]
+    ]
 
 
 def consolidar(precios, ciudad):
@@ -209,13 +222,19 @@ def consolidar(precios, ciudad):
     consolidarProductos(precios)
     consolidarPrecios(precios, ciudad)
 
+def crearSesion(headers):
+    sesion = requests.Session()
+    sesion.headers.update(headers)
+    sesion.mount("http://", requests.adapters.HTTPAdapter(max_retries=3))
+    sesion.mount("https://", requests.adapters.HTTPAdapter(max_retries=3))
+    sesion.verify = False
+    return sesion
+
 
 def main():
     inicio = time()
     headers = construirHeaders()
-    with requests.Session() as sesion:
-        sesion.headers.update(headers)
-        sesion.verify = False
+    with crearSesion(headers) as sesion:
         sucursales = actualizarSucursales(sesion)
         for ciudad, sucursal in sucursales_representativas.items():
             print(f"\nconsultando precios en {ciudad} ...\n")
