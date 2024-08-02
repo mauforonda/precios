@@ -261,6 +261,7 @@ id_producto,producto,categoria,subcategoria
 5212,Tomate Cherry 1 kg,Frutas y Verduras,Verduras
 5213,Frangollo Hipermaxi kg,Granos y Hortalizas,Fraccionados Hipermaxi
 5216,Mix Caldo Para Bebe kg,Granos y Hortalizas,Hortalizas Delifresh
+5217,Linaza en Polvo Hipermaxi kg,Granos y Hortalizas,Fraccionados Hipermaxi
 5224,Clavo de Olor Hipermaxi kg,Granos y Hortalizas,Fraccionados Hipermaxi
 5226,Soya Hipermaxi kg,Granos y Hortalizas,Fraccionados Hipermaxi
 5228,Brote De Soya 1 kg,Frutas y Verduras,Verduras
@@ -269,6 +270,7 @@ id_producto,producto,categoria,subcategoria
 5235,Chuño Negro 1 kg,Frutas y Verduras,Verduras
 5267,Lechuga La Fuente Baby 1 kg,Frutas y Verduras,Gourmet
 5268,Lechuga La Fuente Batavia Roja 1 kg,Frutas y Verduras,Gourmet
+5269,Lechuga La Fuenta Hoja Roble Morado kg,Frutas y Verduras,Gourmet
 5270,Lechuga La Fuente Hoja Roble Verde 1 kg,Frutas y Verduras,Gourmet
 5271,Lechuga La Fuente Manteca 1 kg,Frutas y Verduras,Gourmet
 5272,Lechuga La Fuente Romana Verde 1 kg,Frutas y Verduras,Gourmet
@@ -313,6 +315,7 @@ id_producto,producto,categoria,subcategoria
 5586,Tujure de Maiz Delifresh,Granos y Hortalizas,Postres Delifresh
 5588,Sandwich Delifresh Atun Triple,Granos y Hortalizas,Sandwiches Delifresh
 5589,Sandwich Delifresh Milanesa,Granos y Hortalizas,Sandwiches Delifresh
+5591,Sandwich Delifresh Pollo,Granos y Hortalizas,Sandwiches Delifresh
 5593,Sandwich Delifresh Integral Triple,Granos y Hortalizas,Sandwiches Delifresh
 5595,Sandwich Delifresh Pollo Triple,Granos y Hortalizas,Sandwiches Delifresh
 5597,Sandwich Delifresh Mixto Triple,Granos y Hortalizas,Sandwiches Delifresh
@@ -5022,6 +5025,7 @@ id_producto,producto,categoria,subcategoria
 165024,PACK EXCELLENCE 6.1 + NECESER LOREAL,Cuidado Personal,Cuidado del Cabello
 165025,PACK EXCELLENCE 7.1 + NECESER LOREAL,Cuidado Personal,Cuidado del Cabello
 165028,PACK EXCELLENCE 6 + NECESER LOREAL,Cuidado Personal,Cuidado del Cabello
+165029,PACK EXCELLENCE 7.11 + NECESER LOREAL,Cuidado Personal,Cuidado del Cabello
 165030,PACK EXCELLENCE 4 + NECESER LOREAL,Cuidado Personal,Cuidado del Cabello
 165032,Pack Paño Hipertex 35x40 cm,Cuidado del Hogar,Accesorios del Hogar
 165045,Shampoo Tio Nacho Herbolaria Doypack 400 ml,Cuidado Personal,Cuidado del Cabello
@@ -6036,6 +6040,7 @@ id_producto,producto,categoria,subcategoria
 224048,Ampolla Babaria Hialuronico,Cuidado Personal,Cuidado del Cabello
 224050,Crema Facial Babaria Acido Glicolico,Cuidado Personal,Cuidado de la Piel
 224051,SERUM BOTOX BABARIA,Cuidado Personal,Cuidado de la Piel
+224052,Tripack Pañal Pompiglos P,Cuidado del Bebé,Pañales
 224070,Guantes Asatex Talla M,Cuidado del Hogar,Productos Americanos
 224071,Guantes Asatex Talla L,Cuidado del Hogar,Productos Americanos
 224072,Guantes Asatex Talla S,Cuidado del Hogar,Productos Americanos
@@ -6109,6 +6114,7 @@ id_producto,producto,categoria,subcategoria
 227097,PACK TOALLAS 3+1 NUMBER ONE X90,Cuidado del Bebé,Cuidado del Bebé
 227103,Detergente Polvo Todo Brillo Floral 1100 gr,Cuidado del Hogar,Limpieza de la Ropa
 227104,Pañales Huggies Active Sec XG 64 un,Cuidado del Bebé,Pañales
+227105,Pañales Huggies Active Sec XXG 74 un,Cuidado del Bebé,Pañales
 227106,CREMA CON CLORO CIF 750 ML,Cuidado del Hogar,Productos Americanos
 227107,GEL CON CLORO CIF 513 GR,Cuidado del Hogar,Productos Americanos
 227108,PANO NARANJA ABSORVENTE ANTIBACTERIAX3,Cuidado del Hogar,Productos Americanos
@@ -6129,7 +6135,9 @@ id_producto,producto,categoria,subcategoria
 227136,JAB. GLICERINADO SENADOR SUN STONE 130 G,Cuidado Personal,Cuidado de la Piel
 227138,BARRA DETERGENTE EL MACHO ALOE VERA 220G,Cuidado del Hogar,Limpieza de la Ropa
 227139,BARRA DETERGENTE EL MACHO ALOE VERA 480G,Cuidado del Hogar,Limpieza de la Ropa
+227142,CONRORNO OJO GARNIER EXPRES ACLARA,Cuidado Personal,Cuidado de la Piel
 227143,BLOQUEADOR LOREAL UV DEFENDER 40 G FLUID,Cuidado Personal,Cuidado de la Piel
+227144,PACK EXCELLENCE NUDES 5U + NECESER LOREA,Cuidado Personal,Cuidado del Cabello
 227146,PACK LACTOUREA GEL DE DUCHA 300ML + CREM,Cuidado Personal,Cuidado de la Piel
 227148,PANAL BABYSEC PREM PPK MED 64 UNDS,Cuidado del Bebé,Pañales
 227152,BLOQUE MOCHILA CRIVEA 2X50 GR,Cuidado del Hogar,Productos Americanos
@@ -6143,6 +6151,7 @@ id_producto,producto,categoria,subcategoria
 227165,DEO AT OLD SPICE BARRA OCEAN LEGEND 50G,Cuidado Personal,Cuidado de la Piel
 227166,Shampoo Pantene Keratina 300 ml,Cuidado Personal,Cuidado del Cabello
 227167,Acondicionador Pantene Keratina 510 ml,Cuidado Personal,Cuidado del Cabello
+227168,Shampoo Pantene Keratina 510 ml,Cuidado Personal,Cuidado del Cabello
 227169,Crema Para Peinar Pantene Keratina 300 ml,Cuidado Personal,Cuidado del Cabello
 227171,Salsa Chimichurri Santa Helena Picante 303 ml,Abarrotes,Condimentos y Legumbres
 227172,Acondicionador Pantene Keratina 250 ml,Cuidado Personal,Cuidado del Cabello
@@ -8798,6 +8807,7 @@ id_producto,producto,categoria,subcategoria
 427942,Galleta Costa Obsesion Mani Barquillo 85 gr,Abarrotes,Galletas
 427985,Vodka Grey Goose 750 ml,Bebidas,Licores
 428060,Morcilla Hipermaxi kg,Fiambres,Fiambres Hipermaxi
+428094,Pan Miga Paris 450 gr,Panadería,Panadería Externa
 428183,Macarroni Kraft Easy Mac Original 58 gr,Abarrotes,Productos Americanos
 428221,Salsa Ragu Tradicional 1.27 kg,Abarrotes,Productos Americanos
 428718,Vinagre Doña Filo Sushi Arroz 750 ml,Abarrotes,Básicos
@@ -9228,9 +9238,11 @@ id_producto,producto,categoria,subcategoria
 479845,Jarra Lechera Plastico,Bazar,Menaje Plástico
 479918,Paprika Badia 16 oz,Abarrotes,Condimentos y Legumbres
 480018,Papa Lucana Ondulada 70 gr,Abarrotes,Snack
+480019,Papa Lucana Nativa 150 gr,Abarrotes,Snack
 480021,Papa Lucana Frita Con Queso 160 gr,Abarrotes,Snack
 480022,Chicharroncitos Lucana 80 gr,Abarrotes,Snack
 480023,Yuca Frita Lucana 170 gr,Abarrotes,Snack
+480027,Chipilo Lucana 70 gr,Abarrotes,Snack
 480032,Papa Lucana Frita Rallada 120 gr,Abarrotes,Snack
 480044,Llajua Pim de Mani 400 gr,Abarrotes,Verduras en Conserva
 480046,Papa Pim Mini Frita 100 gr,Abarrotes,Snack
@@ -10831,6 +10843,7 @@ id_producto,producto,categoria,subcategoria
 552415,Pack 2 Jugos Del Huerto 946 ml,Bebidas,"Jugos, Néctar"
 552416,Chocolate Para Ti con Frutas 100 gr,Abarrotes,Chocolates y Caramelos
 552417,Chocolate Para Ti Corazon Te Amo 90 gr,Abarrotes,Chocolates y Caramelos
+552418,Chocolate Para Ti Corazones 150 gr,Abarrotes,Chocolates y Caramelos
 552419,Trufas Chocolate Para Ti con Licor 200 gr,Abarrotes,Chocolates y Caramelos
 552420,Chocolate Para Ti Coco 100 gr,Abarrotes,Chocolates y Caramelos
 552422,Chocolate Para Ti Marshmallows 60 gr,Abarrotes,Chocolates y Caramelos
@@ -14171,6 +14184,7 @@ id_producto,producto,categoria,subcategoria
 670016,Chocolate Incona Surtido 100 gr,Abarrotes,Chocolates y Caramelos
 670018,Chocolate Incona Surtido 200 gr,Abarrotes,Chocolates y Caramelos
 670026,Mani Manitoba Tostado 30 gr,Abarrotes,Golosinas - Varias
+670042,Leche Eba Frutilla 1 L,Lácteos y Derivados,Leches
 670045,Gomita Trululu Osos Oro 90 gr,Abarrotes,Golosinas - Varias
 670046,Gomita Trululu Dinos 90 gr,Abarrotes,Golosinas - Varias
 670047,Gomita Trululu Gusanitos 90 gr,Abarrotes,Golosinas - Varias
@@ -14192,6 +14206,7 @@ id_producto,producto,categoria,subcategoria
 670087,Medallones de Surubi Lagos Titicaca kg,Congelados,Carnes Congeladas
 670097,Filete de Trucha Congelado La Red kg,Congelados,Carnes Congeladas
 670100,Salchicha de Res Sofia 10 un,Fiambres,Fiambres Externos
+670105,Leche Frutilla Lasteosbol 140 ml,Lácteos y Derivados,Leches
 670116,Giba Fridosa Kg,Carnes,Carnes Al Vacio Externas
 670131,Sofipocas Sofia de Pollo 300 gr,Congelados,Carnes Congeladas
 670133,Salchicha Viena Coctelera Stege kg,Fiambres,Fiambres Externos
@@ -14326,6 +14341,7 @@ id_producto,producto,categoria,subcategoria
 670929,Galleta Natural Life de Avena,Pastelería y Masas Típicas,Pastelería Externa
 670930,Pan Molde Natural Life de Linaza,Panadería,Panadería Externa
 670931,Pan Molde Natural Life de Sesamo,Panadería,Panadería Externa
+670932,Pan Molde Natural Life Gluten,Panadería,Panadería Externa
 670933,Pan Molde Natural Life Blanco,Panadería,Panadería Externa
 670935,Vino Altos Las Hormigas Paraje Gualtalla 750 ml,Bebidas,Vinos y Champagne
 670939,Galleta Gustossi Cracker Integral 1 kg,Abarrotes,Galletas
@@ -14430,6 +14446,7 @@ id_producto,producto,categoria,subcategoria
 671370,Pan de Hamburguesa Maxi Pan 12 un,Panadería,Panadería Externa
 671371,Pan de Hot Dog Maxi Pan 12 un,Panadería,Panadería Externa
 671372,Pan de Cena Maxi Pan 3 Variedades 18 un,Panadería,Panadería Externa
+671378,Helado Pil Dulce de Leche 5 L,Congelados,"Helados, Cassattas y Picoleses"
 671396,Tomahawk Steak kg,Carnes,Carne de Res
 671402,Yogurt Griego Delizia Cero Azucar 170 gr,Lácteos y Derivados,Yogures
 671404,Chorizo Criollo Sofia Crudo kg,Fiambres,Fiambres Externos
@@ -15295,6 +15312,7 @@ id_producto,producto,categoria,subcategoria
 674188,Queso Flor de Leche Florandino Slices Light Edam 140 gr,Lácteos y Derivados,Quesos
 674189,Queso Flor de Leche Florandino Slices Light Edam 200 gr,Lácteos y Derivados,Quesos
 674190,MANTEQUILLA FLOR DE LECHE 200GRS,Lácteos y Derivados,Mantequillas y Margarinas
+674191,CHORIZO STEGE PAGUE 8 LLEVE 10 PZA 900GRS,Fiambres,Fiambres Externos
 674199,GALLETAS SURTIDAS EN BANDEJA LA CASE 400GRS,Pastelería y Masas Típicas,Pastelería Externa
 674201,POSTRE TRADICION SUCUMBE DELIZIA 200ML,Congelados,"Helados, Cassattas y Picoleses"
 674203,Queso Fresco Cochabamba kg,Lácteos y Derivados,Quesos
@@ -15334,6 +15352,7 @@ id_producto,producto,categoria,subcategoria
 676735,Galletas Leo Nothmann Varios Sabores,Pastelería y Masas Típicas,Pastelería Externa
 676755,Hamburguesa Prosana de Lenteja 4 un,Congelados,Masas y Comidas Congeladas
 676759,Crema De Leche Pil Uht 1 L,Lácteos y Derivados,Cremas De Leche
+676760,Crema De Leche Pil Uht 500 ml,Lácteos y Derivados,Crema de Leche
 676779,Pizza Hipermaxi Congelada Jamon Queso 620 gr,Congelados,Masas y Comidas Congeladas
 676781,Leche Entera Pil Cremosa Uht Caja 1 L,Lácteos y Derivados,Leches
 676782,Leche Light Pil Uht Caja 1 L,Lácteos y Derivados,Leches
@@ -15514,6 +15533,8 @@ id_producto,producto,categoria,subcategoria
 678671,Pan Arabe Integral Taquinos,Panadería,Panadería Externa
 678672,Jamon de Pavo Sofia kg,Fiambres,Fiambres Externos
 678673,Pechuga ahumada Pavo Sofia kg,Fiambres,Fiambres Externos
+678683,Yogurt Nordland Drink Frutilla 900 ml,Lácteos y Derivados,Yogures
+678684,Yogurt Nordland Drink Durazno 900 ml,Lácteos y Derivados,Yogures
 678709,Leche Descremada Pil Calcifem 800 ml,Lácteos y Derivados,Leches
 678710,Leche Deslactosada Pil Chocolate 800 ml,Lácteos y Derivados,Leches
 678711,Leche Pil Deslactosada Frutilla 800 ml,Lácteos y Derivados,Leches
@@ -15621,6 +15642,7 @@ id_producto,producto,categoria,subcategoria
 679177,Queque Ballerina Banana,Pastelería y Masas Típicas,Pastelería Externa
 679178,Queque Ballerina Naranja,Pastelería y Masas Típicas,Pastelería Externa
 679179,Queque Ballerina Vainilla,Pastelería y Masas Típicas,Pastelería Externa
+679182,Yogurt Nordland Drink Limon 900 cc,Lácteos y Derivados,Yogures
 679186,Pan Miga Zelada 6 un,Panadería,Panadería Externa
 679187,Tostada Zelada Dulce 200 gr,Pastelería y Masas Típicas,Pastelería Externa
 679188,Tostada Zelada Integral 200 gr,Panadería,Panadería Externa
@@ -15938,6 +15960,7 @@ id_producto,producto,categoria,subcategoria
 734893,YOGURT FRUTADO LACTEOSBOL 1 LT. BOT.,Lácteos y Derivados,Yogures
 735411,Vino Navarro Correa Malbec Reserva Seleccion 750 ml,Bebidas,Vinos y Champagne
 736134,Tapa de Empanada Mendia de Freir 15 un,Congelados,Masas y Comidas Congeladas
+736157,Tapa Pascualina Mendia Criolla 400 gr,Congelados,Masas y Comidas Congeladas
 736178,Ravioles Mendia Ricota Espinaca 5000 gr,Congelados,Masas y Comidas Congeladas
 736181,Ravioles Mendia Pollo Espinacas 500 gr,Congelados,Masas y Comidas Congeladas
 741202,Cuñape Congelado Mil Sabores 10 un,Congelados,Masas y Comidas Congeladas
@@ -16114,6 +16137,7 @@ id_producto,producto,categoria,subcategoria
 781427,Helado Bonle Cassata Frutilla Vainilla Chocolate 900 ml,Congelados,"Helados, Cassattas y Picoleses"
 781430,Pan Molde Vikinger Blanco 550 gr,Panadería,Panadería Externa
 781433,Helado Cabrera Choco Cono Menta,Congelados,"Helados, Cassattas y Picoleses"
+781436,Huevos San Sebastian Frescos 12 un,Lácteos y Derivados,Huevos
 781452,Pan de Hamburguesa Vikinger 8 un,Panadería,Panadería Externa
 781463,Mortadela Ovoplus 200 gr,Fiambres,Fiambres Externos
 781466,Disco de Merengue Davieds 20 Personas,Pastelería y Masas Típicas,Pastelería Externa
@@ -16152,6 +16176,7 @@ id_producto,producto,categoria,subcategoria
 782186,Jugo Aquarius Pera 2 L,Bebidas,"Jugos, Néctar"
 782242,Mini Salchicha de Res Sofia 10 un,Fiambres,Fiambres Externos
 782314,Queso Edam La Purita 500 gr,Lácteos y Derivados,Quesos
+782317,Mix Eterovic Mini Budines 4 Sabores 700 gr,Pastelería y Masas Típicas,Pastelería Externa
 782338,Albondigas de Res Sofia Caja 15 un,Congelados,Carnes Congeladas
 782349,Helado Delizia Pancho Paleta,Congelados,"Helados, Cassattas y Picoleses"
 782413,Jamon Ahumado Ovoplus 200 gr,Fiambres,Fiambres Externos
@@ -16234,6 +16259,7 @@ id_producto,producto,categoria,subcategoria
 783891,Yogurt Alimentarte Mermelada Quinua,Lácteos y Derivados,Yogures
 783927,Papa McCain Tradicional 400 gr,Congelados,Masas y Comidas Congeladas
 783956,Pan Molde King Bread Blanco 580 gr,Panadería,Panadería Externa
+783967,Helado Yucatan Pie de Limon,Congelados,"Helados, Cassattas y Picoleses"
 784001,Bizcocho de Maiz San Javier Tradicional 200 gr,Pastelería y Masas Típicas,Masas Típicas Externas
 784013,Cuñape Abiscochado San Javier 200 gr,Pastelería y Masas Típicas,Masas Típicas Externas
 784044,Panqueque San Javier Tradicional 200 gr,Pastelería y Masas Típicas,Masas Típicas Externas
@@ -16378,6 +16404,7 @@ id_producto,producto,categoria,subcategoria
 785785,Queso Fresco Mizque kg,Lácteos y Derivados,Quesos
 785793,Requeson Catupiry Light 200 gr,Lácteos y Derivados,Quesos
 785796,Lomito Ahumado Hipermaxi kg,Fiambres,Fiambres Hipermaxi
+785797,Huevos Avicola Paurito de Gallina Medianos 12 un,Lácteos y Derivados,Huevos
 785823,Helado Cabrera Dueto Chocolate Caja 5 un,Congelados,"Helados, Cassattas y Picoleses"
 785840,Pan Molde Leo Nothmann 570 gr,Panadería,Panadería Externa
 785862,Tortillas Harina Integral Don Taco 360 gr,Congelados,Masas y Comidas Congeladas
@@ -16446,6 +16473,7 @@ id_producto,producto,categoria,subcategoria
 786952,Guantes Household Gloves Plastico Talla S M L,Cuidado del Hogar,Accesorios del Hogar
 786975,Bizcocho de Maiz Pan Hogar 200 gr,Pastelería y Masas Típicas,Masas Típicas Externas
 786979,Cuñapecitos Crocantes Mayser 50 gr,Pastelería y Masas Típicas,Masas Típicas Externas
+786983,Queso de Cabra Chevre Maduro kg,Lácteos y Derivados,Quesos
 786994,Queso Fresco Chever de Cabra kg,Lácteos y Derivados,Quesos
 786997,Mortadela Jamonada La Sierra 500 gr,Fiambres,Fiambres Externos
 787039,Maquina de Afeitar Xtreme3 Schick 2 un,Cuidado Personal,Cuidado de la Piel
@@ -16562,6 +16590,7 @@ id_producto,producto,categoria,subcategoria
 789537,Lomo de Cerdo Ahumado Merida Feteado 100 gr,Fiambres,Fiambres Externos
 789538,Cuñape de Arroz Ingrid Davieds 10 un,Pastelería y Masas Típicas,Masas Típicas Externas
 789541,Carne Deshidratada Jerky Original 100 gr,Carnes,Carnes Procesadas
+789546,PALITOS CHIA SALUD 80 GR,Panadería,Panadería Externa
 789572,Carne Deshidratada Jerky Teriyaki 100 gr,Carnes,Carnes Procesadas
 789573,Choclo Congelado Minuto Verde Desgranado 500 gr,Congelados,Pulpas y Frutas Congeladas
 789576,Escabeche de Pepinillo Guaruja 400 gr,Fiambres,Fiambres Externos
@@ -17920,6 +17949,7 @@ id_producto,producto,categoria,subcategoria
 884190,ERW AFILADOR CUCHILLO SHARPENER,Bazar,Articulos de Cocina
 884458,KENDY JARRA MIXER 2.7LT X1U,Bazar,Menaje Plástico
 884631,Estufa Premier 4 Halogenos,Bazar,Camping General
+884684,Paleta Goma Eva Decorativa,Bazar,Regalos/Adornos
 884828,Fuente Tramontina Rectangular,Bazar,Menaje Vidrio/Cristal
 884888,PINZA P/CARNE 26400/100,Bazar,Churrasquería
 884930,"LIQUIDO RADIADOR VISTONY 946,ML",Bazar,Automotriz
