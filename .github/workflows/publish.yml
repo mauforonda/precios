@@ -1,0 +1,51 @@
+name: Publish
+on:
+  workflow_dispatch:
+
+jobs:
+  publicar:
+    name: publish
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout
+      uses: actions/checkout@master
+
+    - name: setup docs
+      run: |
+        mkdir -p docs
+        touch docs/.nojekyll
+
+    - name: setup python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+    - name: python install
+        run: |
+          python -m pip install --upgrade pip
+          pip install pandas
+
+    - name: update data
+        run: |
+          python view/src/data/variaciones.py
+
+    - name: setup node
+      uses: actions/setup-node@v4
+      with:
+        node-version: 20
+        cache: "npm"
+        cache-dependency-path: ./observar/package-lock.json
+
+    - name: dependencias
+      working-directory: ./view
+      run: npm ci
+
+    - name: build
+      working-directory: ./view
+      run: npm run build
+
+    - name: publicar
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./docs
