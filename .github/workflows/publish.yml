@@ -34,7 +34,7 @@ jobs:
       with:
         node-version: 20
         cache: "npm"
-        cache-dependency-path: ./observar/package-lock.json
+        cache-dependency-path: ./view/package-lock.json
 
     - name: dependencias
       working-directory: ./view
