@@ -1774,12 +1774,14 @@ id_producto,producto,categoria,subcategoria
 30917,Galleta Cofler Choco Creamy Vain 85 gr,Abarrotes,Galletas
 30918,"Galleta Cofler Relleno Chocolate 105,6 gr",Abarrotes,Galletas
 30919,"Galleta Cofler Relleno Choco Bon o Bon 105,6 gr",Abarrotes,Galletas
+30920,Aceite de Oliva Laguna Brava Extra Virgen Clasico,Abarrotes,Básicos
 30921,Aceite de Oliva Laguna Brava Extra Virgen Intenso,Abarrotes,Básicos
 30925,PACK KELLOOGGS 2CHOCO KRISPIS,Abarrotes,Nutrición Infantil
 30926,PACK 1KELLOGG KRISP 175G 1FROOT 160G,Abarrotes,Nutrición Infantil
 30929,GALLETA ISABELA CRACKER TRADIC 350G,Abarrotes,Galletas
 30930,GALLETA ISABELA DD LECHE C CHOCOL 350G,Abarrotes,Galletas
 30931,GALLETA ISABELA LECHE TRADIC 350G,Abarrotes,Galletas
+30932,GALLETA ISABELA SALADA C GERGELIN 350G,Abarrotes,Galletas
 30933,GALLETA ISABELA TORTITA LIMON 140G,Abarrotes,Galletas
 30934,PAPA NATIVA  AMARILLA TIYAPUY 142G,Abarrotes,Snack
 30941,ARROZ CAISY PREDILECTO 1KG,Abarrotes,Básicos
@@ -2149,6 +2151,7 @@ id_producto,producto,categoria,subcategoria
 37366,Albondigas en Salsa Lara 440 gr,Abarrotes,Comidas en Conserva
 37368,Mani Mr Mad Tostado 500 gr,Abarrotes,Snack
 37370,Mani Mr Mad Tostado con Pasas 250 gr,Abarrotes,Snack
+37371,Mani Mr Mad Tostado con Aji 250 gr,Abarrotes,Snack
 37372,Anchoveta San Lucas Picante 430 gr,Abarrotes,Comidas en Conserva
 37373,Chocolate Cobertura Sicao Leche 1 kg,Abarrotes,Repostería
 37380,Mantequilla de Mani Vitapower Integral 450 gr,Abarrotes,Repostería
@@ -4397,13 +4400,17 @@ id_producto,producto,categoria,subcategoria
 120532,Suavizante Ropa Cavallaro Coconut 2 L,Cuidado del Hogar,Limpieza de la Ropa
 120534,Suavizante Ropa Cavallaro Exotico 900 ml,Cuidado del Hogar,Limpieza de la Ropa
 120535,Suavizante Ropa Cavallaro Exotico 2 L,Cuidado del Hogar,Limpieza de la Ropa
+120541,LABIAL VOGUE RESIST LINDA,Cuidado Personal,Cuidado de la Piel
 120545,Ambientador Little Trees Arbolito Surtido,Bazar,Automotriz
 120550,Esmalte de Uña Vogue Efecto Gel Acai,Aseo Personal,Cuidado De La Piel
 120551,Esmalte de Uña Vogue Efecto Gel Flora,Cuidado Personal,Cuidado de la Piel
+120552,ESMALTE EFECTO GEL FLAMINGO,Cuidado Personal,Cuidado de la Piel
 120554,Esmalte de Uña Vogue Efecto Gel Agua,Cuidado Personal,Cuidado de la Piel
 120556,Esmalte de Uña Vogue Efecto Gel Selva,Cuidado Personal,Cuidado de la Piel
+120557,ESMALTE VOGUE EFECTO GEL RIO,Cuidado Personal,Cuidado de la Piel
 120565,PACK LAVANDINA MB 1LT+VAJILLERO MB,Cuidado del Hogar,Limpieza de la Ropa
 120567,BIRELL MAXIBRILL DESODORANTE LAVANDA 5LT,Cuidado del Hogar,Limpieza de Baños
+120568,BIRELL MAXIBRILL DESODORANTE PINO 5LT,Cuidado del Hogar,Limpieza de Baños
 120569,TOALLA HUMEDA MAMI 100 UNDS,Cuidado del Bebé,Cuidado del Bebé
 120573,PASTA DENTAL OB P KIDS MICKEY-MINNIE 37M,Cuidado del Bebé,Kids
 120574,Pañales Pampers Confortsec XXG 24 un,Cuidado del Bebé,Pañales
@@ -5151,6 +5158,7 @@ id_producto,producto,categoria,subcategoria
 194778,Hoja de Carpeta Mochilera Color 500 Hojas,Bazar,Librería
 195447,Aceite Algabo Baby 200 ml,Cuidado del Bebé,Cuidado del Bebé
 195588,Choritos Angelmo al Aceite 192 gr,Abarrotes,Comidas en Conserva
+195626,Cholgas Angelmo en Agua 425 gr,Abarrotes,Comidas en Conserva
 195634,Cholgas Angelmo al Aceite 425 gr,Abarrotes,Comidas en Conserva
 197487,Vino Campos de Solana Tannat Unico 750 ml,Bebidas,Vinos y Champagne
 198002,Arveja Predilecta 170 gr,Abarrotes,Verduras en Conserva
@@ -6135,6 +6143,7 @@ id_producto,producto,categoria,subcategoria
 227136,JAB. GLICERINADO SENADOR SUN STONE 130 G,Cuidado Personal,Cuidado de la Piel
 227138,BARRA DETERGENTE EL MACHO ALOE VERA 220G,Cuidado del Hogar,Limpieza de la Ropa
 227139,BARRA DETERGENTE EL MACHO ALOE VERA 480G,Cuidado del Hogar,Limpieza de la Ropa
+227141,PACK EXCELLENCE 3 + NECESER LOREAL,Cuidado Personal,Cuidado del Cabello
 227142,CONRORNO OJO GARNIER EXPRES ACLARA,Cuidado Personal,Cuidado de la Piel
 227143,BLOQUEADOR LOREAL UV DEFENDER 40 G FLUID,Cuidado Personal,Cuidado de la Piel
 227144,PACK EXCELLENCE NUDES 5U + NECESER LOREA,Cuidado Personal,Cuidado del Cabello
@@ -6161,6 +6170,7 @@ id_producto,producto,categoria,subcategoria
 227178,Vino Los Haroldos Blend 750 ml,Bebidas,Vinos y Champagne
 227179,Lavavajilla Pulpin Limocitron 1050 ml,Cuidado del Hogar,Limpieza de Cocina
 227182,Lavavajilla Pulpin Limocitron 1500 ml,Cuidado del Hogar,Limpieza de Cocina
+227183,Shampoo Tio Nacho Jalea Manzanilla 400 ml,Cuidado del Bebé,Kids
 227487,Alimento Pedigree Adulto 3 kg,Abarrotes,Mascotas
 227611,Toallas Higienicas Kotex Femenina Sport 16 un,Cuidado Personal,Cuidado Familiar
 227712,Toallas Humedas Huggies Limpieza Total MegaPack 240 un,Cuidado del Bebé,Cuidado del Bebé
@@ -7366,6 +7376,7 @@ id_producto,producto,categoria,subcategoria
 334138,Te Supremo Tilo 20 Sobres,Abarrotes,Café y Sucedáneos
 334146,Te Supremo Llanten 20 Sobres,Abarrotes,Café y Sucedáneos
 334260,Te Supremo Rendidora 50 Sobres,Abarrotes,Café y Sucedáneos
+334278,Te Supremo Rendidora 100 Sobres,Abarrotes,Café y Sucedáneos
 334338,Acondicionador Ballerina Antioxidante Maqui Acai 750 ml,Cuidado Personal,Cuidado del Cabello
 334342,Acondicionador Ballerina Antioxidante Maqui Acai Doypack 900 ml,Cuidado Personal,Cuidado del Cabello
 334501,Jabon Liquido Liz Yogurt Frutos Doypack 900 ml,Cuidado Personal,Cuidado de la Piel
@@ -10429,6 +10440,7 @@ id_producto,producto,categoria,subcategoria
 551443,Vape Voom Iris Mix Berry 600 Puffs,Bebidas,Cigarrillos
 551451,Papa Luka Frita Clasica 175 gr,Abarrotes,Snack
 551454,Tripack Cereal Nestle Chocapic 350 gr,Abarrotes,Nutrición Infantil
+551455,PACK 6 CERVEZA MAHOU 5 ESTRELLAS 330 ML,Bebidas,Cervezas
 551456,Galleta Marilan Ring Leche 300 gr,Abarrotes,Galletas
 551458,Galleta Marilan Ring Coco 300 gr,Abarrotes,Galletas
 551459,Galleta Marilan Ring Chocolate 300 gr,Abarrotes,Galletas
@@ -10717,6 +10729,7 @@ id_producto,producto,categoria,subcategoria
 552156,PACK CIGAR BOHEM VINO SPEAKER WIRELESS,Bebidas,Cigarrillos
 552157,Cereal Kelloggs Froot Loops Spinners 265 gr,Abarrotes,Nutrición Infantil
 552158,Marshmallows Trululu Relleno Caramelo 50 gr,Abarrotes,Golosinas - Varias
+552159,Marshmallows Trululu Choco Banana 50 gr,Abarrotes,Golosinas - Varias
 552182,Nectar Pura Vida Manzana 2 L,Bebidas,"Jugos, Néctar"
 552183,Nectar Pura Vida Durazno 2 L,Bebidas,"Jugos, Néctar"
 552184,Nectar Pura Vida Cereza Manzana 2 L,Bebidas,"Jugos, Néctar"
@@ -10849,6 +10862,7 @@ id_producto,producto,categoria,subcategoria
 552422,Chocolate Para Ti Marshmallows 60 gr,Abarrotes,Chocolates y Caramelos
 552423,Takis Xplosion 28 gr,Abarrotes,Snack
 552424,Takis Fuego 28 gr,Abarrotes,Snack
+552425,Cafe Matiz Ambar Molido 340 gr,Abarrotes,Café y Sucedáneos
 552426,Pack 12 Maltin 440 ml,Bebidas,Bebidas Varias
 552430,Masticable Mogul Tubitos Extreme Frutilla 620 gr,Abarrotes,Chocolates y Caramelos
 552431,Masticable Mogul Tubitos Frutilla 70 gr,Abarrotes,Chocolates y Caramelos
@@ -11441,6 +11455,7 @@ id_producto,producto,categoria,subcategoria
 609102,Canela Savoryn Molida 16 gr,Abarrotes,Condimentos y Legumbres
 609137,Comino Savoryn Molido 30 gr,Abarrotes,Condimentos y Legumbres
 609153,Hoja de Laurel Savoryn 10 gr,Abarrotes,Condimentos y Legumbres
+609188,Linaza El Choclito Molida 70 gr,Abarrotes,Condimentos y Legumbres
 609196,Oregano Entero Savoryn 15 gr,Abarrotes,Condimentos y Legumbres
 609226,Pimienta Dulce Savoryn Entera 23 gr,Abarrotes,Condimentos y Legumbres
 609781,Cera Pasta Tigre Perfumada 500 gr,Cuidado del Hogar,Limpieza de Living y Ropero
@@ -11988,6 +12003,7 @@ id_producto,producto,categoria,subcategoria
 645767,Ravioles Mamina Verdura,Congelados,Masas y Comidas Congeladas
 645856,Enciende Fuego x2,Bazar,Churrasquería
 646077,Mortadela Cervecero Stege al Vacio,Fiambres,Fiambres Externos
+646106,Chorizo Ahumado Stege kg,Fiambres,Fiambres Externos
 646111,Silpancho Stege al Vacio,Fiambres,Fiambres Externos
 646320,Desmaquillante Nivea Basico Ojo 125 ml,Cuidado Personal,Cuidado de la Piel
 646408,Avena Princesa Salvado 250 gr,Abarrotes,Nutrición Infantil
@@ -13898,6 +13914,7 @@ id_producto,producto,categoria,subcategoria
 668131,Cera Liquida Ola Neutra 930 ml,Cuidado del Hogar,Limpieza de Living y Ropero
 668132,Cera Liquida Ola Roja 930 ml,Cuidado del Hogar,Limpieza de Living y Ropero
 668139,LIP SMACKER CRAYOLA TRIO,Cuidado Personal,Cuidado de la Piel
+668140,LIP SMACKER CRAYOLA LIQUID,Cuidado Personal,Cuidado de la Piel
 668164,Lavavajilla Bristar Limon 2 L,Cuidado del Hogar,Limpieza de Cocina
 668166,Acondicionador Ballerina Carbon 750 ml,Cuidado Personal,Cuidado del Cabello
 668167,Bolsa Basura Basulip 50x70 con Cinta 10 un,Cuidado del Hogar,Accesorios del Hogar
@@ -14145,6 +14162,7 @@ id_producto,producto,categoria,subcategoria
 668847,TH TOALLAS HUMEDAS BABYSEC PREMIUM 45X10,Cuidado del Bebé,Cuidado del Bebé
 668872,PACK HAIR FOOD 3X2 TRAT + ACO + SH REGAL,Cuidado Personal,Cuidado del Cabello
 668884,PROTECTORES DIARIOS KOTEX PURO X120,Cuidado Personal,Cuidado Familiar
+668885,ALGABO AC. 930 AGUACATE Y ARGAN,Cuidado Personal,Cuidado del Cabello
 668886,Toallas Higienicas Kotex Nocturna Puro Natural,Cuidado Personal,Cuidado Familiar
 668888,PACK PAMPERS CONFORTSEC XXXG (2 PAQ),Cuidado del Bebé,Pañales
 668889,PACK H&S COCO SH700ML + C/P300ML,Cuidado Personal,Cuidado del Cabello
@@ -14503,6 +14521,7 @@ id_producto,producto,categoria,subcategoria
 671675,Tortillas Don Taco Chica Light 240 gr,Congelados,Masas y Comidas Congeladas
 671676,Tortillas Don Taco Mediana Light 360 gr,Congelados,Masas y Comidas Congeladas
 671680,Leche Entera Eba Blanca 946 ml,Lácteos y Derivados,Leches
+671683,Torta Helada Delizia Red Velvet Primavera,Congelados,"Helados, Cassattas y Picoleses"
 671691,Lomito Cocido Stege al Vacio un,Fiambres,Fiambres Externos
 671692,BLUE DIAMOND ALMOND MILK CHOCOLATE,Lácteos y Derivados,Leches
 671697,Carne Cola de Lagarto Matusha Aidha kg,Congelados,Carnes Congeladas
@@ -14523,6 +14542,7 @@ id_producto,producto,categoria,subcategoria
 671771,Salami Tipo Milan Stege 140 gr,Fiambres,Fiambres Externos
 671775,Queso Mozzarella San Javier 450 gr,Lácteos y Derivados,Quesos
 671776,Queso Mozzarella San Javier kg,Lácteos y Derivados,Quesos
+671777,Queso Criollo San Javier Al Vacio Kg,Lácteos y Derivados,Quesos
 671787,Salsa Rincon M Picante Ulupica 55 ml,Abarrotes,Aderezos
 671788,Vinagreta Ulupica Rincon Madera 55 ml,Abarrotes,Aderezos
 671789,Pate Rinco Madera Aceituna Negra 140 ml,Abarrotes,Aderezos
@@ -15005,6 +15025,7 @@ id_producto,producto,categoria,subcategoria
 673434,Galleta Wafer Bauducco Chocolate 420 gr,Abarrotes,Galletas
 673436,Cereal Zucaritas Kelloggs 480 gr,Abarrotes,Nutrición Infantil
 673446,BUTTELLA BLACK MANTEQUILLA MANI CON CHOCOLATE 360GRS,Lácteos y Derivados,Mantequillas y Margarinas
+673447,BUTTELLA WHITE MANTEQUILLA DE MANI CHOCOLATE BLANCO 360GRS,Lácteos y Derivados,Mantequillas y Margarinas
 673448,BUTTELLA CLASSIC MANTEQUILLA DE MANI 360GRS,Lácteos y Derivados,Mantequillas y Margarinas
 673450,Mantequilla de Mani Tacker Cremosa 240 gr,Lácteos y Derivados,Mantequillas y Margarinas
 673451,Mantequilla de Mani Tacker Crocante 240 gr,Lácteos y Derivados,Mantequillas y Margarinas
@@ -15161,6 +15182,7 @@ id_producto,producto,categoria,subcategoria
 673812,Mortadela de Pavo Santa Isabel 200 gr,Fiambres,Fiambres Externos
 673813,Pate de Higado de Pavo Santa Isabel 100 gr,Fiambres,Fiambres Externos
 673814,Salchicha de Pavo Santa Isabel 500 gr,Fiambres,Fiambres Externos
+673815,MUSLO DE PAVO AHUMADO SANTA ISABEL 2 UNIDADES,Fiambres,Fiambres Externos
 673821,Jamon de Pavo Santa Isabel Barra kg,Fiambres,Fiambres Externos
 673822,Mortadela de Pavo Santa Isabel Barra kg,Fiambres,Fiambres Externos
 673827,Salchicha Cielo Tipo Viena San Juancho,Fiambres,Fiambres Externos
