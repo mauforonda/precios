@@ -27,16 +27,10 @@ data = data.map((d) => {
 
 ```js
 // Tiempo
-const nombres = {
-    1: "ayer",
-    3: "hace 3 días",
-    7: "hace una semana",
-    14: "hace 2 semanas",
-    30: "hace 1 mes",
-};
-const dias = Inputs.select([1, 3, 7], {
+const cobertura = await FileAttachment("data/cobertura.json").json()
+const dias = Inputs.select(Object.keys(cobertura), {
     value: 1,
-    format: (d) => nombres[d],
+    format: (d) => cobertura[d],
     label: "Cambios desde",
 });
 const dia = Generators.input(dias);
@@ -80,7 +74,7 @@ const resultado = Generators.input(busqueda);
 const tabla = Inputs.table(resultado, {
     columns: ["producto", dia, "hoy", `${dia}_cambio`],
     header: {
-        [dia]: nombres[dia],
+        [dia]: cobertura[dia],
         [`${dia}_cambio`]: "variación",
     },
     format: {

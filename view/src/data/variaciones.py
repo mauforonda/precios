@@ -8,9 +8,22 @@ import json
 fuente = "./data/hipermaxi/"
 departamentos = ["cochabamba", "la_paz", "santa_cruz"]
 output = os.path.dirname(os.path.abspath(__file__))
+periodos = {
+    1: "ayer",
+    3: "hace 3 días",
+    7: "hace una semana",
+    14: "hace 2 semanas",
+    30: "hace 1 mes",
+    60: "hace 2 meses",
+    90: "hace 3 meses",
+    180: "hace 6 meses",
+    365: "hace 1 año"
+}
+cobertura = []
 
 
 def verCambios(pivot, dias):
+    cobertura.append(dias)
     vista = pd.concat(
         [
             pivot.iloc[-1 - dias],
@@ -32,7 +45,11 @@ for departamento in departamentos:
 
     pd.concat(
         [df.iloc[-1].rename("hoy")]
-        + [verCambios(df, dias) for dias in [1, 3, 7, 14, 30] if df.shape[0] >= (dias + 1)],
+        + [
+            verCambios(df, dias)
+            for dias in periodos.keys()
+            if df.shape[0] >= (dias + 1)
+        ],
         axis=1,
     ).to_csv(f"{output}/{departamento}.csv", float_format="%.3g")
 
@@ -40,3 +57,6 @@ for departamento in departamentos:
 with open(f"{output}/productos.json", "w+") as f:
     productos = pd.read_csv(Path(fuente, "productos.csv")).set_index("id_producto")
     json.dump(productos.to_dict(orient="index"), f, ensure_ascii=False)
+
+with open(f"{output}/cobertura.json", "w+") as f:
+    json.dump({d: periodos[d] for d in cobertura}, f, ensure_ascii=False)
