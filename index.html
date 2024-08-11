@@ -12,7 +12,7 @@
 <link rel="modulepreload" href="./_observablehq/client.js">
 <link rel="modulepreload" href="./_observablehq/runtime.js">
 <link rel="modulepreload" href="./_observablehq/stdlib.js">
-<link rel="modulepreload" href="./_import/components/files.079e1144.js">
+<link rel="modulepreload" href="./_import/components/files.16ba9856.js">
 <link rel="modulepreload" href="./_import/components/format.a3232af2.js">
 <link rel="modulepreload" href="./_npm/htl@0.3.1/_esm.js">
 <link rel="modulepreload" href="./_npm/d3-dsv@3.0.1/_esm.js">
@@ -24,13 +24,14 @@
 import {define} from "./_observablehq/client.js";
 import {registerFile} from "./_observablehq/stdlib.js";
 
-registerFile("./data/cochabamba.csv", {"name":"./data/cochabamba.csv","mimeType":"text/csv","path":"./_file/data/cochabamba.edcf3ca1.csv","lastModified":1723264741244});
-registerFile("./data/la_paz.csv", {"name":"./data/la_paz.csv","mimeType":"text/csv","path":"./_file/data/la_paz.3ead1f9c.csv","lastModified":1723264741420});
-registerFile("./data/productos.json", {"name":"./data/productos.json","mimeType":"application/json","path":"./_file/data/productos.1c37224c.json","lastModified":1723264741832});
-registerFile("./data/santa_cruz.csv", {"name":"./data/santa_cruz.csv","mimeType":"text/csv","path":"./_file/data/santa_cruz.2550691f.csv","lastModified":1723264741588});
+registerFile("./data/cobertura.json", {"name":"./data/cobertura.json","mimeType":"application/json","path":"./_file/data/cobertura.9e800842.json","lastModified":1723350990802});
+registerFile("./data/cochabamba.csv", {"name":"./data/cochabamba.csv","mimeType":"text/csv","path":"./_file/data/cochabamba.4d38e171.csv","lastModified":1723350990206});
+registerFile("./data/la_paz.csv", {"name":"./data/la_paz.csv","mimeType":"text/csv","path":"./_file/data/la_paz.95643018.csv","lastModified":1723350990386});
+registerFile("./data/productos.json", {"name":"./data/productos.json","mimeType":"application/json","path":"./_file/data/productos.75b327ec.json","lastModified":1723350990802});
+registerFile("./data/santa_cruz.csv", {"name":"./data/santa_cruz.csv","mimeType":"text/csv","path":"./_file/data/santa_cruz.4bd4e334.csv","lastModified":1723350990558});
 
 define({id: "09166b80", outputs: ["files","Trend"], body: async () => {
-const [{files}, {Trend}] = await Promise.all([import("./_import/components/files.079e1144.js"), import("./_import/components/format.a3232af2.js")]);
+const [{files}, {Trend}] = await Promise.all([import("./_import/components/files.16ba9856.js"), import("./_import/components/format.a3232af2.js")]);
 // Imports
 
 return {files,Trend};
@@ -57,22 +58,16 @@ data = data.map((d) => {
 return {productos,data};
 }});
 
-define({id: "431d40df", inputs: ["Inputs","Generators"], outputs: ["nombres","dias","dia"], body: (Inputs,Generators) => {
+define({id: "ece3cbd2", inputs: ["FileAttachment","Inputs","Generators"], outputs: ["cobertura","dias","dia"], body: async (FileAttachment,Inputs,Generators) => {
 // Tiempo
-const nombres = {
-    1: "ayer",
-    3: "hace 3 días",
-    7: "hace una semana",
-    14: "hace 2 semanas",
-    30: "hace 1 mes",
-};
-const dias = Inputs.select([1, 3, 7], {
+const cobertura = await FileAttachment("./data/cobertura.json").json()
+const dias = Inputs.select(Object.keys(cobertura), {
     value: 1,
-    format: (d) => nombres[d],
+    format: (d) => cobertura[d],
     label: "Cambios desde",
 });
 const dia = Generators.input(dias);
-return {nombres,dias,dia};
+return {cobertura,dias,dia};
 }});
 
 define({id: "530abf1d", inputs: ["data","dia","Inputs","Generators"], outputs: ["dataDia","categorias","sugerencias","sugerencia"], body: (data,dia,Inputs,Generators) => {
@@ -110,12 +105,12 @@ const resultado = Generators.input(busqueda);
 return {busqueda,resultado};
 }});
 
-define({id: "cf01e269", inputs: ["Inputs","resultado","dia","nombres","Trend"], outputs: ["tabla"], body: (Inputs,resultado,dia,nombres,Trend) => {
+define({id: "0b3690ae", inputs: ["Inputs","resultado","dia","cobertura","Trend"], outputs: ["tabla"], body: (Inputs,resultado,dia,cobertura,Trend) => {
 // Tabla
 const tabla = Inputs.table(resultado, {
     columns: ["producto", dia, "hoy", `${dia}_cambio`],
     header: {
-        [dia]: nombres[dia],
+        [dia]: cobertura[dia],
         [`${dia}_cambio`]: "variación",
     },
     format: {
@@ -171,10 +166,10 @@ tabla
 <div class="observablehq observablehq--block"><!--:09166b80:--></div>
 <div class="observablehq observablehq--block"><!--:0fb55661:--></div>
 <div class="observablehq observablehq--block"><!--:eab7cc28:--></div>
-<div class="observablehq observablehq--block"><!--:431d40df:--></div>
+<div class="observablehq observablehq--block"><!--:ece3cbd2:--></div>
 <div class="observablehq observablehq--block"><!--:530abf1d:--></div>
 <div class="observablehq observablehq--block"><!--:da2ae9de:--></div>
-<div class="observablehq observablehq--block"><!--:cf01e269:--></div>
+<div class="observablehq observablehq--block"><!--:0b3690ae:--></div>
 <div class="grid grid-cols-3 controls">
     <div class="card grid-colspan-1">
         <observablehq-loading></observablehq-loading><!--:e471f4fa:-->
