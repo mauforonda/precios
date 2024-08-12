@@ -1123,6 +1123,7 @@ id_producto,producto,categoria,subcategoria
 17821,Whisky The Glenliveth Founder 1 L,Bebidas,Licores
 17822,Gin Beefeater 24 1 L,Bebidas,Licores
 17823,Vino El Viejo Toro Tinto 1125 ml,Bebidas,Vinos y Champagne
+17824,Sangria Dos Hermanos 4 L,Bebidas,Licores
 17827,Cereal Torremolino Choko Buho 220 gr,Abarrotes,Nutrición Infantil
 17831,Salsa B&R Nacho Guacamole 320 gr,Abarrotes,Aderezos
 17833,Salsa B&R Nacho De Porotos 320 gr,Abarrotes,Aderezos
@@ -1805,6 +1806,7 @@ id_producto,producto,categoria,subcategoria
 30937,GALLETA DIVELLA SAVOIARDI TIRAMISU 400G,Abarrotes,Galletas
 30941,ARROZ CAISY PREDILECTO 1KG,Abarrotes,Básicos
 30942,PAPA NATIVA TIYAPUY AJI AMARILLO 142G,Abarrotes,Snack
+30945,ISOTONICO REVIVE FRUTIPONCH 1LT,Bebidas,Isotónicos
 30946,ISOTONICO REVIVE BLUEBERRY 1LT,Bebidas,Isotónicos
 30947,ISOTONICO REVIVE BLUEBERRY 600ML,Bebidas,Isotónicos
 30948,ISOTONICO REVIVE FRUTIPONCH 600ML,Bebidas,Isotónicos
@@ -4352,6 +4354,7 @@ id_producto,producto,categoria,subcategoria
 118900,Shampoo Elvive Dream Long 680 ml,Cuidado Personal,Cuidado del Cabello
 118923,Paño Limppano Multiuso Furatto Limon 5 un,Cuidado del Hogar,Accesorios del Hogar
 119001,Crema Capilar Skala Oleo Gargan 1 kg,Cuidado Personal,Cuidado del Cabello
+119007,AGUA OXIGENADA FARMAX 900 ML.,Cuidado Personal,Cuidado del Cabello
 119008,Limpiador de Azulejos Sapolio Gatillo 550 ml,Cuidado del Hogar,Limpieza de Baños
 119009,Agua Oxigenada Farmax Volumen 20 90 ml,Cuidado Personal,Cuidado del Cabello
 119012,Quitamanchas Vanish Rosa 450 gr,Cuidado del Hogar,Limpieza de la Ropa
@@ -4461,6 +4464,7 @@ id_producto,producto,categoria,subcategoria
 120554,Esmalte de Uña Vogue Efecto Gel Agua,Cuidado Personal,Cuidado de la Piel
 120556,Esmalte de Uña Vogue Efecto Gel Selva,Cuidado Personal,Cuidado de la Piel
 120557,ESMALTE VOGUE EFECTO GEL RIO,Cuidado Personal,Cuidado de la Piel
+120560,LABIAL COLORISSIMO CEREZA,Cuidado Personal,Cuidado de la Piel
 120565,PACK LAVANDINA MB 1LT+VAJILLERO MB,Cuidado del Hogar,Limpieza de la Ropa
 120567,BIRELL MAXIBRILL DESODORANTE LAVANDA 5LT,Cuidado del Hogar,Limpieza de Baños
 120568,BIRELL MAXIBRILL DESODORANTE PINO 5LT,Cuidado del Hogar,Limpieza de Baños
@@ -9029,7 +9033,7 @@ id_producto,producto,categoria,subcategoria
 436321,PULPO PUERTO AZUL KG,Congelados,Carnes Congeladas
 436330,Mixtura de Mariscos Puerto Azul kg,Congelados,Carnes Congeladas
 436356,Langostino Precocido Grande Puerto Azul kg,Congelados,Carnes Congeladas
-436365,Pierna Muslo Sofia Bandeja kg,Carnes,Carne De Pollo
+436365,Pierna Muslo Sofia Bandeja kg,Carnes,Carne de Pollo
 436402,Langostino Puerto Azul 16-20 cm,Congelados,Carnes Congeladas
 436410,Langostino U 21-25 Puerto Azul kg,Congelados,Carnes Congeladas
 436615,Pack Salchicha San Juan de Pollo Extralarga 8 un,Fiambres,Fiambres Hipermaxi
@@ -10124,7 +10128,7 @@ id_producto,producto,categoria,subcategoria
 550433,Miel de Abeja Irupana Yungas 670 gr,Abarrotes,"Mermel, Mieles"
 550436,Granola Irupana 250 gr,Abarrotes,Nutrición Infantil
 550437,Musli Irupana Avena Frutos Secos 500 gr,Abarrotes,Nutrición Infantil
-550438,PIPOCA DE QUINUA ORGANICA IRUPANA 130 G,Abarrotes,Nutric. Infantil
+550438,PIPOCA DE QUINUA ORGANICA IRUPANA 130 G,Abarrotes,Nutrición Infantil
 550439,PIPOCA DE QUINUA CON MIEL DE CAÑA IRUPAN,Abarrotes,Nutrición Infantil
 550445,Maiz Frito Avati Cheddar 100 gr,Abarrotes,Snack
 550446,Maiz Avati Frito Picante 100 gr,Abarrotes,Snack
@@ -11043,6 +11047,7 @@ id_producto,producto,categoria,subcategoria
 552481,Galleta Carsa Rosquilla Coco 300 gr,Abarrotes,Galletas
 552482,Galleta Carsa Dixi 60 gr,Abarrotes,Galletas
 552484,Marshmallows Crismelos Mini 800 gr,Abarrotes,Chocolates y Caramelos
+552485,LIMON DESHIDRATADO BARMIX DP 20 GR,Abarrotes,Frutas en Conserva
 552486,TORONJA DESHIDRATADA BARMIX DP 20 GR,Abarrotes,Frutas en Conserva
 552488,PACK 4 ALFAJORES ALFA CORAZON,Abarrotes,Golosinas - Varias
 552490,PACK VINO SWEET ARANJUEZ 750ML  MANJAR D,Bebidas,Vinos y Champagne
@@ -12595,6 +12600,7 @@ id_producto,producto,categoria,subcategoria
 654174,Helado Miki Vainilla 100 gr,Abarrotes,Repostería
 654175,Helado Miki Frutilla 100 gr,Abarrotes,Repostería
 654176,Helado Miki Chocolate 100 gr,Abarrotes,Repostería
+654177,Gelatina Miki Frutilla Light 25 gr,Abarrotes,Dietéticos y Saludables
 654178,Gelatina Miki Naranja Light 25 gr,Abarrotes,Dietéticos y Saludables
 654179,Gelatina Miki Durazno Light 25 gr,Abarrotes,Dietéticos y Saludables
 654180,Gelatina Miki Piña Light 25 gr,Abarrotes,Dietéticos y Saludables
@@ -13145,6 +13151,7 @@ id_producto,producto,categoria,subcategoria
 657760,Avena Irupana Instantanea 360 gr,Abarrotes,Nutrición Infantil
 657780,Galleta La Suprema Surtida 300 gr,Abarrotes,Galletas
 657781,Galleta La Suprema Surtida 400 gr,Abarrotes,Galletas
+657785,Papa Sabrosita Bolivar Fritas,Abarrotes,Snack
 657795,Sopa Instantanea Mix Quinua Blanca Arroz,Abarrotes,Condimentos y Legumbres
 657796,Sopa Instantanea Mix Quinua Negra Arroz,Abarrotes,Condimentos y Legumbres
 657807,Vino Infinitum Blend Concepcion Tinto 750 ml,Bebidas,Vinos y Champagne
@@ -13452,6 +13459,7 @@ id_producto,producto,categoria,subcategoria
 660084,Cafe Montaraz Molido Americano Drip 50 gr,Abarrotes,Café y Sucedáneos
 660085,Cafe Montaraz Tipo Europeo 50 gr,Abarrotes,Café y Sucedáneos
 660086,Te Frutte New Age Colageno 20 Sobres,Abarrotes,Café y Sucedáneos
+660088,VASO GRAGEA  SURTIDO CONDOR 50 GR,Abarrotes,Chocolates y Caramelos
 660089,VASO GRAGEA SURTIDO CONDOR 200 GR,Abarrotes,Chocolates y Caramelos
 660092,Barra Multicereal Miel Chia x12,Abarrotes,Dietéticos y Saludables
 660093,Barra Multicereal Miel Papaya x12,Abarrotes,Dietéticos y Saludables
@@ -14345,6 +14353,7 @@ id_producto,producto,categoria,subcategoria
 668927,ECOROLLO 60X85 50L,Cuidado del Hogar,Accesorios del Hogar
 668931,ECOROLLO 65X80 50L,Cuidado del Hogar,Accesorios del Hogar
 668938,SHAMPOO H&S ANTICOMEZON 375ML,Cuidado Personal,Cuidado del Cabello
+668940,PACK 2X1 PAÑUELOS FACIALES FAMILIA CJA 5,Cuidado Personal,Cuidado Familiar
 669901,Pizza Hipermaxi Congelada Hawaiana 620 gr,Congelados,Masas y Comidas Congeladas
 669902,Pizza Hipermaxi Congelada Jamon Queso Light Masa Integral,Congelados,Masas y Comidas Congeladas
 669903,Pizza Hipermaxi Congelada Pepperoni 620 gr,Congelados,Masas y Comidas Congeladas
@@ -14999,6 +15008,7 @@ id_producto,producto,categoria,subcategoria
 672691,Mortadela de Pollo Ovoplus Jamonada kg,Fiambres,Fiambres Externos
 672692,Jamon Ahumado Ovoplus kg,Fiambres,Fiambres Externos
 672694,Jamon Cocido Ovoplus kg,Fiambres,Fiambres Externos
+672695,Queso Paorumani Semi Maduro 500 gr,Lácteos y Derivados,Quesos
 672697,Charque de Llama Chichi 100 gr,Carnes,Carnes Procesadas
 672699,Helado Pil Vainilla 900 ml,Congelados,"Helados, Cassattas y Picoleses"
 672700,Helado Pil Chocolate 900 ml,Congelados,"Helados, Cassattas y Picoleses"
@@ -15015,8 +15025,10 @@ id_producto,producto,categoria,subcategoria
 672720,Pan de Panchito Bri Line Grande,Panadería,Panadería Externa
 672721,Salchicha Viena Roja Sofia kg,Fiambres,Fiambres Externos
 672722,Salchicha Sofia Roja Coctelera A Granel kg,Fiambres,Fiambres Externos
+672729,Queso Tipo Manchego de Cabra Colinas del Sol kg,Lácteos y Derivados,Quesos
 672731,Queso Colinas del Sol Brie de Vaca kg,Lácteos y Derivados,Quesos
 672732,Queso Colinas del Sol Brie de Cabra kg,Lácteos y Derivados,Quesos
+672736,Queso Grana Padano Colinas del Sol kg,Lácteos y Derivados,Quesos
 672753,Base de Quinua Prosana Queso Tipo Hamburguesa,Congelados,Carnes Congeladas
 672754,Hamburguesa Prosana Quinua Salvado Avena,Congelados,Carnes Congeladas
 672755,Hamburguesa Prosana Lenteja Hierbas Aromaticas,Congelados,Carnes Congeladas
@@ -16468,6 +16480,7 @@ id_producto,producto,categoria,subcategoria
 783108,Mantequilla Regia 410 gr,Lácteos y Derivados,Mantequillas y Margarinas
 783120,Pernil Ahumado Sofia kg,Fiambres,Fiambres Externos
 783121,Cola de Langostino Pez Mar Crudo 21-25 cm 500 gr,Congelados,Carnes Congeladas
+783124,Galleta de Stevia Vikinger con Avena,Panadería,Panadería Externa
 783134,Cola de Langostino Crudo 36-40 cm Pez y Mar 500 gr,Congelados,Carnes Congeladas
 783162,Cola de Langostino Precocido Pez y Mar 450 gr,Congelados,Carnes Congeladas
 783196,Nuggets Pop Pollo Fridosa 300 gr,Congelados,Carnes Congeladas
@@ -17149,6 +17162,7 @@ id_producto,producto,categoria,subcategoria
 819265,Ron Matusalen Solera 7 Años 700 ml,Bebidas,Licores
 819287,TAJADOR I-GLOO  EJECT 1 ORIF.,Bazar,Librería
 819329,Salsa de Tomate Hunts Oregano 227 gr,Abarrotes,Salsas y Extracto de Tomate
+819334,Salsa de Tomate Hunts Roasted 227 gr,Abarrotes,Salsas y Extracto de Tomate
 819403,Ron Abuelo Añejo 750 ml,Bebidas,Licores
 819418,Ron Abuelo Añejo 1 L,Bebidas,Licores
 819423,Ron Abuelo Añejo 1750 ml,Bebidas,Licores
@@ -18057,6 +18071,7 @@ id_producto,producto,categoria,subcategoria
 873107,FOCO LED LUZ AMARILLA 10W RAYOVAC,Bazar,Ferretería
 873183,Pincel de Barba Condor Sm 2008,Cuidado Personal,Cuidado de la Piel
 873188,CEPILLO CABELLO FASHION CONDOR 6893,Bazar,Bijouteria/Cuidado Personal
+873189,CEPILLO CABELLO FLUORS +PINE CONDOR 6802,Bazar,Bijouteria/Cuidado Personal
 873220,Leche Delizia Vaquita Chocolatada 946 ml,Lácteos y Derivados,Leches
 873282,VELAS FORMA PELOTAS OLE BOL X6UND,Bazar,Cotillón
 873283,VELAS LARGA C/SOPORTE OLE BOL X12UND,Bazar,Cotillón
@@ -18597,8 +18612,10 @@ id_producto,producto,categoria,subcategoria
 937836,CEPILLO P/CABELLO RAQUEL CONDOR 6807,Bazar,Bijouteria/Cuidado Personal
 937837,CEPILLO P/CABELLO MARISA M CONDOR 6820,Bazar,Bijouteria/Cuidado Personal
 937838,CEPILLO P/CABELLO SIMONE M CONDOR 6871,Bazar,Bijouteria/Cuidado Personal
+937839,Set Peine Condor 3 un Sm 110,Bazar,Bijouteria/Cuidado Personal
 937843,Set Peine Condor 2 un Sm 120,Bazar,Bijouteria/Cuidado Personal
 937845,Set Peine Condor 2 un,Bazar,Bijouteria/Cuidado Personal
+937846,Set Peine Condor Romance 3 un,Bazar,Bijouteria/Cuidado Personal
 937847,PEINE AQUAHAIR  CONDOR  SM 140,Bazar,Bijouteria/Cuidado Personal
 937850,Set Cepillo Condor Peine Para Bebe,Bazar,Bijouteria/Cuidado Personal
 937852,Pincel Brocha de Pintura Condor,Bazar,Bijouteria/Cuidado Personal
