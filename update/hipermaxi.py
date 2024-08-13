@@ -23,11 +23,11 @@ TIMEOUT = 10
 def construirHeaders():
     def conseguirMain():
         response = requests.get(
-            "https://tienda.hipermaxi.com", verify=False, timeout=TIMEOUT
+            "https://hipermaxi.com", verify=False, timeout=TIMEOUT
         )
         js = re.findall(r"src=\"\/static\/js\/(main.+\.js)\">", response.text)[0]
         response = requests.get(
-            f"https://tienda.hipermaxi.com/static/js/{js}",
+            f"https://hipermaxi.com/static/js/{js}",
             verify=False,
             timeout=TIMEOUT,
         )
@@ -72,8 +72,8 @@ def construirHeaders():
     bearer = response.json()["access_token"]
     return dict(
         authorization=f"Bearer {bearer}",
-        origin="https://tienda.hipermaxi.com",
-        referer="https://tienda.hipermaxi.com",
+        origin="https://hipermaxi.com",
+        referer="https://hipermaxi.com",
     )
 
 
