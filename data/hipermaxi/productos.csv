@@ -1232,7 +1232,9 @@ id_producto,producto,categoria,subcategoria
 18037,Frijoles La Costeña Ranch 410 gr,Abarrotes,Comidas en Conserva
 18038,Papa Luka Frita Clasica 75 gr,Abarrotes,Snack
 18042,Linaza Nutriva Molida 300 gr,Abarrotes,Condimentos y Legumbres
+18047,Ajo Oma Polvo 70 gr,Abarrotes,Condimentos y Legumbres
 18048,Mezcla Oma Masala de Especias 50 gr,Abarrotes,Condimentos y Legumbres
+18049,Curcuma Oma Molido 50 gr,Abarrotes,Condimentos y Legumbres
 18050,Pimenton Oma Polvo 50 gr,Abarrotes,Condimentos y Legumbres
 18051,Pimienta Roja Oma 50 gr,Abarrotes,Condimentos y Legumbres
 18052,Salsa Molho Toscano de Ajo 1010 ml,Abarrotes,Condimentos y Legumbres
@@ -1434,11 +1436,14 @@ id_producto,producto,categoria,subcategoria
 30211,Crema Avellana Taste Vegano 360 gr,Abarrotes,Dietéticos y Saludables
 30213,Agua Tonik Nostas Sport 1 L,Bebidas,Aguas
 30214,Agua Tonik Nostas Sport 600 ml,Bebidas,Aguas
+30215,Cafe Segafredo Clasico 10 Capsula,Abarrotes,Café y Sucedáneos
 30217,Salsa Arcor Bolognesa 340 gr,Abarrotes,Salsas y Extracto de Tomate
 30218,Pasas de Uva Cofler con Chocolate 100 gr,Abarrotes,Chocolates y Caramelos
 30219,Harina Famosa Masas Crocante 1 kg,Abarrotes,Básicos
 30220,Vinagre Castelo de Alcohol 2 L,Abarrotes,Básicos
 30221,Vinagre Balsamico Castelo 250 ml,Abarrotes,Básicos
+30222,Cafe Segafredo Intenso 10 Capsula,Abarrotes,Café y Sucedáneos
+30225,Cafe Segafredo 100% Perurfa 10 Capsula,Abarrotes,Café y Sucedáneos
 30230,Alimento Gati Pescado Salmon 3 kg,Abarrotes,Mascotas
 30231,Cafe Sao Paulo Molido 300 gr,Abarrotes,Café y Sucedáneos
 30232,Farofa Pinduca Cebolla 200 gr,Abarrotes,Productos Americanos
@@ -3752,6 +3757,10 @@ id_producto,producto,categoria,subcategoria
 109582,Cafe 3 Corazones Extra Fuerte Vacuo 250 gr,Abarrotes,Café y Sucedáneos
 109583,Cafe 3 Corazones Premium 250 gr,Abarrotes,Café y Sucedáneos
 109618,Suavizante Ropa Gain Original 1.53 L,Cuidado del Hogar,Limpieza de la Ropa
+109620,CEPILLO DOCTOR DENT SUPER MAX X5,Cuidado Personal,Cuidado Bucal
+109621,Cepillo Dental Doctor Dent Supermax 3 un,Cuidado Personal,Cuidado Bucal
+109622,Cepillo Dental Doctor Dent Supermax 1 un,Cuidado Personal,Cuidado Bucal
+109623,Cepillo Dental Doctor Dent Panda Inicial 1 un,Cuidado del Bebé,Kids
 109624,Cepillo Dental Doctor Dent Viajero 1 un,Cuidado Personal,Cuidado Bucal
 109625,Insecticida Killer Acaros Piojos 360 ml,Cuidado del Hogar,Insecticidas
 109627,Ambientador Aerosol Rocio Fres Silvestre 360 ml,Cuidado del Hogar,Limpieza de Living y Ropero
@@ -5685,10 +5694,12 @@ id_producto,producto,categoria,subcategoria
 220917,Cepillo Dental Doctor Dent Angry Birds 2 Años 1 un,Cuidado del Bebé,Kids
 220918,Cepillo Dental Doctor Dent Magie Simpsons 2 Años 1 un,Cuidado del Bebé,Kids
 220921,Paño Mr.Trapo Cocina 3 un,Cuidado del Hogar,Accesorios del Hogar
+220924,Paño Mr. Trapo Piso Absorvente  50x60 cm,Cuidado del Hogar,Accesorios del Hogar
 220970,Desodorante Aerosol Dove Original 150 ml,Cuidado Personal,Cuidado de la Piel
 220971,Desodorante Aerosol Dove Pepino 150 ml,Cuidado Personal,Cuidado de la Piel
 220976,Desodorante Aerosol Dove Dermo Aclarante 150 ml,Cuidado Personal,Cuidado de la Piel
 220977,Desodorante Aerosol Dove Clean Tone 150 ml,Cuidado Personal,Cuidado de la Piel
+221077,Hilo Dental Doctor Dent Con Arco 32 un,Cuidado Personal,Cuidado Bucal
 221107,Cafe Matiz Marfil 340 gr,Abarrotes,Café y Sucedáneos
 221108,Cafe Matiz Escarlata 340 gr,Abarrotes,Café y Sucedáneos
 221109,Cafe Matiz Ebano 340 gr,Abarrotes,Café y Sucedáneos
@@ -6068,7 +6079,8 @@ id_producto,producto,categoria,subcategoria
 223885,Jabon Liquido Carissa Crema Humectante 800 ml,Cuidado Personal,Cuidado de la Piel
 223886,Lavavajilla Cif Limon 500 ml,Cuidado del Hogar,Productos Americanos
 223888,Pack Lavandina Maxibrillo + Limpiador de Pisos,Cuidado del Hogar,Limpieza de la Ropa
-223889,Pack Lavandina Maxibrill 1 L + Limpiador de Pisos,Aseo Del Hogar,Limpieza De La Ropa
+223889,Pack Lavandina Maxibrill 1 L + Limpiador de Pisos,Cuidado del Hogar,Limpieza de la Ropa
+223890,Pack Lavandina 1 L + Suavizante Classic,Cuidado del Hogar,Limpieza de la Ropa
 223891,Pack Lavandina 1 L + Suavizante Floral,Cuidado del Hogar,Limpieza de la Ropa
 223893,Set Balde Hude Eco 10 L,Cuidado del Hogar,Accesorios del Hogar
 223894,Set Balde Hude Tatay 17 L,Cuidado del Hogar,Accesorios del Hogar
@@ -6166,6 +6178,7 @@ id_producto,producto,categoria,subcategoria
 224043,Limpiador de Pisos Procenex Aire Primavera 1.8 L,Cuidado del Hogar,Limpieza de Baños
 224044,Papel Higienico Perlita Pink 8 un,Cuidado Personal,Cuidado Familiar
 224045,Papel Higienico Perlita Plus 12 un,Cuidado Personal,Cuidado Familiar
+224046,Papel Higienico Perlita Plus 6 un,Cuidado Personal,Cuidado Familiar
 224047,Ampolla Babaria Vitamina C,Cuidado Personal,Cuidado del Cabello
 224048,Ampolla Babaria Hialuronico,Cuidado Personal,Cuidado del Cabello
 224050,Crema Facial Babaria Acido Glicolico,Cuidado Personal,Cuidado de la Piel
@@ -6402,6 +6415,7 @@ id_producto,producto,categoria,subcategoria
 231240,Galleta Arcor Rellena Chocolate 120 gr,Abarrotes,Galletas
 231258,Galleta Arcor Rellena Frutilla 120 gr,Abarrotes,Galletas
 231445,Guantes Scotch Brite Para Cocina Talla P/S,Cuidado del Hogar,Accesorios del Hogar
+231673,ZUCARITAS KELLOOGGS 420 GR,Abarrotes,Nutrición Infantil
 231681,Cereal Kelloggs Corn Flakes 500 gr,Abarrotes,Nutrición Infantil
 231890,Sardina Ramirez Aceite Vegetal 125 gr,Abarrotes,Comidas en Conserva
 231913,Sorrentinos Olive Jamon Queso 1500 gr,Congelados,Masas y Comidas Congeladas
@@ -6485,9 +6499,9 @@ id_producto,producto,categoria,subcategoria
 243540,Durazno al Jugo Norte 820 gr,Abarrotes,Frutas en Conserva
 243850,Salsa Soya Aji No Sillao 150 ml,Abarrotes,Condimentos y Legumbres
 243930,Salsa Soya Aji No Sillao 500 ml,Abarrotes,Condimentos y Legumbres
-244198,MA CORTINA DECORATIVA .14,Bazar,Cotillón
-244201,MA GLOBOS INFLABLES DECORATIVOS .10,Bazar,Cotillón
-244210,MA.GLOBO INFLABES DECORTIVOS CHICO.6,Bazar,Cotillón
+244198,MA CORTINA DECORATIVA,Bazar,Cotillón
+244201,MA GLOBOS INFLABLES DECORATIVOS,Bazar,Cotillón
+244210,MA.GLOBO INFLABES DECORTIVOS CHICO,Bazar,Cotillón
 244223,Cocktail de Frutas Gustoso 820 gr,Abarrotes,Frutas en Conserva
 244279,Chocolate Breick Tableta Surtido 100 gr,Abarrotes,Chocolates y Caramelos
 244309,Chocolate Breick 50 Cacao 100 gr,Abarrotes,Chocolates y Caramelos
@@ -6630,6 +6644,7 @@ id_producto,producto,categoria,subcategoria
 263026,Lavavajilla Sapolio Limon 5 L,Cuidado del Hogar,Limpieza de Cocina
 263038,Tinte Excellence Tono 6.7 Chocolate Rubio,Cuidado Personal,Cuidado del Cabello
 263346,Tinte Excellence Tono 5.5 Castaño Claro Caoba,Cuidado Personal,Cuidado del Cabello
+263436,Pastilla de Baño Harpic 50 gr,Cuidado del Hogar,Limpieza de Baños
 263577,Vino Parras del Fuerte Cabernet 750 ml,Bebidas,Vinos y Champagne
 263578,Vino Parras del Fuerte Tannat 750 ml,Bebidas,Vinos y Champagne
 263579,Vino Parras del Fuerte Syrah 750 ml,Bebidas,Vinos y Champagne
@@ -6771,6 +6786,7 @@ id_producto,producto,categoria,subcategoria
 291641,Chocolate Taboada Cofre Madera 210 gr,Abarrotes,Chocolates y Caramelos
 291986,Hamburguesa Fridosa Fridosita 2 un,Congelados,Carnes Congeladas
 292022,Betun Liquido Virginia Café 60 ml,Cuidado del Hogar,Limpieza de Zapatos
+292176,Queso Mozzarella Trebol  kg,Lácteos y Derivados,Quesos
 292210,Lavandina Maxi Brill 1 L,Cuidado del Hogar,Limpieza de la Ropa
 292505,Shampoo Head Shoulders Manzana Fresh 200  ml,Cuidado Personal,Cuidado del Cabello
 293011,Enjuague Bucal Crest 3D White Glamours 473 ml,Cuidado Personal,Cuidado Bucal
@@ -7055,6 +7071,7 @@ id_producto,producto,categoria,subcategoria
 312050,Shampoo Head Shoulders Men 3en1 Control Caspa 375 ml,Cuidado Personal,Cuidado del Cabello
 312051,Shampoo Head Shoulders Men 3en1 Anticaspa 700 ml,Cuidado Personal,Cuidado del Cabello
 312052,Shampoo Head Shoulders Men 3en1 Anticaspa 200 ml,Cuidado Personal,Cuidado del Cabello
+312176,Set Churrasquero Tramontina Grande 2 un,Bazar,Churrasquería
 312290,Huevo Bon o Bon Leche 110 gr,Abarrotes,Temporada
 312711,Lustramueble Archer Recarga 860 ml,Cuidado del Hogar,Limpieza de Living y Ropero
 312959,Salsa Soya Kikkoman Lite 10 oz,Abarrotes,Condimentos y Legumbres
@@ -7190,6 +7207,7 @@ id_producto,producto,categoria,subcategoria
 320147,Shampoo Algabo Kids Sandia Dulce 350 ml,Cuidado del Bebé,Cuidado del Bebé
 320169,Jabon Liquido Algabo Fruto de Bosque 300 ml,Cuidado Personal,Cuidado de la Piel
 320170,Salsa B&R Jalapenos 220 gr,Abarrotes,Aderezos
+320171,JABON LIQ.ALGABO CREMOSO 300 ML.,Cuidado Personal,Cuidado de la Piel
 320172,Jabon Liquido Algabo Cremoso Flower 300 ml,Cuidado Personal,Cuidado de la Piel
 320180,Gel Fijador Algabo Efecto Humedo 350 gr,Cuidado Personal,Cuidado de la Piel
 320181,Gel Fijador Algabo Efecto Extra Brilloso 350 gr,Cuidado Personal,Cuidado del Cabello
@@ -8549,6 +8567,7 @@ id_producto,producto,categoria,subcategoria
 389382,Escoba Mix Hude Escobon,Cuidado del Hogar,Accesorios del Hogar
 389404,Escoba Hude Oriental Doña Lola,Cuidado del Hogar,Accesorios del Hogar
 390065,Afilador de Cuchillo Diamantado,Bazar,Churrasquería
+390091,Sarten Tramontina para Huevo 13 cm,Bazar,Articulos de Cocina
 390110,Paño Bianco Piso Cinza 60x50 cm,Cuidado del Hogar,Accesorios del Hogar
 390178,Maizena Kris 200 gr,Abarrotes,Básicos
 390186,Maizena Kris 400 gr,Abarrotes,Básicos
@@ -10170,6 +10189,7 @@ id_producto,producto,categoria,subcategoria
 550324,MIX FRUTOS ROJOS PAO POZO 70GR,Abarrotes,Snack
 550341,Gin Bombay Sapphire 750 ml,Bebidas,Licores
 550342,Majadito Andino Express Kremmore,Abarrotes,Básicos
+550343,MAJADITO ANDINO EXPRESS PICANTE KREMMORE,Abarrotes,Básicos
 550344,Arroz Hogar Kremmore Express,Abarrotes,Básicos
 550348,Salsa Cepera Ajo 1 L,Abarrotes,Aderezos
 550349,Salsa Cepera Pimienta 1 L,Abarrotes,Aderezos
@@ -13358,6 +13378,7 @@ id_producto,producto,categoria,subcategoria
 658223,Gomita Haribo Happy Cola 150 gr,Abarrotes,Golosinas - Varias
 658224,Gomita Haribo Worms 150 gr,Abarrotes,Golosinas - Varias
 658225,Salsa Chimichurri La Pampa Jakur 210 gr,Abarrotes,Aderezos
+658226,CHUCRUT JAKUR FRASCO 330R,Abarrotes,Verduras en Conserva
 658227,Salsa Jakur Di Pomodoro 330 gr,Abarrotes,Salsas y Extracto de Tomate
 658228,Vino Riccitelli Tinto De La Casa 750 ml,Bebidas,Vinos y Champagne
 658233,Gaseosa Coca Cola Two Pack 3 L,Bebidas,Gaseosas
@@ -14927,6 +14948,7 @@ id_producto,producto,categoria,subcategoria
 671905,Hummus Valenciana Pimientos Rostizados,Fiambres,Fiambres Externos
 671917,Lomo de Cerdo Ahumado Kostlich Skin,Fiambres,Fiambres Externos
 671920,Chorizo Butifarra Kostlich Skin,Fiambres,Fiambres Externos
+671923,Salchica Bock Kostlich Skin,Fiambres,Fiambres Externos
 671930,Hamburguesa Sofia Res Picaña 83 gr,Congelados,Carnes Congeladas
 671935,Pulpa Congelada FitFrut Acerola 200 gr,Congelados,Pulpas y Frutas Congeladas
 671937,Pulpa Fitfrut Coco Congelada 200 gr,Congelados,Pulpas y Frutas Congeladas
@@ -17017,6 +17039,7 @@ id_producto,producto,categoria,subcategoria
 789356,Ravioles Olive Jamon Queso Congelado 500 gr,Congelados,Masas y Comidas Congeladas
 789368,Salchicha Coctel Hipermaxi kg,Fiambres,Fiambres Hipermaxi
 789401,Chorizo de Cerdo Tipo Chistorra Merida 320 gr,Fiambres,Fiambres Externos
+789403,Salame La Sierra al Vacio 200 gr,Fiambres,Fiambres Externos
 789412,Peperoni La Sierra al Vacio 200 gr,Fiambres,Fiambres Externos
 789414,Chorizo Merida Carne de Pollo 500 gr,Fiambres,Fiambres Externos
 789421,Morcilla La Sierra Premium al Vacio 500 gr,Fiambres,Fiambres Externos
@@ -17031,6 +17054,7 @@ id_producto,producto,categoria,subcategoria
 789447,Costilla de Cerdo Ahumada Merida 400 gr,Fiambres,Fiambres Externos
 789465,Salchicha Tipo Viena La Sierra Premium,Fiambres,Fiambres Externos
 789474,Mortadela con Queso Hipermaxi kg,Fiambres,Fiambres Hipermaxi
+789477,Chorizo Parrillero Ahumado La Sierra Premium Al Vacio 500 gr,Fiambres,Fiambres Externos
 789482,Chuleta de Cerdo Ahumada Merida 550 gr,Fiambres,Fiambres Externos
 789511,Escabeche de Cebollita Guaruja 350 gr,Fiambres,Fiambres Externos
 789513,Bondiola Ahumada de Cerdo Merida 320 gr,Fiambres,Fiambres Externos
@@ -17398,6 +17422,7 @@ id_producto,producto,categoria,subcategoria
 822028,Cafe Nescafe Tradicion Tapa Roja 100 gr,Abarrotes,Café y Sucedáneos
 822593,Te Frutte Forma 50 un,Abarrotes,Dietéticos y Saludables
 822622,Te Infusion Frutte Moringa 20 Sobres,Abarrotes,Café y Sucedáneos
+822637,ZUCARITAS KELLOGGS CJA 610 G,Abarrotes,Nutrición Infantil
 822731,Crema Para Cafe Red White 624 gr,Abarrotes,Productos Americanos
 822939,Aceite Emoulsionado Simonds Neutro 360 ml,Cuidado del Bebé,Cuidado del Bebé
 823185,Sal El Salerito Salud Sin Sodio 205 gr,Abarrotes,Básicos
@@ -17674,6 +17699,7 @@ id_producto,producto,categoria,subcategoria
 840675,Salsa Soya Lkk Teriyaki 250 gr,Abarrotes,Aderezos
 840682,Termo de Agua Medidor de Temperatura 500 ml,Bazar Importación,Cocina General
 840689,CH N6 7 VASO TERMICO DE 380ML COLOR,Bazar Importación,Camping General
+840695,Mani Vida Feliz Salado 400 gr,Abarrotes,Snack
 840704,Mani Vida Feliz Salado 200 gr,Abarrotes,Snack
 840757,Colador Betty Crocker para Frituras,Bazar Importación,Cocina General
 840828,Vino Terrazas Malbec Reserva 750 ml,Bebidas,Vinos y Champagne
@@ -18347,6 +18373,7 @@ id_producto,producto,categoria,subcategoria
 867987,Papa Simplot Congeladas 700 gr,Congelados,Masas y Comidas Congeladas
 868658,CEPILLO P/R CABELLO BARBIE CONDOR 6895,Bazar,Bijouteria/Cuidado Personal
 868659,CEPILLO P/R CABELLO HOT WHEELS CONDOR 6899,Bazar,Bijouteria/Cuidado Personal
+868664,SET CHURASQUERO X3 TRAMONTINA 23498/449,Bazar,Churrasquería
 868685,Limpiador Desinfectante Jardin Pino 900 ml,Cuidado del Hogar,Limpieza de Baños
 868688,Limpiador Desinfectante Jardin Pino 4 L,Cuidado del Hogar,Limpieza de Baños
 868690,SMARTLIFE CALEFACTOR BLANCO 2000W,Bazar,Electrodoméstico/Línea Blanca-Hogar
@@ -18384,7 +18411,7 @@ id_producto,producto,categoria,subcategoria
 871090,Bombillas Belene Surtidas 200 un,Bazar,Cotillón
 871439,LETRERO CUMPLEANOS CARTON,Bazar,Cotillón
 871445,BAMDERINES DE PAPEL CUMPLEANOS,Bazar,Cotillón
-871446,INFLADOR DE GLOBOS PLASTICO.16,Bazar,Cotillón
+871446,INFLADOR DE GLOBOS PLASTICO,Bazar,Cotillón
 871447,LETRERO DE CUMPLEANOS INFLABLES,Bazar,Cotillón
 871448,GLOBOS C/PLUMAS SURTIDOS,Bazar,Cotillón
 871449,LAMPARA DE PAPEL GRANDE,Bazar,Living y Dormitorio
@@ -18442,6 +18469,7 @@ id_producto,producto,categoria,subcategoria
 873945,HUESO DE MASCOTAS SX3 8EN 102GR,Bazar,Mascotas General
 873946,HUESO P/R MASCOTAS 8IN1 150GRS MX2,Bazar,Mascotas General
 873956,PAT COLLAR DE MASCOTAS 15,Bazar,Mascotas General
+873980,CONTENEDOR X3DEV CUBIERTOS PLASVALE,Bazar,Menaje Plástico
 874528,Dispensador de Agua Para Mascota 99,Bazar,Mascotas General
 874544,Emulsionado Classic Corporal Nutritiva 650 ml,Cuidado del Bebé,Cuidado del Bebé
 874584,Shampoo Supremo Suave Bebe 1 L,Cuidado Personal,Cuidado del Cabello
@@ -18468,7 +18496,7 @@ id_producto,producto,categoria,subcategoria
 876041,SARTEN ALUM 22CM +SARTEN 18CM BRINOX,Bazar,Articulos de Cocina
 876049,SARTEN 16CM BRINOX +ESPATULA,Bazar,Articulos de Cocina
 876050,SARTEN ALUM 22CM BRINOX +ESPTAULA,Bazar,Articulos de Cocina
-876092,MA VELAS CUMPLEANOS NINOS SURTIDO .14,Bazar,Cotillón
+876092,MA VELAS CUMPLEANOS NINOS SURTIDO,Bazar,Cotillón
 876098,MA VASOS CUMPLE.DESCH.SURT.,Bazar,Cotillón
 876099,MA ABANICO DECORTIVO .28,Bazar,Cotillón
 876174,COM.MASCARA FACIALES,Bazar,Bioseguridad
@@ -18505,8 +18533,8 @@ id_producto,producto,categoria,subcategoria
 879156,MA GLOBO INFLABLE GRANDE .9,Bazar,Cotillón
 879157,MA SERVILLETA SURT CUMPLEANOS,Bazar,Cotillón
 879163,Avena Princesa Instantanea Mujer 400 gr,Abarrotes,Nutrición Infantil
-879167,MA GLOBO PINATA COTILLON .20,Bazar,Cotillón
-879168,MA SET GLOBOS DECORATIVOS.20,Bazar,Cotillón
+879167,MA GLOBO PINATA COTILLON,Bazar,Cotillón
+879168,MA SET GLOBOS DECORATIVOS,Bazar,Cotillón
 879212,Miel de Abeja Bosque Chiquitano 500 gr,Abarrotes,"Mermel, Mieles"
 879227,Miel de Abeja Del Bosque Chiquitano 300 gr,Abarrotes,"Mermel, Mieles"
 879232,Miel de Abeja Del Bosque Tropical 500 gr,Abarrotes,"Mermel, Mieles"
@@ -18644,6 +18672,7 @@ id_producto,producto,categoria,subcategoria
 891301,Palillo El Cocinero 75 gr,Abarrotes,Condimentos y Legumbres
 891316,Clavo de Olor El Cocinero 65 gr,Abarrotes,Condimentos y Legumbres
 891376,Tomillo El Cocinero 30 gr,Abarrotes,Condimentos y Legumbres
+891405,Nacho Rancheritos Clasico 150 gr,Abarrotes,Snack
 891410,Nacho Rancheritos Queso 330 gr,Abarrotes,Snack
 891425,Vino Norton Cabernet Sauvignon Reserva 750 ml,Bebidas,Vinos y Champagne
 891787,Vinagre Castelo Tinto 750 ml,Abarrotes,Básicos
@@ -18782,6 +18811,7 @@ id_producto,producto,categoria,subcategoria
 908602,Cepillo Dental Colgate Barney Smile 1 un,Cuidado Personal,Cuidado Bucal
 908604,Cepillo Dental Colgate Batman Smiles 6 Años 1 un,Cuidado del Bebé,Kids
 908711,Set Cuchara New Tramontina Azul,Bazar,Articulos de Cocina
+908727,Sarten Tramontina + Espatula,Bazar,Articulos de Cocina
 908733,Cuchara Batidora Tramontina,Bazar,Articulos de Cocina
 908734,HIELERA CRISA DE CRISTAL 3688/000,Bazar,Articulos de Cocina
 908771,VASO TEQUILERO 2 OZ CRISA UND,Bazar,Menaje Vidrio/Cristal
@@ -19007,6 +19037,9 @@ id_producto,producto,categoria,subcategoria
 942359,Cepillo Foramen Junior Suave 1 un,Cuidado Personal,Cuidado Bucal
 947072,CA.JUG BINGO BS 43,Juguetería,Juguetería Didáctica/Temporada
 947355,Sarten Plancha Tramontina Redonda,Bazar,Articulos de Cocina
+947364,Sarten Tramontina 24 cm + Espatula,Bazar,Articulos de Cocina
+947366,Sarten Tramontina 20 cm + Espatula,Bazar,Articulos de Cocina
+947367,Sarten Tramontina 18 cm + Espatula,Bazar,Articulos de Cocina
 947368,Hervidor Tramontina con Tapa 16 cm,Bazar,Articulos de Cocina
 947369,Hervidor Tramontina con Tapa 14 cm,Bazar,Articulos de Cocina
 947378,CI OLLA ALTA DE 18CM 3L20530/618,Bazar,Articulos de Cocina
@@ -19024,7 +19057,7 @@ id_producto,producto,categoria,subcategoria
 947540,Plato Hondo Opaline Blanco,Bazar,Menaje Porcelana/Cerámica
 947541,Plato Plano Opaline Blanco,Bazar,Menaje Porcelana/Cerámica
 947632,Globos Liso Redondo,Bazar,Cotillón
-947633,MA GLOBOS METALIZADOS - 17.5,Bazar,Cotillón
+947633,MA GLOBOS METALIZADOS,Bazar,Cotillón
 948326,Taper Good y Good Cuadrado con Divisores 1.10 ml,Bazar,Menaje Plástico
 948327,Taper Basa Cuadrado 2.3 L,Bazar,Menaje Plástico
 948328,Taper Good y Good Fiambres,Bazar,Menaje Plástico
@@ -19192,6 +19225,7 @@ id_producto,producto,categoria,subcategoria
 993290,Cuchillo Tramontina para Cocina N5,Bazar,Articulos de Cocina
 993291,Cuchillo Tramontina para Cocina N6,Bazar,Articulos de Cocina
 993293,Cuchillo Tramontina Para Carne N8,Bazar,Articulos de Cocina
+993385,Rallador Tramontina Surtido,Bazar,Articulos de Cocina
 993386,CI.CORTADOR PIZZA C/SURTIDOS TRAMONTINA,Bazar,Articulos de Cocina
 993414,Algodon Cremer Disco 37 gr,Cuidado Personal,Cuidado de la Piel
 993460,Taper Mr Microonda Rectangular Salchicha,Bazar,Menaje Plástico
