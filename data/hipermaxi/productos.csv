@@ -1387,7 +1387,9 @@ id_producto,producto,categoria,subcategoria
 29008,CHOCOL TALENTO LECHE CAJU NUEZ 75G,Abarrotes,Chocolates y Caramelos
 29010,CHOCOL TALENTO LECHE MANI AVELL 75G,Abarrotes,Chocolates y Caramelos
 29014,"AJO POLVO MC CORMICK BRASIL FCO 88,4 GR",Abarrotes,Condimentos y Legumbres
+29015,MERMELADA YACOBS MARACUYA FCO 485G,Abarrotes,"Mermel, Mieles"
 29023,GALLETA COFLER RELL CHOCOLATE 85G,Abarrotes,Galletas
+29041,GALLETA OBLEA COFLER VAIN CHOCOL 87G,Abarrotes,Galletas
 29246,Servilletas Elite Coctel 50 un,Cuidado Personal,Cuidado Familiar
 29254,Pañuelo Facial Familia Triple Hoja 50 un,Cuidado Personal,Cuidado Familiar
 29799,Cerveza Potosina Light 350 ml,Bebidas,Cervezas
@@ -1751,6 +1753,7 @@ id_producto,producto,categoria,subcategoria
 30777,PACK CERVEZA PROST RADLER 6+1 355ML,Bebidas,Cervezas
 30778,PACK 2VINAGRE CASTELO ALCOHOL TINTO 500M,Abarrotes,Básicos
 30779,PACK VINAGRE CASTELO ALC BCO 750 Y 500ML,Abarrotes,Básicos
+30780,TE MANDALA CITRUS POMELO LTA 269 ML,Bebidas,Bebidas Varias
 30781,TE MANDALA BERRY FRAMBUESA LTA 269 ML,Bebidas,Bebidas Varias
 30784,Ron Bacardi Carta de Oro 750 ml,Bebidas,Licores
 30788,PACK ENERGIZANTE CICLON PET 350ML 3X2,Bebidas,Energizantes
@@ -1840,6 +1843,7 @@ id_producto,producto,categoria,subcategoria
 30919,"Galleta Cofler Relleno Choco Bon o Bon 105,6 gr",Abarrotes,Galletas
 30920,Aceite de Oliva Laguna Brava Extra Virgen Clasico,Abarrotes,Básicos
 30921,Aceite de Oliva Laguna Brava Extra Virgen Intenso,Abarrotes,Básicos
+30922,GOMITA REGALIZ CINTAS MANZ MELON 70G,Abarrotes,Golosinas - Varias
 30925,PACK KELLOOGGS 2CHOCO KRISPIS,Abarrotes,Nutrición Infantil
 30926,PACK 1KELLOGG KRISP 175G 1FROOT 160G,Abarrotes,Nutrición Infantil
 30929,GALLETA ISABELA CRACKER TRADIC 350G,Abarrotes,Galletas
@@ -1861,6 +1865,7 @@ id_producto,producto,categoria,subcategoria
 30966,AVENA LAMINADA PRINCESA CJA 400G,Abarrotes,Nutrición Infantil
 30968,AGUA VITAL SIN GAS 750ML,Bebidas,Aguas
 30969,SALVADO D AVENA AVELINDA DP 400G,Abarrotes,Nutrición Infantil
+30970,AVENA INTEGRAL AVELINDA CJA 600G,Abarrotes,Nutrición Infantil
 30996,HARINA D ARROZ AVELINDA DP 500G,Abarrotes,Básicos
 30997,PACK CHOCOLIKE 800G 1LECHE PIL 1LT,Abarrotes,Nutrición Infantil
 30998,HARINA D AVENA P PANCAKE AVELINA 400G,Abarrotes,Básicos
@@ -6484,6 +6489,8 @@ id_producto,producto,categoria,subcategoria
 234060,MASCARA DE TRATAMIENTO ELVIVE 300GR GLY,Cuidado Personal,Cuidado de la Piel
 234061,SHAMPOO ELVIVE 680ML GLYCO GLOSS,Cuidado Personal,Cuidado del Cabello
 234063,ACONDICIONADOR ELVIVE 370ML GLYCO GLOSS,Cuidado Personal,Cuidado del Cabello
+234064,CREMA DE PEINAR ELVIVE 300ML GLYCO GLOS,Cuidado Personal,Cuidado del Cabello
+234077,ACOND BALLERINA FUERZ NATURAL BIOTIN DPA,Cuidado Personal,Cuidado del Cabello
 234480,Mermelada Merenda Fit Sin Azucar Guayaba 500 gr,Abarrotes,Dietéticos y Saludables
 234481,Mermelada Merenda Fit Sin Azucar Frutilla 500 gr,Abarrotes,Dietéticos y Saludables
 234591,Mermelada BC Campagnola Durazno 390 gr,Abarrotes,Dietéticos y Saludables
@@ -11302,6 +11309,7 @@ id_producto,producto,categoria,subcategoria
 552671,SALSA GOLF KRIS AHUMADA DP 200 GR,Abarrotes,Aderezos
 552674,MAYONESA KRIS  AHUMADA DP 200 GR,Abarrotes,Aderezos
 552675,Mostaza Miel Kris 200 gr,Abarrotes,Aderezos
+552676,Chocolate Breick Tableta Blanca 25 gr,Abarrotes,Chocolates y Caramelos
 552677,CHOCOLATE VIZZIO TABLETA LECHE 15 GR,Abarrotes,Chocolates y Caramelos
 552678,PACK 3 FRUT-ALL SABORES TETRA 1 LT,Bebidas,"Jugos, Néctar"
 552679,Four Loko El Bony 473 ml,Bebidas,Licores
@@ -13996,6 +14004,7 @@ id_producto,producto,categoria,subcategoria
 667219,Shampoo Head Shoulders Carbon Activado 700 ml,Cuidado Personal,Cuidado del Cabello
 667220,Shampoo Pantene 3MM Restauracion 270 ml,Cuidado Personal,Cuidado del Cabello
 667224,Shampoo Selfy Chocolate 1 L,Cuidado Personal,Cuidado del Cabello
+667226,Crema de Mano Hanbel Niña 150 gr,Cuidado Personal,Cuidado de la Piel
 667232,Betun Cremoso Coloso Negro 50 ml,Cuidado del Hogar,Limpieza de Zapatos
 667245,Pasta Dental Oral-B Kids Mickey 50 gr,Cuidado Personal,Cuidado Bucal
 667247,Paño Microfibra Sint.Clin 40X40 Verde,Cuidado del Hogar,Accesorios del Hogar
@@ -14579,6 +14588,7 @@ id_producto,producto,categoria,subcategoria
 668840,Shampoo Simonds para Niños 750 ml,Cuidado del Bebé,Kids
 668841,Emulsionado Simonds Adulto 360 ml,Cuidado Personal,Cuidado de la Piel
 668844,PACK TOALLA FAMILIA ACOLCHADAMAX 120H,Cuidado del Hogar,Limpieza de Cocina
+668846,TOALLA NOSOTRAS NATURAL INVISIBLE CLASIC,Cuidado Personal,Cuidado del Adulto
 668847,TH TOALLAS HUMEDAS BABYSEC PREMIUM 45X10,Cuidado del Bebé,Cuidado del Bebé
 668872,PACK HAIR FOOD 3X2 TRAT + ACO + SH REGAL,Cuidado Personal,Cuidado del Cabello
 668883,PACK GARNIER AGUA MICELAR 400 ML+ MASCAR,Cuidado Personal,Cuidado de la Piel
@@ -14611,6 +14621,8 @@ id_producto,producto,categoria,subcategoria
 668939,SHAMPOO H&S ANTI COMEZON 650ML,Cuidado Personal,Cuidado del Cabello
 668940,PACK 2X1 PANUELOS FACIALES FAMILIA CJA 5,Cuidado Personal,Cuidado Familiar
 668942,PACK ANTIGRASA 6X830ML + LV VAJ,Cuidado del Hogar,Limpieza de Cocina
+668990,MAR COCO OCEANO AZUL -3PACK 375 GR,Cuidado Personal,Cuidado de la Piel
+668997,MAR ANTIBAC SOFT SKIN-3PACK 375 GR,Cuidado Personal,Cuidado de la Piel
 668999,MAR COCO ALMENDRA Y VAINILLA  90 GR,Cuidado Personal,Cuidado de la Piel
 669005,SHAMPOO ELVIVE 370ML GLYCO GLOSS,Cuidado Personal,Cuidado del Cabello
 669901,Pizza Hipermaxi Congelada Hawaiana 620 gr,Congelados,Masas y Comidas Congeladas
@@ -14625,6 +14637,7 @@ id_producto,producto,categoria,subcategoria
 669912,Tapa de Empanada Blanca Hipermaxi 960 gr,Congelados,Masas y Comidas Congeladas
 669913,Tapa de Empanada para Horno Integral Hipermaxi 960 gr,Congelados,Masas y Comidas Congeladas
 669915,Pan Frances Pre Cocido Congelado Hipermaxi,Congelados,Masas y Comidas Congeladas
+669925,MAR COCO LECHE DE COCO 90 GR,Cuidado Personal,Cuidado de la Piel
 669991,Cuñape Congelado Hipermaxi 10 un,Congelados,Masas y Comidas Congeladas
 670002,Comino McCormick Molido 20 gr,Abarrotes,Condimentos y Legumbres
 670003,Paprika McCormick 20 gr,Abarrotes,Condimentos y Legumbres
@@ -18347,7 +18360,7 @@ id_producto,producto,categoria,subcategoria
 856401,CH 9 3 TAPER GRANDE REDONDO TAPA HERMETICA 2700ML,Bazar Importación,Menaje Vidrio/Cristal
 856403,CH 9 4 TAPER PEQUENO RECTANGULAR HERMETICO 640ML,Bazar Importación,Menaje Vidrio/Cristal
 856405,CH 9 6 TAPER GRANDE RECTANGULAR HERMETICO 1520ML,Bazar Importación,Menaje Vidrio/Cristal
-856408,CH 9 9 TAPER G RECTANGULAR TAPA HERMETICA 640ML,Bazar Importación,Menaje Vidrio/Cristal
+856408,Taper de Vidrio Cierre Hermetico 700 ml,Bazar Importación,Menaje Vidrio/Cristal
 856418,CH 9 11 TAPER PEQUENO RECTANGULAR 800ML,Bazar Importación,Menaje Vidrio/Cristal
 856419,CH 9 12 TAPER MEDIANO RECTANGULAR TAPA HERMETICA 1380ML,Bazar Importación,Menaje Vidrio/Cristal
 856420,CH 9 12 TAPER GRANDE RECTANGULAR TAPA HERMETICA 2600ML,Bazar Importación,Menaje Vidrio/Cristal
