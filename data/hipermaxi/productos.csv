@@ -1040,7 +1040,7 @@ id_producto,producto,categoria,subcategoria
 17547,Te Orjas con Canela Instantaneo 36 gr,Abarrotes,Café y Sucedáneos
 17548,Te Orjas Limon Instantaneo 36 gr,Abarrotes,Café y Sucedáneos
 17549,Porotos Wasil Negros 380 gr,Abarrotes,Comidas en Conserva
-17552,TINTO DE VERANO DOS HNOS 910 ML,Bebidas,Vinos y Champagne
+17552,Vino Dos Hermanos Tinto de Verano 910 ml,Bebidas,Vinos y Champagne
 17553,Tequila Mayorazgo Reposado 750 ml,Bebidas,Licores
 17556,Mani King Frito con Sal 500 gr,Abarrotes,Snack
 17563,Salsa de Ajo Cepera Tradicional 300 gr,Abarrotes,Condimentos y Legumbres
@@ -6441,6 +6441,7 @@ id_producto,producto,categoria,subcategoria
 230430,Salchica Bock Stege kg,Fiambres,Fiambres Externos
 230464,Mortadela Cervecera Stege kg,Fiambres,Fiambres Externos
 230478,PANAL HUGGIES ACTSEC  SINGLEPK M 56 UN,Cuidado del Bebé,Pañales
+230483,PANAL HUGGIES TRIPLE PRO MINI TALLA XXG,Cuidado del Bebé,Pañales
 230499,Salchicha Sin Piel Stege 6 un,Fiambres,Fiambres Externos
 230511,MR CLORO ACIDO NITRICO 1000 ML,Cuidado del Hogar,Limpieza de Baños
 230514,JABONCILLO ASEPXIA ESPONJA 80GR,Cuidado Personal,Cuidado de la Piel
@@ -6512,6 +6513,14 @@ id_producto,producto,categoria,subcategoria
 234061,SHAMPOO ELVIVE 680ML GLYCO GLOSS,Cuidado Personal,Cuidado del Cabello
 234063,ACONDICIONADOR ELVIVE 370ML GLYCO GLOSS,Cuidado Personal,Cuidado del Cabello
 234064,CREMA DE PEINAR ELVIVE 300ML GLYCO GLOS,Cuidado Personal,Cuidado del Cabello
+234066,GEL CREMA PROT F50 ECRAN 250ML,Cuidado Personal,Cuidado de la Piel
+234067,BRONCEA+ PISTOLA F50 ECRAN 270ML,Cuidado Personal,Cuidado de la Piel
+234069,BRONCEA ACEITE AEROSOL F30 ECRAN  250ML,Cuidado Personal,Cuidado de la Piel
+234070,SPORT AEROSOL F50 ECRAN 250ML,Cuidado Personal,Cuidado de la Piel
+234071,CARA/ESCOTE F50 ECRAN SUNNIQUE  50ML,Cuidado Personal,Cuidado de la Piel
+234072,ANTIMANCHAS F50+ ECRAN SUNNIQUE 50ML,Cuidado Personal,Cuidado de la Piel
+234073,AEROSOL F30 ECRAN 250ML,Cuidado Personal,Cuidado de la Piel
+234074,AEROSOL F50 ECRAN250ML,Cuidado Personal,Cuidado de la Piel
 234077,ACOND BALLERINA FUERZ NATURAL BIOTIN DPA,Cuidado Personal,Cuidado del Cabello
 234480,Mermelada Merenda Fit Sin Azucar Guayaba 500 gr,Abarrotes,Dietéticos y Saludables
 234481,Mermelada Merenda Fit Sin Azucar Frutilla 500 gr,Abarrotes,Dietéticos y Saludables
@@ -10289,7 +10298,7 @@ id_producto,producto,categoria,subcategoria
 550324,MIX FRUTOS ROJOS PAO POZO 70GR,Abarrotes,Snack
 550341,Gin Bombay Sapphire 750 ml,Bebidas,Licores
 550342,Majadito Andino Express Kremmore,Abarrotes,Básicos
-550343,MAJADITO ANDINO EXPRESS PICANTE KREMMORE,Abarrotes,Básicos
+550343,MAJADITO EXPRES KREMMORE PICANTE 114G,Abarrotes,Básicos
 550344,Arroz Hogar Kremmore Express,Abarrotes,Básicos
 550348,Salsa Cepera Ajo 1 L,Abarrotes,Aderezos
 550349,Salsa Cepera Pimienta 1 L,Abarrotes,Aderezos
@@ -11080,6 +11089,7 @@ id_producto,producto,categoria,subcategoria
 552192,Chicle Acido Super Hiper Acido 350 gr,Abarrotes,Chocolates y Caramelos
 552193,Chicle Kataboom Surtido 288 gr,Abarrotes,Chocolates y Caramelos
 552195,Chicle Acido Super Hiper Acido Surtido,Abarrotes,Chocolates y Caramelos
+552196,Chicle Kataboom Surtido 576 gr,Abarrotes,Chocolates y Caramelos
 552197,CHICHA TAQUINA LATA 330 ML,Bebidas,Cervezas
 552198,Chicha Taquiña 440 ml,Bebidas,Cervezas
 552204,GALLETAS JUANITAS SURT QUINUA CANAHUA AM,Abarrotes,Galletas
@@ -13700,6 +13710,7 @@ id_producto,producto,categoria,subcategoria
 659963,Te Supremo Jengibre Limon 20 Sobres,Abarrotes,Café y Sucedáneos
 659964,Te Supremo Verde Matcha 20 Sobres,Abarrotes,Café y Sucedáneos
 659965,Te Supremo Limon Menta Eucalipto 20 Sobres,Abarrotes,Café y Sucedáneos
+659966,Te Supremo Benefica Buen Descanso 20 Sobres,Abarrotes,Café y Sucedáneos
 659967,Te Supremo Benefica Femenino 20 Sobres,Abarrotes,Café y Sucedáneos
 659968,Te Supremo Herbal Energizante 20 Sobres,Abarrotes,Café y Sucedáneos
 659971,Aceite Oliva Borges Extra Virgen 1 L,Abarrotes,Básicos
@@ -15451,6 +15462,7 @@ id_producto,producto,categoria,subcategoria
 673075,Pan Molde Pipopan Integral Multicereal 650 gr,Panadería,Panadería Externa
 673079,Pack Agua Vital Sin Gas 2 L,Bebidas,Aguas
 673080,Pack Isotonico Powerade 990 ml,Bebidas,Isotónicos
+673097,Gaseosa Guarana Antartica 250 ml,Bebidas,Gaseosas
 673112,Pack Yogurt Tipo Griego Normal 6 un 720 gr,Lácteos y Derivados,Yogures
 673113,Pack Yogurt Tipo Griego Zero Azucar 6 un 720 gr,Lácteos y Derivados,Yogures
 673114,Queso Cheddar Vaquita Oriental Barra kg,Lácteos y Derivados,Quesos
@@ -15656,6 +15668,7 @@ id_producto,producto,categoria,subcategoria
 673631,COLAS DE LANGOSTINOS PRECOCIDOS ILOMAR 450 GRAMOS,Congelados,Carnes Congeladas
 673633,Mejillones Enteros Ilomar con Concha,Congelados,Carnes Congeladas
 673634,Mixtura de Mariscos Ilomar 450 gr,Congelados,Carnes Congeladas
+673635,POTA ENTERA Y PELADA ILOMAR 500 GRAMOS,Congelados,Carnes Congeladas
 673637,Pulpo Entero Ilomar kg,Congelados,Carnes Congeladas
 673638,Filete de Pescado Basa Ilomar kg,Congelados,Carnes Congeladas
 673640,Filete de Pescado Tilapia Ilomar kg,Congelados,Carnes Congeladas
@@ -15916,10 +15929,13 @@ id_producto,producto,categoria,subcategoria
 674206,KARPIL MANZADA/MANGO/MANDARINA/LIMON 230ML,Lácteos y Derivados,Leches
 674212,KARPIL MARACUYA/PINA/NARANJA/POMELO 230ML,Lácteos y Derivados,Leches
 674213,PACK CLARA DE HUEVO PASTEURIZADA OVOPLUS,Lácteos y Derivados,Huevos
+674214,QUESO MOZZARELLA LAS LOMAS KILOGRAMO,Lácteos y Derivados,Quesos
+674215,QUESO CHEDDAR LAS LOMAS KILOGRAMO,Lácteos y Derivados,Quesos
 674216,QUESO MOZZARRELLA PEREYRA SAN JAVIER420,Lácteos y Derivados,Quesos
 674217,QUESO DE BUFALA CRIOLLO PEREYRA SAN JAVI,Lácteos y Derivados,Quesos
 674218,QUESO DE BUFALA MOZZARELLA  PEREYRA SAN,Lácteos y Derivados,Quesos
 674219,QUESO MOZZARELLA PEREYRA SAN JAVIER LAMI,Lácteos y Derivados,Quesos
+674241,ENROLLADO DE CERDO OSFIM SACHET 150GRS,Fiambres,Fiambres Externos
 675245,Miel de Abeja Eva Promiel 250 gr,Abarrotes,"Mermel, Mieles"
 676113,Habanito Bits Cream Coojies Cream 120 gr,Congelados,"Helados, Cassattas y Picoleses"
 676115,HABANITO BITS CREAM DULCE DE LECHE 120GRS,Congelados,"Helados, Cassattas y Picoleses"
