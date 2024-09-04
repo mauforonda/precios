@@ -1384,6 +1384,7 @@ id_producto,producto,categoria,subcategoria
 28835,Molde Estañado Ilkon 28 cm,Bazar,Articulos de Cocina
 29002,SODA MENDOCINA POMELO 1LT,Bebidas,Gaseosas
 29003,AVENA INSTANT AVELINDA BSA 450 G,Abarrotes,Nutrición Infantil
+29004,AVENA INSTANT AVELINDA CJA 300G,Abarrotes,Nutrición Infantil
 29005,CHOCOL GAROTO CROCANTE C MANI 25G,Abarrotes,Golosinas - Varias
 29006,CHOCOL TRIO GAROTO VAINILLA TAB 90G,Abarrotes,Chocolates y Caramelos
 29007,CHOCO TRIO GAROTO CHOCOLATE TAB 90G,Abarrotes,Chocolates y Caramelos
@@ -1850,6 +1851,7 @@ id_producto,producto,categoria,subcategoria
 30920,Aceite de Oliva Laguna Brava Extra Virgen Clasico,Abarrotes,Básicos
 30921,Aceite de Oliva Laguna Brava Extra Virgen Intenso,Abarrotes,Básicos
 30922,GOMITA REGALIZ CINTAS MANZ MELON 70G,Abarrotes,Golosinas - Varias
+30924,GOMITA REGALIZ CINTAS TWISTER 70G,Abarrotes,Golosinas - Varias
 30925,PACK KELLOOGGS 2CHOCO KRISPIS,Abarrotes,Nutrición Infantil
 30926,PACK 1KELLOGG KRISP 175G 1FROOT 160G,Abarrotes,Nutrición Infantil
 30929,GALLETA ISABELA CRACKER TRADIC 350G,Abarrotes,Galletas
@@ -2317,6 +2319,7 @@ id_producto,producto,categoria,subcategoria
 38788,Galleta Infinita Chocolate 300 gr,Abarrotes,Galletas
 38789,Galleta Rondita Frutilla 288 gr,Abarrotes,Galletas
 38881,Flan Doble Kiko Vainilla 80 gr,Abarrotes,Repostería
+38882,GELATINA YOGURTHINA VARIOS 60 GR,Abarrotes,Repostería
 38935,Budin Kiko Chocolate 60 gr,Abarrotes,Repostería
 38938,Budin Kiko Vainilla 60 gr,Abarrotes,Repostería
 38946,Gelatina de Pata Kiko 100 gr,Abarrotes,Repostería
@@ -3481,6 +3484,7 @@ id_producto,producto,categoria,subcategoria
 106013,Pack Desodorante Aerosol Deo Pies Antitraspirante 2 un,Cuidado Personal,Cuidado de la Piel
 106014,Pack Desodorante Aerosol Deo Pies Recamier Mujer 2 un,Cuidado Personal,Cuidado de la Piel
 106023,Desodorante Aerosol Pino Magregor 147 gr,Cuidado Personal,Cuidado de la Piel
+106054,Pimienta Dulce Badia 12 oz,Abarrotes,Productos Americanos
 106060,Limpiador de Baño Poderoso Saca Sarro 1 L,Cuidado del Hogar,Limpieza de Baños
 106070,Acondicionador Head Shoulders Carbon 300 ml,Cuidado Personal,Cuidado del Cabello
 106071,Shampoo Pantene Bamboo 200 ml,Cuidado Personal,Cuidado del Cabello
@@ -3964,6 +3968,7 @@ id_producto,producto,categoria,subcategoria
 111670,Quitaesmalte Farmax Sin Acetona 100 ml,Cuidado Personal,Cuidado de la Piel
 111672,DECOLORANTE OXIGENADA FARMAX V30 900 ML.,Cuidado Personal,Cuidado del Cabello
 111674,Agua Oxigenada Farmax Volumen 30 90 ml,Cuidado Personal,Cuidado del Cabello
+111675,DECOLORANTE OXIGENADA FARMAX V40  900 ML,Cuidado Personal,Cuidado del Cabello
 111676,Agua Oxigenada Farmax Volumen 40 90 ml,Cuidado Personal,Cuidado del Cabello
 111682,Protector Solar Sunless 30Fps 120 gr,Cuidado Personal,Cuidado de la Piel
 111685,Protector Solar Sunless 60Fps 120 gr,Cuidado Personal,Cuidado de la Piel
@@ -5664,6 +5669,7 @@ id_producto,producto,categoria,subcategoria
 220484,Salsa Cholula Hot Sauce Garlic 5 oz,Abarrotes,Productos Americanos
 220488,Salsa Cholula Hot Sauce Chili Lime 5 oz,Abarrotes,Productos Americanos
 220489,Cereal Cinamon Toast Crunch Minis 10.7 oz,Abarrotes,Productos Americanos
+220490,CEREAL GENERAL MILLS 12.3 OZ,Abarrotes,Productos Americanos
 220491,Cereal Mills Lucky Charm 10.5 oz,Abarrotes,Productos Americanos
 220495,Cereal Kelloggs Froot Loops 9.3 oz,Abarrotes,Productos Americanos
 220496,Cereal Kelloggs Cinnabon 8.7 oz,Abarrotes,Productos Americanos
@@ -5699,6 +5705,7 @@ id_producto,producto,categoria,subcategoria
 220658,Cafe Windsor Premium Instantaneo 100 gr,Abarrotes,Café y Sucedáneos
 220661,Caramelo Watt Expresso Cafe 900 gr,Abarrotes,Chocolates y Caramelos
 220662,Caramelo Watts Artic 900 gr,Abarrotes,Chocolates y Caramelos
+220663,CARAMELO WATTS BUTER KARAMEL 900 GR,Abarrotes,Chocolates y Caramelos
 220664,Toffe de Leche Watts 900 gr,Abarrotes,Chocolates y Caramelos
 220667,Chicle Watts Tutti Tatuajes 600 gr,Abarrotes,Golosinas - Varias
 220669,Caramelo Watts Miel Honey 900 gr,Abarrotes,Chocolates y Caramelos
@@ -6471,6 +6478,7 @@ id_producto,producto,categoria,subcategoria
 230595,Fideo Anita Spaguetti al Huevo 400 gr,Abarrotes,Básicos
 230597,Fideo Anita Tagliatelle al Huevo 400 gr,Abarrotes,Básicos
 230641,FORAMEN PHARMA INTERDENTALES DE GOMA,Cuidado Personal,Cuidado Bucal
+230643,TRIPACK ESPONJA TININDO + CUCHARA PASTAS,Cuidado del Hogar,Accesorios del Hogar
 230648,VAJILLERO OLA LIMON DOYPACK 900 ML,Cuidado del Hogar,Limpieza de Cocina
 230649,CEPILLO F-92 CLINIC MEDIO(3X1),Cuidado Personal,Cuidado Bucal
 230701,Papel Toalla Cocina Limppano Toalex 1 un 50 Toallas,Cuidado del Hogar,Limpieza de Cocina
@@ -10980,6 +10988,7 @@ id_producto,producto,categoria,subcategoria
 551886,Jurel San Lucas Entero 430 gr,Abarrotes,Comidas en Conserva
 551887,Jurel San Lucas Entero Ovalado 430 gr,Abarrotes,Comidas en Conserva
 551888,ICE TE FRUTTE F BOSQUE Y NEGRO 2 LT,Bebidas,Bebidas Varias
+551889,BEBIDA TE NEGRO FRUTOS DEL BOSQUE PET 60,Bebidas,Bebidas Varias
 551897,Cereal San Gabriel Fruti Crick 850 gr,Abarrotes,Nutrición Infantil
 551898,Cereal San Gabriel Choco Crick Duo 850 gr,Abarrotes,Nutrición Infantil
 551900,Grageas Chocolate El Ceibo Maracuya 50 gr,Abarrotes,Golosinas - Varias
@@ -11115,6 +11124,8 @@ id_producto,producto,categoria,subcategoria
 552237,Bubble Tea Vinut Chocolate 280 ml,Abarrotes,Productos Americanos
 552238,VINO TINTO CHATEAU TERRE BLANQUE 750 ML,Bebidas,Vinos y Champagne
 552239,Vino Tinto Chateau Merigot 750 ml,Bebidas,Vinos y Champagne
+552241,Vino Tinto Chateau El Rey 750 ml,Bebidas,Vinos y Champagne
+552243,Vino Tinto Chateau Rocher Gardat 750 ml,Bebidas,Vinos y Champagne
 552244,Detergente Polvo Bonny Floral 5 kg,Cuidado del Hogar,Limpieza de la Ropa
 552245,Detergente Polvo Bonny Jazmin 5 kg,Cuidado del Hogar,Limpieza de la Ropa
 552246,Detergente Polvo Bonny Lavanda 5 kg,Cuidado del Hogar,Limpieza de la Ropa
@@ -11351,6 +11362,7 @@ id_producto,producto,categoria,subcategoria
 552552,Pack Seven Up 2 L,Bebidas,Gaseosas
 552553,PACK GATORADE MORA AZUL 6X3,Bebidas,Isotónicos
 552555,Gomita Dinos Display 360 gr,Abarrotes,Chocolates y Caramelos
+552562,CHOCOLATE BREICK BLANCO BOLIVAR TAB 100,Abarrotes,Chocolates y Caramelos
 552563,GUISADO DE CARNE RAZA GATO TETRA 340 GR,Abarrotes,Mascotas
 552564,GUISADO DE CARNE RAZA PERRO TETRA 340 GR,Abarrotes,Mascotas
 552565,RAMEN MAXIMO POLLO SUP  PICANTE 85 GR,Abarrotes,Básicos
@@ -11395,6 +11407,7 @@ id_producto,producto,categoria,subcategoria
 552713,PACK SINGANI INSIGNIA ETIQ AZUL 1 SCHWEP,Bebidas,Licores
 552714,CIGARRILLO WINSTON YELLOW MIX 10 UN,Bebidas,Cigarrillos
 552715,CIGARRILLO WINSTON FRESH MIX 10 UN,Bebidas,Cigarrillos
+552730,REFRESCO ZUKO MANZANA 13 GR,Bebidas,Refrescos en Polvo
 552735,MATE CEYLAN MANZANILLA X 20 UN,Abarrotes,Café y Sucedáneos
 552736,TE NEGRO CEYLAN CON LIMON 20 UN,Abarrotes,Café y Sucedáneos
 554333,Cerveza Paceña Lata Roja 473 Cc,Bebidas,Cervezas
@@ -15472,6 +15485,7 @@ id_producto,producto,categoria,subcategoria
 673075,Pan Molde Pipopan Integral Multicereal 650 gr,Panadería,Panadería Externa
 673079,Pack Agua Vital Sin Gas 2 L,Bebidas,Aguas
 673080,Pack Isotonico Powerade 990 ml,Bebidas,Isotónicos
+673095,Gaseosa Seven Up 250 ml,Bebidas,Gaseosas
 673097,Gaseosa Guarana Antartica 250 ml,Bebidas,Gaseosas
 673112,Pack Yogurt Tipo Griego Normal 6 un 720 gr,Lácteos y Derivados,Yogures
 673113,Pack Yogurt Tipo Griego Zero Azucar 6 un 720 gr,Lácteos y Derivados,Yogures
@@ -16335,7 +16349,7 @@ id_producto,producto,categoria,subcategoria
 679401,Torta Helada Delizia Tentacion,Congelados,"Helados, Cassattas y Picoleses"
 679413,Tostada Irupana Integral,Panadería,Panadería Externa
 679422,HELADO PICOLE PIL FRU/CAN/PIN/NAR/LIM 60ML,Congelados,"Helados, Cassattas y Picoleses"
-679428,PALETA HELADA PILFRUT DURAZNO 60ML,Congelados,"Helados, Cassattas y Picoleses"
+679428,Helado Pil Pilfrut Durazno 60 ml,Congelados,"Helados, Cassattas y Picoleses"
 679429,Helado Pil Pilfrut Manzana 60 ml,Congelados,"Helados, Cassattas y Picoleses"
 679430,Helado Pil Pilfrut Frutilla 60 ml,Congelados,"Helados, Cassattas y Picoleses"
 679435,Helado Pil Mixes Crema Americana Frutilla,Congelados,"Helados, Cassattas y Picoleses"
