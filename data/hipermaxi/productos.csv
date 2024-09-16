@@ -1416,6 +1416,7 @@ id_producto,producto,categoria,subcategoria
 29054,CHOCOL TABOADA C NARANJA TAB 100G,Abarrotes,Chocolates y Caramelos
 29055,CHOCOLATE TABOADA MENTA TAB 100 G,Abarrotes,Chocolates y Caramelos
 29057,"GALLETA COFLER RELL COOKIES 132,8G",Abarrotes,Galletas
+29065,VINO C DE SOLANA TANNAT UNICO DARK 750ML,Bebidas,Vinos y Champagne
 29246,Servilletas Elite Coctel 50 un,Cuidado Personal,Cuidado Familiar
 29254,Pañuelo Facial Familia Triple Hoja 50 un,Cuidado Personal,Cuidado Familiar
 29799,Cerveza Potosina Light 350 ml,Bebidas,Cervezas
@@ -5278,6 +5279,7 @@ id_producto,producto,categoria,subcategoria
 165028,PACK EXCELLENCE 6 + NECESER LOREAL,Cuidado Personal,Cuidado del Cabello
 165029,Pack Tinte Excellence Tono 7.11 + Neceser Loreal,Cuidado Personal,Cuidado del Cabello
 165030,PACK EXCELLENCE 4 + NECESER LOREAL,Cuidado Personal,Cuidado del Cabello
+165031,Pack Tinte Excellence Nudes Tono 6U + Neceser Loreal,Cuidado Personal,Cuidado del Cabello
 165032,Pack Paño Hipertex 35x40 cm,Cuidado del Hogar,Accesorios del Hogar
 165045,Shampoo Tio Nacho Herbolaria Doypack 400 ml,Cuidado Personal,Cuidado del Cabello
 165182,Chocolate Twix Caramelo 50.7 gr,Abarrotes,Golosinas - Varias
@@ -6593,6 +6595,7 @@ id_producto,producto,categoria,subcategoria
 234011,PACK SEDAL SH CELULAS M 6X650ML + AC 340,Cuidado Personal,Cuidado del Cabello
 234012,PACK SEDAL SH CERAMIDAS 6X650ML + AC 340,Cuidado Personal,Cuidado del Cabello
 234015,DOVE SH BOND INTENSE REPAIR 12X400ML,Cuidado Personal,Cuidado del Cabello
+234017,DOVE MASC NUTRICION 6X300G,Cuidado Personal,Cuidado del Cabello
 234019,DOVE AC BOND INTENSE REPAIR 12X250ML,Cuidado Personal,Cuidado del Cabello
 234020,Vino Riccitelli Hey Malbec 750 ml,Bebidas,Vinos y Champagne
 234021,"NATUREZA TOALLA DE COCINA 19,3CM X 19CM",Cuidado del Hogar,Limpieza de Cocina
@@ -11559,8 +11562,10 @@ id_producto,producto,categoria,subcategoria
 552760,PAPAS PRINGLES MOSTAZA Y MIEL 158 GR,Abarrotes,Snack
 552761,MERMELADA LA VASCA MANDARINA 480 GR,Abarrotes,"Mermel, Mieles"
 552762,TOMATE LA VASCA DESHIDRATADO 80 GR,Abarrotes,Verduras en Conserva
+552764,MERMELADA LA VASCA DIET GUINDA 200 GR,Abarrotes,Dietéticos y Saludables
 552766,SAZONADOR MULTI PROP BADIA 79.4 GR,Abarrotes,Productos Americanos
 552774,CHOCOLATE EL CEIBO OSO PO 140 GR,Abarrotes,Chocolates y Caramelos
+552775,PACK 3X2 CERVEZA PAULANER WEISSBIER 500 ML,Bebidas,Cervezas
 554333,Cerveza Paceña Lata Roja 473 Cc,Bebidas,Cervezas
 554466,Detergente Liquido Ola Futuro Limpieza Completa 5 L,Cuidado del Hogar,Limpieza de la Ropa
 554468,Suavizante Ropa Ola Suavecito Original 5 L,Cuidado del Hogar,Limpieza de la Ropa
@@ -13410,6 +13415,7 @@ id_producto,producto,categoria,subcategoria
 656761,Pollo Relleno Sofia,Congelados,Carnes Congeladas
 656762,Muslo Relleno Sofia Congelado,Congelados,Carnes Congeladas
 656781,Miel de Abeja Apiscol Natural 200 gr,Abarrotes,"Mermel, Mieles"
+656782,PROPOMIEL APISBOL VIDRIO 320GR,Abarrotes,"Mermel, Mieles"
 656783,Polen Natural Apisbol 150 gr,Abarrotes,"Mermel, Mieles"
 656784,Miel de Caña Apisbol 300 gr,Abarrotes,"Mermel, Mieles"
 656785,Miel de Abeja Apiscol Natural 650 gr,Abarrotes,"Mermel, Mieles"
@@ -14815,6 +14821,7 @@ id_producto,producto,categoria,subcategoria
 668805,Desodorante Aerosol Lady Speed Stick Carbon Absorvente 91 gr,Cuidado Personal,Cuidado de la Piel
 668807,Desodorante Barra Lady Speed Stick Carbon Absorvente 45 gr,Cuidado Personal,Cuidado de la Piel
 668808,Desodorante Barra Speed Stick Carbon Absorvente 50 gr,Cuidado Personal,Cuidado de la Piel
+668815,Gel Fijador Super Fix Mujer 230 gr,Cuidado Personal,Cuidado del Cabello
 668816,Gel Fijador Super Fix Princess 230 gr,Cuidado Personal,Cuidado del Cabello
 668818,GILLETTE PRESTOBARBA3 OFERTA PAGUE 3 LLE,Cuidado Personal,Cuidado de la Piel
 668819,Detergente Polvo Todo Brillo Matic 3.5 kg,Cuidado del Hogar,Limpieza de la Ropa
@@ -16893,6 +16900,7 @@ id_producto,producto,categoria,subcategoria
 762613,Yogurt San Javier Coco Light 200 ml,Lácteos y Derivados,Yogures
 762636,Chorizo Churrasquero Sofia a Granel kg,Fiambres,Fiambres Externos
 763256,Huevos Caisy Subsidio 30 un,Lácteos y Derivados,Huevos
+763514,LECHE ENTERA LOLITA LA PURITA 800 ML.,Lácteos y Derivados,Leches
 763543,Helado Acai Yogurt Griego Cabrera 1 L,Congelados,"Helados, Cassattas y Picoleses"
 763648,Helado Acai Yogurt Griego Cabrera 500 ml,Congelados,"Helados, Cassattas y Picoleses"
 763897,Huevos Avicola Paurito Medianos 60 un,Lácteos y Derivados,Huevos
@@ -17958,6 +17966,7 @@ id_producto,producto,categoria,subcategoria
 831542,Vela Cirio Yander Maciel Gruesa 2 un,Bazar,Cotillón
 831544,LV VELA VASO GRANDE PERFUMADA COLORES YANDE MACIEL,Bazar,Living y Dormitorio
 831644,Vela Cirio Yander Maciel 12 cm,Bazar,Living y Dormitorio
+831681,COUSCOUS ROLAND 100% NATURAL CJA 500 G,Abarrotes,Productos Americanos
 831804,ALED RESALTADOR DE BS 5,Bazar,Librería
 831854,Cereal Kelloggs Special Red Berries 43 oz,Abarrotes,Productos Americanos
 831923,Caramelo Nerds Watermelon Cherry 1.65 oz,Abarrotes,Golosinas - Varias
