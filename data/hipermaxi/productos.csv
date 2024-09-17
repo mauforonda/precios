@@ -1408,6 +1408,7 @@ id_producto,producto,categoria,subcategoria
 29040,PACK 30 SOB CALDO GALLINA KRIS 1JARRA,Abarrotes,Básicos
 29041,GALLETA OBLEA COFLER VAIN CHOCOL 87G,Abarrotes,Galletas
 29042,SNACK PITA CHIPS WARDI OREGANO 150G,Abarrotes,Snack
+29043,SNACK PITA CHIPS WARDI CANELA 150G,Abarrotes,Snack
 29044,FIDEOS LAZZARONI TRICOLOR 400G,Abarrotes,Básicos
 29049,GALLETA INIFNITAS RELL VAINILLA 240G,Abarrotes,Galletas
 29051,PLATANO CHIPS LIMON 90GR,Abarrotes,Snack
@@ -5409,6 +5410,7 @@ id_producto,producto,categoria,subcategoria
 195634,Cholgas Angelmo al Aceite 425 gr,Abarrotes,Comidas en Conserva
 197487,Vino Campos de Solana Tannat Unico 750 ml,Bebidas,Vinos y Champagne
 198002,Arveja Predilecta 170 gr,Abarrotes,Verduras en Conserva
+198005,Budin Kiko Surtido 1 kg,Abarrotes,Repostería
 198011,Pulpa de Tomate Predilecta 340 gr,Abarrotes,Salsas y Extracto de Tomate
 198012,Salsa Predilecta Pizza 300 gr,Abarrotes,Salsas y Extracto de Tomate
 198480,Queso Edam Flor de Leche Maduro kg,Lácteos y Derivados,Quesos
@@ -6527,6 +6529,7 @@ id_producto,producto,categoria,subcategoria
 230499,Salchicha Sin Piel Stege 6 un,Fiambres,Fiambres Externos
 230511,MR CLORO ACIDO NITRICO 1000 ML,Cuidado del Hogar,Limpieza de Baños
 230514,JABONCILLO ASEPXIA ESPONJA 80GR,Cuidado Personal,Cuidado de la Piel
+230517,PANAL BABYSEC PREM.PPK GR 2X58,Cuidado del Bebé,Pañales
 230525,BOLSA ULTRA RAYADA 60X80,Cuidado del Hogar,Accesorios del Hogar
 230540,Desodorante Dove Orquidea 45 gr,Cuidado Personal,Cuidado de la Piel
 230541,Desodorante Roll On Dove Orquidea 50 ml,Cuidado Personal,Cuidado de la Piel
@@ -9470,6 +9473,7 @@ id_producto,producto,categoria,subcategoria
 453434,Caramelo Gargatan Wira Miel 100 gr,Abarrotes,"Mermel, Mieles"
 453435,Caramelo Garganta Eucalipto Miel 100 gr,Abarrotes,"Mermel, Mieles"
 453436,Caramelo Garganta Limon Miel Prop x 100 gr,Abarrotes,"Mermel, Mieles"
+453722,Paño Limpion Eterna Multiuso X 1,Cuidado del Hogar,Accesorios del Hogar
 453890,Gel Humectante Banana Boat Aloe Vera 230 gr,Cuidado Personal,Cuidado de la Piel
 453926,CARISSA GEL SANITIZADOR SANDIA X 360GR,Cuidado Personal,Cuidado de la Piel
 453929,Gel Sanitizador Carissa Marino 360 gr,Cuidado Personal,Cuidado de la Piel
@@ -16164,6 +16168,7 @@ id_producto,producto,categoria,subcategoria
 674221,POSTRE HELADO EGO OH BRIGADO 450 ML X 1,Congelados,"Helados, Cassattas y Picoleses"
 674222,POSTRE HELADO EGO BANOFEE FEEL 450 ML X,Congelados,"Helados, Cassattas y Picoleses"
 674223,MINI EGO OH BRIGADO 100 ML X 12 U,Congelados,"Helados, Cassattas y Picoleses"
+674224,MINI EGO BANOFFE 100 ML X 12 U,Congelados,"Helados, Cassattas y Picoleses"
 674225,PAN MOLDE BLANCO KING 600GRS,Panadería,Panadería Externa
 674227,PAN MOLDE MIGA KING 500GRS,Panadería,Panadería Externa
 674228,PAN MOLDE MIGA INTEGRAL KING 500GRS,Panadería,Panadería Externa
@@ -16178,6 +16183,7 @@ id_producto,producto,categoria,subcategoria
 674238,PRE PIZZA 2E KING,Panadería,Panadería Externa
 674240,PAN MOLIDO CRUGIENTE/CLASICO KING 500GRS,Panadería,Panadería Externa
 674241,ENROLLADO DE CERDO OSFIM SACHET 150GRS,Fiambres,Fiambres Externos
+674242,ENRROLLADO DE CERDO OSFIM BARRA KILOGRAMO,Fiambres,Fiambres Externos
 674243,QUESO DESCREMADO DIETETICO NESKRAFT 140GRS,Lácteos y Derivados,Quesos
 674244,YUQUITAS CHIPS 150GR-CEBOLLA,Abarrotes,Snack
 674245,YUQUITAS CHIPS 150GR-CLASICAS,Abarrotes,Snack
