@@ -1405,6 +1405,7 @@ id_producto,producto,categoria,subcategoria
 29018,CEREAL KELLOGG FROOT LOOPS CJA 200G,Abarrotes,Nutrición Infantil
 29022,EDULCORANTE SPLENDA ORIGINAL 25 SOB,Abarrotes,Dietéticos y Saludables
 29023,GALLETA COFLER RELL CHOCOLATE 85G,Abarrotes,Galletas
+29024,CAFE BAGGIO GOURMET MOLID ESPRESSO 250G,Abarrotes,Café y Sucedáneos
 29040,PACK 30 SOB CALDO GALLINA KRIS 1JARRA,Abarrotes,Básicos
 29041,GALLETA OBLEA COFLER VAIN CHOCOL 87G,Abarrotes,Galletas
 29042,SNACK PITA CHIPS WARDI OREGANO 150G,Abarrotes,Snack
@@ -1416,8 +1417,11 @@ id_producto,producto,categoria,subcategoria
 29053,PAELLA D QUINUA KREMMORE INSTANT 40G,Abarrotes,Básicos
 29054,CHOCOL TABOADA C NARANJA TAB 100G,Abarrotes,Chocolates y Caramelos
 29055,CHOCOLATE TABOADA MENTA TAB 100 G,Abarrotes,Chocolates y Caramelos
+29056,CHOCOLATE TABOADA FRUTILLA TAB 100G,Abarrotes,Chocolates y Caramelos
 29057,"GALLETA COFLER RELL COOKIES 132,8G",Abarrotes,Galletas
 29065,VINO CAMPOS DE SOLANA TANNAT UNICO DARK,Bebidas,Vinos y Champagne
+29075,MANI PICNIC JAPONES TRADIC 350G,Abarrotes,Snack
+29096,REFRESCO FUNCIONAL MITTO FRAMB UVA 600 M,Bebidas,Bebidas Varias
 29246,Servilletas Elite Coctel 50 un,Cuidado Personal,Cuidado Familiar
 29254,Pañuelo Facial Familia Triple Hoja 50 un,Cuidado Personal,Cuidado Familiar
 29799,Cerveza Potosina Light 350 ml,Bebidas,Cervezas
@@ -2628,6 +2632,7 @@ id_producto,producto,categoria,subcategoria
 76015,Pollo Frial Entero Sofia kg,Carnes,Carne de Pollo
 77178,Salsa Kris Churrasco Kriolla 200 gr,Abarrotes,Aderezos
 79596,Lomo de Cerdo kg,Carnes,Otras Carnes
+80349,Pegamento Uhu Stic Mediano 40 gr,Bazar,Librería
 80861,Yogurt Pil Frutado Coco 750 ml,Lácteos y Derivados,Yogures
 80870,Yogurt Pil Frutado Frutilla 750 ml,Lácteos y Derivados,Yogures
 81107,Super Mix Manitobas 40 gr,Abarrotes,Golosinas - Varias
@@ -2716,6 +2721,7 @@ id_producto,producto,categoria,subcategoria
 95117,Aji Amarillo Cocinero 100 gr,Abarrotes,Condimentos y Legumbres
 95133,Canela Cocinero Rama 40 gr,Abarrotes,Condimentos y Legumbres
 95150,Anis El Cocinero 100 gr,Abarrotes,Condimentos y Legumbres
+95486,Pegamento Barra Uhu Stic 8.2 gr,Bazar,Librería
 96024,Fideo Famosa Cortado Surtido 400 gr,Abarrotes,Básicos
 96075,Fideo Famosa Rosca 27 400 gr,Abarrotes,Básicos
 97079,Leche Evaporada Bella Holandesa Creamy 410 gr,Abarrotes,Nutrición Infantil
@@ -4358,6 +4364,7 @@ id_producto,producto,categoria,subcategoria
 115017,Insectisida Tyson Max Mata Todo 360 ml,Cuidado del Hogar,Insecticidas
 115020,Crema Corporal Nivea Soft Piel Seca 125 ml,Cuidado Personal,Cuidado de la Piel
 115031,Shampoo Juicy Summer Crush 440 ml,Cuidado del Bebé,Kids
+115050,Pañales Huggies Little Swimmers G 10 un,Cuidado del Bebé,Pañales
 115051,Pañales Huggies Little Swimmers M 11 un,Cuidado del Bebé,Pañales
 115060,Gel Fijador Fixer Efecto Humedo 250 gr,Cuidado Personal,Cuidado del Cabello
 115110,Shampoo Selfy Aloe Vera Doypack900 ml,Cuidado Personal,Cuidado del Cabello
@@ -8603,6 +8610,7 @@ id_producto,producto,categoria,subcategoria
 374012,Palitos de Anticucho Parana 50 un,Bazar,Churrasquería
 374199,Esponja Baño Luzon Pardan 550,Cuidado del Hogar,Productos Americanos
 374334,Jabon Barra Johnsons Baby Glicerina Miel 80 gr,Cuidado del Bebé,Cuidado del Bebé
+374480,Hielera Alaska de Plastico,Bazar,Menaje Plástico
 374495,Huesos Guau Nutrigua 3 un,Bazar,Mascotas General
 374496,UV HUESOS X1  DE MASCOTAS BS 29,Bazar,Mascotas General
 374497,Palitos Guau Huesitos,Bazar,Mascotas General
@@ -8731,6 +8739,7 @@ id_producto,producto,categoria,subcategoria
 382112,Repelente Fexon Aerosol Post Picadura 100 ml,Cuidado Personal,Cuidado de la Piel
 382175,Mortadela de Pollo Hipermaxi kg,Fiambres,Fiambres Hipermaxi
 382191,Mortadela Primavera Pollo Hipermaxi kg,Fiambres,Fiambres Hipermaxi
+382205,Margarina Qualy Cremosa Sadia con Sal 500 gr,Lácteos y Derivados,Mantequillas y Margarinas
 382526,Gelatina Kris Cereza Light 24 gr,Abarrotes,Dietéticos y Saludables
 382527,Gelatina Kris Frutilla Light 24 gr,Abarrotes,Dietéticos y Saludables
 382528,Gelatina Kris Naranja Light 24 gr,Abarrotes,Dietéticos y Saludables
@@ -9661,6 +9670,7 @@ id_producto,producto,categoria,subcategoria
 472590,Cuaderno Lider Espiral 1/2 Oficio con Diseño 100 Hojas,Bazar,Librería
 472760,Crema Corporal Nivea Reafirmante Q10 Plus 250 ml,Cuidado Personal,Cuidado de la Piel
 473019,Queque Dollycioso Surtido 650 gr,Pastelería y Masas Típicas,Pastelería Externa
+473477,Dorito Frito Lays Queso Atrevido 47 gr,Abarrotes,Snack
 473546,Tocino Chips A&M Picante 100 gr,Abarrotes,Snack
 473871,Ajinomoto Glutamato 1 kg,Abarrotes,Condimentos y Legumbres
 474215,Repuesto Maquina de Afeitar Gillette Mach3 4 un,Cuidado Personal,Cuidado de la Piel
@@ -11095,10 +11105,12 @@ id_producto,producto,categoria,subcategoria
 551835,HARINA D AVENA AVELINDA PRECOCIDA DP 500,Abarrotes,Básicos
 551839,Vino Tinto Barbacana Syrah 750 ml,Bebidas,Vinos y Champagne
 551840,Sopa Campbells Pollo Fideo 527 gr,Abarrotes,Productos Americanos
+551847,Bocadito Snyders Masa Madre 9 oz,Abarrotes,Productos Americanos
 551850,Sopa Campbells Carne Vegetales,Abarrotes,Productos Americanos
 551853,Gaseosa Harry Naranja 3250 cc,Bebidas,Gaseosas
 551854,ACHACHAIRU LIOFILIZADO AVELINDA 100 G,Abarrotes,Frutas en Conserva
 551855,Curcuma Avelinda Liofilizada 100 gr,Abarrotes,Frutas en Conserva
+551857,JENGIBRE LIOFILIZADO AVELINDA 100 GR,Abarrotes,Frutas en Conserva
 551858,Acai Liofilizado Avelinda 100 gr,Abarrotes,Frutas en Conserva
 551859,NONI LIOFILIZADO AVELINDA 100 GR,Abarrotes,Frutas en Conserva
 551861,Gomita Trululu Oro 120 gr,Abarrotes,Golosinas - Varias
@@ -11554,6 +11566,7 @@ id_producto,producto,categoria,subcategoria
 552720,CAFE COPACABANA LIOFILIZADO DP 45 GR,Abarrotes,Café y Sucedáneos
 552721,CAFE COPACABANA LIOFILIZADO DP 180GR,Abarrotes,Café y Sucedáneos
 552730,REFRESCO ZUKO MANZANA 13 GR,Bebidas,Refrescos en Polvo
+552731,REFRESCO ZUKO PINA SOB 13G,Bebidas,Refrescos en Polvo
 552734,REFRESCO ZUKO NARANJA SOB 13G,Bebidas,Refrescos en Polvo
 552735,MATE CEYLAN MANZANILLA X 20 UN,Abarrotes,Café y Sucedáneos
 552736,TE NEGRO CEYLAN CON LIMON 20 UN,Abarrotes,Café y Sucedáneos
@@ -11580,9 +11593,11 @@ id_producto,producto,categoria,subcategoria
 552760,PAPAS PRINGLES MOSTAZA Y MIEL 158 GR,Abarrotes,Snack
 552761,MERMELADA LA VASCA MANDARINA 480 GR,Abarrotes,"Mermel, Mieles"
 552762,TOMATE LA VASCA DESHIDRATADO 80 GR,Abarrotes,Verduras en Conserva
+552763,MERMELADA LA VASCA DIET DE MORA 200 GR,Abarrotes,Dietéticos y Saludables
 552764,MERMELADA LA VASCA DIET GUINDA 200 GR,Abarrotes,Dietéticos y Saludables
 552766,SAZONADOR MULTI PROP BADIA 79.4 GR,Abarrotes,Productos Americanos
 552770,PACK 6 CERVEZA HUARI LATA 440 ML,Bebidas,Cervezas
+552771,PACK 3 CERVEZA GOLDEN LATA 440 ML,Bebidas,Cervezas
 552772,PACK 6 CERVEZA PACENA LATA 269,Bebidas,Cervezas
 552773,PACK 12 CERVEZA HUARI LATA 269 CC,Bebidas,Cervezas
 552774,CHOCOLATE EL CEIBO OSO PO 140 GR,Abarrotes,Chocolates y Caramelos
@@ -12353,6 +12368,7 @@ id_producto,producto,categoria,subcategoria
 619066,Cafe Colonia Yunga en Granos Trilaminad 250 gr,Abarrotes,Café y Sucedáneos
 619083,Barra Cereal Mi Barrita Chia 180 gr,Abarrotes,Dietéticos y Saludables
 619086,Barra Cereal Mi Barrita Sesamo 180 gr,Abarrotes,Dietéticos y Saludables
+619089,Jugo Superfrut Manzana 200 ml,Bebidas,"Jugos, Néctar"
 619091,Jugo Superfrut Durazno 200 ml,Bebidas,"Jugos, Néctar"
 619092,Jugo Superfruit Guinda 200 ml,Bebidas,"Jugos, Néctar"
 619108,Navajuelas Danu al Natural 111 gr,Abarrotes,Comidas en Conserva
@@ -12510,6 +12526,7 @@ id_producto,producto,categoria,subcategoria
 629389,Jarabe de Maiz con Mantequilla 710 ml,Abarrotes,Productos Americanos
 629399,Agua Mineral San Pellegrino 330 ml,Bebidas,Bebidas Usa
 629404,Te Helado Tea Time Durazno 1 L,Bebidas,Bebidas Usa
+629426,Pretzel Snyders Hot Buffalo Wing 319 gr,Abarrotes,Productos Americanos
 629427,Salsa Click Fil A Scholarships 473 ml,Abarrotes,Productos Americanos
 629428,Salsa Chick Fil A Polynesian 473 ml,Abarrotes,Productos Americanos
 629485,Agua de Coco Pulpa Tru Farm 500 ml,Bebidas,Bebidas Usa
@@ -12518,9 +12535,13 @@ id_producto,producto,categoria,subcategoria
 629556,Caramelo Lucas Muecas Cereza 25 gr,Abarrotes,Productos Americanos
 629586,Galleta Butter Danish Cookies 1.36 kg,Abarrotes,Productos Americanos
 629589,Cereal Cheerios Whole Grain 510 gr,Abarrotes,Productos Americanos
+629594,Pretzel Snyders Queso Cheddar 318 gr,Abarrotes,Productos Americanos
+629595,PRETZEL SNAPS SNYDERS AJO TOSTADO 255 GR,Abarrotes,Productos Americanos
 629661,Harina Ghirardelli Brownie 2.83 kg,Abarrotes,Productos Americanos
 629663,Esparragos Mark Firm en Vinagre 473 gr,Abarrotes,Productos Americanos
+629665,Pretzel Snyders Pieces Honey Mustard Onion 318 gr,Abarrotes,Productos Americanos
 629666,Salsa Sriracha Hot Base de Chile 793 ml,Abarrotes,Productos Americanos
+629668,Pretzel Snyders Pieces Jalapeño 318 gr,Abarrotes,Productos Americanos
 629683,Mayonesa Kraft 650 gr,Abarrotes,Productos Americanos
 629684,Ketchup Kraft Real 850 gr,Abarrotes,Productos Americanos
 629685,Ketchup Kraft Real 450 gr,Abarrotes,Productos Americanos
@@ -12529,6 +12550,7 @@ id_producto,producto,categoria,subcategoria
 629706,VINAGRE DE SIDRA DE MANZANA BRAGG 946 ML,Abarrotes,Productos Americanos
 629708,ACEITE DE PALTA EN SPRAY CHOSEN AVOPACIFIC 383 GR,Abarrotes,Productos Americanos
 629727,BEBIDA HIDRATANTE PRIME ICE POP 500ML,Bebidas,Bebidas Usa
+629728,BEBIDA HIDRATANTE PRIME LEMONADE 500ML,Bebidas,Bebidas Usa
 629729,BEBIDA HIDRATANTE PRIME FRUTILLA MELON 500ML,Bebidas,Bebidas Usa
 630010,Alimento Pedigree Cachorro 1.5 kg,Abarrotes,Mascotas
 630011,CRUSH SABOR PINA 355 ML,Bebidas,Bebidas Usa
@@ -13085,7 +13107,7 @@ id_producto,producto,categoria,subcategoria
 654124,Jugo Frutall Exotico Piña 1 L,Bebidas,"Jugos, Néctar"
 654125,Salsa Molho Bravo Habanero Pimienta 60 ml,Abarrotes,Productos Americanos
 654126,Salsa Molho Pimienta Bravo Suave 60 ml,Abarrotes,Aderezos
-654133,Endulzante Irupana Miski con Stevia 40 gr,Abarrotes,Dietéticos y Saludables
+654133,Edulcorante  Irupana Miski con Stevia 40 gr,Abarrotes,Dietéticos y Saludables
 654144,Galleta Gran Cereal Avena Cacao 185 gr,Abarrotes,Galletas
 654145,Galleta Costa Cereal Berries 185 gr,Abarrotes,Galletas
 654150,Mermelada Yacobs Guayaba 500 gr,Abarrotes,"Mermel, Mieles"
@@ -14754,6 +14776,7 @@ id_producto,producto,categoria,subcategoria
 668574,GAMUZIN NEUTRO 50 ML,Cuidado del Hogar,Limpieza de Zapatos
 668575,Protectores Diarios Kotex Indicador Ph Noraml 150 un,Cuidado Personal,Cuidado Familiar
 668576,Protectores Diarios Kotex Indicador Ph Noraml 15 un,Cuidado Personal,Cuidado Familiar
+668577,Serum Garnier Hidratante Gel 50 ml,Cuidado Personal,Cuidado de la Piel
 668583,Protectores Diarios Carefree Todos Los Dias 60 un,Cuidado Personal,Cuidado Familiar
 668618,Enjuegue Bucal Colgate Control 1 L,Cuidado Personal,Cuidado Bucal
 668619,Escobilla Jude Lustrin,Cuidado del Hogar,Accesorios del Hogar
@@ -16219,7 +16242,8 @@ id_producto,producto,categoria,subcategoria
 674242,ENRROLLADO DE CERDO OSFIM BARRA KILOGRAMO,Fiambres,Fiambres Externos
 674243,QUESO DESCREMADO DIETETICO NESKRAFT 140GRS,Lácteos y Derivados,Quesos
 674244,YUQUITAS CHIPS 150GR-CEBOLLA,Abarrotes,Snack
-674245,YUQUITAS CHIPS 150GR-CLASICAS,Abarrotes,Snack
+674245,YUQUITA DN CARLOS CLASICAS BSA 150G,Abarrotes,Snack
+674247,FILETE DE PAICHE EL SABOR DEL QUINCHO KGR,Congelados,Carnes Congeladas
 674248,JAMON CANADIENSE REDONDO STEGE PROMO AL VACIO,Fiambres,Fiambres Externos
 674249,JAMON ARTESANAL STEGE PROMO AL VACIO,Fiambres,Fiambres Externos
 674252,HELADO DELIZIA LITRO TRADICION CANELA-LECHE,Congelados,"Helados, Cassattas y Picoleses"
@@ -17934,6 +17958,7 @@ id_producto,producto,categoria,subcategoria
 824331,Sazonador McCormick Oregano 141 gr,Abarrotes,Condimentos y Legumbres
 824351,Sazonador McCormick Steak Montreal 822 gr,Abarrotes,Condimentos y Legumbres
 824688,MERMEL SMUCKER S STRAWBERRY 12 OZ,Abarrotes,"Mermel, Mieles"
+824716,JABONERA C/ESCURRIDOR X2,Bazar,Menaje Plástico
 825641,Refresco Livean Naranja 9 gr,Abarrotes,Dietéticos y Saludables
 825661,Refresco Livean Fresa 9 gr,Abarrotes,Dietéticos y Saludables
 825705,Chocolate Kit Kat Nestle 41.5 gr,Abarrotes,Golosinas - Varias
@@ -19166,6 +19191,7 @@ id_producto,producto,categoria,subcategoria
 889140,Exprimidor de Naranja Basa,Bazar,Articulos de Cocina
 889146,Porta Jabon Good y Good,Bazar,Baño General
 889147,JARRA MSR 1/2 LITRO,Bazar,Menaje Plástico
+889160,Pegamento Barra Uhu Stic 40 gr,Bazar,Librería
 889471,BOL DIVERTY BLOCKS  SURTIDOS,Juguetería,Juguetería Didáctica/Temporada
 890260,Aceite de Maiz Mazola Spray 142 gr,Abarrotes,Básicos
 890261,Aceite Mazola Spray 142 gr,Abarrotes,Básicos
