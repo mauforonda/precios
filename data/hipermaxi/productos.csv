@@ -1376,6 +1376,11 @@ id_producto,producto,categoria,subcategoria
 24402,Edulcorante  Dulzero con Stevia 250 ml,Abarrotes,Dietéticos y Saludables
 24403,Edulcorante  Dulzero Sucralosa 250 ml,Abarrotes,Dietéticos y Saludables
 24406,Edulcorante  Dulzero Sucralosa 500 ml,Abarrotes,Dietéticos y Saludables
+24459,GELATINA BONAIRE FRUTILLA BSA 230 GR,Abarrotes,Repostería
+24463,GELATINA BONAIRE CEREZA BSA 230 GR,Abarrotes,Repostería
+24464,GELATINA BONAIRE FRAMBUESA BSA 230 GR,Abarrotes,Repostería
+24514,COCOA BONAIRE REPOSTERIA BSA 160 GR,Abarrotes,Repostería
+24515,COCOA BONAIRE RESPOSTERIA BSA 500 GR,Abarrotes,Repostería
 24699,Chocolate Para Ti Caja Guinda 400 gr,Abarrotes,Chocolates y Caramelos
 24870,Galleta Wafer La Suprema Wafs Limon 100 gr,Abarrotes,Galletas
 24887,Gaseosa Fanta Guarana 500 ml,Bebidas,Gaseosas
@@ -1406,6 +1411,7 @@ id_producto,producto,categoria,subcategoria
 29022,EDULCORANTE SPLENDA ORIGINAL 25 SOB,Abarrotes,Dietéticos y Saludables
 29023,GALLETA COFLER RELL CHOCOLATE 85G,Abarrotes,Galletas
 29024,CAFE BAGGIO GOURMET MOLID ESPRESSO 250G,Abarrotes,Café y Sucedáneos
+29029,PACK 30 SOB CALDO COSTILLA KRIS 1 JARRA,Abarrotes,Básicos
 29040,PACK 30 SOB CALDO GALLINA KRIS 1JARRA,Abarrotes,Básicos
 29041,GALLETA OBLEA COFLER VAIN CHOCOL 87G,Abarrotes,Galletas
 29042,SNACK PITA CHIPS WARDI OREGANO 150G,Abarrotes,Snack
@@ -1420,8 +1426,11 @@ id_producto,producto,categoria,subcategoria
 29056,CHOCOLATE TABOADA FRUTILLA TAB 100G,Abarrotes,Chocolates y Caramelos
 29057,"GALLETA COFLER RELL COOKIES 132,8G",Abarrotes,Galletas
 29065,VINO CAMPOS DE SOLANA TANNAT UNICO DARK,Bebidas,Vinos y Champagne
+29066,PINA COLADA CELOSA SPIRITS LTA 355ML,Bebidas,Licores
+29072,TE BRISSOL D ALCACHOFA 20SAQ,Abarrotes,Dietéticos y Saludables
 29075,MANI PICNIC JAPONES TRADIC 350G,Abarrotes,Snack
 29076,MANI PICNIC JAPONES PICANTE 350G,Abarrotes,Snack
+29081,GASEOSA DONA MARIA GINGER BEER 473ML,Bebidas,Gaseosas
 29091,GOMITA GUANDY CORAZON DULCE 20G,Abarrotes,Golosinas - Varias
 29095,REFRESCO FUNCIONAL MITTO LIMON 600ML,Bebidas,Bebidas Varias
 29096,REFRESCO FUNCIONAL MITTO FRAMB UVA 600 M,Bebidas,Bebidas Varias
@@ -1883,6 +1892,8 @@ id_producto,producto,categoria,subcategoria
 30898,SALSA MOLITALIA POMAROLA CLASICA 145G,Abarrotes,Salsas y Extracto de Tomate
 30901,Pack 2 Galletas Chip Ahoy + Oreo Tubo,Abarrotes,Galletas
 30902,PACK 2 GALLETAS OREO 1SANDWICHERA,Abarrotes,Galletas
+30911,BEBIDA CONTINI ICE MARACUYA BOT 275ML,Bebidas,Licores
+30912,BEBIDA CONTINI ICE ACAI BOT 275 ML,Bebidas,Licores
 30913,SIXPACK MANDALA WILD BERRY 6X5 200ML,Bebidas,Bebidas Varias
 30914,SIX PACK MANDALA PINK CITRUS 6X5 200 ML,Bebidas,Bebidas Varias
 30917,Galleta Cofler Choco Creamy Vain 85 gr,Abarrotes,Galletas
@@ -1910,6 +1921,7 @@ id_producto,producto,categoria,subcategoria
 30948,ISOTONICO REVIVE FRUTIPONCH 600ML,Bebidas,Isotónicos
 30950,YERBA MATE PAJARITO TRADICIONAL 20SAQ,Abarrotes,Café y Sucedáneos
 30955,VAPE WAKA NOVA SOUR BLUEBERRY 16000P,Bebidas,Cigarrillos
+30961,LICOR MEXICA C TEQUILA SAL LIMON 700ML,Bebidas,Licores
 30962,Edulcorante  Sucranova Duo Liquido 270 ml,Abarrotes,Dietéticos y Saludables
 30965,GOMITA TRULULU VAR SABORES CJA 360G,Abarrotes,Golosinas - Varias
 30966,AVENA LAMINADA PRINCESA CJA 400G,Abarrotes,Nutrición Infantil
@@ -2398,6 +2410,7 @@ id_producto,producto,categoria,subcategoria
 45527,Gaseosa Inca Kola 2.5 L,Bebidas,Gaseosas
 45549,Mermelada Campo Verde Frutas Tropical 410 gr,Abarrotes,"Mermel, Mieles"
 45688,Cafe Chiriguano Instantaneo 30 un,Abarrotes,Café y Sucedáneos
+45788,Achocolatado Chocobon 2 kg,Abarrotes,Nutrición Infantil
 45789,Achocolatado Chocobon 800 gr,Abarrotes,Nutrición Infantil
 45792,Achocolatado Chocobon 1 kg,Abarrotes,Nutrición Infantil
 45793,Achocolatado Chocobon 400 gr,Abarrotes,Nutrición Infantil
@@ -5316,6 +5329,7 @@ id_producto,producto,categoria,subcategoria
 167197,Salsa Divella Pomodoro 680 gr,Abarrotes,Salsas y Extracto de Tomate
 168270,Milanesa de Pollo Hipermaxi kg,Carnes,Carnes Procesadas
 169010,Shampoo Vitane Liso 400 ml,Cuidado Personal,Cuidado del Cabello
+169011,Acondicionador Vitane Liso 400 ml,Cuidado Personal,Cuidado del Cabello
 169014,Acondicionador Vitane Rizos 400 ml,Cuidado Personal,Cuidado del Cabello
 169102,Paella El Unico Carmencita 5 un,Abarrotes,Productos Americanos
 169856,Pasta Dental Colgate Sensitive Pro Alivio 110 gr,Cuidado Personal,Cuidado Bucal
@@ -5965,6 +5979,7 @@ id_producto,producto,categoria,subcategoria
 222244,Plumero Renata Arg N2,Cuidado del Hogar,Productos Americanos
 222245,Plumero Renata Arg N6,Cuidado del Hogar,Productos Americanos
 222246,Plumero Renata Arg N6,Cuidado del Hogar,Productos Americanos
+222248,Esmalte Carey Sellador Acrilico,Cuidado Personal,Cuidado de la Piel
 222249,Detergente Liquido Todo Brillo Floral 5 L,Cuidado del Hogar,Limpieza de la Ropa
 222252,Jabon Liquido Carissa Frutos Rojos 1 L,Cuidado Personal,Cuidado de la Piel
 222253,Jabon Liquido Carissa Crema Humectante 1 L,Cuidado Personal,Cuidado de la Piel
@@ -6284,6 +6299,7 @@ id_producto,producto,categoria,subcategoria
 223949,Toallas Humedas Babysec Premium 70 un,Cuidado del Bebé,Cuidado del Bebé
 223950,Toallas Humedas Babysec Premium 135 un,Cuidado del Bebé,Cuidado del Bebé
 223953,Toallas Higienicas Kotex Sport Ultrafina 24 un,Cuidado Personal,Cuidado Familiar
+223954,PROTEC KOTEX ANTIBAC NORMAL TELA  120 U,Cuidado Personal,Cuidado Familiar
 223955,Lavavajilla Pulpin Limon 1500 ml,Cuidado del Hogar,Limpieza de Cocina
 223956,Tripack Paños Totes Microfibra Surtido,Cuidado del Hogar,Accesorios del Hogar
 223976,Serum Revitalift Retinol Noche 30 ml,Cuidado Personal,Cuidado de la Piel
@@ -6639,6 +6655,7 @@ id_producto,producto,categoria,subcategoria
 234073,AEROSOL F30 ECRAN 250ML,Cuidado Personal,Cuidado de la Piel
 234074,AEROSOL F50 ECRAN250ML,Cuidado Personal,Cuidado de la Piel
 234075,SHAMPOO BALLERINA F NATURAL BIOTINA 750,Cuidado Personal,Cuidado del Cabello
+234076,ACONDC BALLERINA F NATURAL BIOTINA 750 M,Cuidado Personal,Cuidado del Cabello
 234077,ACOND BALLERINA FUERZ NATURAL BIOTIN DPA,Cuidado Personal,Cuidado del Cabello
 234480,Mermelada Merenda Fit Sin Azucar Guayaba 500 gr,Abarrotes,Dietéticos y Saludables
 234481,Mermelada Merenda Fit Sin Azucar Frutilla 500 gr,Abarrotes,Dietéticos y Saludables
@@ -6684,6 +6701,8 @@ id_producto,producto,categoria,subcategoria
 240538,PAPEL HIGIENICO NATUREZA 4RLS HS,Cuidado Personal,Cuidado Familiar
 240539,JABON LIQ. FLOR DE CAMPO FARMAX 480 ML,Cuidado Personal,Cuidado de la Piel
 240541,JABON LIQ ENC NATURALEZA FARMAX 480 ML,Cuidado Personal,Cuidado de la Piel
+240545,LAVAVAJILLAS BRISTR TUTTI FRUTTI 600ML,Cuidado del Hogar,Limpieza de Cocina
+240548,LIMPIA ZAPATILLAS TODO BRILLO 150 ML,Cuidado del Hogar,Limpieza de Zapatos
 240565,Refresco Bc Limonada 7 gr,Bebidas,Refrescos en Polvo
 240566,Refresco Bc Naranja 7 gr,Bebidas,Refrescos en Polvo
 240573,Refresco Arcor Multifruta 18 gr,Bebidas,Refrescos en Polvo
@@ -9262,6 +9281,7 @@ id_producto,producto,categoria,subcategoria
 428221,Salsa Ragu Tradicional 1.27 kg,Abarrotes,Productos Americanos
 428718,Vinagre Doña Filo Sushi Arroz 750 ml,Abarrotes,Básicos
 429420,Gelatina Frutigel Fresa 250 gr,Abarrotes,Repostería
+429589,Esponja Eterna Fibra Limpiadora Abrasiva 3 un,Cuidado del Hogar,Accesorios del Hogar
 429597,Esponja Eterna Fibra Limpiadora Abrasiva 6 un,Cuidado del Hogar,Accesorios del Hogar
 429600,Esponja Eterna Doble Uso Gruesa 2 un,Cuidado del Hogar,Accesorios del Hogar
 429619,Esponja Eterna Doble Uso Gruesa X1,Cuidado del Hogar,Accesorios del Hogar
@@ -9483,7 +9503,7 @@ id_producto,producto,categoria,subcategoria
 451015,Edulcorante  Equal con Stevia 100 un,Abarrotes,Dietéticos y Saludables
 451133,Helado Aguila Barrita,Congelados,"Helados, Cassattas y Picoleses"
 451510,Edulcorante Sucranova 300 un,Abarrotes,Dietéticos y Saludables
-451511,Edulcorante Sucranova 150 un,Abarrotes,Dietéticos y Saludables
+451511,Edulcorante  Sucranova 150 un,Abarrotes,Dietéticos y Saludables
 451609,Actifem x blister de 4 unidades Paracetamol - ibuprofeno - cafeína,Farmacia Otc,Sistema Nervioso Central
 451886,Shampoo Johnsons Clasico 750 ml,Cuidado del Bebé,Cuidado del Bebé
 451894,Shampoo Johnsons Clasico 400 ml,Cuidado del Bebé,Cuidado del Bebé
@@ -9506,6 +9526,7 @@ id_producto,producto,categoria,subcategoria
 453434,Caramelo Gargatan Wira Miel 100 gr,Abarrotes,"Mermel, Mieles"
 453435,Caramelo Garganta Eucalipto Miel 100 gr,Abarrotes,"Mermel, Mieles"
 453436,Caramelo Garganta Limon Miel Prop x 100 gr,Abarrotes,"Mermel, Mieles"
+453714,Paño Limpion Eterna Absorbente X 1,Cuidado del Hogar,Accesorios del Hogar
 453722,Paño Limpion Eterna Multiuso X 1,Cuidado del Hogar,Accesorios del Hogar
 453890,Gel Humectante Banana Boat Aloe Vera 230 gr,Cuidado Personal,Cuidado de la Piel
 453926,CARISSA GEL SANITIZADOR SANDIA X 360GR,Cuidado Personal,Cuidado de la Piel
@@ -11430,6 +11451,7 @@ id_producto,producto,categoria,subcategoria
 552424,Takis Fuego 28 gr,Abarrotes,Snack
 552425,Cafe Matiz Ambar Molido 340 gr,Abarrotes,Café y Sucedáneos
 552426,Pack 12 Maltin 440 ml,Bebidas,Bebidas Varias
+552427,PACK 3 CHOC CRUNCH 80 GR,Abarrotes,Chocolates y Caramelos
 552430,Masticable Mogul Tubitos Extreme Frutilla 620 gr,Abarrotes,Chocolates y Caramelos
 552431,Masticable Mogul Tubitos Frutilla 70 gr,Abarrotes,Chocolates y Caramelos
 552432,Cafe Orange Cup Coroico Viejo Grano 250 gr,Abarrotes,Café y Sucedáneos
@@ -11591,6 +11613,7 @@ id_producto,producto,categoria,subcategoria
 552720,CAFE COPACABANA LIOFILIZADO DP 45 GR,Abarrotes,Café y Sucedáneos
 552721,CAFE COPACABANA LIOFILIZADO DP 180GR,Abarrotes,Café y Sucedáneos
 552723,MAIZ CHUSPILLO AL HORNO QUESO CHEDDAR PI,Abarrotes,Snack
+552727,MAIZ CHUSPILLO AL HORNO LIMON PICANTE 10,Abarrotes,Snack
 552730,REFRESCO ZUKO MANZANA 13 GR,Bebidas,Refrescos en Polvo
 552731,REFRESCO ZUKO PINA SOB 13G,Bebidas,Refrescos en Polvo
 552734,REFRESCO ZUKO NARANJA SOB 13G,Bebidas,Refrescos en Polvo
@@ -12575,6 +12598,8 @@ id_producto,producto,categoria,subcategoria
 629703,PACK SALSA HERDEZ GUACAMOLE  240 GR,Abarrotes,Productos Americanos
 629706,VINAGRE DE SIDRA DE MANZANA BRAGG 946 ML,Abarrotes,Productos Americanos
 629708,ACEITE DE PALTA EN SPRAY CHOSEN AVOPACIFIC 383 GR,Abarrotes,Productos Americanos
+629722,CEREAL KELLOGS APPLE JACK 252 GR,Abarrotes,Productos Americanos
+629724,NUTELLA B-READY RELLENA DE AVELLANAS 22GR,Abarrotes,Productos Americanos
 629727,BEBIDA HIDRATANTE PRIME ICE POP 500ML,Bebidas,Bebidas Usa
 629728,Bebida Hidratante Prime limonada 500 ML,Bebidas,Bebidas Usa
 629729,BEBIDA HIDRATANTE PRIME FRUTILLA MELON 500ML,Bebidas,Bebidas Usa
@@ -14964,6 +14989,7 @@ id_producto,producto,categoria,subcategoria
 668931,ECOROLLO 65X80 50L,Cuidado del Hogar,Accesorios del Hogar
 668932,PL PANABS SPCTOTAL HIPOAL PAKET XG 60X2,Cuidado del Bebé,Pañales
 668934,CREMA DENT SENSITIVE ALIVIO INMEDIATO 11,Cuidado Personal,Cuidado Bucal
+668936,SHAMPOO H&S 3EN 1 FOR MEN 650 ML,Cuidado Personal,Cuidado del Cabello
 668937,H&S SH FUERTE DESDE LA RAIZ 650ML X 10U,Cuidado Personal,Cuidado del Cabello
 668938,SHAMPOO H&S ANTICOMEZON 375ML,Cuidado Personal,Cuidado del Cabello
 668939,SHAMPOO H&S ANTI COMEZON 650ML,Cuidado Personal,Cuidado del Cabello
@@ -14976,6 +15002,7 @@ id_producto,producto,categoria,subcategoria
 668998,MAR ANTIBAC KIDS -3PACK 270 GR,Cuidado Personal,Cuidado de la Piel
 668999,MAR COCO ALMENDRA Y VAINILLA  90 GR,Cuidado Personal,Cuidado de la Piel
 669005,SHAMPOO ELVIVE 370ML GLYCO GLOSS,Cuidado Personal,Cuidado del Cabello
+669013,KOCOSTAR MASCARILLA WHITE HAPPY MASK,Cuidado Personal,Cuidado de la Piel
 669901,Pizza Hipermaxi Congelada Hawaiana 620 gr,Congelados,Masas y Comidas Congeladas
 669902,Pizza Hipermaxi Congelada Jamon Queso Light Masa Integral,Congelados,Masas y Comidas Congeladas
 669903,Pizza Hipermaxi Congelada Pepperoni 620 gr,Congelados,Masas y Comidas Congeladas
@@ -15176,6 +15203,7 @@ id_producto,producto,categoria,subcategoria
 670953,Arrolado de Pollo Sofia,Congelados,Carnes Congeladas
 670956,Yogurt Griego Delizia Natural 1 L,Lácteos y Derivados,Yogures
 670960,Leche Pil con Cafe 800 ml,Lácteos y Derivados,Leches
+670968,Queso Mozzarella San Mateo San Javier 500 gr,Lácteos y Derivados,Quesos
 670976,Yogurt Provipal Mix Verdura Fruta 2 L,Lácteos y Derivados,Yogures
 670977,Yogurt Provipal Frutado 2 L,Lácteos y Derivados,Yogures
 670978,Yogurt Provipal Mix Verdura Fruta 1 L,Lácteos y Derivados,Yogures
@@ -15263,6 +15291,7 @@ id_producto,producto,categoria,subcategoria
 671266,Helado Yucatan Leche Condensada,Congelados,"Helados, Cassattas y Picoleses"
 671267,Helado Yucatan Crema Dulce de Leche y Relleno,Congelados,"Helados, Cassattas y Picoleses"
 671268,Helado Yucatan Agua Maracuya Relleno Leche Condensada,Congelados,"Helados, Cassattas y Picoleses"
+671269,Helado Yucatan Crema con Galleta Oreo,Congelados,"Helados, Cassattas y Picoleses"
 671270,Helado Yucatan Crema Coco Relleno Dulce de Leche,Congelados,"Helados, Cassattas y Picoleses"
 671271,Helado Yucatan Crema Chocolate Relleno Dulce de Leche,Congelados,"Helados, Cassattas y Picoleses"
 671273,Yogurt Griego Colinas del Sol 180 gr,Lácteos y Derivados,Yogures
@@ -15924,6 +15953,7 @@ id_producto,producto,categoria,subcategoria
 673506,GALLETA OBLEA DE AMARANTO TARO NUUM 53 GRS,Pastelería y Masas Típicas,Pastelería Externa
 673507,GALLETA OBLEA DE AMARANTO NUEZ NUUM 53 GRS,Pastelería y Masas Típicas,Pastelería Externa
 673508,GALLETA OBLEA DE AMARANTO CHOCOLATE CON MENTA NUUM 53 GRS,Pastelería y Masas Típicas,Pastelería Externa
+673513,CASSATA VERANO DELIZIA 1 LITRO,Congelados,"Helados, Cassattas y Picoleses"
 673514,Mortadela Ovoplus kg,Fiambres,Fiambres Externos
 673515,Jamon de Pollo Light Ovoplus kg,Fiambres,Fiambres Externos
 673518,Jamon Canadiense Stege Cuadrado un,Fiambres,Fiambres Externos
@@ -15978,7 +16008,7 @@ id_producto,producto,categoria,subcategoria
 673628,ALMEJAS ENTERAS CON CONCHA ILOMAR DOCENA,Congelados,Carnes Congeladas
 673629,Calamar Entero Ilomar 500 gr,Congelados,Carnes Congeladas
 673630,COLAS DE LANGOSTINO 41-50 ILOMAR 500 GRAMOS,Congelados,Carnes Congeladas
-673631,COLAS DE LANGOSTINOS PRECOCIDOS ILOMAR 450 GRAMOS,Congelados,Carnes Congeladas
+673631,COLAS DE LANGOSTINOS PRECOCIDOS ILOMAR 4,Congelados,Carnes Congeladas
 673633,Mejillones Enteros Ilomar con Concha,Congelados,Carnes Congeladas
 673634,Mixtura de Mariscos Ilomar 450 gr,Congelados,Carnes Congeladas
 673635,POTA ENTERA Y PELADA ILOMAR 500 GRAMOS,Congelados,Carnes Congeladas
@@ -16275,7 +16305,8 @@ id_producto,producto,categoria,subcategoria
 674247,FILETE DE PAICHE EL SABOR DEL QUINCHO KGR,Congelados,Carnes Congeladas
 674248,JAMON CANADIENSE REDONDO STEGE PROMO AL VACIO,Fiambres,Fiambres Externos
 674249,JAMON ARTESANAL STEGE PROMO AL VACIO,Fiambres,Fiambres Externos
-674252,HELADO DELIZIA LITRO TRADICION CANELA-LECHE,Congelados,"Helados, Cassattas y Picoleses"
+674251,YOGURT DELIZIA DELIBATIDITO FRUTILLA VASO 90GRS,Lácteos y Derivados,Yogures
+674252,HELADO DELIZIA LITRO TRADICION CANELA-LE,Congelados,"Helados, Cassattas y Picoleses"
 675245,Miel de Abeja Eva Promiel 250 gr,Abarrotes,"Mermel, Mieles"
 676113,Habanito Bits Cream Coojies Cream 120 gr,Congelados,"Helados, Cassattas y Picoleses"
 676115,HABANITO BITS CREAM DULCE DE LECHE 120GRS,Congelados,"Helados, Cassattas y Picoleses"
@@ -17032,6 +17063,7 @@ id_producto,producto,categoria,subcategoria
 768957,Papa PreCocida Simplot Congelada Corte Fino 2250 gr,Congelados,Masas y Comidas Congeladas
 768969,Queso Reggianito Melincue Argentino kg,Lácteos y Derivados,Quesos
 769195,Achocolatado Swiss Miss con Mashmallows 20 gr,Abarrotes,Nutrición Infantil
+769214,FILETES DE PECHUGA CORTE FINO BJA SOFIA KG.,Carnes,Carne de Pollo
 769543,Queso Pategras Sancor Corazon de Horma 240 gr,Lácteos y Derivados,Quesos
 769584,Queso Reggianito Sancor Corazon de Horma 230 gr,Lácteos y Derivados,Quesos
 769817,Tortillas Riquisima Harina de Trigo 12 un,Congelados,Masas y Comidas Congeladas
@@ -17194,6 +17226,7 @@ id_producto,producto,categoria,subcategoria
 782677,Magdalenas 10 un,Panadería,Panadería Especialidades Hipermaxi
 782681,Hamburguesa Sofia Not Burger 95 gr,Congelados,Carnes Congeladas
 782683,Pan Molde American Integral 567 gr,Panadería,Panadería Externa
+782697,Pan Pita Wardi 8 un,Panadería,Panadería Externa
 782709,Aros de Calamar Mar Rios kg,Congelados,Carnes Congeladas
 782713,Jamon Ahumado Dac 200 gr,Fiambres,Fiambres Externos
 782716,Langostino Precocido Mar Rios kg,Congelados,Carnes Congeladas
@@ -17239,6 +17272,7 @@ id_producto,producto,categoria,subcategoria
 783463,Queso Sandwichero Feteado Guaruja 200 gr,Lácteos y Derivados,Quesos
 783467,Galleta Eterovic de Almendra Medialuna 16 un,Pastelería y Masas Típicas,Pastelería Externa
 783469,Matambre de Cerdo Sofia kg,Congelados,Carnes Congeladas
+783476,Cuñape Mini Monona Tradicional 65 gr,Pastelería y Masas Típicas,Masas Típicas Externas
 783478,Mix de Locoto Guaruja 350 gr,Fiambres,Fiambres Externos
 783479,Tocino Feteado Zenteno 100 gr,Fiambres,Fiambres Externos
 783485,Huevo de Codorniz Aceituna Guaruja 400 gr,Fiambres,Fiambres Externos
@@ -18817,6 +18851,7 @@ id_producto,producto,categoria,subcategoria
 856917,Pimienta McCormick Peppercorn Medley Grinder 24 gr,Abarrotes,Condimentos y Legumbres
 856982,Canela Molida McCormick 67 gr,Abarrotes,Condimentos y Legumbres
 857010,Jugo de Naranja 250 ml,Frutas y Verduras,Ofertas Especiales
+857023,BOMBONES BREICK EL COLOR DEL AMOR,Abarrotes,Chocolates y Caramelos
 857198,Salsa Kraft Balsamic Vinagrete 16 oz,Abarrotes,Productos Americanos
 857396,Cocoa Hersheys 100% 23 oz,Abarrotes,Nutrición Infantil
 857574,Palmito Campo Verde Baby 170 gr,Abarrotes,Verduras en Conserva
