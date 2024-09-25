@@ -396,6 +396,7 @@ id_producto,producto,categoria,subcategoria
 9202,Vino Estirpe Oporto 700 ml,Bebidas,Vinos y Champagne
 9718,Tripack Gaseosa Coca Cola 2.5 L,Bebidas,Gaseosas
 9822,Jamon Premium Gutfleisch kg,Fiambres,Fiambres Externos
+10030,Chorizo Parrillero Dillmann kg,Fiambres,Fiambres Externos
 10187,Bebida Ice 51 Six Pack 275 ml,Bebidas,Licores
 10219,Mortadela Cazador Dillmann kg,Fiambres,Fiambres Externos
 10243,Jamon Cocido Dillmann kg,Fiambres,Fiambres Externos
@@ -594,6 +595,7 @@ id_producto,producto,categoria,subcategoria
 14302,Papa Capitan Cuac Crema Cebolla 140 gr,Abarrotes,Snack
 14304,Papa Capitan Cuac Cheddar 140 gr,Abarrotes,Snack
 14305,Papa Capitan Cuac Barbacoa 140 gr,Abarrotes,Snack
+14314,Gomita Mogul Tenebrosa 500 gr,Abarrotes,Temporada
 14315,Chicle Bon Bon Bum Fresa 205 gr,Abarrotes,Golosinas - Varias
 14322,Chocolate Valor Negro 85 Cacao Stevia 100 gr,Abarrotes,Chocolates y Caramelos
 14323,Gin Mom Love Royal 700 ml,Bebidas,Licores
@@ -1443,6 +1445,7 @@ id_producto,producto,categoria,subcategoria
 29098,PACK CHOCOLATE VIZZIO 3X2 26G,Abarrotes,Golosinas - Varias
 29102,TE BRISSOL DIENTE DE LEON 20SAQ,Abarrotes,Dietéticos y Saludables
 29109,TRIPACK ESPECIAL TAKIS 56 GR,Abarrotes,Snack
+29116,RON 37 LENGUAS BOT 1LT,Bebidas,Licores
 29246,Servilletas Elite Coctel 50 un,Cuidado Personal,Cuidado Familiar
 29254,Pañuelo Facial Familia Triple Hoja 50 un,Cuidado Personal,Cuidado Familiar
 29799,Cerveza Potosina Light 350 ml,Bebidas,Cervezas
@@ -1854,7 +1857,7 @@ id_producto,producto,categoria,subcategoria
 30841,TWO PACK ENERGIZANTE VOLT LTA 310ML,Bebidas,Energizantes
 30842,PACK 2OREO ORIGINAL 1RITZ TUBO,Abarrotes,Galletas
 30848,Pack Singani Insignia Etiqueta Roja + Vaso,Bebidas,Licores
-30849,PACK SINGANI INSIGNIA ETIQ NEGRA VASO 75,Bebidas,Licores
+30849,Pack Singani Insignia Etiqueta Negra + Vaso,Bebidas,Licores
 30850,COCKTAIL VOLCOF MOJITO BOT 900ML,Bebidas,Licores
 30851,COCKTAIL VOLCOF BLUEBERRY BOT 900ML,Bebidas,Licores
 30852,MASTICABLE MOGUL MORF FRIES 160G,Abarrotes,Golosinas - Varias
@@ -2230,6 +2233,7 @@ id_producto,producto,categoria,subcategoria
 31521,Vape Umo Mint 7000 Puffs,Bebidas,Cigarrillos
 31522,Vape Umo Puff Frozen Grape 2000 Puffs,Bebidas,Cigarrillos
 31528,Chocolate Rocklets Max 50 gr,Abarrotes,Temporada
+31529,Gomita Mogul Ojitos 30 gr,Abarrotes,Temporada
 31530,Salsa Molho Stella d Oro Pimienta 150 ml,Abarrotes,Aderezos
 31531,Arveja Etti 170 gr,Abarrotes,Verduras en Conserva
 31532,Arveja Choclo Etti 170 gr,Abarrotes,Verduras en Conserva
@@ -2324,6 +2328,7 @@ id_producto,producto,categoria,subcategoria
 37365,Chorizo Lara Mixto 400 gr,Abarrotes,Comidas en Conserva
 37366,Albondigas en Salsa Lara 440 gr,Abarrotes,Comidas en Conserva
 37368,Mani Mr Mad Tostado 500 gr,Abarrotes,Snack
+37369,Mani Mr.Mad Tostado 250 gr,Abarrotes,Snack
 37370,Mani Mr Mad Tostado con Pasas 250 gr,Abarrotes,Snack
 37371,Mani Mr Mad Tostado con Aji 250 gr,Abarrotes,Snack
 37372,Anchoveta San Lucas Picante 430 gr,Abarrotes,Comidas en Conserva
@@ -3302,6 +3307,7 @@ id_producto,producto,categoria,subcategoria
 102511,Pastilla de Baño Todo Brillo Pino 3 un 40 gr,Cuidado del Hogar,Limpieza de Baños
 102512,Pastilla de Baño Todo Brillo Marino 3 un 40 gr,Cuidado del Hogar,Limpieza de Baños
 102541,Vino La Linda Rose Malbec 750 ml,Bebidas,Vinos y Champagne
+102573,Gomita Mogul Colmillos Halloween 30 gr,Abarrotes,Temporada
 102779,Caramelo Menthoplus Cafe Latte 28 gr,Abarrotes,Golosinas - Varias
 103020,Protectores Diarios Nosotras Desodorante 150 un,Cuidado Personal,Cuidado Familiar
 103050,Desodorante Aerosol Axe Antitraspirante Dark Temper 152 ml,Cuidado Personal,Cuidado de la Piel
@@ -3548,6 +3554,9 @@ id_producto,producto,categoria,subcategoria
 105861,Desmaquillante Doctor Baby Disco 80 un,Cuidado Personal,Cuidado de la Piel
 105862,Cotonetes Doctor Baby Pote 50 un,Cuidado del Bebé,Cuidado del Bebé
 105863,Cotonetes Doctor Baby Bolsa 50 un,Cuidado del Bebé,Cuidado del Bebé
+105864,Cotonetes Doctor Baby 100 un,Cuidado del Bebé,Cuidado del Bebé
+105865,Cotonetes Doctor Baby Pote 200 un,Cuidado del Bebé,Cuidado del Bebé
+105866,Cotonetes Doctor Baby Pote 300 un,Cuidado del Bebé,Cuidado del Bebé
 105868,Desodorante Barra Secret Antitraspirante Vainilla 45 gr,Cuidado Personal,Cuidado de la Piel
 105911,Desodorante Barra Old Spice Mar Profundo 85 gr,Cuidado Personal,Cuidado de la Piel
 105912,Espuma de Afeitar Gillette Sensitive 150 gr,Cuidado Personal,Cuidado de la Piel
@@ -4979,6 +4988,7 @@ id_producto,producto,categoria,subcategoria
 135259,Palita Con Cepillo Novica Bettanin,Cuidado del Hogar,Accesorios del Hogar
 135623,Pasta Dental Foramen Blanqueadora 75 ml,Cuidado Personal,Cuidado Bucal
 135675,Gel Siluet 40 Termico Genoma 200 ml,Cuidado Personal,Cuidado de la Piel
+136379,Papa Chippitas Fritas 34 gr,Abarrotes,Snack
 136450,Bombon Taboada Crema Tradicional 200 gr,Abarrotes,Chocolates y Caramelos
 136476,Chocolate Taboada Excellence 200 gr,Abarrotes,Chocolates y Caramelos
 136501,Chocolate Taboada Mani 100 gr,Abarrotes,Chocolates y Caramelos
@@ -5873,6 +5883,7 @@ id_producto,producto,categoria,subcategoria
 220918,Cepillo Dental Doctor Dent Magie Simpsons 2 Años 1 un,Cuidado del Bebé,Kids
 220921,Paño Mr.Trapo Cocina 3 un,Cuidado del Hogar,Accesorios del Hogar
 220924,Paño Mr. Trapo Piso Absorvente  50x60 cm,Cuidado del Hogar,Accesorios del Hogar
+220928,Servilletas Olego Polka Colores Surtido 20 un,Cuidado Personal,Cuidado Familiar
 220970,Desodorante Aerosol Dove Original 150 ml,Cuidado Personal,Cuidado de la Piel
 220971,Desodorante Aerosol Dove Pepino 150 ml,Cuidado Personal,Cuidado de la Piel
 220976,Desodorante Aerosol Dove Dermo Aclarante 150 ml,Cuidado Personal,Cuidado de la Piel
@@ -6609,6 +6620,7 @@ id_producto,producto,categoria,subcategoria
 230649,Cepillo Dental Clinic F92 Medio,Cuidado Personal,Cuidado Bucal
 230701,Papel Toalla Cocina Limppano Toalex 1 un 50 Toallas,Cuidado del Hogar,Limpieza de Cocina
 230702,PROT SOLAR CREMA TANGA RECAMIER SPF60 13,Cuidado Personal,Cuidado de la Piel
+230703,PROT SOLAR TANGA RECAMIER SPF100  130ML,Cuidado Personal,Cuidado de la Piel
 230811,Tinte Excellence Tono 6660 Seductor,Cuidado Personal,Cuidado del Cabello
 230850,Gomita Mogul Rodajas Acidas 50 gr,Abarrotes,Golosinas - Varias
 230851,Gomita Mogul Extreme Oso 55 gr,Abarrotes,Golosinas - Varias
@@ -11261,6 +11273,7 @@ id_producto,producto,categoria,subcategoria
 552048,Te Negro Frutte Limon 2 L,Bebidas,Bebidas Varias
 552049,Cereal Chocapic Boom 170 gr,Abarrotes,Nutrición Infantil
 552050,CARAMELO LUCAS MUECAS TAMARINDO 25 GR,Abarrotes,Golosinas - Varias
+552053,Cereal Cinnamon Toast Crunch 765 gr,Abarrotes,Productos Americanos
 552055,Cereal Cheerios Toast Whole 567 gr,Abarrotes,Productos Americanos
 552056,Cereal Lucky Charms 739 gr,Abarrotes,Productos Americanos
 552058,Cerveza Paceña Roja 330 ml,Bebidas,Cervezas
@@ -11628,6 +11641,7 @@ id_producto,producto,categoria,subcategoria
 552715,CIGARRILLO WINSTON FRESH MIX 10 UN,Bebidas,Cigarrillos
 552720,CAFE COPACABANA LIOFILIZADO DP 45 GR,Abarrotes,Café y Sucedáneos
 552721,CAFE COPACABANA LIOFILIZADO DP 180GR,Abarrotes,Café y Sucedáneos
+552722,MAIZ CHUSPILLO AL HORNO QUESO CHEDDAR 10,Abarrotes,Snack
 552723,MAIZ CHUSPILLO AL HORNO QUESO CHEDDAR PI,Abarrotes,Snack
 552726,MAIZ CHUSPILLO AL HORNO SAL LIMON 100GR,Abarrotes,Snack
 552727,MAIZ CHUSPILLO AL HORNO LIMON PICANTE 10,Abarrotes,Snack
@@ -11650,6 +11664,7 @@ id_producto,producto,categoria,subcategoria
 552748,GELATINA DE PATA DELY TUTTI FRUTTI 120 G,Abarrotes,Repostería
 552749,GELATINA DE PATA DELY ACAI 120 GR,Abarrotes,Repostería
 552750,ESENCIA CARAMELO DELY VAINILLA 100 ML,Abarrotes,Repostería
+552752,GALLETITAS DANI MASCOTA  1KG,Abarrotes,Mascotas
 552753,GALLETITAS DANI MASCOTA 125GR,Abarrotes,Mascotas
 552754,ESPARRAGOS BLANCOS DE LA BAMBA 330GR,Abarrotes,Productos Americanos
 552755,ESPARRAGOS VERDES DE LA BAMBA 330 GR,Abarrotes,Productos Americanos
@@ -11669,6 +11684,8 @@ id_producto,producto,categoria,subcategoria
 552773,PACK 12 CERVEZA HUARI LATA 269 CC,Bebidas,Cervezas
 552774,CHOCOLATE EL CEIBO OSO PO 140 GR,Abarrotes,Chocolates y Caramelos
 552775,PACK 3X2 CERVEZA PAULANER WEISSBIER 500 ML,Bebidas,Cervezas
+552778,AJI ROJO DULCE ASOVITA 200G,Abarrotes,Condimentos y Legumbres
+552782,AJI AMARILLO DULCE ASOVITA 50G,Abarrotes,Condimentos y Legumbres
 554333,Cerveza Paceña Lata Roja 473 Cc,Bebidas,Cervezas
 554466,Detergente Liquido Ola Futuro Limpieza Completa 5 L,Cuidado del Hogar,Limpieza de la Ropa
 554468,Suavizante Ropa Ola Suavecito Original 5 L,Cuidado del Hogar,Limpieza de la Ropa
@@ -13418,6 +13435,7 @@ id_producto,producto,categoria,subcategoria
 655931,Ajo McCormick al Grill 90 gr,Abarrotes,Condimentos y Legumbres
 655933,Mezcla McCormick Mediterranea 70 gr,Abarrotes,Condimentos y Legumbres
 655935,Salsa McCormick Picante Chile Tabasco 140 ml,Abarrotes,Aderezos
+655939,Balde Hallowen Frankie 100 gr,Abarrotes,Temporada
 655948,Nacho Doña Susy de Maiz 300 gr,Abarrotes,Snack
 655952,Achocolatado Chocolyne Clasico Sin Azucar 120 gr,Abarrotes,Nutrición Infantil
 655962,Champagne Anna Codorniu Brut Rose 750 ml,Bebidas,Vinos y Champagne
@@ -16331,6 +16349,7 @@ id_producto,producto,categoria,subcategoria
 674249,JAMON ARTESANAL STEGE PROMO AL VACIO,Fiambres,Fiambres Externos
 674251,YOGURT DELIZIA DELIBATIDITO FRUTILLA VASO 90GRS,Lácteos y Derivados,Yogures
 674252,HELADO DELIZIA LITRO TRADICION CANELA-LE,Congelados,"Helados, Cassattas y Picoleses"
+674253,JAMON AHUMADO DE PAVO SANTA ISABEL SACHET 200GRS,Fiambres,Fiambres Externos
 674254,JAMON AHUMADO DE PAVO SANTA ISABEL KILOGRAMO,Fiambres,Fiambres Externos
 674255,CHOCOLATE QUINOA DRINK NJOY 1 LITRO,Lácteos y Derivados,Leches
 674260,FILETE DE PECHUGA DE POLLO SOFIA CORTE FINO KGR,Carnes,Carne de Pollo
@@ -17569,7 +17588,9 @@ id_producto,producto,categoria,subcategoria
 787251,Tortillas Bimbo Rapiditas Integral 310 gr,Congelados,Masas y Comidas Congeladas
 787301,Queso Melincue Tybo Fraccionado kg,Lácteos y Derivados,Quesos
 787312,Queso Mozzarella Melincue Fraccionado kg,Lácteos y Derivados,Quesos
+787314,Calita de Maiz Crocsitos 200 gr,Pastelería y Masas Típicas,Masas Típicas Externas
 787316,Queso Mozzarella La Lechera Charagua 500 gr,Lácteos y Derivados,Quesos
+787321,Bizcocho Crocsitos de Maiz 200 gr,Pastelería y Masas Típicas,Masas Típicas Externas
 787323,Queso Cheddar Melincue Fraccionado,Lácteos y Derivados,Quesos
 787329,Pulpa Congelada Pulpa Frut Exoticas 2 un 500 gr,Congelados,Pulpas y Frutas Congeladas
 787335,Queso Reggianito Melincue Fraccionado kg,Lácteos y Derivados,Quesos
