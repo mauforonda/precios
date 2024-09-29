@@ -1432,6 +1432,7 @@ id_producto,producto,categoria,subcategoria
 29057,"GALLETA COFLER RELL COOKIES 132,8G",Abarrotes,Galletas
 29065,VINO CAMPOS DE SOLANA TANNAT UNICO DARK,Bebidas,Vinos y Champagne
 29066,PINA COLADA CELOSA SPIRITS LTA 355ML,Bebidas,Licores
+29067,MARGARITA CELOSA SPIRITS LTA 355ML,Bebidas,Licores
 29069,SPARKLING CELOSA ROSE LTA 355ML,Bebidas,Licores
 29071,TE BRISSOL FLOR DE JAMAICA 20SAQ,Abarrotes,Dietéticos y Saludables
 29072,TE BRISSOL D ALCACHOFA 20SAQ,Abarrotes,Dietéticos y Saludables
@@ -1447,6 +1448,7 @@ id_producto,producto,categoria,subcategoria
 29096,REFRESCO FUNCIONAL MITTO FRAMB UVA 600 M,Bebidas,Bebidas Varias
 29098,PACK CHOCOLATE VIZZIO 3X2 26G,Abarrotes,Golosinas - Varias
 29102,TE BRISSOL DIENTE DE LEON 20SAQ,Abarrotes,Dietéticos y Saludables
+29103,TE VERDE BRISSOL JAMAICA STEVIA 20SAQ,Abarrotes,Dietéticos y Saludables
 29107,TE BRISSOL JENGIBRE C MANZANILLA 20SAQ,Abarrotes,Dietéticos y Saludables
 29109,TRIPACK ESPECIAL TAKIS 56 GR,Abarrotes,Snack
 29116,RON 37 LENGUAS BOT 1LT,Bebidas,Licores
@@ -1930,6 +1932,7 @@ id_producto,producto,categoria,subcategoria
 30937,GALLETA DIVELLA SAVOIARDI TIRAMISU 400G,Abarrotes,Galletas
 30941,ARROZ CAISY PREDILECTO 1KG,Abarrotes,Básicos
 30942,PAPA NATIVA TIYAPUY AJI AMARILLO 142G,Abarrotes,Snack
+30943,GALLETA SALADA ISABELLA COQUETEL 320G,Abarrotes,Galletas
 30945,ISOTONICO REVIVE FRUTIPONCH 1LT,Bebidas,Isotónicos
 30946,ISOTONICO REVIVE BLUEBERRY 1LT,Bebidas,Isotónicos
 30947,ISOTONICO REVIVE BLUEBERRY 600ML,Bebidas,Isotónicos
@@ -4708,7 +4711,7 @@ id_producto,producto,categoria,subcategoria
 120579,VASELINA SOLIDA POMADA NOSTAS FRASCO 100,Cuidado Personal,Cuidado de la Piel
 120580,Pack Tinte Casting Tono 400 + Cepillo,Cuidado Personal,Cuidado del Cabello
 120581,Pack Tinte Casting Tono 300 + Cepillo,Cuidado Personal,Cuidado del Cabello
-120582,PACK CASTING 700 + CEPILLO,Cuidado Personal,Cuidado del Cabello
+120582,Pack Tinte Casting Tono 700 + Cepillo,Cuidado Personal,Cuidado del Cabello
 120584,Pack Tinte Casting Tono 535 + Cepillo,Cuidado Personal,Cuidado del Cabello
 120585,Pack Tinte Casting Tono 500 + Cepillo,Cuidado Personal,Cuidado del Cabello
 120587,Pack Tinte Casting Tono 600 + Cepillo,Cuidado Personal,Cuidado del Cabello
@@ -6750,6 +6753,7 @@ id_producto,producto,categoria,subcategoria
 240539,JABON LIQ. FLOR DE CAMPO FARMAX 480 ML,Cuidado Personal,Cuidado de la Piel
 240541,JABON LIQ ENC NATURALEZA FARMAX 480 ML,Cuidado Personal,Cuidado de la Piel
 240542,INSECTICIDA BRISTAR MATA TODO 360ML,Cuidado del Hogar,Insecticidas
+240543,INSECTICIDA BRISTAR MATA CUCARACHAS 360M,Cuidado del Hogar,Insecticidas
 240544,INSECTICIDA BRISTAR MATA MOSCAS Y MOSQUI,Cuidado del Hogar,Insecticidas
 240545,LAVAVAJILLAS BRISTR TUTTI FRUTTI 600ML,Cuidado del Hogar,Limpieza de Cocina
 240546,LAVAVAJILLAS BRISTAR TUTTI FRUTTI 1050ML,Cuidado del Hogar,Limpieza de Cocina
@@ -11210,6 +11214,7 @@ id_producto,producto,categoria,subcategoria
 551833,Avena Avelina Instantanea 700 gr,Abarrotes,Nutrición Infantil
 551834,HARINA D AVENA INTEGRAL AVELINDA DP 500G,Abarrotes,Básicos
 551835,HARINA D AVENA AVELINDA PRECOCIDA DP 500,Abarrotes,Básicos
+551838,Vino Barbacana Cofradia Blanco 750 ml,Bebidas,Vinos y Champagne
 551839,Vino Tinto Barbacana Syrah 750 ml,Bebidas,Vinos y Champagne
 551840,Sopa Campbells Pollo Fideo 527 gr,Abarrotes,Productos Americanos
 551847,Bocadito Snyders Masa Madre 9 oz,Abarrotes,Productos Americanos
@@ -11383,6 +11388,7 @@ id_producto,producto,categoria,subcategoria
 552238,VINO TINTO CHATEAU TERRE BLANQUE 750 ML,Bebidas,Vinos y Champagne
 552239,Vino Tinto Chateau Merigot 750 ml,Bebidas,Vinos y Champagne
 552241,Vino Tinto Chateau El Rey 750 ml,Bebidas,Vinos y Champagne
+552242,Vino Tinto Chateau Graulet 750 ml,Bebidas,Vinos y Champagne
 552243,Vino Tinto Chateau Rocher Gardat 750 ml,Bebidas,Vinos y Champagne
 552244,Detergente Polvo Bonny Floral 5 kg,Cuidado del Hogar,Limpieza de la Ropa
 552245,Detergente Polvo Bonny Jazmin 5 kg,Cuidado del Hogar,Limpieza de la Ropa
@@ -11726,6 +11732,7 @@ id_producto,producto,categoria,subcategoria
 552780,AJI ROJO DULCE ASOVITA 50,Abarrotes,Condimentos y Legumbres
 552782,AJI AMARILLO DULCE ASOVITA 50G,Abarrotes,Condimentos y Legumbres
 552789,YOGUMIX COOKIES CREAM DELIZIA 130 GR,Lácteos y Derivados,Yogures
+552791,GALLETAS LA FRANCESA COOKIE ZAAT 500 GR,Abarrotes,Galletas
 554333,Cerveza Paceña Lata Roja 473 Cc,Bebidas,Cervezas
 554466,Detergente Liquido Ola Futuro Limpieza Completa 5 L,Cuidado del Hogar,Limpieza de la Ropa
 554468,Suavizante Ropa Ola Suavecito Original 5 L,Cuidado del Hogar,Limpieza de la Ropa
@@ -15027,6 +15034,7 @@ id_producto,producto,categoria,subcategoria
 668794,PACK 4 U. LEXI 280 GR LIRIO LECHE ROSAS,Cuidado Personal,Cuidado de la Piel
 668800,PACK 2X1 SH 2 EN 1 AVENGERS,Cuidado del Bebé,Kids
 668801,PACK 3 U. JABONES NOVA 300GR CREAM,Cuidado Personal,Cuidado de la Piel
+668802,PACK 4 U. JABONES NOVA 300GR FRUTAS,Cuidado Personal,Cuidado de la Piel
 668804,Desodorante Aerosol Speed Stick Carbon Absorvente 91 gr,Cuidado Personal,Cuidado de la Piel
 668805,Desodorante Aerosol Lady Speed Stick Carbon Absorvente 91 gr,Cuidado Personal,Cuidado de la Piel
 668807,Desodorante Barra Lady Speed Stick Carbon Absorvente 45 gr,Cuidado Personal,Cuidado de la Piel
@@ -15037,6 +15045,7 @@ id_producto,producto,categoria,subcategoria
 668819,Detergente Polvo Todo Brillo Matic 3.5 kg,Cuidado del Hogar,Limpieza de la Ropa
 668820,Ambientador Aerosol Glade Cherry 360 ml,Cuidado del Hogar,Limpieza de Living y Ropero
 668821,Ambientador Aerosol Glade Ocean Oasis 360 ml,Cuidado del Hogar,Limpieza de Living y Ropero
+668823,Esmalte de Uña Carey 69 9 ml,Cuidado Personal,Cuidado de la Piel
 668824,Esmalte de Uña Carey 76 9 ml,Cuidado Personal,Cuidado de la Piel
 668825,Serum Farmax Acido Hialuronico 30 ml,Cuidado Personal,Cuidado de la Piel
 668826,Jabon Liquido Farmax Del Bosque 480 ml,Cuidado Personal,Cuidado de la Piel
@@ -15104,6 +15113,7 @@ id_producto,producto,categoria,subcategoria
 668999,MAR COCO ALMENDRA Y VAINILLA  90 GR,Cuidado Personal,Cuidado de la Piel
 669005,SHAMPOO ELVIVE 370ML GLYCO GLOSS,Cuidado Personal,Cuidado del Cabello
 669013,KOCOSTAR MASCARILLA WHITE HAPPY MASK,Cuidado Personal,Cuidado de la Piel
+669031,TANGA SPF 100 BABY CREMA 120 ML X6,Cuidado Personal,Cuidado de la Piel
 669901,Pizza Hipermaxi Congelada Hawaiana 620 gr,Congelados,Masas y Comidas Congeladas
 669902,Pizza Hipermaxi Congelada Jamon Queso Light Masa Integral,Congelados,Masas y Comidas Congeladas
 669903,Pizza Hipermaxi Congelada Pepperoni 620 gr,Congelados,Masas y Comidas Congeladas
@@ -15476,6 +15486,7 @@ id_producto,producto,categoria,subcategoria
 671579,Jamon Ahumado Dac 200 gr,Fiambres,Fiambres Externos
 671583,Jamon Ahumado Kami 100 gr,Fiambres,Fiambres Externos
 671584,Jamon Serrano Kami 100 gr,Fiambres,Fiambres Externos
+671595,BIFE ANGOSTO FRIDOSA PREMIUM A/V PORCION,Carnes,Carnes al Vacio Externas
 671610,Charque Desmenuzado de Llama Sumita 50 gr,Carnes,Carnes Procesadas
 671622,Huevos de Codorniz 24 un,Lácteos y Derivados,Huevos
 671623,Huevos de Codorniz 12 un,Lácteos y Derivados,Huevos
@@ -18292,6 +18303,7 @@ id_producto,producto,categoria,subcategoria
 835645,CH J31 17 POSA OLLA DE BAMBOO CUADRADO,Bazar Importación,Cocina General
 835658,Bife Chorizo Especial 1 kg,Carnes,Carne de Res
 835720,Set Bombillas Halloween 6 un,Bazar Importación,Temporada Halloween
+835737,CH N25 3 BALDE CALABAZA HALLOWEEN 18X12CM,Bazar Importación,Temporada Halloween
 835767,Carne Para Sopa kg,Carnes,Carne de Res
 835896,Costilla Especial kg,Carnes,Carne de Res
 835905,Carne Picada Kg,Carnes,Carne de Res
@@ -18415,6 +18427,7 @@ id_producto,producto,categoria,subcategoria
 841123,Agua Viscachani Cereza 600 ml,Bebidas,Aguas
 841252,Gomita Mogul Fruti Moras 150 gr,Abarrotes,Golosinas - Varias
 841267,Gomita Mogul Dientes 150 gr,Abarrotes,Golosinas - Varias
+841289,Sombrero Halloween Espantos,Bazar Importación,Temporada Halloween
 841321,Fernet Capri 750 ml,Bebidas,Licores
 841336,Vino Norton Blanco Cosecha Tardia Dulce 750 ml,Bebidas,Vinos y Champagne
 841415,Arbol Navideño Pequeño Decoracion 40x6,Bazar Importación,Temporada Navidad
@@ -18524,6 +18537,7 @@ id_producto,producto,categoria,subcategoria
 846131,Parrillero Ahumador 3 en 1 40x72,Bazar Importación,Churrasquería
 846166,Peluche De Oso con Mono,Juguetería Importación,Juguetería Didáctica/Temporada
 846184,Galletero Navideño Papa Noel,Bazar Importación,Temporada Navidad
+846200,Adorno Halloween Juego de Dedos Ojos Araña,Bazar Importación,Temporada Halloween
 846223,CH Y64 6 ADORNO BOLAS DE NAVIDAD SETX12 PZAS BRONCE 6CM,Bazar Importación,Temporada Navidad
 846240,CH Y64 23 BOLAS NAVIDENAS SET X24 6CM AZUL CON RELIEVE,Bazar Importación,Temporada Navidad
 846243,CH Y64 30 BOLAS DE NAVIDAD SET X24 BLANCAS C LINEAS ROJAS 8C,Bazar Importación,Temporada Navidad
