@@ -611,6 +611,7 @@ id_producto,producto,categoria,subcategoria
 14342,Pack Isotonico Reaktorade 600 ml,Bebidas,Isotónicos
 14350,Salsa Soya Cepera Tare 150 ml,Abarrotes,Condimentos y Legumbres
 14351,Aceite de Soya La Patrona 1.9 L,Abarrotes,Básicos
+14353,Gergelim Jasmine Integral 150 gr,Abarrotes,Nutrición Infantil
 14355,Vino Espumante Salton Rose 750 ml,Bebidas,Vinos y Champagne
 14357,Cerveza Skol Golden 300 ml,Bebidas,Cervezas
 14358,Cerveza Skol Golden 269 ml,Bebidas,Cervezas
@@ -1430,6 +1431,7 @@ id_producto,producto,categoria,subcategoria
 29055,Chocolate Taboada Menta 100 gr,Abarrotes,Chocolates y Caramelos
 29056,Chocolate Taboada Frutilla 100 gr,Abarrotes,Chocolates y Caramelos
 29057,"Galleta Cofler Relleno Cookies 132,8 gr",Abarrotes,Galletas
+29059,Te Brissol de Tilo  20 Sobres,Abarrotes,Dietéticos y Saludables
 29065,VINO CAMPOS DE SOLANA TANNAT UNICO DARK,Bebidas,Vinos y Champagne
 29066,PINA COLADA CELOSA SPIRITS LTA 355ML,Bebidas,Licores
 29067,Margarita Celosa Spirits 355 ml,Bebidas,Licores
@@ -1449,11 +1451,14 @@ id_producto,producto,categoria,subcategoria
 29098,Pack Chocolate Vizzio 3x2 26 gr,Abarrotes,Golosinas - Varias
 29102,Te Brissol Diente de Leon 20 Sobres,Abarrotes,Dietéticos y Saludables
 29103,Te Verde Brissol Jamaica Stevia 20 Sobres,Abarrotes,Dietéticos y Saludables
+29104,Te Brissol Boldo 20 Sobres,Abarrotes,Dietéticos y Saludables
+29105,Te Brissol Curcuma Jengibre Canela 20 Sobres,Abarrotes,Dietéticos y Saludables
 29107,Te Brissol Jengibre Manzanilla 20 Sobres,Abarrotes,Dietéticos y Saludables
 29109,Tripack Takis Especial 56 gr,Abarrotes,Snack
 29116,Ron 37 Lenguas 1 L,Bebidas,Licores
 29118,GOMITA MOGUL MONSTRUITO HALLOW 30G,Abarrotes,Temporada
 29119,CARAMELOS ARCOR HALLOWEEN MOMIA 100G,Abarrotes,Temporada
+29123,JUGO AQUARIUS MANZANA PET 3 LT,Bebidas,"Jugos, Néctar"
 29126,GASEOSA COCA COLA OREO 500ML,Bebidas,Gaseosas
 29246,Servilletas Elite Coctel 50 un,Cuidado Personal,Cuidado Familiar
 29254,Pañuelo Facial Familia Triple Hoja 50 un,Cuidado Personal,Cuidado Familiar
@@ -6446,6 +6451,7 @@ id_producto,producto,categoria,subcategoria
 225010,Licor Cinzano Rosso 950 ml,Bebidas,Licores
 225037,Dulce de Leche Granja de Oro 250 gr,Lácteos y Derivados,Dulces de Leche y Manjares
 225048,PACK 2 DEO SECRET AT GEL VAINILLA 45G,Cuidado Personal,Cuidado de la Piel
+225049,SHAMPOO H&S MANZANA 650ML,Cuidado Personal,Cuidado del Cabello
 225120,SHAMPOO H&S ANTI CAIDA C/CAFEINA 650ML,Cuidado Personal,Cuidado del Cabello
 225121,PACK 2 DEO OLDSPICE AT SPRAY EXTREME150M,Cuidado Personal,Cuidado de la Piel
 225142,Te Lupi Trimate 20 Econo 20 Sobres,Abarrotes,Café y Sucedáneos
@@ -6615,7 +6621,11 @@ id_producto,producto,categoria,subcategoria
 230485,SUAVIZANTE MAXIBRILL FLORAL PREMIUM 2 LT,Cuidado del Hogar,Limpieza de la Ropa
 230487,SHAMPOO BALLERINA FUERZA NATURAL DPK 750,Cuidado Personal,Cuidado del Cabello
 230488,JABON PALMOLIVE MANDARINA  ROMERO 3X110,Cuidado Personal,Cuidado de la Piel
+230491,DR SELBY SHAVING FOAM LAVENDER 149GR,Cuidado Personal,Cuidado de la Piel
 230492,DR SELBY SHAVING FOAM SENSITIVE 149GR,Cuidado Personal,Cuidado de la Piel
+230493,DR SELBY SET ESPUMA Y BALSAMO LAVENDER,Cuidado Personal,Cuidado de la Piel
+230494,DR SELBY SET ESPUMA Y BALSAMO SENSITIVE,Cuidado Personal,Cuidado de la Piel
+230497,Jabon Barra El Macho Azul 220 gr,Cuidado del Hogar,Limpieza de la Ropa
 230499,Salchicha Sin Piel Stege 6 un,Fiambres,Fiambres Externos
 230511,MR CLORO ACIDO NITRICO 1000 ML,Cuidado del Hogar,Limpieza de Baños
 230513,CREMA GOICOECHEA ARNICA 1LT,Cuidado Personal,Cuidado de la Piel
@@ -11694,6 +11704,7 @@ id_producto,producto,categoria,subcategoria
 552713,Pack Singani Insignia Etiqueta Azul + 1 Schweppes,Bebidas,Licores
 552714,CIGARRILLO WINSTON YELLOW MIX 10 UN,Bebidas,Cigarrillos
 552715,CIGARRILLO WINSTON FRESH MIX 10 UN,Bebidas,Cigarrillos
+552716,CAFE TYPICA MOLIDO GALLINAZO 250GR,Abarrotes,Café y Sucedáneos
 552720,Cafe Copacabana Liofilizado 45 gr,Abarrotes,Café y Sucedáneos
 552721,Cafe Copacabana Liofilizado 180 gr,Abarrotes,Café y Sucedáneos
 552722,Maiz Chuspillo al Horno Queso Cheddar 100 gr,Abarrotes,Snack
@@ -11704,6 +11715,7 @@ id_producto,producto,categoria,subcategoria
 552727,Maiz Chuspillo al Horno Limon Picante 100 gr,Abarrotes,Snack
 552730,REFRESCO ZUKO MANZANA 13 GR,Bebidas,Refrescos en Polvo
 552731,Refresco Zuko Piña 13 gr,Bebidas,Refrescos en Polvo
+552732,Refresco Zuko Maracuya 13 gr,Bebidas,Refrescos en Polvo
 552734,Refresco Zuko Naranja 13 gr,Bebidas,Refrescos en Polvo
 552735,MATE CEYLAN MANZANILLA X 20 UN,Abarrotes,Café y Sucedáneos
 552736,Te Negro Ceylan con Limon 20 Sobres,Abarrotes,Café y Sucedáneos
@@ -11721,6 +11733,7 @@ id_producto,producto,categoria,subcategoria
 552748,Gelatina de Pata Dely Tutti Frutti 120 gr,Abarrotes,Repostería
 552749,GELATINA DE PATA DELY ACAI 120 GR,Abarrotes,Repostería
 552750,Esencia Dely Caramelo Vainilla 100 ml,Abarrotes,Repostería
+552751,Juguito Pil Mango 150 gr,Bebidas,"Jugos, Néctar"
 552752,Galleticones Dani Mascota 1 kg,Abarrotes,Mascotas
 552753,Galleticones Dani Mascota 125 gr,Abarrotes,Mascotas
 552754,Esparragos Blancos de La Bamba 330 gr,Abarrotes,Productos Americanos
@@ -13936,6 +13949,7 @@ id_producto,producto,categoria,subcategoria
 658305,Cereal Pipoquinua Anapqui 180 gr,Abarrotes,Nutrición Infantil
 658307,QUINUA REAL ROJA ANAPQUI CJA 500GR,Abarrotes,Nutrición Infantil
 658309,Harina Inapqui Pre Cocida de Quinua 1 kg,Abarrotes,Nutrición Infantil
+658316,JUGO ICE FRUIT MANGO GALON 5 LT,Bebidas,"Jugos, Néctar"
 658317,Avena La Suprema Instantanea 800 gr,Abarrotes,Nutrición Infantil
 658319,Vino Concepcion Tardia Cabernet Franc 750 ml,Bebidas,Vinos y Champagne
 658320,Vino Concepcion Tardia Moscatel Blanco 750 ml,Bebidas,Vinos y Champagne
@@ -15706,6 +15720,7 @@ id_producto,producto,categoria,subcategoria
 672416,Kani Kama Ahumado Santa Elena 250 gr,Congelados,Carnes Congeladas
 672417,Kani Kama Ahumado Santa Elena 600 gr,Congelados,Carnes Congeladas
 672419,Yogurt Delizia Petit Tiki Tito Frutilla 50 gr,Lácteos y Derivados,Yogures
+672420,BOMBON HELADO DELIZIA CROCANTE 80ML,Congelados,"Helados, Cassattas y Picoleses"
 672422,Queso Mozzarella Pil Bonle kg,Lácteos y Derivados,Quesos
 672426,Grissin Bazali Queso Oregano 70 gr,Pastelería y Masas Típicas,Pastelería Externa
 672427,Grissin Bazali Queso 70 gr,Pastelería y Masas Típicas,Pastelería Externa
@@ -19014,6 +19029,7 @@ id_producto,producto,categoria,subcategoria
 857028,CH 34 7 MASCARA HALLOWEEN 22X22CM,Bazar Importación,Temporada Halloween
 857031,CH 34 10 SOMBRERO DE BRUJA HALLOWEEN 31X18CM,Bazar Importación,Temporada Halloween
 857033,CH 34 13 COPA HALLOWEEN CON LUZ A PILAS 250ML,Bazar Importación,Temporada Halloween
+857040,GALLETA OREO COCA COLA 216 GR,Abarrotes,Galletas
 857043,CH 34 21 CANDELABRO ESQUELETO CON LUCES A PILAS 28X13CM,Bazar Importación,Temporada Halloween
 857044,CH 34 22 ADORNO ARANA CON OJO HALLOWEN A PILAS,Bazar Importación,Temporada Halloween
 857046,CH 34 24 FANTASMA HALLOWEEN A PILAS 6X3CM,Bazar Importación,Temporada Halloween
