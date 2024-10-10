@@ -6734,6 +6734,7 @@ id_producto,producto,categoria,subcategoria
 234021,"NATUREZA TOALLA DE COCINA 19,3CM X 19CM",Cuidado del Hogar,Limpieza de Cocina
 234022,PANUELOS NESS SUPER SUAVE 60HJ,Cuidado Personal,Cuidado Familiar
 234023,PRETRATAMIENTO ELVIVE GLYCO ACIDIFIER X1,Cuidado Personal,Cuidado del Cabello
+234024,BRILLO LIFTER GLOSS MNY PLUMP HOT HONEY,Cuidado Personal,Cuidado de la Piel
 234043,BRILLO LIFTER GLOSS PLUMP MNY HOT CHILI,Cuidado Personal,Cuidado de la Piel
 234060,MASCARA DE TRATAMIENTO ELVIVE 300GR GLY,Cuidado Personal,Cuidado de la Piel
 234061,SHAMPOO ELVIVE 680ML GLYCO GLOSS,Cuidado Personal,Cuidado del Cabello
@@ -11757,6 +11758,7 @@ id_producto,producto,categoria,subcategoria
 552715,CIGARRILLO WINSTON FRESH MIX 10 UN,Bebidas,Cigarrillos
 552716,CAFE TYPICA MOLIDO GALLINAZO 250GR,Abarrotes,Café y Sucedáneos
 552717,CAFE TYPICA GRANO GALLINAZO 250 GR,Abarrotes,Café y Sucedáneos
+552718,CAFE TYPICA ENVIDIA GRANO 250 GR,Abarrotes,Café y Sucedáneos
 552719,CAFE TYPICA ENVIDIA MOLIDO 250 GR,Abarrotes,Café y Sucedáneos
 552720,Cafe Copacabana Liofilizado 45 gr,Abarrotes,Café y Sucedáneos
 552721,Cafe Copacabana Liofilizado 180 gr,Abarrotes,Café y Sucedáneos
@@ -11820,6 +11822,7 @@ id_producto,producto,categoria,subcategoria
 552797,GALLETA OREO COCA COLA TUBO 108GR,Abarrotes,Galletas
 552798,HELADO CANELA MARACUYA DELIZIA 1 LT,Congelados,"Helados, Cassattas y Picoleses"
 552799,VINO PIEDRA NEGRA MALBEC ORGANIC 750 ML,Bebidas,Vinos y Champagne
+552802,VINO PIEDRA NEGRA PINOT GRIS ROSADO 750,Bebidas,Vinos y Champagne
 552803,PACK PAULANER 2OCT FEST 1RADLER,Bebidas,Cervezas
 552805,PACK PAULANER 2 OKTOBERF VASO 1L 3POSAV,Bebidas,Cervezas
 552812,PETIT SUISSE TIKI TITO PLATANO 50GRS,Lácteos y Derivados,Yogures
@@ -12148,6 +12151,7 @@ id_producto,producto,categoria,subcategoria
 600189,Durazno en Cubitos Wasil 380 gr,Abarrotes,Frutas en Conserva
 600193,Horchata Cocinero Coco 200 gr,Bebidas,Refrescos en Polvo
 600194,Cepillo Dental Doctor Dent Extreme Tonguer 1 un,Cuidado Personal,Cuidado Bucal
+600196,TC MANZANA ROJA CRIOLLA 1 KG,Frutas y Verduras,Frutas
 600198,Refresco de Soya cocinero 250 gr,Bebidas,Refrescos en Polvo
 600205,Refresco de Linaza Cocinero 250 gr,Bebidas,Refrescos en Polvo
 600212,Api Cocinero Morado Tradicional 1 kg,Abarrotes,Café y Sucedáneos
@@ -12515,6 +12519,7 @@ id_producto,producto,categoria,subcategoria
 618039,Cafe Royal Especial En Grano 500 gr,Abarrotes,Café y Sucedáneos
 618047,Cafe Royal Corriente 1 kg,Abarrotes,Café y Sucedáneos
 618073,SNACK PACK BANANA CREAM PIE 13OZ,Lácteos y Derivados,Postres
+618114,LOCOTO 1KG,Frutas y Verduras,Verduras
 618214,Arveja Desgranada 1 kg,Frutas y Verduras,Verduras
 618239,Cereal Post Cocoa Pebbles 15 oz,Abarrotes,Productos Americanos
 618258,Stevia Majota Sucralight 50 Sobres,Abarrotes,Dietéticos y Saludables
@@ -12826,9 +12831,14 @@ id_producto,producto,categoria,subcategoria
 636301,PAN PITA HIPERMAXI KG,Panadería,Panadería Hipermaxi
 636368,Leche Kream con Avena 120 ml,Lácteos y Derivados,Leches
 637079,Frutilla 1 kg,Frutas y Verduras,Frutas
+637184,TC GUINEO CRIOLLO 1 KG,Frutas y Verduras,Frutas
+637290,TC KIWI 1 KG,Frutas y Verduras,Frutas
 637320,Lima 1 kg,Frutas y Verduras,Frutas
 637362,Limon Amarillo 1 kg,Frutas y Verduras,Frutas
 637389,Limon Verde 1 kg,Frutas y Verduras,Frutas
+637478,TC MANDARINA CRIOLLA 1 KG,Frutas y Verduras,Frutas
+637796,TC NARANJA CRUCENA 1 KG,Frutas y Verduras,Frutas
+638016,TC PAPAYA 1 KG,Frutas y Verduras,Frutas
 640215,Pan Molde Leo Nothamann Salvado 570 gr,Panadería,Panadería Externa
 640282,Cereal Cripies Trigo Amaranto Miel 115 gr,Abarrotes,Nutrición Infantil
 640297,Cereal Cripies Trigo Quinua Miel 115 gr,Abarrotes,Nutrición Infantil
@@ -13137,6 +13147,7 @@ id_producto,producto,categoria,subcategoria
 651118,Mermelada de Mandarina Kefir 580 gr,Abarrotes,"Mermel, Mieles"
 651129,Ketchup Kris 2900 gr,Abarrotes,Aderezos
 651141,Cerveza 1500 Pura Malta 330 ml,Bebidas,Cervezas
+651157,TC TALLO DE APIO 1 KG,Frutas y Verduras,Verduras
 651164,Bombon Cofler Block 256 gr,Abarrotes,Chocolates y Caramelos
 651166,Mermelada Del Valle Tutti Frutti 220 gr,Abarrotes,"Mermel, Mieles"
 651179,Gomita Haribo Durazno 80 gr,Abarrotes,Golosinas - Varias
@@ -14312,6 +14323,8 @@ id_producto,producto,categoria,subcategoria
 661654,Crema Lechaga Clasica 60 ml,Cuidado Personal,Cuidado de la Piel
 661655,Crema Lechuga Soft 55 ml,Cuidado Personal,Cuidado de la Piel
 661757,Porcion Mouse Varios Sabores 1 un,Pastelería y Masas Típicas,Pastelería Hipermaxi
+661771,TC LECHUGA CRESPA 1 KG,Frutas y Verduras,Verduras
+661774,TC LECHUGA HIDROPONICA 1 KG,Frutas y Verduras,Verduras
 661845,Chorizo Ahumado + Salchichas Hipermaxi al Vacio,Fiambres,Fiambres Hipermaxi
 661852,Te Frutte Mujer 20 Sobres,Abarrotes,Café y Sucedáneos
 661891,Salsa Classico Albahaca Pesto Tradicional 230 gr,Abarrotes,Productos Americanos
@@ -15689,11 +15702,13 @@ id_producto,producto,categoria,subcategoria
 671953,Chorizo de Freir Stege 4 un kg,Fiambres,Fiambres Externos
 671954,Chorizo delgado Stege 4 un,Fiambres,Fiambres Externos
 671956,Cuñapecitos Crocantes Mayser 200 gr,Pastelería y Masas Típicas,Masas Típicas Externas
+671960,PERA CRIOLLA,Frutas y Verduras,Frutas
 671976,Yogurt Deliza Yogumix Vainilla Grajeas Chocolate 130 gr,Lácteos y Derivados,Yogures
 671979,Nuggets Pollo Fridosa Safari 500 gr,Congelados,Carnes Congeladas
 671980,Aceituna Negras en Salmuera kg,Fiambres,Fiambres Externos
 671981,Aceituna Verdes en Salmuera kg,Fiambres,Fiambres Externos
 671985,Queso Mozzarella San Mateo 410 gr,Lácteos y Derivados,Quesos
+671994,TC PINA CRIOLLA 1 KG,Frutas y Verduras,Frutas
 672009,Hamburguesa Prosana Quinua Mix 260 gr,Congelados,Masas y Comidas Congeladas
 672011,Hamburguesa Prosana Garbanzo 260 gr,Congelados,Masas y Comidas Congeladas
 672013,Leche Pil Natural Ultrapasteurizada Caja 1 L,Lácteos y Derivados,Leches
@@ -15719,6 +15734,7 @@ id_producto,producto,categoria,subcategoria
 672111,Mortadela Lyoneza Stege al Vacio,Fiambres,Fiambres Externos
 672114,Salame de Cerdo Kami 100 gr,Fiambres,Fiambres Externos
 672115,Salame de Llama Kami 100 gr,Fiambres,Fiambres Externos
+672117,TC UVA BLANCA CRIOLLA 1 KG,Frutas y Verduras,Frutas
 672127,Papa Simplot Congeladas Tradicional 2500 gr,Congelados,Masas y Comidas Congeladas
 672140,Queso Mozzarella La Serenisima 220 gr,Lácteos y Derivados,Quesos
 672155,Jamon Tipo Serrano Sierra Nevada Ahumado 100 gr,Fiambres,Fiambres Externos
@@ -16548,6 +16564,7 @@ id_producto,producto,categoria,subcategoria
 674256,POTATO SLIM CORTE FINO 1 KILOGRAMO,Congelados,Masas y Comidas Congeladas
 674259,Pan Molde San Gabriel con Salvado y Semilla,Panadería,Panadería Externa
 674260,Filete de Pechuga Sofia Corte Fino kg,Carnes,Carne de Pollo
+674262,PANETON TRADICIONAL INPASA BOLSA TRILAMINADA 700GRS,Panadería,Panadería Externa
 675245,Miel de Abeja Eva Promiel 250 gr,Abarrotes,"Mermel, Mieles"
 676113,Habanito Bits Cream Coojies Cream 120 gr,Congelados,"Helados, Cassattas y Picoleses"
 676115,HABANITO BITS CREAM DULCE DE LECHE 120GRS,Congelados,"Helados, Cassattas y Picoleses"
@@ -17002,8 +17019,10 @@ id_producto,producto,categoria,subcategoria
 679994,Chocolate Costa Mecano Manjar 608 gr,Abarrotes,Chocolates y Caramelos
 681010,Queso Criollo Vaquita 1 kg,Lácteos y Derivados,Quesos
 685452,Budin La Suprema Chips Chocolate 220 gr,Pastelería y Masas Típicas,Pastelería Externa
+686968,TC LIMON SIN PEPA X KG,Frutas y Verduras,Verduras
 686980,Chicle Hobb Bubba Bubble Original 2 oz,Abarrotes,Productos Americanos
 687017,Achojcha 1 kg,Frutas y Verduras,Verduras
+687068,TC AJO 1 KG,Frutas y Verduras,Verduras
 687187,Caramelo Casal Expresso Cafe 375 gr,Abarrotes,Chocolates y Caramelos
 687696,Apio 1 kg,Frutas y Verduras,Verduras
 687700,TC ARVEJA 1 KG,Frutas y Verduras,Verduras
@@ -17019,6 +17038,7 @@ id_producto,producto,categoria,subcategoria
 688269,TC PAPA HARINOSA 1 KG,Frutas y Verduras,Verduras
 688277,TC PAPA HOLANDESA 1 KG,Frutas y Verduras,Verduras
 688285,Papalisa Amarilla 1 kg,Frutas y Verduras,Verduras
+688315,TC PEPINO 1 KG,Frutas y Verduras,Verduras
 688366,Platano de Freir 1 kg,Frutas y Verduras,Frutas
 688404,Remolacha 1 kg,Frutas y Verduras,Verduras
 688412,Repollo Morado 1 kg,Frutas y Verduras,Verduras
@@ -17028,7 +17048,7 @@ id_producto,producto,categoria,subcategoria
 688480,Yuca 1 kg,Frutas y Verduras,Verduras
 688498,Zanahoria 1 kg,Frutas y Verduras,Verduras
 688552,Zapallo 1 kg,Frutas y Verduras,Verduras
-688625,Pimenton Amarillo 1 kg,Frutas y Verduras,Verduras
+688625,Pimenton Verde 1 kg,Frutas y Verduras,Verduras
 690488,Chocolate Breick Semi Amargo 0 Azucar 100 gr,Abarrotes,Chocolates y Caramelos
 690495,Chocolate Breick Blanco Sin Azucar 100 gr,Abarrotes,Chocolates y Caramelos
 690496,Chocolate Breick Leche Mani 0 Azucar 100 gr,Abarrotes,Chocolates y Caramelos
@@ -17283,6 +17303,7 @@ id_producto,producto,categoria,subcategoria
 763543,Helado Acai Yogurt Griego Cabrera 1 L,Congelados,"Helados, Cassattas y Picoleses"
 763648,Helado Acai Yogurt Griego Cabrera 500 ml,Congelados,"Helados, Cassattas y Picoleses"
 763716,JUGOS LACTEOS LA PURITA 230 ML.SABORES SURTIDOS,Lácteos y Derivados,Leches
+763762,GALLETAS CHATITAS SABORIZADAS LA DELICIA BOLSA,Panadería,Panadería Externa
 763897,Huevos Avicola Paurito Medianos 60 un,Lácteos y Derivados,Huevos
 763981,Bebida Vegetal Serenisima Base de Almendra 1 L,Lácteos y Derivados,Leches
 764101,Frutos Rojos Enteros Congelados Punto Verde 350 gr,Congelados,Pulpas y Frutas Congeladas
@@ -19183,6 +19204,7 @@ id_producto,producto,categoria,subcategoria
 858379,Vino Concha y Toro Reservado Carmenere 750 ml,Bebidas,Vinos y Champagne
 858388,Albahaca 1 kg,Frutas y Verduras,Verduras
 858389,Cilantro 1 un,Frutas y Verduras,Verduras
+858390,Hierba Buena 1 un,Frutas y Verduras,Verduras
 858392,Wacataya 1 un,Frutas y Verduras,Verduras
 858393,Quirquiña 1 un,Frutas y Verduras,Verduras
 858540,Bombon Breick Selectos Cuore 190 gr,Abarrotes,Chocolates y Caramelos
