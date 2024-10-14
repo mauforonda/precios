@@ -1203,6 +1203,8 @@ id_producto,producto,categoria,subcategoria
 17904,Vino Espumoso Marques de Caceres Cava Brut 750 ml,Bebidas,Vinos y Champagne
 17905,Avena Princesa Instantanea 500 gr,Abarrotes,Nutrición Infantil
 17911,Mermelada Andean Blueberries Frutos del Bosque 450 gr,Abarrotes,"Mermel, Mieles"
+17912,Jugo Andean Blueberries Arandanos con Asai 475 ml,Bebidas,"Jugos, Néctar"
+17913,Jugo Andean Blueberries Arandanos con Asai 1 L,Bebidas,"Jugos, Néctar"
 17915,Chocolate Lindt Trufas Fugge 144 gr,Abarrotes,Chocolates y Caramelos
 17918,Te Helado Mandala Manzanilla Cedron 473 ml,Bebidas,Bebidas Varias
 17919,Te Helado Mandala Pomelo 473 ml,Bebidas,Bebidas Varias
@@ -1429,6 +1431,7 @@ id_producto,producto,categoria,subcategoria
 29042,Snack Pita Chips Wardi Oregano 150 gr,Abarrotes,Snack
 29043,Snack Pita Chips Wardi Canela 150 gr,Abarrotes,Snack
 29044,Fideos Lazzaroni Tricolor 400 gr,Abarrotes,Básicos
+29048,ISOTONICO REAKTORADE MANZANA 500ML,Bebidas,Isotónicos
 29049,Galleta Infinitas Relleno Vainilla 240 gr,Abarrotes,Galletas
 29051,Platano Chips Limon 90 gr,Abarrotes,Snack
 29052,Quinua Primavera Kremmore Instantanea 40 gr,Abarrotes,Básicos
@@ -1681,6 +1684,7 @@ id_producto,producto,categoria,subcategoria
 30550,Pack Vino Duo Tannat Merlot + Vino Duo Bonarda Cabernet,Bebidas,Vinos y Champagne
 30551,Gomita Trululu Sabores 90 gr,Abarrotes,Golosinas - Varias
 30552,Gomita Trululu Neon 85 gr,Abarrotes,Golosinas - Varias
+30554,Pack Whisky Golden Dream 900 ml + Vaso,Bebidas,Licores
 30556,Premezcla Nutriburger Lenteja 200 gr,Abarrotes,Dietéticos y Saludables
 30557,Premezcla Nutriburger Garbanzo 200 gr,Abarrotes,Dietéticos y Saludables
 30559,Pack 2 Ensalada Norte 150 gr,Abarrotes,Comidas en Conserva
@@ -5074,6 +5078,7 @@ id_producto,producto,categoria,subcategoria
 137170,Cerveza Erdinger Dunkel 500 ml,Bebidas,Cervezas
 137228,Ambientador Repuesto Aerosol Air Wick Cherry 250 ml,Cuidado del Hogar,Limpieza de Living y Ropero
 137677,Arroz Caisy Super Economico 1 kg,Abarrotes,Básicos
+138038,Escoba Salzano No.1771,Cuidado del Hogar,Productos Americanos
 138058,Alimento Cat Chow Adulto Carne 3 kg,Abarrotes,Mascotas
 138215,Chocolate Snickers Barra 52.7 gr,Abarrotes,Golosinas - Varias
 138223,Chocolate M&M Peanut 49 gr,Abarrotes,Golosinas - Varias
@@ -6836,6 +6841,7 @@ id_producto,producto,categoria,subcategoria
 240574,Refresco Arcor Manzana 20 gr,Bebidas,Refrescos en Polvo
 240585,PACK DOVE ROL ON CALENDULA BK 6X2X50ML,Cuidado Personal,Cuidado de la Piel
 240586,PACK DOVE ROL ON ROSAS BK 6X2X50ML,Cuidado Personal,Cuidado de la Piel
+240587,PACK DOVE ROL ON CUIDADO BK 6X2X50ML,Cuidado Personal,Cuidado de la Piel
 240588,PACK DOVE ROL ON EXTRA FRESH BK 6X2X50ML,Cuidado Personal,Cuidado de la Piel
 240589,TRIPACK MI BEBE TOALLA HUMEDA 3X100 UNDS,Cuidado del Bebé,Cuidado del Bebé
 240778,Cereal En Linea Kids 330 gr,Abarrotes,Nutrición Infantil
@@ -9870,6 +9876,7 @@ id_producto,producto,categoria,subcategoria
 470589,Queso Tholem Clasico Light 190 gr,Lácteos y Derivados,Quesos
 471020,Queso Tholem Jamon de la Sierra 190 gr,Lácteos y Derivados,Quesos
 471070,Queso Tholem 4 Quesos 190 gr,Lácteos y Derivados,Quesos
+471330,SALSA HUNTS BBQ HICKORY 510G,Abarrotes,Aderezos
 471660,Azucar Unagro Blanca 3 kg,Abarrotes,Básicos
 471674,Pechuga con Hueso Sofia 1 kg Bandeja,Carnes,Carne de Pollo
 471682,Pierna Sofia Bandeja kg,Carnes,Carne de Pollo
@@ -11252,6 +11259,7 @@ id_producto,producto,categoria,subcategoria
 551659,Licor Chairu 750 ml,Bebidas,Licores
 551666,Cereal Sublime 230 gr,Abarrotes,Nutrición Infantil
 551670,Gin Dharma Frutos Rojos 750 ml,Bebidas,Licores
+551672,Pack 2 Vino La Curiosa Malbec Blend + Copa,Bebidas,Vinos y Champagne
 551674,Cereal Lucky Charms Avena Marlv 527 gr,Abarrotes,Productos Americanos
 551675,Cereal Honey Nut Cheeiros Miel 532 gr,Abarrotes,Productos Americanos
 551683,Gaseosa Oriental Pomelo 3 L,Bebidas,Gaseosas
@@ -11590,7 +11598,7 @@ id_producto,producto,categoria,subcategoria
 552358,Sal Seleccionada Uyuni Molinillo 100 gr,Abarrotes,Básicos
 552359,Sal Uyuni Molinillo con Aji 90 gr,Abarrotes,Básicos
 552360,Sal Uyuni Molinillo con Locoto 90 gr,Abarrotes,Básicos
-552361,SAL CON CEBOLLA UYUNI MOLINILLO 90 G,Abarrotes,Básicos
+552361,Sal con Cebolla Uyuni Molinillo 90 gr,Abarrotes,Básicos
 552362,FLOR DE SAL UYUNI MOLINILLO 50 G,Abarrotes,Básicos
 552363,Sal Uyuni Molinillo con Ajo 90 gr,Abarrotes,Básicos
 552366,PACK 6 CERVEZA MARTENS GOLD LATA COPA,Bebidas,Cervezas
@@ -11776,6 +11784,7 @@ id_producto,producto,categoria,subcategoria
 552685,Te Supremo Piramide Manzanilla Menta,Abarrotes,Café y Sucedáneos
 552686,Te Supremo Piramide Verde Naranja Mandarina,Abarrotes,Café y Sucedáneos
 552687,Te Supremo Piramide Rooibos Vainilla,Abarrotes,Café y Sucedáneos
+552688,TE SUPREMO VERDE GRANEL EN HOJAS 250 GR,Abarrotes,Café y Sucedáneos
 552689,AVENA LAMINADA MI SUCO 455 GR,Abarrotes,Nutrición Infantil
 552690,AVENA INSTANTANEA MI SUCO 455 GR,Abarrotes,Nutrición Infantil
 552691,QUINUA REAL MI SUCO 455 GR,Abarrotes,Condimentos y Legumbres
@@ -11875,6 +11884,7 @@ id_producto,producto,categoria,subcategoria
 552804,PACK PAULANER 6 SABORES 6 POSAVASOS,Bebidas,Cervezas
 552805,PACK PAULANER 2 OKTOBERF VASO 1L 3POSAV,Bebidas,Cervezas
 552806,PACK 3X2 HUEVO ROLON X 10 UNID,Lácteos y Derivados,Huevos
+552807,PACK 2 GOMITA FRUGELE 1CALABAZA,Abarrotes,Temporada
 552812,PETIT SUISSE TIKI TITO PLATANO 50GRS,Lácteos y Derivados,Yogures
 552814,GALLETA  L SUPREMA AVENA MIEL CANELA 120,Abarrotes,Galletas
 552836,PACK 3X2 HUEVO MRM X 6 UNID,Lácteos y Derivados,Huevos
@@ -12554,6 +12564,7 @@ id_producto,producto,categoria,subcategoria
 617734,Pasankalla Tucucas Crispy Chips 400 gr,Abarrotes,Snack
 617759,Galleta Chispitas Rubal 350 gr,Abarrotes,Galletas
 617760,Cereal Kris Azucaraditas 900 gr,Abarrotes,Nutrición Infantil
+617761,Cereal Kris Corn Flakes 840 gr,Abarrotes,Nutrición Infantil
 617762,Cereal Kris Frutaritos 790 gr,Abarrotes,Nutrición Infantil
 617763,Cereal Kris Choco Explosion 220 gr,Abarrotes,Nutrición Infantil
 617828,Stevia Majota Ligth Polvo 80 gr,Abarrotes,Dietéticos y Saludables
@@ -15804,6 +15815,7 @@ id_producto,producto,categoria,subcategoria
 672114,Salame de Cerdo Kami 100 gr,Fiambres,Fiambres Externos
 672115,Salame de Llama Kami 100 gr,Fiambres,Fiambres Externos
 672117,TC UVA BLANCA CRIOLLA 1 KG,Frutas y Verduras,Frutas
+672118,EMBUTIDO DE LLAMA TIPO SALAME KAMI KGR,Fiambres,Fiambres Externos
 672127,Papa Simplot Congeladas Tradicional 2500 gr,Congelados,Masas y Comidas Congeladas
 672140,Queso Mozzarella La Serenisima 220 gr,Lácteos y Derivados,Quesos
 672155,Jamon Tipo Serrano Sierra Nevada Ahumado 100 gr,Fiambres,Fiambres Externos
