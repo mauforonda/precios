@@ -777,6 +777,8 @@ id_producto,producto,categoria,subcategoria
 15063,Snack Multimix Bolivian Fruit Platano Maiz Cereza,Abarrotes,Snack
 15067,Te Frutte Piña 20 Sobres,Abarrotes,Café y Sucedáneos
 15069,Palmito La Despensa Entero 800 gr,Abarrotes,Verduras en Conserva
+15071,SAZONADOR MCFOOD P POLLO SOB 100 GR,Abarrotes,Condimentos y Legumbres
+15072,Sazonador McFood Pescado 85 gr,Abarrotes,Condimentos y Legumbres
 15075,Te Frutte Manzana 20 Sobres,Abarrotes,Café y Sucedáneos
 15077,Miel de Abeja El Chaqueñito 500 gr,Abarrotes,"Mermel, Mieles"
 15078,Miel de Abeja El Chaqueñito 1000 gr,Abarrotes,"Mermel, Mieles"
@@ -1408,6 +1410,7 @@ id_producto,producto,categoria,subcategoria
 25771,Huevos Caisy 12 un,Lácteos y Derivados,Huevos
 25789,Galleta Rocklets Chocolate 118 gr,Abarrotes,Galletas
 26000,Habas Charito Frita 160 gr,Abarrotes,Snack
+26001,SALSA D TOMATE KRIS DP 200G,Abarrotes,Salsas y Extracto de Tomate
 26002,SALSA KRIS P PIZZA DP 200G,Abarrotes,Salsas y Extracto de Tomate
 26018,Mani Charito Confitado 160 gr,Abarrotes,Snack
 26874,Whisky Johnnie Walker 18 Años 750 ml,Bebidas,Licores
@@ -1437,6 +1440,7 @@ id_producto,producto,categoria,subcategoria
 29042,Snack Pita Chips Wardi Oregano 150 gr,Abarrotes,Snack
 29043,Snack Pita Chips Wardi Canela 150 gr,Abarrotes,Snack
 29044,Fideos Lazzaroni Tricolor 400 gr,Abarrotes,Básicos
+29047,ISOTONICO REAKTORADE SANDIA 500ML,Bebidas,Isotónicos
 29048,ISOTONICO REAKTORADE MANZANA 500ML,Bebidas,Isotónicos
 29049,Galleta Infinitas Relleno Vainilla 240 gr,Abarrotes,Galletas
 29051,Platano Chips Limon 90 gr,Abarrotes,Snack
@@ -1485,6 +1489,7 @@ id_producto,producto,categoria,subcategoria
 29124,FIDEO F GUEZZI CORRIENTE MARIPOSA 1KG,Abarrotes,Básicos
 29125,ENERGIZANTE VOLT DARK F BOSQ LTA 473ML,Bebidas,Energizantes
 29126,GASEOSA COCA COLA OREO 500ML,Bebidas,Gaseosas
+29132,FLAN KRIS CHOCOLATE CJA 80G,Abarrotes,Repostería
 29138,VINAGRE JE D MANZANA PET 1 LT,Abarrotes,Dietéticos y Saludables
 29139,VINAGRE JE D MANZANA CURCUMA 1LT,Abarrotes,Dietéticos y Saludables
 29140,BEBIDA CRAZY SUNSET GOLD LTA 473ML,Bebidas,Licores
@@ -1540,8 +1545,11 @@ id_producto,producto,categoria,subcategoria
 30186,Galleta Wafer Caserita Frutilla 78 gr,Abarrotes,Galletas
 30187,Galleta Wafer Caserita Vainilla 78 gr,Abarrotes,Galletas
 30191,Bom Bon Lindor Lindt Leche 75 gr,Abarrotes,Chocolates y Caramelos
+30192,Bom Bon Lindor Lindt Surtido 75 gr,Abarrotes,Chocolates y Caramelos
 30193,Bom Bon Lindor Lindt Leche 137 gr,Abarrotes,Chocolates y Caramelos
 30194,Bom Bon Lindor Lindt Surtido 137 gr,Abarrotes,Chocolates y Caramelos
+30195,Bom Bon Lindor Lindt Leche 287 gr,Abarrotes,Chocolates y Caramelos
+30196,Bom Bon Lindor Lindt Surtido 287 gr,Abarrotes,Chocolates y Caramelos
 30197,Sopa Instantanea Zaeli Gallina Caipira 85 gr,Abarrotes,Básicos
 30202,MERMELADA DFRUT CIRUELO POTE 300GR,Abarrotes,"Mermel, Mieles"
 30203,Mermelada Dfrut Membrillo 300 gr,Abarrotes,"Mermel, Mieles"
@@ -1689,6 +1697,7 @@ id_producto,producto,categoria,subcategoria
 30544,Almidon de Yuca Zaeli Sagu Perla 500 gr,Abarrotes,Básicos
 30545,Avena Zaeli Escama Gruesa 200 gr,Abarrotes,Nutrición Infantil
 30546,Avena Zaeli Escama Media 200 gr,Abarrotes,Nutrición Infantil
+30547,Vino Escorihuela Extra Brut Blanco 750 ml,Bebidas,Vinos y Champagne
 30549,Jugo Arcor Multifrutas 1 L,Bebidas,"Jugos, Néctar"
 30550,Pack Vino Duo Tannat Merlot + Vino Duo Bonarda Cabernet,Bebidas,Vinos y Champagne
 30551,Gomita Trululu Sabores 90 gr,Abarrotes,Golosinas - Varias
@@ -1992,6 +2001,7 @@ id_producto,producto,categoria,subcategoria
 30996,Harina de Arroz Avelinda 500 gr,Abarrotes,Básicos
 30997,PACK CHOCOLIKE 800G 1LECHE PIL 1LT,Abarrotes,Nutrición Infantil
 30998,Harina de Avena Avelinda Pancake 400 gr,Abarrotes,Básicos
+30999,PACK 2MILO DP 250G 1TAZA,Abarrotes,Nutrición Infantil
 31000,Bebida Dream Line Vulcano 750 ml,Bebidas,Licores
 31002,Salsa Cepera Picante Sriracha 270 ml,Abarrotes,Aderezos
 31003,Salsa de Tomate Pramesa Refogado 300 gr,Abarrotes,Salsas y Extracto de Tomate
@@ -2526,6 +2536,7 @@ id_producto,producto,categoria,subcategoria
 51284,Mantequilla Pil Sin Sal 200 gr,Lácteos y Derivados,Mantequillas y Margarinas
 51322,Palmito Chimore Entero 850 gr,Abarrotes,Verduras en Conserva
 51471,Flan Miki Naranja 120 gr,Abarrotes,Repostería
+51616,Aceite De Cecco Oliva 500 ml,Abarrotes,Productos Importados
 51730,Fideo De Cecco Tagliatelle All Uovo 104 250 gr,Abarrotes,Productos Importados
 51926,Agua Mineral Cabaña Sin Gas 500 ml,Bebidas,Aguas
 51993,Paño Mr. Trapo Piso Gris 1 un,Cuidado del Hogar,Productos Americanos
@@ -2731,6 +2742,7 @@ id_producto,producto,categoria,subcategoria
 82422,Levadura Seca Fleischmann 170 gr,Abarrotes,Repostería
 82430,Levadura Seca Fleischmann 1000 gr,Abarrotes,Repostería
 82570,Arroz De Cecco Riso 74 500 gr,Abarrotes,Productos Americanos
+82627,Fideo De Cecco Fettuccine All Uovo 103 250 gr,Abarrotes,Productos Importados
 82643,Lasaña De Cecco 502 500 gr,Abarrotes,Productos Importados
 83992,Licor Campari Milano 750 ml,Bebidas,Licores
 84000,Licor Martini Rosso 750 ml,Bebidas,Licores
@@ -3739,6 +3751,7 @@ id_producto,producto,categoria,subcategoria
 108090,Toallas Incontinencia Tena Discreet Medium 10 un,Cuidado Personal,Cuidado del Adulto
 108091,Toallas Incontinencia Tena Discreet Maxi 10 un,Cuidado Personal,Cuidado del Adulto
 108120,Limpiador de Piso Ola Aromatic Lavanda 900 ml,Cuidado del Hogar,Limpieza de Baños
+108131,Pañales Tena Pants Ultra L 20 un,Cuidado Personal,Cuidado del Adulto
 108185,Aceituna Gustoso Rellenas 340 gr,Abarrotes,Verduras en Conserva
 108186,Aceituna Gustoso Verde 830 gr,Abarrotes,Verduras en Conserva
 108187,Aceituna Gustoso Verde 190 gr,Abarrotes,Verduras en Conserva
@@ -4212,6 +4225,7 @@ id_producto,producto,categoria,subcategoria
 112416,Pasta Dental Closeup Menta 90 gr,Cuidado Personal,Cuidado Bucal
 112423,Four Loko Sandia 695 ml,Bebidas,Licores
 112424,Four Loko Fruit Punch 695 ml,Bebidas,Licores
+112431,DETERGENTE OMO LIMON 1800 KG,Cuidado Personal,Cuidado del Cabello
 112435,Cepillo Dental Colgate Kids 5 años 1 un,Cuidado del Bebé,Kids
 112500,Protectores Diarios Kotex Antibacterial 150 un,Cuidado Personal,Cuidado Familiar
 112501,Protectores Diarios Nosotras Antibacterial 15 un,Cuidado Personal,Cuidado Familiar
@@ -6568,6 +6582,7 @@ id_producto,producto,categoria,subcategoria
 226998,Queso Rallado La Serenisima Riggianito 40 gr,Lácteos y Derivados,Quesos
 227094,PACK 4 ESPONJA 3M TININDO Y TAPER,Cuidado del Hogar,Accesorios del Hogar
 227095,LIMPIAPISO PROCENEX BRISA F 900 ML,Cuidado del Hogar,Limpieza de Living y Ropero
+227096,Pañales Tena Confort L 20 un,Cuidado Personal,Cuidado del Adulto
 227097,PACK TOALLAS 3+1 NUMBER ONE X90,Cuidado del Bebé,Cuidado del Bebé
 227103,Detergente Polvo Todo Brillo Floral 1100 gr,Cuidado del Hogar,Limpieza de la Ropa
 227104,Pañales Huggies Active Sec XG 64 un,Cuidado del Bebé,Pañales
@@ -6853,6 +6868,7 @@ id_producto,producto,categoria,subcategoria
 240553,PACK SERUM HIALURONICO+UV DEF ANTIBRILLO,Cuidado Personal,Cuidado de la Piel
 240554,OMO PVO BLANCO ABSOLUTO 24X360G,Cuidado del Hogar,Limpieza de la Ropa
 240555,OMO PVO BLANCO ABSOLUTO 20X720G,Cuidado del Hogar,Limpieza de la Ropa
+240556,PACK VIDRIO ORG + LUSTRAMUEBLE ORG 6X2X8,Cuidado del Hogar,Limpieza de Living y Ropero
 240557,PACK ARCHER DESINFEC BLANQUEADOR 2X950 M,Cuidado del Hogar,Limpieza de Baños
 240565,Refresco Bc Limonada 7 gr,Bebidas,Refrescos en Polvo
 240566,Refresco Bc Naranja 7 gr,Bebidas,Refrescos en Polvo
@@ -8890,6 +8906,7 @@ id_producto,producto,categoria,subcategoria
 380732,Tampones Nosotras Super Aplicador 8 un,Cuidado Personal,Cuidado Familiar
 380736,Pañitos Humedos Intimos Nosotras Herbal 80 un,Cuidado Personal,Cuidado del Adulto
 380819,Ambientador Aerosol Glade Manzana 270 ml,Cuidado del Hogar,Productos Americanos
+380862,Pañales Tena Slip Adulto L 21 un,Cuidado Personal,Cuidado del Adulto
 380888,Jabon Liquido Ballerina Yogurt Barries Doypack 750 ml,Cuidado Personal,Cuidado de la Piel
 380889,Jabon Liquido Ballerina Pomelo Naranja,Cuidado Personal,Cuidado de la Piel
 380901,Lavavajilla Mr.Flash Limon Naranja 1200 ml,Cuidado del Hogar,Limpieza de Cocina
@@ -11518,6 +11535,7 @@ id_producto,producto,categoria,subcategoria
 552157,Cereal Kelloggs Froot Loops Spinners 265 gr,Abarrotes,Nutrición Infantil
 552158,Marshmallows Trululu Relleno Caramelo 50 gr,Abarrotes,Golosinas - Varias
 552159,Marshmallows Trululu Choco Banana 50 gr,Abarrotes,Golosinas - Varias
+552161,Gomita Trululu Banana Acida 80 gr,Abarrotes,Golosinas - Varias
 552169,Pack 12 Cerveza Paceña 330 ml,Bebidas,Cervezas
 552182,Nectar Pura Vida Manzana 2 L,Bebidas,"Jugos, Néctar"
 552183,Nectar Pura Vida Durazno 2 L,Bebidas,"Jugos, Néctar"
@@ -11900,6 +11918,7 @@ id_producto,producto,categoria,subcategoria
 552781,TOJORI ASOVITA 250G,Abarrotes,Básicos
 552782,AJI AMARILLO DULCE ASOVITA 50G,Abarrotes,Condimentos y Legumbres
 552784,GRAGEAS BREICK QUINUA DRACUINOA 25 GR,Abarrotes,Temporada
+552786,GRAGEAS BREICK QUINUA FRENQUINOA,Abarrotes,Temporada
 552787,GRAGEAS BREICK QUINUA CALAVAZINOA 25 GR,Abarrotes,Temporada
 552788,GRAGEAS BREICK QUINUA QUINUAGUICH,Abarrotes,Temporada
 552789,YOGUMIX COOKIES CREAM DELIZIA 130 GR,Lácteos y Derivados,Yogures
@@ -13630,6 +13649,7 @@ id_producto,producto,categoria,subcategoria
 655491,Jugo Aloe Vera Savia Piña 1500 ml,Bebidas,Bebidas Varias
 655492,Jugo Aloe Vera Savia Frutilla 1500 ml,Bebidas,Bebidas Varias
 655493,Albahaca Carmencita 10 gr,Abarrotes,Condimentos y Legumbres
+655495,Cebolla Carmencita Polvo 35 gr,Abarrotes,Condimentos y Legumbres
 655505,Hierbas Carmencita Provenzales 18 gr,Abarrotes,Condimentos y Legumbres
 655508,Pimienta Carmencita Blanca,Abarrotes,Condimentos y Legumbres
 655509,Pimienta Negra Carmencita Grano 47 gr,Abarrotes,Condimentos y Legumbres
@@ -14052,9 +14072,14 @@ id_producto,producto,categoria,subcategoria
 657785,Papa Sabrosita Bolivar Fritas,Abarrotes,Snack
 657788,Sopa Instantanea Kremmore Quinua Blanca Negra Arroz,Abarrotes,Condimentos y Legumbres
 657789,Sopa Instantanea Kremmore Quinua Roja Blanco Arroz,Abarrotes,Condimentos y Legumbres
+657790,Mix Sopa Instantanea Quinua Blanca Arroz,Abarrotes,Condimentos y Legumbres
+657791,Sopa Instantanea Kremmore Quinua Negra Arroz,Abarrotes,Condimentos y Legumbres
 657792,Sopa Instantanea Kremmore Quinua Roja Arroz,Abarrotes,Condimentos y Legumbres
+657793,Sopa Instantanea Mix Quinua Negra Blanca Arroz,Abarrotes,Condimentos y Legumbres
+657794,Sopa Instantanea Mix Quinua Blanca Roja Arroz,Abarrotes,Condimentos y Legumbres
 657795,Sopa Instantanea Mix Quinua Blanca Arroz,Abarrotes,Condimentos y Legumbres
 657796,Sopa Instantanea Mix Quinua Negra Arroz,Abarrotes,Condimentos y Legumbres
+657797,Sopa Instantanea Mix Quinua Roja Arroz,Abarrotes,Condimentos y Legumbres
 657807,Vino Infinitum Blend Concepcion Tinto 750 ml,Bebidas,Vinos y Champagne
 657809,Fideo Don Vittorio Fettuccini 400 gr,Abarrotes,Básicos
 657811,Whisky Johnnie Walker Blue Label 200 ml,Bebidas,Licores
@@ -19473,6 +19498,7 @@ id_producto,producto,categoria,subcategoria
 867358,Insecticida Sapolio Cucaracha  Hormiga 360 ml,Cuidado del Hogar,Insecticidas
 867363,Insecticida Sapolio Mosca Mosquito 360 ml,Cuidado del Hogar,Insecticidas
 867378,Insecticida Sapolio Mata Pulgas 360 ml,Cuidado del Hogar,Insecticidas
+867800,Rabano,Frutas y Verduras,Verduras
 867987,Papa Simplot Congeladas 700 gr,Congelados,Masas y Comidas Congeladas
 868658,CEPILLO P/R CABELLO BARBIE CONDOR 6895,Bazar,Bijouteria/Cuidado Personal
 868659,CEPILLO P/R CABELLO HOT WHEELS CONDOR 6899,Bazar,Bijouteria/Cuidado Personal
@@ -20069,6 +20095,7 @@ id_producto,producto,categoria,subcategoria
 925575,Bolsa de Globos Estándar Multicolor 50 un,Bazar,Cotillón
 925969,FR.GRAPA X 1UND.,Bazar,Librería
 926104,Raticida Ratitane Cebo 100 gr,Cuidado del Hogar,Insecticidas
+926106,Espiral Titane Mata Mosquito 150 gr,Cuidado del Hogar,Insecticidas
 927057,Mondadiente Fiat Lux 100 un,Bazar,Churrasquería
 927339,FR.GARRAFA INFANTIL,Bazar,Menaje Plástico
 927392,Marcadores Permanente 5 un,Bazar Importación,Librería
@@ -20163,6 +20190,7 @@ id_producto,producto,categoria,subcategoria
 947369,Hervidor Tramontina con Tapa 14 cm,Bazar,Articulos de Cocina
 947376,Olla Tramontina Alta 22 cm,Bazar,Articulos de Cocina
 947378,CI OLLA ALTA DE 18CM 3L20530/618,Bazar,Articulos de Cocina
+947385,Olla Tramontina Baja 20 cm,Bazar,Articulos de Cocina
 947386,CI OLLA BAJA DE 18CM 2L20520/618,Bazar,Articulos de Cocina
 947387,Sarten Tramontina con Tapa 26 cm,Bazar,Articulos de Cocina
 947475,Exprimidor de Naranja Mgf 3445,Bazar,Electrodoméstico/Línea Blanca-Hogar
