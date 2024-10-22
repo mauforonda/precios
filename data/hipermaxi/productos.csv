@@ -2,10 +2,10 @@ id_producto,producto,categoria,subcategoria
 1007,Helado Cabrera Frutilla 1.2 L,Congelados,"Helados, Cassattas y Picoleses"
 1015,Helado Cabrera Granizado 1500 ml,Congelados,"Helados, Cassattas y Picoleses"
 1023,Helado Cabrera Vainilla 1.2 L,Congelados,"Helados, Cassattas y Picoleses"
-1031,Helado Cabrera Chocolate 1500 ml,Congelados,"Helados, Cassattas y Picoleses"
+1031,Helado Cabrera Chocolate 500 ml,Congelados,"Helados, Cassattas y Picoleses"
 1040,Helado Cabrera Coco 1/2 Lt,Congelados,"Helados, Cassattas y Picoleses"
 1058,Helado Cabrera Moka 1500 ml,Congelados,"Helados, Cassattas y Picoleses"
-1074,Helado Cabrera Dulce de Leche 1500 ml,Congelados,"Helados, Cassattas y Picoleses"
+1074,Helado Cabrera Dulce de Leche 500 ml,Congelados,"Helados, Cassattas y Picoleses"
 1082,Helado Cabrera Frutilla 1 L,Congelados,"Helados, Cassattas y Picoleses"
 1090,Helado Cabrera Granizado 1 L,Congelados,"Helados, Cassattas y Picoleses"
 1104,Helado Cabrera Vainilla 1 L,Congelados,"Helados, Cassattas y Picoleses"
@@ -1416,6 +1416,7 @@ id_producto,producto,categoria,subcategoria
 26018,Mani Charito Confitado 160 gr,Abarrotes,Snack
 26874,Whisky Johnnie Walker 18 Años 750 ml,Bebidas,Licores
 27100,MASMELOS TRULULU FRANKI BSA 50G,Abarrotes,Golosinas - Varias
+27106,GALLETA PIT STOP CEREAL INTEGRAL 142G,Abarrotes,Galletas
 27110,Galleta Frac Clasica 132 gr,Abarrotes,Galletas
 27918,Fideo Matarazzo Tirabuzon 500 gr,Abarrotes,Básicos
 28835,Molde Estañado Ilkon 28 cm,Bazar,Articulos de Cocina
@@ -1453,6 +1454,7 @@ id_producto,producto,categoria,subcategoria
 29056,Chocolate Taboada Frutilla 100 gr,Abarrotes,Chocolates y Caramelos
 29057,"Galleta Cofler Relleno Cookies 132,8 gr",Abarrotes,Galletas
 29059,Te Brissol de Tilo  20 Sobres,Abarrotes,Dietéticos y Saludables
+29064,WHISKY MOMKEY SHOULDER 700ML,Bebidas,Licores
 29065,VINO CAMPOS DE SOLANA TANNAT UNICO DARK,Bebidas,Vinos y Champagne
 29066,PINA COLADA CELOSA SPIRITS LTA 355ML,Bebidas,Licores
 29067,Margarita Celosa Spirits 355 ml,Bebidas,Licores
@@ -5027,8 +5029,10 @@ id_producto,producto,categoria,subcategoria
 129356,Suavizante Ropa Urca Brisa 2 L,Cuidado del Hogar,Limpieza de la Ropa
 129364,Suavizante Ropa Urca Floral 2 L,Cuidado del Hogar,Limpieza de la Ropa
 129380,GALLETA FRANCESA NEVADITAS MINI 80 GR,Abarrotes,Galletas
+129399,GALLETA FRANCESA PARISINA 100 GR,Abarrotes,Galletas
 129453,Suavizante Ropa Urca Seductora 2 L,Cuidado del Hogar,Limpieza de la Ropa
 129461,Galleta Francesa Salvado 250 gr,Abarrotes,Galletas
+129470,Galleta Francesa Caricia 170 gr,Abarrotes,Galletas
 129585,Suavizante Ropa Urca Ternura 2 L,Cuidado del Hogar,Limpieza de la Ropa
 129608,Salsa B&R Hamburguesa 250 gr,Abarrotes,Aderezos
 130100,Galleta Marilan Pit Stop Jamon Queso 91 gr,Abarrotes,Galletas
@@ -6580,7 +6584,7 @@ id_producto,producto,categoria,subcategoria
 226026,Limpiador de Vidrio Bristar Original Recarga 930 cc,Cuidado del Hogar,Limpieza de Living y Ropero
 226027,Limpiador de Baño Bristar Saca Sarro 550 ml,Cuidado del Hogar,Limpieza de Baños
 226477,Te Windsor Mate Surtido La Abuela 100 Sobres,Abarrotes,Café y Sucedáneos
-226700,FRENCH MOSTAZA SPICY BROWN 12 OZ,Abarrotes,Productos Americanos
+226700,Mostaza French Spicy Brown 12 oz,Abarrotes,Productos Americanos
 226734,Blondor Revive Yama 10 gr,Cuidado Personal,Cuidado de la Piel
 226872,Fideo Divella Paccheri Napoletani 500 gr,Abarrotes,Básicos
 226873,Fideo Divella Conchiglioni 500 gr,Abarrotes,Básicos
@@ -6885,6 +6889,7 @@ id_producto,producto,categoria,subcategoria
 240587,PACK DOVE ROL ON CUIDADO BK 6X2X50ML,Cuidado Personal,Cuidado de la Piel
 240588,PACK DOVE ROL ON EXTRA FRESH BK 6X2X50ML,Cuidado Personal,Cuidado de la Piel
 240589,TRIPACK MI BEBE TOALLA HUMEDA 3X100 UNDS,Cuidado del Bebé,Cuidado del Bebé
+240616,ALGABO TALCO ANTIBACTERIAL 200GR,Cuidado Personal,Cuidado de la Piel
 240617,ALGABO CREMA PARA AFEITAR 177ML,Cuidado Personal,Cuidado de la Piel
 240624,SHAMPOO REVIVE ACEITE CUSI 340ML,Cuidado Personal,Cuidado del Cabello
 240625,ACOND. REVIVE ACEITE DE CUSI 340ML POTE,Cuidado Personal,Cuidado del Cabello
@@ -11744,6 +11749,7 @@ id_producto,producto,categoria,subcategoria
 552469,Cafe Espresso 21 gr Blend Molido 500 gr,Abarrotes,Café y Sucedáneos
 552470,Cafe House 21 gr Blend Molido 1 kg,Abarrotes,Café y Sucedáneos
 552471,Vino Espumante Codorniu Rose 750 ml,Bebidas,Vinos y Champagne
+552472,VINO GRAN CORTE BLEND DE TERROIRS 750 ML,Bebidas,Vinos y Champagne
 552473,VINO LOS HAROLDOS RESERVA CABERNET FRANC,Bebidas,Vinos y Champagne
 552474,Galleta Carsa Cracks Leche 300 gr,Abarrotes,Galletas
 552475,Galleta Carsa Cracks Chocolate 300 gr,Abarrotes,Galletas
@@ -11927,7 +11933,9 @@ id_producto,producto,categoria,subcategoria
 552780,AJI ROJO DULCE ASOVITA 50,Abarrotes,Condimentos y Legumbres
 552781,TOJORI ASOVITA 250G,Abarrotes,Básicos
 552782,AJI AMARILLO DULCE ASOVITA 50G,Abarrotes,Condimentos y Legumbres
+552783,GRAGEAS BRECIK QUINOAFEROZ 25 GR,Abarrotes,Temporada
 552784,GRAGEAS BREICK QUINUA DRACUINOA 25 GR,Abarrotes,Temporada
+552785,GRAGEAS BREICK QUINOAVIVIENTE 25 GR,Abarrotes,Temporada
 552786,GRAGEAS BREICK QUINUA FRENQUINOA,Abarrotes,Temporada
 552787,GRAGEAS BREICK QUINUA CALAVAZINOA 25 GR,Abarrotes,Temporada
 552788,GRAGEAS BREICK QUINUA QUINUAGUICH,Abarrotes,Temporada
@@ -13851,6 +13859,7 @@ id_producto,producto,categoria,subcategoria
 656666,Pan de Panchito Ceab 10 un,Panadería,Panadería Externa
 656669,Pan de Hamburguesa Ceab 10 un,Panadería,Panadería Externa
 656674,Pan Dietetico Ceab Redondo 10 un,Panadería,Panadería Externa
+656683,PANETTONE ZELADA BOLSA 650 GR,Panadería,Panadería Externa
 656727,Yogurt Kefir Cereza 1 L,Lácteos y Derivados,Yogures
 656729,Yogurt Kefir Mango 1 L,Lácteos y Derivados,Yogures
 656730,Yogurt Kefir Chirimoya 1 L,Lácteos y Derivados,Yogures
@@ -15390,12 +15399,14 @@ id_producto,producto,categoria,subcategoria
 669032,PROT SOLAR CREMA SPF50 X 220 ML X6,Cuidado Personal,Cuidado de la Piel
 669033,TANGA SPF 60 FACIAL Q10 50 ML X12,Cuidado Personal,Cuidado de la Piel
 669035,OLA AROMATIC LAVANDA CREMOS 6X1.8L,Cuidado del Hogar,Limpieza de Baños
+669036,OLA AROMATIC LAVANDA CREMOSO 2X5L,Cuidado del Hogar,Limpieza de Baños
 669037,OLA AROMATIC CEDRON 12X900ML,Cuidado del Hogar,Limpieza de Baños
 669038,OLA AROMATIC CEDRON 6X1.8L,Cuidado del Hogar,Limpieza de Baños
 669039,OLA AROMATIC LAVANDA CREMOS 12X900ML,Cuidado del Hogar,Limpieza de Baños
 669041,OLA AROMATIC FLORAL CREMOSO 6X1.8L,Cuidado del Hogar,Limpieza de Baños
 669042,CREMA HANBEL MILK COCO Y AVENA 500 GR,Cuidado Personal,Cuidado de la Piel
 669044,DOY PACK SH.SELFY CEBOLLA 900 GR.,Cuidado Personal,Cuidado del Cabello
+669047,CREMA HANBEL MILK ASAI & PANTENOL 500 GR,Cuidado Personal,Cuidado de la Piel
 669048,PACK HERBAL ESS SH TE VERDE400ML + AC DE,Cuidado Personal,Cuidado del Cabello
 669049,GUANTE NEGRO EXTRA GRUESO7 1/2; 8; 8 1/2,Cuidado del Hogar,Accesorios del Hogar
 669901,Pizza Hipermaxi Congelada Hawaiana 620 gr,Congelados,Masas y Comidas Congeladas
@@ -18145,6 +18156,7 @@ id_producto,producto,categoria,subcategoria
 789718,Mantequilla de Caju Apita 240 gr,Lácteos y Derivados,Mantequillas y Margarinas
 789719,Crema Chantilly Dagusto Repostera 1 L,Lácteos y Derivados,Crema de Leche
 789725,Pan con Ajo Precocido Tradicional Brasuco 2 un,Panadería,Panadería Externa
+789731,SWEET DROPS FRUTAS BANADAS C/CHOCOLATE 150 GRS.,Congelados,Pulpas y Frutas Congeladas
 789741,Queso Mozzarella Milkaut kg,Lácteos y Derivados,Quesos
 789742,Queso Cheddar Guapurutu 500 gr,Lácteos y Derivados,Quesos
 789744,Queso Santa Rosa Fontina Libre de Gluten kg,Lácteos y Derivados,Quesos
