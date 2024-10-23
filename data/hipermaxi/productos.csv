@@ -995,6 +995,7 @@ id_producto,producto,categoria,subcategoria
 17297,Gin Puerto de Indias Strawberry 750 ml,Bebidas,Licores
 17298,Fideo Carozzi Fusilli Integral 400 gr,Abarrotes,Dietéticos y Saludables
 17299,Vino Doña Vita Oporto Tinto 750 ml,Bebidas,Vinos y Champagne
+17300,Vino Doña Vita Oporto Blanco 750 ml,Bebidas,Vinos y Champagne
 17301,Vino Doña Vita Cholero Rosado 750 ml,Bebidas,Vinos y Champagne
 17302,Vino Doña Vita Cholero Blanco 750 ml,Bebidas,Vinos y Champagne
 17304,Tequila Jose Cuervo Reserva Familia 750 ml,Bebidas,Licores
@@ -1420,6 +1421,7 @@ id_producto,producto,categoria,subcategoria
 27110,Galleta Frac Clasica 132 gr,Abarrotes,Galletas
 27918,Fideo Matarazzo Tirabuzon 500 gr,Abarrotes,Básicos
 28835,Molde Estañado Ilkon 28 cm,Bazar,Articulos de Cocina
+29001,Vino Montecillo Rioja Reserva 750 ml,Bebidas,Vinos y Champagne
 29002,SODA MENDOCINA POMELO 1LT,Bebidas,Gaseosas
 29003,Avena Instantanea Avelinda 450 gr,Abarrotes,Nutrición Infantil
 29004,Avena Instantanea Avelinda 300 gr,Abarrotes,Nutrición Infantil
@@ -1468,6 +1470,7 @@ id_producto,producto,categoria,subcategoria
 29078,Ron Reythor Dorado 1 L,Bebidas,Licores
 29080,Gaseosa Doña Maria Flor Jamaica 473 ml,Bebidas,Gaseosas
 29081,Gaseosa Doña Maria Ginger Beer 473 ml,Bebidas,Gaseosas
+29086,PACK CARBONELL EXT VIRG 750ML 1BALSAMICO,Abarrotes,Básicos
 29087,Pack 2 Vinagre Castelo Manzana 500 ml,Abarrotes,Básicos
 29088,CARAMELO TOFFEE ARCOR LEITE 500G,Abarrotes,Chocolates y Caramelos
 29091,Gomita Guandy Corazon Dulce 20 gr,Abarrotes,Golosinas - Varias
@@ -1920,7 +1923,7 @@ id_producto,producto,categoria,subcategoria
 30842,Pack 2 Galleta Oreo Original + 1 Ritz Tubo,Abarrotes,Galletas
 30848,Pack Singani Insignia Etiqueta Roja + Vaso,Bebidas,Licores
 30849,Pack Singani Insignia Etiqueta Negra + Vaso,Bebidas,Licores
-30850,COCKTAIL VOLCOF MOJITO BOT 900ML,Bebidas,Licores
+30850,Cocktail Volcof Mojito 900 ml,Bebidas,Licores
 30851,Cocktail Volcof Blueberry 900 ml,Bebidas,Licores
 30852,Masticable Mogul Morf Fries 160 gr,Abarrotes,Golosinas - Varias
 30853,Jugo Arcor Multifruta 200 ml,Bebidas,"Jugos, Néctar"
@@ -4784,7 +4787,7 @@ id_producto,producto,categoria,subcategoria
 120546,LABIAL VOGUE RESIST ELEGANTE,Cuidado Personal,Cuidado de la Piel
 120550,Esmalte de Uña Vogue Efecto Gel Acai,Cuidado Personal,Cuidado de la Piel
 120551,Esmalte de Uña Vogue Efecto Gel Flora,Cuidado Personal,Cuidado de la Piel
-120552,ESMALTE EFECTO GEL FLAMINGO,Cuidado Personal,Cuidado de la Piel
+120552,Esmalte de Uña Efecto Gel Flamingo,Cuidado Personal,Cuidado de la Piel
 120554,Esmalte de Uña Vogue Efecto Gel Agua,Cuidado Personal,Cuidado de la Piel
 120555,Esmalte de Uña Vogue Efecto Gel Jaguar,Cuidado Personal,Cuidado de la Piel
 120556,Esmalte de Uña Vogue Efecto Gel Selva,Cuidado Personal,Cuidado de la Piel
@@ -5447,7 +5450,7 @@ id_producto,producto,categoria,subcategoria
 165022,Pack Tinte Excellence Tono 6.7 + Nesecer Loreal,Cuidado Personal,Cuidado del Cabello
 165024,Pack Tinte Excellence Tono 6.1 + Neceser Loreal,Cuidado Personal,Cuidado del Cabello
 165025,Pack Tinte Excellence Tono 7.1 + Neceser Loreal,Cuidado Personal,Cuidado del Cabello
-165028,PACK EXCELLENCE 6 + NECESER LOREAL,Cuidado Personal,Cuidado del Cabello
+165028,Pack Tinte Excellence Tono 6 + Neceser Loreal,Cuidado Personal,Cuidado del Cabello
 165029,Pack Tinte Excellence Tono 7.11 + Neceser Loreal,Cuidado Personal,Cuidado del Cabello
 165030,PACK EXCELLENCE 4 + NECESER LOREAL,Cuidado Personal,Cuidado del Cabello
 165031,Pack Tinte Excellence Nudes Tono 6U + Neceser Loreal,Cuidado Personal,Cuidado del Cabello
@@ -6715,12 +6718,16 @@ id_producto,producto,categoria,subcategoria
 230485,SUAVIZANTE MAXIBRILL FLORAL PREMIUM 2 LT,Cuidado del Hogar,Limpieza de la Ropa
 230487,SHAMPOO BALLERINA FUERZA NATURAL DPK 750,Cuidado Personal,Cuidado del Cabello
 230488,JABON PALMOLIVE MANDARINA  ROMERO 3X110,Cuidado Personal,Cuidado de la Piel
+230489,DR SELBY AFTER SHAVE LAVENDER 100GR,Cuidado Personal,Cuidado de la Piel
+230490,DR SELBY AFTER SHAVE SENSITIVE 100GR,Cuidado Personal,Cuidado de la Piel
 230491,DR SELBY SHAVING FOAM LAVENDER 149GR,Cuidado Personal,Cuidado de la Piel
 230492,DR SELBY SHAVING FOAM SENSITIVE 149GR,Cuidado Personal,Cuidado de la Piel
 230493,DR SELBY SET ESPUMA Y BALSAMO LAVENDER,Cuidado Personal,Cuidado de la Piel
 230494,DR SELBY SET ESPUMA Y BALSAMO SENSITIVE,Cuidado Personal,Cuidado de la Piel
+230496,GEL DE CEJAS MNY TATTO BUILD SOFT 255,Cuidado Personal,Cuidado de la Piel
 230497,Jabon Barra El Macho Azul 220 gr,Cuidado del Hogar,Limpieza de la Ropa
 230499,Salchicha Sin Piel Stege 6 un,Fiambres,Fiambres Externos
+230501,CORRECTOR LIQUIDO  BRONCE,Cuidado Personal,Cuidado de la Piel
 230511,MR CLORO ACIDO NITRICO 1000 ML,Cuidado del Hogar,Limpieza de Baños
 230513,CREMA GOICOECHEA ARNICA 1LT,Cuidado Personal,Cuidado de la Piel
 230514,Jabon Barra Asepxia Esponja 80 gr,Cuidado Personal,Cuidado de la Piel
@@ -6805,7 +6812,14 @@ id_producto,producto,categoria,subcategoria
 234022,PANUELOS NESS SUPER SUAVE 60HJ,Cuidado Personal,Cuidado Familiar
 234023,PRETRATAMIENTO ELVIVE GLYCO ACIDIFIER X1,Cuidado Personal,Cuidado del Cabello
 234024,BRILLO LIFTER GLOSS MNY PLUMP HOT HONEY,Cuidado Personal,Cuidado de la Piel
+234025,BRILLO LIFTER GLOSS MNY PLUMP BLUSH BLAZ,Cuidado Personal,Cuidado de la Piel
+234042,POLVO MNY SUPERTAY FULL COVERAGE 220,Cuidado Personal,Cuidado de la Piel
 234043,BRILLO LIFTER GLOSS PLUMP MNY HOT CHILI,Cuidado Personal,Cuidado de la Piel
+234044,BRILLO LIFTER GLOSS PLUMP MNY PINK STING,Cuidado Personal,Cuidado de la Piel
+234047,LABIALVINYL ROGUE 145,Cuidado Personal,Cuidado de la Piel
+234053,MASCARA CURVAS PERFECTAS 9 GR,Cuidado Personal,Cuidado de la Piel
+234055,Base Polvo Vogue Resist Avellana,Cuidado Personal,Cuidado de la Piel
+234058,Base Polvo Vogue Resist Natural,Cuidado Personal,Cuidado de la Piel
 234060,MASCARA DE TRATAMIENTO ELVIVE 300GR GLY,Cuidado Personal,Cuidado de la Piel
 234061,SHAMPOO ELVIVE 680ML GLYCO GLOSS,Cuidado Personal,Cuidado del Cabello
 234062,Acondicionador Elvive Glyco Gloss 680 ml,Cuidado Personal,Cuidado del Cabello
@@ -7797,6 +7811,7 @@ id_producto,producto,categoria,subcategoria
 328708,Refresco Sprim Durazno 25 gr,Bebidas,Refrescos en Polvo
 328709,Refresco Sprim Limon 25 gr,Bebidas,Refrescos en Polvo
 328717,Marshmallows Crismelos Vainilla Celeste,Abarrotes,Golosinas - Varias
+328719,MARSMALLOWS CRISMELOS FRUTI/ROSADO 335 G,Abarrotes,Golosinas - Varias
 328720,MARSMALLOWS CRISMELOS VAINILLA MINI 335,Abarrotes,Chocolates y Caramelos
 328740,Pilas Energizer Alcalina D 2 un,Bazar,Ferretería
 328758,Salchicha Viena Extra Larga con Piel Stege,Fiambres,Fiambres Externos
@@ -8168,6 +8183,7 @@ id_producto,producto,categoria,subcategoria
 340087,Cucharillas Desechables Belen 10 un,Bazar,Cotillón
 340088,Cucharillas Desechables Belen Mini,Bazar,Cotillón
 340101,JAN JUGUETE DE MASCOTAS .20,Bazar,Mascotas General
+340112,Vino Navarro Correas Alegoria Gran Reserva 750 ml,Bebidas,Vinos y Champagne
 340137,Crema Ponds Clarante B3 Spf 15 100 gr,Cuidado Personal,Cuidado de la Piel
 340151,Paño Cuadrille 37x60 cm,Cuidado del Hogar,Productos Americanos
 340152,Paño Mr.Trapo Piso Blanco 60x48,Cuidado del Hogar,Productos Americanos
@@ -8954,6 +8970,7 @@ id_producto,producto,categoria,subcategoria
 381236,Bolsa Isi 20x30 2 Kg 100 un,Cuidado del Hogar,Accesorios del Hogar
 381237,Bolsa Isi 28x40 5 Kg 100 un,Cuidado del Hogar,Accesorios del Hogar
 381238,Bolsa Isi 30x40 5 Kg 100 un,Cuidado del Hogar,Accesorios del Hogar
+381242,PANO MR.TRAPO TOHALLA MANO MICROFIBRA,Cuidado del Hogar,Productos Americanos
 381243,Toalla Mr.Trapo Mano Algodón 35x50,Cuidado del Hogar,Productos Americanos
 381249,Paño Mr.Trapo Repasador Premium,Cuidado del Hogar,Productos Americanos
 381251,Paño Isi Mf Repasador Rayado,Cuidado del Hogar,Productos Americanos
@@ -11960,6 +11977,7 @@ id_producto,producto,categoria,subcategoria
 552847,GALLETAS COMI PET PECHUGA DE POLLO 250 G,Abarrotes,Mascotas
 552848,PACK 12 HUARI LAGER LTA 440 ML,Bebidas,Cervezas
 552849,GASEOSA ORIENTAL NARANJA 3LT,Bebidas,Gaseosas
+552859,BOMBON SURT LINDT LINDOR ESTUCHE 137 GR,Abarrotes,Chocolates y Caramelos
 554333,Cerveza Paceña Lata Roja 473 Cc,Bebidas,Cervezas
 554466,Detergente Liquido Ola Futuro Limpieza Completa 5 L,Cuidado del Hogar,Limpieza de la Ropa
 554468,Suavizante Ropa Ola Suavecito Original 5 L,Cuidado del Hogar,Limpieza de la Ropa
@@ -12500,6 +12518,7 @@ id_producto,producto,categoria,subcategoria
 615100,Sal Lobos Fina 1000 gr,Abarrotes,Básicos
 615361,SNACK PRETZEL CRISPS BUFFALO WINGS 204GR,Abarrotes,Productos Americanos
 615362,Pretzel Crispis Galic Parm Snack Factory 204 gr,Abarrotes,Productos Americanos
+615582,JABON GLICERINA AVENA BEBES X 80 G,Cuidado del Bebé,Cuidado del Bebé
 615586,Crema Portugal Blanqueadora Faz x 55gr,Cuidado Personal,Cuidado de la Piel
 615593,Brintec Billo Instantaneo,Cuidado del Hogar,Limpieza de Zapatos
 615600,Maquina de Afeitar Bic Comfort3 Piel Normal 2 un,Cuidado Personal,Cuidado de la Piel
@@ -15406,6 +15425,7 @@ id_producto,producto,categoria,subcategoria
 669041,OLA AROMATIC FLORAL CREMOSO 6X1.8L,Cuidado del Hogar,Limpieza de Baños
 669042,CREMA HANBEL MILK COCO Y AVENA 500 GR,Cuidado Personal,Cuidado de la Piel
 669044,DOY PACK SH.SELFY CEBOLLA 900 GR.,Cuidado Personal,Cuidado del Cabello
+669045,CREMA HANBEL MILK ALOE VERA 500 GR,Cuidado Personal,Cuidado de la Piel
 669047,CREMA HANBEL MILK ASAI & PANTENOL 500 GR,Cuidado Personal,Cuidado de la Piel
 669048,PACK HERBAL ESS SH TE VERDE400ML + AC DE,Cuidado Personal,Cuidado del Cabello
 669049,GUANTE NEGRO EXTRA GRUESO7 1/2; 8; 8 1/2,Cuidado del Hogar,Accesorios del Hogar
@@ -16145,6 +16165,7 @@ id_producto,producto,categoria,subcategoria
 672793,Yogurt Griego Descremado Kayku con Pulpa de Frutas 640 gr,Lácteos y Derivados,Yogures
 672794,Yogurt Kayku Griego Descremado con Pulpa de Fruta 160 gr,Lácteos y Derivados,Yogures
 672795,Yogurt Kayku Descremado Chia 2 L,Lácteos y Derivados,Yogures
+672800,Queso Cheddar Neskraft Laminado 140 gr,Lácteos y Derivados,Quesos
 672801,Pan Molde Ceab Multigrano 500 gr,Panadería,Panadería Externa
 672813,Entraña de Cerdo Congelada Sofia kg,Congelados,Carnes Congeladas
 672824,Queso Mozzarella Vaquita Oriental 400 gr,Lácteos y Derivados,Quesos
@@ -16511,6 +16532,7 @@ id_producto,producto,categoria,subcategoria
 673807,Huevo Nido de Oro Pequeño Maple de 30 un,Lácteos y Derivados,Huevos
 673808,Pack Huevo de Oro 18 un,Lácteos y Derivados,Huevos
 673809,Pack Huevo de Oro 12 un,Lácteos y Derivados,Huevos
+673810,PAVO ENTERO CONGELADO SANTA ISABEL KGR,Congelados,Carnes Congeladas
 673811,Jamon de Pavo Santa Isabel 200 gr,Fiambres,Fiambres Externos
 673812,Mortadela de Pavo Santa Isabel 200 gr,Fiambres,Fiambres Externos
 673813,Pate de Higado de Pavo Santa Isabel 100 gr,Fiambres,Fiambres Externos
@@ -16646,6 +16668,7 @@ id_producto,producto,categoria,subcategoria
 674086,Leche Vegetal Impostor Milk Frutilla 140 ml,Lácteos y Derivados,Leches
 674094,Queso Flor de Leche Florandino Light kg,Lácteos y Derivados,Quesos
 674095,YOGURT KEFIR NATURAL 2 LITROS,Lácteos y Derivados,Yogures
+674101,Palitos de Avena con Queso 17 un,Pastelería y Masas Típicas,Pastelería Externa
 674102,Helado Delizia Postre Cafe de Altura 200 ml,Congelados,"Helados, Cassattas y Picoleses"
 674103,Helado Delizia Paleta Cafe de Altura,Congelados,"Helados, Cassattas y Picoleses"
 674104,Helado Arcor Paleta Milk 52 gr,Congelados,"Helados, Cassattas y Picoleses"
@@ -16755,6 +16778,7 @@ id_producto,producto,categoria,subcategoria
 674262,PANETON TRADICIONAL INPASA BOLSA TRILAMINADA 700GRS,Panadería,Panadería Externa
 674264,PANETON CHOCOLATE INPASA 700GRS BOLSA TRILAMINADA,Panadería,Panadería Externa
 674265,PANETON CHOCOLINO INPASA 500GRS BOLSA TRILAMINADA,Panadería,Panadería Externa
+674274,PILFRUT BLUEBERRY PIL 800ML BOLSA,Lácteos y Derivados,Leches
 675245,Miel de Abeja Eva Promiel 250 gr,Abarrotes,"Mermel, Mieles"
 676113,Habanito Bits Cream Coojies Cream 120 gr,Congelados,"Helados, Cassattas y Picoleses"
 676115,HABANITO BITS CREAM DULCE DE LECHE 120GRS,Congelados,"Helados, Cassattas y Picoleses"
