@@ -761,6 +761,7 @@ id_producto,producto,categoria,subcategoria
 14791,Te Supremo Verde con Jazmin 20 Sobres,Abarrotes,Café y Sucedáneos
 14792,Gomita Fini Regaliz Uva 80 gr,Abarrotes,Golosinas - Varias
 14794,Edulcorante  Splenda con Stevia 400 un,Abarrotes,Dietéticos y Saludables
+14796,Sazonador American Spice BBQ 2.5 oz,Abarrotes,Condimentos y Legumbres
 14797,Chile Goya Jalapeño Pepper 11 oz,Abarrotes,Verduras en Conserva
 14798,Calamar Goya en Tinta Trozos 4 oz,Abarrotes,Comidas en Conserva
 14903,Agua Mendocina Con Gas 600 ml,Bebidas,Aguas
@@ -861,6 +862,7 @@ id_producto,producto,categoria,subcategoria
 16642,Agua Fever Tonic Indian 200 ml,Bebidas,Aguas
 16643,Agua Fever Ginger Beer 200 ml,Bebidas,Aguas
 16644,Agua Fever Tonic Refreshingly Light 200 ml,Bebidas,Aguas
+16662,Gin Theros Dry 1 L,Bebidas,Licores
 16671,Cocoa Piter Vitaminada 500 gr,Abarrotes,Nutrición Infantil
 16676,Bombon Bon o Bon Dulce de Leche 288 gr,Abarrotes,Chocolates y Caramelos
 16677,BEBIDA VITAM MELISSA CALM TORONJIL 1 LT,Bebidas,Bebidas Varias
@@ -1020,6 +1022,7 @@ id_producto,producto,categoria,subcategoria
 17372,Sangria Dos Hermanos 910 ml,Bebidas,Vinos y Champagne
 17373,Fideo Matarazzo Penne Rig Libre Gluten 500 gr,Abarrotes,Básicos
 17374,Fideo Matarazzo Spaguetti Libre Gluten 500 gr,Abarrotes,Básicos
+17377,Galleta Butter Cookie Promos 340 gr,Abarrotes,Galletas
 17379,Salsa Colgin Hickory Smake 4 oz,Abarrotes,Aderezos
 17381,Fideo Matarazzo Tirabuzon Integral 500 gr,Abarrotes,Dietéticos y Saludables
 17382,Fideo Spaguetti Matarazzo Integral 500 gr,Abarrotes,Dietéticos y Saludables
@@ -1559,7 +1562,7 @@ id_producto,producto,categoria,subcategoria
 30195,Bom Bon Lindor Lindt Leche 287 gr,Abarrotes,Chocolates y Caramelos
 30196,Bom Bon Lindor Lindt Surtido 287 gr,Abarrotes,Chocolates y Caramelos
 30197,Sopa Instantanea Zaeli Gallina Caipira 85 gr,Abarrotes,Básicos
-30202,MERMELADA DFRUT CIRUELO POTE 300GR,Abarrotes,"Mermel, Mieles"
+30202,Mermelada Dfrut Ciruelo 300 gr,Abarrotes,"Mermel, Mieles"
 30203,Mermelada Dfrut Membrillo 300 gr,Abarrotes,"Mermel, Mieles"
 30207,Chive Kily Simple 500 gr,Abarrotes,Básicos
 30209,Mayonesa Taste Ajo Zero 335 gr,Abarrotes,Dietéticos y Saludables
@@ -5707,6 +5710,7 @@ id_producto,producto,categoria,subcategoria
 204015,Salsa Kraft Barbacoa Original 510 gr,Abarrotes,Productos Americanos
 204017,Ketchup Heinz 1.07 kg,Abarrotes,Productos Americanos
 204026,Oregano McCormick 21 gr,Abarrotes,Condimentos y Legumbres
+204028,Paprika America Spice con Pimenton 56 gr,Abarrotes,Condimentos y Legumbres
 204035,Pimienta Negra American Spice Molida 56 gr,Abarrotes,Condimentos y Legumbres
 204109,Chocolate Cofler Block 300 gr,Abarrotes,Chocolates y Caramelos
 204154,Ice Tea Hindu Manzana Light 300 gr,Bebidas,Refrescos en Polvo
@@ -6760,6 +6764,8 @@ id_producto,producto,categoria,subcategoria
 230640,Kit Foramen Pharma Ortodoncia,Cuidado del Bebé,Kids
 230641,Cepillo Interdental Foramen Pharma de Goma,Cuidado Personal,Cuidado Bucal
 230643,TRIPACK ESPONJA TININDO + CUCHARA PASTAS,Cuidado del Hogar,Accesorios del Hogar
+230645,PROTECTOR SOLAR ABOVE FPS 30,Cuidado Personal,Cuidado de la Piel
+230646,PROTECTOR SOLAR ABOVE FPS 50,Cuidado Personal,Cuidado de la Piel
 230648,VAJILLERO OLA LIMON DOYPACK 900 ML,Cuidado del Hogar,Limpieza de Cocina
 230649,Cepillo Dental Clinic F92 Medio,Cuidado Personal,Cuidado Bucal
 230701,Papel Toalla Cocina Limppano Toalex 1 un 50 Toallas,Cuidado del Hogar,Limpieza de Cocina
@@ -6889,6 +6895,8 @@ id_producto,producto,categoria,subcategoria
 240546,Lavavajilla Bristar Tutti Frutti 1050 ml,Cuidado del Hogar,Limpieza de Cocina
 240547,LAVAVAJILLAS BRISTAR TUTTI FRUTTI 5000 L,Cuidado del Hogar,Limpieza de Cocina
 240548,LIMPIA ZAPATILLAS TODO BRILLO 150 ML,Cuidado del Hogar,Limpieza de Zapatos
+240550,TOALLA HUMEDA PROBLOCK ALOE 25 UNDS,Cuidado del Bebé,Cuidado del Bebé
+240552,TOALLA HUMEDA PROBLOCK ANTIBACTERIAL 25 UND,Cuidado del Bebé,Cuidado del Bebé
 240553,PACK SERUM HIALURONICO+UV DEF ANTIBRILLO,Cuidado Personal,Cuidado de la Piel
 240554,OMO PVO BLANCO ABSOLUTO 24X360G,Cuidado del Hogar,Limpieza de la Ropa
 240555,OMO PVO BLANCO ABSOLUTO 20X720G,Cuidado del Hogar,Limpieza de la Ropa
@@ -9887,6 +9895,7 @@ id_producto,producto,categoria,subcategoria
 461865,Sopa Instantanea Maruchan Pollo Picante 64 gr,Abarrotes,Básicos
 462003,Lavandina Archer Super 1 L,Cuidado del Hogar,Limpieza de la Ropa
 462195,Vinagre Sakura Uva 1000 cc,Abarrotes,Básicos
+462200,TOALLAS HUMEDAS PROBLOCK ANTIBACTERIAL 10 UNID,Cuidado del Bebé,Cuidado del Bebé
 462233,Vinagre Doña Filo Tinto 500 ml,Abarrotes,Básicos
 462241,Vinagre Sakura Alchohol 1 L,Abarrotes,Básicos
 462250,Vinagre Sakura Alcohol 500 ml,Abarrotes,Básicos
@@ -11944,6 +11953,7 @@ id_producto,producto,categoria,subcategoria
 552773,Pack 12 Cerveza Huari 269 ml,Bebidas,Cervezas
 552774,Chocolate Ceibo Oso Polar 140 gr,Abarrotes,Chocolates y Caramelos
 552775,Pack 3x2 Cerveza Paulander Weissbier 500 ml,Bebidas,Cervezas
+552776,SALSA HUNTS BBQ ORIGINAL 510G,Abarrotes,Aderezos
 552777,GALLETA CRACKER JIRAFA 1 KG,Abarrotes,Galletas
 552778,AJI ROJO DULCE ASOVITA 200G,Abarrotes,Condimentos y Legumbres
 552779,AJI AMARILLO DULCE ASOVITA 200G,Abarrotes,Condimentos y Legumbres
@@ -12947,6 +12957,7 @@ id_producto,producto,categoria,subcategoria
 629703,Pack Salsa Herdez Guacamole 240 gr,Abarrotes,Productos Americanos
 629706,VINAGRE DE SIDRA DE MANZANA BRAGG 946 ML,Abarrotes,Productos Americanos
 629708,ACEITE DE PALTA EN SPRAY CHOSEN AVOPACIFIC 383 GR,Abarrotes,Productos Americanos
+629719,SALSA BARBECUE KRAFT ORIGINAL 3.78 LTS,Abarrotes,Productos Americanos
 629720,PAPEL TOALLA BOUNTY ADVANCED 27.9 X 18 CM,Cuidado del Hogar,Productos Americanos
 629722,Cereal Kelloggs Apple Jack 252 gr,Abarrotes,Productos Americanos
 629723,KELLOGGS CEREAL DE MA¡Z FROOT LOOPS 374 GR,Abarrotes,Productos Americanos
@@ -15410,6 +15421,8 @@ id_producto,producto,categoria,subcategoria
 668998,MAR ANTIBAC KIDS -3PACK 270 GR,Cuidado Personal,Cuidado de la Piel
 668999,MAR COCO ALMENDRA Y VAINILLA  90 GR,Cuidado Personal,Cuidado de la Piel
 669001,CORRECTOR ESSENTIAL NATURAL,Cuidado Personal,Cuidado de la Piel
+669003,COLORISSIMO EXTRA BRILLO COSMOPOLITAN,Cuidado Personal,Cuidado de la Piel
+669004,COLORISSIMO EXTRA BRILLO FIESTA,Cuidado Personal,Cuidado de la Piel
 669005,SHAMPOO ELVIVE 370ML GLYCO GLOSS,Cuidado Personal,Cuidado del Cabello
 669011,KOCOSTAR MASCARILLA CAMELLIA HAPPY MASK,Cuidado Personal,Cuidado de la Piel
 669013,KOCOSTAR MASCARILLA WHITE HAPPY MASK,Cuidado Personal,Cuidado de la Piel
@@ -15422,6 +15435,7 @@ id_producto,producto,categoria,subcategoria
 669037,OLA AROMATIC CEDRON 12X900ML,Cuidado del Hogar,Limpieza de Baños
 669038,OLA AROMATIC CEDRON 6X1.8L,Cuidado del Hogar,Limpieza de Baños
 669039,OLA AROMATIC LAVANDA CREMOS 12X900ML,Cuidado del Hogar,Limpieza de Baños
+669040,OLA AROMATIC FLORAL CREMOSO 2X5L,Cuidado del Hogar,Limpieza de Baños
 669041,OLA AROMATIC FLORAL CREMOSO 6X1.8L,Cuidado del Hogar,Limpieza de Baños
 669042,CREMA HANBEL MILK COCO Y AVENA 500 GR,Cuidado Personal,Cuidado de la Piel
 669044,DOY PACK SH.SELFY CEBOLLA 900 GR.,Cuidado Personal,Cuidado del Cabello
@@ -17497,6 +17511,7 @@ id_producto,producto,categoria,subcategoria
 761486,Huevos Aranjuez Economico Subsidio 18 un,Lácteos y Derivados,Huevos
 761519,Pulpa Congelada Mattafah Surtido 500 gr,Congelados,Pulpas y Frutas Congeladas
 761638,Linguica Queso Azul La Boteca 500 gr,Fiambres,Fiambres Externos
+761659,LINGUIZA PINA CARAMEL LA BOTECA 500 GRS.,Fiambres,Fiambres Externos
 761823,Hamburguesa de Pacu Pacusito kg,Congelados,Carnes Congeladas
 761842,Linguica Calabresa Frascanata La Boteca 500 gr,Fiambres,Fiambres Externos
 762130,Tortillas Mexican Food de Trigo 12 un,Congelados,Masas y Comidas Congeladas
@@ -17585,6 +17600,7 @@ id_producto,producto,categoria,subcategoria
 770972,Salsa Syrup Promos Chocolate 680 gr,Abarrotes,Repostería
 770987,Salsa Syrup Promos Frutilla 624 gr,Abarrotes,Repostería
 771019,Salchicha Viena Chicken Promos 142 gr,Abarrotes,Comidas en Conserva
+771044,Miel Syrup Pancake Promos 709 ml,Abarrotes,Repostería
 771059,Cherries Promos 284 gr,Abarrotes,Frutas en Conserva
 771064,Miel Syrup Pancake Promos Lite 709 ml,Abarrotes,Repostería
 771099,Pepinillo Yacobs Vinagre 820 gr,Abarrotes,Verduras en Conserva
@@ -17778,7 +17794,7 @@ id_producto,producto,categoria,subcategoria
 783478,Mix de Locoto Guaruja 350 gr,Fiambres,Fiambres Externos
 783479,Tocino Feteado Zenteno 100 gr,Fiambres,Fiambres Externos
 783485,Huevo de Codorniz Aceituna Guaruja 400 gr,Fiambres,Fiambres Externos
-783496,CONSERVA PAPAS VINAGRETA GUARUJA 500 GRS.,Fiambres,Fiambres Externos
+783496,Conserva Papa Vinagreta Guaruja 500 gr,Fiambres,Fiambres Externos
 783527,Medallones de Surubi Congelados kg,Congelados,Carnes Congeladas
 783530,Filete de Surubi Congelado kg,Congelados,Carnes Congeladas
 783545,Filete de Paiche Congelado kg,Congelados,Carnes Congeladas
@@ -19179,6 +19195,7 @@ id_producto,producto,categoria,subcategoria
 851961,Peluche Gato Dsfrazado Tiburon,Juguetería Importación,Juguetería Didáctica/Temporada
 851994,Peluche con Bufanda 22 cm,Juguetería Importación,Juguetería Didáctica/Temporada
 852025,Peluche Gato Pequeño 23 cm,Juguetería Importación,Juguetería Didáctica/Temporada
+852059,Marshmallows Guandy Bicolor 255 gr,Abarrotes,Golosinas - Varias
 852067,Peluche Gato Mediano 35 cm,Juguetería Importación,Juguetería Didáctica/Temporada
 852084,Margarina Reyna 425 gr,Lácteos y Derivados,Mantequillas y Margarinas
 852099,Margarina Reyna 215 gr,Lácteos y Derivados,Mantequillas y Margarinas
@@ -19563,6 +19580,7 @@ id_producto,producto,categoria,subcategoria
 868865,Jabonera Rey Huevo,Bazar,Baño General
 868892,CEPILLO CABELLO LISOS CORTOS CONDOR 9672,Bazar,Bijouteria/Cuidado Personal
 869154,Encendedor Ronson Recargable,Bazar,Churrasquería
+869222,JAN MASCARA HALLOWEN  25,Bazar,Temporada Halloween
 869605,JAN CAJA DE REGALO MADRE 20,Bazar,Regalos/Adornos
 869790,Paño Cocina 100% Algodón,Cuidado del Hogar,Productos Americanos
 869826,Cinta Embalaje Izy Trasparente,Bazar,Librería
@@ -19825,6 +19843,7 @@ id_producto,producto,categoria,subcategoria
 887104,BE DEPILADOR 3 EN 1 INTIMO MUJER,Bazar,Electrodoméstico Cuidado Personal
 887425,SARTEN MASALA BRINOX 24X5,Bazar,Articulos de Cocina
 887429,TERMO REVOLUTION 1LT TERMOLAR CAFE,Bazar,Articulos de Cocina
+887574,JAN VINCHAS HALLOWEN 25,Bazar,Temporada Halloween
 887711,Jugo de Naranja 1 L,Frutas y Verduras,Ofertas Especiales
 887763,SILICONA STP SON OF GUN GATILLO 595ML,Bazar,Automotriz
 887778,Esponja BomBrill Antiadherente 1 un,Cuidado del Hogar,Accesorios del Hogar
@@ -19915,6 +19934,7 @@ id_producto,producto,categoria,subcategoria
 898661,SHAMPOO ALOE VERA CAT ZONE 300ML,Bazar,Mascotas General
 898704,ECI BARBIJOS CAJA X40UND,Bazar,Bioseguridad
 898718,Pintura Carnavalera Alegria Spray Rosado 150 ml,Bazar,Temporada Carnaval
+898720,PINTURA SPRAY VERDE ALEGRIA .150ML,Bazar,Cotillón
 898722,Pintura Spray Azul Alegria 150 ml,Bazar,Cotillón
 898737,AUDIFONO  GAMER GH 100 HUAVI,Bazar,Computadora/Cámara/Filmadora y Accesorio
 898790,Audifono Huavi E03 Stereo para Celular,Bazar,Computadora/Cámara/Filmadora y Accesorio
