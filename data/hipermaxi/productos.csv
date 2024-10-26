@@ -471,6 +471,7 @@ id_producto,producto,categoria,subcategoria
 13720,Caramelo Nerds Rainbow Video 141.7 gr,Abarrotes,Chocolates y Caramelos
 13749,Huevos Jars de Codorniz 50 un,Lácteos y Derivados,Huevos
 13757,Huevos Jars de Codorniz 20 un,Lácteos y Derivados,Huevos
+14003,Te Helado Amate Clasico Durazno 500 ml,Bebidas,Bebidas Varias
 14011,Gaseosa Fanta Limon 2 L,Bebidas,Gaseosas
 14012,Pack Whisky Johnnie Walker Icon Black 1 L + Vaso High,Bebidas,Licores
 14013,Vino Campos de Solana Tannat Marselan 750 ml,Bebidas,Vinos y Champagne
@@ -1419,8 +1420,10 @@ id_producto,producto,categoria,subcategoria
 26001,SALSA D TOMATE KRIS DP 200G,Abarrotes,Salsas y Extracto de Tomate
 26002,SALSA KRIS P PIZZA DP 200G,Abarrotes,Salsas y Extracto de Tomate
 26018,Mani Charito Confitado 160 gr,Abarrotes,Snack
+26022,GALLETA COFLER RELLENA BONOBON 85G,Abarrotes,Galletas
 26874,Whisky Johnnie Walker 18 Años 750 ml,Bebidas,Licores
 27100,MASMELOS TRULULU FRANKI BSA 50G,Abarrotes,Golosinas - Varias
+27102,CHOCOLATE BIANCHI CHOCO MANI BSA 50G,Abarrotes,Golosinas - Varias
 27106,GALLETA PIT STOP CEREAL INTEGRAL 142G,Abarrotes,Galletas
 27110,Galleta Frac Clasica 132 gr,Abarrotes,Galletas
 27918,Fideo Matarazzo Tirabuzon 500 gr,Abarrotes,Básicos
@@ -1507,6 +1510,8 @@ id_producto,producto,categoria,subcategoria
 29139,VINAGRE JE D MANZANA CURCUMA 1LT,Abarrotes,Dietéticos y Saludables
 29140,BEBIDA CRAZY SUNSET GOLD LTA 473ML,Bebidas,Licores
 29141,BEBIDA CRAZY BERRIES LTA 473ML,Bebidas,Licores
+29153,LIMONADA L CABANA CERO AZUC 1LT,Bebidas,Gaseosas
+29155,GASEOSA L CABANA PAPAYA CERO 1LT,Bebidas,Gaseosas
 29246,Servilletas Elite Coctel 50 un,Cuidado Personal,Cuidado Familiar
 29254,Pañuelo Facial Familia Triple Hoja 50 un,Cuidado Personal,Cuidado Familiar
 29799,Cerveza Potosina Light 350 ml,Bebidas,Cervezas
@@ -3663,6 +3668,7 @@ id_producto,producto,categoria,subcategoria
 105963,Limpiador de Baño Surf Original 900 ml,Cuidado del Hogar,Limpieza de Baños
 105965,Limpiador de Vidrio Surf Multiuso Gatillo 900 ml,Cuidado del Hogar,Limpieza de Living y Ropero
 106010,Pack Desodorante Aerosol Deo Pies Antibacterial 2 un,Cuidado Personal,Cuidado de la Piel
+106011,Pack Desodorante Aerosol Deo Pies Clinical 2 un,Cuidado Personal,Cuidado de la Piel
 106012,Pack Desodorante Aerosol Deo Pies Extreme 2 un,Cuidado Personal,Cuidado de la Piel
 106013,Pack Desodorante Aerosol Deo Pies Antitraspirante 2 un,Cuidado Personal,Cuidado de la Piel
 106014,Pack Desodorante Aerosol Deo Pies Recamier Mujer 2 un,Cuidado Personal,Cuidado de la Piel
@@ -5000,6 +5006,7 @@ id_producto,producto,categoria,subcategoria
 123334,Tomate Secos B&R Aceite Girasol 195 gr,Abarrotes,Verduras en Conserva
 123405,Caramelo Ring Pop Surtido 20 oz,Abarrotes,Productos Americanos
 123418,Jugo Aloe Vera Okf Original 240 ml,Bebidas,Bebidas Varias
+123419,JUGO OKF ALOE KING MANGO LTA 240 ML,Bebidas,Bebidas Varias
 123489,Barra Cereal En Linea Crema Avellana 120,Abarrotes,Nutrición Infantil
 123491,Mermelada En Linea Frutilla 320 gr,Abarrotes,Dietéticos y Saludables
 123492,Mermelada En Linea Frambuesa 320 gr,Abarrotes,Dietéticos y Saludables
@@ -5339,10 +5346,13 @@ id_producto,producto,categoria,subcategoria
 155763,Protectores Diarios Dmujer Anatomico 15 un,Cuidado Personal,Cuidado Familiar
 155764,Protectores Diarios Dmujer Plegadiza 60 un,Cuidado Personal,Cuidado Familiar
 155765,Protectores Diarios Dmujer Plegadiza 180 un,Cuidado Personal,Cuidado Familiar
+155766,Toallas Higienicas Dmujer Nocturna 8 un,Cuidado Personal,Cuidado Familiar
 155768,Toallas Higienicas Delgada Dmujer 10 un,Cuidado Personal,Cuidado Familiar
+155769,Toallas Higienicas Dmujer Delgada 16 un,Cuidado Personal,Cuidado Familiar
 155770,Toallas Higienicas Dmujer Anatomica 10 un,Cuidado Personal,Cuidado Familiar
 155771,Toallas Higienicas Dmujer Delgada Malla 8 un,Cuidado Personal,Cuidado Familiar
 155773,Protectores Diarios Dmujer Anatomico 15 un,Cuidado Personal,Cuidado Familiar
+155774,Toallas Higienicas Dmujer Ultra Dia Noche 8 un,Cuidado Personal,Cuidado Familiar
 155779,Lavavajilla Resplandor Limon 1100 ml,Cuidado del Hogar,Limpieza de Cocina
 155782,Limpiador Sacagrasa Resplandor Recarga 940 ml,Cuidado del Hogar,Limpieza de Cocina
 155786,Limpiador de Baño Resplandor 940 ml,Cuidado del Hogar,Limpieza de Baños
@@ -6419,6 +6429,7 @@ id_producto,producto,categoria,subcategoria
 223893,Set Balde Hude Eco 10 L,Cuidado del Hogar,Accesorios del Hogar
 223894,Set Balde Hude Tatay 17 L,Cuidado del Hogar,Accesorios del Hogar
 223895,Set Balde Hude Perico 13 L,Cuidado del Hogar,Accesorios del Hogar
+223897,Jalador de Agua Hude 44 cm,Cuidado del Hogar,Accesorios del Hogar
 223898,Jabon Barra Mar Humect Temtatin 90 gr,Cuidado Personal,Cuidado de la Piel
 223899,Jabon Barra Mar Humect Vainilla 90 gr,Cuidado Personal,Cuidado de la Piel
 223900,Jabon Barra Mar Almendra 125 gr,Cuidado Personal,Cuidado de la Piel
@@ -6501,7 +6512,9 @@ id_producto,producto,categoria,subcategoria
 224016,Absorventes de Senos Cremer 12 un,Cuidado Personal,Cuidado del Adulto
 224017,Algodon Cremer Disco 100 un,Cuidado Personal,Cuidado de la Piel
 224019,Pack Shampoo Elvive Reparacion Total 5 370 ml + Acondicionador 370 ml,Cuidado Personal,Cuidado del Cabello
+224020,Pack Shampoo Elvive Caida Resistente 370 ml + Acondicionador 370 ml,Cuidado Personal,Cuidado del Cabello
 224021,Pack Shampoo Elvive Colorvive 370 ml + Acondicionador 370 ml,Cuidado Personal,Cuidado del Cabello
+224023,Pack Shampoo Elvive Dream Long 370 ml + Acondicionador 370 ml,Cuidado Personal,Cuidado del Cabello
 224026,Papel Higienico Qualite Doble Hoja 32 un,Cuidado Personal,Cuidado Familiar
 224029,Toallas Higienicas Lady Free Nocturna Tela 10 un,Cuidado Personal,Cuidado Familiar
 224031,Toallas Higienicas Lady Free Ultra Delgada Aloe,Cuidado Personal,Cuidado Familiar
@@ -6911,6 +6924,7 @@ id_producto,producto,categoria,subcategoria
 240566,Refresco Bc Naranja 7 gr,Bebidas,Refrescos en Polvo
 240573,Refresco Arcor Multifruta 18 gr,Bebidas,Refrescos en Polvo
 240574,Refresco Arcor Manzana 20 gr,Bebidas,Refrescos en Polvo
+240584,PANAL BABU POMPIGLOS XXG 40 UNDS,Cuidado del Bebé,Pañales
 240585,PACK DOVE ROL ON CALENDULA BK 6X2X50ML,Cuidado Personal,Cuidado de la Piel
 240586,PACK DOVE ROL ON ROSAS BK 6X2X50ML,Cuidado Personal,Cuidado de la Piel
 240587,PACK DOVE ROL ON CUIDADO BK 6X2X50ML,Cuidado Personal,Cuidado de la Piel
@@ -9906,6 +9920,7 @@ id_producto,producto,categoria,subcategoria
 461865,Sopa Instantanea Maruchan Pollo Picante 64 gr,Abarrotes,Básicos
 462003,Lavandina Archer Super 1 L,Cuidado del Hogar,Limpieza de la Ropa
 462193,TOALLA HUMEDA PROBLOCK BABY WIPES 100 UNID,Cuidado del Bebé,Cuidado del Bebé
+462194,TOALLAS HUMEDAS PROBLOCK BABY WIPES 50 UNID,Cuidado del Bebé,Cuidado del Bebé
 462195,Vinagre Sakura Uva 1000 cc,Abarrotes,Básicos
 462196,TOALLA HUMEDA PROBLOCK ALOE 100 UNID,Cuidado del Bebé,Cuidado del Bebé
 462197,TOALLAS HUMEDAS PROBLOCK ALOE 50 UNID,Cuidado del Bebé,Cuidado del Bebé
@@ -12009,6 +12024,7 @@ id_producto,producto,categoria,subcategoria
 552848,PACK 12 HUARI LAGER LTA 440 ML,Bebidas,Cervezas
 552849,GASEOSA ORIENTAL NARANJA 3LT,Bebidas,Gaseosas
 552859,BOMBON SURT LINDT LINDOR ESTUCHE 137 GR,Abarrotes,Chocolates y Caramelos
+552860,GASEOSA RITZ NARANJA PINA 355 ML,Bebidas,Bebidas Usa
 554333,Cerveza Paceña Lata Roja 473 Cc,Bebidas,Cervezas
 554466,Detergente Liquido Ola Futuro Limpieza Completa 5 L,Cuidado del Hogar,Limpieza de la Ropa
 554468,Suavizante Ropa Ola Suavecito Original 5 L,Cuidado del Hogar,Limpieza de la Ropa
@@ -14351,6 +14367,7 @@ id_producto,producto,categoria,subcategoria
 658747,Fideo Bio XXI Multigrano Spaguetti 480 gr,Abarrotes,Dietéticos y Saludables
 658748,Cereal Bio XXI Arroz Quinua Miel 250 gr,Abarrotes,Nutrición Infantil
 658749,Fideo Bio XXI Kids Barba Azul 250 gr,Abarrotes,Básicos
+658757,Pack Gin Republica Amazonico + 2 Vasos,Bebidas,Licores
 658758,Pack Gin Republica Andina + Vasos,Bebidas,Licores
 658762,Chocolate M&M Dark Peanut 286.3 gr,Abarrotes,Chocolates y Caramelos
 658763,Chocolate M&M Dark 286 gr,Abarrotes,Chocolates y Caramelos
@@ -15115,6 +15132,7 @@ id_producto,producto,categoria,subcategoria
 668118,Servilletas Hogar Exclusiva 50 un,Cuidado Personal,Cuidado Familiar
 668120,Enjuegue Bucal Listerine Anticaries 500 ml,Cuidado Personal,Cuidado Bucal
 668121,Papel Higienico Sulino 4 un,Cuidado Personal,Cuidado Familiar
+668124,Pack Elvive Shampoo Hidrahialuronico 370 ml + Acondicionador 370 ml,Cuidado Personal,Cuidado del Cabello
 668125,Lavavajilla Archer Limon Verde 1050 ml,Cuidado del Hogar,Limpieza de Cocina
 668130,Cera Liquida Ola Flotante 930 ml,Cuidado del Hogar,Limpieza de Living y Ropero
 668131,Cera Liquida Ola Neutra 930 ml,Cuidado del Hogar,Limpieza de Living y Ropero
@@ -15341,6 +15359,7 @@ id_producto,producto,categoria,subcategoria
 668746,Kit Santiago Limpieza de Zapatilla,Cuidado del Hogar,Limpieza de Zapatos
 668747,Gel de Baño Carla Lorena Frutilla 350 ml,Cuidado Personal,Cuidado de la Piel
 668748,Gel de Baño Carla Lorena Avena 350 ml,Cuidado Personal,Cuidado de la Piel
+668752,EVOLUDERM WIPES AGUA MICELAR 25 PZAS,Cuidado Personal,Cuidado del Adulto
 668753,Detergente Liquido Uno Limon 3.6 L,Cuidado del Hogar,Limpieza de la Ropa
 668754,TRIPACK AMBIENTADOR ST TOTES 3 X 360 ML,Cuidado del Hogar,Limpieza de Living y Ropero
 668764,Shampoo Elvive Dream Long 370 ml,Cuidado Personal,Cuidado del Cabello
@@ -16635,6 +16654,7 @@ id_producto,producto,categoria,subcategoria
 673926,ARROLLADO DE QUESO CON ARANDANOS LA MERCED UNI,Lácteos y Derivados,Quesos
 673927,ARROLLADO DE QUESO CON NUEZ LA MERCED UNI,Lácteos y Derivados,Quesos
 673944,VITA GELIC LIGHT 120 GRS OVOPLUS,Lácteos y Derivados,Postres
+673945,Paneton Donofrio Chocoton 450 gr,Panadería,Panadería Externa
 673946,Paneton Donofrio 880 gr,Panadería,Panadería Externa
 673947,Queso Mozzarella Las Delicias kg,Lácteos y Derivados,Quesos
 673948,Paneton Bauducco Mini 80 gr,Panadería,Panadería Externa
@@ -17881,6 +17901,7 @@ id_producto,producto,categoria,subcategoria
 784314,Helado Arcor Cofler Dulce de Leche 250 gr,Congelados,"Helados, Cassattas y Picoleses"
 784321,Helado Arcor Cono Crema Americana Chocolate 90 gr,Congelados,"Helados, Cassattas y Picoleses"
 784336,Helado Arcor Cono Crema Americana 90 gr,Congelados,"Helados, Cassattas y Picoleses"
+784350,Tocineta de Cerdo Sofia kg,Fiambres,Fiambres Externos
 784359,Mortadela Jamonada Premium La Sierra kg,Fiambres,Fiambres Externos
 784361,Lomo de Cerdo Ahumado La Sierra 180 gr,Fiambres,Fiambres Externos
 784371,Helado Arcor Aguila Granizada 250 gr,Congelados,"Helados, Cassattas y Picoleses"
