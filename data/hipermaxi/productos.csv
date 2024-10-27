@@ -396,6 +396,7 @@ id_producto,producto,categoria,subcategoria
 9040,Singani Rujero Mezclador 750 ml,Bebidas,Licores
 9045,Agua Tonica Doña Maria Original 215 ml,Bebidas,Aguas
 9046,Fideo La Suprema Caracol 400 gr,Abarrotes,Básicos
+9047,Fideo La Suprema Corbata 400 gr,Abarrotes,Básicos
 9049,Fideo La Suprema Canuto 400 gr,Abarrotes,Básicos
 9050,Fideo La Suprema Codo Mediano 400 gr,Abarrotes,Básicos
 9051,Fideo La Suprema Gusanito 400 gr,Abarrotes,Básicos
@@ -1419,6 +1420,7 @@ id_producto,producto,categoria,subcategoria
 26000,Habas Charito Frita 160 gr,Abarrotes,Snack
 26001,SALSA D TOMATE KRIS DP 200G,Abarrotes,Salsas y Extracto de Tomate
 26002,SALSA KRIS P PIZZA DP 200G,Abarrotes,Salsas y Extracto de Tomate
+26013,"PACK 2CHOCOLATE MYM PLAIN 47,9G",Abarrotes,Golosinas - Varias
 26018,Mani Charito Confitado 160 gr,Abarrotes,Snack
 26022,GALLETA COFLER RELLENA BONOBON 85G,Abarrotes,Galletas
 26874,Whisky Johnnie Walker 18 Años 750 ml,Bebidas,Licores
@@ -1511,6 +1513,7 @@ id_producto,producto,categoria,subcategoria
 29140,BEBIDA CRAZY SUNSET GOLD LTA 473ML,Bebidas,Licores
 29141,BEBIDA CRAZY BERRIES LTA 473ML,Bebidas,Licores
 29153,LIMONADA L CABANA CERO AZUC 1LT,Bebidas,Gaseosas
+29154,GASEOSA L CABANA PAPAYA PET 1LT,Bebidas,Gaseosas
 29155,GASEOSA L CABANA PAPAYA CERO 1LT,Bebidas,Gaseosas
 29246,Servilletas Elite Coctel 50 un,Cuidado Personal,Cuidado Familiar
 29254,Pañuelo Facial Familia Triple Hoja 50 un,Cuidado Personal,Cuidado Familiar
@@ -1666,6 +1669,7 @@ id_producto,producto,categoria,subcategoria
 30461,Cereal En Linea Relleno de Chocolate 360 gr,Abarrotes,Dietéticos y Saludables
 30463,Cafe En Linea Capuccino 104 gr,Abarrotes,Dietéticos y Saludables
 30465,JARABE SYRUP P PANCAKE PROMOS ORIG 24 OZ,Abarrotes,Repostería
+30470,Mayonesa Real 1000 cm,Abarrotes,Aderezos
 30472,Salsa Kris Golf 200 cm,Abarrotes,Aderezos
 30473,Jugo La Granja Durazno 2 L,Bebidas,"Jugos, Néctar"
 30474,Jugo La Granja Manzana 2 L,Bebidas,"Jugos, Néctar"
@@ -2009,6 +2013,7 @@ id_producto,producto,categoria,subcategoria
 30948,Isotonico Revive Frutiponch 600 ml,Bebidas,Isotónicos
 30950,Yerba Mate Pajarito Tradicional 20 Sobres,Abarrotes,Café y Sucedáneos
 30951,CHUPETE PIN POP PINTALENGUA BSA 500G,Abarrotes,Chocolates y Caramelos
+30952,TE MANDALA TROPICAL PUNCH 473ML,Bebidas,Bebidas Varias
 30955,Vape Waka Nova Sour Blueberry 16000 Puffs,Bebidas,Cigarrillos
 30956,Vape Waka Nova Passion Fruit 16000 Puffs,Bebidas,Cigarrillos
 30961,Licor Mexica Tequila Sal Limon 700 ml,Bebidas,Licores
@@ -2488,6 +2493,7 @@ id_producto,producto,categoria,subcategoria
 40002,Sal Marina Carmencita Mediterraneo 115 gr,Abarrotes,Básicos
 40010,Sal Carmencita Sana 0 Sodio 100 gr,Abarrotes,Básicos
 40011,Sal Carmencita Sana Licht 50% Sodio 250 gr,Abarrotes,Básicos
+40467,Ketchup Real 500 gr,Abarrotes,Aderezos
 40470,Mantequilla de Mani Promos Peanut Butter 28 oz,Abarrotes,Repostería
 41516,Edulcorante  Equal Sucralosa 200 un,Abarrotes,Dietéticos y Saludables
 41717,Salsa Carozzi Pomarola Casera 200 gr,Abarrotes,Salsas y Extracto de Tomate
@@ -5042,12 +5048,14 @@ id_producto,producto,categoria,subcategoria
 128317,Bombon Bel Surtidos 180 gr,Abarrotes,Chocolates y Caramelos
 128538,Tinte Excellence Tono 8.11 Rubio Claro Cenizo Profundo,Cuidado Personal,Cuidado del Cabello
 129240,Galleta Francesa Pancrek Grande 190 gr,Abarrotes,Galletas
+129275,Galleta Francesa Pancrek 1 kg,Abarrotes,Galletas
 129283,Galleta Francesa Festival Grande 165 gr,Abarrotes,Galletas
 129348,Galleta Francesa Sucrema 180 gr,Abarrotes,Galletas
 129356,Suavizante Ropa Urca Brisa 2 L,Cuidado del Hogar,Limpieza de la Ropa
 129364,Suavizante Ropa Urca Floral 2 L,Cuidado del Hogar,Limpieza de la Ropa
 129380,GALLETA FRANCESA NEVADITAS MINI 80 GR,Abarrotes,Galletas
 129399,GALLETA FRANCESA PARISINA 100 GR,Abarrotes,Galletas
+129429,Galleta Francesa Chamberry 170 gr,Abarrotes,Galletas
 129453,Suavizante Ropa Urca Seductora 2 L,Cuidado del Hogar,Limpieza de la Ropa
 129461,Galleta Francesa Salvado 250 gr,Abarrotes,Galletas
 129470,Galleta Francesa Caricia 170 gr,Abarrotes,Galletas
@@ -6672,7 +6680,7 @@ id_producto,producto,categoria,subcategoria
 227172,Acondicionador Pantene Keratina 250 ml,Cuidado Personal,Cuidado del Cabello
 227173,PACK SUAVISANTE Y DETERGENTE LIQUIDO GIG,Cuidado del Hogar,Limpieza de la Ropa
 227174,Lavavajilla Pulpin Limocitron 500 ml,Cuidado del Hogar,Limpieza de Cocina
-227176,LAVAVAJILLAS LIMOCITRON PULPIN  5L,Cuidado del Hogar,Limpieza de Cocina
+227176,Lavavajilla Pulpin Limoncitron 5 L,Cuidado del Hogar,Limpieza de Cocina
 227177,Salsa Chimichurri Santa Helena con Oliva 303 ml,Abarrotes,Condimentos y Legumbres
 227178,Vino Los Haroldos Blend 750 ml,Bebidas,Vinos y Champagne
 227179,Lavavajilla Pulpin Limocitron 1050 ml,Cuidado del Hogar,Limpieza de Cocina
@@ -6924,6 +6932,7 @@ id_producto,producto,categoria,subcategoria
 240566,Refresco Bc Naranja 7 gr,Bebidas,Refrescos en Polvo
 240573,Refresco Arcor Multifruta 18 gr,Bebidas,Refrescos en Polvo
 240574,Refresco Arcor Manzana 20 gr,Bebidas,Refrescos en Polvo
+240582,PANAL BABU POMPIGLOS XG 40 UNDS,Cuidado del Bebé,Pañales
 240584,PANAL BABU POMPIGLOS XXG 40 UNDS,Cuidado del Bebé,Pañales
 240585,PACK DOVE ROL ON CALENDULA BK 6X2X50ML,Cuidado Personal,Cuidado de la Piel
 240586,PACK DOVE ROL ON ROSAS BK 6X2X50ML,Cuidado Personal,Cuidado de la Piel
@@ -6935,6 +6944,7 @@ id_producto,producto,categoria,subcategoria
 240624,SHAMPOO REVIVE ACEITE CUSI 340ML,Cuidado Personal,Cuidado del Cabello
 240625,ACOND. REVIVE ACEITE DE CUSI 340ML POTE,Cuidado Personal,Cuidado del Cabello
 240632,TOALLA NOSOTRAS LARGA TELA 24X8,Cuidado Personal,Cuidado Familiar
+240640,PACK  SH 370ML + ACO 370ML AMINEXIL,Cuidado Personal,Cuidado del Cabello
 240778,Cereal En Linea Kids 330 gr,Abarrotes,Nutrición Infantil
 240850,Sal El Salerito de Mesa 130 gr,Abarrotes,Básicos
 240890,My Toffee Coco 600 gr,Abarrotes,Chocolates y Caramelos
@@ -12016,6 +12026,7 @@ id_producto,producto,categoria,subcategoria
 552805,PACK PAULANER 2 OKTOBERF VASO 1L 3POSAV,Bebidas,Cervezas
 552806,PACK 3X2 HUEVO ROLON X 10 UNID,Lácteos y Derivados,Huevos
 552807,PACK 2 GOMITA FRUGELE 1CALABAZA,Abarrotes,Temporada
+552808,LICOR CITRICUS LIMONCELLO  700 ML,Bebidas,Licores
 552812,PETIT SUISSE TIKI TITO PLATANO 50GRS,Lácteos y Derivados,Yogures
 552814,GALLETA  L SUPREMA AVENA MIEL CANELA 120,Abarrotes,Galletas
 552836,PACK 3X2 HUEVO MRM X 6 UNID,Lácteos y Derivados,Huevos
@@ -13637,6 +13648,7 @@ id_producto,producto,categoria,subcategoria
 654636,Cera Liquida Archer Roja Autobrillo 1 L,Cuidado del Hogar,Limpieza de Living y Ropero
 654637,Desodorante Aerosol Rexona Men Xtracool 150 ml,Cuidado Personal,Cuidado de la Piel
 654641,Crema Corporal St Ives Avena Karite 532 ml,Cuidado Personal,Cuidado de la Piel
+654648,Cera Autobrillo Archer Neutra 5 L,Cuidado del Hogar,Limpieza de Living y Ropero
 654650,Cera Autobrillo Archer Roja 5 L,Cuidado del Hogar,Limpieza de Living y Ropero
 654672,Acondicionador Herbal Essences Prolongado 670 ml,Cuidado Personal,Cuidado del Cabello
 654676,Shampoo Herbal Essences Prolongado 700 ml,Cuidado Personal,Cuidado del Cabello
@@ -14058,6 +14070,7 @@ id_producto,producto,categoria,subcategoria
 657237,Aderezo McCormick Taco Original,Abarrotes,Productos Americanos
 657245,Pimienta Pure Ground Black McCormick 42 gr,Abarrotes,Condimentos y Legumbres
 657247,Sazonador McCormick Whole Black Pepper 0.62 oz,Abarrotes,Condimentos y Legumbres
+657248,Condimento McCormick Basil Leaves 17 GR,Abarrotes,Condimentos y Legumbres
 657271,Barras D Cereal Irupana Choco Amara Aven,Abarrotes,Nutrición Infantil
 657273,Cheesito Fiesta 245 gr,Abarrotes,Snack
 657275,Barra Cereal Ajonjoli Pasas 12 un,Abarrotes,Nutrición Infantil
@@ -15485,6 +15498,7 @@ id_producto,producto,categoria,subcategoria
 669042,CREMA HANBEL MILK COCO Y AVENA 500 GR,Cuidado Personal,Cuidado de la Piel
 669044,DOY PACK SH.SELFY CEBOLLA 900 GR.,Cuidado Personal,Cuidado del Cabello
 669045,CREMA HANBEL MILK ALOE VERA 500 GR,Cuidado Personal,Cuidado de la Piel
+669046,CREMA HANBEL MILK NIÑAS 500 GR,Cuidado del Bebé,Kids
 669047,CREMA HANBEL MILK ASAI & PANTENOL 500 GR,Cuidado Personal,Cuidado de la Piel
 669048,PACK HERBAL ESS SH TE VERDE400ML + AC DE,Cuidado Personal,Cuidado del Cabello
 669049,GUANTE NEGRO EXTRA GRUESO7 1/2; 8; 8 1/2,Cuidado del Hogar,Accesorios del Hogar
@@ -20149,6 +20163,7 @@ id_producto,producto,categoria,subcategoria
 917731,Portaretrato,Bazar,Living y Dormitorio
 917931,TRAVA PARA PORTA VIDRIO JOY 92400,Bazar,Living y Dormitorio
 918221,FRI MANILLAS DE DAMA BS 25,Bazar,Bijouteria/Cuidado Personal
+918833,Porta Salsas 600 ml,Bazar,Menaje Plástico
 919316,SILICONA GATILLO AMORALL ORIGINAL 473ML,Bazar,Automotriz
 919317,SILICONA SPRAY AMORALL 12X295ML,Bazar,Automotriz
 919384,Batidora Black Decker con Bowl,Bazar,Electrodoméstico/Línea Blanca-Hogar
