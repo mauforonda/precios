@@ -1059,6 +1059,7 @@ id_producto,producto,categoria,subcategoria
 17490,Frutos Secos Porvenir Mix 170 gr,Abarrotes,Snack
 17501,Cerveza Paceña Pilsener Lata 269 ml,Bebidas,Cervezas
 17504,Galleta Costa Gran Cereal Vainilla 110 gr,Abarrotes,Galletas
+17516,Choclo Cajamar Conserva 2.6 kg,Abarrotes,Verduras en Conserva
 17521,Atun A1 Gratedd Anchoveta en Aceite 170 gr,Abarrotes,Comidas en Conserva
 17523,Atun A1 Trozos en Aceite 140 gr,Abarrotes,Comidas en Conserva
 17524,Atun A1 Filete en Aceite Vegetal 170 gr,Abarrotes,Comidas en Conserva
@@ -1114,6 +1115,7 @@ id_producto,producto,categoria,subcategoria
 17652,Barra Quinua Chocolate Chia Almendra 30 gr,Abarrotes,Nutrición Infantil
 17653,Barra Quinua Chocolate Blanco Chia 30 gr,Abarrotes,Nutrición Infantil
 17654,Barra Quinua Mix 30 gr,Abarrotes,Nutrición Infantil
+17668,VINO DONA VITA CHOLERO TINTO 750 ML,Bebidas,Vinos y Champagne
 17676,Chocolate Cofler Block Relleno Untable 290 gr,Abarrotes,Repostería
 17677,Gomita Mogul Ositos 500 gr,Abarrotes,Golosinas - Varias
 17678,Galleta Cofler Block Oblea 45 gr,Abarrotes,Golosinas - Varias
@@ -1339,6 +1341,7 @@ id_producto,producto,categoria,subcategoria
 19827,Sidra Cereser Morango Sin Alcohol 660 ml,Bebidas,Vinos y Champagne
 20246,Te Nutrinat Bio Slim 14 Sobres,Abarrotes,Dietéticos y Saludables
 20487,Vinagre Doña Filo Manzana 750 ml,Abarrotes,Básicos
+20488,VINO TRAPICHE SV MALBEC AMBROSIA 750 ML,Bebidas,Vinos y Champagne
 20489,Vino Trapiche Gran Medalla Malbec 750 ml,Bebidas,Vinos y Champagne
 20659,Sal American Spice Parrillera 32 oz,Abarrotes,Básicos
 20781,Fideo Sanoryza de Arroz sin Gluten 300 gr,Abarrotes,Productos Americanos
@@ -1420,6 +1423,8 @@ id_producto,producto,categoria,subcategoria
 26000,Habas Charito Frita 160 gr,Abarrotes,Snack
 26001,SALSA D TOMATE KRIS DP 200G,Abarrotes,Salsas y Extracto de Tomate
 26002,SALSA KRIS P PIZZA DP 200G,Abarrotes,Salsas y Extracto de Tomate
+26011,AGUA TONICA LA CABANA PET 1LT,Bebidas,Aguas
+26012,AGUA TONICA LA CABANA CERO 1LT,Bebidas,Aguas
 26013,"PACK 2CHOCOLATE MYM PLAIN 47,9G",Abarrotes,Golosinas - Varias
 26018,Mani Charito Confitado 160 gr,Abarrotes,Snack
 26022,GALLETA COFLER RELLENA BONOBON 85G,Abarrotes,Galletas
@@ -1670,6 +1675,7 @@ id_producto,producto,categoria,subcategoria
 30463,Cafe En Linea Capuccino 104 gr,Abarrotes,Dietéticos y Saludables
 30465,JARABE SYRUP P PANCAKE PROMOS ORIG 24 OZ,Abarrotes,Repostería
 30470,Mayonesa Real 1000 cm,Abarrotes,Aderezos
+30471,Ketchup Real 1000 gr,Abarrotes,Aderezos
 30472,Salsa Kris Golf 200 cm,Abarrotes,Aderezos
 30473,Jugo La Granja Durazno 2 L,Bebidas,"Jugos, Néctar"
 30474,Jugo La Granja Manzana 2 L,Bebidas,"Jugos, Néctar"
@@ -6944,7 +6950,10 @@ id_producto,producto,categoria,subcategoria
 240624,SHAMPOO REVIVE ACEITE CUSI 340ML,Cuidado Personal,Cuidado del Cabello
 240625,ACOND. REVIVE ACEITE DE CUSI 340ML POTE,Cuidado Personal,Cuidado del Cabello
 240632,TOALLA NOSOTRAS LARGA TELA 24X8,Cuidado Personal,Cuidado Familiar
+240639,TRATAMINTO CAPILAR ELVIVE SERUM  102 ML,Cuidado Personal,Cuidado del Cabello
 240640,PACK  SH 370ML + ACO 370ML AMINEXIL,Cuidado Personal,Cuidado del Cabello
+240641,TRI PACK KOTEX PURE UF TELA X10,Cuidado Personal,Cuidado Familiar
+240642,PACK 2 KOTEX NOCTURA TELA X8,Cuidado Personal,Cuidado Familiar
 240778,Cereal En Linea Kids 330 gr,Abarrotes,Nutrición Infantil
 240850,Sal El Salerito de Mesa 130 gr,Abarrotes,Básicos
 240890,My Toffee Coco 600 gr,Abarrotes,Chocolates y Caramelos
@@ -9794,6 +9803,7 @@ id_producto,producto,categoria,subcategoria
 451967,Refresco Zuko Frambuesa 20 gr,Bebidas,Refrescos en Polvo
 452144,Cepillo Dental Foramen Xtreme Junior Medio 1 un,Cuidado Personal,Cuidado Bucal
 452147,Silka Medic Pie Atleta x 15 gr,Farmacia Éticos,Dermatológicos
+452291,BATON ORIGINAL X UND  COD FARMA,Abarrotes,Temporada
 452612,Shampoo Tio Nacho Herbolaria Milar 2 un 415 ml,Cuidado Personal,Cuidado del Cabello
 452613,Acondicionador Tio Nacho Aclarante 415 ml,Cuidado Personal,Cuidado del Cabello
 452614,Shampoo Tio Nacho Anticanas 415 ml,Cuidado Personal,Cuidado del Cabello
@@ -11557,6 +11567,7 @@ id_producto,producto,categoria,subcategoria
 551995,PIPOCA LA ESTRELLA 80GR,Abarrotes,Snack
 551998,CHOCOLATE BREICK TANTA WAWITA CJA 75G,Abarrotes,Temporada
 551999,CHOCOLATE BREICK CALAVERA PINTADA 100 GR,Abarrotes,Temporada
+552000,CHOCOLATE BREICK ESCALERITA CJA 75 GR,Abarrotes,Temporada
 552004,Pack Gin Beefeater 700 ml + Copa,Bebidas,Licores
 552006,Papa Luka Clasica Picante 75 gr,Abarrotes,Snack
 552007,Jugo Soy Manzana 1 L,Bebidas,"Jugos, Néctar"
@@ -12034,6 +12045,7 @@ id_producto,producto,categoria,subcategoria
 552847,GALLETAS COMI PET PECHUGA DE POLLO 250 G,Abarrotes,Mascotas
 552848,PACK 12 HUARI LAGER LTA 440 ML,Bebidas,Cervezas
 552849,GASEOSA ORIENTAL NARANJA 3LT,Bebidas,Gaseosas
+552853,RON CARTA BLANCA CAPITAN CORTEZ 965 ML,Bebidas,Licores
 552859,BOMBON SURT LINDT LINDOR ESTUCHE 137 GR,Abarrotes,Chocolates y Caramelos
 552860,GASEOSA RITZ NARANJA PINA 355 ML,Bebidas,Bebidas Usa
 554333,Cerveza Paceña Lata Roja 473 Cc,Bebidas,Cervezas
@@ -15502,6 +15514,7 @@ id_producto,producto,categoria,subcategoria
 669047,CREMA HANBEL MILK ASAI & PANTENOL 500 GR,Cuidado Personal,Cuidado de la Piel
 669048,PACK HERBAL ESS SH TE VERDE400ML + AC DE,Cuidado Personal,Cuidado del Cabello
 669049,GUANTE NEGRO EXTRA GRUESO7 1/2; 8; 8 1/2,Cuidado del Hogar,Accesorios del Hogar
+669069,GLADE TOQUE RP MAÑANA DE CAMPO 12ML,Cuidado del Hogar,Limpieza de Living y Ropero
 669901,Pizza Hipermaxi Congelada Hawaiana 620 gr,Congelados,Masas y Comidas Congeladas
 669902,Pizza Hipermaxi Congelada Jamon Queso Light Masa Integral,Congelados,Masas y Comidas Congeladas
 669903,Pizza Hipermaxi Congelada Pepperoni 620 gr,Congelados,Masas y Comidas Congeladas
@@ -15566,6 +15579,7 @@ id_producto,producto,categoria,subcategoria
 670220,Bandeja Tartaletas La Orureña,Pastelería y Masas Típicas,Pastelería Externa
 670221,Bandeja de Suspiros La Orureña Grandes,Pastelería y Masas Típicas,Pastelería Externa
 670222,Banjeda de Suspiro La Orureña Pequeño,Pastelería y Masas Típicas,Pastelería Externa
+670227,HELADO DELIZIA NEGRITO DULCE DE LECHE,Congelados,"Helados, Cassattas y Picoleses"
 670233,Vino Espumante Altosama Brut 750 ml,Bebidas,Vinos y Champagne
 670234,Chocolate Cofler Rocklets 100 gr,Abarrotes,Chocolates y Caramelos
 670245,Pan Molde San Gabriel Blanco 350 gr,Panadería,Panadería Externa
@@ -16246,6 +16260,8 @@ id_producto,producto,categoria,subcategoria
 672827,Lasaña de Res Rapidmasa Con Salsa Bolognesa 700 gr,Congelados,Masas y Comidas Congeladas
 672828,Mortadela de Pollo Fridosa 500 gr,Fiambres,Fiambres Externos
 672876,Pizza Congelada Hawuaiana Pa&Pa un,Congelados,Masas y Comidas Congeladas
+672881,Paneton La Suprema Tradicional Chips Chocolate 630 gr,Panadería,Panadería Externa
+672882,Paneton La Suprema Chocolate y Chips 630 gr,Panadería,Panadería Externa
 672883,GALLETA DE AVENA C. 15 UNIDADES,Pastelería y Masas Típicas,Pastelería Externa
 672884,Galleta de Avena 9 un,Pastelería y Masas Típicas,Pastelería Externa
 672903,Papa Sofia Pre Fritas Tradiional 400 gr,Congelados,Masas y Comidas Congeladas
@@ -16850,6 +16866,7 @@ id_producto,producto,categoria,subcategoria
 674260,Filete de Pechuga Sofia Corte Fino kg,Carnes,Carne de Pollo
 674261,PANETON TRADICIONAL INPASA 700GRS CAJA DE LUJO,Panadería,Panadería Externa
 674262,PANETON TRADICIONAL INPASA BOLSA TRILAMINADA 700GRS,Panadería,Panadería Externa
+674263,PANETON DE CHOCOLATE INPASA 700GRS CAJA DE LUJO,Panadería,Panadería Externa
 674264,PANETON CHOCOLATE INPASA 700GRS BOLSA TRILAMINADA,Panadería,Panadería Externa
 674265,PANETON CHOCOLINO INPASA 500GRS BOLSA TRILAMINADA,Panadería,Panadería Externa
 674274,PILFRUT BLUEBERRY PIL 800ML BOLSA,Lácteos y Derivados,Leches
@@ -17131,6 +17148,8 @@ id_producto,producto,categoria,subcategoria
 678830,Te Supremo Ocho Hierbas 20 Sobres,Abarrotes,Café y Sucedáneos
 678833,Te Akbar Wild Berries 20 gr,Abarrotes,Café y Sucedáneos
 678840,Mostaza Kris 500 gr,Abarrotes,Aderezos
+678842,Paneton La Suprema Navideño 750 gr,Panadería,Panadería Externa
+678843,Paneton La Suprema Navideño 630 gr,Panadería,Panadería Externa
 678847,Gomita Ambrosoli Citric 110 gr,Abarrotes,Golosinas - Varias
 678848,Te Frutte Mate Surtido 100 Sobres,Abarrotes,Café y Sucedáneos
 678849,Ketchup Kris 500 gr,Abarrotes,Aderezos
@@ -18221,6 +18240,7 @@ id_producto,producto,categoria,subcategoria
 789447,Costilla de Cerdo Ahumada Merida 400 gr,Fiambres,Fiambres Externos
 789465,Salchicha Tipo Viena La Sierra Premium,Fiambres,Fiambres Externos
 789474,Mortadela con Queso Hipermaxi kg,Fiambres,Fiambres Hipermaxi
+789476,Paneton La Suprema Tradicional 400 gr,Panadería,Panadería Externa
 789477,Chorizo Parrillero Ahumado La Sierra Premium Al Vacio 500 gr,Fiambres,Fiambres Externos
 789482,Chuleta de Cerdo Ahumada Merida 550 gr,Fiambres,Fiambres Externos
 789511,Escabeche de Cebollita Guaruja 350 gr,Fiambres,Fiambres Externos
