@@ -1453,6 +1453,7 @@ id_producto,producto,categoria,subcategoria
 29022,Edulcorante Splenda Original 25 Sobres,Abarrotes,Dietéticos y Saludables
 29023,Galleta Cofler Relleno Chocolate 85 gr,Abarrotes,Galletas
 29024,Cafe Baggio Gourmet Molido Espresso 250 gr,Abarrotes,Café y Sucedáneos
+29026,Cafe Baggio Gourmet Molido Bourbon 250 gr,Abarrotes,Café y Sucedáneos
 29029,Pack 30 Sobres Caldo de Costilla Kris + Jarra,Abarrotes,Básicos
 29040,Pack 30 Sobres Caldo de Gallina Kris + Jarra,Abarrotes,Básicos
 29041,Galleta Cofler Oblea Vainilla Chocolate 87 gr,Abarrotes,Galletas
@@ -1512,6 +1513,7 @@ id_producto,producto,categoria,subcategoria
 29125,ENERGIZANTE VOLT DARK F BOSQ LTA 473ML,Bebidas,Energizantes
 29126,GASEOSA COCA COLA OREO 500ML,Bebidas,Gaseosas
 29130,CHOCOL GARATO LECHE C ARROZ CRUJ 80G,Abarrotes,Chocolates y Caramelos
+29131,CAFE CATUNAMBU TOSTADO GRANO 1KG,Abarrotes,Café y Sucedáneos
 29132,FLAN KRIS CHOCOLATE CJA 80G,Abarrotes,Repostería
 29138,VINAGRE JE D MANZANA PET 1 LT,Abarrotes,Dietéticos y Saludables
 29139,VINAGRE JE D MANZANA CURCUMA 1LT,Abarrotes,Dietéticos y Saludables
@@ -1674,6 +1676,7 @@ id_producto,producto,categoria,subcategoria
 30461,Cereal En Linea Relleno de Chocolate 360 gr,Abarrotes,Dietéticos y Saludables
 30463,Cafe En Linea Capuccino 104 gr,Abarrotes,Dietéticos y Saludables
 30465,JARABE SYRUP P PANCAKE PROMOS ORIG 24 OZ,Abarrotes,Repostería
+30469,Mayonesa Real 500 cm,Abarrotes,Aderezos
 30470,Mayonesa Real 1000 cm,Abarrotes,Aderezos
 30471,Ketchup Real 1000 gr,Abarrotes,Aderezos
 30472,Salsa Kris Golf 200 cm,Abarrotes,Aderezos
@@ -6865,6 +6868,7 @@ id_producto,producto,categoria,subcategoria
 234064,CREMA DE PEINAR ELVIVE 300ML GLYCO GLOS,Cuidado Personal,Cuidado del Cabello
 234066,GEL CREMA PROT F50 ECRAN 250ML,Cuidado Personal,Cuidado de la Piel
 234067,BRONCEA+ PISTOLA F50 ECRAN 270ML,Cuidado Personal,Cuidado de la Piel
+234068,BRONCEA+ ACEITE SPRAY F30 ECRAN 200ML,Cuidado Personal,Cuidado de la Piel
 234069,BRONCEA ACEITE AEROSOL F30 ECRAN  250ML,Cuidado Personal,Cuidado de la Piel
 234070,SPORT AEROSOL F50 ECRAN 250ML,Cuidado Personal,Cuidado de la Piel
 234071,CARA/ESCOTE F50 ECRAN SUNNIQUE  50ML,Cuidado Personal,Cuidado de la Piel
@@ -6947,6 +6951,7 @@ id_producto,producto,categoria,subcategoria
 240589,TRIPACK MI BEBE TOALLA HUMEDA 3X100 UNDS,Cuidado del Bebé,Cuidado del Bebé
 240616,ALGABO TALCO ANTIBACTERIAL 200GR,Cuidado Personal,Cuidado de la Piel
 240617,ALGABO CREMA PARA AFEITAR 177ML,Cuidado Personal,Cuidado de la Piel
+240622,INSECTICIDA TYSON MATA MOSCAS 250CM,Cuidado del Hogar,Insecticidas
 240624,SHAMPOO REVIVE ACEITE CUSI 340ML,Cuidado Personal,Cuidado del Cabello
 240625,ACOND. REVIVE ACEITE DE CUSI 340ML POTE,Cuidado Personal,Cuidado del Cabello
 240632,TOALLA NOSOTRAS LARGA TELA 24X8,Cuidado Personal,Cuidado Familiar
@@ -12048,6 +12053,7 @@ id_producto,producto,categoria,subcategoria
 552853,RON CARTA BLANCA CAPITAN CORTEZ 965 ML,Bebidas,Licores
 552859,BOMBON SURT LINDT LINDOR ESTUCHE 137 GR,Abarrotes,Chocolates y Caramelos
 552860,GASEOSA RITZ NARANJA PINA 355 ML,Bebidas,Bebidas Usa
+552876,HARINA DE TRIGO PRINCESA 11.34 KG,Abarrotes,Básicos
 554333,Cerveza Paceña Lata Roja 473 Cc,Bebidas,Cervezas
 554466,Detergente Liquido Ola Futuro Limpieza Completa 5 L,Cuidado del Hogar,Limpieza de la Ropa
 554468,Suavizante Ropa Ola Suavecito Original 5 L,Cuidado del Hogar,Limpieza de la Ropa
@@ -13029,6 +13035,7 @@ id_producto,producto,categoria,subcategoria
 629727,BEBIDA HIDRATANTE PRIME ICE POP 500ML,Bebidas,Bebidas Usa
 629728,Bebida Hidratante Prime limonada 500 ML,Bebidas,Bebidas Usa
 629729,Hidratante Prime Frutilla Melon 500 ml,Bebidas,Bebidas Usa
+629730,MAYONESA KRAFT DELI 90 GR,Abarrotes,Productos Americanos
 630010,Alimento Pedigree Cachorro 1.5 kg,Abarrotes,Mascotas
 630011,Gaseosa Crush Piña 355 ml,Bebidas,Bebidas Usa
 630012,Cereal Kelloggs Cocoa Krispies 439 gr,Abarrotes,Productos Americanos
@@ -15508,6 +15515,7 @@ id_producto,producto,categoria,subcategoria
 669040,OLA AROMATIC FLORAL CREMOSO 2X5L,Cuidado del Hogar,Limpieza de Baños
 669041,OLA AROMATIC FLORAL CREMOSO 6X1.8L,Cuidado del Hogar,Limpieza de Baños
 669042,CREMA HANBEL MILK COCO Y AVENA 500 GR,Cuidado Personal,Cuidado de la Piel
+669043,JABON LIQUIDO HIERBA BUENA 370 GR,Cuidado Personal,Cuidado de la Piel
 669044,DOY PACK SH.SELFY CEBOLLA 900 GR.,Cuidado Personal,Cuidado del Cabello
 669045,CREMA HANBEL MILK ALOE VERA 500 GR,Cuidado Personal,Cuidado de la Piel
 669046,CREMA HANBEL MILK NIÑAS 500 GR,Cuidado del Bebé,Kids
