@@ -1425,6 +1425,7 @@ id_producto,producto,categoria,subcategoria
 26002,SALSA KRIS P PIZZA DP 200G,Abarrotes,Salsas y Extracto de Tomate
 26003,BEBIDA MAMITAS TEQUILA S FRAMBUESA LTA 3,Bebidas,Licores
 26006,BEBIDA MAMITAS PINA LTA 355ML,Bebidas,Licores
+26007,BEBIDA MAMITAS LIMON LTA 355ML,Bebidas,Licores
 26011,AGUA TONICA LA CABANA PET 1LT,Bebidas,Aguas
 26012,AGUA TONICA LA CABANA CERO 1LT,Bebidas,Aguas
 26013,"PACK 2CHOCOLATE MYM PLAIN 47,9G",Abarrotes,Golosinas - Varias
@@ -1523,6 +1524,7 @@ id_producto,producto,categoria,subcategoria
 29139,VINAGRE JE D MANZANA CURCUMA 1LT,Abarrotes,Dietéticos y Saludables
 29140,BEBIDA CRAZY SUNSET GOLD LTA 473ML,Bebidas,Licores
 29141,BEBIDA CRAZY BERRIES LTA 473ML,Bebidas,Licores
+29150,MASTICABLE NEX SANDIA CJA 336G,Abarrotes,Golosinas - Varias
 29153,LIMONADA L CABANA CERO AZUC 1LT,Bebidas,Gaseosas
 29154,GASEOSA L CABANA PAPAYA PET 1LT,Bebidas,Gaseosas
 29155,GASEOSA L CABANA PAPAYA CERO 1LT,Bebidas,Gaseosas
@@ -6964,6 +6966,8 @@ id_producto,producto,categoria,subcategoria
 240587,PACK DOVE ROL ON CUIDADO BK 6X2X50ML,Cuidado Personal,Cuidado de la Piel
 240588,PACK DOVE ROL ON EXTRA FRESH BK 6X2X50ML,Cuidado Personal,Cuidado de la Piel
 240589,TRIPACK MI BEBE TOALLA HUMEDA 3X100 UNDS,Cuidado del Bebé,Cuidado del Bebé
+240610,AFTERSUN LECHE REP ECRAN F50 400ML,Cuidado Personal,Cuidado de la Piel
+240615,ALGABO TALCO ANTIBACTERIAL 100GR,Cuidado Personal,Cuidado de la Piel
 240616,ALGABO TALCO ANTIBACTERIAL 200GR,Cuidado Personal,Cuidado de la Piel
 240617,ALGABO CREMA PARA AFEITAR 177ML,Cuidado Personal,Cuidado de la Piel
 240622,INSECTICIDA TYSON MATA MOSCAS 250CM,Cuidado del Hogar,Insecticidas
@@ -9873,6 +9877,7 @@ id_producto,producto,categoria,subcategoria
 455456,Nectar Pura Vida Frutss Manzana Sin Azucar 2 L,Bebidas,"Jugos, Néctar"
 455457,Nectar Pura Vida Frutss Durazno Sin Azucar 2 L,Bebidas,"Jugos, Néctar"
 455458,Escoba Palma Real Grande,Cuidado del Hogar,Accesorios del Hogar
+455677,JABON PORTUGAL CARACOL X80G,Farmacia Éticos,Dermatológicos
 455709,Lavavajilla Sapolio Crema Limon 1 kg,Cuidado del Hogar,Limpieza de Cocina
 455775,MASCULAN GEL LUBRICANTE VELVET X50ML,Farmacia Otc,Varios
 455789,Enjuague Bucal Foramen Whitening 500 ml,Cuidado Personal,Cuidado Bucal
@@ -12070,6 +12075,7 @@ id_producto,producto,categoria,subcategoria
 552807,PACK 2 GOMITA FRUGELE 1CALABAZA,Abarrotes,Temporada
 552808,LICOR CITRICUS LIMONCELLO  700 ML,Bebidas,Licores
 552812,PETIT SUISSE TIKI TITO PLATANO 50GRS,Lácteos y Derivados,Yogures
+552813,GALLETAS RICOSITAS PRINCESA CJA 700 GR,Abarrotes,Galletas
 552814,GALLETA  L SUPREMA AVENA MIEL CANELA 120,Abarrotes,Galletas
 552818,VINO BLANCO APALTAGUA GRAN VERANO CHARD,Bebidas,Vinos y Champagne
 552836,PACK 3X2 HUEVO MRM X 6 UNID,Lácteos y Derivados,Huevos
@@ -15564,7 +15570,9 @@ id_producto,producto,categoria,subcategoria
 669048,PACK HERBAL ESS SH TE VERDE400ML + AC DE,Cuidado Personal,Cuidado del Cabello
 669049,GUANTE NEGRO EXTRA GRUESO7 1/2; 8; 8 1/2,Cuidado del Hogar,Accesorios del Hogar
 669067,GEL DE DUCHA LACTOUREA FIRMING 600ML.,Cuidado Personal,Cuidado de la Piel
+669068,GLADE TOQUE FULL LIMON 12ML,Cuidado del Hogar,Limpieza de Living y Ropero
 669069,GLADE TOQUE RP MANANA DE CAMPO 12ML,Cuidado del Hogar,Limpieza de Living y Ropero
+669070,GLADE TOQUE PLAC FLO Y FRU ROJOS 12ML,Cuidado del Hogar,Limpieza de Living y Ropero
 669901,Pizza Hipermaxi Congelada Hawaiana 620 gr,Congelados,Masas y Comidas Congeladas
 669902,Pizza Hipermaxi Congelada Jamon Queso Light Masa Integral,Congelados,Masas y Comidas Congeladas
 669903,Pizza Hipermaxi Congelada Pepperoni 620 gr,Congelados,Masas y Comidas Congeladas
