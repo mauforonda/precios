@@ -1434,6 +1434,7 @@ id_producto,producto,categoria,subcategoria
 26022,GALLETA COFLER RELLENA BONOBON 85G,Abarrotes,Galletas
 26874,Whisky Johnnie Walker 18 Años 750 ml,Bebidas,Licores
 27100,MASMELOS TRULULU FRANKI BSA 50G,Abarrotes,Golosinas - Varias
+27101,MASMELOS TRULULU CHOCO VAINILLA 50G,Abarrotes,Golosinas - Varias
 27102,CHOCOLATE BIANCHI CHOCO MANI BSA 50G,Abarrotes,Golosinas - Varias
 27106,GALLETA PIT STOP CEREAL INTEGRAL 142G,Abarrotes,Galletas
 27110,Galleta Frac Clasica 132 gr,Abarrotes,Galletas
@@ -3518,7 +3519,7 @@ id_producto,producto,categoria,subcategoria
 104636,Shampoo Head Shoulders Revitalizacion Argan 375 ml,Cuidado Personal,Cuidado del Cabello
 104637,Suavizante Ropa Todo Brillo Floral 3.7 L,Cuidado del Hogar,Limpieza de la Ropa
 104638,Limpiador Sapolio Limpia Todo Coco 900 ml,Cuidado del Hogar,Limpieza de Living y Ropero
-104678,Cerveza Paulaner Naturtrub 500 ml,Bebidas,Cervezas
+104678,Cerveza Paulaner Weissbier 500 ml,Bebidas,Cervezas
 104681,Tinte Casting Tono 200 Negro,Cuidado Personal,Cuidado del Cabello
 104682,Tinte Casting Tono 535 Chocolate,Cuidado Personal,Cuidado del Cabello
 104683,Tinte Castin Tono 630 Caramelo,Cuidado Personal,Cuidado del Cabello
@@ -4800,7 +4801,7 @@ id_producto,producto,categoria,subcategoria
 120004,Chocolate Cofler Almendra 140 gr,Abarrotes,Chocolates y Caramelos
 120019,Jugo Aloe Vera Okf Piña 240 ml,Bebidas,Bebidas Varias
 120020,Jugo Aloe Vera Okf Fresa 240 ml,Bebidas,Bebidas Varias
-120045,Cerveza Paulaner Limon 500 ml,Bebidas,Cervezas
+120045,Cerveza Paulaner Lemon Radler 500 ml,Bebidas,Cervezas
 120047,Grano de Amaranto Salutary 350 gr,Abarrotes,Nutrición Infantil
 120065,Margarina Regia 210 gr,Lácteos y Derivados,Mantequillas y Margarinas
 120120,Pañales Huggies Nature Care Unsex XG 42 un,Cuidado del Bebé,Pañales
@@ -6437,6 +6438,7 @@ id_producto,producto,categoria,subcategoria
 223839,Bipack Pañal Huggies Triple Proteccion XG 2x40 un,Cuidado del Bebé,Pañales
 223840,Bipack Pañal Huggies Triple Proteccion XXG 2x36 un,Cuidado del Bebé,Pañales
 223841,Balde Guanda 10 L,Cuidado del Hogar,Accesorios del Hogar
+223855,SERVILLETA OLEBOL COCTEL FUCSIA 20 UN,Cuidado Personal,Cuidado Familiar
 223858,Servilleta Olebol Coctel Morado 20 un,Cuidado Personal,Cuidado Familiar
 223862,SERVILLETA OLEBOL COCTEL VERDE 20 UN,Cuidado Personal,Cuidado Familiar
 223868,Mascara Tonalizante Biotchelly Intensive Black 250 gr,Cuidado Personal,Cuidado del Cabello
@@ -11323,6 +11325,7 @@ id_producto,producto,categoria,subcategoria
 551386,Salmorreta Arrozame Marisquera 130 gr,Abarrotes,Productos Americanos
 551391,Fideo Carrozi Pack 3 un 400 gr + Regalo,Abarrotes,Básicos
 551394,Singani Huella 750 ml,Bebidas,Licores
+551395,CAFE LAVAZZA CREMA AROMA GRANO 1 KG,Abarrotes,Café y Sucedáneos
 551396,Café Molido Lavazza Qualita Rossa 250 gr,Abarrotes,Café y Sucedáneos
 551397,Café Lavazza Grano Gusto Pieno 1000 gr,Abarrotes,Café y Sucedáneos
 551398,Azucar Becoco de Coco Neutro 1 kg,Abarrotes,Básicos
@@ -12094,8 +12097,15 @@ id_producto,producto,categoria,subcategoria
 552870,AJO EN POLVO TIERRA NUESTRA 15GR,Abarrotes,Condimentos y Legumbres
 552871,OREGANO EN POLVO TIERRA NUESTRA 15GR,Abarrotes,Condimentos y Legumbres
 552873,COLORANTE ROJO TIERRA NUESTRA 15GR,Abarrotes,Condimentos y Legumbres
+552874,AJO EN HOJUELAS TIERRA NUESTRA 15GR,Abarrotes,Condimentos y Legumbres
 552875,PIMIENTA EN POLVO TIERRA NUESTRA 15GR,Abarrotes,Condimentos y Legumbres
 552876,HARINA DE TRIGO PRINCESA 11.34 KG,Abarrotes,Básicos
+552877,BARRA PROT WILD MANI CHOCOLATE 15 GR,Abarrotes,Nutrición Infantil
+552878,BARRA PROT WILD CHOCOLATE 15 GR,Abarrotes,Nutrición Infantil
+552879,BARRA PROT WILD CARAMELO 15GR,Abarrotes,Nutrición Infantil
+552880,BARRA PROT WILD CHOCOLATE BITTER 15G,Abarrotes,Nutrición Infantil
+552881,BARRA PROT WILD CHOCOLATE Y COCO 15GR,Abarrotes,Nutrición Infantil
+552891,BEBIDA PROTEICA DELIZIA PINA BOT 500 ML,Bebidas,Energizantes
 554333,Cerveza Paceña Lata Roja 473 Cc,Bebidas,Cervezas
 554466,Detergente Liquido Ola Futuro Limpieza Completa 5 L,Cuidado del Hogar,Limpieza de la Ropa
 554468,Suavizante Ropa Ola Suavecito Original 5 L,Cuidado del Hogar,Limpieza de la Ropa
@@ -13450,6 +13460,7 @@ id_producto,producto,categoria,subcategoria
 651281,Papa Mix Chip Frita 300 gr,Abarrotes,Snack
 651286,Mani Delimix Salado con Pasas 300 gr,Abarrotes,Snack
 651305,Cerveza Erdinger Urweisse 0.5 L,Bebidas,Cervezas
+651311,Leche Bella Holandesa Polvo 1.8 kg,Abarrotes,Nutrición Infantil
 651370,Azafran Molido Extra Carmencita 375 gr,Abarrotes,Productos Americanos
 651382,Paella El Unico Marinera Carmencita 12 gr,Abarrotes,Productos Americanos
 651392,Nacho La Mejicana Chesse Pizza 200 gr,Abarrotes,Snack
@@ -14557,6 +14568,7 @@ id_producto,producto,categoria,subcategoria
 660038,Galleta Wafer Costa Vainilla 105 gr,Abarrotes,Galletas
 660039,Galleta Wafer Costa Chocolate 105 gr,Abarrotes,Galletas
 660040,Galleta Wafer Costa Fresa 105 gr,Abarrotes,Galletas
+660044,Chipilo Chips Titos Clasico 90 gr,Abarrotes,Snack
 660047,Pipoca Guadia Dulce Mix Sabores 500 gr,Abarrotes,Snack
 660048,Pipoca Guadia Mantequilla 500 gr,Abarrotes,Snack
 660049,Pipoca Guadia Dulce Mix Sabores 250 gr,Abarrotes,Snack
@@ -16781,6 +16793,7 @@ id_producto,producto,categoria,subcategoria
 674007,Salteña Castores Mix Carne 6 Dulce 6 Picante,Congelados,Masas y Comidas Congeladas
 674008,Salteña Castores Mix Pollo 6 Dulce 6 Picante,Congelados,Masas y Comidas Congeladas
 674009,Leche Pil Chicolac Uht 120 ml,Lácteos y Derivados,Leches
+674010,POLLO FIESTA LA GRANJA PROLAGRA KILOGRAMO,Congelados,Carnes Congeladas
 674014,Salchicha Sofia Viena Roja Al Vacio,Fiambres,Fiambres Externos
 674015,Salchicha Sofia Roja Coctelera Al Vacio 500 gr,Fiambres,Fiambres Externos
 674016,PAN DULCE TRADICIONAL SANTONIO,Panadería,Panadería Externa
@@ -16934,6 +16947,9 @@ id_producto,producto,categoria,subcategoria
 674271,JAMON TORITO PZA 150GRS AL VACIO,Fiambres,Fiambres Externos
 674274,PILFRUT BLUEBERRY PIL 800ML BOLSA,Lácteos y Derivados,Leches
 674281,TOCINO AHUMADO EN CUBOS SAN AGUSTIN 100GRS,Fiambres,Fiambres Externos
+674282,YOGURT NATURAL FATYH 800 GRAMOS,Lácteos y Derivados,Yogures
+674283,YOGURT NATURAL FATYH 550 GRAMOS,Lácteos y Derivados,Yogures
+674284,YOGURT NATURAL FATYH 180 GRAMOS,Lácteos y Derivados,Yogures
 675245,Miel de Abeja Eva Promiel 250 gr,Abarrotes,"Mermel, Mieles"
 676113,Habanito Bits Cream Coojies Cream 120 gr,Congelados,"Helados, Cassattas y Picoleses"
 676115,HABANITO BITS CREAM DULCE DE LECHE 120GRS,Congelados,"Helados, Cassattas y Picoleses"
@@ -17695,6 +17711,7 @@ id_producto,producto,categoria,subcategoria
 764578,MIX DE FRUTAS CONGELADAS A.BERRIES 400 GRS.,Congelados,Pulpas y Frutas Congeladas
 764590,ZARZAMORA CONGELADA A.BERRIES 400 GRS.,Congelados,Pulpas y Frutas Congeladas
 764612,Queso Criollo Menonita La Excelencia kg,Lácteos y Derivados,Quesos
+764645,PAN DANES MEDITERRANEO AJO Y OREGANO UNID.,Panadería,Panadería Externa
 764783,DULCECITOS CUNAPECITOS MAYSER 200 GRS.,Pastelería y Masas Típicas,Masas Típicas Externas
 764857,PAN BRIOCHE SURTIDO BELEN 340 GRS.,Panadería,Panadería Externa
 764871,Empanadas Integrales Hipermaxi Con Cereales 4 un,Panadería,Panadería Especialidades Hipermaxi
