@@ -275,6 +275,7 @@ id_producto,producto,categoria,subcategoria
 5224,Clavo de Olor Hipermaxi kg,Granos y Hortalizas,Fraccionados Hipermaxi
 5226,Soya Hipermaxi kg,Granos y Hortalizas,Fraccionados Hipermaxi
 5228,Brote De Soya 1 kg,Frutas y Verduras,Verduras
+5229,CP ARANDANO ANDEAN BLUEBERRIES 125 G,Frutas y Verduras,Gourmet
 5230,Curcuma 1 kg,Frutas y Verduras,Verduras
 5231,Rabano 1 kg,Frutas y Verduras,Verduras
 5235,Chuño Negro 1 kg,Frutas y Verduras,Verduras
@@ -1419,6 +1420,7 @@ id_producto,producto,categoria,subcategoria
 24887,Gaseosa Fanta Guarana 500 ml,Bebidas,Gaseosas
 24888,Gaseosa Fanta Guarana 2 L,Bebidas,Gaseosas
 24889,Gaseosa Fanta Guarana 2.5 L,Bebidas,Gaseosas
+24915,Mix Caju Kirkland con Almendra 32 oz,Abarrotes,Productos Americanos
 25640,Surtido de Mariscos Robinson Crusoe Natural 190 gr,Abarrotes,Comidas en Conserva
 25771,Huevos Caisy 12 un,Lácteos y Derivados,Huevos
 25789,Galleta Rocklets Chocolate 118 gr,Abarrotes,Galletas
@@ -1434,6 +1436,7 @@ id_producto,producto,categoria,subcategoria
 26014,GALLETA PROMOS BUTTER COOKIE DANESA 114G,Abarrotes,Galletas
 26018,Mani Charito Confitado 160 gr,Abarrotes,Snack
 26022,GALLETA COFLER RELLENA BONOBON 85G,Abarrotes,Galletas
+26031,TE AMATE D JAMAICA ARAND PET 500ML,Bebidas,Bebidas Varias
 26874,Whisky Johnnie Walker 18 Años 750 ml,Bebidas,Licores
 27100,MASMELOS TRULULU FRANKI BSA 50G,Abarrotes,Golosinas - Varias
 27101,MASMELOS TRULULU CHOCO VAINILLA 50G,Abarrotes,Golosinas - Varias
@@ -3817,6 +3820,7 @@ id_producto,producto,categoria,subcategoria
 108536,Papel Higienico Scott Basico Plancha 24 un,Cuidado Personal,Cuidado Familiar
 108539,Colonia Heno de Pravia Original 500 ml,Cuidado del Hogar,Productos Americanos
 108548,Pasta Dental Daily Caristop Sensitive 80 gr,Cuidado Personal,Cuidado Bucal
+108554,Bronceador Leblon Autobronceado 90 gr,Cuidado Personal,Cuidado de la Piel
 108561,Shampoo Tio Nacho Celula Madre 415 ml,Cuidado Personal,Cuidado del Cabello
 108565,Shampoo Dove Regeneracion 750 ml,Cuidado Personal,Cuidado del Cabello
 108566,Acondicionador Dove Regeneracion 750 ml,Cuidado Personal,Cuidado del Cabello
@@ -4200,6 +4204,7 @@ id_producto,producto,categoria,subcategoria
 111685,Protector Solar Sunless 60Fps 120 gr,Cuidado Personal,Cuidado de la Piel
 111686,Bloqueador Solar Sunless 50fps 120 gr,Cuidado Personal,Cuidado de la Piel
 111687,Bloqueador Solar Sunless Kids 120 gr,Cuidado del Bebé,Kids
+111690,PROT.SOLAR SUNLESS FPS50 BASE FACIAL 60,Cuidado Personal,Cuidado de la Piel
 111691,Bloqueador Solar Sunless Fps 50 sin Base,Cuidado Personal,Cuidado de la Piel
 111692,Bronceador Sunless Zanahoria 120 ml,Cuidado Personal,Cuidado de la Piel
 111693,Bronceador Sunless Urucu 120 ml,Cuidado Personal,Cuidado de la Piel
@@ -6962,10 +6967,12 @@ id_producto,producto,categoria,subcategoria
 240555,OMO PVO BLANCO ABSOLUTO 20X720G,Cuidado del Hogar,Limpieza de la Ropa
 240556,PACK VIDRIO ORG + LUSTRAMUEBLE ORG 6X2X8,Cuidado del Hogar,Limpieza de Living y Ropero
 240557,PACK ARCHER DESINFEC BLANQUEADOR 2X950 M,Cuidado del Hogar,Limpieza de Baños
+240558,PANAL BABU POMPIGLOS G 40 UND,Cuidado del Bebé,Pañales
 240565,Refresco Bc Limonada 7 gr,Bebidas,Refrescos en Polvo
 240566,Refresco Bc Naranja 7 gr,Bebidas,Refrescos en Polvo
 240573,Refresco Arcor Multifruta 18 gr,Bebidas,Refrescos en Polvo
 240574,Refresco Arcor Manzana 20 gr,Bebidas,Refrescos en Polvo
+240580,PANAL BABU POMPIGLOS M 40 UNDS,Cuidado del Bebé,Pañales
 240581,PANAL BABU POMPIGLOS P X 40 UDS,Cuidado del Bebé,Pañales
 240582,PANAL BABU POMPIGLOS XG 40 UNDS,Cuidado del Bebé,Pañales
 240584,PANAL BABU POMPIGLOS XXG 40 UNDS,Cuidado del Bebé,Pañales
@@ -6975,6 +6982,7 @@ id_producto,producto,categoria,subcategoria
 240588,PACK DOVE ROL ON EXTRA FRESH BK 6X2X50ML,Cuidado Personal,Cuidado de la Piel
 240589,TRIPACK MI BEBE TOALLA HUMEDA 3X100 UNDS,Cuidado del Bebé,Cuidado del Bebé
 240610,AFTERSUN LECHE REP ECRAN F50 400ML,Cuidado Personal,Cuidado de la Piel
+240612,PACK ALGABO BABY SH Y AC Y ACEITE,Cuidado del Bebé,Cuidado del Bebé
 240615,ALGABO TALCO ANTIBACTERIAL 100GR,Cuidado Personal,Cuidado de la Piel
 240616,ALGABO TALCO ANTIBACTERIAL 200GR,Cuidado Personal,Cuidado de la Piel
 240617,ALGABO CREMA PARA AFEITAR 177ML,Cuidado Personal,Cuidado de la Piel
@@ -12336,6 +12344,7 @@ id_producto,producto,categoria,subcategoria
 586110,Enjuague Bucal Foramen Herbal Aloe 500 ml,Cuidado Personal,Cuidado Bucal
 586145,Queso Provolone San Javier kg,Lácteos y Derivados,Quesos
 586684,Turron Mani Tks 150 gr,Abarrotes,Golosinas - Varias
+586897,Spray Easy Cheese Cheddar Kraft 8 oz,Lácteos y Derivados,Quesos
 587052,Mostaza French Classic Yellow 14 oz,Abarrotes,Productos Americanos
 587095,Cafe Nescafe Descafeinado 100 gr,Abarrotes,Café y Sucedáneos
 587648,Edulcorante  Equal 50 un,Abarrotes,Dietéticos y Saludables
@@ -13048,6 +13057,7 @@ id_producto,producto,categoria,subcategoria
 629276,Pretzel Snyders Sticks 225 gr,Abarrotes,Productos Americanos
 629277,Pretzel Snyders Mini 255 gr,Abarrotes,Productos Americanos
 629280,Agua San Pellegrino Melograno Arancia 330 ml,Bebidas,Bebidas Usa
+629294,Galleta Goldfish Queso Cheddar 28 gr,Abarrotes,Productos Americanos
 629297,Te Helado Tea Time Cranberry Rasberry 1 L,Bebidas,Bebidas Usa
 629298,Papel Toalla Cocina Towels Mark 150 un,Cuidado del Hogar,Productos Americanos
 629314,Salsa Prego Tomate Al Basil Con Ajo 680 gr,Abarrotes,Productos Americanos
@@ -13555,6 +13565,7 @@ id_producto,producto,categoria,subcategoria
 652584,Pepinillo Yacobs Picado 370 gr,Abarrotes,Verduras en Conserva
 652626,Pepinillo Mt Olive Sweet Relish 237 ml,Abarrotes,Productos Americanos
 652661,Salsa De Cecco Passata Di Pomodoro 700 gr,Abarrotes,Productos Importados
+652682,Aceto Balsamico De Cecco Di Modena 250 ml,Abarrotes,Productos Importados
 652768,Salsa Ragu Chunky Mushroom 680 gr,Abarrotes,Productos Americanos
 652820,Galleton Breick Chips De Chocolate 50 gr,Abarrotes,Galletas
 652846,Gaseosa Seven Up Cherry 355 ml,Bebidas,Bebidas Usa
@@ -15537,6 +15548,7 @@ id_producto,producto,categoria,subcategoria
 668914,PACK NOSOTRAS PROT MULTIESTILO X15,Cuidado Personal,Cuidado Familiar
 668915,NACIONAL SP ECO PLUS 6X300,Cuidado Personal,Cuidado Familiar
 668916,PAPEL NACIONAL DH PLUS PLANCHA 2X20,Aseo Personal,Cuidado Familiar
+668919,LOCION CREMA BRONCEADORA FPS15 SUNLESS,Cuidado Personal,Cuidado de la Piel
 668920,SERVILLETA MOREX DINNER NAPKINS 150 UNID,Cuidado Personal,Cuidado Familiar
 668922,ECOROLLO 45X50 20L,Cuidado del Hogar,Accesorios del Hogar
 668923,TOTES LIMPIEZA  PROFUNDA PARA OLLAS   CL,Cuidado del Hogar,Accesorios del Hogar
@@ -15571,6 +15583,7 @@ id_producto,producto,categoria,subcategoria
 669011,KOCOSTAR MASCARILLA CAMELLIA HAPPY MASK,Cuidado Personal,Cuidado de la Piel
 669013,KOCOSTAR MASCARILLA WHITE HAPPY MASK,Cuidado Personal,Cuidado de la Piel
 669014,KOCOSTAR MASCARILLA VITAMIN HAPPY MASK,Cuidado Personal,Cuidado de la Piel
+669028,PACK SERUM HIALURONICO+UV DEF ANTIBRILLO,Cuidado Personal,Cuidado de la Piel
 669029,PACK 2X1 PANITO HÚMEDO PEQUEÑÍN PIEL DEL,Cuidado del Bebé,Cuidado del Bebé
 669031,TANGA SPF 100 BABY CREMA 120 ML X6,Cuidado Personal,Cuidado de la Piel
 669032,PROT SOLAR CREMA SPF50 X 220 ML X6,Cuidado Personal,Cuidado de la Piel
@@ -16550,6 +16563,7 @@ id_producto,producto,categoria,subcategoria
 673454,Ceviche de Trucha Titikaka Congelado 500 gr,Congelados,Carnes Congeladas
 673455,Hamburguesa Prosana Quinua Amaranto 260 gr,Congelados,Masas y Comidas Congeladas
 673456,Hamburguesa Prosana Garbanzo con Cilantro 260 gr,Congelados,Masas y Comidas Congeladas
+673459,ROSCA NAVIDENA DE CANELA ZELADA BOLSA 600GRS,Pastelería y Masas Típicas,Pastelería Externa
 673465,Pan Tradicional Jasmine Sin Gluten 350 gr,Panadería,Panadería Externa
 673466,Pan con Frutas Castañas Jasmin Sin Gluten,Panadería,Panadería Externa
 673467,Pan de Hamburguesa Jasmin Sin Gluten 300 gr,Panadería,Panadería Externa
@@ -16961,6 +16975,7 @@ id_producto,producto,categoria,subcategoria
 674282,YOGURT NATURAL FATYH 800 GRAMOS,Lácteos y Derivados,Yogures
 674283,YOGURT NATURAL FATYH 550 GRAMOS,Lácteos y Derivados,Yogures
 674284,YOGURT NATURAL FATYH 180 GRAMOS,Lácteos y Derivados,Yogures
+674286,PANETON COFLER RELL P DARK,Panadería,Panadería Externa
 675245,Miel de Abeja Eva Promiel 250 gr,Abarrotes,"Mermel, Mieles"
 676113,Habanito Bits Cream Coojies Cream 120 gr,Congelados,"Helados, Cassattas y Picoleses"
 676115,HABANITO BITS CREAM DULCE DE LECHE 120GRS,Congelados,"Helados, Cassattas y Picoleses"
@@ -17723,6 +17738,7 @@ id_producto,producto,categoria,subcategoria
 764590,ZARZAMORA CONGELADA A.BERRIES 400 GRS.,Congelados,Pulpas y Frutas Congeladas
 764612,Queso Criollo Menonita La Excelencia kg,Lácteos y Derivados,Quesos
 764645,PAN DANES MEDITERRANEO AJO Y OREGANO UNID.,Panadería,Panadería Externa
+764756,PAN DANES ABDEL MASA MADRE UNID.,Panadería,Panadería Externa
 764783,DULCECITOS CUNAPECITOS MAYSER 200 GRS.,Pastelería y Masas Típicas,Masas Típicas Externas
 764857,PAN BRIOCHE SURTIDO BELEN 340 GRS.,Panadería,Panadería Externa
 764871,Empanadas Integrales Hipermaxi Con Cereales 4 un,Panadería,Panadería Especialidades Hipermaxi
