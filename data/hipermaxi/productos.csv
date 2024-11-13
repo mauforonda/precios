@@ -1440,6 +1440,7 @@ id_producto,producto,categoria,subcategoria
 26018,Mani Charito Confitado 160 gr,Abarrotes,Snack
 26022,GALLETA COFLER RELLENA BONOBON 85G,Abarrotes,Galletas
 26031,TE AMATE D JAMAICA ARAND PET 500ML,Bebidas,Bebidas Varias
+26044,BEBIDA BELLA ROMA LTA 473ML,Bebidas,Licores
 26874,Whisky Johnnie Walker 18 Años 750 ml,Bebidas,Licores
 27100,MASMELOS TRULULU FRANKI BSA 50G,Abarrotes,Golosinas - Varias
 27101,MASMELOS TRULULU CHOCO VAINILLA 50G,Abarrotes,Golosinas - Varias
@@ -7007,6 +7008,7 @@ id_producto,producto,categoria,subcategoria
 240615,ALGABO TALCO ANTIBACTERIAL 100GR,Cuidado Personal,Cuidado de la Piel
 240616,ALGABO TALCO ANTIBACTERIAL 200GR,Cuidado Personal,Cuidado de la Piel
 240617,ALGABO CREMA PARA AFEITAR 177ML,Cuidado Personal,Cuidado de la Piel
+240618,DEO PIE ALGABO SPRAY ANTIBACTERIAL  153M,Cuidado Personal,Cuidado de la Piel
 240622,INSECTICIDA TYSON MATA MOSCAS 250CM,Cuidado del Hogar,Insecticidas
 240624,SHAMPOO REVIVE ACEITE CUSI 340ML,Cuidado Personal,Cuidado del Cabello
 240625,ACOND. REVIVE ACEITE DE CUSI 340ML POTE,Cuidado Personal,Cuidado del Cabello
@@ -11751,6 +11753,7 @@ id_producto,producto,categoria,subcategoria
 552229,Cheetos Frito Lay Cheddar 3.625 oz,Abarrotes,Productos Americanos
 552231,Cafe Vinut Negro 280 ml,Abarrotes,Productos Americanos
 552233,Cafe Vinut Mocha 280 ml,Abarrotes,Productos Americanos
+552234,Cafe Vinut Cappuccino 280 ml,Abarrotes,Productos Americanos
 552235,Bubble Tea Vinut Original 280 ml,Abarrotes,Productos Americanos
 552236,Cafe Vinut Expresso 280 ml,Abarrotes,Productos Americanos
 552237,Bubble Tea Vinut Chocolate 280 ml,Abarrotes,Productos Americanos
@@ -12175,6 +12178,10 @@ id_producto,producto,categoria,subcategoria
 552893,PANETTONE VAINILLA CON CHIPS DE CHOC CEIBO 750 GR BSA,Panadería,Panadería Externa
 552904,PANETONNE CON CHIPS DE CHOCOLATE CEIBO 750 GR BSA,Panadería,Panadería Externa
 552908,PACK 12 CERVEZA PACENA LTA 440ML,Bebidas,Cervezas
+552909,CAFE VINUT NEGRO LTA 250 ML,Abarrotes,Productos Americanos
+552910,ICED COFFE VINUT LTA 250 ML,Abarrotes,Productos Americanos
+552911,COLD DREW COFFE VINUT S AZUCAR LTA 250 ML,Abarrotes,Productos Americanos
+552912,COFFE LATE VINUT LTA 250 ML,Abarrotes,Productos Americanos
 554333,Cerveza Paceña Lata Roja 473 Cc,Bebidas,Cervezas
 554466,Detergente Liquido Ola Futuro Limpieza Completa 5 L,Cuidado del Hogar,Limpieza de la Ropa
 554468,Suavizante Ropa Ola Suavecito Original 5 L,Cuidado del Hogar,Limpieza de la Ropa
@@ -13137,6 +13144,14 @@ id_producto,producto,categoria,subcategoria
 629486,Agua de Coco Trufarm Original 500 ml,Bebidas,Bebidas Usa
 629495,Vinagre Bragg de Manzana 473 ml,Abarrotes,Productos Americanos
 629556,Caramelo Lucas Muecas Cereza 25 gr,Abarrotes,Productos Americanos
+629565,Galleta Lata Navideña Mantequilla 114 gr,Abarrotes,Productos Americanos
+629566,Galleta Forma de Barquillo Vainilla 114 gr,Abarrotes,Productos Americanos
+629568,Galleta Navideña Mantequilla 300 gr,Abarrotes,Productos Americanos
+629569,Galleta Navideña Mantequilla 300 gr,Abarrotes,Productos Americanos
+629570,Galleta Estilo Danesas Mantequilla 340 gr,Abarrotes,Productos Americanos
+629573,Galleta Forma de Barquillo s/Chocolate 114 gr,Abarrotes,Productos Americanos
+629574,Galleta Forma de Barquillo Mod 2 s/Chocolate 114 gr,Abarrotes,Productos Americanos
+629576,Galleta Forma de Barquillo s/Capuch 114 gr,Abarrotes,Productos Americanos
 629586,Galleta Butter Danish Cookies 1.36 kg,Abarrotes,Productos Americanos
 629589,Cereal Cheerios Whole Grain 510 gr,Abarrotes,Productos Americanos
 629594,Pretzel Snyders Queso Cheddar 318 gr,Abarrotes,Productos Americanos
@@ -16346,6 +16361,7 @@ id_producto,producto,categoria,subcategoria
 672550,Hamburguesa Prosana Garbanzo Queso 260 gr,Congelados,Carnes Congeladas
 672551,Hamburguesa Prosana Garbanzo Quinua Tomillo 260 gr,Congelados,Carnes Congeladas
 672552,Mortadela Primavera Sofia 500 gr,Fiambres,Fiambres Externos
+672553,Mix Frutos del Bosque Berries Marcal 1 kg,Congelados,Pulpas y Frutas Congeladas
 672554,Mix Frutos del Bosque Berries Marcal 500 gr,Congelados,Pulpas y Frutas Congeladas
 672560,Hamburguesa Stege Vegetariana de Quinua 280 gr,Congelados,Masas y Comidas Congeladas
 672561,Hamburguesa Stege Vegetariana de Lenteja 280 gr,Congelados,Masas y Comidas Congeladas
@@ -18377,10 +18393,12 @@ id_producto,producto,categoria,subcategoria
 787552,Hamburguesa Degab Frejol Yuca 540 gr,Congelados,Carnes Congeladas
 787576,Mortadela Jamonada Tipo Alemana Fridosa kg,Fiambres,Fiambres Externos
 787593,Hamburguesa Degab Arveja Platano 540 gr,Congelados,Carnes Congeladas
+787622,Huevo Colorado Maple 12 un,Lácteos y Derivados,Huevos
 787632,Mix Andean Berries Frutas Congeladas 1 kg,Congelados,Pulpas y Frutas Congeladas
 787634,Queso Fundido Guaruja para Untar 250 gr,Lácteos y Derivados,Quesos
 787635,Mantequilla de Mani Almendrin Chocolate 360 gr,Lácteos y Derivados,Mantequillas y Margarinas
 787641,Queque Chifon 200 gr,Pastelería y Masas Típicas,Pastelería Externa
+787644,Huevo Colorado Maple 30 un,Lácteos y Derivados,Huevos
 787647,Queso Fundido Guaruja con Salsa Jalapeño 250 gr,Lácteos y Derivados,Quesos
 787652,Queso Reggianito Santa Rosa Trozado 240 gr,Lácteos y Derivados,Quesos
 787657,Pan de Arroz Abizcochado Pan Hogar 100 gr,Pastelería y Masas Típicas,Masas Típicas Externas
@@ -19178,7 +19196,7 @@ id_producto,producto,categoria,subcategoria
 843407,"PAN.8123 CUCHILLOS 8PZAS 8"", 8"", 8"", 5"", 3.5""",Bazar Importación,Cocina General
 843444,PAN 5124 BOTELLA 1200ML TRANSPARENTE NEGRO VIDRIO SODALIME,Bazar Importación,Menaje Vidrio/Cristal
 843466,PAN.2424 COOLER 4QT,Bazar Importación,Camping General
-843514,"PAN.4412 RELOJ DE PARED 8""",Bazar Importación,Living y Dormitorio
+843514,PAN RELOJ DE PARED,Bazar Importación,Living y Dormitorio
 843813,"CH.Y34-3 CUCHILLOS COLOR CAFE CON NEGRO, SET*6 PZAS",Bazar Importación,Cocina General
 843814,CH.Y34-4 CUCHILLOS COLOR ROJO  SETX6 PZAS,Bazar Importación,Cocina General
 843868,Juguete Pala Cargadora City,Juguetería Importación,Juguetería Niño/Bebé
@@ -20160,6 +20178,7 @@ id_producto,producto,categoria,subcategoria
 887855,25550/170 ABRIDOR/SACACORCHOS HARMONI MA,Bazar,Articulos de Cocina
 888270,AMBIENTADOR WOMAN MADRI,Bazar,Automotriz
 888547,CEPILLO P/R CABELLO FASHION CONDOR 6894,Bazar,Bijouteria/Cuidado Personal
+889090,ELS BOLSA DE VINO 6,Bazar,Temporada Navidad
 889138,Ablandador de Carne Basa,Bazar,Articulos de Cocina
 889139,Exprimidor de Limon Basa,Bazar,Articulos de Cocina
 889140,Exprimidor de Naranja Basa,Bazar,Articulos de Cocina
