@@ -2411,6 +2411,7 @@ id_producto,producto,categoria,subcategoria
 33774,Semilla de Sesamo Negro Salutary 350 gr,Abarrotes,Nutrición Infantil
 33775,Semilla de Sesamo Salutary 350 gr,Abarrotes,Nutrición Infantil
 33878,Gaseosa Mendocina Uva 3 L,Bebidas,Gaseosas
+34717,Yerba Mate Colon Compuesta Liviana 500 gr,Abarrotes,Café y Sucedáneos
 34811,Mermelada La Rinconada Frutilla 1 kg,Abarrotes,"Mermel, Mieles"
 34871,Cerveza Conti Zero 350 ml,Bebidas,Cervezas
 35115,Cafe Illy Espresso en Grano 250 gr,Abarrotes,Café y Sucedáneos
@@ -6262,6 +6263,8 @@ id_producto,producto,categoria,subcategoria
 222621,Pack Revitalift Loreal Dia Noche,Cuidado Personal,Cuidado de la Piel
 222716,Tinte Nutrisse Tono 67 Chocolate,Cuidado Personal,Cuidado del Cabello
 222751,Desodorante Barra Lay Speed Stick Power Fresh 45 gr,Cuidado Personal,Cuidado de la Piel
+222757,Cepillo Dental Docotor Dent Cheaper Suave 1 un,Cuidado Personal,Cuidado Bucal
+222758,Cepillo Dental Dentalclean Cheaper Duro 1 un,Cuidado Personal,Cuidado Bucal
 222759,Bolsa Basura Esfrebom 50 L,Cuidado del Hogar,Accesorios del Hogar
 222760,Acondicionador Tio Nacho Rejuvenece Anticaida 415 ml,Cuidado Personal,Cuidado del Cabello
 222765,Esponja Esfrebom Bettanin Protege Uñas,Cuidado del Hogar,Accesorios del Hogar
@@ -7449,6 +7452,7 @@ id_producto,producto,categoria,subcategoria
 301112,Te Siluetizate Verde con Piña 50 Sobres,Abarrotes,Café y Sucedáneos
 301117,Licor 3 Plumas Chocolate Menta 700 ml,Bebidas,Licores
 301118,Licor 3 Plumas Frutilla 700 ml,Bebidas,Licores
+301149,Jugo Ocean Spray Cranb Apple 96 oz,Bebidas,Bebidas Usa
 301372,Chocolate La Huerta 100% 60 gr,Abarrotes,Chocolates y Caramelos
 301373,Chocolate La Huerta 82% 60 gr,Abarrotes,Chocolates y Caramelos
 301374,Chocolate La Huerta 64 % 60 gr,Abarrotes,Chocolates y Caramelos
@@ -9699,6 +9703,9 @@ id_producto,producto,categoria,subcategoria
 432010,Insecticida Mapex Hormiga Polvo 1 kg,Cuidado del Hogar,Insecticidas
 432035,Limpiador Desinfectante Procenex Original 5 L,Cuidado del Hogar,Limpieza de Baños
 432055,Acondicionador Siloe Miel de Abeja 550 ml,Cuidado Personal,Cuidado del Cabello
+432063,Cepillo Dental Doctor Dent Agua Medio 2 un,Cuidado Personal,Cuidado Bucal
+432065,Cepillo Dental Doctor Dent Mediano Regular 3 un,Cuidado Personal,Cuidado Bucal
+432066,Cepillo Dental Doctor Dent Duro 3 un,Cuidado Personal,Cuidado Bucal
 432070,Limpiador Desinfectante Mr.Fash Lavanda 900 ml,Cuidado del Hogar,Limpieza de Baños
 432071,Limpiador Desinfectante Mr.Fash Floral 900 ml,Cuidado del Hogar,Limpieza de Baños
 432072,Limpiador Desinfectante Mr.Flash Pino 900 ml,Cuidado del Hogar,Limpieza de Baños
@@ -10900,6 +10907,8 @@ id_producto,producto,categoria,subcategoria
 550283,Premezcla Bizcochuelo Natuser 240 gr,Abarrotes,Repostería
 550290,Mermelada Andean Blueberries Arandano Sin Azucar 450 gr,Abarrotes,"Mermel, Mieles"
 550297,Chips de Chocolate Celinda 1 kg,Abarrotes,Repostería
+550298,Canaston Hecho en Bolivia,Abarrotes,Temporada
+550299,Canaston Hecho en Bolivia,Abarrotes,Temporada
 550307,Vino Evita Rosado Semi Dulce,Bebidas,Vinos y Champagne
 550308,Vino Evita Blanco Semi Dulce 700 ml,Bebidas,Vinos y Champagne
 550309,Vino Marques De Viana Blanco Blend 700 ml,Bebidas,Vinos y Champagne
@@ -12174,14 +12183,17 @@ id_producto,producto,categoria,subcategoria
 552879,BARRA PROT WILD CARAMELO 15GR,Abarrotes,Nutrición Infantil
 552880,BARRA PROT WILD CHOCOLATE BITTER 15G,Abarrotes,Nutrición Infantil
 552881,BARRA PROT WILD CHOCOLATE Y COCO 15GR,Abarrotes,Nutrición Infantil
+552884,GALLETAS ANTOJO NAVIDENO SAN GABRIEL 400,Abarrotes,Temporada
 552891,BEBIDA PROTEICA DELIZIA PINA BOT 500 ML,Bebidas,Energizantes
 552893,PANETTONE VAINILLA CON CHIPS DE CHOC CEIBO 750 GR BSA,Panadería,Panadería Externa
+552901,SULTANA ORANGE CUP BSA 160 GR,Abarrotes,Café y Sucedáneos
 552904,PANETONNE CON CHIPS DE CHOCOLATE CEIBO 750 GR BSA,Panadería,Panadería Externa
 552908,PACK 12 CERVEZA PACENA LTA 440ML,Bebidas,Cervezas
 552909,CAFE VINUT NEGRO LTA 250 ML,Abarrotes,Productos Americanos
 552910,ICED COFFE VINUT LTA 250 ML,Abarrotes,Productos Americanos
 552911,COLD DREW COFFE VINUT S AZUCAR LTA 250 ML,Abarrotes,Productos Americanos
 552912,COFFE LATE VINUT LTA 250 ML,Abarrotes,Productos Americanos
+552917,BASTONES NAVIDENOS CJA 120GR,Abarrotes,Productos Americanos
 554333,Cerveza Paceña Lata Roja 473 Cc,Bebidas,Cervezas
 554466,Detergente Liquido Ola Futuro Limpieza Completa 5 L,Cuidado del Hogar,Limpieza de la Ropa
 554468,Suavizante Ropa Ola Suavecito Original 5 L,Cuidado del Hogar,Limpieza de la Ropa
@@ -12808,6 +12820,7 @@ id_producto,producto,categoria,subcategoria
 616752,Desodorante Roll On Dove Men Extra Fresh 50 ml,Cuidado Personal,Cuidado de la Piel
 616753,Desodorante Roll On Dove Men Cuidado Total 50 ml,Cuidado Personal,Cuidado de la Piel
 616793,Jabon Barra Dove Men Care Clean 90 gr,Cuidado Personal,Cuidado de la Piel
+616805,Cepillo Dental Doctor Dent Cheaper Medium 1 un,Cuidado Personal,Cuidado Bucal
 616806,Cepillo Dental Doctor Dent Interdental Medio 1 un,Cuidado Personal,Cuidado Bucal
 616807,Cepillo Dental Doctor Dent Massage 1 un,Cuidado Personal,Cuidado Bucal
 616808,Cepillo Dental Doctor Dent Suction Pad 1 un,Cuidado Personal,Cuidado Bucal
@@ -12847,6 +12860,7 @@ id_producto,producto,categoria,subcategoria
 617392,Salsa Prego Tres Queso 680 gr,Abarrotes,Productos Americanos
 617408,JUGO V-8 FUSION MIXED BERRY BOT.1.36LTS,Bebidas,Bebidas Usa
 617436,Café Molido Folgers Colombiano 292 gr,Abarrotes,Café y Sucedáneos
+617460,Jugo V8 Fusion Durazno Mango 1.36 ml,Bebidas,Bebidas Usa
 617509,Vino Marques Caceres Satinela 750 ml,Bebidas,Vinos y Champagne
 617515,JUGO YOGGO DURAZNO CONCENTRADO 3000CC,Bebidas,"Jugos, Néctar"
 617528,Agua Mineral San Pellegrino Sparkling 500 ml,Bebidas,Bebidas Usa
@@ -13030,6 +13044,14 @@ id_producto,producto,categoria,subcategoria
 619426,Vino Espumeante Norton Vintage 750 ml,Bebidas,Vinos y Champagne
 619446,Caramelo Halloween Sangrientos 312 gr,Abarrotes,Temporada
 619465,Papa Bolivar Frita 200 gr,Abarrotes,Snack
+619466,Canaston Grafito,Abarrotes,Temporada
+619467,Canaston Bronce,Abarrotes,Temporada
+619468,Canaston Plata,Abarrotes,Temporada
+619469,Canaston Oro,Abarrotes,Temporada
+619470,Canaston Grafito,Abarrotes,Temporada
+619471,Canaston Bronce,Abarrotes,Temporada
+619472,Canaston Plata,Abarrotes,Temporada
+619473,Canaston Oro,Abarrotes,Temporada
 619477,Gomita Trululu Feroz 475 gr,Abarrotes,Golosinas - Varias
 619510,Whisky Jack Daniels Tennesee Honey 750 ml,Bebidas,Licores
 619523,Cafe Juan Valdez Cumbre 250 gr,Abarrotes,Café y Sucedáneos
@@ -13070,6 +13092,7 @@ id_producto,producto,categoria,subcategoria
 624039,Leche Pil Light Uht 946 ml,Lácteos y Derivados,Leches
 624055,Te Milord con Canela Clavo de Olor 100 Sobres,Abarrotes,Café y Sucedáneos
 624253,Mantequilla de Mani Jif Peanut Crujiente,Abarrotes,Repostería
+624257,Mostaza Maile Old Style 243 gr,Abarrotes,Productos Americanos
 624280,Pañuelo Elite Dualette Aloe Vera 6 un,Cuidado Personal,Cuidado Familiar
 624411,Cebada Grano de Oro Tostada 300 gr,Abarrotes,Condimentos y Legumbres
 624454,Frejol Negro Grano de Oro 450 gr,Abarrotes,Condimentos y Legumbres
@@ -14581,6 +14604,8 @@ id_producto,producto,categoria,subcategoria
 658877,Agua Fentimans Pink Grapefruit 200 ml,Bebidas,Aguas
 658879,Agua Tonica Fentimans Oriental Yuzu 200 ml,Bebidas,Aguas
 658882,Chipilo Chilo Tradicional 220 gr,Abarrotes,Snack
+658901,Canaston Platino,Abarrotes,Temporada
+658903,Canaston Platino,Abarrotes,Temporada
 658928,Chuspillu Crunchis Tostado 170 gr,Abarrotes,Snack
 658935,Alimento Whiskas Adulto Sardina Pounch 85 gr,Abarrotes,Mascotas
 658945,Te Akbar Rich Soursop 100 gr,Abarrotes,Café y Sucedáneos
@@ -14868,6 +14893,7 @@ id_producto,producto,categoria,subcategoria
 666546,Tinte Koleston Single Tono 77 Castaño Bambi,Cuidado Personal,Cuidado del Cabello
 666549,Tinte Koleston Single Tono 80 Rubio Claro,Cuidado Personal,Cuidado del Cabello
 666550,Tinte Koleston Single Tono 81 Rubio Cenizo Claro,Cuidado Personal,Cuidado del Cabello
+666553,Tinte Koleston Single Tono 98 Plata,Cuidado Personal,Cuidado del Cabello
 666559,Desodorante Aerosol Lady Speed Stick Derma Aloe 150 ml,Cuidado Personal,Cuidado de la Piel
 666565,Cera Brisol Piso Madera 500 ml,Cuidado del Hogar,Limpieza de Living y Ropero
 666586,Maquina de Afeitar Schick Xtreme Hombre 4 un,Cuidado Personal,Cuidado de la Piel
@@ -16340,6 +16366,7 @@ id_producto,producto,categoria,subcategoria
 672507,Patas de Pollo Pio Rico kg,Carnes,Carne de Pollo
 672508,Higado de Pollo Pio Rico Banjeda kg,Carnes,Carne de Pollo
 672509,Carne Molida de Pollo Pio Rico Bandeja kg,Carnes,Carne de Pollo
+672510,Piernas Entera Pio Rico Bandeja kg,Carnes,Carne de Pollo
 672511,Pechuga sin Piel Pio Rico Bandeja kg,Carnes,Carne de Pollo
 672513,Muslo de Pollo Pio Rico kg,Carnes,Carne de Pollo
 672514,Alas Trozada de Pollo Pio Rico kg,Carnes,Carne de Pollo
@@ -16649,6 +16676,7 @@ id_producto,producto,categoria,subcategoria
 673433,VIDALOE O AZUCAR SABOR MANZANA 500ML,Bebidas,Bebidas Varias
 673434,Galleta Wafer Bauducco Chocolate 420 gr,Abarrotes,Galletas
 673436,Cereal Zucaritas Kelloggs 480 gr,Abarrotes,Nutrición Infantil
+673440,PANETON CHOCOLATE OVOPLUS CAJA 500GRS,Panadería,Panadería Externa
 673445,Crema de Untar Bonle 1 kg,Lácteos y Derivados,Quesos
 673446,BUTTELLA BLACK MANTEQUILLA MANI CON CHOCOLATE 360GRS,Lácteos y Derivados,Mantequillas y Margarinas
 673447,BUTTELLA WHITE MANTEQUILLA DE MANI CHOCOLATE BLANCO 360GRS,Lácteos y Derivados,Mantequillas y Margarinas
@@ -17067,6 +17095,7 @@ id_producto,producto,categoria,subcategoria
 674264,PANETON CHOCOLATE INPASA 700GRS BOLSA TRILAMINADA,Panadería,Panadería Externa
 674265,PANETON CHOCOLINO INPASA 500GRS BOLSA TRILAMINADA,Panadería,Panadería Externa
 674267,POSTRE ORIGEN CHOCOLATE ALMENDRA CHUIQUI,Congelados,"Helados, Cassattas y Picoleses"
+674268,JAMON INGLES AHUMADO STEGE AL VACIO,Fiambres,Fiambres Externos
 674269,JAMON SIN GRASA STEGE AL VACIO,Fiambres,Fiambres Externos
 674270,JAMON SIN GRASA AHUMADO STEGE AL VACIO,Fiambres,Fiambres Externos
 674271,JAMON TORITO PZA 150GRS AL VACIO,Fiambres,Fiambres Externos
@@ -17804,6 +17833,7 @@ id_producto,producto,categoria,subcategoria
 761659,LINGUIZA PINA CARAMEL LA BOTECA 500 GRS.,Fiambres,Fiambres Externos
 761823,Hamburguesa de Pacu Pacusito kg,Congelados,Carnes Congeladas
 761842,Linguica Calabresa Frascanata La Boteca 500 gr,Fiambres,Fiambres Externos
+761872,CUNAPE ABIZCOCHADO SAN JAVIER 100 GR.ABRE FACIL,Pastelería y Masas Típicas,Masas Típicas Externas
 762130,Tortillas Mexican Food de Trigo 12 un,Congelados,Masas y Comidas Congeladas
 762417,Leche Deslactosada La Purita 800 ml,Lácteos y Derivados,Leches
 762534,Hamburguesa Fridosa Pollo Express 12 un,Congelados,Carnes Congeladas
@@ -17847,6 +17877,7 @@ id_producto,producto,categoria,subcategoria
 765024,Magdalenas Paris 10 un,Panadería,Panadería Externa
 765148,Alfajores de Maicena 6 un,Pastelería y Masas Típicas,Pastelería Hipermaxi
 765328,Rosquillas Abiscochadas Cositas al Horno 300 gr,Pastelería y Masas Típicas,Masas Típicas Externas
+765559,PANETON DELI-CHOC CHOCOLATE CAJA 750 GR,Panadería,Panadería Externa
 765613,Galleta Crick de Agua 200 gr,Abarrotes,Galletas
 765628,Galleta De Agua Crick 1 kg,Abarrotes,Galletas
 765836,Huevos Avicola Paurito Subsidio 15 un,Lácteos y Derivados,Huevos
@@ -17940,6 +17971,7 @@ id_producto,producto,categoria,subcategoria
 779162,Paneton Victoria 500 gr,Panadería,Panadería Externa
 779182,Paneton Victoria 250 gr,Panadería,Panadería Externa
 779326,Longaniza Bragantina Cerdo Provolone 500 gr,Fiambres,Fiambres Externos
+779340,PANETON SAN GABIEL LUJO CAJA 800 GRS.,Panadería,Panadería Externa
 779417,Longaniza Bragantina Cerdo Hierba Buena 500 gr,Fiambres,Fiambres Externos
 779427,Queso Danbo La Serenisima kg,Lácteos y Derivados,Quesos
 779428,Longaniza Bragantina Cerdo Bacon 500 gr,Fiambres,Fiambres Externos
@@ -18868,6 +18900,7 @@ id_producto,producto,categoria,subcategoria
 825641,Refresco Livean Naranja 9 gr,Abarrotes,Dietéticos y Saludables
 825661,Refresco Livean Fresa 9 gr,Abarrotes,Dietéticos y Saludables
 825705,Chocolate Kit Kat Nestle 41.5 gr,Abarrotes,Golosinas - Varias
+825758,CH 9201 ESPEJO,Bazar Importación,Temporada Navidad
 825785,Cachaza 51 Pirassununga 1 L,Bebidas,Licores
 825894,Vino Campos de Solana Trivarietal Reserva 750 ml,Bebidas,Vinos y Champagne
 825903,Vino Campos de Solana Reserva Malbec Cabernet Sauvignon 750 ml,Bebidas,Vinos y Champagne
@@ -18878,6 +18911,7 @@ id_producto,producto,categoria,subcategoria
 826143,25627/170 PELA PAPAS ROJO,Bazar,Articulos de Cocina
 826145,25627/100 PELA PAPAS NEGRO,Bazar,Articulos de Cocina
 826273,Lagua Cocinero de Choclo 100 gr,Abarrotes,Básicos
+826287,CH 2070 STICKER NAVIDENO P REGALO,Bazar Importación,Temporada Navidad
 826288,Horchata de Coco Cocinero 200 gr,Bebidas,Refrescos en Polvo
 826293,Lagua Cocinero de Chuño 100 gr,Abarrotes,Básicos
 826302,Fircase Paceño Cocinero 5 Platos,Abarrotes,Básicos
@@ -18914,11 +18948,14 @@ id_producto,producto,categoria,subcategoria
 828724,Limpiador Desinfectante Ola Aromatic Brisa Marina 1.8 L,Cuidado del Hogar,Limpieza de Baños
 828739,Alcohol Gel Sanitizador Liz Kiwi Sandia 360 ml,Cuidado Personal,Cuidado de la Piel
 829163,Jugo Tampico Island Punch 2 L,Bebidas,"Jugos, Néctar"
+829637,CH 26 3 MONO NAVIDENO 20 X 30 CM,Bazar Importación,Temporada Navidad
+829780,CH 48 2 VELA NAVIDENA LED PEQUENA C  BL Y RJ,Bazar Importación,Temporada Navidad
 829865,FOCO ECOHOME LEDBULD 7W 6500K HV1PF,Bazar,Ferretería
 829867,FOCO ECOHOME 10W E27 6500K HV1,Bazar,Ferretería
 829870,FOCO ECOHOME LEDBULB 12W E27 6500K HV1,Bazar,Ferretería
 829876,Queso Emmentaler Suiza kg,Lácteos y Derivados,Quesos
 829901,CH 9652 MANO P  PEDIR DULCES,Bazar Importación,Temporada Halloween
+829959,CH 0070 ADORNO PARA ARBOL,Bazar Importación,Temporada Navidad
 829970,Queso Sancor Por Salut Light Untable 190 gr,Lácteos y Derivados,Quesos
 830004,Dulce de Leche Pil 500 gr,Lácteos y Derivados,Dulces de Leche y Manjares
 830019,Dulce de Leche Pil 1 kg,Lácteos y Derivados,Dulces de Leche y Manjares
@@ -18940,6 +18977,9 @@ id_producto,producto,categoria,subcategoria
 831140,CUCHARILLAS DESECHABLES OLEGO 50UND,Bazar,Cotillón
 831142,PLATO CUADRADODESECHABLE OLEGO 10UND,Bazar,Cotillón
 831285,Refresco Nectar Kris Damasco 120 gr,Bebidas,Refrescos en Polvo
+831345,CH 24 34 ADORNO PARA ARBOL  ESTRELLA NAVIDENA 11 CM,Bazar Importación,Temporada Navidad
+831346,CH 24 35 ADORNO  PARA áRBOL ESTRELLA NAVIDENA 17 CM,Bazar Importación,Temporada Navidad
+831347,CH 24 36 BOLAS NAVIDENAS SET DE 6 PZAS 4 CM,Bazar Importación,Temporada Navidad
 831480,SHAMPO CENTRAL SUR  500ML,Bazar,Automotriz
 831509,BLISTER LAPIZ BIC EVOLUTION PIJAMA 3UN,Bazar,Librería
 831542,Vela Cirio Yander Maciel Gruesa 2 un,Bazar,Cotillón
@@ -18975,6 +19015,7 @@ id_producto,producto,categoria,subcategoria
 833414,Requeson San Javier Cremoso Light 220 gr,Lácteos y Derivados,Quesos
 833716,Sidra Cereser Uva 660 ml,Bebidas,Vinos y Champagne
 833929,Chicle Wrigley Juicy Fruit 5 Stick,Abarrotes,Golosinas - Varias
+834101,CH 0101 ADORNO PARA ARBOL,Bazar Importación,Temporada Navidad
 834226,Florero Pequeño Rombos,Bazar Importación,Living y Dormitorio
 834308,Gelatina Kris Cereza 250 gr,Abarrotes,Repostería
 834313,Gelatina Kris Naranja 250 gr,Abarrotes,Repostería
@@ -19025,9 +19066,16 @@ id_producto,producto,categoria,subcategoria
 835720,Set Bombillas Halloween 6 un,Bazar Importación,Temporada Halloween
 835730,CH N25 16 ADORNO ARANA SET X 2 10X6CM,Bazar Importación,Temporada Halloween
 835737,CH N25 3 BALDE CALABAZA HALLOWEEN 18X12CM,Bazar Importación,Temporada Halloween
+835763,CH N20 6 BOLAS NAVIDENAS SET X6PZAS 6CM,Bazar Importación,Temporada Navidad
+835764,CH N20 7 BOLAS NAVIDENAS SET X6PZAS 6CM,Bazar Importación,Temporada Navidad
+835765,CH N20 3 CENTRO DE MESA PORTA VELA X4 21X21CM,Bazar Importación,Temporada Navidad
+835766,CH N20 19 BOLAS NAVIDENAS SET X12 5CM,Bazar Importación,Temporada Navidad
 835767,Carne Para Sopa kg,Carnes,Carne de Res
+835781,CH N20 12 BOLAS NAVIDENAS SET X24 5CM,Bazar Importación,Temporada Navidad
 835896,Costilla Especial kg,Carnes,Carne de Res
 835905,Carne Picada Kg,Carnes,Carne de Res
+836008,CH J22 23 MUNECO NAVIDENO GNOMO 27X16CM,Bazar Importación,Temporada Navidad
+836009,CH J22 22 MUNECO GNOMO PIERNAS CRUZADAS 40X17CM,Bazar Importación,Temporada Navidad
 836121,Muñeca de Niña,Juguetería,Juguetería Niña/Bebé
 836127,Muñeca de Niña,Juguetería,Juguetería Niña/Bebé
 836359,Filete de Trucha Congelado kg,Congelados,Carnes Congeladas
@@ -19114,8 +19162,38 @@ id_producto,producto,categoria,subcategoria
 839902,Palitos Sticks Hueso de Pollo 70 gr,Bazar,Mascotas General
 839958,Arena Para Gato Super Mix 3 kg,Bazar,Mascotas General
 840006,Mermelada Gigante Fresa 1 kg,Abarrotes,"Mermel, Mieles"
+840090,CH N20 15 BOLAS NAVIDENAS NARANJAS SET X 10 6CM,Bazar Importación,Temporada Navidad
+840092,CH N20 25 BOLAS NAVIDENAS EN TUBO SET X 12 5CM,Bazar Importación,Temporada Navidad
+840093,CH N20 24 BOLAS NAVIDENAS EN TUBO SETX12 5CM,Bazar Importación,Temporada Navidad
+840094,CH N20 20 BOLAS NAVIDENAS EN TUBO SETX12 5CM,Bazar Importación,Temporada Navidad
+840095,CH 20 16 BOLAS NAVIDENAS EN TUBO SET X10 6CM,Bazar Importación,Temporada Navidad
+840097,CH N20 23 BOLAS NAVIDENAS EN TUBO SETX10 6CM,Bazar Importación,Temporada Navidad
+840099,CH N20 22 BOLAS NAVIDENAS EN TUBO SET X 10 6CM,Bazar Importación,Temporada Navidad
 840100,Atun Real Grated en Agua 185 gr,Abarrotes,Comidas en Conserva
 840115,Atun Real Grated en Aceite 185 gr,Abarrotes,Comidas en Conserva
+840126,CH N20 21 BOLAS NAVIDENAS EN TUBO SET X 8 7CM,Bazar Importación,Temporada Navidad
+840127,CH N20 10 BOLAS NAVIDENAS SET X 6 6CM,Bazar Importación,Temporada Navidad
+840146,CH J22 9 MUNECO DE NIEVE PIERNAS LARGAS 43X16CM,Bazar Importación,Temporada Navidad
+840147,CH J22 10 PAPA NOEL PIERNAS LARGAS 43X16CM,Bazar Importación,Temporada Navidad
+840148,CH J22 21 MUNECOS NAVIDENOS 30X10CM,Bazar Importación,Temporada Navidad
+840150,CH J22 6 PAPA NOEL SENTADO 40X24 CM,Bazar Importación,Temporada Navidad
+840151,CH J22 5 MUNECO DE NIEVE SENTADO 40X29CM,Bazar Importación,Temporada Navidad
+840153,CH J22 17 GNOMO PIERNAS SUELTAS 40X17CM,Bazar Importación,Temporada Navidad
+840165,CH J22 18 GNOMO C GORRO LARGO 30X10CM,Bazar Importación,Temporada Navidad
+840167,CH J22 16 GNOMO NAVIDENO SENTADO 27X16CM,Bazar Importación,Temporada Navidad
+840172,CH J22 15 GNOMO NAVIDENO PARADO 43X20CM,Bazar Importación,Temporada Navidad
+840184,CH N20 1 BOLAS NAVIDENAS SET X 20 6CM,Bazar Importación,Temporada Navidad
+840220,CH N22 4 ADORNO PINO P ARBOL SETX4,Bazar Importación,Temporada Navidad
+840221,CH N22 7 BOLAS NAVIDENAS GRANDES SET X6,Bazar Importación,Temporada Navidad
+840226,CH N22 12 BOLAS NAVIDENAS SETX24,Bazar Importación,Temporada Navidad
+840227,CH N22 15 BOLAS P ARBOL SET X12,Bazar Importación,Temporada Navidad
+840230,CH N22 21 BOLAS NAVIDENAS SER X6 LILA,Bazar Importación,Temporada Navidad
+840231,CH N22 22 BOLAS P ARBOL SET X2 LILA,Bazar Importación,Temporada Navidad
+840232,CH N22 23 BOLAS NAVIDENAS SET X6 LILA,Bazar Importación,Temporada Navidad
+840233,CH N22 24 BOLAS NAVIDENAS SETX6 LILA,Bazar Importación,Temporada Navidad
+840234,CH N22 25 BOLAS NAVIDENAS SETX6 LILA,Bazar Importación,Temporada Navidad
+840235,CH N22 27 BOLAS NAVIDENAS SET X12,Bazar Importación,Temporada Navidad
+840236,CH N22 30 ADORNO NAVIDENO SET X6,Bazar Importación,Temporada Navidad
 840338,PAN 0881 SET D ZUNCHOS 75PZAS,Bazar Importación,Ferretería
 840402,Sazon Con Azafran Goya 100 gr,Abarrotes,Productos Americanos
 840437,Miel Karo Light Corn 16 oz,Abarrotes,Productos Americanos
@@ -19150,9 +19228,43 @@ id_producto,producto,categoria,subcategoria
 841252,Gomita Mogul Fruti Moras 150 gr,Abarrotes,Golosinas - Varias
 841267,Gomita Mogul Dientes 150 gr,Abarrotes,Golosinas - Varias
 841289,Sombrero Halloween Espantos,Bazar Importación,Temporada Halloween
+841305,CH J42 20 ADORNO NAVIDENO FARO C LUZ,Bazar Importación,Temporada Navidad
+841314,CH J80 3 BOLSA PARA VINO COLOR NEGRO CON DORADO CHEERS,Bazar Importación,Temporada Navidad
+841318,CH J80 6 BOLSA DE NAVIDAD DISENO SURTIDO 26X32X10CM,Bazar Importación,Temporada Navidad
+841319,CH J80 7 BOLSA DE NAVIDAD DISENO SURTIDO   ROJO 30X39X12,Bazar Importación,Temporada Navidad
+841320,CH J80 8 BOLSA DE NAVIDAD DISENO SURTIDO   ROJO 17 5X23 5X8,Bazar Importación,Temporada Navidad
 841321,Fernet Capri 750 ml,Bebidas,Licores
+841322,CH J80 9 BOLSA DE NAVIDAD DISENO SURTIDO 26X32X10CM,Bazar Importación,Temporada Navidad
+841323,CH J80 10 BOLSA DE NAVIDAD DISENO SURTIDO  ROJO 30X39X10CM,Bazar Importación,Temporada Navidad
+841324,CH J80 10 BOLSA DE NAVIDAD DISENO SURTIDO  BLANCO 12X35X10,Bazar Importación,Temporada Navidad
+841325,CH J80 12 BOLSA DE NAVIDAD DISENO SURTIDO 23X17 5X10CM,Bazar Importación,Temporada Navidad
+841326,CH J80 13 BOLSA DE NAVIDAD DISENO SURTIDO 36X26X14CM,Bazar Importación,Temporada Navidad
+841327,CH J80 14 BOLSA DE NAVIDAD DISENO SURTIDO 45 5X32 5X13 5CM,Bazar Importación,Temporada Navidad
+841329,CH J80 16 BOLSA DE NAVIDAD DISENO SURTIDO   NEGRO 26X32X10CM,Bazar Importación,Temporada Navidad
+841332,CH J80 19 BOLSA DE NAVIDAD DISENO SURTIDO   CAFE 26X32X10CM,Bazar Importación,Temporada Navidad
 841336,Vino Norton Blanco Cosecha Tardia Dulce 750 ml,Bebidas,Vinos y Champagne
+841337,CH J80 23 BOLSA DE NAVIDAD DISENO SURTIDO   ROJO  26X32X10CM,Bazar Importación,Temporada Navidad
+841338,CH J80 24 BOLSA DE NAVIDAD DISENO SURTIDO   ROJO  30X39X12CM,Bazar Importación,Temporada Navidad
+841342,CH J80 28 BOLSA DE NAVIDAD DISENO SURTIDO   CAFE 26X32X10CM,Bazar Importación,Temporada Navidad
+841343,CH J80 29 BOLSA DE NAVIDAD DISENO SURTIDO   CAFE  30X39X12CM,Bazar Importación,Temporada Navidad
+841346,CH J80 32 BOLSA DE NAVIDAD ROJA DE PAPA NOEL  ARBOL Y CAMPAN,Bazar Importación,Temporada Navidad
+841347,CH J80 33 BOLSA DE NAVIDAD ROJA DE PAPA NOEL  ARBOL Y CAMPAN,Bazar Importación,Temporada Navidad
+841349,CH J80 35 BOLSA DE NAVIDAD DISENO SURTIDO   BLANCO 26X32X10C,Bazar Importación,Temporada Navidad
+841350,CH J80 36 BOLSA DE NAVIDAD DISENO SURTIDO   BLANCO 30X39X12C,Bazar Importación,Temporada Navidad
+841352,CH J80 38 BOLSA DE NAVIDAD DISENO SURTIDO   CAFE 18X21X10CM,Bazar Importación,Temporada Navidad
+841354,CH J80 40 BOLSA DE NAVIDAD DISENO SURTIDO   BLANCO 18X12X9CM,Bazar Importación,Temporada Navidad
+841355,CH J80 41 BOLSA DE NAVIDAD DISENO SURTIDO   BLANCO 23X16X11X,Bazar Importación,Temporada Navidad
+841357,CH J80 42 BOLSA DE NAVIDAD DISENO SURTIDO   BLANCO 27X20X13C,Bazar Importación,Temporada Navidad
+841382,CH J87 2 ARBOL DE NAVIDAD 180CM,Bazar Importación,Temporada Navidad
+841411,CH J80 27 BOLSA DE NAVIDAD DISENO SURTIDO   CAFE  17 5X23 5X,Bazar Importación,Temporada Navidad
+841412,CH N20 19 BOLAS NAVIDENAS ROJAS EN TUBO SETX12  TAMANO DE BO,Bazar Importación,Temporada Navidad
+841413,CH N20 42 ARBOL NAVIDENO PEQUENO DE DECORACION 35X6CM,Bazar Importación,Temporada Navidad
+841414,CH N20 43 ARBOL NAVIDENO PEQUENO DE DECORACION 35X6CM,Bazar Importación,Temporada Navidad
 841415,Arbol Navideño Pequeño Decoracion 40x6,Bazar Importación,Temporada Navidad
+841417,CH N20 45 ARBOL NAVIDENO PEQUENO DE DECORACION 37X6,Bazar Importación,Temporada Navidad
+841420,CH J22 37 MUNECO NAVIDENO   GNOMO GORRO LARGO GRIS,Bazar Importación,Temporada Navidad
+841421,CH J22 37 MUNECO NAVIDENO   GNOMO GORRO LARGO CON COPOS DE N,Bazar Importación,Temporada Navidad
+841424,CH J22 40 MUNECO NAVIDENO   GNOMO GORRO LARGO GRIS Y CUERPO,Bazar Importación,Temporada Navidad
 841447,CH J90 39 POSA OLLA DE BAMBU 21X23CM EXAGONO,Bazar Importación,Cocina General
 841450,Cafe Nueva Esperanza Tostado Erropeo 150 Gr,Abarrotes,Café y Sucedáneos
 841451,Arena Para Gato Hello Kitty Rosa 2 kg,Bazar,Mascotas General
@@ -19260,26 +19372,116 @@ id_producto,producto,categoria,subcategoria
 846130,Parrillero Portatil BBQ Ovalado,Bazar Importación,Churrasquería
 846131,Parrillero Ahumador 3 en 1 40x72,Bazar Importación,Churrasquería
 846166,Peluche De Oso con Mono,Juguetería Importación,Juguetería Didáctica/Temporada
+846178,CH Y582 ADORNO PAPA NOEL MUNECO DE NIEVE CON LUZ 8X7X12CM,Bazar Importación,Temporada Navidad
+846182,CH 5823 POSA CUCHARA NAVIDENA PAPA NOEL TAMANO 22X7 CM,Bazar Importación,Temporada Navidad
 846184,Galletero Navideño Papa Noel,Bazar Importación,Temporada Navidad
 846200,Adorno Halloween Juego de Dedos Ojos Araña,Bazar Importación,Temporada Halloween
+846219,CH Y64 3 ADORNO NAVIDENO RACIMO DE UVAS COLOR DORADO 3 6CM,Bazar Importación,Temporada Navidad
+846220,CH Y64 4 ADORNO NAVIDENO RACIMO DE UVAS COLOR MORADO 3 6CM,Bazar Importación,Temporada Navidad
 846223,CH Y64 6 ADORNO BOLAS DE NAVIDAD SETX12 PZAS BRONCE 6CM,Bazar Importación,Temporada Navidad
+846224,CH Y64 7 ADORNO BOLAS DE NAVIDAD SETX18 PZA 6CM ESTRELLAS,Bazar Importación,Temporada Navidad
+846225,CH Y64 8 ADORNO BOLAS DE NAVIDAD SETX18 PZAS BRONCE,Bazar Importación,Temporada Navidad
+846226,CH Y64 9 ADORNO BOLAS DE NAVIDAD SET X6 BRONCE PUNTOS 6CM,Bazar Importación,Temporada Navidad
+846227,CH Y64 10 ADORNO BOLAS DE NAVIDAD SET X 6 BRONCE RAYAS 6CM,Bazar Importación,Temporada Navidad
+846229,CH Y64 12 ADORNO BOLAS DE NAVIDAD SET X 12 PZAS LISA BRONCE,Bazar Importación,Temporada Navidad
+846231,CH Y64 14 ADONORNO NAVIDENO PARA ARBOL SET X5 VERDE 8CM,Bazar Importación,Temporada Navidad
+846232,CH Y64 15 ADORNO BOLAS NAVIDAD SET X6PZAS VERDE ONDAS 7CM,Bazar Importación,Temporada Navidad
+846234,CH Y64 18 ADORNO NAVIDENO BOLAS DE NAVIDAD SET X 24 PZA 6CM,Bazar Importación,Temporada Navidad
+846235,CH Y64 19 ADORNO NAVIDENO BOLAS DE NAVIDAD SET X 24 PZAS 6CM,Bazar Importación,Temporada Navidad
+846236,CH Y64 20 ADORNO NAVIDENO BOLAS DE NAVIDAD SET X 6 PZAS 7CM,Bazar Importación,Temporada Navidad
+846238,CH Y64 22 ADORNO NAVIDENO PARA ARBOL SET X 6 10CM AZUL,Bazar Importación,Temporada Navidad
+846239,CH Y64 23 BOLAS DE NAVIDAD SET X 6 PZAS COLOR AZUL 8CM,Bazar Importación,Temporada Navidad
 846240,CH Y64 23 BOLAS NAVIDENAS SET X24 6CM AZUL CON RELIEVE,Bazar Importación,Temporada Navidad
+846241,CH Y64 26 ADORNO NAVIDENO OVALADO P ARBOL SET X6 AZUL 6CM,Bazar Importación,Temporada Navidad
 846243,CH Y64 30 BOLAS DE NAVIDAD SET X24 BLANCAS C LINEAS ROJAS 8C,Bazar Importación,Temporada Navidad
+846244,CH Y64 31 BOLAS DE NAVIDAD SET X12 ROJAS ESTRELLA 4CM,Bazar Importación,Temporada Navidad
+846245,CH Y64 32 BOLAS DE NAVIDAD SET X 12 PZAS ROJO PINA 4CM,Bazar Importación,Temporada Navidad
+846246,CH Y64 33 ADORNO NAVIDENO PARA ARBOL BOTAS ROJAS SET X4 6CM,Bazar Importación,Temporada Navidad
+846248,CH Y64 35 BOLAS DE NAVIDAD SET X 18 PZAS ROJAS 5CM,Bazar Importación,Temporada Navidad
+846249,CH Y64 36 BOLAS DE NAVIDAD SET X12 PZAS ROJAS 5CM,Bazar Importación,Temporada Navidad
+846250,CH Y64 37 OLAS DE NAVIDAD SET X 12 PZAS ROJAS 3CM,Bazar Importación,Temporada Navidad
+846251,CH Y64 38 BOLAS DE NAVIDAD SET X 6 PZAS ROJAS C DORADO 6CM,Bazar Importación,Temporada Navidad
+846252,CH Y64 39 BOLAS DE NAVIDAD SET X 24 PZAS ROJAS 6CM,Bazar Importación,Temporada Navidad
+846253,CH Y64 41 BOLAS DE NAVIDAD SET X6 PZAS CAFES C DORADO 8CM,Bazar Importación,Temporada Navidad
+846254,CH Y64 42 BOLAS DE NAVIDAD SET X 6 PZAS CAFE 8CM,Bazar Importación,Temporada Navidad
+846255,CH Y64 43 BOLAS DE NAVIDAD SET X 6 PZAS CAFE C BLANCO 8CM,Bazar Importación,Temporada Navidad
+846258,CH Y47 1 ADORNO NAVIDENO ELFO MERRY CHRISTMAS COLGANTE 40X35,Bazar Importación,Temporada Navidad
+846259,CH Y47 2 ADORNO NAVIDENO ELFO SENTADO 40X22 CM,Bazar Importación,Temporada Navidad
 846260,Adorno Navideño Elfo de Pie,Bazar Importación,Temporada Navidad
 846261,Adorno Navideño Elfo Piernas Largas,Bazar Importación,Temporada Navidad
+846263,CH Y47 5 CANASTA NAVIDENA ELFO 20X25 CM,Bazar Importación,Temporada Navidad
+846264,CH Y47 6 ADORNO NAVIDENO ELFO COLGANTE 45 CM,Bazar Importación,Temporada Navidad
+846267,CH Y47 9 ADORNO NAVIDENO PAPA NOEL MUNECO DE NIEVE MERRY CHR,Bazar Importación,Temporada Navidad
+846268,CH Y47 10 CANASTA NAVIDENA PAPA NOEL MUNECO DE NIEVE 20X30CM,Bazar Importación,Temporada Navidad
+846269,CH Y47 11 ADORNO NAVIDENO PARA PUERTA WELCOME  PAPA NOEL  MU,Bazar Importación,Temporada Navidad
+846270,CH Y47 12 ADORNO NAVIDENO PARA PUERTA FELIZ NAVIDAD 30CM,Bazar Importación,Temporada Navidad
+846271,CH Y47 13 ADORNO NAVIDENO PARA PUERTA FELIZ NAVIDAD MUNECO,Bazar Importación,Temporada Navidad
+846272,CH Y47 14 ADORNO NAVIDENO PARA PUERTA FELIZ NAVIDAD 30CM,Bazar Importación,Temporada Navidad
+846273,CH Y47 15 ADORNO NAVIDENO PAPA NOEL SENTADO 24X47 CM,Bazar Importación,Temporada Navidad
+846274,CH Y47 16 ADORNO NAVIDENO MUNECO DE NIEVE SENTADO 24X47CM,Bazar Importación,Temporada Navidad
+846275,CH Y47 17 ADORNO NAVIDENO RENO SENTADO 24X47CM,Bazar Importación,Temporada Navidad
+846276,CH Y47 18 CANASTA NAVIDENA PAPA NOEL MUNECO DE NIEVE RENO 20,Bazar Importación,Temporada Navidad
+846278,CH Y47 19 ADORNO NAVIDENO PAPA NOEL MUNECO DE NIEVE RENO 60X,Bazar Importación,Temporada Navidad
 846280,CH Y47 21 ADORNO NAVIDENO PAPA NOEL MUNECO DE NIEVE  RENO 48,Bazar Importación,Temporada Navidad
+846281,CH Y47 22 ADORNO NAVIDENO PAPA NOEL DE PIE 75CM,Bazar Importación,Temporada Navidad
+846283,CH Y47 23 ADORNO NAVIDENO MUNECO DE NIEVE DE PIE 75CM,Bazar Importación,Temporada Navidad
 846284,CH Y47 24 ADORNO NAVIDENO RENO DE PIE 75CM,Bazar Importación,Temporada Navidad
+846285,CH Y65 1 ADORNO NAVIDE¥O CON FLOR ROJA Y BOLSA DE REGALO DOR,Bazar Importación,Temporada Navidad
+846286,CH Y65 2 ADORNO NAVIDENO CON CEREZAS ROJAS 20X12CM,Bazar Importación,Temporada Navidad
+846288,CH Y65 4 ADORNO NAVIDENO CEREZAS Y PINAS BASE MADERA 29X10CM,Bazar Importación,Temporada Navidad
+846289,CH Y65 5 ADORNO NAVIDENO BASE MADERA Y MONO 23X12CM,Bazar Importación,Temporada Navidad
+846290,CH Y65 6 CINTA NAVIDENA COLOR SURTIDO 2 7MTS,Bazar Importación,Temporada Navidad
+846291,CH Y65 7 GORRO NAVIDENO ROJO 29X36CM,Bazar Importación,Temporada Navidad
+846293,CH Y58 3 ADORNO NAVIDENO PAPA NOEL Y MUNECO DE NIEVE C LUZ,Bazar Importación,Temporada Navidad
 846294,CH Y58 5 ADORNO NAVIDENO CON FAROL Y LUZ A PILAS 13X9X17CM,Bazar Importación,Temporada Navidad
+846295,CH Y58 6 ADORNO PAPA NOEL GORRO CON CAMPANILLA A PILAS 17X9X,Bazar Importación,Temporada Navidad
+846296,CH Y58 7 ADORNO PAPA NOEL MUNECO DE NIEVE EN BOLA DE NIEVE,Bazar Importación,Temporada Navidad
+846302,CH Y58 12 LECHERA NAVIDENA MEDIANA 300ML 13 5X8 5X10CM,Bazar Importación,Temporada Navidad
+846303,CH Y58 14 SET X 3 SALERO PIMENTERO  SERVILLETERO NAVIDENO,Bazar Importación,Temporada Navidad
+846304,CH Y58 16 FRESCO HERMETICO NAVIDENO 10X10X12CM,Bazar Importación,Temporada Navidad
 846309,CH Y58 20 TETERA NAVIDENA C TAPA 1000ML 25X11X18,Bazar Importación,Temporada Navidad
+846310,CH Y58 21 RECIPIENTE NAVIDENO SET X 3 C TAPA Y CUCHARILLAS,Bazar Importación,Temporada Navidad
+846312,CH Y58 22 SET X 2 SALERO Y PIMENTERO NAVIDENO 6 5X6X7 5CM,Bazar Importación,Temporada Navidad
+846313,CH Y58 24 SET X 2 SALERO Y PIMENTERO NAVIDENO 5 5X 5 5X7 5CM,Bazar Importación,Temporada Navidad
+846315,CH Y58 26 PLATO NAVIDENO VERDE CON ROJO 21X21X3CM,Bazar Importación,Temporada Navidad
+846319,CH Y58 34 LECHERA NAVIDENA PAPA NOEL 800ML  19X14X20CM,Bazar Importación,Temporada Navidad
 846363,CH 9 472 SET X3 FRASCOS C TAPA CAFE 600 1000 Y 1400ML,Bazar Importación,Cocina General
 846365,CH 9 480 ESPECIEROS CON TAPA CAFE SET X6 CON BASE 120ML,Bazar Importación,Cocina General
 846369,Parillero Ahumador Grande BBQ 114x58x102 cm,Bazar Importación,Churrasquería
 846370,Cepillo Para Parilla Acero,Bazar Importación,Churrasquería
+846372,CH Y632 ADORNO NAVIDENO BUZON DE CORREO DENTRO DE BOTELLA DE,Bazar Importación,Temporada Navidad
+846373,CH Y63 3 ADORNO NAVIDENO FAROL DENTRO DE BOTELLA DE VIDRIO,Bazar Importación,Temporada Navidad
+846374,CH Y63 4 ADORNO NAVIDENO BOLA DE CRISTAL MERRY CHRISTMAS,Bazar Importación,Temporada Navidad
+846375,CH Y63 5 ADORNO NAVIDENO PAPA NOEL CON ARBOL DENTRO DE BOTEL,Bazar Importación,Temporada Navidad
+846376,CH Y63 6 ADORNO NAVIDENO DOMO DE NIEVE COLGANTE PAPA NOEL,Bazar Importación,Temporada Navidad
+846377,CH Y63 8 ADORNO NAVIDENO CUPULA DE CRISTAL  COLGANTE  MUNECO,Bazar Importación,Temporada Navidad
+846378,CH Y63 9 ADORNO NAVIDENO DOMO DE NIEVE COLGANTE MUNECO DE,Bazar Importación,Temporada Navidad
+846379,CH Y63 12 ADORNO NAVIDE¥O CORONA DORADA PEQUENA 6CM,Bazar Importación,Temporada Navidad
+846380,CH Y63 14 ADORNO NAVIDENO RAMA DORADA 40CM,Bazar Importación,Temporada Navidad
+846393,CH Y63 35 ADORNO NAVIDENO MUNECO DE NIEVE CON LUZ A PILAS 3A,Bazar Importación,Temporada Navidad
+846394,CH Y63 37 ADORNO NAVIDENO CASCANUECES 19X6X54CM,Bazar Importación,Temporada Navidad
+846395,CH Y63 38 ADORNO NAVIDENO CORONA CON PINAS 32X8CM,Bazar Importación,Temporada Navidad
 846396,CH Y63 39 ADORNO NAVIDENO CORONA CON PINAS Y ROSAS ROJAS 28C,Bazar Importación,Temporada Navidad
+846397,CH Y63 40 ADORNO ADORNO NAVIDE¥O CORONA COLOR PALO DE ROSA,Bazar Importación,Temporada Navidad
 846398,CH Y63 41 DORNO NAVIDENO CORONA CON PI¥AS Y BOLAS DE NAVIDAD,Bazar Importación,Temporada Navidad
 846399,CH Y63 42 ADORNO NAVIDENO CORONA CON ESCARCHA BLANCA 30X6,Bazar Importación,Temporada Navidad
+846401,CH 4 114 ADORNO NAVIDENO MONO ROJO CON LINEAS DORADAS X3,Bazar Importación,Temporada Navidad
+846402,CH 4 387 ADORNO NAVIDENO MONO CON PAPA NOEL COLGANTE,Bazar Importación,Temporada Navidad
+846403,CH 4 392 ADORNO NAVIDENO MONO DORADO CON PAPA NOEL COLGANTE,Bazar Importación,Temporada Navidad
+846404,CH 4 396 ADORNO NAVIDENO MONO CON RENO COLGANTE 19X25CM,Bazar Importación,Temporada Navidad
+846405,CH 4 429 ADORNO NAVIDENO PAPA NOEL COLGANTE 19X23CM,Bazar Importación,Temporada Navidad
+846406,CH 4 430 ADORNO NAVIDENO PAPA NOEL PIERNAS LARGAS 19X30CM,Bazar Importación,Temporada Navidad
+846407,CH 4 435 ADORNO NAVIDENO COLGANTE 12X45CM,Bazar Importación,Temporada Navidad
+846410,CH 4 490 ADORNO NAVIDENO BOTA DE NAVIDAD MUNECO DE NIEVE 12X,Bazar Importación,Temporada Navidad
+846411,CH 4 493 ADORNO NAVIDENO BOTA MUNECO DE NIEVE C BUFANDA 12X2,Bazar Importación,Temporada Navidad
+846412,CH 4 507 PIE DE ARBOL NAVIDENO CON FIGURAS BLANCAS 60CM,Bazar Importación,Temporada Navidad
+846413,CH 4 532 ADORNO NAVIDENO BOLSA DE NAVIDAD MERRY CHRISTMAS 28,Bazar Importación,Temporada Navidad
+846414,CH 4 534 ADORNO NAVIDENO BOLSA DE NAVIDAD CON FIGURAS BLANCA,Bazar Importación,Temporada Navidad
+846416,CH 4 561 ADORNO NAVIDENO BOTAS DE NAVIDAD MUNECO DE NIEVE  (,Bazar Importación,Temporada Navidad
+846417,CH Y58 4 ADORNO NAVIDENO PAPA NOEL MUNECO DE NIEVE C LUZ,Bazar Importación,Temporada Navidad
 846418,CH Y58 13 LECHERA NAVIDENA PAPA NOEL 800ML,Bazar Importación,Temporada Navidad
 846419,CH Y58 15 FRASCO NAVIDENO HERMETICO PAPA NOEL 14X10X16,Bazar Importación,Temporada Navidad
+846421,CH Y58 32 PLATO NAVIDENO PAPA NOEL CON COPOS DE NIEVE 25CM,Bazar Importación,Temporada Navidad
 846422,Flores Artificiales Tulipan 36 cm,Bazar Importación,Regalos/Adornos
 846423,CH G11 2 FLORES ARTIFICIALES NARCISO 20 5CM,Bazar Importación,Regalos/Adornos
 846424,CH G11 3 FLORES ARTIFICIALES ORQUIDEA PHALAENOPSIS 25 5CM,Bazar Importación,Regalos/Adornos
@@ -19297,6 +19499,38 @@ id_producto,producto,categoria,subcategoria
 846534,CH Y70 13 FLORES ARTIFICIALES EN MACETA DE MADERA  TAMA¥O 35,Bazar Importación,Regalos/Adornos
 846552,CH Y56 4 INDIVIDUAL REDONDO MEDIANO PARA OLLA 20CM,Bazar Importación,Cocina General
 846553,CH Y56 5 INDIVIDUAL REDONDO GRANDE 38CM,Bazar Importación,Cocina General
+846558,CH Y71 3 LUCES DE NAVIDAD COLOR ROJO VERDE BLANCO  10MTS,Bazar Importación,Temporada Navidad
+846570,CH Y71 15 ADORNO NAVIDENO PAPA NOEL LUCES MULTICOLOR,Bazar Importación,Temporada Navidad
+846571,CH Y3 1 ADORNO NAVIDENO CORONA MUNECO DE NIEVE FELIZ NAVIDAD,Bazar Importación,Temporada Navidad
+846572,CH Y3 2 ADORNO NAVIDENO CORONA MUNECO DE NIEVE FELIZ NAVIDAD,Bazar Importación,Temporada Navidad
+846573,CH Y3 3 ADORNO NAVIDENO CORONA RENO FELIZ NAVIDAD 32CM,Bazar Importación,Temporada Navidad
+846574,CH Y3 4 ADORNO NAVIDENO CORONA MUNECO DE NIEVE MERRY CHRISMA,Bazar Importación,Temporada Navidad
+846575,CH Y3 5 ADORNO NAVIDENO CORONA PAPA NOEL  MERRY CHRISTMAS  T,Bazar Importación,Temporada Navidad
+846576,CH Y3 6 ADORNO NAVIDENO CORONA RENO MERRY CRHRISTMAS 32CM,Bazar Importación,Temporada Navidad
+846577,CH Y3 7 ADORNO NAVIDENO CORONA WELCOME RENO 40X30CM,Bazar Importación,Temporada Navidad
+846578,CH Y3 8 ADORNO NAVIDENO CORONA PAPA NOEL MUNECO DE NIEVE,Bazar Importación,Temporada Navidad
+846580,CH Y3 9 ADORNO BOTA NAVIDENA MERRY CHRISTMAS  47X29CM,Bazar Importación,Temporada Navidad
+846583,CH Y3 13 ADORNO NAVIDENO PARA PUERTA CARA PAPA NOEL 38X19CM,Bazar Importación,Temporada Navidad
+846586,CH 04 31 ADORNO NAVIDENO MONO COLOR ROJO CON VERDE 28X32CM,Bazar Importación,Temporada Navidad
+846587,CH 04 40 ADORNO NAVIDENO MONO COLOR ROJO CON VERDE 23X32CM,Bazar Importación,Temporada Navidad
+846588,CH 04 41 ADORNO NAVIDENO MONO COLOR ROJO 23X32CM,Bazar Importación,Temporada Navidad
+846589,CH 04 48 ADORNO NAVIDENO MONO COLOR ROJO,Bazar Importación,Temporada Navidad
+846590,CH 4 445 ADORNO NAVIDENO PAPA NOEL COLGANTE MERRY CHRISTMAS,Bazar Importación,Temporada Navidad
+846592,CH Y64 24 ADORNO BOLAS DE NAVIDAD SETX8 PZAS COLOR AZUL 8CM,Bazar Importación,Temporada Navidad
+846593,CH Y64 27 ADORNO PARA ARBOL SETX6 PIEZAS DULCES AZULES Y VER,Bazar Importación,Temporada Navidad
+846594,CH Y64 29 ADORNO BOLAS DE NAVIDAD SETX6 PZAS COLOR BLANCO CO,Bazar Importación,Temporada Navidad
+846595,CH Y64 40 ADORNO BOLAS DE NAVIDAD SETX6 PZAS COLOR BLANCO Y,Bazar Importación,Temporada Navidad
+846597,CH Y63 1 ADORNO NAVIDENO CUPULA DE CRISTAL CASA DE MADERA  C,Bazar Importación,Temporada Navidad
+846600,CH Y63 10 ADORNO NAVIDENO BOLA DE CRISTAL RENO CON LUZ,Bazar Importación,Temporada Navidad
+846601,CH Y63 11 ADORNO NAVIDENO BOLA DE CRISTAL MUNECO DE NIEVE,Bazar Importación,Temporada Navidad
+846602,CH Y63 13 ADORNO NAVIDENO RAMA DORADA 120CM,Bazar Importación,Temporada Navidad
+846604,CH Y63 16 ARBOL PEQUENO DORADO  43CM,Bazar Importación,Temporada Navidad
+846606,CH Y63 19 ARBOL PEQUENO ROJO 32CM,Bazar Importación,Temporada Navidad
+846609,CH Y63 36 ADORNO NAVIDENO PAPA NOEL CON LUZ A PILAS AAA 45.5,Bazar Importación,Temporada Navidad
+846610,CH Y63 43 MUNECO NAVIDENO GNOMO CON LUZ A PILAS NEGRO 36CM,Bazar Importación,Temporada Navidad
+846611,CH SH010 MUNECO NAVIDENO GNOMO PLOMO Y ROJO 30CM,Bazar Importación,Temporada Navidad
+846612,CH SH037 ADORNO NAVIDENO BOTA CON GNOMO 50CM,Bazar Importación,Temporada Navidad
+846614,CH SH038 ADORNO NAVIDENO BOTA CON PAPA NOEL Y MUNECO 50CM,Bazar Importación,Temporada Navidad
 846627,Porta Retrato de Madera 19x17 cm,Bazar Importación,Living y Dormitorio
 846631,Porta Retrato de Madera 10x15 cm,Bazar Importación,Living y Dormitorio
 846634,Porta Retrato de Madera Rayas 10x15 cm,Bazar Importación,Living y Dormitorio
@@ -19512,7 +19746,15 @@ id_producto,producto,categoria,subcategoria
 852025,Peluche Gato Pequeño 23 cm,Juguetería Importación,Juguetería Didáctica/Temporada
 852059,Marshmallows Guandy Bicolor 255 gr,Abarrotes,Golosinas - Varias
 852067,Peluche Gato Mediano 35 cm,Juguetería Importación,Juguetería Didáctica/Temporada
+852070,CH 19B 5 ARBOL DE NAVIDAD 150CM,Bazar Importación,Temporada Navidad
+852071,CH 19B 6 ARBOL DE NAVIDAD 180CM,Bazar Importación,Temporada Navidad
+852072,CH 206 4 ARBOL NAVIDENO 120CM,Bazar Importación,Temporada Navidad
+852073,CH 221 6 ARBOL DE NAVIDAD 180CM,Bazar Importación,Temporada Navidad
+852074,CH 210 6 ARBOL DE NAVIDAD 180CM,Bazar Importación,Temporada Navidad
+852076,CH 2X05 ARBOL DE NAVIDAD 60CM,Bazar Importación,Temporada Navidad
+852077,CH 2X04 ARBOL DE NAVIDAD 60CM,Bazar Importación,Temporada Navidad
 852084,Margarina Reyna 425 gr,Lácteos y Derivados,Mantequillas y Margarinas
+852089,CH 2X06 ARBOL DE NAVIDAD 60CM,Bazar Importación,Temporada Navidad
 852099,Margarina Reyna 215 gr,Lácteos y Derivados,Mantequillas y Margarinas
 852165,JUEGO MESA 4 EN 1  BOLIVMAR,Juguetería,Juguetería Didáctica/Temporada
 852173,Margarina Reyna Valle 850 gr,Lácteos y Derivados,Mantequillas y Margarinas
@@ -19520,6 +19762,50 @@ id_producto,producto,categoria,subcategoria
 852306,Media Luna Argentina Hipermaxi kg,Panadería,Panadería Hipermaxi
 852377,Juguete Bloques para Armar 57 Piezas,Juguetería Importación,Juguetería Didáctica/Temporada
 852502,CH 24 31 ADORNOS HALLOWEEN A CUERDA,Bazar Importación,Temporada Halloween
+852677,CH J14 4 ADORNO NAVIDENO PAPA NOEL PARADO 57CM,Bazar Importación,Temporada Navidad
+852692,CH J14 5 ADORNO NAVIDENO RENO PARADO 32CM,Bazar Importación,Temporada Navidad
+852694,CH J14 6 ADORNO NAVIDENO PAPA NOEL PARADO 32CM,Bazar Importación,Temporada Navidad
+852704,CH J14 7 ADORNO NAVIDENO MUNECO DE NIEVE 32CM,Bazar Importación,Temporada Navidad
+852723,CH 12 1 LUCES DE NAVIDAD X100 FOCOS MULTICOLOR 9M,Bazar Importación,Temporada Navidad
+852724,CH 12 2 LUCES DE NAVIDAD X200 FOCOS BLANCOS 5M,Bazar Importación,Temporada Navidad
+852725,CH 12 3 LUCES DE NAVIDAD X100 FOCOS MULTICOLOR 10M,Bazar Importación,Temporada Navidad
+852726,CH 12 4 LUCES DE NAVIDAD X200 FOCOS AMARILLO 20M,Bazar Importación,Temporada Navidad
+852727,CH 12 5 LUCES DE NAVIDAD X200 FOCO MULTICOLOR 5M,Bazar Importación,Temporada Navidad
+852728,CH 12 6 LUCES DE NAVIDAD X200 FOCOS BLANCO 5M,Bazar Importación,Temporada Navidad
+852729,CH 12 7 LUCES DE NAVIDAD X100 FOCOS MULTICOLOR 12M,Bazar Importación,Temporada Navidad
+852731,CH 12 9 LUCES DE NAVIDAD X100 FOCOS MULTICOLOR 12M,Bazar Importación,Temporada Navidad
+852732,CH 12 10 LUCES DE NAVIDAD X100 FOCOS BLANCO 12M,Bazar Importación,Temporada Navidad
+852733,CH 12 11 LUCES DE NAVIDAD X200 FOCOS MULTICOLOR 20M,Bazar Importación,Temporada Navidad
+852734,CH 12 12 LUCES DE NAVIDAD X100 FOCOS LED MULTICOLOR 10M,Bazar Importación,Temporada Navidad
+852735,CH 12 13 LUCES DE NAVIDAD X50 FOCOS LED MULTICOLOR 5M,Bazar Importación,Temporada Navidad
+852736,CH 12 14 LUCES DE NAVIDAD X100 FOCOS BLANCOS 6M,Bazar Importación,Temporada Navidad
+852739,CH 12 16 LUCES DE NAVIDAD X100 FOCOS BLANCOS 9M,Bazar Importación,Temporada Navidad
+852740,CH 12 17 LUCES DE NAVIDAD X100 FOCOS AZUL,Bazar Importación,Temporada Navidad
+852741,CH 12 18 BOLAS DE LUCES X200 FOCOS BLANCO 3M,Bazar Importación,Temporada Navidad
+852744,CH 12 20 LUCES DE NAVIDAD X100 FOCOS 10M,Bazar Importación,Temporada Navidad
+852770,CH J15 1B ADORNO NAVIDENO MUNECO DE NIEVE CON GORRO Y BUFAND,Bazar Importación,Temporada Navidad
+852771,CH J15 1C ADORNO NAVIDENO RENO CON GORRO Y BUFANDA,Bazar Importación,Temporada Navidad
+852772,CH J15 1A ADORNO NAVIDENO PAPA NOEL PARADO 48CM,Bazar Importación,Temporada Navidad
+852773,CH J15 2A ADORNO NAVIDENO PAPA NOEL CON CANASTA 20X35CM,Bazar Importación,Temporada Navidad
+852774,CH J15 2B ADORNO NAVIDENO MUNECO DE NIEVE CON CANASTA,Bazar Importación,Temporada Navidad
+852775,CH J15 2C ADORNO NAVIDENO RENO CON CANASTA 20X35CM,Bazar Importación,Temporada Navidad
+852776,CH 15 3C ADORNO NAVIDENO RENO SENTADO 24X47CM,Bazar Importación,Temporada Navidad
+852778,CH 15 3B ADORNO NAVIDENO MUNECO DE NIEVE SENTADO 24X47CM,Bazar Importación,Temporada Navidad
+852779,CH 15 3A ADORNO NAVIDENO PAPA NOEL SENTADO 24X47CM,Bazar Importación,Temporada Navidad
+852780,CH J15 4B ADORNO BOTA NAVIDENA MUNECO DE NIEVE 28X45CM,Bazar Importación,Temporada Navidad
+852781,CH J15 4A ADORNO BOTA NAVIDENA PAPA NOEL 28X45CM,Bazar Importación,Temporada Navidad
+852783,CH J15 4C ADORNO BOTA NAVIDENA RENO 28X45CM,Bazar Importación,Temporada Navidad
+852784,CH J15 5 ADORNO NAVIDENO PAPA NOEL PARADO CON GORRO ROJO 75C,Bazar Importación,Temporada Navidad
+852788,CH J15 9 ADORNO NAVIDENO RENO CON CUERPO GRANDE 40CM,Bazar Importación,Temporada Navidad
+852795,CH 15 10A ADORNO NAVIDENO MUNECA ELFO 55CM,Bazar Importación,Temporada Navidad
+852796,CH 15 10B ADORNO NAVIDENO MUNECO ELFO 55CM,Bazar Importación,Temporada Navidad
+852798,CH J15 11 ADORNO NAVIDENO GNOMO 50CM,Bazar Importación,Temporada Navidad
+852987,CH 09 06 BOLAS DE NAVIDAD COLOR DORADO SET X36 PZAS,Bazar Importación,Temporada Navidad
+852988,CH 10 06 BOLAS DE NAVIDAD COLOR PLATEADO SET X36 PZAS,Bazar Importación,Temporada Navidad
+852989,CH 11 06 BOLAS DE NAVIDAD COLOR AZUL SET X36 PZAS,Bazar Importación,Temporada Navidad
+852990,CH 08 06 BOLAS DE NAVIDAD COLOR VERDE OSCURO SET X36 PZAS,Bazar Importación,Temporada Navidad
+852991,CH 02 06 BOLAS DE NAVIDAD COLOR PLATEADO OSCURO SET X36 PZAS,Bazar Importación,Temporada Navidad
+852993,CH 06 06 BOLAS DE NAVIDAD COLOR VERDE CLARO SETX36 PZAS,Bazar Importación,Temporada Navidad
 853007,Caramelo Menthoplus Cherry 30.6 gr,Abarrotes,Golosinas - Varias
 853012,Caramelo Menthoplus Miel 30.6 gr,Abarrotes,Golosinas - Varias
 853017,Muñeca Barbie Basica,Juguetería,Juguetería Niña/Bebé
@@ -19534,7 +19820,16 @@ id_producto,producto,categoria,subcategoria
 853223,Dream Ella Cambia,Juguetería,Juguetería Niña/Bebé
 853309,Gelatina Kris Frambuesa 230 gr,Abarrotes,Repostería
 853314,Gelatina Kris Limon 250 gr,Abarrotes,Repostería
+853325,CH 02 10 BOLAS DE NAVIDAD COLOR PLATEADO OSCURO SETX12 PZAS,Bazar Importación,Temporada Navidad
+853326,CH 06 10 BOLAS DE NAVIDAD COLOR VERDE CLARO SETX12 PZAS 10CM,Bazar Importación,Temporada Navidad
+853328,CH CJ 1 BOLAS NAVIDENAS ROJO VERDE Y DORADO SET X30 PZAS,Bazar Importación,Temporada Navidad
+853329,CH CJ 2 BOLAS NAVIDENAS ROJO Y BLANCO SET X30 PZAS 6CM,Bazar Importación,Temporada Navidad
+853330,CH CJ 4 BOLAS NAVIDENAS ROJO BLANCO VERDE SET X 30PZAS 6CM,Bazar Importación,Temporada Navidad
+853331,CH CJ 5 SET NAVIDENO ROJAS Y DORADAS ESTRELLA PINA SET X20PZ,Bazar Importación,Temporada Navidad
+853332,CH J104 BOLAS NAVIDENAS ROJAS DORADAS VERDES SET X16PZAS,Bazar Importación,Temporada Navidad
+853333,CH 105 BOLAS NAVIDENAS DE VARIOS COLORES Y DISENOS,Bazar Importación,Temporada Navidad
 853334,Galleta Oreo Chocolate 216 gr,Abarrotes,Galletas
+853338,CH 106 BOLAS DE NAVIDAD ROJO VERDE BLANCO 6CM,Bazar Importación,Temporada Navidad
 853392,Juego Geometrico Pkeyroad Rigido 4 Piezas,Bazar,Librería
 853776,Termoventilador Briara Br 2350,Bazar,Electrodoméstico/Línea Blanca-Hogar
 853779,Termoventilador Briara Br 2349,Bazar,Electrodoméstico/Línea Blanca-Hogar
@@ -19555,12 +19850,36 @@ id_producto,producto,categoria,subcategoria
 854166,RENO COLOR PLATA,Bazar Importación,Regalos/Adornos
 854179,Cereal Granix Corn Flakes 500 gr,Abarrotes,Nutrición Infantil
 854248,Azucar Marconi Impalpable 200 gr,Abarrotes,Repostería
+854291,CH 109 BOLAS NAVIDENAS ROJAS Y VERDES SET X20PZAS 6CM,Bazar Importación,Temporada Navidad
+854292,CH 110 BOLAS NAVIDENAS ROJAS Y BLANCAS SET X20PZAS 6CM,Bazar Importación,Temporada Navidad
+854294,CH 111 BOLAS NAVIDENAS ROJAS Y VERDES SET X20PZAS,Bazar Importación,Temporada Navidad
+854295,CH 112 BOLAS NAVIDENAS ROJAS Y DORADAS SET X20 PZAS 6CM,Bazar Importación,Temporada Navidad
+854297,CH 113 BOLAS NAVIDENAS ROJAS Y DORADAS SET X50PZAS,Bazar Importación,Temporada Navidad
+854298,CH 114 SET NAVIDENO DORADO X 101PZAS,Bazar Importación,Temporada Navidad
+854299,CH 115 SET NAVIDENO ROJO X 101PZAS,Bazar Importación,Temporada Navidad
+854300,CH 119 SET NAVIDENO X 72PZAS BOLAS ESTRELLAS GUANTES,Bazar Importación,Temporada Navidad
 854317,Galleta Costa Frac Clasica 246 gr,Abarrotes,Galletas
 854337,Galleta Costa Gretel Yogurt Frutilla 85 gr,Abarrotes,Galletas
 854342,Galleta Costa Gretel Chocolate Blanco 85 gr,Abarrotes,Galletas
 854357,Galleta Costa Gretel Chocolate 85 gr,Abarrotes,Galletas
 854382,Galleta Costa Gran Cereal Cacao 135 gr,Abarrotes,Galletas
 854397,Galleta Costa Gran Cereal Clasica 135 gr,Abarrotes,Galletas
+854400,CH 130 BOLAS NAVIDENAS ROJAS Y BLANCAS SET X24PZAS,Bazar Importación,Temporada Navidad
+854401,CH 131 BOLAS NAVIDENAS ROJAS Y BLANCAS SET X24PZAS,Bazar Importación,Temporada Navidad
+854402,CH 132 BOLAS NAVIDENAS ROJO VERDE Y BLANCO SET X30PZAS,Bazar Importación,Temporada Navidad
+854403,CH 133 BOLAS DE NAVIDAD ROJO VERDE BLANCO 8CM,Bazar Importación,Temporada Navidad
+854404,CH 134 SET NAVIDENO PLATEADO X20PZAS BOLAS Y PUNAS,Bazar Importación,Temporada Navidad
+854405,CH 135 BOLAS DE NAVIDAD ROJO VERDE BLANCO SET X9 PZAS,Bazar Importación,Temporada Navidad
+854407,CH 14 SET NAVIDENO DORADO X20 PZAS BOLAS REGALOS Y PINAS,Bazar Importación,Temporada Navidad
+854409,CH 7006 BOLAS NAVIDENAS SET X6 PZAS 7CM,Bazar Importación,Temporada Navidad
+854410,CH 6016 BOLAS DE NAVIDAD COLOR ROJO SET X 16PZAS 6CM,Bazar Importación,Temporada Navidad
+854412,CH 32PK BOLAS DE NAVIDAD SET X32 PZAS,Bazar Importación,Temporada Navidad
+854413,CH WX8 2 SET NAVIDENO X20 PZAS DE BOLAS REGALOS TAMBORES,Bazar Importación,Temporada Navidad
+854414,CH WX8 3 BOLAS DE NAVIDAD CON PAPA NOEL SET X3 8CM,Bazar Importación,Temporada Navidad
+854416,CH WX8 5 BOLAS DE NAVIDAD C PAPA NOEL Y MUNECO SET X3 8CM,Bazar Importación,Temporada Navidad
+854417,CH WX8 6 BOLAS DE NAVIDAD CON MUNECO DE NIEVE SET X3 8CM,Bazar Importación,Temporada Navidad
+854418,CH WX8 7 BOLAS DE NAVIDAD CON MUNECO DE NIEVE SET X3 8CM,Bazar Importación,Temporada Navidad
+854419,CH WX8 8 BOLAS DE NAVIDAD CON MUNECO DE NIEVE SET X3 8CM,Bazar Importación,Temporada Navidad
 854429,Basurero con Pedal 40x32 cm,Cuidado del Hogar,Productos Americanos
 854446,Yerba Mate Kurupi 500 gr,Abarrotes,Café y Sucedáneos
 854560,Nacho Mexican Food de Maiz 400 gr,Abarrotes,Snack
@@ -19666,6 +19985,7 @@ id_producto,producto,categoria,subcategoria
 855772,CH YH029 COPA PARA VINO 510ML,Bazar Importación,Menaje Vidrio/Cristal
 855774,CH YHQ23031 COPA PARA VINO CON FONDO PLANO 650ML,Bazar Importación,Menaje Vidrio/Cristal
 855775,CH YHH23031 COPA PARA VINO CON FONDO PLANO 480ML,Bazar Importación,Menaje Vidrio/Cristal
+855776,Jugo Ocean Spray Cranberry Original 96 oz,Bebidas,Bebidas Usa
 855777,CH YHX23031 COPA ALARGADA PARA CHAMPANA FONDO PLANO 320ML,Bazar Importación,Menaje Vidrio/Cristal
 855778,CH YHD23031 VASO LISO 400ML,Bazar Importación,Menaje Vidrio/Cristal
 855779,CH YHG23031 VASO LARGO 500ML,Bazar Importación,Menaje Vidrio/Cristal
@@ -19754,8 +20074,122 @@ id_producto,producto,categoria,subcategoria
 857104,CH J1 47 TAZA FANTASMA BOO  NEGRO Y NARANJA 250ML,Bazar Importación,Temporada Halloween
 857105,CH J1 48 TAZA CALDERO CON TELARANA 200ML,Bazar Importación,Temporada Halloween
 857106,CH J1 49 TAZA CALDERO CON TELARANA Y ZAPATOS,Bazar Importación,Temporada Halloween
+857150,CH S2 4 ADORNO NAVIDENO RENO ROJO SET X3PZAS,Bazar Importación,Temporada Navidad
+857151,CH S2 6 ADORNO NAVIDENO PAPA NOEL SET X3PZAS,Bazar Importación,Temporada Navidad
+857152,CH S2 7 ADORNO NAVIDENO MUNECO JENGIBRE SET X3PZAS,Bazar Importación,Temporada Navidad
+857153,CH S2 8 ADORNO NAVIDENO SET X6PZAS,Bazar Importación,Temporada Navidad
+857154,CH S2 9 ADORNO NAVIDENO MUNECO DE NIEVE SET X4PZAS 9CM,Bazar Importación,Temporada Navidad
+857155,CH S2 10 ADORNO NAVIDENO PAPA NOEL Y CASA ROJA SET X 3 PZAS,Bazar Importación,Temporada Navidad
+857156,CH S2 11 ADORNO NAVIDENO TREN Y CASA ROJA SET X 3 PZAS,Bazar Importación,Temporada Navidad
+857157,CH S2 12 ADORNO BASTON NAVIDENO SET X4PZAS,Bazar Importación,Temporada Navidad
+857159,CH S2 13 ADORNO CASAS NAVIDENAS SET X4PZAS,Bazar Importación,Temporada Navidad
+857160,CH S2 14 ADORNO SURTIDO PARA ARBOL NAVIDENO DORADO SET X13,Bazar Importación,Temporada Navidad
+857161,CH S2 15 ADORNO SURTIDO PARA ARBOL NAVIDENO ROJO X13PZAS,Bazar Importación,Temporada Navidad
+857162,CH S2 16 ADORNO SURTIDO PARA ARBOL NAVIDENO SET X12PZAS,Bazar Importación,Temporada Navidad
+857164,CH S2 17 BOLAS NAVIDENAS ROJAS SET X6PZAS,Bazar Importación,Temporada Navidad
+857165,CH S2 27 ADORNO SURTIDO PARA ARBOL NAVIDENO SET X20 PZAS,Bazar Importación,Temporada Navidad
+857166,CH S2 26 BOLAS NAVIDENAS Y PINAS DORADO SET X20PZAS,Bazar Importación,Temporada Navidad
+857167,CH S2 28 ADORNO SURTIDO PARA ARBOL NAVIDENO C ROJO SET X20PZ,Bazar Importación,Temporada Navidad
+857168,CH S2 29 BOLAS NAVIDENAS Y PINAS PLATEADAS SET X12PZAS,Bazar Importación,Temporada Navidad
+857169,CH S2 32 CINTA NAVIDENA CON BORDE DORADO 2 7M,Bazar Importación,Temporada Navidad
+857170,CH S2 BOLAS NAVIDENAS Y PINAS COLOR ROJO SET X 15PZAS,Bazar Importación,Temporada Navidad
+857171,CH S2 34 BOLAS NAVIDENAS SET X20PZAS 5CM,Bazar Importación,Temporada Navidad
+857172,CH S2 37 BOLAS NAVIDENAS SET X12PZAS COLOR SURTIDO,Bazar Importación,Temporada Navidad
+857173,CH S2 38 BOLAS NAVIDENAS SET X20PZAS,Bazar Importación,Temporada Navidad
+857174,CH S2 39 BOLAS NAVIDENAS SET X20PZAS COLORES SURTIDOS 6CM,Bazar Importación,Temporada Navidad
+857175,CH S2 43 BOLAS NAVIDENAS EN TUBO SET X6PZAS 8CM,Bazar Importación,Temporada Navidad
+857176,CH S2 44 BOLAS NAVIDENAS EN TUBO SET X12PZAS,Bazar Importación,Temporada Navidad
+857177,CH S2 45 BOLAS NAVIDENAS EN TUBO SET X9PZAS 6CM,Bazar Importación,Temporada Navidad
+857179,CH S2 46 BOLAS NAVIDENAS EN TUBO SET X12PZAS 6CM,Bazar Importación,Temporada Navidad
+857180,CH S2 54 ADORNO PAPA NOEL GORRO VERDE 23CM,Bazar Importación,Temporada Navidad
+857181,CH S2 55 ADORNO PAPA NOEL GORRO ROJO 23CM,Bazar Importación,Temporada Navidad
+857182,CH S2 56 ADORNO PAPA NOEL SOMBRERO VERDE A CUADROS 25CM,Bazar Importación,Temporada Navidad
+857184,CH S2 57 BOLAS NAVIDENAS SET X20 PZAS 4CM,Bazar Importación,Temporada Navidad
+857185,CH S2 58 BOLAS NAVIDENAS Y REGALOS COLOR ROJO SET X 20PZAS,Bazar Importación,Temporada Navidad
+857186,CH S2 59 BOLAS NAVIDENAS Y REGALOS DORADAS SET X20PZAS,Bazar Importación,Temporada Navidad
+857187,CH S2 60 ADORNO SURTIDO PARA ARBOL NAVIDENO SET X20 PZAS,Bazar Importación,Temporada Navidad
+857188,CH S2 62 CORONA NAVIDENA PARA PUERTA 40CM,Bazar Importación,Temporada Navidad
+857189,CH S2 63 CORONA NAVIENA CON MONO PAPA NOEL 40CM,Bazar Importación,Temporada Navidad
+857190,CH S2 64 CORONA NAVIDENA MERRY CHRISTMAS 40CM,Bazar Importación,Temporada Navidad
+857191,CH S2 65 CORONA CON MONO Y BOLAS NAVIDENAS COLOR ROJO 40CM,Bazar Importación,Temporada Navidad
+857192,CH S2 68 ADORNO NAVIDENO MONO ROJO 26X32CM,Bazar Importación,Temporada Navidad
+857193,CH J5 1 CANDELABRO NAVIDENO GNOMO 16X8X22CM,Bazar Importación,Temporada Navidad
+857194,CH J5 2 ADORNO NAVIDENO PAPA NOEL CON VARITA ESTRELLA 10X9X1,Bazar Importación,Temporada Navidad
+857195,CH J5 3 ADORNO SOLDADO CASCANUECES CON REGALOS 12X9X36CM,Bazar Importación,Temporada Navidad
+857196,CH J5 4 ADORNO SOLDADO CASCANUECES UNIFORME VERDE 6X5X21CM,Bazar Importación,Temporada Navidad
+857197,CH J5 5 ADORNO SOLDADO CASCANUECES UNIFORME ROJO 6X5X21CM,Bazar Importación,Temporada Navidad
 857198,Salsa Kraft Balsamic Vinagrete 16 oz,Abarrotes,Productos Americanos
+857199,CH J5 7 ADORNO NAVIDENO PAPA NOEL CON RENO 11X7X15CM,Bazar Importación,Temporada Navidad
+857201,CH J5 8 ADORNO NAVIDENO GNOMO NOEL UNIDOS 13X8X10CM,Bazar Importación,Temporada Navidad
+857202,CH J5 9 ADORNO NAVIDENO CARRO CON ARBOL 12X5X8CM,Bazar Importación,Temporada Navidad
+857203,CH J5 10 ADORNO GNOMO NAVIDENO ROJO 11X9X20CM,Bazar Importación,Temporada Navidad
+857204,CH J5 11 ADORNO ARBOL NAVIDENO VERDE NOEL 4X4X10CM,Bazar Importación,Temporada Navidad
+857205,CH J5 12 ADORNO ARBOL NAVIDENO ROJO NOEL 4X4X10CM,Bazar Importación,Temporada Navidad
+857206,CH J5 14 ADORNO PAPA NOEL CON BOLSA DE REGALOS 12X11X18CM,Bazar Importación,Temporada Navidad
+857208,CH J5 15 ADORNO MUNECO DE NIEVE 18X9X20CM,Bazar Importación,Temporada Navidad
+857209,CH J5 16 ADORNO PAPA NOEL 9X7X14CM,Bazar Importación,Temporada Navidad
+857210,CH J5 20 ADORNO GNOMO NAVIDENO COLOR ROJO 11X11X17CM,Bazar Importación,Temporada Navidad
+857211,CH J5 28 ARORNO MUNECO DE NIEVE SOMBRERO A CUADROS 19X7X25CM,Bazar Importación,Temporada Navidad
+857213,CH J5 29 ADORNO PAPA NOEL GORRO A CUADROS 16X5X26CM,Bazar Importación,Temporada Navidad
+857214,CH J5 30 ADORNO NAVIDENO PATINES COLOR ROJO 12X17X17CM,Bazar Importación,Temporada Navidad
+857215,CH J6 24 MUNECA DE NIEVE C VERDE 46CM,Bazar Importación,Temporada Navidad
+857216,CH J6 25 MUNECO DE NIEVE C VERDE 46CM,Bazar Importación,Temporada Navidad
+857217,CH J6 26 MUNECO RENO C VERDE 20CM,Bazar Importación,Temporada Navidad
+857218,CH J6 27 MUNECO DE NIEVE C VERDE 20CM,Bazar Importación,Temporada Navidad
+857219,CH J6 28 MUNECO PAPA NOEL C VERDE 20CM,Bazar Importación,Temporada Navidad
+857220,CH J6 29 MUNECO PAPA NOEL C VERDE 49CM,Bazar Importación,Temporada Navidad
+857221,CH J6 30 MUNECO RENO C VERDE 49CM,Bazar Importación,Temporada Navidad
+857222,CH J6 31 MUNECO RENO C VERDE 64CM,Bazar Importación,Temporada Navidad
+857223,CH J6 32 MUNECO PAPA NOEL C VERDE 49CM,Bazar Importación,Temporada Navidad
+857224,CH J6 34 MUNECO DUENDE NAVIDENO RETRACTIL C VERDE 60 120CM,Bazar Importación,Temporada Navidad
+857225,CH J6 35 MUNECO PAPA NOEL RETRACTIL C VERDE 65 140CM,Bazar Importación,Temporada Navidad
+857226,CH J6 36 MUNECO RENO NAVIDENO RETRACTIL 65 140CM,Bazar Importación,Temporada Navidad
+857228,CH J6 37 MUNECO DE NIEVE NAVIDENO RETRACTIL 65 140CM,Bazar Importación,Temporada Navidad
+857229,CH J6 38 MUNECO PAPA NOEL C VERDE 36CM,Bazar Importación,Temporada Navidad
+857233,CH J6 39 MUNECO DE NIEVE C VERDE 36CM,Bazar Importación,Temporada Navidad
+857234,CH J6 40 MUNECA DE NIEVE C VERDE 36CM,Bazar Importación,Temporada Navidad
+857235,CH J6 41 MUNECO DE NIEVE C VERDE 50CM,Bazar Importación,Temporada Navidad
+857236,CH J6 45 MUNECO RENO NAVIDENO RETRACTIL 32 60CM,Bazar Importación,Temporada Navidad
+857237,CH J6 46 MUNECO PAPA NOEL RETRACTIL 32 60CM,Bazar Importación,Temporada Navidad
+857238,CH J6 47 MUNECO DUENDE NAVIDENO RETRACTIL 38 60CM,Bazar Importación,Temporada Navidad
+857239,CH GM08B TAZA NAVIDENA PAPA NOEL 400ML,Bazar Importación,Temporada Navidad
+857240,CH GM08A TAZA NAVIDENA PAPA NOEL 400ML,Bazar Importación,Temporada Navidad
+857241,CH GM10B TAZA NAVIDENA PAPA NOEL 400ML,Bazar Importación,Temporada Navidad
+857242,CH 517B TAZA NAVIDENA JENGIBRE 450ML,Bazar Importación,Temporada Navidad
+857243,CH GM03 TAZA NAVIDENA PAPA NOEL 350 ML,Bazar Importación,Temporada Navidad
+857244,CH GM07 TAZA NAVIDENA PAPA NOEL CON ZAPATOS 350ML,Bazar Importación,Temporada Navidad
+857245,CH 938 TAZA NAVIDENA PAPA NOEL 450ML,Bazar Importación,Temporada Navidad
+857246,CH 936 TAZA NAVIDENA MUNECO DE NIEVE 420ML,Bazar Importación,Temporada Navidad
+857248,CH 934 TAZA NAVIDENA PAPA NOEL 450ML,Bazar Importación,Temporada Navidad
+857249,CH 935 TAZA NAVIDENA MUNECO DE NIEVE 420ML,Bazar Importación,Temporada Navidad
+857250,CH 222 TAZA NAVIDENA PAPA NOEL 400ML,Bazar Importación,Temporada Navidad
+857251,CH 268 TAZA NAVIDENA PAPA NOEL 400ML,Bazar Importación,Temporada Navidad
+857252,CH 852 TAZA NAVIDENA PAPA NOEL 400ML,Bazar Importación,Temporada Navidad
+857253,CH BH096 BOLA DE CRISTAL CARRUSEL 9X13CM,Bazar Importación,Temporada Navidad
+857254,CH 289 1 BOLA DE CRISTAL PAPA NOEL CON ARBOL BASE HAPPY HOLI,Bazar Importación,Temporada Navidad
+857255,CH BH094 DOMO DE NIEVE PAPA NOEL CON ARBOL 9X12CM,Bazar Importación,Temporada Navidad
+857256,CH BH070 DOMO DE NIEVE PAPA NOEL C LUCES 8X12CM,Bazar Importación,Temporada Navidad
+857257,CH BH072 DOMO DE NIEVE PAPA NOEL 8X12CM,Bazar Importación,Temporada Navidad
+857258,CH BH068 DOMO DE NIEVE PAPA NOEL MUSICAL C LUCES 3X12CM,Bazar Importación,Temporada Navidad
+857259,CH BH036 DOMO DE NIEVE PAPA NOEL MUSICAL CON LUCES,Bazar Importación,Temporada Navidad
+857260,CH J11 1 VELA ARBOL NAVIDENO 7X11CM,Bazar Importación,Temporada Navidad
+857261,CH J11 2 VELA ARBOL NAVIDENO 7X11CM,Bazar Importación,Temporada Navidad
+857262,CH J11 3 VELA NAVIDENA PETALOS DE ROSA COLOR VERDE 7X9CM,Bazar Importación,Temporada Navidad
+857263,CH J11 4 VELA NAVIDENA PETALOS DE ROSA COLOR ROJO 7X9CM,Bazar Importación,Temporada Navidad
+857264,CH J11 5 VELA PINA NAVIDENA COLOR ROJO,Bazar Importación,Temporada Navidad
+857265,CH J11 6 VELA PINA NAVIDENA C VERDE 6X8XM,Bazar Importación,Temporada Navidad
+857266,CH J11 7 VELA ARBOL NAVIDENO C VERDE 8X10CM,Bazar Importación,Temporada Navidad
+857268,CH J11 8  VELA ARBOL NAVIDENO C ROJO 8X10CM,Bazar Importación,Temporada Navidad
+857269,CH J11 9 VELA NAVIDENA PINO C VERDE 5X11CM,Bazar Importación,Temporada Navidad
+857270,CH J11 10 VELA NAVIDENA PINO C ROJO 5X11CM,Bazar Importación,Temporada Navidad
+857271,CH J11 11 VELA ARBOL NAVIDENO C ROJO 7X11CM,Bazar Importación,Temporada Navidad
+857273,CH J11 12 VELA ARBOL NAVIDENO C VERDE 7X11CM,Bazar Importación,Temporada Navidad
+857274,CH J11 13 VELA NAVIDENA CON CANDELABRO INDIVIDUAL DE VIDRIO,Bazar Importación,Temporada Navidad
+857275,CH J11 14 VELA AROMATICA CON TAPA 7X4CM,Bazar Importación,Temporada Navidad
+857276,CH J11 15 VELA AROMATICA CON TAPA 6X4CM,Bazar Importación,Temporada Navidad
+857277,CH J11 16 VELA AROMATICA CON TAPA DISENO SURTIDO 7X4CM,Bazar Importación,Temporada Navidad
 857396,Cocoa Hersheys 100% 23 oz,Abarrotes,Nutrición Infantil
+857465,CH S2 25 BOLAS NAVIDENAS ROJAS SET X 20PZAS,Bazar Importación,Temporada Navidad
 857574,Palmito Campo Verde Baby 170 gr,Abarrotes,Verduras en Conserva
 857589,Palmito Campo Verde Entero 250 gr,Abarrotes,Verduras en Conserva
 857629,Romero 1 kg,Frutas y Verduras,Verduras
@@ -20285,6 +20719,7 @@ id_producto,producto,categoria,subcategoria
 902027,Algodon Premier Hidrofilo 10 gr,Cuidado Personal,Cuidado de la Piel
 902028,Algodon Premier Hidrofilo 50 gr,Cuidado Personal,Cuidado de la Piel
 902029,Algodon Premier Hidrofilo 100 gr,Cuidado Personal,Cuidado de la Piel
+902066,Algodon Premier Hidrofilo 200 gr,Cuidado Personal,Cuidado de la Piel
 902068,Algodon Premier Hidrofilo 400 gr,Cuidado Personal,Cuidado de la Piel
 902084,Encendedor Para Cocina,Bazar,Churrasquería
 902344,Paño Cocina Surtido,Cuidado del Hogar,Productos Americanos
