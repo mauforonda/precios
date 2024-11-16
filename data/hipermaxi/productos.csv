@@ -595,6 +595,7 @@ id_producto,producto,categoria,subcategoria
 14285,Atun Sofia Lomito al Aceite 400 gr,Abarrotes,Comidas en Conserva
 14286,Atun Sofia Lomito al Agua 3 un 80 gr,Abarrotes,Comidas en Conserva
 14287,Atun Sofia Lomito al Aceite 3 un 80 gr,Abarrotes,Comidas en Conserva
+14288,Gaseosa Mendocina Uva 1 L,Bebidas,Gaseosas
 14291,Cigarrillo Bohem Mini White Mint 20 un,Bebidas,Cigarrillos
 14292,Cigarrillo Bohem Chicle Ksb 20 un,Bebidas,Cigarrillos
 14293,Cigarrillo Bohem Mini Brown Lime 20 un,Bebidas,Cigarrillos
@@ -1459,6 +1460,7 @@ id_producto,producto,categoria,subcategoria
 29007,Choco Trio Garoto Chocolate 90 gr,Abarrotes,Chocolates y Caramelos
 29008,Chocolate Talento Leche Caju Nuez 75 gr,Abarrotes,Chocolates y Caramelos
 29010,Chocolate Talento Leche Mani Avellana 75 gr,Abarrotes,Chocolates y Caramelos
+29011,Vino Solaz Cabernet Sauvignon Tempranillo 750 ml,Bebidas,Vinos y Champagne
 29013,Nacho Mexican Food Queso 150 gr,Abarrotes,Snack
 29014,Aji Polvo McCormick Brasil 88.4 gr,Abarrotes,Condimentos y Legumbres
 29015,Mermelada Yacobs Maracuya 485 gr,Abarrotes,"Mermel, Mieles"
@@ -1537,6 +1539,7 @@ id_producto,producto,categoria,subcategoria
 29140,BEBIDA CRAZY SUNSET GOLD LTA 473ML,Bebidas,Licores
 29141,BEBIDA CRAZY BERRIES LTA 473ML,Bebidas,Licores
 29150,MASTICABLE NEX SANDIA CJA 336G,Abarrotes,Golosinas - Varias
+29152,AGUA L CABANA SIN GAS SPORT 1LT,Bebidas,Aguas
 29153,LIMONADA L CABANA CERO AZUC 1LT,Bebidas,Gaseosas
 29154,GASEOSA L CABANA PAPAYA PET 1LT,Bebidas,Gaseosas
 29155,GASEOSA L CABANA PAPAYA CERO 1LT,Bebidas,Gaseosas
@@ -1620,6 +1623,7 @@ id_producto,producto,categoria,subcategoria
 30234,Six Pack Futbolero Cerveza Burguesa 600 ml + Vaso,Bebidas,Cervezas
 30235,Singani La Viuda Reposada 750 ml,Bebidas,Licores
 30237,Cerveza Amstel Lager 473 ml,Bebidas,Cervezas
+30238,Gelatina Frutigel Frambuesa 250 gr,Abarrotes,Repostería
 30241,Pack Edulcorante Hecodulc Stevia 250 ml + Espumador,Abarrotes,Dietéticos y Saludables
 30243,Cocoa Pura Taboada 500 gr,Abarrotes,Repostería
 30245,Galleta Rc Varitas de Hojaldre 150 gr,Abarrotes,Galletas
@@ -1937,6 +1941,7 @@ id_producto,producto,categoria,subcategoria
 30805,Sopa Ajinomen Pollo Picante Vaso 51 gr,Abarrotes,Básicos
 30806,PACK 2SPAGUETTO LAZZARONI 1 MAYONESA,Abarrotes,Básicos
 30807,Cereal Chocapic Mini 330 gr,Abarrotes,Nutrición Infantil
+30808,GELATINA FRUTIGEL TUTI FRUTI 250G,Abarrotes,Repostería
 30812,Te Saing Gottard Lim Lim Jengibre Menta 20 Sobres,Abarrotes,Café y Sucedáneos
 30814,Almendra Chocolate Taste Cocoadate 120 gr,Abarrotes,Chocolates y Caramelos
 30815,Salsa Taste Ranch 0 Azucar 320 gr,Abarrotes,Dietéticos y Saludables
@@ -4064,6 +4069,7 @@ id_producto,producto,categoria,subcategoria
 109623,Cepillo Dental Doctor Dent Panda Inicial 1 un,Cuidado del Bebé,Kids
 109624,Cepillo Dental Doctor Dent Viajero 1 un,Cuidado Personal,Cuidado Bucal
 109625,Insecticida Killer Acaros Piojos 360 ml,Cuidado del Hogar,Insecticidas
+109626,Insecticida Killer Larvas 360 ml,Cuidado del Hogar,Insecticidas
 109627,Ambientador Aerosol Rocio Fres Silvestre 360 ml,Cuidado del Hogar,Limpieza de Living y Ropero
 109628,Ambientador Aerosol Rocio Dulce Calma 360 ml,Cuidado del Hogar,Limpieza de Living y Ropero
 109640,Jabon Crema Simonds Humectacion Ph5 500 ml,Cuidado Personal,Cuidado de la Piel
@@ -4884,6 +4890,7 @@ id_producto,producto,categoria,subcategoria
 120719,Salsa Brixy Pizza 390 gr,Abarrotes,Salsas y Extracto de Tomate
 120720,Llajua Brixy Verde 230 gr,Abarrotes,Aderezos
 120726,Llajua Brixy Roja 230 gr,Abarrotes,Aderezos
+121000,Paneton Hipermaxi Arandanos Nuez 400 gr,Panadería,Panadería Especialidades Hipermaxi
 121110,Insecticida Raid Mata Mosquito 45 Noches 32 ml,Cuidado del Hogar,Productos Americanos
 121353,Pack Salchicha San Juan 12 un,Fiambres,Fiambres Hipermaxi
 121359,Pan Negro Cochabambino,Panadería,Panadería Hipermaxi
@@ -6905,6 +6912,7 @@ id_producto,producto,categoria,subcategoria
 234011,PACK SEDAL SH CELULAS M 6X650ML + AC 340,Cuidado Personal,Cuidado del Cabello
 234012,PACK SEDAL SH CERAMIDAS 6X650ML + AC 340,Cuidado Personal,Cuidado del Cabello
 234015,DOVE SH BOND INTENSE REPAIR 12X400ML,Cuidado Personal,Cuidado del Cabello
+234016,DOVE MASC RECONSTRUCCION 6X300G,Cuidado Personal,Cuidado del Cabello
 234017,DOVE MASC NUTRICION 6X300G,Cuidado Personal,Cuidado del Cabello
 234018,DOVE MASC BOND INTENSE REPAIR 6X250G,Cuidado Personal,Cuidado del Cabello
 234019,DOVE AC BOND INTENSE REPAIR 12X250ML,Cuidado Personal,Cuidado del Cabello
@@ -12192,6 +12200,7 @@ id_producto,producto,categoria,subcategoria
 552879,BARRA PROT WILD CARAMELO 15GR,Abarrotes,Nutrición Infantil
 552880,BARRA PROT WILD CHOCOLATE BITTER 15G,Abarrotes,Nutrición Infantil
 552881,BARRA PROT WILD CHOCOLATE Y COCO 15GR,Abarrotes,Nutrición Infantil
+552883,GALLETA NAVIDENA PREMIUM CARSA 600 GR,Abarrotes,Temporada
 552884,GALLETAS ANTOJO NAVIDENO SAN GABRIEL 400,Abarrotes,Temporada
 552891,BEBIDA PROTEICA DELIZIA PINA BOT 500 ML,Bebidas,Energizantes
 552893,PANETTONE VAINILLA CON CHIPS DE CHOC CEIBO 750 GR BSA,Panadería,Panadería Externa
@@ -12202,6 +12211,7 @@ id_producto,producto,categoria,subcategoria
 552910,ICED COFFE VINUT LTA 250 ML,Abarrotes,Productos Americanos
 552911,COLD DREW COFFE VINUT S AZUCAR LTA 250 ML,Abarrotes,Productos Americanos
 552912,COFFE LATE VINUT LTA 250 ML,Abarrotes,Productos Americanos
+552915,GALLETAS NAVIDENAS MANTEQUILLA CAJA CUADRADA 115GR,Abarrotes,Productos Americanos
 552916,GALLETAS DE MANTEQUILLA LATA NAVIDENA MOD 3 300GR,Abarrotes,Productos Americanos
 552917,BASTONES NAVIDENOS CJA 120GR,Abarrotes,Productos Americanos
 554333,Cerveza Paceña Lata Roja 473 Cc,Bebidas,Cervezas
@@ -14473,6 +14483,7 @@ id_producto,producto,categoria,subcategoria
 658288,Vino Aranjuez Terruño Oporto 700 ml,Bebidas,Vinos y Champagne
 658289,Nacho La Mejicana Jalapeño Limon 200 gr,Abarrotes,Snack
 658293,Agua Glaciar Bidon 6 L,Bebidas,Aguas
+658295,Te Carmencita Chai con Especias 20 gr,Abarrotes,Café y Sucedáneos
 658302,Fideo de Quinua Anapqui 1 kg,Abarrotes,Básicos
 658304,Pudin Anapqui Quinua 100 gr,Abarrotes,Repostería
 658305,Cereal Pipoquinua Anapqui 180 gr,Abarrotes,Nutrición Infantil
@@ -17121,6 +17132,7 @@ id_producto,producto,categoria,subcategoria
 674282,YOGURT NATURAL FATYH 800 GRAMOS,Lácteos y Derivados,Yogures
 674283,YOGURT NATURAL FATYH 550 GRAMOS,Lácteos y Derivados,Yogures
 674284,YOGURT NATURAL FATYH 180 GRAMOS,Lácteos y Derivados,Yogures
+674285,BUDIN COFLER REMIX 215 GRAMOS,Pastelería y Masas Típicas,Pastelería Externa
 674286,PANETON COFLER RELL P DARK,Panadería,Panadería Externa
 674287,PACK SALAME/JAMON MAS TABLITA SOFIA UNIDAD,Fiambres,Fiambres Externos
 675245,Miel de Abeja Eva Promiel 250 gr,Abarrotes,"Mermel, Mieles"
@@ -20829,7 +20841,7 @@ id_producto,producto,categoria,subcategoria
 913226,Nota de Venta Grande,Bazar,Librería
 913227,ALED RECIBO GRANDE DE BS 12,Bazar,Librería
 913281,Muñeca,Juguetería,Juguetería Niña/Bebé
-913368,XI GLOBO  LISO X 20 UND -10.5,Bazar,Cotillón
+913368,XI GLOBO  LISO X 20 UND,Bazar,Cotillón
 913371,Globos Perla 20 un,Bazar,Cotillón
 913832,FRI LENTES DE NATACION 3 ANOS 32,Bazar,Temporada Verano
 913948,FRI PISCINA DE NINOS 2ANOS CAJA 1.52MT 160,Bazar,Temporada Verano
