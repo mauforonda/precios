@@ -524,6 +524,7 @@ id_producto,producto,categoria,subcategoria
 14108,Budin Bimbo Pinguinos 80 gr,Abarrotes,Golosinas - Varias
 14113,Budin Bimbo Gansito 50 gr,Abarrotes,Golosinas - Varias
 14118,Cerveza Huari Tradicional 310 ml,Bebidas,Cervezas
+14123,Cerveza Huari Chocolate 310 ml,Bebidas,Cervezas
 14124,Yerba Mate Selecta Compuesta 500 gr,Abarrotes,Café y Sucedáneos
 14125,Servilletas Scott Super Absorvente 50 un,Cuidado Personal,Cuidado Familiar
 14128,Salsa Goya Verde Medium 17.6 oz,Abarrotes,Aderezos
@@ -1438,6 +1439,7 @@ id_producto,producto,categoria,subcategoria
 26012,AGUA TONICA LA CABANA CERO 1LT,Bebidas,Aguas
 26013,"PACK 2CHOCOLATE MYM PLAIN 47,9G",Abarrotes,Golosinas - Varias
 26014,GALLETA PROMOS BUTTER COOKIE DANESA 114G,Abarrotes,Galletas
+26016,CANELA EN POLVO AMERICAN SPICE 340 GR,Abarrotes,Condimentos y Legumbres
 26018,Mani Charito Confitado 160 gr,Abarrotes,Snack
 26022,GALLETA COFLER RELLENA BONOBON 85G,Abarrotes,Galletas
 26031,TE AMATE D JAMAICA ARAND PET 500ML,Bebidas,Bebidas Varias
@@ -1616,6 +1618,7 @@ id_producto,producto,categoria,subcategoria
 30222,Cafe Segafredo Intenso 10 Capsula,Abarrotes,Café y Sucedáneos
 30223,Cafe Segafredo 100% Arabica 10 Capsula,Abarrotes,Café y Sucedáneos
 30225,Cafe Segafredo 100% Perurfa 10 Capsula,Abarrotes,Café y Sucedáneos
+30227,Chocolate Cofler Almendra Chocolate Blanco 100 gr,Abarrotes,Chocolates y Caramelos
 30230,Alimento Gati Pescado Salmon 3 kg,Abarrotes,Mascotas
 30231,Cafe Sao Paulo Molido 300 gr,Abarrotes,Café y Sucedáneos
 30232,Farofa Pinduca Cebolla 200 gr,Abarrotes,Productos Americanos
@@ -2481,6 +2484,7 @@ id_producto,producto,categoria,subcategoria
 37412,Aperitivo Aperol 750 ml + Copa,Bebidas,Licores
 37413,Pack Vodka Skyy 750 ml + Vaso,Bebidas,Licores
 37414,Salsa Chimichurri Bragantina Tradicional 350 gr,Abarrotes,Condimentos y Legumbres
+37415,Salsa Chimichurri Bragantina Hot 350 gr,Abarrotes,Condimentos y Legumbres
 37418,Cheetos Crunchy Frito Lay 155 gr,Abarrotes,Snack
 37425,Pack Isotonico Activade 1 L,Bebidas,Isotónicos
 37427,Vino Riccitelli Malbec Valle De Uco 750 ml,Bebidas,Vinos y Champagne
@@ -2684,6 +2688,7 @@ id_producto,producto,categoria,subcategoria
 64440,Mermelada Arcor Naranja 454 gr,Abarrotes,"Mermel, Mieles"
 64459,Aceite Arcor Maiz 900 ml,Abarrotes,Básicos
 64715,Nutella Go Breadsticks 52 gr,Abarrotes,Productos Americanos
+64769,Turron de Mani Arcor Frutas 120 gr,Abarrotes,Golosinas - Varias
 64866,YOGURT BEBIBLE DURAZNO DELIZIA 1 LT.BOT,Lácteos y Derivados,Yogures
 64874,Bizcochuelo Godet Vainilla 480 gr,Abarrotes,Repostería
 64882,Bizcochuelo Godet Chocolate 480 gr,Abarrotes,Repostería
@@ -6232,6 +6237,7 @@ id_producto,producto,categoria,subcategoria
 222265,Shampoo Tio Nacho Henna 415 ml,Cuidado Personal,Cuidado del Cabello
 222266,Acondicionador Tio Nacho Henna 415 ml,Cuidado Personal,Cuidado del Cabello
 222268,Shampoo Tio Nacho Henna 1 L,Cuidado Personal,Cuidado del Cabello
+222269,Pack Toallitas Humedas Ninet Plus 2x80 un,Cuidado del Bebé,Cuidado del Bebé
 222270,Pack Toallitas Humedas Ninet Plus 2x180 un,Cuidado del Bebé,Cuidado del Bebé
 222271,Pasta Dental Closeup Eucalypto 130 gr,Cuidado Personal,Cuidado Bucal
 222272,Pasta Dental Closeup Menthol 130 gr,Cuidado Personal,Cuidado Bucal
@@ -7029,6 +7035,7 @@ id_producto,producto,categoria,subcategoria
 240622,INSECTICIDA TYSON MATA MOSCAS 250CM,Cuidado del Hogar,Insecticidas
 240624,SHAMPOO REVIVE ACEITE CUSI 340ML,Cuidado Personal,Cuidado del Cabello
 240625,ACOND. REVIVE ACEITE DE CUSI 340ML POTE,Cuidado Personal,Cuidado del Cabello
+240628,SHAMPOO CARISSA  ACEITE DE CUSI 900ML DP,Cuidado Personal,Cuidado del Cabello
 240632,TOALLA NOSOTRAS LARGA TELA 24X8,Cuidado Personal,Cuidado Familiar
 240633,DETERGENTE OMO LIMON 650 GR,Cuidado del Hogar,Limpieza de la Ropa
 240635,OMO PVO ORIGINAL 6X1.8 KG,Cuidado del Hogar,Limpieza de la Ropa
@@ -7750,6 +7757,7 @@ id_producto,producto,categoria,subcategoria
 314076,Crema Lechuga Reafirmante 350 ml,Cuidado Personal,Cuidado de la Piel
 314077,Crema Lechuga Nutricion Intensiva 350 ml,Cuidado Personal,Cuidado de la Piel
 314081,Crema Lechuga Manos Anti Edad 75 gr,Cuidado Personal,Cuidado de la Piel
+314587,Poroto Bushs Homestyle 28 oz,Abarrotes,Productos Americanos
 314625,SHAMPOO P/CANES NEUTRO SUPER 1 LT.,Bazar,Mascotas General
 314900,Canaston Especial A Scz,Abarrotes,Temporada
 314978,Bombon Nestle Especialidades 251 gr,Abarrotes,Chocolates y Caramelos
@@ -12171,6 +12179,7 @@ id_producto,producto,categoria,subcategoria
 552814,GALLETA  L SUPREMA AVENA MIEL CANELA 120,Abarrotes,Galletas
 552817,VINO BLANCO APALTAGUA RESERVA CHARDONNAY,Bebidas,Vinos y Champagne
 552818,VINO BLANCO APALTAGUA GRAN VERANO CHARD,Bebidas,Vinos y Champagne
+552830,VINO APALTAGUA ES MERLOT 750ML,Bebidas,Vinos y Champagne
 552836,PACK 3X2 HUEVO MRM X 6 UNID,Lácteos y Derivados,Huevos
 552846,GALLETAS COMI PET HIGADO DE POLLO 250 GR,Abarrotes,Mascotas
 552847,GALLETAS COMI PET PECHUGA DE POLLO 250 G,Abarrotes,Mascotas
@@ -12202,10 +12211,12 @@ id_producto,producto,categoria,subcategoria
 552881,BARRA PROT WILD CHOCOLATE Y COCO 15GR,Abarrotes,Nutrición Infantil
 552883,GALLETA NAVIDENA PREMIUM CARSA 600 GR,Abarrotes,Temporada
 552884,GALLETAS ANTOJO NAVIDENO SAN GABRIEL 400,Abarrotes,Temporada
+552885,GALLETAS SURTIDA DE ORO SAN GABRIEL 600,Abarrotes,Temporada
 552891,BEBIDA PROTEICA DELIZIA PINA BOT 500 ML,Bebidas,Energizantes
 552893,PANETTONE VAINILLA CON CHIPS DE CHOC CEIBO 750 GR BSA,Panadería,Panadería Externa
 552901,SULTANA ORANGE CUP BSA 160 GR,Abarrotes,Café y Sucedáneos
 552904,PANETONNE CON CHIPS DE CHOCOLATE CEIBO 750 GR BSA,Panadería,Panadería Externa
+552907,GALLETA MAZZEI SIN AZUCAR COCO 150G,Abarrotes,Galletas
 552908,PACK 12 CERVEZA PACENA LTA 440ML,Bebidas,Cervezas
 552909,CAFE VINUT NEGRO LTA 250 ML,Abarrotes,Productos Americanos
 552910,ICED COFFE VINUT LTA 250 ML,Abarrotes,Productos Americanos
@@ -12214,6 +12225,7 @@ id_producto,producto,categoria,subcategoria
 552915,GALLETAS NAVIDENAS MANTEQUILLA CAJA CUADRADA 115GR,Abarrotes,Productos Americanos
 552916,GALLETAS DE MANTEQUILLA LATA NAVIDENA MOD 3 300GR,Abarrotes,Productos Americanos
 552917,BASTONES NAVIDENOS CJA 120GR,Abarrotes,Productos Americanos
+552918,GALLETAS MANTEQUILLA SIN AZUCAR 310GR,Abarrotes,Productos Americanos
 554333,Cerveza Paceña Lata Roja 473 Cc,Bebidas,Cervezas
 554466,Detergente Liquido Ola Futuro Limpieza Completa 5 L,Cuidado del Hogar,Limpieza de la Ropa
 554468,Suavizante Ropa Ola Suavecito Original 5 L,Cuidado del Hogar,Limpieza de la Ropa
@@ -15718,6 +15730,7 @@ id_producto,producto,categoria,subcategoria
 669014,KOCOSTAR MASCARILLA VITAMIN HAPPY MASK,Cuidado Personal,Cuidado de la Piel
 669028,PACK SERUM HIALURONICO+UV DEF ANTIBRILLO,Cuidado Personal,Cuidado de la Piel
 669029,PACK 2X1 PANITO HÚMEDO PEQUEÑÍN PIEL DEL,Cuidado del Bebé,Cuidado del Bebé
+669030,FOTOPROTECTOR TONO BEIGE,Cuidado Personal,Cuidado de la Piel
 669031,TANGA SPF 100 BABY CREMA 120 ML X6,Cuidado Personal,Cuidado de la Piel
 669032,PROT SOLAR CREMA SPF50 X 220 ML X6,Cuidado Personal,Cuidado de la Piel
 669033,TANGA SPF 60 FACIAL Q10 50 ML X12,Cuidado Personal,Cuidado de la Piel
@@ -15737,12 +15750,14 @@ id_producto,producto,categoria,subcategoria
 669047,CREMA HANBEL MILK ASAI & PANTENOL 500 GR,Cuidado Personal,Cuidado de la Piel
 669048,PACK HERBAL ESS SH TE VERDE400ML + AC DE,Cuidado Personal,Cuidado del Cabello
 669049,GUANTE NEGRO EXTRA GRUESO7 1/2; 8; 8 1/2,Cuidado del Hogar,Accesorios del Hogar
+669052,BYPHASSE CREMA CORPORAL CON EXTRACTO DE,Cuidado Personal,Cuidado de la Piel
 669063,BYPHASSE PLAISIR NATURE GEL DE DUCHA VER,Cuidado Personal,Cuidado de la Piel
 669067,GEL DE DUCHA LACTOUREA FIRMING 600ML.,Cuidado Personal,Cuidado de la Piel
 669068,GLADE TOQUE FULL LIMON 12ML,Cuidado del Hogar,Limpieza de Living y Ropero
 669069,GLADE TOQUE RP MANANA DE CAMPO 12ML,Cuidado del Hogar,Limpieza de Living y Ropero
 669070,GLADE TOQUE PLAC FLO Y FRU ROJOS 12ML,Cuidado del Hogar,Limpieza de Living y Ropero
 669071,GLADE AEROSOL TROPICAL FLORAL 360 ML,Cuidado del Hogar,Limpieza de Living y Ropero
+669089,H&S SH MEN OLDSPICE 650ML X 10U,Cuidado Personal,Cuidado del Cabello
 669092,CREMA DENTAL TOTAL TARTAR ANTISARRO 3X75,Cuidado Personal,Cuidado Bucal
 669901,Pizza Hipermaxi Congelada Hawaiana 620 gr,Congelados,Masas y Comidas Congeladas
 669902,Pizza Hipermaxi Congelada Jamon Queso Light Masa Integral,Congelados,Masas y Comidas Congeladas
@@ -16503,11 +16518,13 @@ id_producto,producto,categoria,subcategoria
 672858,Paneton Mazzei Con Gotas de Chocolate 400 gr,Panadería,Panadería Externa
 672861,PANETTONE TRADICIONAL C/FRUTAS EL CEIBO,Panadería,Panadería Externa
 672876,Pizza Congelada Hawuaiana Pa&Pa un,Congelados,Masas y Comidas Congeladas
+672879,PANETONE BREICK CHIPS/CHOCOLATE BANADO EN CHOCOLATE,Panadería,Panadería Externa
 672881,Paneton La Suprema Tradicional Chips Chocolate 630 gr,Panadería,Panadería Externa
 672882,Paneton La Suprema Chocolate y Chips 630 gr,Panadería,Panadería Externa
 672883,GALLETA DE AVENA C. 15 UNIDADES,Pastelería y Masas Típicas,Pastelería Externa
 672884,Galleta de Avena 9 un,Pastelería y Masas Típicas,Pastelería Externa
 672903,Papa Sofia Pre Fritas Tradiional 400 gr,Congelados,Masas y Comidas Congeladas
+672904,QUESO FUNDIDO UNTABLE KAYKU 230GRAMOS,Lácteos y Derivados,Quesos
 672909,Mortadela Jamonada Fridosa 500 gr,Fiambres,Fiambres Externos
 672913,Waffle Go Green Congelado Vainilla 8 un,Congelados,Masas y Comidas Congeladas
 672915,Waffle Go Green Congelado Arandano 8 un,Congelados,Masas y Comidas Congeladas
@@ -16703,6 +16720,7 @@ id_producto,producto,categoria,subcategoria
 673438,PANETON TRADICIONAL OVOPLUS CAJA 500GRS,Panadería,Panadería Externa
 673439,PANETON TRADICIONAL OVOPLUS BOLSA 500GRS,Panadería,Panadería Externa
 673440,PANETON CHOCOLATE OVOPLUS CAJA 500GRS,Panadería,Panadería Externa
+673442,PANETON CHIPS CHOCOLATE OVOPLUS CAJA 500GRS,Panadería,Panadería Externa
 673443,PANETON CHIPS CHOCOLATE OVOPLUS BOLSA 500GRS,Panadería,Panadería Externa
 673445,Crema de Untar Bonle 1 kg,Lácteos y Derivados,Quesos
 673446,BUTTELLA BLACK MANTEQUILLA MANI CON CHOCOLATE 360GRS,Lácteos y Derivados,Mantequillas y Margarinas
@@ -16740,6 +16758,7 @@ id_producto,producto,categoria,subcategoria
 673506,Galleta Nuum Obleas Amaranto Taro 53 gr,Pastelería y Masas Típicas,Pastelería Externa
 673507,Galleta Nuum Obleas Amaranto Nuez 53 gr,Pastelería y Masas Típicas,Pastelería Externa
 673508,Galleta Nuum Obleas Amaranto Chocolate Menta 53 gr,Pastelería y Masas Típicas,Pastelería Externa
+673509,PANETTONE VAINILLA COBERTURA CHOCOLATE E,Panadería,Panadería Externa
 673510,PANETTONE CHOCOLATE COBERTURA CHOCOLATE,Panadería,Panadería Externa
 673513,CASSATA VERANO DELIZIA 1 LITRO,Congelados,"Helados, Cassattas y Picoleses"
 673514,Mortadela Ovoplus kg,Fiambres,Fiambres Externos
