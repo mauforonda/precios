@@ -1445,6 +1445,7 @@ id_producto,producto,categoria,subcategoria
 26031,TE AMATE D JAMAICA ARAND PET 500ML,Bebidas,Bebidas Varias
 26035,VINO KOHLBERG SEMI DULCE TTO 700ML,Bebidas,Vinos y Champagne
 26036,VINO KOHLBERG DULCE ROSE 700ML,Bebidas,Vinos y Champagne
+26041,GALLETA GULLON CHIP CHOCO ZERO 125G,Abarrotes,Dietéticos y Saludables
 26044,BEBIDA BELLA ROMA LTA 473ML,Bebidas,Licores
 26874,Whisky Johnnie Walker 18 Años 750 ml,Bebidas,Licores
 27100,MASMELOS TRULULU FRANKI BSA 50G,Abarrotes,Golosinas - Varias
@@ -1455,7 +1456,7 @@ id_producto,producto,categoria,subcategoria
 27918,Fideo Matarazzo Tirabuzon 500 gr,Abarrotes,Básicos
 28835,Molde Estañado Ilkon 28 cm,Bazar,Articulos de Cocina
 29001,Vino Montecillo Rioja Reserva 750 ml,Bebidas,Vinos y Champagne
-29002,SODA MENDOCINA POMELO 1LT,Bebidas,Gaseosas
+29002,Gaseosa Mendocina Pomelo 1 L,Bebidas,Gaseosas
 29003,Avena Instantanea Avelinda 450 gr,Abarrotes,Nutrición Infantil
 29004,Avena Instantanea Avelinda 300 gr,Abarrotes,Nutrición Infantil
 29005,Chocolate Garoto Crocante con Mani 5 gr,Abarrotes,Golosinas - Varias
@@ -2640,6 +2641,7 @@ id_producto,producto,categoria,subcategoria
 59773,Vinagre Toscano Tinto 750 ml,Abarrotes,Básicos
 59900,Ron Medellin Añejo 2 L,Bebidas,Licores
 60468,Licor Cusenier Limoncello 750 ml,Bebidas,Licores
+60470,Vino Etchart Gran Linaje Malbec 750 ml,Bebidas,Vinos y Champagne
 61509,Galleta Saladix Arcor Parmesano 100 gr,Abarrotes,Galletas
 61719,Mayonesa Hellmans Clasica 336 gr,Abarrotes,Aderezos
 61731,Gomita Trolli Iberica Garabatos 100 gr,Abarrotes,Golosinas - Varias
@@ -7038,6 +7040,7 @@ id_producto,producto,categoria,subcategoria
 240622,INSECTICIDA TYSON MATA MOSCAS 250CM,Cuidado del Hogar,Insecticidas
 240624,SHAMPOO REVIVE ACEITE CUSI 340ML,Cuidado Personal,Cuidado del Cabello
 240625,ACOND. REVIVE ACEITE DE CUSI 340ML POTE,Cuidado Personal,Cuidado del Cabello
+240627,SH CARISSA ACEITE ARGAN JALEA REAL 900 M,Cuidado Personal,Cuidado del Cabello
 240628,SHAMPOO CARISSA  ACEITE DE CUSI 900ML DP,Cuidado Personal,Cuidado del Cabello
 240632,TOALLA NOSOTRAS LARGA TELA 24X8,Cuidado Personal,Cuidado Familiar
 240633,DETERGENTE OMO LIMON 650 GR,Cuidado del Hogar,Limpieza de la Ropa
@@ -8297,6 +8300,7 @@ id_producto,producto,categoria,subcategoria
 338251,Maquina de Afeitar Bic Sensitive Shaver,Cuidado Personal,Cuidado de la Piel
 338277,Edulcorante  Splenda con Stevia 100 gr,Abarrotes,Dietéticos y Saludables
 338278,Edulcorante  Splenda con Stevia 50 Sobres,Abarrotes,Dietéticos y Saludables
+338279,Edulcorante  Splenda Doypack 250 gr,Abarrotes,Dietéticos y Saludables
 338338,Talco para Pies Rexona Efficient 200 gr,Cuidado del Hogar,Productos Americanos
 338717,Ciruela Disecadas Maya Semilla 380 gr,Abarrotes,Frutas en Conserva
 338760,Pinza Ropa Indecoel 24 un,Cuidado del Hogar,Accesorios del Hogar
@@ -10338,6 +10342,7 @@ id_producto,producto,categoria,subcategoria
 481874,Surtido Caldillo Angelmo 190 gr,Abarrotes,Comidas en Conserva
 481882,Picadillo Angelmo Mariscos al Agua 190 gr,Abarrotes,Comidas en Conserva
 481971,Nestum Nestle Prebio Avena Ciruela 270 gr,Abarrotes,Nutrición Infantil
+482011,GALLETA GULLON BARQUILLO CHOCO ZERO 60G,Abarrotes,Dietéticos y Saludables
 482013,Vino Finca La Linda Cabernet Sauvignon 750 ml,Bebidas,Vinos y Champagne
 482022,Encendedor Bic Grande,Bazar,Articulos de Cocina
 482057,Shampoo Disney Frozen Manzanilla 325 ml,Cuidado del Bebé,Kids
@@ -12219,6 +12224,7 @@ id_producto,producto,categoria,subcategoria
 552883,GALLETA NAVIDENA PREMIUM CARSA 600 GR,Abarrotes,Temporada
 552884,GALLETAS ANTOJO NAVIDENO SAN GABRIEL 400,Abarrotes,Temporada
 552885,GALLETAS SURTIDA DE ORO SAN GABRIEL 600,Abarrotes,Temporada
+552886,GALLETAS SURTIDO DIN DON DAN CARSA 600 G,Abarrotes,Temporada
 552891,BEBIDA PROTEICA DELIZIA PINA BOT 500 ML,Bebidas,Energizantes
 552893,PANETTONE VAINILLA CON CHIPS DE CHOC CEIBO 750 GR BSA,Panadería,Panadería Externa
 552901,SULTANA ORANGE CUP BSA 160 GR,Abarrotes,Café y Sucedáneos
@@ -12230,10 +12236,12 @@ id_producto,producto,categoria,subcategoria
 552910,ICED COFFE VINUT LTA 250 ML,Abarrotes,Productos Americanos
 552911,COLD DREW COFFE VINUT S AZUCAR LTA 250 ML,Abarrotes,Productos Americanos
 552912,COFFE LATE VINUT LTA 250 ML,Abarrotes,Productos Americanos
+552914,PACK 3 CERVEZA HUARI LAGER 440 ML,Bebidas,Cervezas
 552915,GALLETAS NAVIDENAS MANTEQUILLA CAJA CUADRADA 115GR,Abarrotes,Productos Americanos
 552916,GALLETAS DE MANTEQUILLA LATA NAVIDENA MOD 3 300GR,Abarrotes,Productos Americanos
 552917,BASTONES NAVIDENOS CJA 120GR,Abarrotes,Productos Americanos
 552918,GALLETAS MANTEQUILLA SIN AZUCAR 310GR,Abarrotes,Productos Americanos
+552933,LENTEJA PREMIUM GRAN ORO 400 GRS,Abarrotes,Nutrición Infantil
 554333,Cerveza Paceña Lata Roja 473 Cc,Bebidas,Cervezas
 554466,Detergente Liquido Ola Futuro Limpieza Completa 5 L,Cuidado del Hogar,Limpieza de la Ropa
 554468,Suavizante Ropa Ola Suavecito Original 5 L,Cuidado del Hogar,Limpieza de la Ropa
@@ -12295,6 +12303,7 @@ id_producto,producto,categoria,subcategoria
 562645,Yogurt Dietetico Cotoca Natural 200 ml,Lácteos y Derivados,Yogures
 562653,Pack Salchicha San Juan 16 un,Fiambres,Fiambres Hipermaxi
 563315,Yogurt San Javier Natural 550 ml,Lácteos y Derivados,Yogures
+563722,QUESO HUANCAROMA 1 UND.,Lácteos y Derivados,Quesos
 563838,Mortadela Jamonada de Pollo Hipermaxi kg,Fiambres,Fiambres Hipermaxi
 564273,Empanada Negras Vikinger 4 un,Panadería,Panadería Externa
 564329,Alcohol Gel Jamsa Antibacterial,Cuidado Personal,Cuidado de la Piel
@@ -14177,6 +14186,8 @@ id_producto,producto,categoria,subcategoria
 656675,PANETON CEAB 700GR. BOLSA CLASICO,Panadería,Panadería Externa
 656678,PANETON CEAB DE CHOCOLATE 700 GRS BOLSA,Panadería,Panadería Externa
 656683,PANETTONE ZELADA BOLSA 650 GR,Panadería,Panadería Externa
+656690,ROSCA DE FRUTAS ZELADA 600GR.,Pastelería y Masas Típicas,Pastelería Externa
+656691,ROSCA DE CANELA ZELADA 550GR,Pastelería y Masas Típicas,Pastelería Externa
 656700,Pan Molido Zelada 1 kg,Panadería,Panadería Externa
 656727,Yogurt Kefir Cereza 1 L,Lácteos y Derivados,Yogures
 656729,Yogurt Kefir Mango 1 L,Lácteos y Derivados,Yogures
@@ -15762,6 +15773,7 @@ id_producto,producto,categoria,subcategoria
 669048,PACK HERBAL ESS SH TE VERDE400ML + AC DE,Cuidado Personal,Cuidado del Cabello
 669049,GUANTE NEGRO EXTRA GRUESO7 1/2; 8; 8 1/2,Cuidado del Hogar,Accesorios del Hogar
 669052,BYPHASSE CREMA CORPORAL CON EXTRACTO DE,Cuidado Personal,Cuidado de la Piel
+669060,BYPHASSE FAMILY FRESH MASCARILLA CAPILAR,Cuidado Personal,Cuidado del Cabello
 669063,BYPHASSE PLAISIR NATURE GEL DE DUCHA VER,Cuidado Personal,Cuidado de la Piel
 669067,GEL DE DUCHA LACTOUREA FIRMING 600ML.,Cuidado Personal,Cuidado de la Piel
 669068,GLADE TOQUE FULL LIMON 12ML,Cuidado del Hogar,Limpieza de Living y Ropero
