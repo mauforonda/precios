@@ -6699,7 +6699,7 @@ id_producto,producto,categoria,subcategoria
 226026,Limpiador de Vidrio Bristar Original Recarga 930 cc,Cuidado del Hogar,Limpieza de Living y Ropero
 226027,Limpiador de Baño Bristar Saca Sarro 550 ml,Cuidado del Hogar,Limpieza de Baños
 226477,Te Windsor Mate Surtido La Abuela 100 Sobres,Abarrotes,Café y Sucedáneos
-226577,Canaston Cooler 2023,Abarrotes,Temporada
+226577,Canaston Cooler,Abarrotes,Temporada
 226700,Mostaza French Spicy Brown 12 oz,Abarrotes,Productos Americanos
 226734,Blondor Revive Yama 10 gr,Cuidado Personal,Cuidado de la Piel
 226872,Fideo Divella Paccheri Napoletani 500 gr,Abarrotes,Básicos
@@ -7053,6 +7053,8 @@ id_producto,producto,categoria,subcategoria
 240644,DOVE MEN AER INVISIBLE BIG 12X250ML,Cuidado Personal,Cuidado de la Piel
 240645,TINTE CAREY KIT RUBIO COBRIZO 7.4,Cuidado Personal,Cuidado del Cabello
 240646,SHAMPOO H&S SUAVE Y MANEJABLE 2EN1 650ML,Cuidado Personal,Cuidado del Cabello
+240653,TOALLA PROBOLOCK MANZANILLA ALOE 100 UNDS,Cuidado del Bebé,Cuidado del Bebé
+240654,TOALLA PROBOLOCK MANZANILLA ALOE 50 UNDS,Cuidado del Bebé,Cuidado del Bebé
 240778,Cereal En Linea Kids 330 gr,Abarrotes,Nutrición Infantil
 240850,Sal El Salerito de Mesa 130 gr,Abarrotes,Básicos
 240890,My Toffee Coco 600 gr,Abarrotes,Chocolates y Caramelos
@@ -7681,6 +7683,7 @@ id_producto,producto,categoria,subcategoria
 313138,Limpiador de Piso Siempre Lavanda 1.2 L,Cuidado del Hogar,Limpieza de Baños
 313139,Limpiador de Piso Siempre Frutos Rojo 5 L,Cuidado del Hogar,Limpieza de Baños
 313140,Limpiador de Piso Siempre Fruto Rojo  1.2 L,Cuidado del Hogar,Limpieza de Baños
+313141,Jabon Liquido Siempre Melon 400 ml,Cuidado Personal,Cuidado de la Piel
 313144,Limpiador de Vidrio Siempre Gatillo 900 ml,Cuidado del Hogar,Limpieza de Living y Ropero
 313145,Lustramueble Siempre Brillo 900 ml,Cuidado del Hogar,Limpieza de Living y Ropero
 313146,Limpiador Sacagrasa Siempre Maximo Poder con Gatillo 900 ml,Cuidado del Hogar,Limpieza de Cocina
@@ -15485,6 +15488,7 @@ id_producto,producto,categoria,subcategoria
 668283,Toallas Humeda Simonds Vitamina E 60 un,Cuidado del Bebé,Cuidado del Bebé
 668290,Shampoo Loquay Hidratante Chocolate 300 ml,Cuidado Personal,Cuidado del Cabello
 668293,AMPOLLA CAPILAR RESTRUCTURANTE CON PROTE,Cuidado Personal,Cuidado del Cabello
+668294,PRIME PULVER - KIT ACLARANTE DE VELLO Y,Cuidado Personal,Cuidado de la Piel
 668298,Acondicionador Herbal Revitalizante,Cuidado Personal,Cuidado del Cabello
 668300,Jabon Barra Mar Glicerina 3 un 125 gr,Cuidado Personal,Cuidado de la Piel
 668345,PACK VAJILLERO LIMON 1050+SACAGRASA  EXT,Cuidado del Hogar,Limpieza de Cocina
@@ -16058,6 +16062,7 @@ id_producto,producto,categoria,subcategoria
 671217,Yogurt Fatyh Plastica 200 cc,Lácteos y Derivados,Yogures
 671226,Pollo Entero La Granja kg,Carnes,Carne de Pollo
 671227,Pollo Entero Especial La Granja kg,Carnes,Carne de Pollo
+671228,Pollo Trozado Entero La Granja con Piel kg,Carnes,Carne de Pollo
 671230,Pechuga de Pollo La Granja con Piel kg,Carnes,Carne de Pollo
 671231,Pechuga de Pollo Sin Piel La Granja kg,Carnes,Carne de Pollo
 671232,Filete de Pollo La Granja Bandeja kg,Carnes,Carne de Pollo
@@ -16371,6 +16376,7 @@ id_producto,producto,categoria,subcategoria
 672381,Queso Mozzarella San Mateo Laminado 160 gr,Lácteos y Derivados,Quesos
 672382,Filete de Pechuga de Pavo Sofia kg,Congelados,Carnes Congeladas
 672383,Carne Molida Sofia de Cerdo Congelada,Congelados,Carnes Congeladas
+672394,GALLETAS DULCES SURTIDAS OVOPLUS 350GRS,Pastelería y Masas Típicas,Pastelería Externa
 672396,Queso Mozzarella San Javier Famosa 450 gr,Lácteos y Derivados,Quesos
 672397,Queso Mozzarella San Javier Famosa kg,Lácteos y Derivados,Quesos
 672398,Helado Bonle Chicle 900 ml,Congelados,"Helados, Cassattas y Picoleses"
@@ -17177,6 +17183,8 @@ id_producto,producto,categoria,subcategoria
 674285,BUDIN COFLER REMIX 215 GRAMOS,Pastelería y Masas Típicas,Pastelería Externa
 674286,PANETON COFLER RELL P DARK,Panadería,Panadería Externa
 674287,PACK SALAME/JAMON MAS TABLITA SOFIA UNIDAD,Fiambres,Fiambres Externos
+674300,YOGURT IOGO TIPO GRIEGO SABOR FRUTILLA 500GRS,Lácteos y Derivados,Yogures
+674310,MINI PANETONES TRIO OVOPLUS CAJA 300GRS,Panadería,Panadería Externa
 675245,Miel de Abeja Eva Promiel 250 gr,Abarrotes,"Mermel, Mieles"
 676113,Habanito Bits Cream Coojies Cream 120 gr,Congelados,"Helados, Cassattas y Picoleses"
 676115,HABANITO BITS CREAM DULCE DE LECHE 120GRS,Congelados,"Helados, Cassattas y Picoleses"
@@ -17298,6 +17306,7 @@ id_producto,producto,categoria,subcategoria
 677740,Queso de Mesa La Chacra 500 gr,Lácteos y Derivados,Quesos
 677742,Quesillo La Chacra un,Lácteos y Derivados,Quesos
 677753,Mortadela Cazador Torito al Vacio,Fiambres,Fiambres Externos
+677756,MORTADELA JAMONADA TORITO AL VACIO UNI,Fiambres,Fiambres Externos
 677758,Salchicha Viena Torito kg,Fiambres,Fiambres Externos
 677768,Jamon Sandwichero Torito al Vacio,Fiambres,Fiambres Externos
 677771,Chorizo de Freir Torito kg,Fiambres,Fiambres Externos
@@ -17848,7 +17857,7 @@ id_producto,producto,categoria,subcategoria
 729840,Limpiador de Vidrio Sapolio Gatillo 650 ml,Cuidado del Hogar,Limpieza de Living y Ropero
 729880,Lustramueble Aerosol Premio Lavanda 360 ml,Cuidado del Hogar,Limpieza de Living y Ropero
 729895,Lustramueble Aerosol Premio Limon 360 ml,Cuidado del Hogar,Limpieza de Living y Ropero
-729964,Revomedor de Neumaticos Sapolio 360 ml,Bazar,Automotriz
+729964,Renovador de Neumaticos Sapolio 360 ml,Bazar,Automotriz
 729999,Jabon Barra Alma de Flores 130 gr,Cuidado Personal,Cuidado de la Piel
 730003,Jabon Barra Senador Classic 130 gr,Cuidado Personal,Cuidado de la Piel
 731241,Vino Navarro Correa  Cabernet Sauvignon Reserva Seleccion 750 ml,Bebidas,Vinos y Champagne
