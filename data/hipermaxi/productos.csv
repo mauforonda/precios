@@ -1433,6 +1433,7 @@ id_producto,producto,categoria,subcategoria
 26001,SALSA D TOMATE KRIS DP 200G,Abarrotes,Salsas y Extracto de Tomate
 26002,SALSA KRIS P PIZZA DP 200G,Abarrotes,Salsas y Extracto de Tomate
 26003,BEBIDA MAMITAS TEQUILA S FRAMBUESA LTA 3,Bebidas,Licores
+26004,ISOTONICO ACTIVADE MORA PET 1LT,Bebidas,Isotónicos
 26006,BEBIDA MAMITAS PINA LTA 355ML,Bebidas,Licores
 26007,BEBIDA MAMITAS LIMON LTA 355ML,Bebidas,Licores
 26011,AGUA TONICA LA CABANA PET 1LT,Bebidas,Aguas
@@ -1448,6 +1449,7 @@ id_producto,producto,categoria,subcategoria
 26041,GALLETA GULLON CHIP CHOCO ZERO 125G,Abarrotes,Dietéticos y Saludables
 26044,BEBIDA BELLA ROMA LTA 473ML,Bebidas,Licores
 26064,CUBANITOS BONOBON LECHE 78GR,Abarrotes,Chocolates y Caramelos
+26065,BOTA BON O BON NAVIDENA DP 150G,Abarrotes,Temporada
 26874,Whisky Johnnie Walker 18 Años 750 ml,Bebidas,Licores
 27100,MASMELOS TRULULU FRANKI BSA 50G,Abarrotes,Golosinas - Varias
 27101,MASMELOS TRULULU CHOCO VAINILLA 50G,Abarrotes,Golosinas - Varias
@@ -3304,6 +3306,7 @@ id_producto,producto,categoria,subcategoria
 101716,Achocolatado Choco Miki 400 gr,Abarrotes,Nutrición Infantil
 101718,Yerba Mate Ouropy Brutus 500 gr,Abarrotes,Café y Sucedáneos
 101722,Sopa Instantanea Nissin Camaron 85 gr,Abarrotes,Básicos
+101729,Choclo Dez 280 gr,Abarrotes,Verduras en Conserva
 101734,Achocolatado Choco Miki 400 gr,Abarrotes,Nutrición Infantil
 101739,Cigarrillo Camel Compact 20 un,Bebidas,Cigarrillos
 101741,Jugo Del Valle Manzana 2 L,Bebidas,"Jugos, Néctar"
@@ -3820,6 +3823,7 @@ id_producto,producto,categoria,subcategoria
 107218,Mani Amindus Sabor Tocino 110 gr,Abarrotes,Snack
 107484,Cebolla Badia Polvo 7 oz,Abarrotes,Condimentos y Legumbres
 107492,Jarabe Pancake Wafle Syrup 709 ml,Abarrotes,Internacional
+107709,Aceite Oliva Zaeli Ext Virg Vd 500 Ml,Abarrotes,Básicos
 107715,Mezcla Zaeli Brownie Pouch 450 gr,Abarrotes,Repostería
 107717,Ketchup Zaeli 400 gr,Abarrotes,Aderezos
 107815,Alimento Cat Chow Adulto Carne 85 gr,Abarrotes,Mascotas
@@ -6059,6 +6063,7 @@ id_producto,producto,categoria,subcategoria
 220664,Toffe de Leche Watts 900 gr,Abarrotes,Chocolates y Caramelos
 220667,Chicle Watts Tutti Tatuajes 600 gr,Abarrotes,Golosinas - Varias
 220669,Caramelo Watts Miel Honey 900 gr,Abarrotes,Chocolates y Caramelos
+220670,SERVILLETA BLANQUITA  200 UNID.,Cuidado Personal,Cuidado Familiar
 220672,Pastilla de Baño Vim Mochila Poder Total 2 un 100 gr,Cuidado del Hogar,Productos Americanos
 220673,POLVO VAJILLERO SUN BOLSA MAQUINA  1 KG,Cuidado del Hogar,Productos Americanos
 220674,POLVO VAJILLERO SUN POTE 1 KG,Cuidado del Hogar,Productos Americanos
@@ -8195,6 +8200,7 @@ id_producto,producto,categoria,subcategoria
 334921,Delineador Maybelline Ceja Tatto Ttmd,Cuidado Personal,Cuidado de la Piel
 335011,Almendra Alimentarte Entera 80 gr,Abarrotes,Snack
 335055,Limpiador Desinfectante Ola Aromatic Marina 5 L,Cuidado del Hogar,Limpieza de Baños
+335060,Cepillo Dental Oral-B Complete 3 un,Cuidado Personal,Cuidado Bucal
 335078,Cepillo Dental Dentalclean Macia 30 Adulto,Cuidado Personal,Cuidado Bucal
 335290,Limon Mandarina 1 kg,Frutas y Verduras,Frutas
 335339,Huevos Yemita Amarilla 30 un,Lácteos y Derivados,Huevos
@@ -8997,6 +9003,7 @@ id_producto,producto,categoria,subcategoria
 372108,Taper Good y Good Cuadrado 670 ml,Bazar,Menaje Plástico
 372109,Taper Good y Good Cuadrado 1.5 ml,Bazar,Menaje Plástico
 372112,Toma Todo Rey 1 L,Bazar,Menaje Plástico
+372144,CI SARTEN OMELETERA DOBLE 20CM 20123/020,Bazar,Articulos de Cocina
 372147,Sarten Tramontina Frigideira 16 cm,Bazar,Articulos de Cocina
 372149,Sarten Tramontina Paris 26 cm,Bazar,Articulos de Cocina
 372157,Sarten Tramontina Paris 24 cm,Bazar,Articulos de Cocina
@@ -10708,6 +10715,7 @@ id_producto,producto,categoria,subcategoria
 534641,Jalapeños Enteros La Costeña 380 gr,Abarrotes,Verduras en Conserva
 534668,Rajas de Chile La Costeña Jalapeño 220 gr,Abarrotes,Verduras en Conserva
 534714,Vinagre San Lorenzo de Manzana 600 ml,Abarrotes,Básicos
+534994,Cepilllo Dental Oral-B Niños 1 un,Cuidado Personal,Cuidado Bucal
 535149,Jabon Barra Heno de Pravia Crema 150 gr,Cuidado del Hogar,Productos Americanos
 535192,VIRUTILLA VIRUTEX MEDIANA GRUESA N.4,Cuidado del Hogar,Accesorios del Hogar
 536849,Pañuelo Kleenex Junior Disney 50 un,Cuidado Personal,Cuidado Familiar
@@ -12239,6 +12247,7 @@ id_producto,producto,categoria,subcategoria
 552893,PANETTONE VAINILLA CON CHIPS DE CHOC CEIBO 750 GR BSA,Panadería,Panadería Externa
 552901,SULTANA ORANGE CUP BSA 160 GR,Abarrotes,Café y Sucedáneos
 552904,PANETONNE CON CHIPS DE CHOCOLATE CEIBO 750 GR BSA,Panadería,Panadería Externa
+552905,VINO TINTO SANTO PATRONO DE MESA 700 ML,Bebidas,Vinos y Champagne
 552906,GALLETA MAZZEI SIN AZUC LIMON 150G,Abarrotes,Galletas
 552907,GALLETA MAZZEI SIN AZUCAR COCO 150G,Abarrotes,Galletas
 552908,PACK 12 CERVEZA PACENA LTA 440ML,Bebidas,Cervezas
@@ -12252,6 +12261,7 @@ id_producto,producto,categoria,subcategoria
 552917,BASTONES NAVIDENOS CJA 120GR,Abarrotes,Productos Americanos
 552918,GALLETAS MANTEQUILLA SIN AZUCAR 310GR,Abarrotes,Productos Americanos
 552933,LENTEJA PREMIUM GRAN ORO 400 GRS,Abarrotes,Nutrición Infantil
+552945,QUINUA TOSTADA GRAN ORO 250 GRS.,Abarrotes,Nutrición Infantil
 554333,Cerveza Paceña Lata Roja 473 Cc,Bebidas,Cervezas
 554466,Detergente Liquido Ola Futuro Limpieza Completa 5 L,Cuidado del Hogar,Limpieza de la Ropa
 554468,Suavizante Ropa Ola Suavecito Original 5 L,Cuidado del Hogar,Limpieza de la Ropa
@@ -15510,6 +15520,7 @@ id_producto,producto,categoria,subcategoria
 668396,Detergente Polvo Bolivar Baby Kids 1.5 Kg,Cuidado del Hogar,Limpieza de la Ropa
 668403,Detergente Polvo Bolivar Baby Kids 750 gr,Cuidado del Hogar,Limpieza de la Ropa
 668404,ARTHES CASSANDRA ROSE INTENSE 100 ML PF0,Cuidado Personal,Cuidado de la Piel
+668418,BREAKUP PROOF DELIN. LIQ. A PRUEBA DE AG,Cuidado Personal,Cuidado de la Piel
 668421,W PALETA DE 5 SOMBRAS CAMO FLAUNT - COLO,Cuidado Personal,Cuidado de la Piel
 668426,W LAPIZ DE CEJAS RETRACTIL MEDIUM BROWN,Cuidado Personal,Cuidado de la Piel
 668486,Lavandida Mr.Cloro en Gel 1 L,Cuidado del Hogar,Limpieza de la Ropa
@@ -17643,6 +17654,7 @@ id_producto,producto,categoria,subcategoria
 679793,Helado Delizia Vaquita Leche 80 ml,Congelados,"Helados, Cassattas y Picoleses"
 679819,Requeson Altiplano 500 gr,Lácteos y Derivados,Quesos
 679820,Requeson Altiplano 250 gr,Lácteos y Derivados,Quesos
+679868,Paneton La Suprema Chocolate 750 gr,Panadería,Panadería Externa
 679878,Margarina Reyna Taza 215 gr,Lácteos y Derivados,Mantequillas y Margarinas
 679896,Pata de Jamon Julio Ulloa Con Hueso kg,Fiambres,Fiambres Externos
 679898,Jamon Ulloa Feteado 100 gr,Fiambres,Fiambres Externos
@@ -20287,13 +20299,25 @@ id_producto,producto,categoria,subcategoria
 857277,CH J11 16 VELA AROMATICA CON TAPA DISENO SURTIDO 7X4CM,Bazar Importación,Temporada Navidad
 857396,Cocoa Hersheys 100% 23 oz,Abarrotes,Nutrición Infantil
 857465,CH S2 25 BOLAS NAVIDENAS ROJAS SET X 20PZAS,Bazar Importación,Temporada Navidad
+857531,CH S1 72 MUNECO RENO CON CHALINA ROJA SACO PLOMO 60CM,Bazar Importación,Temporada Navidad
+857532,CH S1 73 MUNECO DE NIEVE CHALINA A RAYAS ROJO Y BLANCO,Bazar Importación,Temporada Navidad
+857533,CH S1 74 MUNECO PAPA NOEL ROJO GORRO A CUADROS 60CM,Bazar Importación,Temporada Navidad
 857574,Palmito Campo Verde Baby 170 gr,Abarrotes,Verduras en Conserva
 857589,Palmito Campo Verde Entero 250 gr,Abarrotes,Verduras en Conserva
 857629,Romero 1 kg,Frutas y Verduras,Verduras
 857660,CP LECHUGA HIDROPONICA CIMA 1 UND,Frutas y Verduras,Verduras
+857664,CH S5 3 ADORNO NAVIDENO PAPA NOEL MUNECO DE NIEVE Y RENO,Bazar Importación,Temporada Navidad
+857670,CH S5 10 MUNECO DE NIEVE PAPA NOEL RENO C ZAPATOS,Bazar Importación,Temporada Navidad
+857694,CH S5 28 MUNECO DE NIEVE RENO PAPA NOEL SENTADOS C CHAQUETA,Bazar Importación,Temporada Navidad
+857716,CH S5 32 RENO OSO PIERNAS LARGAS C BUFANDA A RAYAS VERDES,Bazar Importación,Temporada Navidad
 857815,CP TALLO DE APIO 1 KG,Frutas y Verduras,Verduras
 857830,Kale Granja Ventilla 1 un,Frutas y Verduras,Gourmet
 857961,Manzana Rosada 1 kg,Frutas y Verduras,Frutas
+857996,CH S8 2 MUNECO JENGIBRE C CHALECO MUNECA JENGIBRE 50CM,Bazar Importación,Temporada Navidad
+857997,CH S8 3 MUEECO JENGIBRE CON PANTALON VERDE 38CM,Bazar Importación,Temporada Navidad
+858003,CH S9 2 GNOMO BLANCO Y PLATEADO CON ZAPATOS PLATEADOS,Bazar Importación,Temporada Navidad
+858005,CH S9 4 GNOMO COLOR BLANCO CON BRAZOS A RAYAS GRIS 52CM,Bazar Importación,Temporada Navidad
+858006,CH S9 5 GNOMO CON GORRO DISENO DE COPOS DE NIEVE DORADO 36CM,Bazar Importación,Temporada Navidad
 858235,Aceite La Española Extra Virgen 200 ml,Abarrotes,Básicos
 858319,Galleta La Francesa Paris Surtida 250 gr,Abarrotes,Galletas
 858364,Vino Concha y Toro Reservado Merlot 750 Ml,Bebidas,Vinos y Champagne
@@ -21122,6 +21146,7 @@ id_producto,producto,categoria,subcategoria
 947369,Hervidor Tramontina con Tapa 14 cm,Bazar,Articulos de Cocina
 947376,Olla Tramontina Alta 22 cm,Bazar,Articulos de Cocina
 947378,CI OLLA ALTA DE 18CM 3L20530/618,Bazar,Articulos de Cocina
+947380,CI CACEROLA C/MANGO 20CM20525/620,Bazar,Articulos de Cocina
 947385,Olla Tramontina Baja 20 cm,Bazar,Articulos de Cocina
 947386,CI OLLA BAJA DE 18CM 2L20520/618,Bazar,Articulos de Cocina
 947387,Sarten Tramontina con Tapa 26 cm,Bazar,Articulos de Cocina
@@ -21139,6 +21164,7 @@ id_producto,producto,categoria,subcategoria
 947632,Globos Liso Redondo,Bazar,Cotillón
 947633,MA GLOBOS METALIZADOS,Bazar,Cotillón
 947636,Mascara Saw,Bazar,Temporada Halloween
+947906,Olla Tramontina Alta 16 cm,Bazar,Articulos de Cocina
 948326,Taper Good y Good Cuadrado con Divisores 1.10 ml,Bazar,Menaje Plástico
 948327,Taper Basa Cuadrado 2.3 L,Bazar,Menaje Plástico
 948328,Taper Good y Good Fiambres,Bazar,Menaje Plástico
@@ -21200,6 +21226,7 @@ id_producto,producto,categoria,subcategoria
 963518,Set Cuchara New Tramontina Negra,Bazar,Articulos de Cocina
 963520,Tenedor New Tramontina Azul,Bazar,Articulos de Cocina
 963521,Tenedor New Tramontina Crema,Bazar,Articulos de Cocina
+963523,Set Cuchillo New Tramontina Crema,Bazar,Articulos de Cocina
 963563,Muñeca,Juguetería,Juguetería Niña/Bebé
 963564,Muñeca,Juguetería,Juguetería Niña/Bebé
 964764,Pyrex Nadir Rectangular Grande,Bazar,Menaje Vidrio/Cristal
