@@ -1221,6 +1221,7 @@ id_producto,producto,categoria,subcategoria
 17879,Vino Aguijon Reina Fusion Blancas 750 ml,Bebidas,Vinos y Champagne
 17883,Pepinillo La Despensa 220 gr,Abarrotes,Verduras en Conserva
 17884,Pepinillo La Despensa 370 gr,Abarrotes,Verduras en Conserva
+17885,Aceite Oliva Zaeli Ext Virg Fco 250 Ml,Abarrotes,Básicos
 17887,Gaseosa Mendocina Sinalco 3 L,Bebidas,Gaseosas
 17890,Gaseosa Mendocina Ginger Ale 2 L,Bebidas,Gaseosas
 17900,Tostada Dulce Dos Hermanos de Arroz 120 gr,Abarrotes,Galletas
@@ -2588,7 +2589,7 @@ id_producto,producto,categoria,subcategoria
 46710,Picadillo de Carne Safra 90 gr,Abarrotes,Comidas en Conserva
 47187,Fideo Lazzaroni Linguini 53 400 gr,Abarrotes,Básicos
 47189,Esparragos Goya Verde 11.6 oz,Abarrotes,Verduras en Conserva
-47391,FILTRO MELITTA   N4 30 UNDS,Bazar,Articulos de Cocina
+47391,"Filtro  N4, 30 Un - Melitta",Bazar,Articulos de Cocina
 47392,Whisky Chivas Regal 1 L,Bebidas,Licores
 47397,Filtro Para Cafe Melitta 103 30 un,Bazar,Articulos de Cocina
 47398,Filtro Para Cafe Melitta 102 30 un,Bazar,Articulos de Cocina
@@ -2774,6 +2775,7 @@ id_producto,producto,categoria,subcategoria
 69523,CERVEZA PACENA PILSENER C/BV 620 CC,Bebidas,Cervezas
 69540,Cerveza Pilsener Ducal 350 ml,Bebidas,Cervezas
 69548,Bicervecina El Inca con Alcohol 620 cc,Bebidas,Cervezas
+69719,GALLETA GULLON MARIA INTEGRAL 200G,Abarrotes,Dietéticos y Saludables
 69730,Champagne Freixenet X Dulce 750 ml,Bebidas,Vinos y Champagne
 69850,Pilas Duracell Alcalina AA 2 un,Bazar,Ferretería
 69876,Pilas Duracell Alcalina AAA 4 un,Bazar,Ferretería
@@ -2815,7 +2817,7 @@ id_producto,producto,categoria,subcategoria
 73512,Jabon Barra Johnsons Original 80 gr,Cuidado del Bebé,Cuidado del Bebé
 73687,Protector Solar Sundown 30fps 120 ml,Cuidado Personal,Cuidado de la Piel
 74454,Trucha Entera Titikaka kg,Congelados,Carnes Congeladas
-74730,PORTA FILTRO MELITA N103 1UND,Bazar,Articulos de Cocina
+74730,Porta Filtro N103 - Melitta,Bazar,Articulos de Cocina
 74941,Malta Real 350 ml,Bebidas,Bebidas Varias
 75191,Cuba Libre Ron y Cola 350 ml,Bebidas,Licores
 75825,Whisky Johnnie Walker Black Label 1 L,Bebidas,Licores
@@ -4414,6 +4416,7 @@ id_producto,producto,categoria,subcategoria
 113305,Ambientador Electrico Todo Brillo Manzana Canela 21 ml,Cuidado del Hogar,Limpieza de Living y Ropero
 113306,Ambientador Liquido Todo Brillo Lavanda 21 ml+ Dispensador Electrivco,Cuidado del Hogar,Limpieza de Living y Ropero
 113308,Ambientador Liquido Todo Brillo Bebe 21 ml+ Dispensador Electrivco,Cuidado del Hogar,Limpieza de Living y Ropero
+113309,Ambientador Liquido Todo Brillo Brisa Marina 21 ml+ Dispensador Electrivco,Cuidado del Hogar,Limpieza de Living y Ropero
 113311,Desinfectante Aerosol Lysoform Original 390 cm,Cuidado del Hogar,Limpieza de Baños
 113316,Ambientador Repuesto Todo Brillo Hawaiian 21 ml,Cuidado del Hogar,Limpieza de Living y Ropero
 113318,Ambientador Repuesto Todo Brillo Bebe 21 ml,Cuidado del Hogar,Limpieza de Living y Ropero
@@ -5353,6 +5356,7 @@ id_producto,producto,categoria,subcategoria
 150875,Queso Cheddar San Javier Laminado 250 gr,Lácteos y Derivados,Quesos
 150876,Queso Fundido San Javier Jamon 220 gr,Lácteos y Derivados,Quesos
 150877,Queso San Javier Sandwichero Laminado 150 gr,Lácteos y Derivados,Quesos
+150888,Queso Cheddar San Javier Laminado 150 gr,Lácteos y Derivados,Quesos
 150933,Jamon Sandwichero Monserrat kg,Fiambres,Fiambres Externos
 150941,Jamon Ahumado Monserrat kg,Fiambres,Fiambres Externos
 150947,Esencia de Vainilla Alvarez 1 L,Abarrotes,Repostería
@@ -5553,6 +5557,7 @@ id_producto,producto,categoria,subcategoria
 162515,Mascarilla Elvive Hidra Hidratacion 300 ml,Cuidado Personal,Cuidado del Cabello
 163032,Ambientador Repuesto Aerosol Sapolio Vainilla,Cuidado del Hogar,Limpieza de Living y Ropero
 163155,Suavizante Ropa Borita Rosa Doypack 900 cm,Cuidado del Hogar,Limpieza de la Ropa
+164216,Galleta Bagley Chocolinas 170 gr,Abarrotes,Galletas
 164224,Galleta Cabley Dulce Coquitas 157 gr,Abarrotes,Galletas
 164321,Galleta Bagley Opera Amor 112 gr,Abarrotes,Galletas
 164330,Galleta Merngadas Frutilla 88 gr,Abarrotes,Galletas
@@ -5689,6 +5694,8 @@ id_producto,producto,categoria,subcategoria
 191954,Vino Escorihuela Gascon Pequeñas Producciones Syrah 750 ml,Bebidas,Vinos y Champagne
 192010,Lavavajilla Mr.Flash Aloe Vera Manzanilla 1200 ml,Cuidado del Hogar,Limpieza de Cocina
 192011,Lavavajilla Mr.Flash Limon Anti Bacterial 1200 ml,Cuidado del Hogar,Limpieza de Cocina
+192044,Tinte Recamier Vitane Negro Men 25 gr,Cuidado Personal,Cuidado del Cabello
+192045,Tinte Recamier Vitane Men Tono Castaño Oscuro,Cuidado Personal,Cuidado del Cabello
 192538,Paneton Victoria 700 gr,Panadería,Panadería Externa
 192643,Paneton La Francesa Extra Fino 610 gr,Panadería,Panadería Externa
 192686,Cafe Melitta Torrado Tradicional 250 gr,Abarrotes,Café y Sucedáneos
@@ -6960,6 +6967,7 @@ id_producto,producto,categoria,subcategoria
 234023,PRETRATAMIENTO ELVIVE GLYCO ACIDIFIER X1,Cuidado Personal,Cuidado del Cabello
 234024,BRILLO LIFTER GLOSS MNY PLUMP HOT HONEY,Cuidado Personal,Cuidado de la Piel
 234025,BRILLO LIFTER GLOSS MNY PLUMP BLUSH BLAZ,Cuidado Personal,Cuidado de la Piel
+234026,BRILLO LIFTER GLOSS PLUMP MNY PEACH FEVE,Cuidado Personal,Cuidado de la Piel
 234042,POLVO MNY SUPERTAY FULL COVERAGE 220,Cuidado Personal,Cuidado de la Piel
 234043,BRILLO LIFTER GLOSS PLUMP MNY HOT CHILI,Cuidado Personal,Cuidado de la Piel
 234044,BRILLO LIFTER GLOSS PLUMP MNY PINK STING,Cuidado Personal,Cuidado de la Piel
@@ -7071,6 +7079,7 @@ id_producto,producto,categoria,subcategoria
 240628,SHAMPOO CARISSA  ACEITE DE CUSI 900ML DP,Cuidado Personal,Cuidado del Cabello
 240632,TOALLA NOSOTRAS LARGA TELA 24X8,Cuidado Personal,Cuidado Familiar
 240633,DETERGENTE OMO LIMON 650 GR,Cuidado del Hogar,Limpieza de la Ropa
+240634,DETERGENTE OMO REGULAR 650 GR,Cuidado del Hogar,Limpieza de la Ropa
 240635,OMO PVO ORIGINAL 6X1.8 KG,Cuidado del Hogar,Limpieza de la Ropa
 240638,VARITA REPELENTE SACHETS 5UNIDADES,Cuidado del Hogar,Insecticidas
 240639,TRATAMINTO CAPILAR ELVIVE SERUM  102 ML,Cuidado Personal,Cuidado del Cabello
@@ -7082,7 +7091,10 @@ id_producto,producto,categoria,subcategoria
 240646,SHAMPOO H&S SUAVE Y MANEJABLE 2EN1 650ML,Cuidado Personal,Cuidado del Cabello
 240653,TOALLA PROBOLOCK MANZANILLA ALOE 100 UNDS,Cuidado del Bebé,Cuidado del Bebé
 240654,TOALLA PROBOLOCK MANZANILLA ALOE 50 UNDS,Cuidado del Bebé,Cuidado del Bebé
+240663,OLEO P/CABELLO DOVE BOND INTENSE 110 ML,Cuidado Personal,Cuidado del Cabello
 240667,PACK TOALLA CLASSIC TRIPLE PROT 12X160,Cuidado del Bebé,Cuidado del Bebé
+240668,PACK CACAO SH + C. DE PEINAR HAIR FOOD,Cuidado Personal,Cuidado del Cabello
+240671,"PACK ALOE VERA SH + MASCARA, HAIR FOOD",Cuidado Personal,Cuidado del Cabello
 240778,Cereal En Linea Kids 330 gr,Abarrotes,Nutrición Infantil
 240850,Sal El Salerito de Mesa 130 gr,Abarrotes,Básicos
 240890,My Toffee Coco 600 gr,Abarrotes,Chocolates y Caramelos
@@ -8494,6 +8506,7 @@ id_producto,producto,categoria,subcategoria
 346544,Cereal Corn Flakes Promos de Maiz 510 gr,Abarrotes,Nutrición Infantil
 346934,Pernil Ahumado Colonia Pirai kg,Fiambres,Fiambres Externos
 347530,Salsa Ocean Spray Whole Berry 397 gr,Abarrotes,Productos Americanos
+349615,GALLETAS NAVIDENAS VIKINOEL 200 GRS.,Panadería,Panadería Externa
 349788,Gaseosa Guarana Antartica 500 ml,Bebidas,Gaseosas
 350125,Chocolate Hershey Almendra Count 41 gr,Abarrotes,Golosinas - Varias
 350168,Cereal Princesa Musli Tradicional 400 gr,Abarrotes,Nutrición Infantil
@@ -8571,6 +8584,7 @@ id_producto,producto,categoria,subcategoria
 352214,Yerba Mate Campesino Fitness 250 gr,Abarrotes,Café y Sucedáneos
 352220,Tequila 1800 100 Agave Reposado 750 ml,Bebidas,Licores
 352221,Tequila 1800 100 Agave Blanca 750 ml,Bebidas,Licores
+352224,Champagne Moet Chandon Rose 750 ml,Bebidas,Vinos y Champagne
 352232,Tequila Jose Cuervo Tradicional 695 ml,Bebidas,Licores
 352341,Detergente Polvo Todo Brillo Toque Suavizante 700 gr,Cuidado del Hogar,Limpieza de la Ropa
 352462,Gaseosa Sprite Sin Azucar 2 L,Bebidas,Gaseosas
@@ -9966,6 +9980,7 @@ id_producto,producto,categoria,subcategoria
 452144,Cepillo Dental Foramen Xtreme Junior Medio 1 un,Cuidado Personal,Cuidado Bucal
 452147,Silka Medic Pie Atleta x 15 gr,Farmacia Éticos,Dermatológicos
 452291,BATON ORIGINAL X UND  COD FARMA,Abarrotes,Temporada
+452390,Shampoo Medicasp Anticaspa 130 ml,Cuidado Personal,Cuidado del Cabello
 452612,Shampoo Tio Nacho Herbolaria Milar 2 un 415 ml,Cuidado Personal,Cuidado del Cabello
 452613,Acondicionador Tio Nacho Aclarante 415 ml,Cuidado Personal,Cuidado del Cabello
 452614,Shampoo Tio Nacho Anticanas 415 ml,Cuidado Personal,Cuidado del Cabello
@@ -10098,6 +10113,10 @@ id_producto,producto,categoria,subcategoria
 461106,CREMA CORP.QUINUA AVENA PORTUGAL X 450 GR,Farmacia Otc,Dermatológicos
 461107,CREMA CORP.LECHE DE ALMEND PORTUGAL X 450 GR,Farmacia Otc,Dermatológicos
 461238,VASO AGUA KRISTALINO CRISA UND,Bazar,Menaje Vidrio/Cristal
+461275,LIPSMACK BAL. LABIAL SWEET BERRY 12.5GR,Farmacia Otc,Varios
+461276,LIPSMACK BAL.LABIAL MENTA FRESH 12.5GR,Farmacia Otc,Varios
+461277,LIPSMACK BAL.LABIAL MANGO TROPICAL 12.5GR,Farmacia Otc,Varios
+461278,LIPSMACK BAL.LABIAL MANGO TROPICAL 11 GR,Farmacia Otc,Varios
 461393,Sazonador McCormick Mild Mix Taco 28 gr,Abarrotes,Condimentos y Legumbres
 461530,Carbon Ecologico 3 kg,Bazar,Churrasquería
 461857,Sopa Instantanea Maruchan Camaron 64 gr,Abarrotes,Básicos
@@ -10656,6 +10675,7 @@ id_producto,producto,categoria,subcategoria
 518038,Champagne Mateus Brut Rose 750 ml,Bebidas,Vinos y Champagne
 518134,Filete de Sardina Ramirez Aceite Extra Virgen 100 gr,Abarrotes,Comidas en Conserva
 518135,Mejillones General Al Escabeche 118 gr,Abarrotes,Comidas en Conserva
+518136,Atun Ramirez Assado Algarvia 120 gr,Abarrotes,Comidas en Conserva
 518139,Vodka Grey Goose 1 L,Bebidas,Licores
 518187,Harina La Suprema de Trigo 2 kg,Abarrotes,Básicos
 518344,Sazonador McCormick Montreal Steak 96 gr,Abarrotes,Condimentos y Legumbres
@@ -11419,6 +11439,7 @@ id_producto,producto,categoria,subcategoria
 551231,Gaseosa Pepsi Black 1 L,Bebidas,Gaseosas
 551242,Mayonesa Kraft Avocado Oil 354 ml,Abarrotes,Aderezos
 551246,CHOCOLATE BREICK PAPA NOEL 75 GR,Abarrotes,Temporada
+551251,CHOCOLATE BREICK ANGELITO 75 GR,Abarrotes,Temporada
 551281,Yogurt Pil Nuti Boom Surtido Choc Granola 130 gr,Lácteos y Derivados,Yogures
 551283,Mermelada Andean Berries Arandanos Jengibre 210 gr,Abarrotes,"Mermel, Mieles"
 551284,Bebida Senss Limon 355 ml,Bebidas,Licores
@@ -12290,9 +12311,12 @@ id_producto,producto,categoria,subcategoria
 552917,BASTONES NAVIDENOS CJA 120GR,Abarrotes,Productos Americanos
 552918,GALLETAS MANTEQUILLA SIN AZUCAR 310GR,Abarrotes,Productos Americanos
 552933,LENTEJA PREMIUM GRAN ORO 400 GRS,Abarrotes,Nutrición Infantil
+552936,GALLETAS GULLON DIGESTIVE ZERO 400G,Abarrotes,Dietéticos y Saludables
 552939,PIPOCAS IL CIBO 150 GR,Abarrotes,Snack
 552941,QUINUA REAL BLANCA GRAN ORO 400 GRS,Abarrotes,Nutrición Infantil
 552945,QUINUA TOSTADA GRAN ORO 250 GRS.,Abarrotes,Nutrición Infantil
+552966,NECTAR DEL SOL DURAZNO TETRA 200ML,Bebidas,"Jugos, Néctar"
+552967,NECTAR DEL SOL MANZANA TETRA 200ML,Bebidas,"Jugos, Néctar"
 552968,PACK 6 NECTAR DEL SOL 200 ML,Bebidas,"Jugos, Néctar"
 552969,HUEVO SOFIA MAPLE 30 UND,Lácteos y Derivados,Huevos
 554333,Cerveza Paceña Lata Roja 473 Cc,Bebidas,Cervezas
@@ -12363,6 +12387,7 @@ id_producto,producto,categoria,subcategoria
 564346,Huevos Caisy 6 un,Lácteos y Derivados,Huevos
 564347,Galleta Marilan Pit Stop Original 162 gr,Abarrotes,Galletas
 564354,Morenitas Integrales Vikinger 10 un,Panadería,Panadería Externa
+564362,Margarina Qualy Cremosa Sadia con Sal 250 gr,Lácteos y Derivados,Mantequillas y Margarinas
 564524,Yogurt Pil Biogurt Bebible Durazno 1 L,Lácteos y Derivados,Yogures
 564605,Yogurt Pil Biogurt Bebible Mango 1 L,Lácteos y Derivados,Yogures
 564680,Yogurt Pil Biogurt Bebible Frutilla 1 L,Lácteos y Derivados,Yogures
@@ -14104,6 +14129,7 @@ id_producto,producto,categoria,subcategoria
 655819,Sopa Instantanea Nissin Carne 80 gr,Abarrotes,Básicos
 655864,Cereal Princesa Chocopotamos Duo 850 gr,Abarrotes,Nutrición Infantil
 655866,Sal El Salerito Ablandador 200 gr,Abarrotes,Básicos
+655872,Aguardiente de Vino Velha Cancella 700 ml,Bebidas,Licores
 655876,Chocolate Breick Bolivar 100 gr,Abarrotes,Chocolates y Caramelos
 655879,Gragea Breick Quinua Chocolate 70 gr,Abarrotes,Chocolates y Caramelos
 655882,Jugo Aloe Vera Savia Mango 500 ml,Bebidas,Bebidas Varias
@@ -17244,6 +17270,7 @@ id_producto,producto,categoria,subcategoria
 674300,YOGURT IOGO TIPO GRIEGO SABOR FRUTILLA 500GRS,Lácteos y Derivados,Yogures
 674301,YOGURT IOGO TIPO GRIEGO SABOR COCO 500 GRS,Lácteos y Derivados,Yogures
 674302,6 PACK YOGURT IOGO 0 AZUCAR SELECCION SABORES 6X120,Lácteos y Derivados,Yogures
+674306,NECTAR CONCENTRADO ASAI FRUKO CAJA 12 UNI,Congelados,Pulpas y Frutas Congeladas
 674309,PANETON CHOCO CHERRY OVOPLUS CAJA 540 GRS,Panadería,Panadería Externa
 674310,MINI PANETONES TRIO OVOPLUS CAJA 300GRS,Panadería,Panadería Externa
 675245,Miel de Abeja Eva Promiel 250 gr,Abarrotes,"Mermel, Mieles"
@@ -17838,6 +17865,7 @@ id_producto,producto,categoria,subcategoria
 699294,Aceituna Carbonell Rellena 210 gr,Abarrotes,Verduras en Conserva
 699303,Yogurt Pil Bebible Frutilla Bote 200 ml,Lácteos y Derivados,Yogures
 699318,Yogurt Pil Bebible Durazno 200 ml,Lácteos y Derivados,Yogures
+699338,GALLETA FRANCESA SURTIDAS PASCUERA 550 G,Abarrotes,Galletas
 699501,Ron Flor de Caña Centenario 12 Años 750 ml,Bebidas,Licores
 699521,Ron Flor de Caña Oro 4 Años 1 L,Bebidas,Licores
 699536,Ron Flor de Caña Extra Seco 4 Años 1 L,Bebidas,Licores
@@ -18000,7 +18028,7 @@ id_producto,producto,categoria,subcategoria
 763514,LECHE ENTERA LOLITA LA PURITA 800 ML.,Lácteos y Derivados,Leches
 763543,Helado Acai Yogurt Griego Cabrera 1 L,Congelados,"Helados, Cassattas y Picoleses"
 763648,Helado Acai Yogurt Griego Cabrera 500 ml,Congelados,"Helados, Cassattas y Picoleses"
-763716,JUGOS LACTEOS LA PURITA 230 ML.SABORES SURTIDOS,Lácteos y Derivados,Leches
+763716,JUGOS LACTEOS LA PURITA 210 ML.SABORES SURTIDOS,Lácteos y Derivados,Leches
 763762,GALLETAS CHATITAS SABORIZADAS LA DELICIA BOLSA,Panadería,Panadería Externa
 763897,Huevos Avicola Paurito Medianos 60 un,Lácteos y Derivados,Huevos
 763981,Bebida Vegetal Serenisima Base de Almendra 1 L,Lácteos y Derivados,Leches
@@ -18960,7 +18988,7 @@ id_producto,producto,categoria,subcategoria
 816617,Caramelo Wonka Grape Strawberries 46.7 gr,Abarrotes,Golosinas - Varias
 816904,Gaseosa Sprite Cafeine Free USA 12 oz,Bebidas,Bebidas Usa
 818428,IK.RALLADOR INOX 5 CARAS,Bazar,Articulos de Cocina
-818468,ENCENDEDOR RONSON GRANDE,Bazar,Churrasquería
+818468,Encendedor Grande - Ronson,Bazar,Churrasquería
 818564,Margarina Primor 225 gr,Lácteos y Derivados,Mantequillas y Margarinas
 818669,Encendedor Ronson Largo,Bazar,Churrasquería
 818724,Pilas Rayovac Alcalina AAA 6 un,Bazar,Ferretería
@@ -19165,7 +19193,7 @@ id_producto,producto,categoria,subcategoria
 833414,Requeson San Javier Cremoso Light 220 gr,Lácteos y Derivados,Quesos
 833716,Sidra Cereser Uva 660 ml,Bebidas,Vinos y Champagne
 833735,CH J7 1 INDIVIDUAL DE MESA 4 RECTANGULOS,Bazar Importación,Cocina General
-833737,CH J7 2 INDIVIDUAL DE MESA LINEAS HORIZONTALES,Bazar Importación,Cocina General
+833737,Individual De Mesa Lineas Horizontales,Bazar Importación,Cocina General
 833929,Chicle Wrigley Juicy Fruit 5 Stick,Abarrotes,Golosinas - Varias
 834101,CH 0101 ADORNO PARA ARBOL,Bazar Importación,Temporada Navidad
 834226,Florero Pequeño Rombos,Bazar Importación,Living y Dormitorio
@@ -19264,8 +19292,8 @@ id_producto,producto,categoria,subcategoria
 837978,Taper Mr Cuadrado 3.5 L,Bazar,Menaje Plástico
 837979,Taper Mr Cuadrado 2.5 L,Bazar,Menaje Plástico
 837999,Taper Myr con Division,Bazar,Menaje Plástico
-838080,FRE JARRA 2LT X 2 WANDA,Bazar,Menaje Plástico
-838081,FRI TOMA TODO OFERTA X2,Bazar,Menaje Plástico
+838080,Jarra 2Lt - Wanda,Bazar,Menaje Plástico
+838081,Toma Todo  X2 Unidades,Bazar,Menaje Plástico
 838104,FRI INFLABLE ARCO DE FUTBOL DE BS 140,Bazar,Temporada Verano
 838298,SHAMPO DE MASCOTA STOP TUTTY FRUTY 500ML,Bazar,Mascotas General
 838299,SHAMPO ALOE VERA DE MASCOTA STOP 500ML,Bazar,Mascotas General
@@ -19288,7 +19316,7 @@ id_producto,producto,categoria,subcategoria
 838622,Atun Norte Lomito al Agua 170 gr,Abarrotes,Comidas en Conserva
 838676,Boligrafo Faber Castell Rojo 0.32,Bazar,Librería
 838690,Crayones Faber Castell Grande 12 Colores,Bazar,Librería
-839010,FILTRO DE CAFETERA MELTTA N2,Bazar,Articulos de Cocina
+839010,Filtro N2 - Melitta,Bazar,Articulos de Cocina
 839081,Turron Sesamo Tks 150 gr,Abarrotes,Golosinas - Varias
 839159,FRI PLATO DE PERRO DE BS 10,Bazar,Mascotas General
 839254,Harina Famosa Leudante 1 kg,Abarrotes,Básicos
@@ -19423,7 +19451,7 @@ id_producto,producto,categoria,subcategoria
 841452,Arena Para Gato Hello Kitty Azul 2 kg,Bazar,Mascotas General
 841460,CH J90 50 POSA OLLA DE BAMBU 14X14CM CUADRADO,Bazar Importación,Cocina General
 841462,CH J90 52 POSA OLLA DE BAMBU 17X17CM CUADRADO,Bazar Importación,Cocina General
-841573,FRI TAPER X2 CUADRADO,Bazar,Menaje Plástico
+841573,Taper Cuadrado X2 Piezas,Bazar,Menaje Plástico
 841605,Cuchara Betty Crocker para Pasta,Bazar Importación,Cocina General
 841616,REFIL ALPFILM 300X28CM,Bazar,Articulos de Cocina
 841658,Limpiador Desinfectante Ola Aromatic Pino 1.8 L,Cuidado del Hogar,Limpieza de Baños
@@ -19447,7 +19475,7 @@ id_producto,producto,categoria,subcategoria
 842527,"BOLSA ZIPPER CONGELAR 12X15UNID.27,9X26,",Bazar,Articulos de Cocina
 843169,CH S20 15 RECIPIENTE HERMETICO PLASTICO REDONDO CON TAPA COL,Bazar Importación,Temporada Carnaval
 843174,CH S20 20 RECIPIENTE HERMETICO PLASTICO CUADRADO CON TAPA CO,Bazar Importación,Temporada Carnaval
-843240,CH S31 4 TABLERO DE CORTE DE BAMBU  TAMANO 26X36X1 8CM,Bazar Importación,Churrasquería
+843240,"Tablero De Corte De Bambu 26X36X1,8Cm",Bazar Importación,Churrasquería
 843246,"CH.S31-12 ESPATULA ALARGADA DE BAMBU, CON MANGO DE COLORES,",Bazar Importación,Cocina General
 843304,Licuadora Premier 3 en 1,Bazar,Electrodoméstico/Línea Blanca-Hogar
 843326,Six Pack Cerveza Paceña 269 ml,Bebidas,Cervezas
@@ -19466,7 +19494,7 @@ id_producto,producto,categoria,subcategoria
 843868,Juguete Pala Cargadora City,Juguetería Importación,Juguetería Niño/Bebé
 843892,Energizante Gatorade Fruit Punch Polvo 51 oz,Bebidas,Bebidas Usa
 843931,Juego de Camion Remolque,Juguetería Importación,Juguetería Niño/Bebé
-843948,CH Y5513 TERMO SPORT  COLORES VARIADOS  CAPACIDAD 500ML,Bazar Importación,Cocina General
+843948,Termo Sport  Colores Surtidos  Capacidad 500Ml,Bazar Importación,Cocina General
 843949,"CH.Y5514 TOMATODO COLORES PASTEL, CAPACIDAD 1200 ML",Bazar Importación,Temporada Carnaval
 843991,CH.Y37-1 SETX2 PORTA RETRATOS PARA 4 FOTOS Y MARCADOR  COLOR,Bazar Importación,Living y Dormitorio
 843992,CH.Y37-2 SETX2 PORTA RETRATOS PARA 4 FOTOS Y MARCADOR COLOR,Bazar Importación,Living y Dormitorio
@@ -19510,7 +19538,7 @@ id_producto,producto,categoria,subcategoria
 845300,CH Y496 LAMPARA CON PANTALLA PLOMO BASE PLOMO CLARO CON FLOR,Bazar Importación,Living y Dormitorio
 845304,CH Y499 LAMPARA COLOR CREMA CON PANTALLA Y BASE CILINDRICA T,Bazar Importación,Living y Dormitorio
 845316,CH Y4921 LAMPARA CON PANTALLA BLANCA BASE CUADRADA PLOMO CON,Bazar Importación,Living y Dormitorio
-845319,CH Y4923 LAMPARA CON PANTALLA COLORES SURTIDOS  BASE ESTILO,Bazar Importación,Living y Dormitorio
+845319,"Lampara Con Pantalla, Colores Surtidos",Bazar Importación,Living y Dormitorio
 845487,Choritos Angelmo al Agua 190 gr,Abarrotes,Comidas en Conserva
 845557,Queso Mozzarella Charagua,Lácteos y Derivados,Quesos
 845558,Queso Danbo Guapurutu kg,Lácteos y Derivados,Quesos
@@ -19716,20 +19744,20 @@ id_producto,producto,categoria,subcategoria
 846861,CH G12 15 PLANTA ARTIFICIAL HOJAS CON MACETA GRIS,Bazar Importación,Regalos/Adornos
 846891,Mayonesa Hellmanns Light 475 gr,Abarrotes,Dietéticos y Saludables
 846919,CH Y27 2 MOLDE RECTANGULAR DE SILICONA COOKSTYLE 25X12X7CM,Bazar Importación,Cocina General
-846922,CH Y27 4 MOLDE CUADRADO DE SILICONA COOKSTYLE 26X24X5CM,Bazar Importación,Cocina General
+846922,Molde De Silicona  24X24X5Cm - Cookstyle,Bazar Importación,Cocina General
 846927,CH Y27 9 MOLDE PARA BUDIN ESPIRAL DE SILICONA 24CM COOKSTYLE,Bazar Importación,Cocina General
 846928,CH 27 10 GUANTES DE SILICONA CON DEDOS COOKSTYLE 27X17CM,Bazar Importación,Cocina General
-846929,CH 27 11 GUANTES DE SILICONA COOKSTYLE 28X11CM,Bazar Importación,Cocina General
-846932,CH 27 14 BROCHA DE SILICONA COOKSTYLE 24X5CM,Bazar Importación,Cocina General
+846929,Guantes De Silicona 28X11 Cm - Cookstyle,Bazar Importación,Cocina General
+846932,Brocha De Silicona 24Cm - Cookstyle,Bazar Importación,Cocina General
 846933,Espatula Cookstyle Silicona Mango de Madera 29x6,Bazar Importación,Cocina General
 846934,Espatula Cookstyle Silicona Mango de Madera 29x5,Bazar Importación,Cocina General
 846936,Brocha Cookstyle Silicona Mango de Madera 28x5,Bazar Importación,Cocina General
-846943,CH 27 23 ESPUMADERA DE SILICONA 32X10CM COOKSTYLE,Bazar Importación,Cocina General
+846943,Espumadera De Silicona 32 Cm - Cookstyle,Bazar Importación,Cocina General
 846945,CH 27 25 BROCHA DE SILICONA 25X4CM COOKSTYLE,Bazar Importación,Cocina General
 846946,CH 27 26 ESPATULA DE SILICONA 25X4CM COOKSTYLE,Bazar Importación,Cocina General
 846947,CH 27 27 ESPATULA DE SILICONA CON RANURAS 32X8CM COOKSTYLE,Bazar Importación,Cocina General
-846949,CH 27 29 CUCHARA PARA SPAGUETTI DE SILICONA 32X10CM COOKSTYL,Bazar Importación,Cocina General
-846951,CH 27 30 CUCHARA CON RANURAS 32X7CM  COOKSTYLE,Bazar Importación,Cocina General
+846949,Cuchara De Silicona Para Spaguetti 32 Cm - Cookstyle,Bazar Importación,Cocina General
+846951,Cuchara De Silicona Con Ranuras 32 Cm - Cookstyle,Bazar Importación,Cocina General
 846952,CH 27 31 CUCHARA DE SILICONA MANGO DE MADERA 32X7CM COOKSTYL,Bazar Importación,Cocina General
 846954,Cucharon Cookstyle Silicona Mango de Madera 32x7,Bazar Importación,Cocina General
 846957,Espatula Cookstyle Silicona Mango de Madera 32x8,Bazar Importación,Cocina General
@@ -19761,7 +19789,7 @@ id_producto,producto,categoria,subcategoria
 847334,Gaseosa Simba Pomelo 2 L,Bebidas,Gaseosas
 847369,Chocolate Repostero Para Ti Chocolate 250 gr,Abarrotes,Repostería
 847397,ENCENDEDOR RONSON LARGO CRON,Bazar,Churrasquería
-847399,ENCENDEDOR RONSON TUB NEGRO,Bazar,Churrasquería
+847399,Encendedor Tubo Negro - Ronson,Bazar,Churrasquería
 847446,CB.DISPENSADOR DE GEL 200ML,Bazar,Bioseguridad
 847486,TRAJE DE BIOSEGURIDAD,Bazar,Bioseguridad
 847488,LP.MASCARA DE PROTECCION -19,Bazar,Bioseguridad
@@ -20073,10 +20101,10 @@ id_producto,producto,categoria,subcategoria
 854952,CH J5 3 JARRA MEDIDORA 1000ML,Bazar Importación,Menaje Vidrio/Cristal
 854953,CH J5 4 JARRA MEDIDORA 500ML,Bazar Importación,Menaje Vidrio/Cristal
 855004,CH 44 15 COJIN COLOR AZUL Y BLANCO 44X44CM,Bazar Importación,Living y Dormitorio
-855005,CH 44 16 COJIN COLOR AMARILLO 44X44CM,Bazar Importación,Living y Dormitorio
+855005,Cojin Amarillo 44X44Cm,Bazar Importación,Living y Dormitorio
 855018,Aceituna Fragata con Salmon 350 gr,Abarrotes,Verduras en Conserva
 855019,CH 49 5 FLORES ARTIFICIALES MALUS SPECTABILIS EN RAMA,Bazar Importación,Regalos/Adornos
-855021,CH 49 7 FLORES ARTIFICIALES ORQUIDEA EN RAMA 95CM,Bazar Importación,Regalos/Adornos
+855021,Flores Artificiales Orquidea En Rama 95Cm,Bazar Importación,Regalos/Adornos
 855022,CH 49 8 FLORES ARTIFICIALES ORQUIDEA EN RAMA 95CM,Bazar Importación,Regalos/Adornos
 855023,Aceituna Fragata con Anchoa 350 gr,Abarrotes,Verduras en Conserva
 855027,CH 45 3 FLORES ARTIFICIALES LIRIO PEQUENO 70CM,Bazar Importación,Regalos/Adornos
@@ -20092,11 +20120,11 @@ id_producto,producto,categoria,subcategoria
 855133,CH 3164 DH COLADOR PLEGABLE CON MANGO 43X24X3CM,Bazar Importación,Cocina General
 855135,CH 2126 DH MOLDE PARA 6 HELADOS,Bazar Importación,Cocina General
 855136,CH 2866 DH INYECTOR DE ADOBO 2 EN 1 T 30X5 3CM,Bazar Importación,Cocina General
-855140,CH 2937 DH ABRELATAS DE SEGURIDAD TAMANO 17X8 5X6 3CM,Bazar Importación,Cocina General
+855140,Abrelatas 17Cm - Danny Home,Bazar Importación,Cocina General
 855145,CH 3012 DH TABLA DE CORTAR CON CUCHILLO Y PELADOR SET X3PZAS,Bazar Importación,Churrasquería
 855147,Palmito Campo Verde Rodaja 400 gr,Abarrotes,Verduras en Conserva
 855150,CH 3114 DH CUCHILLOS DE COCINA SET X4PZAS,Bazar Importación,Cocina General
-855151,CH 2530 DH JERINGA INYECTORA DE ADOBO 23X6X2CM,Bazar Importación,Cocina General
+855151,Jeringa Inyectora De Adobo 23Cm - Danny Home,Bazar Importación,Cocina General
 855155,CH 0683 DH TIJERAS DE COCINA 21CM,Bazar Importación,Cocina General
 855156,CH 0340 DH TEMPORIZADOR DE COCINA CON INDICADOR DE TEMPERATU,Bazar Importación,Cocina General
 855162,CH 01 20 DH SARTEN MEDIANO CON MANGO ROJO 20CM ANTIADHERENTE,Bazar Importación,Cocina General
@@ -20110,7 +20138,7 @@ id_producto,producto,categoria,subcategoria
 855184,CH 2411 DH PORTA CUCHILLOS DE COCINA 14X14X22 5CM,Bazar Importación,Cocina General
 855187,Edulcorante  Sucaryl 360 ml,Abarrotes,Dietéticos y Saludables
 855189,CH 0105 DH CORTADOR DE PIZZA 35 8X10 6X3CM,Bazar Importación,Cocina General
-855190,CH 0453 DH SACACORCHOS T 12X2X08CM,Bazar Importación,Cocina General
+855190,Sacacorchos 12Cm - Danny Home,Bazar Importación,Cocina General
 855194,CH 0343 DH SOPORTE MAGNETICO PARA CUCHILLOS T 33X3X1,Bazar Importación,Cocina General
 855196,CH 3347 DH RALLADOR MULTIFUNCION 5 EN 1 T 31X7X14CM,Bazar Importación,Cocina General
 855201,Aceituna Carbonell Verde 350 gr,Abarrotes,Verduras en Conserva
@@ -20135,18 +20163,18 @@ id_producto,producto,categoria,subcategoria
 855737,CH 33 96 ORGANIZADOR GRANDE CON TAPA COLORES SURTIDOS 22X16X,Bazar Importación,Temporada Carnaval
 855738,CH 33 97 ORGANIZADOR MEDIANO CON TAPA 22X16X16CM COLOR SURTI,Bazar Importación,Temporada Carnaval
 855752,CH 33 179 PEINES  SET X3 PZAS COLOR NEGRO 15X2 5CM,Bazar Importación,Bijouteria/Cuidado Personal
-855769,CH YH027 COPA P VINO 880ML,Bazar Importación,Menaje Vidrio/Cristal
-855771,CH YH030 COPA ALARGADA PARA CHAMPANA 290ML,Bazar Importación,Menaje Vidrio/Cristal
-855772,CH YH029 COPA PARA VINO 510ML,Bazar Importación,Menaje Vidrio/Cristal
-855774,CH YHQ23031 COPA PARA VINO CON FONDO PLANO 650ML,Bazar Importación,Menaje Vidrio/Cristal
-855775,CH YHH23031 COPA PARA VINO CON FONDO PLANO 480ML,Bazar Importación,Menaje Vidrio/Cristal
+855769,Copa Para Vino 880Ml,Bazar Importación,Menaje Vidrio/Cristal
+855771,Copa Alargada Para Champaña 290Ml,Bazar Importación,Menaje Vidrio/Cristal
+855772,Copa Para Vino 510Ml,Bazar Importación,Menaje Vidrio/Cristal
+855774,Copa Para Vino Con Fondo Plano 650Ml,Bazar Importación,Menaje Vidrio/Cristal
+855775,Copa Para Vino Con Fondo Plano 480Ml,Bazar Importación,Menaje Vidrio/Cristal
 855776,Jugo Ocean Spray Cranberry Original 96 oz,Bebidas,Bebidas Usa
-855777,CH YHX23031 COPA ALARGADA PARA CHAMPANA FONDO PLANO 320ML,Bazar Importación,Menaje Vidrio/Cristal
-855778,CH YHD23031 VASO LISO 400ML,Bazar Importación,Menaje Vidrio/Cristal
-855779,CH YHG23031 VASO LARGO 500ML,Bazar Importación,Menaje Vidrio/Cristal
-855780,CH YHG014 COPA PARA VINO 670ML,Bazar Importación,Menaje Vidrio/Cristal
-855782,CH YHH23059 COPA PARA VINO 580ML,Bazar Importación,Menaje Vidrio/Cristal
-855783,CH YHX23059 COPA PARA CHAMPANA 270ML,Bazar Importación,Menaje Vidrio/Cristal
+855777,Copa Alargada Para Champaña Fondo Plano 320Ml,Bazar Importación,Menaje Vidrio/Cristal
+855778,Vaso Liso 400Ml,Bazar Importación,Menaje Vidrio/Cristal
+855779,Vaso Largo 500Ml,Bazar Importación,Menaje Vidrio/Cristal
+855780,Copa Para Vino 670Ml,Bazar Importación,Menaje Vidrio/Cristal
+855782,Copa Para Vino 580Ml,Bazar Importación,Menaje Vidrio/Cristal
+855783,Copa Para Champaña 270Ml,Bazar Importación,Menaje Vidrio/Cristal
 855784,CH YH038 DECANTADOR DE VINO EN FORMA DE CARACOL 1300ML,Bazar Importación,Menaje Vidrio/Cristal
 855785,CH YH045 DECANTADOR DE VINO TRADICIONAL BASE OVALADA 1430ML,Bazar Importación,Menaje Vidrio/Cristal
 855793,CH 26 3 COLGADOR PARA ROPA SET X5PZAS 39X21CM,Bazar Importación,Living y Dormitorio
@@ -20157,27 +20185,27 @@ id_producto,producto,categoria,subcategoria
 856084,CH YW40 6 LAMPARA DE MESA BASE COLOR AMARILLO 12X26CM,Bazar Importación,Living y Dormitorio
 856115,Sal Badia de Ajo 907.2 gr,Abarrotes,Condimentos y Legumbres
 856117,CH 26 2 COLGADOR DE MADERA PARA ROPA SET X3 44X22CM,Bazar Importación,Living y Dormitorio
-856158,CH 31 16 VELA GRANDE CILINDRICA 5X15CM 3 SEGMENTOS DE COLOR,Bazar Importación,Living y Dormitorio
+856158,Vela Grande Cilindrica,Bazar Importación,Living y Dormitorio
 856170,CH B01 1 TAZA CON PLATILLO SET X 12PZAS,Bazar Importación,Menaje Porcelana/Cerámica
 856191,CH 0023 DH RALLADOR PEQUENO 4 LADOS 9 5X7 5CM,Bazar Importación,Cocina General
 856196,CH 0136 DH ABRELATAS 20X4CM,Bazar Importación,Cocina General
 856202,CH 2342 DH GARRA PARA CARNE  12X11X2CM,Bazar Importación,Cocina General
 856203,CH 2917 DH RALLADOR Y EXPRIMIDOR 4 EN 1 21X4CM,Bazar Importación,Cocina General
 856206,CH 21 1 MANTEQUILLERO CON TAPA CUCHILLO Y BASE BAMBU 19X17X1,Bazar Importación,Cocina General
-856336,CH Z10 1 BOTELLA DE VIDRIO CON TAPA METALICA X 1250ML,Bazar Importación,Menaje Vidrio/Cristal
+856336,Botella De Vidrio Con Tapa Metalica 1250Ml,Bazar Importación,Menaje Vidrio/Cristal
 856337,Botella De Vidrio Con Lineas Blancas x 1000 ml,Bazar Importación,Menaje Vidrio/Cristal
 856338,Botella De Vidrio Con Diseño x 1000 ml,Bazar Importación,Menaje Vidrio/Cristal
 856339,Botella De Vidrio Con Lineas Verticales x 1000 ml,Bazar Importación,Menaje Vidrio/Cristal
-856342,CH Z10 9 ENVASE DE VIDRIO P MIEL C TAPA DE MADERA 470ML,Bazar Importación,Menaje Vidrio/Cristal
-856399,CH 9 1 TAPER PEQUENO REDONDO TAPA HERMETICA 820 ML,Bazar Importación,Menaje Vidrio/Cristal
-856400,CH 9 2 TAPER MEDIANO REDONDO TAPA HERMETICA 1550ML,Bazar Importación,Menaje Vidrio/Cristal
-856401,CH 9 3 TAPER GRANDE REDONDO TAPA HERMETICA 2700ML,Bazar Importación,Menaje Vidrio/Cristal
+856342,Envase De Vidrio Para Miel,Bazar Importación,Menaje Vidrio/Cristal
+856399,Taper Redondo De Vidrio Hermetico Pequeño,Bazar Importación,Menaje Vidrio/Cristal
+856400,Taper Redondo De Vidrio Hermetico Mediano,Bazar Importación,Menaje Vidrio/Cristal
+856401,Taper Redondo De Vidrio Hermetico Grande,Bazar Importación,Menaje Vidrio/Cristal
 856403,CH 9 4 TAPER PEQUENO RECTANGULAR HERMETICO 640ML,Bazar Importación,Menaje Vidrio/Cristal
 856405,CH 9 6 TAPER GRANDE RECTANGULAR HERMETICO 1520ML,Bazar Importación,Menaje Vidrio/Cristal
 856408,Taper de Vidrio Cierre Hermetico 700 ml,Bazar Importación,Menaje Vidrio/Cristal
-856418,CH 9 11 TAPER PEQUENO RECTANGULAR 800ML,Bazar Importación,Menaje Vidrio/Cristal
-856419,CH 9 12 TAPER MEDIANO RECTANGULAR TAPA HERMETICA 1380ML,Bazar Importación,Menaje Vidrio/Cristal
-856420,CH 9 12 TAPER GRANDE RECTANGULAR TAPA HERMETICA 2600ML,Bazar Importación,Menaje Vidrio/Cristal
+856418,Taper Rectangular De Vidrio Hermetico Pequeño,Bazar Importación,Menaje Vidrio/Cristal
+856419,Taper Rectangular De Vidrio Hermetico Mediano,Bazar Importación,Menaje Vidrio/Cristal
+856420,Taper Rectangular De Vidrio Hermetico Grande,Bazar Importación,Menaje Vidrio/Cristal
 856526,Salsa McCormick Mix Mushroom Gravy 21 gr,Abarrotes,Condimentos y Legumbres
 856620,Achocolatado Choco Piter 1 kg,Abarrotes,Nutrición Infantil
 856651,"Sartén Antiadherente 25x5 cm, varios colores",Bazar Importación,Cocina General
@@ -20451,6 +20479,7 @@ id_producto,producto,categoria,subcategoria
 862856,Pintura Spray Plateada 150 ml,Bazar,Cotillón
 862861,Pintura Dorada Alegria 150 ml,Bazar,Temporada Carnaval
 862937,Vino Trapiche Roble Malbec 750 ml,Bebidas,Vinos y Champagne
+862946,REGLETA  HUAVI 5 R-37 POWER SOCKET,Bazar,Ferretería
 862957,Vino Don Nicanor Cabernet Sauvignon 750 ml,Bebidas,Vinos y Champagne
 862959,PAT JUGUETES PELUCHES ANIMLES MASCT 55,Bazar,Mascotas General
 862962,Vino Don Nicanor Malbec 750 ml,Bebidas,Vinos y Champagne
@@ -20518,7 +20547,7 @@ id_producto,producto,categoria,subcategoria
 870539,PAT CEPILLO DE MASCOTAS 30,Bazar,Mascotas General
 870770,PAT MOCHILA +PECHERA Y JALADOR 58,Bazar,Mascotas General
 870838,SARTEN 16+OMELETERA BRINOX,Bazar,Articulos de Cocina
-870919,FRE VASOS SHAKER 1LT X2,Bazar,Menaje Plástico
+870919,Vasos Shaker 1Lt X2 Unidades,Bazar,Menaje Plástico
 870920,FRE TOMA TODO HERMETICO 1LT X2,Bazar,Menaje Plástico
 870923,JAN MACETA DE REGALO MADRE 20,Bazar,Regalos/Adornos
 870996,Cable Cargador Huavi U05 Iphone 2 M,Bazar,Telefonía y Accesorios
@@ -20699,7 +20728,7 @@ id_producto,producto,categoria,subcategoria
 881998,Jabon Barra Mar Glicerina 125 gr,Cuidado Personal,Cuidado de la Piel
 882000,Lavavajilla Archer Limon 550 ml,Cuidado del Hogar,Limpieza de Cocina
 882053,Taper Mr Cuadrado 680 ml,Bazar,Menaje Plástico
-882054,FRE TAPER CUADRADO MR 330ML -5,Bazar,Menaje Plástico
+882054,"Taper Cuadrado 0,33Lts - M&R",Bazar,Menaje Plástico
 882057,Taper Mr Cuadrado 900 ml,Bazar,Menaje Plástico
 882446,Papa McCain Noisettes Potato 1 kg,Congelados,Masas y Comidas Congeladas
 882535,Cuñape Hipermaxi kg,Pastelería y Masas Típicas,Masas Típicas Hipermaxi
@@ -20758,7 +20787,7 @@ id_producto,producto,categoria,subcategoria
 886804,Naftalina Perdigon 100% Pura 500 gr,Cuidado del Hogar,Productos Americanos
 886901,Film Plastico Pvc Alpfilm con Corte 27x100,Bazar,Articulos de Cocina
 886902,Film Plastico Pvc Alpfilm Sin Corte 28x50,Bazar,Articulos de Cocina
-886903,FILM PVC ALPFILM  TRANSPARENTE SIN CORTE 28X30,Bazar,Articulos de Cocina
+886903,Film Pvc Transparente Sin Corte 28X30 - Alpfilm,Bazar,Articulos de Cocina
 886948,Jabon Liquido Ballerina Humectacion 900 ml,Cuidado Personal,Cuidado de la Piel
 886953,Jabon Liquido Ballerina Violeta Silvestre Doypack 900 ml,Cuidado Personal,Cuidado de la Piel
 887050,Esponja Ponjita Espuma Abundante 1 un,Cuidado Personal,Cuidado de la Piel
