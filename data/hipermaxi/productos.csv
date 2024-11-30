@@ -242,6 +242,7 @@ id_producto,producto,categoria,subcategoria
 5168,Quinua Real Hipermaxi kg,Granos y Hortalizas,Fraccionados Hipermaxi
 5171,Frijol Cumandita Hipermaxi kg,Granos y Hortalizas,Fraccionados Hipermaxi
 5173,Durazno Criollo 1 kg,Frutas y Verduras,Temporada
+5174,CP AJI GUSANITO PICANTE 1 KG,Frutas y Verduras,Verduras
 5175,Triguillo Hipermaxi kg,Granos y Hortalizas,Fraccionados Hipermaxi
 5177,Limon Tipo Italiano 1 kg,Frutas y Verduras,Frutas
 5178,Garbanzo Hipermaxi kg,Granos y Hortalizas,Fraccionados Hipermaxi
@@ -1525,6 +1526,7 @@ id_producto,producto,categoria,subcategoria
 29086,PACK CARBONELL EXT VIRG 750ML 1BALSAMICO,Abarrotes,Básicos
 29087,Pack 2 Vinagre Castelo Manzana 500 ml,Abarrotes,Básicos
 29088,CARAMELO TOFFEE ARCOR LEITE 500G,Abarrotes,Chocolates y Caramelos
+29089,CAFE CATUNAMBU ESPRESSO DESCAF 20CAPS,Abarrotes,Café y Sucedáneos
 29090,CAFE CATUNAMBU RISTRETTO FUERT 20CAPS,Abarrotes,Café y Sucedáneos
 29091,Gomita Guandy Corazon Dulce 20 gr,Abarrotes,Golosinas - Varias
 29095,REFRESCO FUNCIONAL MITTO LIMON 600ML,Bebidas,Bebidas Varias
@@ -7090,6 +7092,7 @@ id_producto,producto,categoria,subcategoria
 240633,DETERGENTE OMO LIMON 650 GR,Cuidado del Hogar,Limpieza de la Ropa
 240634,DETERGENTE OMO REGULAR 650 GR,Cuidado del Hogar,Limpieza de la Ropa
 240635,OMO PVO ORIGINAL 6X1.8 KG,Cuidado del Hogar,Limpieza de la Ropa
+240636,SILICONA ROCIO CITRUS  A MUEBLES 360ML,Cuidado del Hogar,Limpieza de Living y Ropero
 240638,VARITA REPELENTE SACHETS 5UNIDADES,Cuidado del Hogar,Insecticidas
 240639,TRATAMINTO CAPILAR ELVIVE SERUM  102 ML,Cuidado Personal,Cuidado del Cabello
 240640,PACK  SH 370ML + ACO 370ML AMINEXIL,Cuidado Personal,Cuidado del Cabello
@@ -12248,6 +12251,7 @@ id_producto,producto,categoria,subcategoria
 552788,GRAGEAS BREICK QUINUA QUINUAGUICH,Abarrotes,Temporada
 552789,YOGUMIX COOKIES CREAM DELIZIA 130 GR,Lácteos y Derivados,Yogures
 552791,GALLETAS LA FRANCESA COOKIE ZAAT 500 GR,Abarrotes,Galletas
+552792,VODKA ESPEJO UYUNI PREMIUM 750ML,Bebidas,Licores
 552793,POSTRE HELADO FLAN CASERO DELIZIA 200 ML,Congelados,"Helados, Cassattas y Picoleses"
 552794,PAN MOLDE BCO MANTEQUILLA KING 500 GR,Panadería,Panadería Externa
 552795,HELADO DELIZIA CANELA COCO 1 LT,Congelados,"Helados, Cassattas y Picoleses"
@@ -12338,6 +12342,7 @@ id_producto,producto,categoria,subcategoria
 552969,HUEVO SOFIA MAPLE 30 UND,Lácteos y Derivados,Huevos
 552970,BIOGURT PROBIOTICO LGG FRUTILLA 1LT,Lácteos y Derivados,Yogures
 552971,BIOGURT PROBIOTICO LGG DURAZNO 1LT,Lácteos y Derivados,Yogures
+552975,PILFRUT MARACUYA 190ML BOLSA,Lácteos y Derivados,Leches
 554333,Cerveza Paceña Lata Roja 473 Cc,Bebidas,Cervezas
 554466,Detergente Liquido Ola Futuro Limpieza Completa 5 L,Cuidado del Hogar,Limpieza de la Ropa
 554468,Suavizante Ropa Ola Suavecito Original 5 L,Cuidado del Hogar,Limpieza de la Ropa
@@ -15891,6 +15896,8 @@ id_producto,producto,categoria,subcategoria
 669089,H&S SH MEN OLDSPICE 650ML X 10U,Cuidado Personal,Cuidado del Cabello
 669092,CREMA DENTAL TOTAL TARTAR ANTISARRO 3X75,Cuidado Personal,Cuidado Bucal
 669097,SECRET AT GEL WATERLILLY 45G X 12U,Cuidado Personal,Cuidado de la Piel
+669104,DOWNY PERLAS UNSTOPABLES FRESH 680G X4U,Cuidado del Hogar,Productos Americanos
+669105,DOWNY PERLAS UNSTOPABLES LUSH 141G X4U,Cuidado del Hogar,Productos Americanos
 669106,FEBREZE FABRIC EXTRASTRENGTH 438ML X8U,Cuidado del Hogar,Productos Americanos
 669107,FEBREZE FABRIC EXTRASTRENGTH 700ML X4U,Cuidado del Hogar,Productos Americanos
 669108,DOWNY PERLAS APRIL FRESH 141G X4U,Cuidado del Hogar,Productos Americanos
@@ -16069,6 +16076,7 @@ id_producto,producto,categoria,subcategoria
 670814,Yogurt Kefir Frutilla con Stevia 2 L,Lácteos y Derivados,Yogures
 670815,Queso Fresco San Carlos Molde 500 gr,Lácteos y Derivados,Quesos
 670816,Queso Fresco San Carlos Molde 250 gr,Lácteos y Derivados,Quesos
+670817,REQUESON SAN GABRIEL 250 GRAMOS,Lácteos y Derivados,Quesos
 670828,Granola La Orurenita De Trigo Familiar 350 gr,Abarrotes,Nutrición Infantil
 670830,Granola La Orurenita De Trigo Mediana 200 gr,Abarrotes,Nutrición Infantil
 670832,Pechuga Ahumada de Paco Sofia 200 gr,Fiambres,Fiambres Externos
@@ -17297,6 +17305,7 @@ id_producto,producto,categoria,subcategoria
 674285,BUDIN COFLER REMIX 215 GRAMOS,Pastelería y Masas Típicas,Pastelería Externa
 674286,PANETON COFLER RELL P DARK,Panadería,Panadería Externa
 674287,PACK SALAME/JAMON MAS TABLITA SOFIA UNIDAD,Fiambres,Fiambres Externos
+674288,POSTRE HELADO DELIZIA ALFREDO CANELA 850ML,Congelados,"Helados, Cassattas y Picoleses"
 674300,YOGURT IOGO TIPO GRIEGO SABOR FRUTILLA 500GRS,Lácteos y Derivados,Yogures
 674301,YOGURT IOGO TIPO GRIEGO SABOR COCO 500 GRS,Lácteos y Derivados,Yogures
 674302,6 PACK YOGURT IOGO 0 AZUCAR SELECCION SABORES 6X120,Lácteos y Derivados,Yogures
@@ -18344,6 +18353,7 @@ id_producto,producto,categoria,subcategoria
 783598,Yogurt Clarabella Semidescremado 500 ml,Lácteos y Derivados,Yogures
 783614,Queso Mozzarella Queseria Suiza Feteado 250 gr,Lácteos y Derivados,Quesos
 783617,Queso Bonle Danbo kg,Lácteos y Derivados,Quesos
+783624,HELADO DIET FRUTILLA VACA FRIA 180 ML.,Congelados,"Helados, Cassattas y Picoleses"
 783635,HELADO DIET CHOCOLATE VACA FRIA 180 ML.,Congelados,"Helados, Cassattas y Picoleses"
 783648,Queso Mozzarella Pil Feteado 200 gr,Lácteos y Derivados,Quesos
 783700,Hamburguesa Hipermaxi Bolsa 12 un,Congelados,Carnes Congeladas
@@ -18581,6 +18591,7 @@ id_producto,producto,categoria,subcategoria
 786894,Empanada Integral Europan Con Queso 4 un,Panadería,Panadería Externa
 786896,Queso Sandwichero Guapurutu Laminado 150 gr,Lácteos y Derivados,Quesos
 786923,Yogurt Griego Clarabella con Granola 200 ml,Lácteos y Derivados,Yogures
+786930,BUDIN CON FRUTAS VICTORIA 275 GRS.,Pastelería y Masas Típicas,Pastelería Externa
 786936,Cordon Bleu Sofia Caja 600 gr,Congelados,Carnes Congeladas
 786938,Jamon Ahumado Hipermaxi 1 kg,Fiambres,Fiambres Hipermaxi
 786943,Budin Victoria Chispas de Chocolate 275 gr,Pastelería y Masas Típicas,Pastelería Externa
@@ -20415,23 +20426,80 @@ id_producto,producto,categoria,subcategoria
 857446,CH S2 35 BOLAS NAVIDENAS COLOR ROJO SET X20PZAS,Bazar Importación,Temporada Navidad
 857447,CH S2 36 BOLAS NAVIDENAS COLOR ROJO SET X16PZAS,Bazar Importación,Temporada Navidad
 857448,CH S2 40 BOLAS NAVIDENAS TRANSPARENTES PAPA NOEL SET X6PZAS,Bazar Importación,Temporada Navidad
+857452,CH S2 47 BOLAS NAVIDENAS C VERDE ROJO Y BLANCO SET X4 7CM,Bazar Importación,Temporada Navidad
+857453,CH S2 48 BOLAS NAVIDENAS C BLANCO LINEA ROJA SET X4PZAS,Bazar Importación,Temporada Navidad
+857455,CH S2 50 BOLAS NAVIDENAS BLANCAS Y ROJAS SET X4PZAS 7CM,Bazar Importación,Temporada Navidad
+857456,CH S2 51 BOLAS NAVIDENAS TRANSPARENTES MUNECO DE NIEVE SET X,Bazar Importación,Temporada Navidad
+857457,CH S2 52 BOLAS NAVIDENAS TRANSPARENTES RENO BLANCO SET X3 8C,Bazar Importación,Temporada Navidad
 857465,CH S2 25 BOLAS NAVIDENAS ROJAS SET X 20PZAS,Bazar Importación,Temporada Navidad
+857478,CH J4 11 ADORNO PAPA NOEL CON LUCES A PILAS AA 29X20CM,Bazar Importación,Temporada Navidad
+857479,CH J4 12 ADORNO MUNECO DE NIEVE CON LUCES A PILAS AA,Bazar Importación,Temporada Navidad
+857480,CH J4 13 ADORNO ARBOL NAVIDENO CON LUCES A PILAS AA,Bazar Importación,Temporada Navidad
+857486,CH J4 18 ADORNO PAPA NOEL HO HO HO C LUCES 29X24CM,Bazar Importación,Temporada Navidad
+857505,CH S1 11 ADORNO PAPA NOEL BIENVENIDO 56X28CM,Bazar Importación,Temporada Navidad
+857506,CH S1 21 DORNO BOTA NAVIDENA MUNECO DE NIEVE 35X22CM,Bazar Importación,Temporada Navidad
+857511,CH S1 25 ADORNO BOTA NAVIDENA PAPA NOEL C ROJO CON COPOS 35X,Bazar Importación,Temporada Navidad
+857512,CH S1 26 ADORNO BOTA NAVIDENA RENO OJO C COPOS 35X22CM,Bazar Importación,Temporada Navidad
+857516,CH S1 35 ADORNO BOTA NAVIDENA MUNECO DE NIEVE 25X15CM,Bazar Importación,Temporada Navidad
+857517,CH S1 36 ADORNO BOTA NAVIDENA PAPA NOEL 25X15CM,Bazar Importación,Temporada Navidad
+857518,CH S1 37 ADORNO BOTA NAVIDENA RENO 25X15CM,Bazar Importación,Temporada Navidad
+857522,CH S1 61 ADORNO NAVIDENO PARA PUERTA CARA MUNECO DE NIEVE 35,Bazar Importación,Temporada Navidad
+857523,CH S1 62 ADORNO NAVIDENO PARA PUERTA PAPA NOEL 35CM,Bazar Importación,Temporada Navidad
+857525,CH S1 67 ADORNO FELIZ NAVIDAD CON PAPA NOEL DORADO 19CM,Bazar Importación,Temporada Navidad
 857528,CH S1 70 ADORNO FELIZ NAVIDAD CON PAPA NOEL Y MUNECO DE NIEV,Bazar Importación,Temporada Navidad
 857530,CH S1 71 ADORNO FELIZ NAVIDAD CON PAPA NOEL Y RENO  ROJO,Bazar Importación,Temporada Navidad
 857531,CH S1 72 MUNECO RENO CON CHALINA ROJA SACO PLOMO 60CM,Bazar Importación,Temporada Navidad
 857532,CH S1 73 MUNECO DE NIEVE CHALINA A RAYAS ROJO Y BLANCO,Bazar Importación,Temporada Navidad
 857533,CH S1 74 MUNECO PAPA NOEL ROJO GORRO A CUADROS 60CM,Bazar Importación,Temporada Navidad
+857537,CH J1 1 LECHERA NAVIDENA PAPA NOEL 500ML,Bazar Importación,Temporada Navidad
+857538,CH J1 2 TETERA NAVIDE¥A PAPA NOEL CON TAPA 500ML,Bazar Importación,Temporada Navidad
+857539,CH J1 3 AZUCARERA NAVIDENA PAPA NOEL CON TAPA 500ML,Bazar Importación,Temporada Navidad
+857540,CH J1 4 SERVILLETERO NAVIDENO PAPA NOEL 11 5CM,Bazar Importación,Temporada Navidad
+857542,CH J1 6 PLATO NAVIDENO MEDIANO PAPA NOEL ROJO 25 5CM,Bazar Importación,Temporada Navidad
+857543,CH J1 7 PLATO PANERO NAVIDENO PAPA NOEL 20 5CM,Bazar Importación,Temporada Navidad
+857544,CH J1 8 PLATO  NAVIDENO GRANDE PAPA NOEL ROJO 30CM OVALADO,Bazar Importación,Temporada Navidad
+857545,CH J1 9 PLATO NAVIDENO CORAZON PAPA NOEL 20 5CM,Bazar Importación,Temporada Navidad
+857546,CH J1 10 TARRO NAVIDENO PAPA NOEL CON TAPA DE BAMBU 11X16CM,Bazar Importación,Temporada Navidad
+857547,CH J1 11 TARRO NAVIDENO PAPA NOEL CON TAPA DE BAMBU 10 5X13,Bazar Importación,Temporada Navidad
+857548,CH J1 12 BOWL NAVIDENO PAPA NOEL 16CM,Bazar Importación,Temporada Navidad
+857550,CH J1 13 BANDEJA NAVIDENA RECTANGULAR PAPA NOEL 24X13CM,Bazar Importación,Temporada Navidad
+857552,CH J1 15 POSACUCHARAS NAVIDENA PAPA NOEL ROJO 24 5CM,Bazar Importación,Temporada Navidad
+857553,CH J1 16 FRASCO NAVIDENO GALLETERO CON TAPA ROJO 17CM,Bazar Importación,Temporada Navidad
+857559,CH J1 22 BANDEJA NAVIDENA MAMANUELA 21CM,Bazar Importación,Temporada Navidad
+857560,CH J1 23 LECHERA NAVIDENA PAPA NOEL 600ML,Bazar Importación,Temporada Navidad
+857562,CH J1 25 SERVILLETERO NAVIDENO GNOMO NOEL 10CM,Bazar Importación,Temporada Navidad
+857564,CH J1 27 CANDELABRO NAVIDENO CON LUZ Y VELA 9CM,Bazar Importación,Temporada Navidad
+857565,CH J1 28 QUESERA NAVIDENA CON TAPA PAPA NOEL 14 2CM,Bazar Importación,Temporada Navidad
+857567,CH J1 30 SERVILLETERO NAVIDENO PAPA NOEL,Bazar Importación,Temporada Navidad
+857568,CH J1 37 BANDEJA NAVIDENA DE 4 DIVISIONES 20X20CM,Bazar Importación,Temporada Navidad
+857570,CH J1 38 BANDEJA NAVIDENA ESTRELLA PAPA NOEL 21CM,Bazar Importación,Temporada Navidad
+857571,CH J1 39 PLATO NAVIDENO PAPA NOEL BLANCO 26CM,Bazar Importación,Temporada Navidad
+857572,CH J1 40 PLATO NAVIDENO PAPA NOEL BLANCO,Bazar Importación,Temporada Navidad
 857574,Palmito Campo Verde Baby 170 gr,Abarrotes,Verduras en Conserva
+857576,CH J1 41 BANDEJA NAVIDENA ARBOL PAPA NOEL 26CM,Bazar Importación,Temporada Navidad
+857577,CH J1 42 BANDEJA NAVIDENA ARBOL PAPA NOEL 21CM,Bazar Importación,Temporada Navidad
+857578,CH J1 43 FRASCO NAVIDENO PARA DULCES 20 7CM,Bazar Importación,Temporada Navidad
+857579,CH J1 44 POSACUCHARAS NAVIDENA PAPA NOEL BLANCO 26CM,Bazar Importación,Temporada Navidad
+857580,CH J1 45 DULCERO NAVIDENO PAPA NOEL EN FORMA DE CANASTA,Bazar Importación,Temporada Navidad
+857581,CH J1 50 POSACUCHARAS NAVIDENA PAPA NOEL ROJO 25CM,Bazar Importación,Temporada Navidad
 857589,Palmito Campo Verde Entero 250 gr,Abarrotes,Verduras en Conserva
 857626,Papa Qhati 1 kg,Frutas y Verduras,Verduras
 857629,Romero 1 kg,Frutas y Verduras,Verduras
 857660,CP LECHUGA HIDROPONICA CIMA 1 UND,Frutas y Verduras,Verduras
 857664,CH S5 3 ADORNO NAVIDENO PAPA NOEL MUNECO DE NIEVE Y RENO,Bazar Importación,Temporada Navidad
+857665,CH S5 4 ADORNO FELIZ NAVIDAD PAPA NOEL RENO MUNECO DE NIEVE,Bazar Importación,Temporada Navidad
+857666,CH S5 5 ADORNO FELIZ NAVIDAD MUNECO DE NIEVE Y PAPA NOEL,Bazar Importación,Temporada Navidad
+857667,CH S5 6 ADORNO FELIZ NAVIDAD PAPA NOEL Y MUNECO DE NIEVE,Bazar Importación,Temporada Navidad
+857668,CH S5 7 ADORNO FELIZ NAVIDAD RENO Y PAPA NOEL 50X7X36CM,Bazar Importación,Temporada Navidad
 857670,CH S5 10 MUNECO DE NIEVE PAPA NOEL RENO C ZAPATOS,Bazar Importación,Temporada Navidad
+857671,CH S5 11 CORONA NAVIDE¥A CON MO¥O Y GNOMO CON PANTALON A RAY,Bazar Importación,Temporada Navidad
+857672,CH S5 12 CORONA NAVIDENA CON MONO Y GNOMO CON PANTALON A RAY,Bazar Importación,Temporada Navidad
 857694,CH S5 28 MUNECO DE NIEVE RENO PAPA NOEL SENTADOS C CHAQUETA,Bazar Importación,Temporada Navidad
 857716,CH S5 32 RENO OSO PIERNAS LARGAS C BUFANDA A RAYAS VERDES,Bazar Importación,Temporada Navidad
+857717,CH S5 33 ADORNO PARA PUERTA CARA PAPA NOEL MUNECO DE NIIEVE,Bazar Importación,Temporada Navidad
 857815,CP TALLO DE APIO 1 KG,Frutas y Verduras,Verduras
 857830,Kale Granja Ventilla 1 un,Frutas y Verduras,Gourmet
+857884,CH S5 41 BOTA NAVIDENA ROJO CON VERDE PAPA NOEL 30X20CM,Bazar Importación,Temporada Navidad
 857961,Manzana Rosada 1 kg,Frutas y Verduras,Frutas
 857996,CH S8 2 MUNECO JENGIBRE C CHALECO MUNECA JENGIBRE 50CM,Bazar Importación,Temporada Navidad
 857997,CH S8 3 MUEECO JENGIBRE CON PANTALON VERDE 38CM,Bazar Importación,Temporada Navidad
