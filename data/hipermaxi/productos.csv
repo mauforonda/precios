@@ -1455,6 +1455,7 @@ id_producto,producto,categoria,subcategoria
 26040,GALLETA GULLON DUO CHOCOLATE 145G,Abarrotes,Galletas
 26041,GALLETA GULLON CHIP CHOCO ZERO 125G,Abarrotes,Dietéticos y Saludables
 26044,BEBIDA BELLA ROMA LTA 473ML,Bebidas,Licores
+26060,FERNET BUHERO NEGRO BOT 700ML,Bebidas,Licores
 26064,CUBANITOS BONOBON LECHE 78GR,Abarrotes,Chocolates y Caramelos
 26065,BOTA BON O BON NAVIDENA DP 150G,Abarrotes,Temporada
 26070,GALLETA GULLON DESAYUNO INTEGRAL ZERO 21,Abarrotes,Dietéticos y Saludables
@@ -2139,6 +2140,7 @@ id_producto,producto,categoria,subcategoria
 31101,Vape Waka Sofit Watermelon Chill 3500 Puffs,Bebidas,Cigarrillos
 31102,Vino Aranjuez Dulce Sweet 750 ml,Bebidas,Vinos y Champagne
 31104,Vino La Flor Cabernet Sauvignon 750 ml,Bebidas,Vinos y Champagne
+31108,VINO SANTO PATRONO BLANCO 700 ML,Bebidas,Vinos y Champagne
 31110,Barra Cereal Mix Arcor Frutilla Chocolate 26 gr,Abarrotes,Golosinas - Varias
 31111,Hojuelas de Avena Montecristo Entera 400 gr,Abarrotes,Nutrición Infantil
 31112,Leche con Avena Montecristo Instantanea 1 kg,Abarrotes,Nutrición Infantil
@@ -7086,6 +7088,7 @@ id_producto,producto,categoria,subcategoria
 240622,INSECTICIDA TYSON MATA MOSCAS 250CM,Cuidado del Hogar,Insecticidas
 240624,SHAMPOO REVIVE ACEITE CUSI 340ML,Cuidado Personal,Cuidado del Cabello
 240625,ACOND. REVIVE ACEITE DE CUSI 340ML POTE,Cuidado Personal,Cuidado del Cabello
+240626,SHAMPOO CARISSA ACEITE CUSI 900ML,Cuidado Personal,Cuidado del Cabello
 240627,SH CARISSA ACEITE ARGAN JALEA REAL 900 M,Cuidado Personal,Cuidado del Cabello
 240628,SHAMPOO CARISSA  ACEITE DE CUSI 900ML DP,Cuidado Personal,Cuidado del Cabello
 240632,TOALLA NOSOTRAS LARGA TELA 24X8,Cuidado Personal,Cuidado Familiar
@@ -10970,6 +10973,7 @@ id_producto,producto,categoria,subcategoria
 550203,Nueces Peladas Bloch 100 gr,Abarrotes,Snack
 550204,Uvas Pasas Bloch Negra 250 gr,Abarrotes,Snack
 550206,Uvas Pasas Bloch Negra 450 gr,Abarrotes,Snack
+550207,Pasas de Uva Rubias Bloch 150 gr,Abarrotes,Snack
 550208,Ablandador de Carne Bloch 80 gr,Abarrotes,Condimentos y Legumbres
 550209,Ajinomoto Bloch 150 gr,Abarrotes,Condimentos y Legumbres
 550210,Ajo Deshidratado Bloch Molido 150 gr,Abarrotes,Condimentos y Legumbres
@@ -12311,6 +12315,7 @@ id_producto,producto,categoria,subcategoria
 552884,GALLETAS ANTOJO NAVIDENO SAN GABRIEL 400,Abarrotes,Temporada
 552885,GALLETAS SURTIDA DE ORO SAN GABRIEL 600,Abarrotes,Temporada
 552886,GALLETAS SURTIDO DIN DON DAN CARSA 600 G,Abarrotes,Temporada
+552889,GALLETAS DULCE HOGAR CARSA CAJA 800 GR,Abarrotes,Temporada
 552891,BEBIDA PROTEICA DELIZIA PINA BOT 500 ML,Bebidas,Energizantes
 552893,PANETTONE VAINILLA CON CHIPS DE CHOC CEIBO 750 GR BSA,Panadería,Panadería Externa
 552898,BARRA FOODNESS PROTEINA CJA 420 GR,Abarrotes,Nutrición Infantil
@@ -12336,6 +12341,7 @@ id_producto,producto,categoria,subcategoria
 552939,PIPOCAS IL CIBO 150 GR,Abarrotes,Snack
 552941,QUINUA REAL BLANCA GRAN ORO 400 GRS,Abarrotes,Nutrición Infantil
 552945,QUINUA TOSTADA GRAN ORO 250 GRS.,Abarrotes,Nutrición Infantil
+552946,QUINUA REAL MIXTA GRAN ORO 400 GRS.,Abarrotes,Nutrición Infantil
 552966,NECTAR DEL SOL DURAZNO TETRA 200ML,Bebidas,"Jugos, Néctar"
 552967,NECTAR DEL SOL MANZANA TETRA 200ML,Bebidas,"Jugos, Néctar"
 552968,PACK 6 NECTAR DEL SOL 200 ML,Bebidas,"Jugos, Néctar"
@@ -16004,6 +16010,7 @@ id_producto,producto,categoria,subcategoria
 670469,Galleta Gustossi Cracker 1 kg,Abarrotes,Galletas
 670474,Queso Criollo San Javier San Mateo kg,Lácteos y Derivados,Quesos
 670475,Queso Criollo San Mateo Menonita kg,Lácteos y Derivados,Quesos
+670478,ROSCA NAVIDENA GUSTOSSI BOLSA 600GRS,Panadería,Panadería Externa
 670483,Salchicha Stege con Piel 6 un,Fiambres,Fiambres Externos
 670484,Chuleta Stege Bandeja kg,Congelados,Carnes Congeladas
 670485,Tocino Stege en Cubo kg,Fiambres,Fiambres Externos
@@ -18355,6 +18362,7 @@ id_producto,producto,categoria,subcategoria
 783617,Queso Bonle Danbo kg,Lácteos y Derivados,Quesos
 783624,HELADO DIET FRUTILLA VACA FRIA 180 ML.,Congelados,"Helados, Cassattas y Picoleses"
 783635,HELADO DIET CHOCOLATE VACA FRIA 180 ML.,Congelados,"Helados, Cassattas y Picoleses"
+783647,HELADO DIET VAINILLA VACA FRIA 180 ML.,Congelados,"Helados, Cassattas y Picoleses"
 783648,Queso Mozzarella Pil Feteado 200 gr,Lácteos y Derivados,Quesos
 783700,Hamburguesa Hipermaxi Bolsa 12 un,Congelados,Carnes Congeladas
 783716,Yogurt Griego Iogo con Cereal Farfait Cero Azucar 250 gr,Lácteos y Derivados,Yogures
@@ -21020,6 +21028,7 @@ id_producto,producto,categoria,subcategoria
 900199,FORRO VINIFAN CARTA CRISTAL 5 MTS.,Bazar,Librería
 900200,FORRO VINIFAN OFICIO CRITALINO 5 MTS.,Bazar,Librería
 900808,Vela Catedral Grande 8 un,Bazar,Cotillón
+901218,Sarten Tramontina 28 cm,Bazar,Articulos de Cocina
 901630,Boligrafo Faber Castell Rojo 0.62,Bazar,Librería
 901973,BIDON DE 5 LITROS P/GASOLINA,Bazar,Automotriz
 901976,EXPRIMIDOR GIGANTE REY SURTIDOS,Bazar,Articulos de Cocina
@@ -21082,6 +21091,7 @@ id_producto,producto,categoria,subcategoria
 906728,PORTA CUBIERTO DE LUJO,Bazar,Menaje Plástico
 906785,Hoja Papel Bond Chamex Carta 500 Hojas,Bazar,Librería
 906799,COPA LISA SODERA 2805AL72,Bazar,Menaje Vidrio/Cristal
+906862,Sarten Tramontina con Tapa,Bazar,Articulos de Cocina
 906897,Set Cubiertos Tramontina Para Niños 4 un,Bazar,Articulos de Bebé
 906954,Vela Chispas un Olego 18 un,Bazar,Cotillón
 906957,MANTEL PLASTICO COLOR 137X274,Bazar,Cotillón
@@ -21093,6 +21103,7 @@ id_producto,producto,categoria,subcategoria
 907685,MS.VELAS ECONOMICAS HIPERMAXI,Bazar,Cotillón
 908057,Conservadora Tecnopor 50 L,Bazar,Camping General
 908058,Conservadora Tecnopor 100 L,Bazar,Camping General
+908565,CENICERO TRIANGULAR CRISTAL CRISA UND,Bazar,Menaje Vidrio/Cristal
 908584,Juego de Utensilio Tramontina 5 un,Bazar,Articulos de Cocina
 908602,Cepillo Dental Colgate Barney Smile 1 un,Cuidado Personal,Cuidado Bucal
 908604,Cepillo Dental Colgate Batman Smiles 6 Años 1 un,Cuidado del Bebé,Kids
@@ -21185,6 +21196,7 @@ id_producto,producto,categoria,subcategoria
 920826,Copa Vino Blanco,Bazar,Menaje Vidrio/Cristal
 920859,CI.CUCHI P/COCIN NEGR*5 RECTO 22920/005,Bazar,Articulos de Cocina
 920862,Cucharon Tramontina Teflon,Bazar,Articulos de Cocina
+920865,CI.CUCHI COC/PROFES*6 TRAMON 24606/086,Bazar,Articulos de Cocina
 920868,CI.MOLDE P/PIZZA 30CM TRAMON 20058/030,Bazar,Articulos de Cocina
 921093,COPA P/CHAMPAGNE LIRIO UND,Bazar,Menaje Vidrio/Cristal
 921228,Fosforo Parana Grande,Bazar,Churrasquería
@@ -21328,6 +21340,7 @@ id_producto,producto,categoria,subcategoria
 942359,Cepillo Foramen Junior Suave 1 un,Cuidado Personal,Cuidado Bucal
 947072,Bingo,Juguetería,Juguetería Didáctica/Temporada
 947355,Sarten Plancha Tramontina Redonda,Bazar,Articulos de Cocina
+947363,Sarten Tramontina 30 cm + Espatula,Bazar,Articulos de Cocina
 947364,Sarten Tramontina 24 cm + Espatula,Bazar,Articulos de Cocina
 947366,Sarten Tramontina 20 cm + Espatula,Bazar,Articulos de Cocina
 947367,Sarten Tramontina 18 cm + Espatula,Bazar,Articulos de Cocina
