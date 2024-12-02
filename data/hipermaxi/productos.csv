@@ -1456,6 +1456,7 @@ id_producto,producto,categoria,subcategoria
 26041,GALLETA GULLON CHIP CHOCO ZERO 125G,Abarrotes,Dietéticos y Saludables
 26044,BEBIDA BELLA ROMA LTA 473ML,Bebidas,Licores
 26060,FERNET BUHERO NEGRO BOT 700ML,Bebidas,Licores
+26061,PACK GALLETA MABEL MULTISEMILLA 3X200G,Abarrotes,Galletas
 26064,CUBANITOS BONOBON LECHE 78GR,Abarrotes,Chocolates y Caramelos
 26065,BOTA BON O BON NAVIDENA DP 150G,Abarrotes,Temporada
 26070,GALLETA GULLON DESAYUNO INTEGRAL ZERO 21,Abarrotes,Dietéticos y Saludables
@@ -1560,6 +1561,7 @@ id_producto,producto,categoria,subcategoria
 29139,VINAGRE JE D MANZANA CURCUMA 1LT,Abarrotes,Dietéticos y Saludables
 29140,BEBIDA CRAZY SUNSET GOLD LTA 473ML,Bebidas,Licores
 29141,BEBIDA CRAZY BERRIES LTA 473ML,Bebidas,Licores
+29142,VINAGRE JE D COCO PET 1LT,Abarrotes,Dietéticos y Saludables
 29150,MASTICABLE NEX SANDIA CJA 336G,Abarrotes,Golosinas - Varias
 29152,AGUA L CABANA SIN GAS SPORT 1LT,Bebidas,Aguas
 29153,LIMONADA L CABANA CERO AZUC 1LT,Bebidas,Gaseosas
@@ -2141,6 +2143,7 @@ id_producto,producto,categoria,subcategoria
 31102,Vino Aranjuez Dulce Sweet 750 ml,Bebidas,Vinos y Champagne
 31104,Vino La Flor Cabernet Sauvignon 750 ml,Bebidas,Vinos y Champagne
 31108,VINO SANTO PATRONO BLANCO 700 ML,Bebidas,Vinos y Champagne
+31109,VINO SANTO PATRONO TINTO 750 ML,Bebidas,Vinos y Champagne
 31110,Barra Cereal Mix Arcor Frutilla Chocolate 26 gr,Abarrotes,Golosinas - Varias
 31111,Hojuelas de Avena Montecristo Entera 400 gr,Abarrotes,Nutrición Infantil
 31112,Leche con Avena Montecristo Instantanea 1 kg,Abarrotes,Nutrición Infantil
@@ -9078,6 +9081,7 @@ id_producto,producto,categoria,subcategoria
 372976,JAN BOLSA DE REGALO DE .15,Bazar,Regalos/Adornos
 373020,Suavizante Ropa Cavallaro Clasico 4 L,Cuidado del Hogar,Limpieza de la Ropa
 373021,Suavizante Ropa Cavallaro Intenso 4 L,Cuidado del Hogar,Limpieza de la Ropa
+373062,JAN CAJA DE REGALO NAVIDAD 8,Bazar,Regalos/Adornos
 373516,Maquina de Afeitar Bic Confort3 Aloe 1 un,Cuidado Personal,Cuidado de la Piel
 373524,Maquina de Afeitar Bic Confort Advance3 Normal 1 un,Cuidado Personal,Cuidado de la Piel
 373560,Jabon Liquido Shabay Aloe Vera 370 ml,Cuidado Personal,Cuidado de la Piel
@@ -12290,6 +12294,7 @@ id_producto,producto,categoria,subcategoria
 552853,RON CARTA BLANCA CAPITAN CORTEZ 965 ML,Bebidas,Licores
 552854,PAN PANISIMO SARNITA 12 UN,Panadería,Panadería Externa
 552855,PAN PANISSIMO CON CANELA 12 UN,Panadería,Panadería Externa
+552858,BOMBON LINDT LINDOR STUCHE LECHE 137 GR,Abarrotes,Chocolates y Caramelos
 552859,BOMBON SURT LINDT LINDOR ESTUCHE 137 GR,Abarrotes,Chocolates y Caramelos
 552860,GASEOSA RITZ NARANJA PINA 355 ML,Bebidas,Bebidas Usa
 552862,MIX NUECES MACADAMIA KIRKLAND 1130 GR,Abarrotes,Productos Americanos
@@ -12336,6 +12341,7 @@ id_producto,producto,categoria,subcategoria
 552917,BASTONES NAVIDENOS CJA 120GR,Abarrotes,Productos Americanos
 552918,GALLETAS MANTEQUILLA SIN AZUCAR 310GR,Abarrotes,Productos Americanos
 552920,Vino Hipermaxi 30 Años 750 ml,Bebidas,Vinos y Champagne
+552924,BITS DE FRUTILLA HI Q 35 GR,Abarrotes,Frutas en Conserva
 552933,LENTEJA PREMIUM GRAN ORO 400 GRS,Abarrotes,Nutrición Infantil
 552936,GALLETAS GULLON DIGESTIVE ZERO 400G,Abarrotes,Dietéticos y Saludables
 552939,PIPOCAS IL CIBO 150 GR,Abarrotes,Snack
@@ -15902,6 +15908,7 @@ id_producto,producto,categoria,subcategoria
 669089,H&S SH MEN OLDSPICE 650ML X 10U,Cuidado Personal,Cuidado del Cabello
 669092,CREMA DENTAL TOTAL TARTAR ANTISARRO 3X75,Cuidado Personal,Cuidado Bucal
 669097,SECRET AT GEL WATERLILLY 45G X 12U,Cuidado Personal,Cuidado de la Piel
+669100,SECRET AT GEL WATERLILLY 73GR X12U,Cuidado Personal,Cuidado de la Piel
 669104,DOWNY PERLAS UNSTOPABLES FRESH 680G X4U,Cuidado del Hogar,Productos Americanos
 669105,DOWNY PERLAS UNSTOPABLES LUSH 141G X4U,Cuidado del Hogar,Productos Americanos
 669106,FEBREZE FABRIC EXTRASTRENGTH 438ML X8U,Cuidado del Hogar,Productos Americanos
@@ -15909,6 +15916,8 @@ id_producto,producto,categoria,subcategoria
 669108,DOWNY PERLAS APRIL FRESH 141G X4U,Cuidado del Hogar,Productos Americanos
 669109,DOWNY PERLAS APRIL FRESH 680G X4U,Cuidado del Hogar,Productos Americanos
 669117,GAIN DETERGENTE LIQUIDO ORIG 739MLX 6U,Cuidado del Hogar,Productos Americanos
+669119,DREFT DET LIQ ACTIVE BABY 1.36LT X6U,Cuidado del Hogar,Productos Americanos
+669123,TIDE PODS 3EN1 SPRING MEADOW 9PZA X6U,Cuidado del Hogar,Productos Americanos
 669901,Pizza Hipermaxi Congelada Hawaiana 620 gr,Congelados,Masas y Comidas Congeladas
 669902,Pizza Hipermaxi Congelada Jamon Queso Light Masa Integral,Congelados,Masas y Comidas Congeladas
 669903,Pizza Hipermaxi Congelada Pepperoni 620 gr,Congelados,Masas y Comidas Congeladas
@@ -16308,6 +16317,7 @@ id_producto,producto,categoria,subcategoria
 671675,Tortillas Don Taco Chica Light 240 gr,Congelados,Masas y Comidas Congeladas
 671676,Tortillas Don Taco Mediana Light 360 gr,Congelados,Masas y Comidas Congeladas
 671680,Leche Entera Eba Blanca 946 ml,Lácteos y Derivados,Leches
+671681,PANETON MENTA MARIELS 700GRS CON ADORNO NAVIDENO,Panadería,Panadería Externa
 671683,Torta Helada Delizia Red Velvet Primavera,Congelados,"Helados, Cassattas y Picoleses"
 671691,Lomito Cocido Stege al Vacio un,Fiambres,Fiambres Externos
 671692,BLUE DIAMOND ALMOND MILK CHOCOLATE,Lácteos y Derivados,Leches
@@ -17305,6 +17315,7 @@ id_producto,producto,categoria,subcategoria
 674271,JAMON TORITO PZA 150GRS AL VACIO,Fiambres,Fiambres Externos
 674272,JAMON AHUMADO TORITO PZA 150GRS AL VACIO,Fiambres,Fiambres Externos
 674274,PILFRUT BLUEBERRY PIL 800ML BOLSA,Lácteos y Derivados,Leches
+674275,CHIQUICOCO PIL 140ML BOLSA,Lácteos y Derivados,Leches
 674281,TOCINO AHUMADO EN CUBOS SAN AGUSTIN 100GRS,Fiambres,Fiambres Externos
 674282,YOGURT NATURAL FATYH 800 GRAMOS,Lácteos y Derivados,Yogures
 674283,YOGURT NATURAL FATYH 550 GRAMOS,Lácteos y Derivados,Yogures
@@ -19367,6 +19378,7 @@ id_producto,producto,categoria,subcategoria
 838622,Atun Norte Lomito al Agua 170 gr,Abarrotes,Comidas en Conserva
 838676,Boligrafo Faber Castell Rojo 0.32,Bazar,Librería
 838690,Crayones Faber Castell Grande 12 Colores,Bazar,Librería
+838781,JAN FLORES DE NAVIDAD DE BS 12,Bazar,Temporada Navidad
 839010,Filtro N2 - Melitta,Bazar,Articulos de Cocina
 839081,Turron Sesamo Tks 150 gr,Abarrotes,Golosinas - Varias
 839159,FRI PLATO DE PERRO DE BS 10,Bazar,Mascotas General
@@ -19905,6 +19917,7 @@ id_producto,producto,categoria,subcategoria
 849183,AMBIEMNTADOR REFRESH LINE MINI,Bazar,Automotriz
 849184,AMBIENTADOR REFRESH WILDFLOWES MINI 8ML,Bazar,Automotriz
 849209,JANE ADORNO DE TORTA .10,Bazar,Cotillón
+849234,JAN CINTA NAVIDENA  8,Bazar,Temporada Navidad
 849251,AMBIENTADOR AMERICA CENTRAL SUR,Bazar,Automotriz
 849266,FOCO ATTRALUX LED LUZ FRIA 50W,Bazar,Ferretería
 849268,FOCO LED ATTRALUX 75W LUZ FRIA,Bazar,Ferretería
@@ -20440,10 +20453,22 @@ id_producto,producto,categoria,subcategoria
 857456,CH S2 51 BOLAS NAVIDENAS TRANSPARENTES MUNECO DE NIEVE SET X,Bazar Importación,Temporada Navidad
 857457,CH S2 52 BOLAS NAVIDENAS TRANSPARENTES RENO BLANCO SET X3 8C,Bazar Importación,Temporada Navidad
 857465,CH S2 25 BOLAS NAVIDENAS ROJAS SET X 20PZAS,Bazar Importación,Temporada Navidad
+857467,CH J4 1 LUCES DE NAVIDAD X240 FOCOS MULTICOLOR,Bazar Importación,Temporada Navidad
+857471,CH J4 4 LUCES DE NAVIDAD X300 FOCOS CABLE BLANCO MULTICOLOR,Bazar Importación,Temporada Navidad
+857472,CH J4 5 LUCES DE NAVIDAD X100 FOCOS CABEL VERDE BLANCO ROSAD,Bazar Importación,Temporada Navidad
+857475,CH J4 8 LUCES DE NAVIDAD X 200 FOCOS EN FORMA DE ESFERAS #10,Bazar Importación,Temporada Navidad
+857476,CH J4 9 LUCES DE NAVIDAD LED PARA EXTERIOR 5M,Bazar Importación,Temporada Navidad
+857477,CH J4 10 LUCES DE NAVIDAD X192 FOCOS CABLE BLANCO,Bazar Importación,Temporada Navidad
 857478,CH J4 11 ADORNO PAPA NOEL CON LUCES A PILAS AA 29X20CM,Bazar Importación,Temporada Navidad
 857479,CH J4 12 ADORNO MUNECO DE NIEVE CON LUCES A PILAS AA,Bazar Importación,Temporada Navidad
 857480,CH J4 13 ADORNO ARBOL NAVIDENO CON LUCES A PILAS AA,Bazar Importación,Temporada Navidad
+857484,CH J4 17 LUCES DE NAVIDAD DE CARGA SOLAR BLANCO CALIDO,Bazar Importación,Temporada Navidad
 857486,CH J4 18 ADORNO PAPA NOEL HO HO HO C LUCES 29X24CM,Bazar Importación,Temporada Navidad
+857487,CH J4 19 LUCES DE NAVIDAD X200 FOCOS BLANCO ROSADO CALIDO,Bazar Importación,Temporada Navidad
+857488,CH J4 20 LUCES DE NAVIDAD X240 FOCOS BLANCO MULTICOLOR CALID,Bazar Importación,Temporada Navidad
+857489,CH J4 21 LUCES DE NAVIDAD X100 FOCOS 5M,Bazar Importación,Temporada Navidad
+857493,CH J4 24 LUCES DE NAVIDAD X100 FOCOS BLANCO MULTICOLOR Y CAL,Bazar Importación,Temporada Navidad
+857494,CH J4 25 LUCES DE NAVIDAD CASCADA X210 FOCOS  BLANCO ROSADO,Bazar Importación,Temporada Navidad
 857505,CH S1 11 ADORNO PAPA NOEL BIENVENIDO 56X28CM,Bazar Importación,Temporada Navidad
 857506,CH S1 21 DORNO BOTA NAVIDENA MUNECO DE NIEVE 35X22CM,Bazar Importación,Temporada Navidad
 857511,CH S1 25 ADORNO BOTA NAVIDENA PAPA NOEL C ROJO CON COPOS 35X,Bazar Importación,Temporada Navidad
@@ -20594,6 +20619,13 @@ id_producto,producto,categoria,subcategoria
 861405,Plato + Juguete Mascota 10,Bazar,Mascotas General
 861598,Mojo Marinade Badia 20 oz,Abarrotes,Aderezos
 861872,CAJA PLASTICA HALLOWEN 14.5,Bazar,Temporada Halloween
+861915,JAN ADORNNO BOTA NAVIDAD  13,Bazar,Temporada Navidad
+861916,JAN ADORNO NAVIDAD CORONA 14,Bazar,Temporada Navidad
+861917,JAN ADORNO MUNECO NAVIDAD 14,Bazar,Temporada Navidad
+861918,JAN ADORNO NAVIDAD PUERTA 14,Bazar,Temporada Navidad
+861919,JAN ADORNO FLOR DE NAVIDAD 12,Bazar,Temporada Navidad
+861920,JAN  ADORNO NAVIDAD FOCO 20,Bazar,Temporada Navidad
+861923,JAN LAMPARA NAVIDAD  20,Bazar,Temporada Navidad
 862026,Mostaza French Sweet Honey 12 oz,Abarrotes,Productos Americanos
 862437,Yerba Mate Campesino Menta Limon 500 gr,Abarrotes,Café y Sucedáneos
 862442,Yerba Mate Campesino Fitness 500 gr,Abarrotes,Café y Sucedáneos
@@ -20618,6 +20650,14 @@ id_producto,producto,categoria,subcategoria
 863638,Chicle Fini Huevos de Dinosaurio 80 gr,Abarrotes,Golosinas - Varias
 863820,CAJA DE HERRAMIENTAS TRAMONTINA C/11 HERRAMIENTAS INCLUIDAS,Bazar,Ferretería
 863975,VASO COLORES FRESH HALLOWEN  REY,Bazar,Menaje Plástico
+864337,Almohada + Calentador,Bazar,Bijouteria/Cuidado Personal
+864338,Espejos + Pestañas,Bazar,Bijouteria/Cuidado Personal
+864340,Pestañas x2,Bazar,Bijouteria/Cuidado Personal
+864341,Espejo Dama Con Lupa,Bazar,Bijouteria/Cuidado Personal
+864342,Olla + Cera + Banda Depilacion,Bazar,Bijouteria/Cuidado Personal
+864343,Audifono bluetooh Huavi FH40,Bazar,Electrodoméstico Reproductores Sonido
+864345,Pack Celular Huavi Gold -77 + Audifono + Microfono,Bazar,Telefonía y Accesorios
+864346,AIRPODS HUAVI FH28 PRO,Bazar,Telefonía y Accesorios
 864502,Quitaesmalte Unik 320 ml,Cuidado Personal,Cuidado de la Piel
 864700,Crema Hidratante Loreal Age Perfect Dia 50 ml,Cuidado Personal,Cuidado de la Piel
 864819,Mascarilla Capilar Colorvive Elvive 300 ml,Cuidado Personal,Cuidado del Cabello
@@ -20656,6 +20696,16 @@ id_producto,producto,categoria,subcategoria
 868892,CEPILLO CABELLO LISOS CORTOS CONDOR 9672,Bazar,Bijouteria/Cuidado Personal
 869154,Encendedor Ronson Recargable,Bazar,Churrasquería
 869222,JAN MASCARA HALLOWEN  25,Bazar,Temporada Halloween
+869304,JAN  PORTA BOTELLA NAVIDAD  23,Bazar,Temporada Navidad
+869305,JAN BOLSA DE VINO NAVIDAD 5,Bazar,Temporada Navidad
+869306,JAN BOLSA DE VINO NAVIDAD 12,Bazar,Temporada Navidad
+869307,JAN BOLSA  REGALO NAVIDAD 8,Bazar,Temporada Navidad
+869308,JAN BOLSA REGALO NAVIDAD 6,Bazar,Temporada Navidad
+869311,JAN BOLSA REGALO NAVIDAD 18,Bazar,Temporada Navidad
+869312,JAN BOLSA REGALO NAVIDAD 14,Bazar,Temporada Navidad
+869316,JAN BOLSO DE NAVIDAD 7,Bazar,Temporada Navidad
+869317,JAN BOLSA REGALO NAVIDAD 10,Bazar,Temporada Navidad
+869320,JAN GUIA  DE NAVIDAD DELGADA 9,Bazar,Temporada Navidad
 869605,JAN CAJA DE REGALO MADRE 20,Bazar,Regalos/Adornos
 869790,Paño Cocina 100% Algodón,Cuidado del Hogar,Productos Americanos
 869826,Cinta Embalaje Izy Trasparente,Bazar,Librería
@@ -20783,6 +20833,8 @@ id_producto,producto,categoria,subcategoria
 876240,FORRRO PRECORTADO A4 VINIFAN,Bazar,Librería
 876265,Crayones Vinifan 12 Colores,Bazar,Librería
 876357,Jamon Sandwichero Hipermaxi kg,Fiambres,Fiambres Hipermaxi
+876625,JAN CINTA NAVIDAD 12,Bazar,Temporada Navidad
+877000,JAN VELAS ARTIFICIAL 12,Bazar,Temporada Navidad
 877411,JAN GLOBOS LETRAS DIA MADRE  18,Bazar,Cotillón
 877413,Globos Todo Blue,Bazar,Temporada Carnaval
 877730,PAT COLLAR CUERINA MASCOTAS 20,Bazar,Mascotas General
@@ -20804,6 +20856,7 @@ id_producto,producto,categoria,subcategoria
 878672,PLESCO JUEGO HERMETICO DECORADO,Bazar,Menaje Plástico
 878696,Juego Mesa Didactica Niños,Juguetería,Juguetería Didáctica/Temporada
 878740,JAN BOLSA DE REGALO 9,Bazar,Regalos/Adornos
+878748,Vaporizador,Bazar,Bioseguridad
 878772,SMARTLIFE EXPRIMIDOR INOX 0.8L,Bazar,Electrodoméstico/Línea Blanca-Hogar
 878784,Sopa Instantanea Ajinomen Pollo con Verdura 80 gr,Abarrotes,Básicos
 878957,Quinua Pop 100  Natural 100 gr,Abarrotes,Nutrición Infantil
@@ -20826,6 +20879,9 @@ id_producto,producto,categoria,subcategoria
 879552,JAN JUGUETE MASCOTAS.14,Bazar,Mascotas General
 879553,BOLSAS ZIPPER FREEZER DIAMOND,Bazar,Articulos de Cocina
 879560,JAN TRAPO DE COCINA .14,Bazar,Articulos de Cocina
+879573,JAN PIC DECORATIVO NAVIDAD 14,Bazar,Temporada Navidad
+879576,JAN CHERRYS DECORATIVAS NAVIDAD 12,Bazar,Temporada Navidad
+879583,JAN ADORNO NAVIDAD P/R PUERTA 10,Bazar,Temporada Navidad
 879589,Mermelada Gigante Frutilla 340 gr,Abarrotes,"Mermel, Mieles"
 879603,Vino Campos de Solana Oporto 700 ml,Bebidas,Vinos y Champagne
 879640,INTERUPTOR SENCILLO SHNEIDER,Bazar,Ferretería
@@ -20926,6 +20982,7 @@ id_producto,producto,categoria,subcategoria
 887805,FRI COOLER RADIO FLOTANTE  125,Bazar,Temporada Verano
 887806,FRI FLOTADOR ARO PICINA 12 ANOS CAJA 70,Bazar,Temporada Verano
 887821,FRI MALLA VOLLEYBALL FLOTANTE 3 ANOS 135,Bazar,Temporada Verano
+887837,JAN BOTAS DE NAVIDAD .35,Bazar,Temporada Navidad
 887854,25550/100 ABRIDOR/SACACORCHOS HARMONI MA,Bazar,Articulos de Cocina
 887855,25550/170 ABRIDOR/SACACORCHOS HARMONI MA,Bazar,Articulos de Cocina
 888270,AMBIENTADOR WOMAN MADRI,Bazar,Automotriz
@@ -20972,6 +21029,7 @@ id_producto,producto,categoria,subcategoria
 892022,Refresco Milk Shake Kris Chocolate 120 gr,Abarrotes,Repostería
 892062,Sopa Maggi Costilla Fideo 60 gr,Abarrotes,Básicos
 892082,Ajinomoto 250 gr,Abarrotes,Condimentos y Legumbres
+892094,JAN GUANTES COCINA NAVIDAD 18,Bazar,Temporada Navidad
 892260,Chicle Trident Splash Frut Limon 17.1 gr,Abarrotes,Golosinas - Varias
 892272,Boligrafo Faber Castell Negro 0.30,Bazar,Librería
 892279,Marcadores Faber Castell Fiesta 12 Colores,Bazar,Librería
@@ -21002,7 +21060,7 @@ id_producto,producto,categoria,subcategoria
 898257,Cable Usb Huavi U06 para Celular,Bazar,Telefonía y Accesorios
 898274,JAN BILLETERAS X 2  45,Bazar,Bolsos/Carteras/Maletas
 898293,Papel Toalla Cocina Elite Ultra Doble Hoja 3 un 60 Toallas,Cuidado del Hogar,Limpieza de Cocina
-898341,Regleta Huavi R-88 Multitoma,Bazar,Ferretería
+898341,Regleta Huavi R-88,Bazar,Ferretería
 898406,Aceite Johnsons Baby 200 ml,Cuidado del Bebé,Cuidado del Bebé
 898595,Espuma de Afeitar Algabo Men Azul 400 gr,Cuidado Personal,Cuidado de la Piel
 898657,LIMPIADOR DE CAJAS GATOS CAT ZONE  500ML,Bazar,Mascotas General
@@ -21260,6 +21318,7 @@ id_producto,producto,categoria,subcategoria
 927442,Hoja de Carpeta Lider Color 500 Hojas,Bazar,Librería
 927587,Licuadora Arno Opimix + Vaso,Bazar,Electrodoméstico/Línea Blanca-Hogar
 928001,Juego de Cubiertos Tramontina New,Bazar,Articulos de Cocina
+928029,JAN MANTELES TELA NAVIDAD  68,Bazar,Temporada Navidad
 928584,Pilas Duracell Alcalina AAA 6 un,Bazar,Ferretería
 928970,Vaso de Cristal Vega Refresquero,Bazar,Menaje Vidrio/Cristal
 928971,Set 6 Vasos Vega Refresquero,Bazar,Menaje Vidrio/Cristal
