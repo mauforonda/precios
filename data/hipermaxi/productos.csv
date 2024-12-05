@@ -1462,6 +1462,7 @@ id_producto,producto,categoria,subcategoria
 26065,BOTA BON O BON NAVIDENA DP 150G,Abarrotes,Temporada
 26070,GALLETA GULLON DESAYUNO INTEGRAL ZERO 21,Abarrotes,Dietéticos y Saludables
 26072,GALLETA GULLON SANDWICH AVENA SIN GLUT 2,Abarrotes,Dietéticos y Saludables
+26082,CEREAL CHOCOLIKE ALMOHADITAS CHOCOL 200G,Abarrotes,Nutrición Infantil
 26088,PACK 2 GALLETAS CHIPS AHOY 222G,Abarrotes,Galletas
 26089,PACK 2GALLETAS RITZ 180G,Abarrotes,Galletas
 26090,PACK 2PASTAS CAROZZI L 1SALSA POMAROLA,Abarrotes,Básicos
@@ -7108,12 +7109,15 @@ id_producto,producto,categoria,subcategoria
 240644,DOVE MEN AER INVISIBLE BIG 12X250ML,Cuidado Personal,Cuidado de la Piel
 240645,TINTE CAREY KIT RUBIO COBRIZO 7.4,Cuidado Personal,Cuidado del Cabello
 240646,SHAMPOO H&S SUAVE Y MANEJABLE 2EN1 650ML,Cuidado Personal,Cuidado del Cabello
+240651,MAQUINA GILLETTE MACH3 CARBON 1P,Cuidado Personal,Cuidado de la Piel
+240652,SERVILLETA BLANQUITA LARGA  500 UNDS,Cuidado Personal,Cuidado Familiar
 240653,TOALLA PROBOLOCK MANZANILLA ALOE 100 UNDS,Cuidado del Bebé,Cuidado del Bebé
 240654,TOALLA PROBOLOCK MANZANILLA ALOE 50 UNDS,Cuidado del Bebé,Cuidado del Bebé
 240663,OLEO P/CABELLO DOVE BOND INTENSE 110 ML,Cuidado Personal,Cuidado del Cabello
 240667,PACK TOALLA CLASSIC TRIPLE PROT 12X160,Cuidado del Bebé,Cuidado del Bebé
 240668,PACK CACAO SH + C. DE PEINAR HAIR FOOD,Cuidado Personal,Cuidado del Cabello
 240671,"PACK ALOE VERA SH + MASCARA, HAIR FOOD",Cuidado Personal,Cuidado del Cabello
+240673,"PACK AGUACATE SH + MASCARA, HAIR FOOD",Cuidado Personal,Cuidado del Cabello
 240778,Cereal En Linea Kids 330 gr,Abarrotes,Nutrición Infantil
 240850,Sal El Salerito de Mesa 130 gr,Abarrotes,Básicos
 240890,My Toffee Coco 600 gr,Abarrotes,Chocolates y Caramelos
@@ -9049,6 +9053,7 @@ id_producto,producto,categoria,subcategoria
 371307,Colonia Procao Macho 120 ml,Bazar,Mascotas General
 371328,SILICONA EN POTE SURTIDO 250 G  CENTRAL SUL,Bazar,Automotriz
 371405,Silicona Liquida Armorall New Car 295 ml,Bazar,Automotriz
+371470,CA JUGUETE CAMION .115,Juguetería,Juguetería Niño/Bebé
 372085,Hoja Papel Bond Report Oficio 500 Hojas,Bazar,Librería
 372106,Vaso Termico Good y Good,Bazar,Camping General
 372107,Taper Good y Good Cuadrado 920 ml,Bazar,Menaje Plástico
@@ -9082,6 +9087,7 @@ id_producto,producto,categoria,subcategoria
 372976,JAN BOLSA DE REGALO DE .15,Bazar,Regalos/Adornos
 373020,Suavizante Ropa Cavallaro Clasico 4 L,Cuidado del Hogar,Limpieza de la Ropa
 373021,Suavizante Ropa Cavallaro Intenso 4 L,Cuidado del Hogar,Limpieza de la Ropa
+373030,CA JUGUETE MUNECA DE  BS 32,Juguetería,Juguetería Niña/Bebé
 373062,JAN CAJA DE REGALO NAVIDAD 8,Bazar,Regalos/Adornos
 373516,Maquina de Afeitar Bic Confort3 Aloe 1 un,Cuidado Personal,Cuidado de la Piel
 373524,Maquina de Afeitar Bic Confort Advance3 Normal 1 un,Cuidado Personal,Cuidado de la Piel
@@ -11846,7 +11852,9 @@ id_producto,producto,categoria,subcategoria
 552102,Agua Tonica Schweppes Lta 350 ml,Bebidas,Bebidas Varias
 552103,Ginger Ale Schweppes 350 ml,Bebidas,Gaseosas
 552115,CHOCOLATE BRECIK BORLA NAVIDENA 70 GR,Abarrotes,Temporada
+552116,CHOC BREICK TRINEO PAPA NOEL 95 GR,Abarrotes,Temporada
 552117,CHOCOLATE BREICK PINGUINO  68 GR,Abarrotes,Temporada
+552118,CHOCOLARE BREICK RENO NAVIDAD 102 GR,Abarrotes,Temporada
 552128,Galleta Cory Chocolate Medio Amargo 68 gr,Abarrotes,Galletas
 552130,Plancha Facil Archer 550 ml,Cuidado del Hogar,Limpieza de la Ropa
 552131,Chocolate Costa Rolls Nuts 150 gr,Abarrotes,Chocolates y Caramelos
@@ -12286,6 +12294,7 @@ id_producto,producto,categoria,subcategoria
 552828,VINO APALTAGUA RESERVA SYRAH 750 ML,Bebidas,Vinos y Champagne
 552830,VINO APALTAGUA ES MERLOT 750ML,Bebidas,Vinos y Champagne
 552833,VINO APALTAGUA ES CARMENERE 750 ML,Bebidas,Vinos y Champagne
+552834,VINO APALTAGUA GRAN VERANO CARMENERE 750,Bebidas,Vinos y Champagne
 552835,VINO APALTAGUA ES CABERNET SAUVIGNON 750,Bebidas,Vinos y Champagne
 552836,PACK 3X2 HUEVO MRM X 6 UNID,Lácteos y Derivados,Huevos
 552846,GALLETAS COMI PET HIGADO DE POLLO 250 GR,Abarrotes,Mascotas
@@ -12346,6 +12355,7 @@ id_producto,producto,categoria,subcategoria
 552924,BITS DE FRUTILLA HI Q 35 GR,Abarrotes,Frutas en Conserva
 552933,LENTEJA PREMIUM GRAN ORO 400 GRS,Abarrotes,Nutrición Infantil
 552936,GALLETAS GULLON DIGESTIVE ZERO 400G,Abarrotes,Dietéticos y Saludables
+552938,CAFE ESENCIA DRIP COFFE 10 UN,Abarrotes,Café y Sucedáneos
 552939,PIPOCAS IL CIBO 150 GR,Abarrotes,Snack
 552941,QUINUA REAL BLANCA GRAN ORO 400 GRS,Abarrotes,Nutrición Infantil
 552945,QUINUA TOSTADA GRAN ORO 250 GRS.,Abarrotes,Nutrición Infantil
@@ -13025,6 +13035,7 @@ id_producto,producto,categoria,subcategoria
 617390,"SALSA RAGU MARINARA 23,9 OZ",Abarrotes,Productos Americanos
 617391,Salsa Prego Hogos Frescos 680 gr,Abarrotes,Productos Americanos
 617392,Salsa Prego Tres Queso 680 gr,Abarrotes,Productos Americanos
+617404,PEPINILLOS VLASIC OVALS FCO 473 ML,Abarrotes,Productos Americanos
 617408,JUGO V-8 FUSION MIXED BERRY BOT.1.36LTS,Bebidas,Bebidas Usa
 617436,Café Molido Folgers Colombiano 292 gr,Abarrotes,Café y Sucedáneos
 617460,Jugo V8 Fusion Durazno Mango 1.36 ml,Bebidas,Bebidas Usa
@@ -15910,14 +15921,22 @@ id_producto,producto,categoria,subcategoria
 669089,H&S SH MEN OLDSPICE 650ML X 10U,Cuidado Personal,Cuidado del Cabello
 669092,CREMA DENTAL TOTAL TARTAR ANTISARRO 3X75,Cuidado Personal,Cuidado Bucal
 669097,SECRET AT GEL WATERLILLY 45G X 12U,Cuidado Personal,Cuidado de la Piel
+669099,SECRET AT GEL POWDERPROT COTTON 73G X 12,Cuidado Personal,Cuidado de la Piel
 669100,SECRET AT GEL WATERLILLY 73GR X12U,Cuidado Personal,Cuidado de la Piel
+669102,SECRET AT BARRA WATERLILLY 45G X 10U,Cuidado Personal,Cuidado de la Piel
+669103,DOWNY PERLAS UNSTOPABLES LUSH 680G X4U,Cuidado del Hogar,Productos Americanos
 669104,DOWNY PERLAS UNSTOPABLES FRESH 680G X4U,Cuidado del Hogar,Productos Americanos
 669105,DOWNY PERLAS UNSTOPABLES LUSH 141G X4U,Cuidado del Hogar,Productos Americanos
 669106,FEBREZE FABRIC EXTRASTRENGTH 438ML X8U,Cuidado del Hogar,Productos Americanos
 669107,FEBREZE FABRIC EXTRASTRENGTH 700ML X4U,Cuidado del Hogar,Productos Americanos
 669108,DOWNY PERLAS APRIL FRESH 141G X4U,Cuidado del Hogar,Productos Americanos
 669109,DOWNY PERLAS APRIL FRESH 680G X4U,Cuidado del Hogar,Productos Americanos
+669111,DOWNY PERLAS UNSTOPABLES LUSH 345G X4U,Cuidado del Hogar,Productos Americanos
+669113,DOWNY PERLAS APRIL FRESH 345G X4U,Cuidado del Hogar,Productos Americanos
+669114,TIDE DET LIQ EFICIENTE C/DOWNY2.48LT X4U,Cuidado del Hogar,Productos Americanos
+669116,TIDE DET LIQ EFICIENTE C/DOWNY 1LT X6U,Cuidado del Hogar,Productos Americanos
 669117,GAIN DETERGENTE LIQUIDO ORIG 739MLX 6U,Cuidado del Hogar,Productos Americanos
+669118,GAIN DETERGENTE LIQUIDO ORIG. 1.36L X 6U,Cuidado del Hogar,Productos Americanos
 669119,DREFT DET LIQ ACTIVE BABY 1.36LT X6U,Cuidado del Hogar,Productos Americanos
 669123,TIDE PODS 3EN1 SPRING MEADOW 9PZA X6U,Cuidado del Hogar,Productos Americanos
 669901,Pizza Hipermaxi Congelada Hawaiana 620 gr,Congelados,Masas y Comidas Congeladas
@@ -16021,6 +16040,8 @@ id_producto,producto,categoria,subcategoria
 670469,Galleta Gustossi Cracker 1 kg,Abarrotes,Galletas
 670474,Queso Criollo San Javier San Mateo kg,Lácteos y Derivados,Quesos
 670475,Queso Criollo San Mateo Menonita kg,Lácteos y Derivados,Quesos
+670476,PANETON TRADICIONAL GUSTOSSI 650GRS BOLS,Panadería,Panadería Externa
+670477,PANETON DE CHOCOLATE GUSTOSSI 650GRS BOL,Panadería,Panadería Externa
 670478,ROSCA NAVIDENA GUSTOSSI BOLSA 600GRS,Panadería,Panadería Externa
 670483,Salchicha Stege con Piel 6 un,Fiambres,Fiambres Externos
 670484,Chuleta Stege Bandeja kg,Congelados,Carnes Congeladas
@@ -16907,6 +16928,7 @@ id_producto,producto,categoria,subcategoria
 673465,Pan Tradicional Jasmine Sin Gluten 350 gr,Panadería,Panadería Externa
 673466,Pan con Frutas Castañas Jasmin Sin Gluten,Panadería,Panadería Externa
 673467,Pan de Hamburguesa Jasmin Sin Gluten 300 gr,Panadería,Panadería Externa
+673476,PI PO TON TRADICIONAL BOLSA ROJA 700GRS,Panadería,Panadería Externa
 673477,Wrap Tradicional Jasmine Sin Gluten 240 gr,Congelados,Masas y Comidas Congeladas
 673478,Wrap Chia Linaza Jasmine Sin Gluten 240 gr,Congelados,Masas y Comidas Congeladas
 673479,Tortillas Wrap Jamine Espinaca Sin Gluten 240 gr,Congelados,Masas y Comidas Congeladas
@@ -17326,6 +17348,7 @@ id_producto,producto,categoria,subcategoria
 674286,PANETON COFLER RELL P DARK,Panadería,Panadería Externa
 674287,PACK SALAME/JAMON MAS TABLITA SOFIA UNIDAD,Fiambres,Fiambres Externos
 674288,POSTRE HELADO DELIZIA ALFREDO CANELA 850ML,Congelados,"Helados, Cassattas y Picoleses"
+674291,PACK CASSATTA-TRADICION CANELA COCO DELIZIA,Congelados,"Helados, Cassattas y Picoleses"
 674300,YOGURT IOGO TIPO GRIEGO SABOR FRUTILLA 500GRS,Lácteos y Derivados,Yogures
 674301,YOGURT IOGO TIPO GRIEGO SABOR COCO 500 GRS,Lácteos y Derivados,Yogures
 674302,6 PACK YOGURT IOGO 0 AZUCAR SELECCION SABORES 6X120,Lácteos y Derivados,Yogures
@@ -18038,6 +18061,7 @@ id_producto,producto,categoria,subcategoria
 742967,Pan Corteza Dulce Hogar 600 gr,Panadería,Panadería Externa
 743269,Chorizo Tradicion Hipermaxi kg,Fiambres,Fiambres Hipermaxi
 743413,Pan con Uva Pasas Dulce Hogar un,Panadería,Panadería Externa
+743523,HELADO DIET FRUTILLA VACA FRIA 400 ML.,Congelados,"Helados, Cassattas y Picoleses"
 744514,Pan con Avena Dulce Hogar un,Panadería,Panadería Externa
 745632,Crema Congelada Polpanorte Copoazu 600 gr,Congelados,Pulpas y Frutas Congeladas
 745648,Mix Asai Congelado Polpanorte Copoazu 600 gr,Congelados,Pulpas y Frutas Congeladas
@@ -19400,6 +19424,7 @@ id_producto,producto,categoria,subcategoria
 839601,Colonia Super Para Mascotas 120 ml,Bazar,Mascotas General
 839635,Pilas Energizer Alcalina AAA 8 un,Bazar,Ferretería
 839737,JAN PORTA VELA VIDRIO 16,Bazar,Regalos/Adornos
+839756,CA JUGUETE SET DE BOMBEROS 245,Juguetería,Juguetería Didáctica/Temporada
 839770,MA GLOBOS DIFERENTES MODELOS,Bazar,Cotillón
 839800,FIL PVC ALPFILM 28X300 MT,Bazar,Articulos de Cocina
 839810,Set Cuchara Tramontina Roja,Bazar,Articulos de Cocina
@@ -19559,6 +19584,7 @@ id_producto,producto,categoria,subcategoria
 843814,CH.Y34-4 CUCHILLOS COLOR ROJO  SETX6 PZAS,Bazar Importación,Cocina General
 843868,Juguete Pala Cargadora City,Juguetería Importación,Juguetería Niño/Bebé
 843892,Energizante Gatorade Fruit Punch Polvo 51 oz,Bebidas,Bebidas Usa
+843899,CH 843C MEZCLADORA MUSICAL CON LUZ A PILAS,Juguetería Importación,Juguetería Niño/Bebé
 843931,Juego de Camion Remolque,Juguetería Importación,Juguetería Niño/Bebé
 843948,Termo Sport  Colores Surtidos  Capacidad 500Ml,Bazar Importación,Cocina General
 843949,"CH.Y5514 TOMATODO COLORES PASTEL, CAPACIDAD 1200 ML",Bazar Importación,Temporada Carnaval
@@ -19592,6 +19618,7 @@ id_producto,producto,categoria,subcategoria
 844852,JUGUETE DE GOMA GRANDE (4 MODELOS),Bazar,Mascotas General
 844856,JUGUETE SURTIDO MASCOTAS,Bazar,Mascotas General
 845216,CH 3618 SETX2 PARA ENSALADAS DE  BAMBU   TAMANO 27CM,Bazar Importación,Cocina General
+845221,CH 6019 PISTOLA DE JUGUETE  CON 12 BALAS DE ESPUMA  EVA,Juguetería Importación,Juguetería Niño/Bebé
 845232,Pistola de Juguete con 12 Balas de Espumas,Juguetería Importación,Juguetería Niño/Bebé
 845234,Aceituna Black Pearls Large 6 oz,Abarrotes,Productos Americanos
 845257,Camion Grua con Control Remoto,Juguetería Importación,Juguetería Niño/Bebé
@@ -19982,7 +20009,9 @@ id_producto,producto,categoria,subcategoria
 851697,Libro Magico Crea Pulseras 3 en 1,Juguetería Importación,Juguetería Niña/Bebé
 851710,Cereal Post Fruity Marshmallow 11 oz,Abarrotes,Nutrición Infantil
 851787,Juguete Para Hacer Joyeria,Juguetería Importación,Juguetería Niña/Bebé
+851832,CH D4 13 JUGUETE PARA HACER MANILLAS Y COLLARES SET 2EN1,Juguetería Importación,Juguetería Niña/Bebé
 851857,Juguete Set de Peluqueria,Juguetería Importación,Juguetería Niña/Bebé
+851859,CH D4 16 JUGUETE SET DE PELUQUERIA 2EN 1 PARA HACER TRENZADO,Juguetería Importación,Juguetería Niña/Bebé
 851919,Peluche Jirafa 40 cm,Juguetería Importación,Juguetería Didáctica/Temporada
 851922,Peluche Perro Lobo Oso 25 cm,Juguetería Importación,Juguetería Didáctica/Temporada
 851923,Peluche de Perro 21 cm,Juguetería Importación,Juguetería Didáctica/Temporada
@@ -20007,6 +20036,7 @@ id_producto,producto,categoria,subcategoria
 852173,Margarina Reyna Valle 850 gr,Lácteos y Derivados,Mantequillas y Margarinas
 852272,CH 34 5 MUNECO CALAVERA HALLOWEEN MUSICAL 52CM A PILAS,Bazar Importación,Temporada Halloween
 852306,Media Luna Argentina Hipermaxi kg,Panadería,Panadería Hipermaxi
+852364,CH 20 13 JUGUETE CARRUSEL MOVIL PARA CUNA DE BEBE MUSICAL,Juguetería Importación,Juguetería Didáctica/Temporada
 852377,Juguete Bloques para Armar 57 Piezas,Juguetería Importación,Juguetería Didáctica/Temporada
 852502,CH 24 31 ADORNOS HALLOWEEN A CUERDA,Bazar Importación,Temporada Halloween
 852677,CH J14 4 ADORNO NAVIDENO PAPA NOEL PARADO 57CM,Bazar Importación,Temporada Navidad
@@ -20139,6 +20169,8 @@ id_producto,producto,categoria,subcategoria
 854696,Set Cafetera Licuadora y Postres con Sonido,Juguetería Importación,Juguetería Niña/Bebé
 854697,CH Z19 3 TOSTADORA LICUADORA CUBIERTOS FRUTAS CON LUZ,Juguetería Importación,Juguetería Niña/Bebé
 854698,Set Lavanderia a Pilas,Juguetería Importación,Juguetería Niña/Bebé
+854701,CH Z19 6 LAVADORA ASPIRADORA Y CANASTILLO CON LUZ Y SONIDO,Juguetería Importación,Juguetería Niña/Bebé
+854702,CH Z19 7 JUGUETE HORNO Y BATIDORA CON LUZ Y SONIDO,Juguetería Importación,Juguetería Niña/Bebé
 854703,Set Cafetera Licuadora con Sonido,Juguetería Importación,Juguetería Niña/Bebé
 854705,Muñeca Bonnie con Sonido,Juguetería Importación,Juguetería Niña/Bebé
 854712,Auto Armable Set 195 Piezas,Juguetería Importación,Juguetería Didáctica/Temporada
@@ -20542,6 +20574,19 @@ id_producto,producto,categoria,subcategoria
 858003,CH S9 2 GNOMO BLANCO Y PLATEADO CON ZAPATOS PLATEADOS,Bazar Importación,Temporada Navidad
 858005,CH S9 4 GNOMO COLOR BLANCO CON BRAZOS A RAYAS GRIS 52CM,Bazar Importación,Temporada Navidad
 858006,CH S9 5 GNOMO CON GORRO DISENO DE COPOS DE NIEVE DORADO 36CM,Bazar Importación,Temporada Navidad
+858051,CH J16 2 UGUETE COCHE TODO TERRENO VERDE A CONTROL REMOTO,Juguetería Importación,Juguetería Niño/Bebé
+858054,CH J16 4 JUGUETE COCHE TREPADOR 4X4 VERDE A CONTROL REMOTO,Juguetería Importación,Juguetería Niño/Bebé
+858055,CH J16 5 JUGUETE COCHE TREPADOR 4X4 ROJO A CONTROL REMOTO,Juguetería Importación,Juguetería Niño/Bebé
+858056,CH J16 6 JUGUETE COCHE DE ACROBACIAS RAPIDAS AZUL A CONTROL,Juguetería Importación,Juguetería Niño/Bebé
+858058,CH J16 7 JUGUETE COCHE DE ACROBACIAS RAPIDAS NEGRO A CONTROL,Juguetería Importación,Juguetería Niño/Bebé
+858059,CH J16 8 JUGUETE COCHE DEPORTIVO A CONTROL REMOTO CON LUCES,Juguetería Importación,Juguetería Niño/Bebé
+858060,CH J16 9 JUGUETE COCHE DE CARRERAS A CONTROL REMOTO CON LUCE,Juguetería Importación,Juguetería Niño/Bebé
+858061,CH J16 10 JUGUETE COCHE DE CARRERAS TIBURON A CONTROL REMOTO,Juguetería Importación,Juguetería Niño/Bebé
+858063,CH J16 11 JUGUETE COCHE POLICIA A CONTROL REMOTO CON LUCES A,Juguetería Importación,Juguetería Niño/Bebé
+858064,CH J16 12 UGUETE COCHE DEPORTIVO A CONTROL REMOTO CON LUCES,Juguetería Importación,Juguetería Niño/Bebé
+858065,CH J16 13 JUGUETE COCHE DEPORTIVO A CONTROL REMOTO CON LUCES,Juguetería Importación,Juguetería Niño/Bebé
+858067,CH J16 15 JUGUETE CAMIONETA 4X4 TODOTERRENO A CONTROL REMOTO,Juguetería Importación,Juguetería Niño/Bebé
+858068,CH J16 16 JUGUETE COCHE DEPORTIVO GRAFFITI DINOSAURIO A CONT,Juguetería Importación,Juguetería Niño/Bebé
 858235,Aceite La Española Extra Virgen 200 ml,Abarrotes,Básicos
 858319,Galleta La Francesa Paris Surtida 250 gr,Abarrotes,Galletas
 858364,Vino Concha y Toro Reservado Merlot 750 Ml,Bebidas,Vinos y Champagne
@@ -20653,6 +20698,7 @@ id_producto,producto,categoria,subcategoria
 863445,Te Frutte Duermete 20 Sobres,Abarrotes,Café y Sucedáneos
 863450,Te Frutte No Stress 20 Sobres,Abarrotes,Café y Sucedáneos
 863638,Chicle Fini Huevos de Dinosaurio 80 gr,Abarrotes,Golosinas - Varias
+863812,Hervidor de Agua 2 Lts,Bazar,Electrodoméstico/Línea Blanca-Hogar
 863820,CAJA DE HERRAMIENTAS TRAMONTINA C/11 HERRAMIENTAS INCLUIDAS,Bazar,Ferretería
 863975,VASO COLORES FRESH HALLOWEN  REY,Bazar,Menaje Plástico
 864337,Almohada + Calentador,Bazar,Bijouteria/Cuidado Personal
@@ -20881,6 +20927,7 @@ id_producto,producto,categoria,subcategoria
 879247,Miel de Abeja Del Bosque Tropical 300 gr,Abarrotes,"Mermel, Mieles"
 879280,POTE PLASTICO C/TAPA 140ML X25 COPOBRAS,Bazar,Cotillón
 879283,POTE PLASTICO /CTAPA 500 ML X 25UND COPOBRAS,Bazar,Cotillón
+879343,CA JUG CANA PESCAR .45,Juguetería,Juguetería Didáctica/Temporada
 879361,Crema Maggie de Tomate 45 gr,Abarrotes,Básicos
 879486,PLAYDOH-DRIZZY HELADERIA CREATIVA,Juguetería,Juguetería Didáctica/Temporada
 879534,Achocolatado Kriskao 200 gr,Abarrotes,Nutrición Infantil
@@ -20891,6 +20938,7 @@ id_producto,producto,categoria,subcategoria
 879576,JAN CHERRYS DECORATIVAS NAVIDAD 12,Bazar,Temporada Navidad
 879583,JAN ADORNO NAVIDAD P/R PUERTA 10,Bazar,Temporada Navidad
 879589,Mermelada Gigante Frutilla 340 gr,Abarrotes,"Mermel, Mieles"
+879601,CA JUGUETE AUTO PISTAS CAJA 250,Juguetería,Juguetería Niño/Bebé
 879603,Vino Campos de Solana Oporto 700 ml,Bebidas,Vinos y Champagne
 879640,INTERUPTOR SENCILLO SHNEIDER,Bazar,Ferretería
 879673,NA MANDIL P/R LAVAR ROPA  20,Bazar,Articulos de Cocina
@@ -20923,6 +20971,7 @@ id_producto,producto,categoria,subcategoria
 882674,Leche de Soya Chocolate 1 L,Lácteos y Derivados,Leches
 882911,Pan Molde Belen Americano 600 gr,Panadería,Panadería Externa
 883031,JUEGO MESA MONOPOLIO CLASICO BOLIVIMAR,Juguetería,Juguetería Didáctica/Temporada
+883121,CA JUGUETE METRALLETA +ACCESORIOS 160,Juguetería,Juguetería Niño/Bebé
 883150,MAP BANANERO CHICO.50,Bazar,Bolsos/Carteras/Maletas
 883151,MAP BANANERO MEDIANO .60,Bazar,Bolsos/Carteras/Maletas
 883220,LAPIZ  CARPINTERO FABER CASTELL,Bazar,Librería
@@ -20959,6 +21008,7 @@ id_producto,producto,categoria,subcategoria
 884930,"LIQUIDO RADIADOR VISTONY 946,ML",Bazar,Automotriz
 884931,LIQUIDO RADIADOR VISTONY 946ML,Bazar,Automotriz
 884945,ENVASE DE SALSA BASA 400ML,Bazar,Menaje Plástico
+884959,CA JUGUETE PISTAS AUTO CAJA .115,Juguetería,Juguetería Niño/Bebé
 885410,Porta Cubiertos Rey,Bazar,Articulos de Cocina
 885810,Desinfectante Aerosol Lysoform Lavanda 360 ml,Cuidado del Hogar,Limpieza de Baños
 885892,CA JUEGO BINGO .50,Juguetería,Juguetería Didáctica/Temporada
@@ -20996,6 +21046,7 @@ id_producto,producto,categoria,subcategoria
 887841,JAN ADORNO PAPA NOEL P/R ARBOL.10,Bazar,Temporada Navidad
 887854,25550/100 ABRIDOR/SACACORCHOS HARMONI MA,Bazar,Articulos de Cocina
 887855,25550/170 ABRIDOR/SACACORCHOS HARMONI MA,Bazar,Articulos de Cocina
+887967,CA JUG SET COCINA .75,Juguetería,Juguetería Niña/Bebé
 888270,AMBIENTADOR WOMAN MADRI,Bazar,Automotriz
 888547,CEPILLO P/R CABELLO FASHION CONDOR 6894,Bazar,Bijouteria/Cuidado Personal
 889090,ELS BOLSA DE VINO 6,Bazar,Temporada Navidad
@@ -21005,6 +21056,8 @@ id_producto,producto,categoria,subcategoria
 889146,Porta Jabon Good y Good,Bazar,Baño General
 889147,JARRA MSR 1/2 LITRO,Bazar,Menaje Plástico
 889160,Pegamento Barra Uhu Stic 40 gr,Bazar,Librería
+889394,CA JUG MUNECA HABLADORA DE BS 135,Juguetería,Juguetería Niña/Bebé
+889396,CA JUG MUNECA DIDACTICA DE BS 99,Juguetería,Juguetería Niña/Bebé
 889471,BOL DIVERTY BLOCKS  SURTIDOS,Juguetería,Juguetería Didáctica/Temporada
 890260,Aceite de Maiz Mazola Spray 142 gr,Abarrotes,Básicos
 890261,Aceite Mazola Spray 142 gr,Abarrotes,Básicos
@@ -21205,6 +21258,8 @@ id_producto,producto,categoria,subcategoria
 911778,RESALTADORES STABILO X4 COLOR BOSS,Bazar,Librería
 913226,Nota de Venta Grande,Bazar,Librería
 913227,ALED RECIBO GRANDE DE BS 12,Bazar,Librería
+913279,CA JUG MUNECA DE BS 65,Juguetería,Juguetería Niña/Bebé
+913280,CA JUG MUNECA DE BS  43,Juguetería,Juguetería Niña/Bebé
 913281,Muñeca,Juguetería,Juguetería Niña/Bebé
 913368,XI GLOBO  LISO X 20 UND,Bazar,Cotillón
 913371,Globos Perla 20 un,Bazar,Cotillón
@@ -21362,6 +21417,7 @@ id_producto,producto,categoria,subcategoria
 930298,Vela Bengala 1 un,Bazar,Cotillón
 930306,Octane Booster Stp 155 ml,Bazar,Automotriz
 930307,Fuel Injector Cleaner Stp 155 ml,Bazar,Automotriz
+930451,CA JUGUETE SET AUTOS . 35,Juguetería,Juguetería Niño/Bebé
 931007,SET PALIGLOBOS X 20UND.,Bazar,Cotillón
 931488,Copa Martini Windsor,Bazar,Menaje Vidrio/Cristal
 931491,Set 6 Vasos Amasadinho Tubo,Bazar,Menaje Vidrio/Cristal
@@ -21412,6 +21468,7 @@ id_producto,producto,categoria,subcategoria
 941113,CI SOPLADOR DE CARBON TRAMONTINA 26479,Bazar,Churrasquería
 941551,Molde Estañado Ilko Redondo,Bazar,Articulos de Cocina
 942359,Cepillo Foramen Junior Suave 1 un,Cuidado Personal,Cuidado Bucal
+947068,CA.JUG AUTO A CONTROL REMOTO .135,Juguetería,Juguetería Niño/Bebé
 947072,Bingo,Juguetería,Juguetería Didáctica/Temporada
 947355,Sarten Plancha Tramontina Redonda,Bazar,Articulos de Cocina
 947363,Sarten Tramontina 30 cm + Espatula,Bazar,Articulos de Cocina
