@@ -356,6 +356,7 @@ id_producto,producto,categoria,subcategoria
 5795,Lenteja Hipermaxi 400 gr,Granos y Hortalizas,Fraccionados Hipermaxi
 5796,Lenteja Hipermaxi 800 gr,Granos y Hortalizas,Fraccionados Hipermaxi
 5797,Trigo Pelado Hipermaxi 400 gr,Granos y Hortalizas,Fraccionados Hipermaxi
+5805,CP PACK 3X2 LENTEJA HIPERMAXI 800 G,Granos y Hortalizas,Fraccionados Hipermaxi
 5877,Tripack Brixy San Juan Pomos,Abarrotes,Temporada
 6715,Mostaza Taste Zero 350 gr,Abarrotes,Aderezos
 6716,Mayonesa Taste Zero 335 gr,Abarrotes,Aderezos
@@ -1451,6 +1452,8 @@ id_producto,producto,categoria,subcategoria
 26020,SALSA PROMOS BARBACOA ORIG 510G,Abarrotes,Aderezos
 26021,SALSA PROMOS BBQ PICANTE 510G,Abarrotes,Aderezos
 26022,GALLETA COFLER RELLENA BONOBON 85G,Abarrotes,Galletas
+26024,CAFE TOSTADO MOLIDO MUNAQ BSA 250G,Abarrotes,Café y Sucedáneos
+26027,GRAGEAS D MANI MC NUTS OREO 120G,Abarrotes,Snack
 26031,TE AMATE D JAMAICA ARAND PET 500ML,Bebidas,Bebidas Varias
 26035,VINO KOHLBERG SEMI DULCE TTO 700ML,Bebidas,Vinos y Champagne
 26036,VINO KOHLBERG DULCE ROSE 700ML,Bebidas,Vinos y Champagne
@@ -1468,9 +1471,16 @@ id_producto,producto,categoria,subcategoria
 26088,PACK 2 GALLETAS CHIPS AHOY 222G,Abarrotes,Galletas
 26089,PACK 2GALLETAS RITZ 180G,Abarrotes,Galletas
 26090,PACK 2PASTAS CAROZZI L 1SALSA POMAROLA,Abarrotes,Básicos
+26092,CHOCOLATE BREICK CAFE MOCA TAB 100G,Abarrotes,Chocolates y Caramelos
+26094,CHOCOLATE BREICK BLANCO TAB 100G,Abarrotes,Chocolates y Caramelos
+26095,CHOCOLATE BREICK LECHE TAB 100G,Abarrotes,Chocolates y Caramelos
 26104,CERVEZA BUDWEISER LTA 269ML,Bebidas,Cervezas
 26106,CHOCOLATE BREICK RELL FRANBUEZA TAB 95G,Abarrotes,Chocolates y Caramelos
+26124,CHOCOLATE BREICK CABERTNET TAB 100G,Abarrotes,Chocolates y Caramelos
 26125,CHOCOLATE BREICK RELL MARACUYA TAB 95G,Abarrotes,Chocolates y Caramelos
+26129,CHOCOLATE BREICK RELL UVA TAB 95G,Abarrotes,Chocolates y Caramelos
+26130,CHOCOLATE BREICK RELL FRUTILLA TAB 95G,Abarrotes,Chocolates y Caramelos
+26133,CHOCOLATE BREICK RELL PINA TAB 95G,Abarrotes,Chocolates y Caramelos
 26874,Whisky Johnnie Walker 18 Años 750 ml,Bebidas,Licores
 27100,MASMELOS TRULULU FRANKI BSA 50G,Abarrotes,Golosinas - Varias
 27101,MASMELOS TRULULU CHOCO VAINILLA 50G,Abarrotes,Golosinas - Varias
@@ -5773,6 +5783,8 @@ id_producto,producto,categoria,subcategoria
 200309,Fideo Pezzullo Linguine 500 gr,Abarrotes,Básicos
 200311,Galleta Pepperigde Milano 170 gr,Abarrotes,Productos Americanos
 200313,Galleta Milano Raspberry 198 gr,Abarrotes,Galletas
+200317,Galleta Nantucket Dark Chocolate 204 gr,Abarrotes,Productos Americanos
+200318,Galleta Nantucket Double Chocolate 220 gr,Abarrotes,Productos Americanos
 200326,Salsa Predilecta Bolognesa 300 gr,Abarrotes,Salsas y Extracto de Tomate
 200327,Extracto de Tomate Predilecta 140 gr,Abarrotes,Salsas y Extracto de Tomate
 200339,Dulce Arcor Batata 500 gr,Abarrotes,"Mermel, Mieles"
@@ -6073,6 +6085,7 @@ id_producto,producto,categoria,subcategoria
 220419,Shampoo Dove Oleo Nutricion 400 ml + Desodorante + Jabon,Cuidado Personal,Cuidado del Cabello
 220453,Jugo Del Huerto Cranberry 1892 ml,Bebidas,"Jugos, Néctar"
 220484,Salsa Cholula Hot Sauce Garlic 5 oz,Abarrotes,Productos Americanos
+220486,Salsa Cholula Hot Sauce Chiplote 5 oz,Abarrotes,Productos Americanos
 220488,Salsa Cholula Hot Sauce Chili Lime 5 oz,Abarrotes,Productos Americanos
 220489,Cereal Cinamon Toast Crunch Minis 10.7 oz,Abarrotes,Productos Americanos
 220490,CEREAL GENERAL MILLS 12.3 OZ,Abarrotes,Productos Americanos
@@ -7134,6 +7147,8 @@ id_producto,producto,categoria,subcategoria
 240671,"PACK ALOE VERA SH + MASCARA, HAIR FOOD",Cuidado Personal,Cuidado del Cabello
 240673,"PACK AGUACATE SH + MASCARA, HAIR FOOD",Cuidado Personal,Cuidado del Cabello
 240694,TRIPACK SERVILLRTA ELITE PREMIUM X60,Cuidado Personal,Cuidado Familiar
+240697,PANAL PARA ADULTO PLUSSEC TALLA XG X 10,Cuidado Personal,Cuidado del Adulto
+240698,PANAL MI BEBE RECIEN NACIDO 20X8,Cuidado del Bebé,Pañales
 240778,Cereal En Linea Kids 330 gr,Abarrotes,Nutrición Infantil
 240850,Sal El Salerito de Mesa 130 gr,Abarrotes,Básicos
 240890,My Toffee Coco 600 gr,Abarrotes,Chocolates y Caramelos
@@ -7548,7 +7563,9 @@ id_producto,producto,categoria,subcategoria
 300142,Salsa B&R Nachos de Queso 340 gr,Abarrotes,Aderezos
 300225,Polvo de Hornear Kris 57  gr,Abarrotes,Repostería
 300349,Gomita Fini Oso Brillos 100 gr,Abarrotes,Golosinas - Varias
+300508,Galleta Pirouette French Vainilla 382 gr,Abarrotes,Productos Americanos
 300510,Galleta Pirouette Chocolate Hazelnut 382 gr,Abarrotes,Productos Americanos
+300511,Galleta Pirouette Chocolate Fudge 382 gr,Abarrotes,Productos Americanos
 300520,MATACUCARACHA CEBO GEL GELTEK 8 UNDS,Cuidado del Hogar,Productos Americanos
 300536,Jabon Barra Asepxia Forte Acnes 100 gr,Cuidado Personal,Cuidado de la Piel
 301002,Servilletas Premier Max 200 un,Cuidado Personal,Cuidado Familiar
@@ -10815,6 +10832,7 @@ id_producto,producto,categoria,subcategoria
 534994,Cepilllo Dental Oral-B Niños 1 un,Cuidado Personal,Cuidado Bucal
 535149,Jabon Barra Heno de Pravia Crema 150 gr,Cuidado del Hogar,Productos Americanos
 535192,VIRUTILLA VIRUTEX MEDIANA GRUESA N.4,Cuidado del Hogar,Accesorios del Hogar
+536210,GALLETA FRANCESA AMANDI SURTIDA 500 GR,Abarrotes,Galletas
 536849,Pañuelo Kleenex Junior Disney 50 un,Cuidado Personal,Cuidado Familiar
 537012,Escoba Clorinda Tradicional,Cuidado del Hogar,Accesorios del Hogar
 537020,Escoba Clorinda Extra Grande,Cuidado del Hogar,Accesorios del Hogar
@@ -12391,7 +12409,10 @@ id_producto,producto,categoria,subcategoria
 552969,HUEVO SOFIA MAPLE 30 UND,Lácteos y Derivados,Huevos
 552970,BIOGURT PROBIOTICO LGG FRUTILLA 1LT,Lácteos y Derivados,Yogures
 552971,BIOGURT PROBIOTICO LGG DURAZNO 1LT,Lácteos y Derivados,Yogures
+552972,BIOGURT PROBIOTICO LGG MANGO 1LT,Lácteos y Derivados,Yogures
+552974,BIOGURT PROBIOTICO LGG FRUTILLA 200ML,Lácteos y Derivados,Yogures
 552975,PILFRUT MARACUYA 190ML BOLSA,Lácteos y Derivados,Leches
+552993,PACK 3 GELATINA FRAMBU 230G JARRA 1.5 LT,Abarrotes,Repostería
 554333,Cerveza Paceña Lata Roja 473 Cc,Bebidas,Cervezas
 554466,Detergente Liquido Ola Futuro Limpieza Completa 5 L,Cuidado del Hogar,Limpieza de la Ropa
 554468,Suavizante Ropa Ola Suavecito Original 5 L,Cuidado del Hogar,Limpieza de la Ropa
@@ -13350,11 +13371,13 @@ id_producto,producto,categoria,subcategoria
 629276,Pretzel Snyders Sticks 225 gr,Abarrotes,Productos Americanos
 629277,Pretzel Snyders Mini 255 gr,Abarrotes,Productos Americanos
 629280,Agua San Pellegrino Melograno Arancia 330 ml,Bebidas,Bebidas Usa
+629293,Galleta Milano Menta Chocolate 198 gr,Abarrotes,Productos Americanos
 629294,Galleta Goldfish Queso Cheddar 28 gr,Abarrotes,Productos Americanos
 629295,Polar Premium Ginger Ale 1 L,Bebidas,Bebidas Usa
 629296,Te Helado Tea Time Jasmine 1 L,Bebidas,Bebidas Usa
 629297,Te Helado Tea Time Cranberry Rasberry 1 L,Bebidas,Bebidas Usa
 629298,Papel Toalla Cocina Towels Mark 150 un,Cuidado del Hogar,Productos Americanos
+629309,Cereal Kelloggs Froasted Mini Wheats 510 gr,Abarrotes,Productos Americanos
 629311,Cereal Kelloggs Rice Krispies 340 gr,Abarrotes,Productos Americanos
 629314,Salsa Prego Tomate Al Basil Con Ajo 680 gr,Abarrotes,Productos Americanos
 629315,Pretzel Factory Mostaza Dulce 204 gr,Abarrotes,Productos Americanos
@@ -13362,8 +13385,10 @@ id_producto,producto,categoria,subcategoria
 629318,Pretzel Canela Azucar Snack Factory 204 gr,Abarrotes,Productos Americanos
 629350,Salsa Herdez Chilpotle Picante Cremoso 240 gr,Abarrotes,Productos Americanos
 629353,Chiles Herdez Jalapeños Enteros 200  gr,Abarrotes,Productos Americanos
+629362,Pork Beans Campbells 560 gr,Abarrotes,Productos Americanos
 629363,Macarroni Campbells Chili Mac 533 gr,Abarrotes,Productos Americanos
 629365,Fideo Barilla Spaguetti Integral 454 gr,Abarrotes,Productos Americanos
+629369,Galleta Pop Tarts Arandanos 384 gr,Abarrotes,Productos Americanos
 629373,Pistacho Kirkland Pelado 680 gr,Abarrotes,Productos Americanos
 629375,Cereal Kelloggs Special Fruit y Yogurt 368 gr,Abarrotes,Productos Americanos
 629388,Pearl Milling Syrup Original 710 gr,Abarrotes,Productos Americanos
@@ -13412,6 +13437,12 @@ id_producto,producto,categoria,subcategoria
 629728,Bebida Hidratante Prime limonada 500 ML,Bebidas,Bebidas Usa
 629729,Hidratante Prime Frutilla Melon 500 ml,Bebidas,Bebidas Usa
 629730,MAYONESA KRAFT DELI 90 GR,Abarrotes,Productos Americanos
+629744,KRAFT HEINZ PONCHE TROPICAL 0.18ML,Bebidas,Bebidas Usa
+629745,KRAFT HEINZ SABOR CEREZA KOOL AID 0.18 ML,Bebidas,Bebidas Usa
+629746,KRAFT HEINZ SABOR UVA KOOL AID 0.18 ML,Bebidas,Bebidas Usa
+629748,MAS+ BY MESSI MIAMI PUNCH 500 ML,Bebidas,Bebidas Usa
+629749,MAS+ BY MESSI LIMON LIME LEAGUE 500 ML,Bebidas,Bebidas Usa
+629750,MAS+ BY MESSI BERRY COPA CRUSH 500 ML,Bebidas,Bebidas Usa
 630010,Alimento Pedigree Cachorro 1.5 kg,Abarrotes,Mascotas
 630011,Gaseosa Crush Piña 355 ml,Bebidas,Bebidas Usa
 630012,Cereal Kelloggs Cocoa Krispies 439 gr,Abarrotes,Productos Americanos
@@ -13432,6 +13463,9 @@ id_producto,producto,categoria,subcategoria
 634159,Salsa Prego Tomate Italiana Tradicional 680 gr,Abarrotes,Productos Americanos
 634561,Ketchup Heinz Americano 397 gr,Abarrotes,Productos Americanos
 634850,Cereal Cinnamon Toast Crunch 340 gr,Abarrotes,Productos Americanos
+634853,Galleta Pop Tarts Cherry 384 gr,Abarrotes,Productos Americanos
+634854,Galleta Pop Tarts Cookies Creme 384 gr,Abarrotes,Productos Americanos
+634855,Galleta Pop Tarts Strawberry 384 gr,Abarrotes,Productos Americanos
 634857,Galleta Goldfish Pretzel 227 gr,Abarrotes,Productos Americanos
 634862,Galleta Milano Milk Chocolate 170 gr,Abarrotes,Productos Americanos
 634863,Nutella 950 gr,Abarrotes,Productos Americanos
@@ -14133,6 +14167,7 @@ id_producto,producto,categoria,subcategoria
 655347,Avena Princesa Frutilla 400 gr,Abarrotes,Nutrición Infantil
 655348,Avena Princesa Vainilla 400 gr,Abarrotes,Nutrición Infantil
 655364,Te Refrescante Pil Limon Canela Light 2 L,Bebidas,Bebidas Varias
+655386,Cereal de Avena con Malvadis Lucky Charms,Abarrotes,Productos Americanos
 655387,Ketchup Heinz Organico 397 gr,Abarrotes,Productos Americanos
 655399,Atun Gomes de Costa Desmenuzado Tomate Picante 17 gr,Abarrotes,Comidas en Conserva
 655419,Nutella 750 gr,Abarrotes,Productos Americanos
@@ -15955,6 +15990,7 @@ id_producto,producto,categoria,subcategoria
 669089,H&S SH MEN OLDSPICE 650ML X 10U,Cuidado Personal,Cuidado del Cabello
 669092,CREMA DENTAL TOTAL TARTAR ANTISARRO 3X75,Cuidado Personal,Cuidado Bucal
 669094,PACK OLA LV LIMON BOT 1.05L+VAJ 360ML,Cuidado del Hogar,Limpieza de Cocina
+669096,BANADOR RECTANGULAR CAFE 13.5 LTS,Cuidado del Hogar,Accesorios del Hogar
 669097,SECRET AT GEL WATERLILLY 45G X 12U,Cuidado Personal,Cuidado de la Piel
 669099,SECRET AT GEL POWDERPROT COTTON 73G X 12,Cuidado Personal,Cuidado de la Piel
 669100,SECRET AT GEL WATERLILLY 73GR X12U,Cuidado Personal,Cuidado de la Piel
