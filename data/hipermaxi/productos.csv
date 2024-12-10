@@ -1461,6 +1461,7 @@ id_producto,producto,categoria,subcategoria
 26040,GALLETA GULLON DUO CHOCOLATE 145G,Abarrotes,Galletas
 26041,GALLETA GULLON CHIP CHOCO ZERO 125G,Abarrotes,Dietéticos y Saludables
 26044,BEBIDA BELLA ROMA LTA 473ML,Bebidas,Licores
+26055,VINAGRE SAKURA MANZ ROJA PREMIUM 500ML,Abarrotes,Básicos
 26060,FERNET BUHERO NEGRO BOT 700ML,Bebidas,Licores
 26061,PACK GALLETA MABEL MULTISEMILLA 3X200G,Abarrotes,Galletas
 26064,CUBANITOS BONOBON LECHE 78GR,Abarrotes,Chocolates y Caramelos
@@ -1478,6 +1479,7 @@ id_producto,producto,categoria,subcategoria
 26106,CHOCOLATE BREICK RELL FRANBUEZA TAB 95G,Abarrotes,Chocolates y Caramelos
 26124,CHOCOLATE BREICK CABERTNET TAB 100G,Abarrotes,Chocolates y Caramelos
 26125,CHOCOLATE BREICK RELL MARACUYA TAB 95G,Abarrotes,Chocolates y Caramelos
+26128,GALLETA CREMOSITA TROPICAL MIX 228G,Abarrotes,Galletas
 26129,CHOCOLATE BREICK RELL UVA TAB 95G,Abarrotes,Chocolates y Caramelos
 26130,CHOCOLATE BREICK RELL FRUTILLA TAB 95G,Abarrotes,Chocolates y Caramelos
 26133,CHOCOLATE BREICK RELL PINA TAB 95G,Abarrotes,Chocolates y Caramelos
@@ -7112,6 +7114,7 @@ id_producto,producto,categoria,subcategoria
 240588,PACK DOVE ROL ON EXTRA FRESH BK 6X2X50ML,Cuidado Personal,Cuidado de la Piel
 240589,TRIPACK MI BEBE TOALLA HUMEDA 3X100 UNDS,Cuidado del Bebé,Cuidado del Bebé
 240610,AFTERSUN LECHE REP ECRAN F50 400ML,Cuidado Personal,Cuidado de la Piel
+240611,LECHE PROT + PISTOLA ECRAN F50 270ML,Cuidado Personal,Cuidado de la Piel
 240612,PACK ALGABO BABY SH Y AC Y ACEITE,Cuidado del Bebé,Cuidado del Bebé
 240615,ALGABO TALCO ANTIBACTERIAL 100GR,Cuidado Personal,Cuidado de la Piel
 240616,ALGABO TALCO ANTIBACTERIAL 200GR,Cuidado Personal,Cuidado de la Piel
@@ -7148,7 +7151,7 @@ id_producto,producto,categoria,subcategoria
 240673,"PACK AGUACATE SH + MASCARA, HAIR FOOD",Cuidado Personal,Cuidado del Cabello
 240694,TRIPACK SERVILLRTA ELITE PREMIUM X60,Cuidado Personal,Cuidado Familiar
 240697,PANAL PARA ADULTO PLUSSEC TALLA XG X 10,Cuidado Personal,Cuidado del Adulto
-240698,PANAL MI BEBE RECIEN NACIDO 20X8,Cuidado del Bebé,Pañales
+240698,Pañal Mi Bebe Recien Nacido 20 Und,Cuidado del Bebé,Pañales
 240778,Cereal En Linea Kids 330 gr,Abarrotes,Nutrición Infantil
 240850,Sal El Salerito de Mesa 130 gr,Abarrotes,Básicos
 240890,My Toffee Coco 600 gr,Abarrotes,Chocolates y Caramelos
@@ -8868,6 +8871,7 @@ id_producto,producto,categoria,subcategoria
 360742,Bombones Libertad Deluxe Rectangular 170 gr,Abarrotes,Chocolates y Caramelos
 360752,Jabon Liquido Carissa Hidratacion Floral 360 ml,Cuidado Personal,Cuidado de la Piel
 360753,Jabon Liquido Carissa Antibacterial Brisa Marina 360 ml,Cuidado Personal,Cuidado de la Piel
+360758,PASTILLA D/BANO TODO BRILLO BRISA MARINA,Cuidado del Hogar,Limpieza de Baños
 360780,Esponja Condor Multiuso 4 un,Cuidado del Hogar,Accesorios del Hogar
 360781,Esponja Condor Protector Uñas 1 un,Cuidado del Hogar,Accesorios del Hogar
 360782,Esponja Condor Multiuso 1 un,Cuidado del Hogar,Accesorios del Hogar
@@ -10760,6 +10764,7 @@ id_producto,producto,categoria,subcategoria
 519804,Surtido Chorizo Parrillero Hipermaxi al Vacio,Fiambres,Fiambres Hipermaxi
 520128,Tapsin Caliente DÍa Limon,Farmacia Otc,Sistema Respiratorio
 520136,Tapsin Caliente Noche Limon x 1 sob,Farmacia Otc,Sistema Respiratorio
+520300,CREMA DE PEINAR ALGABO RIZADOS 300 ML.,Cuidado Personal,Cuidado del Cabello
 520303,LOCION CORPORAL ALGABO HIDRAT.AVENA 400,Cuidado Personal,Cuidado de la Piel
 520304,LOCION CORPORAL ALGABO NUTRITIVA MIEL 40,Cuidado Personal,Cuidado de la Piel
 520305,LOCION CORPORAL ALGABO REPARADORA ALOE 4,Cuidado Personal,Cuidado de la Piel
@@ -12412,6 +12417,7 @@ id_producto,producto,categoria,subcategoria
 552972,BIOGURT PROBIOTICO LGG MANGO 1LT,Lácteos y Derivados,Yogures
 552974,BIOGURT PROBIOTICO LGG FRUTILLA 200ML,Lácteos y Derivados,Yogures
 552975,PILFRUT MARACUYA 190ML BOLSA,Lácteos y Derivados,Leches
+552991,POP TARTS FROSTED SMORES 13.5 OZ,Abarrotes,Productos Americanos
 552993,PACK 3 GELATINA FRAMBU 230G JARRA 1.5 LT,Abarrotes,Repostería
 554333,Cerveza Paceña Lata Roja 473 Cc,Bebidas,Cervezas
 554466,Detergente Liquido Ola Futuro Limpieza Completa 5 L,Cuidado del Hogar,Limpieza de la Ropa
@@ -13443,6 +13449,7 @@ id_producto,producto,categoria,subcategoria
 629748,MAS+ BY MESSI MIAMI PUNCH 500 ML,Bebidas,Bebidas Usa
 629749,MAS+ BY MESSI LIMON LIME LEAGUE 500 ML,Bebidas,Bebidas Usa
 629750,MAS+ BY MESSI BERRY COPA CRUSH 500 ML,Bebidas,Bebidas Usa
+629754,AGUA CARBONATADA SPRING WATER 828 ML,Bebidas,Bebidas Usa
 630010,Alimento Pedigree Cachorro 1.5 kg,Abarrotes,Mascotas
 630011,Gaseosa Crush Piña 355 ml,Bebidas,Bebidas Usa
 630012,Cereal Kelloggs Cocoa Krispies 439 gr,Abarrotes,Productos Americanos
@@ -14387,6 +14394,7 @@ id_producto,producto,categoria,subcategoria
 656675,PANETON CEAB 700GR. BOLSA CLASICO,Panadería,Panadería Externa
 656678,PANETON CEAB DE CHOCOLATE 700 GRS BOLSA,Panadería,Panadería Externa
 656683,PANETTONE ZELADA BOLSA 650 GR,Panadería,Panadería Externa
+656688,PANETTONE ZELADA BOMBOM CAJA  550GR.,Panadería,Panadería Externa
 656690,ROSCA DE FRUTAS ZELADA 600GR.,Pastelería y Masas Típicas,Pastelería Externa
 656691,ROSCA DE CANELA ZELADA 550GR,Pastelería y Masas Típicas,Pastelería Externa
 656700,Pan Molido Zelada 1 kg,Panadería,Panadería Externa
@@ -16005,6 +16013,7 @@ id_producto,producto,categoria,subcategoria
 669109,Perlas Potenciadoras De Aroma Downy April Fresh 680 gr,Cuidado del Hogar,Productos Americanos
 669110,Perlas Potenciadoras De Aroma Downy Fresh 345 gr,Cuidado del Hogar,Productos Americanos
 669111,Perlas Potenciadoras De Aroma Downy Lush 345 gr,Cuidado del Hogar,Productos Americanos
+669112,TIDE DET LIQ EFICIENTE ORIGINAL 1LT X6U,Cuidado del Hogar,Productos Americanos
 669113,Perlas Potenciadoras De Aroma Downy April Fresh 345 gr,Cuidado del Hogar,Productos Americanos
 669114,TIDE DET LIQ EFICIENTE C/DOWNY2.48LT X4U,Cuidado del Hogar,Productos Americanos
 669115,TIDE DET LIQ EFICIENTEORIGINAL 2.48L X4U,Cuidado del Hogar,Productos Americanos
@@ -16012,6 +16021,9 @@ id_producto,producto,categoria,subcategoria
 669117,GAIN DETERGENTE LIQUIDO ORIG 739MLX 6U,Cuidado del Hogar,Productos Americanos
 669118,GAIN DETERGENTE LIQUIDO ORIG. 1.36L X 6U,Cuidado del Hogar,Productos Americanos
 669119,DREFT DET LIQ ACTIVE BABY 1.36LT X6U,Cuidado del Hogar,Productos Americanos
+669120,DREFT DET LIQ ACTIVE BABY 2.72LT X4U,Cuidado del Hogar,Productos Americanos
+669121,DREFT DET LIQ NEW BORN 1.36LT X6U,Cuidado del Hogar,Productos Americanos
+669122,DREFT DET LIQ NEW BORN 2.72LT X4U,Cuidado del Hogar,Productos Americanos
 669123,TIDE PODS 3EN1 SPRING MEADOW 9PZA X6U,Cuidado del Hogar,Productos Americanos
 669901,Pizza Hipermaxi Congelada Hawaiana 620 gr,Congelados,Masas y Comidas Congeladas
 669902,Pizza Hipermaxi Congelada Jamon Queso Light Masa Integral,Congelados,Masas y Comidas Congeladas
