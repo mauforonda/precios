@@ -1435,6 +1435,7 @@ id_producto,producto,categoria,subcategoria
 25640,Surtido de Mariscos Robinson Crusoe Natural 190 gr,Abarrotes,Comidas en Conserva
 25771,Huevos Caisy 12 un,Lácteos y Derivados,Huevos
 25789,Galleta Rocklets Chocolate 118 gr,Abarrotes,Galletas
+25969,GALLETA GULLON GLUTEN FREE CHOCOL 200 GR,Abarrotes,Dietéticos y Saludables
 26000,Habas Charito Frita 160 gr,Abarrotes,Snack
 26001,SALSA D TOMATE KRIS DP 200G,Abarrotes,Salsas y Extracto de Tomate
 26002,SALSA KRIS P PIZZA DP 200G,Abarrotes,Salsas y Extracto de Tomate
@@ -1461,12 +1462,14 @@ id_producto,producto,categoria,subcategoria
 26040,GALLETA GULLON DUO CHOCOLATE 145G,Abarrotes,Galletas
 26041,GALLETA GULLON CHIP CHOCO ZERO 125G,Abarrotes,Dietéticos y Saludables
 26044,BEBIDA BELLA ROMA LTA 473ML,Bebidas,Licores
+26047,VINO LUCA BESO D DANTE RED BLEND 750ML,Bebidas,Vinos y Champagne
 26055,VINAGRE SAKURA MANZ ROJA PREMIUM 500ML,Abarrotes,Básicos
 26060,FERNET BUHERO NEGRO BOT 700ML,Bebidas,Licores
 26061,PACK GALLETA MABEL MULTISEMILLA 3X200G,Abarrotes,Galletas
 26064,CUBANITOS BONOBON LECHE 78GR,Abarrotes,Chocolates y Caramelos
 26065,BOTA BON O BON NAVIDENA DP 150G,Abarrotes,Temporada
 26070,GALLETA GULLON DESAYUNO INTEGRAL ZERO 21,Abarrotes,Dietéticos y Saludables
+26071,GALLETA GULLON DESAYUNO AVENA CHIPS 220G,Abarrotes,Dietéticos y Saludables
 26072,GALLETA GULLON SANDWICH AVENA SIN GLUT 2,Abarrotes,Dietéticos y Saludables
 26082,CEREAL CHOCOLIKE ALMOHADITAS CHOCOL 200G,Abarrotes,Nutrición Infantil
 26088,PACK 2 GALLETAS CHIPS AHOY 222G,Abarrotes,Galletas
@@ -1483,6 +1486,7 @@ id_producto,producto,categoria,subcategoria
 26129,CHOCOLATE BREICK RELL UVA TAB 95G,Abarrotes,Chocolates y Caramelos
 26130,CHOCOLATE BREICK RELL FRUTILLA TAB 95G,Abarrotes,Chocolates y Caramelos
 26133,CHOCOLATE BREICK RELL PINA TAB 95G,Abarrotes,Chocolates y Caramelos
+26135,CHOCOLATE BRECIK CANDY RICE TAB 100G,Abarrotes,Chocolates y Caramelos
 26874,Whisky Johnnie Walker 18 Años 750 ml,Bebidas,Licores
 27100,MASMELOS TRULULU FRANKI BSA 50G,Abarrotes,Golosinas - Varias
 27101,MASMELOS TRULULU CHOCO VAINILLA 50G,Abarrotes,Golosinas - Varias
@@ -2476,6 +2480,7 @@ id_producto,producto,categoria,subcategoria
 35116,Cafe Illy Medium Molido 125 gr,Abarrotes,Café y Sucedáneos
 35133,Salsa de Tomate Goya 8 oz,Abarrotes,Salsas y Extracto de Tomate
 35401,Cereal Princesa Nutrifibra 400 gr,Abarrotes,Nutrición Infantil
+35403,CHOCOLATE BREICK SEMIAMARGO TAB 100G,Abarrotes,Chocolates y Caramelos
 35788,Pepinillo Brixy Entero 450 gr,Abarrotes,Verduras en Conserva
 35789,Pepinillo Brixy Rodajas 450 gr,Abarrotes,Verduras en Conserva
 35790,Pepinillo Brixy Bastones 450 gr,Abarrotes,Verduras en Conserva
@@ -3872,7 +3877,7 @@ id_producto,producto,categoria,subcategoria
 107216,Galleta La Suprema Ula Ula Chocolate 300 gr,Abarrotes,Galletas
 107218,Mani Amindus Sabor Tocino 110 gr,Abarrotes,Snack
 107484,Cebolla Badia Polvo 7 oz,Abarrotes,Condimentos y Legumbres
-107492,Jarabe Pancake Wafle Syrup 709 ml,Abarrotes,Internacional
+107492,Jarabe Pancake Wafle Syrup 709 ml,Abarrotes,Productos Americanos
 107709,Aceite Oliva Zaeli Ext Virg Vd 500 Ml,Abarrotes,Básicos
 107715,Mezcla Zaeli Brownie Pouch 450 gr,Abarrotes,Repostería
 107717,Ketchup Zaeli 400 gr,Abarrotes,Aderezos
@@ -7778,6 +7783,7 @@ id_producto,producto,categoria,subcategoria
 312290,Huevo Bon o Bon Leche 110 gr,Abarrotes,Temporada
 312711,Lustramueble Archer Recarga 860 ml,Cuidado del Hogar,Limpieza de Living y Ropero
 312959,Salsa Soya Kikkoman Lite 10 oz,Abarrotes,Condimentos y Legumbres
+313009,Salsa Picante Crystal 355 ml,Abarrotes,Productos Americanos
 313119,Jabon Barra Cavallaro Coco Marina 100 gr,Cuidado Personal,Cuidado de la Piel
 313132,Lavavajilla Siempre Limon 1200 ml,Cuidado del Hogar,Limpieza de Cocina
 313133,Lavavajilla Siempre Limon 500 ml,Cuidado del Hogar,Limpieza de Cocina
@@ -12383,6 +12389,7 @@ id_producto,producto,categoria,subcategoria
 552891,BEBIDA PROTEICA DELIZIA PINA BOT 500 ML,Bebidas,Energizantes
 552893,PANETTONE VAINILLA CON CHIPS DE CHOC CEIBO 750 GR BSA,Panadería,Panadería Externa
 552898,BARRA FOODNESS PROTEINA CJA 420 GR,Abarrotes,Nutrición Infantil
+552900,BARRA FOODNESS ENERGIA CJA 300 GR,Abarrotes,Nutrición Infantil
 552901,SULTANA ORANGE CUP BSA 160 GR,Abarrotes,Café y Sucedáneos
 552902,RON CORTEZ BLANCO 1 LITRO,Bebidas,Licores
 552904,PANETONNE CON CHIPS DE CHOCOLATE CEIBO 750 GR BSA,Panadería,Panadería Externa
@@ -12406,6 +12413,7 @@ id_producto,producto,categoria,subcategoria
 552938,CAFE ESENCIA DRIP COFFE 10 UN,Abarrotes,Café y Sucedáneos
 552939,PIPOCAS IL CIBO 150 GR,Abarrotes,Snack
 552941,QUINUA REAL BLANCA GRAN ORO 400 GRS,Abarrotes,Nutrición Infantil
+552942,QUINUA REAL NEGRA GRAN ORO 400 GRS,Abarrotes,Nutrición Infantil
 552945,QUINUA TOSTADA GRAN ORO 250 GRS.,Abarrotes,Nutrición Infantil
 552946,QUINUA REAL MIXTA GRAN ORO 400 GRS.,Abarrotes,Nutrición Infantil
 552966,NECTAR DEL SOL DURAZNO TETRA 200ML,Bebidas,"Jugos, Néctar"
@@ -12417,6 +12425,7 @@ id_producto,producto,categoria,subcategoria
 552972,BIOGURT PROBIOTICO LGG MANGO 1LT,Lácteos y Derivados,Yogures
 552974,BIOGURT PROBIOTICO LGG FRUTILLA 200ML,Lácteos y Derivados,Yogures
 552975,PILFRUT MARACUYA 190ML BOLSA,Lácteos y Derivados,Leches
+552986,GALLETAS DANESAS DE MANTEQUILLAA 16 OZ,Abarrotes,Productos Americanos
 552991,POP TARTS FROSTED SMORES 13.5 OZ,Abarrotes,Productos Americanos
 552993,PACK 3 GELATINA FRAMBU 230G JARRA 1.5 LT,Abarrotes,Repostería
 554333,Cerveza Paceña Lata Roja 473 Cc,Bebidas,Cervezas
@@ -12930,6 +12939,7 @@ id_producto,producto,categoria,subcategoria
 610262,Alessi Deditos Grissini Torinesi 85 gr,Abarrotes,Productos Americanos
 610265,Paprika Badia Ahumada 16 oz,Abarrotes,Condimentos y Legumbres
 610268,Sazonador Turmeric Curcuma Badia 56.7 gr,Abarrotes,Productos Americanos
+610271,ALMOND BREEZE LECHE DE COCO BLEND 946ML,Lácteos y Derivados,Leches
 610283,Cera Tigre Sachet 500 ml,Cuidado del Hogar,Limpieza de Living y Ropero
 610293,Agua Pellegrino 500 ml,Bebidas,Bebidas Usa
 610294,Lays French Onion 425.2 gr,Abarrotes,Productos Americanos
@@ -12952,6 +12962,7 @@ id_producto,producto,categoria,subcategoria
 610754,Aceite Lee Kum Kee de Ajonjoli 207 ml,Abarrotes,Dietéticos y Saludables
 610764,Salsa Leekumkee Agridulce 240 gr,Abarrotes,Condimentos y Legumbres
 610984,Chocolate Sapito Mani 300 gr,Abarrotes,Chocolates y Caramelos
+611074,LUCKY CHARMS CEREAL EN VASO 48 GR,Abarrotes,Productos Americanos
 611077,Pimienta Negra McCormick 28 gr,Abarrotes,Condimentos y Legumbres
 611751,Pan Molde Leo Nothmann Molde,Panadería,Panadería Externa
 611794,Pan Vollkornbrot Leono Thmann,Panadería,Panadería Externa
@@ -13450,6 +13461,7 @@ id_producto,producto,categoria,subcategoria
 629749,MAS+ BY MESSI LIMON LIME LEAGUE 500 ML,Bebidas,Bebidas Usa
 629750,MAS+ BY MESSI BERRY COPA CRUSH 500 ML,Bebidas,Bebidas Usa
 629754,AGUA CARBONATADA SPRING WATER 828 ML,Bebidas,Bebidas Usa
+629759,CEREAL KELLOGS CRUMBL CHOC CHIP 592 GR,Abarrotes,Productos Americanos
 630010,Alimento Pedigree Cachorro 1.5 kg,Abarrotes,Mascotas
 630011,Gaseosa Crush Piña 355 ml,Bebidas,Bebidas Usa
 630012,Cereal Kelloggs Cocoa Krispies 439 gr,Abarrotes,Productos Americanos
@@ -13745,6 +13757,7 @@ id_producto,producto,categoria,subcategoria
 650473,Jugo Pacha Linaza 500 ml,Bebidas,"Jugos, Néctar"
 650474,Te Frutte Mix Hierbas Frutas Deshidratada 160 gr,Abarrotes,Café y Sucedáneos
 650475,Galleta Rico Crack Cachorro Multisabores 200 gr,Abarrotes,Mascotas
+650501,MERMELADA DE GUAYABA CLEMENTINA FCO 480,Abarrotes,"Mermel, Mieles"
 650527,Pechuga con Hueso Sofia Bandeja kg,Carnes,Carne de Pollo
 650534,Pierna de Pollo Sofia Bandeja kg,Carnes,Carne de Pollo
 650543,Cafe Monterrey Instantaneo 50 un,Abarrotes,Café y Sucedáneos
@@ -16187,6 +16200,7 @@ id_producto,producto,categoria,subcategoria
 670721,Cepillo Profi Baño con Base,Cuidado del Hogar,Accesorios del Hogar
 670723,Bolsa Basura Virutex Biorollo 70x90,Cuidado del Hogar,Accesorios del Hogar
 670756,Queso de Untar Colinas del Sol Trucha Ahumada,Lácteos y Derivados,Quesos
+670771,MERMELADA DIET DE FRUTILLA CLEMENTINA (L,Abarrotes,Dietéticos y Saludables
 670790,Pan Integral Irupana Amaranto 500 gr,Panadería,Panadería Externa
 670791,Pan Integral Irupana Anis 500 gr,Panadería,Panadería Externa
 670792,Pan Integral Irupana Quinua 500 gr,Panadería,Panadería Externa
@@ -17445,6 +17459,7 @@ id_producto,producto,categoria,subcategoria
 674315,ACEITUNAS VERDES EN SALMUERA KILOGRAMO,Fiambres,Fiambres Externos
 674316,ACEITUNAS NEGRAS EN SALMUERA KILOGRAMO,Fiambres,Fiambres Externos
 674317,HELADO NORDLAND 500ML SABORES SURTIDOS,Congelados,"Helados, Cassattas y Picoleses"
+674319,QUESO CRIOLLO GUARUJA KILOGRAMO,Lácteos y Derivados,Quesos
 675245,Miel de Abeja Eva Promiel 250 gr,Abarrotes,"Mermel, Mieles"
 676113,Habanito Bits Cream Coojies Cream 120 gr,Congelados,"Helados, Cassattas y Picoleses"
 676115,HABANITO BITS CREAM DULCE DE LECHE 120GRS,Congelados,"Helados, Cassattas y Picoleses"
@@ -18407,7 +18422,7 @@ id_producto,producto,categoria,subcategoria
 782314,Queso Edam La Purita 500 gr,Lácteos y Derivados,Quesos
 782317,Mix Eterovic Mini Budines 4 Sabores 700 gr,Pastelería y Masas Típicas,Pastelería Externa
 782338,Albondigas de Res Sofia Caja 15 un,Congelados,Carnes Congeladas
-782347,CROCSITOS CUNAPE ABIZCOCHADO 100 GRS.,Pastelería y Masas Típicas,Masas Típicas Externas
+782347,CUÑAPE ABIZCOCHADO CROCSITOS 100 GR,Pastelería y Masas Típicas,Masas Típicas Externas
 782349,Helado Delizia Pancho Paleta,Congelados,"Helados, Cassattas y Picoleses"
 782413,Jamon Ahumado Ovoplus 200 gr,Fiambres,Fiambres Externos
 782416,Queso Sandwichero Queseria Suiza Feteado 250 gr,Lácteos y Derivados,Quesos
