@@ -1487,6 +1487,10 @@ id_producto,producto,categoria,subcategoria
 26130,CHOCOLATE BREICK RELL FRUTILLA TAB 95G,Abarrotes,Chocolates y Caramelos
 26133,CHOCOLATE BREICK RELL PINA TAB 95G,Abarrotes,Chocolates y Caramelos
 26135,CHOCOLATE BRECIK CANDY RICE TAB 100G,Abarrotes,Chocolates y Caramelos
+26139,GALLETA ARTESANA ROSQUITAS VAINILLA 180G,Abarrotes,Galletas
+26146,PIPOCA LOCA CAMARO SALADA TOCINO 70G,Abarrotes,Snack
+26148,PIPOCA LOCA CAMARO SALADA QUESO 70G,Abarrotes,Snack
+26161,PICO PICO SNACK CAMARO PIZZA 120G,Abarrotes,Snack
 26874,Whisky Johnnie Walker 18 Años 750 ml,Bebidas,Licores
 27100,MASMELOS TRULULU FRANKI BSA 50G,Abarrotes,Golosinas - Varias
 27101,MASMELOS TRULULU CHOCO VAINILLA 50G,Abarrotes,Golosinas - Varias
@@ -1584,6 +1588,7 @@ id_producto,producto,categoria,subcategoria
 29140,BEBIDA CRAZY SUNSET GOLD LTA 473ML,Bebidas,Licores
 29141,BEBIDA CRAZY BERRIES LTA 473ML,Bebidas,Licores
 29142,VINAGRE JE D COCO PET 1LT,Abarrotes,Dietéticos y Saludables
+29148,GASEOSA HIGH SODA ACAI LTA 350ML,Bebidas,Gaseosas
 29150,MASTICABLE NEX SANDIA CJA 336G,Abarrotes,Golosinas - Varias
 29152,AGUA L CABANA SIN GAS SPORT 1LT,Bebidas,Aguas
 29153,LIMONADA L CABANA CERO AZUC 1LT,Bebidas,Gaseosas
@@ -6162,6 +6167,7 @@ id_producto,producto,categoria,subcategoria
 220725,Jabon Liquido Aval Lavanda 800 ml,Cuidado Personal,Cuidado de la Piel
 220726,Jabon Liquido Aval Rosa 800 ml,Cuidado Personal,Cuidado de la Piel
 220727,Jabon Liquido Aval Limon 800 ml,Cuidado Personal,Cuidado de la Piel
+220729,Cicatricure Beauty Care 50 gr,Cuidado Personal,Cuidado de la Piel
 220740,TP NOVA ULTRA ABSORBENTE 12X1,Cuidado del Hogar,Limpieza de Cocina
 220741,TP NOVA ULTRA ABSORBENTE 6 X 2,Cuidado del Hogar,Limpieza de Cocina
 220742,Betun Liquido Todo Brillo Negro 70 ml,Cuidado del Hogar,Limpieza de Zapatos
@@ -10061,6 +10067,7 @@ id_producto,producto,categoria,subcategoria
 451967,Refresco Zuko Frambuesa 20 gr,Bebidas,Refrescos en Polvo
 452144,Cepillo Dental Foramen Xtreme Junior Medio 1 un,Cuidado Personal,Cuidado Bucal
 452147,Silka Medic Pie Atleta x 15 gr,Farmacia Éticos,Dermatológicos
+452287,Cicatricure Gel 30 gr,Cuidado Personal,Cuidado de la Piel
 452291,BATON ORIGINAL X UND  COD FARMA,Abarrotes,Temporada
 452390,Shampoo Medicasp Anticaspa 130 ml,Cuidado Personal,Cuidado del Cabello
 452612,Shampoo Tio Nacho Herbolaria Milar 2 un 415 ml,Cuidado Personal,Cuidado del Cabello
@@ -10114,6 +10121,7 @@ id_producto,producto,categoria,subcategoria
 455791,Cepillo Dental Foramen Unipenacho 1 un,Cuidado Personal,Cuidado Bucal
 455830,Servilletas Elite Practica 100 un,Cuidado Personal,Cuidado Familiar
 455849,Servilletas Elite Doblada 100 un,Cuidado Personal,Cuidado Familiar
+455851,Prudence Ultra Sensible Preservativo Caja x 3 unid,Farmacia Otc,Varios
 455863,Alcohol Gel Jamsa Neutro 360 ml,Cuidado Personal,Cuidado de la Piel
 455864,Alcohol Gel Jamsa Neutro 1 L,Cuidado Personal,Cuidado de la Piel
 455885,Preservativo Inspiral Tsunami 48 Caja x 3 und,Farmacia Otc,Varios
@@ -12408,6 +12416,7 @@ id_producto,producto,categoria,subcategoria
 552918,GALLETAS MANTEQUILLA SIN AZUCAR 310GR,Abarrotes,Productos Americanos
 552920,Vino Hipermaxi 30 Años 750 ml,Bebidas,Vinos y Champagne
 552924,BITS DE FRUTILLA HI Q 35 GR,Abarrotes,Frutas en Conserva
+552931,PIQUEO YOGGIUES FRUTILLA S/GLUTEN 20GR,Abarrotes,Golosinas - Varias
 552933,LENTEJA PREMIUM GRAN ORO 400 GRS,Abarrotes,Nutrición Infantil
 552936,GALLETAS GULLON DIGESTIVE ZERO 400G,Abarrotes,Dietéticos y Saludables
 552938,CAFE ESENCIA DRIP COFFE 10 UN,Abarrotes,Café y Sucedáneos
@@ -12428,6 +12437,7 @@ id_producto,producto,categoria,subcategoria
 552986,GALLETAS DANESAS DE MANTEQUILLAA 16 OZ,Abarrotes,Productos Americanos
 552991,POP TARTS FROSTED SMORES 13.5 OZ,Abarrotes,Productos Americanos
 552993,PACK 3 GELATINA FRAMBU 230G JARRA 1.5 LT,Abarrotes,Repostería
+553019,TOALLA DE PAPEL POM 100 HOJAS,Cuidado del Hogar,Productos Americanos
 554333,Cerveza Paceña Lata Roja 473 Cc,Bebidas,Cervezas
 554466,Detergente Liquido Ola Futuro Limpieza Completa 5 L,Cuidado del Hogar,Limpieza de la Ropa
 554468,Suavizante Ropa Ola Suavecito Original 5 L,Cuidado del Hogar,Limpieza de la Ropa
@@ -14545,6 +14555,7 @@ id_producto,producto,categoria,subcategoria
 657275,Barra Cereal Ajonjoli Pasas 12 un,Abarrotes,Nutrición Infantil
 657276,Jugo Ice Fruit Citrus Punch 3 L,Bebidas,"Jugos, Néctar"
 657306,Pimienta Negra Badia Molida 16 oz,Abarrotes,Condimentos y Legumbres
+657309,Aceite Virgen Kirkland de Coco Organico 84 oz,Abarrotes,Productos Americanos
 657331,Fideo Las Acacias Natural Tirabuzon 400 gr,Abarrotes,Básicos
 657350,Salsa Molho Toscano de Soya 150 gr,Abarrotes,Condimentos y Legumbres
 657352,Salsa Molho Toscano Pimienta 1010 ml,Abarrotes,Aderezos
@@ -15966,6 +15977,7 @@ id_producto,producto,categoria,subcategoria
 668987,MAR ANTIBAC PIEL CUIDADA 300 ML,Cuidado Personal,Cuidado de la Piel
 668990,MAR COCO OCEANO AZUL -3PACK 375 GR,Cuidado Personal,Cuidado de la Piel
 668995,JABON DE GLICERINA FLORESTA ALOE VERA 10,Cuidado Personal,Cuidado de la Piel
+668996,JABON DE GLICERINA FLORESTA BEBE 100G,Cuidado del Bebé,Cuidado del Bebé
 668997,MAR ANTIBAC SOFT SKIN-3PACK 375 GR,Cuidado Personal,Cuidado de la Piel
 668998,MAR ANTIBAC KIDS -3PACK 270 GR,Cuidado Personal,Cuidado de la Piel
 668999,MAR COCO ALMENDRA Y VAINILLA  90 GR,Cuidado Personal,Cuidado de la Piel
@@ -17033,6 +17045,7 @@ id_producto,producto,categoria,subcategoria
 673477,Wrap Tradicional Jasmine Sin Gluten 240 gr,Congelados,Masas y Comidas Congeladas
 673478,Wrap Chia Linaza Jasmine Sin Gluten 240 gr,Congelados,Masas y Comidas Congeladas
 673479,Tortillas Wrap Jamine Espinaca Sin Gluten 240 gr,Congelados,Masas y Comidas Congeladas
+673480,PI PO TON TRADICIONAL CHOCOLATE BOLSA CA,Panadería,Panadería Externa
 673488,Yogurt Griego Tolavi Natural Descremado Sin Azucar 800 ml,Lácteos y Derivados,Yogures
 673489,Yogurt Griego Tolavi Natural Sin Azucar 160 gr,Lácteos y Derivados,Yogures
 673491,Yogurt Griego Tolavi Jalea Durazno 160 gr,Lácteos y Derivados,Yogures
@@ -19690,6 +19703,7 @@ id_producto,producto,categoria,subcategoria
 843407,"PAN.8123 CUCHILLOS 8PZAS 8"", 8"", 8"", 5"", 3.5""",Bazar Importación,Cocina General
 843444,PAN 5124 BOTELLA 1200ML TRANSPARENTE NEGRO VIDRIO SODALIME,Bazar Importación,Menaje Vidrio/Cristal
 843466,PAN.2424 COOLER 4QT,Bazar Importación,Camping General
+843469,PAN 2683 RAQUETA MATA MOSQUITO BATERIA,Bazar Importación,Camping General
 843514,PAN RELOJ DE PARED,Bazar Importación,Living y Dormitorio
 843813,"CH.Y34-3 CUCHILLOS COLOR CAFE CON NEGRO, SET*6 PZAS",Bazar Importación,Cocina General
 843814,CH.Y34-4 CUCHILLOS COLOR ROJO  SETX6 PZAS,Bazar Importación,Cocina General
@@ -21401,6 +21415,7 @@ id_producto,producto,categoria,subcategoria
 910980,Mini Hueso Pushky Super,Bazar,Mascotas General
 911199,Film Plastico Ilko Adherente 20 m,Bazar,Articulos de Cocina
 911778,RESALTADORES STABILO X4 COLOR BOSS,Bazar,Librería
+911905,Muñeca Barbie Basica,Juguetería,Juguetería Niña/Bebé
 913226,Nota de Venta Grande,Bazar,Librería
 913227,ALED RECIBO GRANDE DE BS 12,Bazar,Librería
 913279,CA JUG MUNECA DE BS 65,Juguetería,Juguetería Niña/Bebé
