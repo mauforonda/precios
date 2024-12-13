@@ -1487,9 +1487,17 @@ id_producto,producto,categoria,subcategoria
 26130,CHOCOLATE BREICK RELL FRUTILLA TAB 95G,Abarrotes,Chocolates y Caramelos
 26133,CHOCOLATE BREICK RELL PINA TAB 95G,Abarrotes,Chocolates y Caramelos
 26135,CHOCOLATE BRECIK CANDY RICE TAB 100G,Abarrotes,Chocolates y Caramelos
+26138,GALLETA ARTESANA ROSQUITAS COCO 180G,Abarrotes,Galletas
 26139,GALLETA ARTESANA ROSQUITAS VAINILLA 180G,Abarrotes,Galletas
+26144,CUNAPE CAMARO T BRASIL QUESO 85G,Abarrotes,Snack
+26145,CUNAPE CAMARO T BRASIL MANTEQ 85G,Abarrotes,Snack
 26146,PIPOCA LOCA CAMARO SALADA TOCINO 70G,Abarrotes,Snack
+26147,PIPOCA LOCA CAMARO SALADA MANTEQ 70G,Abarrotes,Snack
 26148,PIPOCA LOCA CAMARO SALADA QUESO 70G,Abarrotes,Snack
+26156,PIPOCA LOCA CAMARO DULCE COCO 110G,Abarrotes,Snack
+26157,PIPOCA LOCA CAMARO DULCE BANANA 110G,Abarrotes,Snack
+26158,PIPOCA LOCA CAMARO DULCE VAINILLA 110G,Abarrotes,Snack
+26159,PICO PICO SNACK CAMARO CHURRASCO 120G,Abarrotes,Snack
 26161,PICO PICO SNACK CAMARO PIZZA 120G,Abarrotes,Snack
 26874,Whisky Johnnie Walker 18 Años 750 ml,Bebidas,Licores
 27100,MASMELOS TRULULU FRANKI BSA 50G,Abarrotes,Golosinas - Varias
@@ -3065,6 +3073,7 @@ id_producto,producto,categoria,subcategoria
 100480,Cereal Nestle Trix 480 gr,Abarrotes,Nutrición Infantil
 100496,Aceite Gallo Extra Virgen 750 ml,Abarrotes,Básicos
 100504,Mani Crispy Chips Salado 200 gr,Abarrotes,Snack
+100505,Mani Crispy Chips Salado 500 gr,Abarrotes,Snack
 100506,Sopa Instantanea Maruchan Camaron Picante 85 gr,Abarrotes,Básicos
 100514,Mayonesa Kraft With Olive 354 ml,Abarrotes,Productos Americanos
 100525,Vinagre Doña Filo Piña 750 ml,Abarrotes,Básicos
@@ -5604,6 +5613,7 @@ id_producto,producto,categoria,subcategoria
 162042,Limpiador Desinfectante Procenex Jazmin 900 ml,Cuidado del Hogar,Limpieza de Baños
 162043,Limpiador Desinfectante Procenex Jazmin 1.8 L,Cuidado del Hogar,Limpieza de Baños
 162068,Pack Hamburguesa Hipermaxi 24 un,Congelados,Carnes Congeladas
+162104,PERNIL AHUMADO HIPERMAXI KG,Fiambres,Fiambres Hipermaxi
 162434,Alfajor Arcor Tatin Blanco 33 gr,Abarrotes,Golosinas - Varias
 162450,Mani Arcor Bañado Chocolate 35 gr,Abarrotes,Golosinas - Varias
 162515,Mascarilla Elvive Hidra Hidratacion 300 ml,Cuidado Personal,Cuidado del Cabello
@@ -7163,6 +7173,7 @@ id_producto,producto,categoria,subcategoria
 240694,TRIPACK SERVILLRTA ELITE PREMIUM X60,Cuidado Personal,Cuidado Familiar
 240697,PANAL PARA ADULTO PLUSSEC TALLA XG X 10,Cuidado Personal,Cuidado del Adulto
 240698,Pañal Mi Bebe Recien Nacido 20 Und,Cuidado del Bebé,Pañales
+240726,SERVILLETA HOGAR NAVIDENA X60UN  1X18,Cuidado Personal,Cuidado Familiar
 240778,Cereal En Linea Kids 330 gr,Abarrotes,Nutrición Infantil
 240850,Sal El Salerito de Mesa 130 gr,Abarrotes,Básicos
 240890,My Toffee Coco 600 gr,Abarrotes,Chocolates y Caramelos
@@ -8883,6 +8894,7 @@ id_producto,producto,categoria,subcategoria
 360742,Bombones Libertad Deluxe Rectangular 170 gr,Abarrotes,Chocolates y Caramelos
 360752,Jabon Liquido Carissa Hidratacion Floral 360 ml,Cuidado Personal,Cuidado de la Piel
 360753,Jabon Liquido Carissa Antibacterial Brisa Marina 360 ml,Cuidado Personal,Cuidado de la Piel
+360756,PASTILLA D/BANO TODO BRILLO FLORAL 25 GR,Cuidado del Hogar,Limpieza de Baños
 360758,PASTILLA D/BANO TODO BRILLO BRISA MARINA,Cuidado del Hogar,Limpieza de Baños
 360780,Esponja Condor Multiuso 4 un,Cuidado del Hogar,Accesorios del Hogar
 360781,Esponja Condor Protector Uñas 1 un,Cuidado del Hogar,Accesorios del Hogar
@@ -9066,6 +9078,7 @@ id_producto,producto,categoria,subcategoria
 368555,Pack Energizante Ciclon 500 ml,Bebidas,Energizantes
 368570,Salsa Soya Chawei 1 L,Abarrotes,Condimentos y Legumbres
 368572,Salsa Soya Chawei 500 ml,Abarrotes,Condimentos y Legumbres
+368580,Arroz Coradini Tipo 1 1 kg,Abarrotes,Básicos
 368741,Gelatina de Pata Kiko Dietetica 20 gr,Abarrotes,Dietéticos y Saludables
 368871,Pack Maya Uvas Negras 147 gr,Abarrotes,Frutas en Conserva
 368875,Pack 2 Mix Frutos Secos Maya 147 gr,Abarrotes,Snack
@@ -10284,6 +10297,8 @@ id_producto,producto,categoria,subcategoria
 470121,Mejillones Robinson Crusoe en Escabeche 175 gr,Abarrotes,Comidas en Conserva
 470123,Salmon Robinson Crusoe Trozos Aceite de Girasol 190 gr,Abarrotes,Comidas en Conserva
 470124,Cocoa Winter 150 gr,Abarrotes,Repostería
+470127,Mani Crokissimo Picante Japones 400 gr,Abarrotes,Snack
+470129,Mani Crokissimo con Cebolla 400 gr,Abarrotes,Snack
 470151,Comino McCormick Ground 42 gr,Abarrotes,Condimentos y Legumbres
 470279,Queso Tholem Clasico Sancor 190 gr,Lácteos y Derivados,Quesos
 470457,Harina Princesa Leudante 0000 1 kg,Abarrotes,Básicos
@@ -11143,6 +11158,7 @@ id_producto,producto,categoria,subcategoria
 550408,Six Pack Cerveza Uyuni Lager 330 ml,Bebidas,Cervezas
 550409,Sixpack Cerveza Uyuni Cristales 330 ml,Bebidas,Cervezas
 550410,Quinua Mixta Sumaj Yapay 400 gr,Abarrotes,Nutrición Infantil
+550411,VINO SANTA ANA BLANCO CLASICO 750 ML,Bebidas,Vinos y Champagne
 550414,Barra Quinua con Chia Chocolatada 30 gr,Abarrotes,Nutrición Infantil
 550415,Six Pack Quinua Pop Quinut 20 gr,Abarrotes,Nutrición Infantil
 550425,Café Irupana 100 Puro en Grano 500 gr,Abarrotes,Café y Sucedáneos
@@ -11419,6 +11435,7 @@ id_producto,producto,categoria,subcategoria
 551008,Chocolate Valor Menta 70 Cacao 100 gr,Abarrotes,Chocolates y Caramelos
 551009,Chocolate Valor 70 Cacao Caramelo Sal 100 gr,Abarrotes,Chocolates y Caramelos
 551011,Chocolate Valor Leche Avellana Stevia 100 gr,Abarrotes,Chocolates y Caramelos
+551012,Chocolate Valor 82 Cacao Intenso 100 gr,Abarrotes,Chocolates y Caramelos
 551021,Vino Tinto Reserva 2017 Beronia 750 ml,Bebidas,Vinos y Champagne
 551022,Vino Tinto Crianza 2018 Beronia 750 ml,Bebidas,Vinos y Champagne
 551024,Vino Jerez Gonzales Solera Cream 750 ml,Bebidas,Vinos y Champagne
@@ -12738,7 +12755,7 @@ id_producto,producto,categoria,subcategoria
 593762,Salsa Promos Bbq Hickory 510 gr,Abarrotes,Aderezos
 593765,Salsa Promos Ranch Light Dressing 473 ml,Abarrotes,Aderezos
 595871,Gaseosa Guarana Antartica 3 L,Bebidas,Gaseosas
-597007,Vino Casillero del Diablo Cabernet Suavignon Reservado 750 ml,Bebidas,Vinos y Champagne
+597007,Vino Concha y Toro Reservado Cabernet Suavignon,Bebidas,Vinos y Champagne
 597082,Vino Casillero del Diablo Merlot 750 ml,Bebidas,Vinos y Champagne
 597163,Vino Casillero del Diablo Malbec 750 ml,Bebidas,Vinos y Champagne
 599409,Gaseosa Coca Cola Cherry USA 355 ml,Bebidas,Bebidas Usa
@@ -13151,6 +13168,7 @@ id_producto,producto,categoria,subcategoria
 617996,Mani Lucana Salado 390 gr,Abarrotes,Snack
 618039,Cafe Royal Especial En Grano 500 gr,Abarrotes,Café y Sucedáneos
 618047,Cafe Royal Corriente 1 kg,Abarrotes,Café y Sucedáneos
+618068,JUGO EVERFRESH  RUBY  RED GRAPEFRU 16OZ,Bebidas,Bebidas Usa
 618073,SNACK PACK BANANA CREAM PIE 13OZ,Lácteos y Derivados,Postres
 618114,LOCOTO 1KG,Frutas y Verduras,Verduras
 618214,Arveja Desgranada 1 kg,Frutas y Verduras,Verduras
@@ -13429,6 +13447,7 @@ id_producto,producto,categoria,subcategoria
 629486,Agua de Coco Trufarm Original 500 ml,Bebidas,Bebidas Usa
 629495,Vinagre Bragg de Manzana 473 ml,Abarrotes,Productos Americanos
 629556,Caramelo Lucas Muecas Cereza 25 gr,Abarrotes,Productos Americanos
+629557,Caramelo Kidsmania Quick Blast Sour 57 gr,Abarrotes,Productos Americanos
 629565,Galleta Lata Navideña Mantequilla 114 gr,Abarrotes,Productos Americanos
 629566,Galleta Forma de Barquillo Vainilla 114 gr,Abarrotes,Productos Americanos
 629568,Galleta Navideña Mantequilla 300 gr,Abarrotes,Productos Americanos
@@ -13464,9 +13483,11 @@ id_producto,producto,categoria,subcategoria
 629728,Bebida Hidratante Prime limonada 500 ML,Bebidas,Bebidas Usa
 629729,Hidratante Prime Frutilla Melon 500 ml,Bebidas,Bebidas Usa
 629730,MAYONESA KRAFT DELI 90 GR,Abarrotes,Productos Americanos
+629734,GALLETAS SALADAS BAKED QUESO CHEDDAR 351GR,Abarrotes,Productos Americanos
 629744,KRAFT HEINZ PONCHE TROPICAL 0.18ML,Bebidas,Bebidas Usa
 629745,KRAFT HEINZ SABOR CEREZA KOOL AID 0.18 ML,Bebidas,Bebidas Usa
 629746,KRAFT HEINZ SABOR UVA KOOL AID 0.18 ML,Bebidas,Bebidas Usa
+629747,MARTINELLI'S BEBIDA SPARKLING APPLE CIDER 750ML,Bebidas,Bebidas Usa
 629748,MAS+ BY MESSI MIAMI PUNCH 500 ML,Bebidas,Bebidas Usa
 629749,MAS+ BY MESSI LIMON LIME LEAGUE 500 ML,Bebidas,Bebidas Usa
 629750,MAS+ BY MESSI BERRY COPA CRUSH 500 ML,Bebidas,Bebidas Usa
@@ -14743,6 +14764,7 @@ id_producto,producto,categoria,subcategoria
 658233,Gaseosa Coca Cola Two Pack 3 L,Bebidas,Gaseosas
 658255,Sazonador McCormick Taco Hot 28 gr,Abarrotes,Condimentos y Legumbres
 658268,Chocolate Valor Leche Sin Azucar 100 gr,Abarrotes,Dietéticos y Saludables
+658270,Chocolate Valor Negro 70% con Stevia 100 gr,Abarrotes,Dietéticos y Saludables
 658279,Mix Manitoba Verano 170 gr,Abarrotes,Snack
 658280,Super Mix Manitoba 160 gr,Abarrotes,Snack
 658288,Vino Aranjuez Terruño Oporto 700 ml,Bebidas,Vinos y Champagne
@@ -17919,6 +17941,7 @@ id_producto,producto,categoria,subcategoria
 679791,Queso Fresco Altiplano 500 gr,Lácteos y Derivados,Quesos
 679792,Helado Delizia Vaquita Chocolate 80 ml,Congelados,"Helados, Cassattas y Picoleses"
 679793,Helado Delizia Vaquita Leche 80 ml,Congelados,"Helados, Cassattas y Picoleses"
+679795,ROSCA NAVIDENA PAN CRIS 350GRS,Pastelería y Masas Típicas,Pastelería Externa
 679819,Requeson Altiplano 500 gr,Lácteos y Derivados,Quesos
 679820,Requeson Altiplano 250 gr,Lácteos y Derivados,Quesos
 679868,Paneton La Suprema Chocolate 750 gr,Panadería,Panadería Externa
@@ -19376,6 +19399,7 @@ id_producto,producto,categoria,subcategoria
 831644,Vela Cirio Yander Maciel 12 cm,Bazar,Living y Dormitorio
 831674,Cesto Handy Rey 78,Cuidado del Hogar,Accesorios del Hogar
 831681,Couscous Roland 100% Natural 500 gr,Abarrotes,Productos Americanos
+831790,Caramelo Kidsmania Dubble Bubble Machine 40 gr,Abarrotes,Productos Americanos
 831804,ALED RESALTADOR DE BS 5,Bazar,Librería
 831854,Cereal Kelloggs Special Red Berries 43 oz,Abarrotes,Productos Americanos
 831923,Caramelo Nerds Watermelon Cherry 1.65 oz,Abarrotes,Golosinas - Varias
