@@ -356,6 +356,7 @@ id_producto,producto,categoria,subcategoria
 5795,Lenteja Hipermaxi 400 gr,Granos y Hortalizas,Fraccionados Hipermaxi
 5796,Lenteja Hipermaxi 800 gr,Granos y Hortalizas,Fraccionados Hipermaxi
 5797,Trigo Pelado Hipermaxi 400 gr,Granos y Hortalizas,Fraccionados Hipermaxi
+5804,CP PACK 3X2 MAIZ PIPOCA HIPERMAXI 800 G,Granos y Hortalizas,Fraccionados Hipermaxi
 5805,CP PACK 3X2 LENTEJA HIPERMAXI 800 G,Granos y Hortalizas,Fraccionados Hipermaxi
 5877,Tripack Brixy San Juan Pomos,Abarrotes,Temporada
 6715,Mostaza Taste Zero 350 gr,Abarrotes,Aderezos
@@ -1455,6 +1456,7 @@ id_producto,producto,categoria,subcategoria
 26022,GALLETA COFLER RELLENA BONOBON 85G,Abarrotes,Galletas
 26024,CAFE TOSTADO MOLIDO MUNAQ BSA 250G,Abarrotes,Café y Sucedáneos
 26027,GRAGEAS D MANI MC NUTS OREO 120G,Abarrotes,Snack
+26028,GRAGEAS D MANI MC NUTS PICANTE 120G,Abarrotes,Snack
 26031,TE AMATE D JAMAICA ARAND PET 500ML,Bebidas,Bebidas Varias
 26035,VINO KOHLBERG SEMI DULCE TTO 700ML,Bebidas,Vinos y Champagne
 26036,VINO KOHLBERG DULCE ROSE 700ML,Bebidas,Vinos y Champagne
@@ -1486,7 +1488,9 @@ id_producto,producto,categoria,subcategoria
 26129,CHOCOLATE BREICK RELL UVA TAB 95G,Abarrotes,Chocolates y Caramelos
 26130,CHOCOLATE BREICK RELL FRUTILLA TAB 95G,Abarrotes,Chocolates y Caramelos
 26133,CHOCOLATE BREICK RELL PINA TAB 95G,Abarrotes,Chocolates y Caramelos
+26134,CHOCOLATE BREICK C MANI TAB 100G,Abarrotes,Chocolates y Caramelos
 26135,CHOCOLATE BRECIK CANDY RICE TAB 100G,Abarrotes,Chocolates y Caramelos
+26137,GALLETA ARTESANA ROSQUITAS CHOCOL 180G,Abarrotes,Galletas
 26138,GALLETA ARTESANA ROSQUITAS COCO 180G,Abarrotes,Galletas
 26139,GALLETA ARTESANA ROSQUITAS VAINILLA 180G,Abarrotes,Galletas
 26144,CUNAPE CAMARO T BRASIL QUESO 85G,Abarrotes,Snack
@@ -7173,6 +7177,7 @@ id_producto,producto,categoria,subcategoria
 240694,TRIPACK SERVILLRTA ELITE PREMIUM X60,Cuidado Personal,Cuidado Familiar
 240697,PANAL PARA ADULTO PLUSSEC TALLA XG X 10,Cuidado Personal,Cuidado del Adulto
 240698,Pañal Mi Bebe Recien Nacido 20 Und,Cuidado del Bebé,Pañales
+240716,INSECTICIDA RAID ESCUDO 360 CC,Cuidado del Hogar,Productos Americanos
 240726,SERVILLETA HOGAR NAVIDENA X60UN  1X18,Cuidado Personal,Cuidado Familiar
 240778,Cereal En Linea Kids 330 gr,Abarrotes,Nutrición Infantil
 240850,Sal El Salerito de Mesa 130 gr,Abarrotes,Básicos
@@ -9143,6 +9148,7 @@ id_producto,producto,categoria,subcategoria
 372261,Vela con Fuego 1 un,Bazar,Cotillón
 372262,LE VELA CUMPLEANOS TWIS X 1 BS 10,Bazar,Cotillón
 372282,Film Plastico Wyda 100 m 28x5,Bazar,Articulos de Cocina
+372283,GM CUCHARILLAS X50 UND STRAWPLAST,Bazar,Cotillón
 372284,GM VASO TEQUILERO MULTICOLOR STRAWPLAST,Bazar,Cotillón
 372560,Cereal Granix Copos Maiz Azucarados 500 gr,Abarrotes,Nutrición Infantil
 372734,FRI JUGUETE DE MASCOTAS .14,Bazar,Mascotas General
@@ -9848,6 +9854,7 @@ id_producto,producto,categoria,subcategoria
 429678,Esponja Eterna Malla Cristal 2 un,Cuidado del Hogar,Accesorios del Hogar
 430065,Vino Aranjuez Tannat 750 ml,Bebidas,Vinos y Champagne
 430200,Maizena Kris 800 gr,Abarrotes,Básicos
+430210,Cereal con Almendra Honey Bunch 1360 gr,Abarrotes,Productos Americanos
 430220,Crema Facial Sabila Siloe 250 gr,Cuidado Personal,Cuidado de la Piel
 430224,Crema Capilar Siloe Masaje Cebolla 250 gr,Cuidado Personal,Cuidado del Cabello
 430228,Crema Capilar Siloe Masaje Miel Palta 250 gr,Cuidado Personal,Cuidado del Cabello
@@ -9876,8 +9883,8 @@ id_producto,producto,categoria,subcategoria
 430991,Pack Fideo Lazzaroni 3x400 gr,Abarrotes,Básicos
 431001,Limpiador de Piso Ola Aromatic Bouquete de Flores 1800 ml,Cuidado del Hogar,Limpieza de Baños
 431028,Tortillas Harina De Trigo Don Taco 12 un 390 gr,Congelados,Masas y Comidas Congeladas
-431036,Tortillas Don Taco Harina de Trigo 240 gr,Congelados,Masas y Comidas Congeladas
-431126,Tortillas Harina De Trigo Don Taco 12 un 660 gr,Congelados,Masas y Comidas Congeladas
+431036,Tortillas Don Taco Harina de Trigo 300 gr,Congelados,Masas y Comidas Congeladas
+431126,Tortillas Harina De Trigo Don Taco 12 un 760 gr,Congelados,Masas y Comidas Congeladas
 431354,Oregano Cocinero 35 gr,Abarrotes,Condimentos y Legumbres
 431362,Manzanilla El Cocinero 35 gr,Abarrotes,Condimentos y Legumbres
 431524,Cepillo Dental Foramen 30 Suave 1 un,Cuidado Personal,Cuidado Bucal
@@ -13483,6 +13490,7 @@ id_producto,producto,categoria,subcategoria
 629728,Bebida Hidratante Prime limonada 500 ML,Bebidas,Bebidas Usa
 629729,Hidratante Prime Frutilla Melon 500 ml,Bebidas,Bebidas Usa
 629730,MAYONESA KRAFT DELI 90 GR,Abarrotes,Productos Americanos
+629732,GALLETAS SALADAS BAKED SNACK CRACKERS ORIGINAL 351GR,Abarrotes,Productos Americanos
 629734,GALLETAS SALADAS BAKED QUESO CHEDDAR 351GR,Abarrotes,Productos Americanos
 629744,KRAFT HEINZ PONCHE TROPICAL 0.18ML,Bebidas,Bebidas Usa
 629745,KRAFT HEINZ SABOR CEREZA KOOL AID 0.18 ML,Bebidas,Bebidas Usa
@@ -13491,7 +13499,9 @@ id_producto,producto,categoria,subcategoria
 629748,MAS+ BY MESSI MIAMI PUNCH 500 ML,Bebidas,Bebidas Usa
 629749,MAS+ BY MESSI LIMON LIME LEAGUE 500 ML,Bebidas,Bebidas Usa
 629750,MAS+ BY MESSI BERRY COPA CRUSH 500 ML,Bebidas,Bebidas Usa
+629751,MAS+ BY MESSI ORANGE D OR 500ML,Bebidas,Bebidas Usa
 629754,AGUA CARBONATADA SPRING WATER 828 ML,Bebidas,Bebidas Usa
+629757,GALLETAS SALADA BAJA EN CALORIAS TOWN HOUSE 391GR,Abarrotes,Productos Americanos
 629759,CEREAL KELLOGS CRUMBL CHOC CHIP 592 GR,Abarrotes,Productos Americanos
 630010,Alimento Pedigree Cachorro 1.5 kg,Abarrotes,Mascotas
 630011,Gaseosa Crush Piña 355 ml,Bebidas,Bebidas Usa
@@ -14281,6 +14291,7 @@ id_producto,producto,categoria,subcategoria
 655740,Refresco Sprim Piña 25 gr,Bebidas,Refrescos en Polvo
 655741,Refresco Sprim Mango 25 gr,Bebidas,Refrescos en Polvo
 655742,Refresco Sprim Maracuya 25 gr,Bebidas,Refrescos en Polvo
+655755,Macarroni con Queso Bv 4.5 oz,Abarrotes,Productos Americanos
 655759,Cereal Cinnamon Toast Crunch Mills 1.4 kg,Abarrotes,Productos Americanos
 655764,Mantequilla de Mani Crunchy 18 oz,Abarrotes,Productos Americanos
 655774,Papa Lucana Mediana 65 gr,Abarrotes,Snack
@@ -16035,6 +16046,7 @@ id_producto,producto,categoria,subcategoria
 669048,PACK HERBAL ESS SH TE VERDE400ML + AC DE,Cuidado Personal,Cuidado del Cabello
 669049,GUANTE NEGRO EXTRA GRUESO7 1/2; 8; 8 1/2,Cuidado del Hogar,Accesorios del Hogar
 669052,BYPHASSE CREMA CORPORAL CON EXTRACTO DE,Cuidado Personal,Cuidado de la Piel
+669058,BYPHASSE FAMILY FRESH SHAMPOO TÉ VERDE &,Cuidado Personal,Cuidado del Cabello
 669060,BYPHASSE FAMILY FRESH MASCARILLA CAPILAR,Cuidado Personal,Cuidado del Cabello
 669063,BYPHASSE PLAISIR NATURE GEL DE DUCHA VER,Cuidado Personal,Cuidado de la Piel
 669067,GEL DE DUCHA LACTOUREA FIRMING 600ML.,Cuidado Personal,Cuidado de la Piel
@@ -16471,8 +16483,8 @@ id_producto,producto,categoria,subcategoria
 671635,Queso Mozzarella San Andres,Lácteos y Derivados,Quesos
 671645,Esparragos Congelados Minuto Verde 350 gr,Congelados,Pulpas y Frutas Congeladas
 671668,Bebida de Almendra Almond Breeze 946 ml,Lácteos y Derivados,Leches
-671675,Tortillas Don Taco Chica Light 240 gr,Congelados,Masas y Comidas Congeladas
-671676,Tortillas Don Taco Mediana Light 360 gr,Congelados,Masas y Comidas Congeladas
+671675,Tortillas Don Taco Chica Light 270 gr,Congelados,Masas y Comidas Congeladas
+671676,Tortillas Don Taco Mediana Light 390 gr,Congelados,Masas y Comidas Congeladas
 671680,Leche Entera Eba Blanca 946 ml,Lácteos y Derivados,Leches
 671681,PANETON MENTA MARIELS 700GRS CON ADORNO NAVIDENO,Panadería,Panadería Externa
 671683,Torta Helada Delizia Red Velvet Primavera,Congelados,"Helados, Cassattas y Picoleses"
@@ -16874,6 +16886,7 @@ id_producto,producto,categoria,subcategoria
 672954,Pan Molde Integral Panissimo Maca,Panadería,Panadería Externa
 672955,Pan Molde Integral Panissimo Soya,Panadería,Panadería Externa
 672956,Leche Delizia Vaquita con Cafe 250ml,Lácteos y Derivados,Leches
+672959,PANETON OVOPLUS BOLSA TRADICIONAL 750GRS,Panadería,Panadería Externa
 672963,Queso Mozzarella Hacienda San Javier Laminado 200 gr,Lácteos y Derivados,Quesos
 672964,Queso Criollo La Hacienda San Javier Barra kg,Lácteos y Derivados,Quesos
 672965,Helado Delizia Tracicion Canela 200 ml,Congelados,"Helados, Cassattas y Picoleses"
@@ -17002,6 +17015,7 @@ id_producto,producto,categoria,subcategoria
 673346,Tiras de Filetes Grillados de Pollo Sofia 170 gr,Fiambres,Fiambres Externos
 673347,Desmechado de Cerdo Sofia Barbacoa 170 gr,Fiambres,Fiambres Externos
 673352,Queso Rallado Fino San Mateo 40 gr,Lácteos y Derivados,Quesos
+673353,HELADO CASSATTA EDICION ESPECIAL DELIZIA 1LT,Congelados,"Helados, Cassattas y Picoleses"
 673361,Paleta de Oreo Bits Cream 115 gr,Congelados,"Helados, Cassattas y Picoleses"
 673362,Paleta de Maracuya Chocolate Bits Cream 115 gr,Congelados,"Helados, Cassattas y Picoleses"
 673363,Paleta de Nutella Bits Cream 115 gr,Congelados,"Helados, Cassattas y Picoleses"
@@ -17338,6 +17352,7 @@ id_producto,producto,categoria,subcategoria
 674046,Helado Familiar Nordland Mora 1 kg,Congelados,"Helados, Cassattas y Picoleses"
 674047,Helado Familiar Nordland Vainilla 1 kg,Congelados,"Helados, Cassattas y Picoleses"
 674048,Helado Familiar Nordland Cherry 1 kg,Congelados,"Helados, Cassattas y Picoleses"
+674051,POSTRE HELADO DELIZIA PANETTONE CLASICO,Congelados,"Helados, Cassattas y Picoleses"
 674054,Salchicha Stege Wiener con Piel kg,Fiambres,Fiambres Externos
 674055,Salchicha Stege Wiener Sin Piel 8 un,Fiambres,Fiambres Externos
 674059,Queso de Cerdo Osfim kg,Fiambres,Fiambres Externos
@@ -17489,12 +17504,15 @@ id_producto,producto,categoria,subcategoria
 674301,YOGURT IOGO TIPO GRIEGO SABOR COCO 500 GRS,Lácteos y Derivados,Yogures
 674302,6 PACK YOGURT IOGO 0 AZUCAR SELECCION SABORES 6X120,Lácteos y Derivados,Yogures
 674306,NECTAR CONCENTRADO ASAI FRUKO CAJA 12 UNI,Congelados,Pulpas y Frutas Congeladas
+674308,PASTA DE HIGADO DE POLLO OVOPLUS 100GRS,Fiambres,Fiambres Externos
 674309,PANETON CHOCO CHERRY OVOPLUS CAJA 540 GRS,Panadería,Panadería Externa
 674310,MINI PANETONES TRIO OVOPLUS CAJA 300GRS,Panadería,Panadería Externa
 674315,ACEITUNAS VERDES EN SALMUERA KILOGRAMO,Fiambres,Fiambres Externos
 674316,ACEITUNAS NEGRAS EN SALMUERA KILOGRAMO,Fiambres,Fiambres Externos
 674317,HELADO NORDLAND 500ML SABORES SURTIDOS,Congelados,"Helados, Cassattas y Picoleses"
+674318,ARANITA DE CERDO CONGELADA SOFIA AL VACIO KILOGRAMO,Congelados,Carnes Congeladas
 674319,QUESO CRIOLLO GUARUJA KILOGRAMO,Lácteos y Derivados,Quesos
+674328,TRIPACK BIMBO TORTILLAS RAPIDITAS 310GRR,Congelados,Masas y Comidas Congeladas
 675245,Miel de Abeja Eva Promiel 250 gr,Abarrotes,"Mermel, Mieles"
 676113,Habanito Bits Cream Coojies Cream 120 gr,Congelados,"Helados, Cassattas y Picoleses"
 676115,HABANITO BITS CREAM DULCE DE LECHE 120GRS,Congelados,"Helados, Cassattas y Picoleses"
@@ -18551,7 +18569,7 @@ id_producto,producto,categoria,subcategoria
 783749,Yogurt Griego Iogo con Cereal Farfait 250 gr,Lácteos y Derivados,Yogures
 783758,Bisnaguinha Victoria 15 un,Panadería,Panadería Externa
 783814,Alas de Pato San Jose Congelado kg,Congelados,Carnes Congeladas
-783858,Tortillas Don Taco Chica Integral 240 gr,Congelados,Masas y Comidas Congeladas
+783858,Tortillas Don Taco Chica Integral 270 gr,Congelados,Masas y Comidas Congeladas
 783891,Yogurt Alimentarte Mermelada Quinua,Lácteos y Derivados,Yogures
 783927,Papa McCain Tradicional 400 gr,Congelados,Masas y Comidas Congeladas
 783946,Salsa de Queso Cheddar Milkaut 1.5 kg,Lácteos y Derivados,Quesos
@@ -18711,7 +18729,7 @@ id_producto,producto,categoria,subcategoria
 785797,Huevos Avicola Paurito de Gallina Medianos 12 un,Lácteos y Derivados,Huevos
 785823,Helado Cabrera Dueto Chocolate Caja 5 un,Congelados,"Helados, Cassattas y Picoleses"
 785840,Pan Molde Leo Nothmann 570 gr,Panadería,Panadería Externa
-785862,Tortillas Harina Integral Don Taco 360 gr,Congelados,Masas y Comidas Congeladas
+785862,Tortillas Harina Integral Don Taco 390 gr,Congelados,Masas y Comidas Congeladas
 785869,Tira de Cerdo Primer Corte Sofia kg,Congelados,Carnes Congeladas
 785873,Queso Cheddar Guapurutu Laminado 250 gr,Lácteos y Derivados,Quesos
 785886,Pack Helado Yucatan Popsi Caja 300 gr,Congelados,"Helados, Cassattas y Picoleses"
