@@ -35,7 +35,7 @@ def construirHeaders():
 
     def conseguirToken():
         response = requests.put(
-            "https://tienda-api.hipermaxi.com/api/v1/CuentasMarket/Anonimo-Por-Token",
+            "https://hipermaxi.com/tienda-api/api/v1/CuentasMarket/Anonimo-Por-Token",
             verify=False,
             timeout=10,
         )
@@ -57,7 +57,7 @@ def construirHeaders():
     codigo, token = conseguirToken()
     cuenta, aplicacion, password, grant_type = conseguirAplicacion()
     response = requests.post(
-        "https://tienda-api.hipermaxi.com/token",
+        "https://hipermaxi.com/tienda-api/api/v1/token",
         data=dict(
             grant_type=grant_type,
             aplicacion=aplicacion,
@@ -80,14 +80,14 @@ def construirHeaders():
 def actualizarSucursales(sesion):
     def listarRegiones(sesion):
         response = sesion.get(
-            "https://tienda-api.hipermaxi.com/api/v1/markets/ciudades", timeout=TIMEOUT
+            "https://hipermaxi.com/tienda-api/api/v1/markets/ciudades", timeout=TIMEOUT
         )
         return {r["IdRegion"]: r["Nombre"] for r in response.json()["Dato"]}
 
     def listarSucursales(sesion):
         params = dict(IdMarket="0", IdTipoServicio="0")
         response = sesion.get(
-            "https://tienda-api.hipermaxi.com/api/v1/markets/activos",
+            "https://hipermaxi.com/tienda-api/api/v1/markets/activos",
             params=params,
             timeout=TIMEOUT,
         )
@@ -114,7 +114,7 @@ def actualizarSucursales(sesion):
 def consultarPrecios(sesion, sucursal):
     def consultarCategorias(sesion, sucursal):
         response = sesion.get(
-            "https://tienda-api.hipermaxi.com/api/v1/markets/clasificaciones",
+            "https://hipermaxi.com/tienda-api/api/v1/markets/clasificaciones",
             params=dict(IdMarket=sucursal, IdSucursal=sucursal),
             timeout=TIMEOUT,
         )
@@ -140,7 +140,7 @@ def consultarPrecios(sesion, sucursal):
         pagina = 1
         while True:
             response = sesion.get(
-                "https://tienda-api.hipermaxi.com/api/v1/productos",
+                "https://hipermaxi.com/tienda-api/api/v1/productos",
                 params={
                     "IdMarket": sucursal,
                     "IdCategoria": subcategoria["id_categoria"],
