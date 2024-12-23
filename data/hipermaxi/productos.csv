@@ -1478,6 +1478,7 @@ id_producto,producto,categoria,subcategoria
 26049,TE FRUTTE DIENTE DE LEON 20SAQ,Abarrotes,Café y Sucedáneos
 26050,TE FRUTTE D GUANABANA 20SAQ,Abarrotes,Café y Sucedáneos
 26055,VINAGRE SAKURA MANZ ROJA PREMIUM 500ML,Abarrotes,Básicos
+26056,GIN BRIGHTON LONDON 700ML,Bebidas,Licores
 26060,FERNET BUHERO NEGRO BOT 700ML,Bebidas,Licores
 26061,PACK GALLETA MABEL MULTISEMILLA 3X200G,Abarrotes,Galletas
 26062,MERMELADA DFRUT FRUTILLA FCO 500G,Abarrotes,"Mermel, Mieles"
@@ -1497,6 +1498,7 @@ id_producto,producto,categoria,subcategoria
 26092,CHOCOLATE BREICK CAFE MOCA TAB 100G,Abarrotes,Chocolates y Caramelos
 26094,CHOCOLATE BREICK BLANCO TAB 100G,Abarrotes,Chocolates y Caramelos
 26095,CHOCOLATE BREICK LECHE TAB 100G,Abarrotes,Chocolates y Caramelos
+26103,REFRESCO REAL CHICHA MORAD DISPLAY 20X14G,Bebidas,Refrescos en Polvo
 26104,CERVEZA BUDWEISER LTA 269ML,Bebidas,Cervezas
 26106,CHOCOLATE BREICK RELL FRANBUEZA TAB 95G,Abarrotes,Chocolates y Caramelos
 26107,CHOCOLATE BREICK RELL CHERRY TAB 95G,Abarrotes,Chocolates y Caramelos
@@ -1536,6 +1538,8 @@ id_producto,producto,categoria,subcategoria
 26184,PIPOCA LOCA DULCE TUTTI FRUTTI 110G,Abarrotes,Snack
 26185,PICO SNACK CAMARO MANTEQ BOLITA 120G,Abarrotes,Snack
 26186,PICO SNACK CAMARO QUESO 120G,Abarrotes,Snack
+26191,VINO KOHLBERG TRIVARIETAL BOT 750ML,Bebidas,Vinos y Champagne
+26195,MEZCLA CREMA D LECHE EMBARE TETRA 200G,Abarrotes,Repostería
 26200,CHUPETE BON BON BUM FRESA 336GR,Abarrotes,Chocolates y Caramelos
 26217,TE HINDU SUPERBLENDS DIGEST 20SAQ,Abarrotes,Dietéticos y Saludables
 26874,Whisky Johnnie Walker 18 Años 750 ml,Bebidas,Licores
@@ -1704,6 +1708,7 @@ id_producto,producto,categoria,subcategoria
 30202,Mermelada Dfrut Ciruelo 300 gr,Abarrotes,"Mermel, Mieles"
 30203,Mermelada Dfrut Membrillo 300 gr,Abarrotes,"Mermel, Mieles"
 30207,Chive Kily Simple 500 gr,Abarrotes,Básicos
+30208,Pack Mix Fideos Lazzaroni,Abarrotes,Básicos
 30209,Mayonesa Taste Ajo Zero 335 gr,Abarrotes,Dietéticos y Saludables
 30211,Crema Avellana Taste Vegano 360 gr,Abarrotes,Dietéticos y Saludables
 30213,Agua Tonik Nostas Sport 1 L,Bebidas,Aguas
@@ -1740,6 +1745,7 @@ id_producto,producto,categoria,subcategoria
 30268,Papa Pringles Habanera 158 gr,Abarrotes,Snack
 30269,Papa Pringles Xtreme Bufalo 158 gr,Abarrotes,Snack
 30270,Papa Pringles Enchilada Adobada 158gr,Abarrotes,Snack
+30271,Papa Pringles Crema Cebolla 149 gr,Abarrotes,Snack
 30272,Galleta Wafer Mabels Cherry 64 gr,Abarrotes,Galletas
 30273,Galleta Wafer Mabels Piña 64 gr,Abarrotes,Galletas
 30275,Nectar Pura Vida Manzana Durazno 2 L,Bebidas,"Jugos, Néctar"
@@ -2637,6 +2643,7 @@ id_producto,producto,categoria,subcategoria
 38326,JUGO FRUT ALL EXOTICO NARANJA 1 LT,Bebidas,"Jugos, Néctar"
 38342,Jugo Frutall Manzana 1 L,Bebidas,"Jugos, Néctar"
 38350,Jugo Frutall Durazno 1 L,Bebidas,"Jugos, Néctar"
+38369,JUGO FRUTALL DAMASCO 1 LT,Bebidas,"Jugos, Néctar"
 38407,Jugo Frutall Manzana Tetra 200 ml,Bebidas,"Jugos, Néctar"
 38415,Jugo Frutall Durazno Tetra 200 ml,Bebidas,"Jugos, Néctar"
 38425,Budin Kiko Frutilla 60 gr,Abarrotes,Repostería
@@ -7261,7 +7268,10 @@ id_producto,producto,categoria,subcategoria
 240719,REPELENE OFF X DURACION 200 ML,Cuidado del Hogar,Productos Americanos
 240720,PACK 2 AMBIENTADORES SURTIDO TOTES 2X360,Cuidado del Hogar,Limpieza de Living y Ropero
 240723,SERVILLETA HOGAR NAVIDAD 50 UNDS,Cuidado Personal,Cuidado Familiar
+240725,AMBIENTADOR AER LAVANDA 10 GR,Cuidado del Hogar,Limpieza de Living y Ropero
 240726,SERVILLETA HOGAR NAVIDENA X60UN  1X18,Cuidado Personal,Cuidado Familiar
+240730,AMBIENTADOR AER POWER POCKET  CITRICA,Cuidado del Hogar,Limpieza de Living y Ropero
+240736,JABON ALMA DE FLORES GARDEN 130 GR,Cuidado Personal,Cuidado de la Piel
 240738,JABON ALMA DE FLOR FOUGERE 130 GR,Cuidado Personal,Cuidado de la Piel
 240739,JABON ALMA DE FLOR INTENSE 130 GR,Cuidado Personal,Cuidado de la Piel
 240778,Cereal En Linea Kids 330 gr,Abarrotes,Nutrición Infantil
@@ -7424,6 +7434,7 @@ id_producto,producto,categoria,subcategoria
 260306,Pañal Adulto Plenitud Protect G/XG 8 un,Cuidado Personal,Cuidado del Adulto
 260410,Nacho Mexican Food 200 gr,Abarrotes,Snack
 260622,Dulce Pinduca Goiabada 500 gr,Abarrotes,"Mermel, Mieles"
+260630,Papa Pringles Original 149 gr,Abarrotes,Snack
 260711,Papa Pringles Queso 124 gr,Abarrotes,Snack
 260820,Limpiador Desinfectante Procenex Jardin 5 L,Cuidado del Hogar,Limpieza de Baños
 260890,Sopa Instantanea Maruchan Camaron Chile Vaso 64 gr,Abarrotes,Básicos
@@ -8943,6 +8954,7 @@ id_producto,producto,categoria,subcategoria
 358240,Vino Angelica Z Cabernet Franc 750 ml,Bebidas,Vinos y Champagne
 358258,Ron Cortez Panama 1750 ml,Bebidas,Licores
 358488,Arroz Brillante Parbolizado Tipo 1 1 kg,Abarrotes,Básicos
+358489,Arroz Brillante Parboliz 1.5 kg,Abarrotes,Básicos
 358920,Maquina de Afeitar Gillette Prestobarba 3 Mujer 2 un,Cuidado Personal,Cuidado de la Piel
 358921,Maquina de Afeitar Gillette Prestobarba 3 Mujer 4 un,Cuidado Personal,Cuidado de la Piel
 358922,Maquina de Afeitar Gillette Prestobarba 3 Hombre 4 un,Cuidado Personal,Cuidado de la Piel
@@ -15832,6 +15844,7 @@ id_producto,producto,categoria,subcategoria
 668131,Cera Liquida Ola Neutra 930 ml,Cuidado del Hogar,Limpieza de Living y Ropero
 668132,Cera Liquida Ola Roja 930 ml,Cuidado del Hogar,Limpieza de Living y Ropero
 668137,LIP  GLOSS LLAMA LIPPY PAL,Cuidado Personal,Cuidado de la Piel
+668138,LS GLOSS UNICORN LIPPY PAL,Cuidado Personal,Cuidado de la Piel
 668139,LIP SMACKER CRAYOLA TRIO,Cuidado Personal,Cuidado de la Piel
 668140,LIP SMACKER CRAYOLA LIQUID,Cuidado Personal,Cuidado de la Piel
 668143,LIP SMACKER COCA COLA TRIO,Cuidado Personal,Cuidado de la Piel
@@ -16215,6 +16228,7 @@ id_producto,producto,categoria,subcategoria
 669089,H&S SH MEN OLDSPICE 650ML X 10U,Cuidado Personal,Cuidado del Cabello
 669092,CREMA DENTAL TOTAL TARTAR ANTISARRO 3X75,Cuidado Personal,Cuidado Bucal
 669094,PACK OLA LV LIMON BOT 1.05L+VAJ 360ML,Cuidado del Hogar,Limpieza de Cocina
+669095,BANADOR 9 LT ALZARSI,Cuidado del Hogar,Accesorios del Hogar
 669096,BANADOR RECTANGULAR CAFE 13.5 LTS,Cuidado del Hogar,Accesorios del Hogar
 669097,SECRET AT GEL WATERLILLY 45G X 12U,Cuidado Personal,Cuidado de la Piel
 669099,SECRET AT GEL POWDERPROT COTTON 73G X 12,Cuidado Personal,Cuidado de la Piel
