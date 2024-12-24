@@ -1477,6 +1477,7 @@ id_producto,producto,categoria,subcategoria
 26047,VINO LUCA BESO D DANTE RED BLEND 750ML,Bebidas,Vinos y Champagne
 26049,TE FRUTTE DIENTE DE LEON 20SAQ,Abarrotes,Café y Sucedáneos
 26050,TE FRUTTE D GUANABANA 20SAQ,Abarrotes,Café y Sucedáneos
+26054,VINAGRE SAKURA MANZ VERDE PREMIUM 500ML,Abarrotes,Básicos
 26055,VINAGRE SAKURA MANZ ROJA PREMIUM 500ML,Abarrotes,Básicos
 26056,GIN BRIGHTON LONDON 700ML,Bebidas,Licores
 26060,FERNET BUHERO NEGRO BOT 700ML,Bebidas,Licores
@@ -1525,6 +1526,7 @@ id_producto,producto,categoria,subcategoria
 26148,PIPOCA LOCA CAMARO SALADA QUESO 70G,Abarrotes,Snack
 26150,TOMATE TRITURADO DI FRATE FCO 1LT,Abarrotes,Salsas y Extracto de Tomate
 26151,TOMATE TRITURADO DI FRATE FCO 350 ML,Abarrotes,Salsas y Extracto de Tomate
+26155,LICOR CUSENIER MELON BOT 700ML,Bebidas,Licores
 26156,PIPOCA LOCA CAMARO DULCE COCO 110G,Abarrotes,Snack
 26157,PIPOCA LOCA CAMARO DULCE BANANA 110G,Abarrotes,Snack
 26158,PIPOCA LOCA CAMARO DULCE VAINILLA 110G,Abarrotes,Snack
@@ -1540,7 +1542,9 @@ id_producto,producto,categoria,subcategoria
 26186,PICO SNACK CAMARO QUESO 120G,Abarrotes,Snack
 26191,VINO KOHLBERG TRIVARIETAL BOT 750ML,Bebidas,Vinos y Champagne
 26195,MEZCLA CREMA D LECHE EMBARE TETRA 200G,Abarrotes,Repostería
+26196,MEZCLA LECHE CONDENS EMBARE TETRA 395G,Abarrotes,Nutrición Infantil
 26200,CHUPETE BON BON BUM FRESA 336GR,Abarrotes,Chocolates y Caramelos
+26216,TE HINDU ORGINAL 50SAQ,Abarrotes,Café y Sucedáneos
 26217,TE HINDU SUPERBLENDS DIGEST 20SAQ,Abarrotes,Dietéticos y Saludables
 26874,Whisky Johnnie Walker 18 Años 750 ml,Bebidas,Licores
 27100,MASMELOS TRULULU FRANKI BSA 50G,Abarrotes,Golosinas - Varias
@@ -10198,6 +10202,7 @@ id_producto,producto,categoria,subcategoria
 452287,Cicatricure Gel 30 gr,Cuidado Personal,Cuidado de la Piel
 452291,BATON ORIGINAL X UND  COD FARMA,Abarrotes,Temporada
 452390,Shampoo Medicasp Anticaspa 130 ml,Cuidado Personal,Cuidado del Cabello
+452423,JABON FLORESTA RUDA X 80 GR,Farmacia Otc,Higiene/Salud
 452612,Shampoo Tio Nacho Herbolaria Milar 2 un 415 ml,Cuidado Personal,Cuidado del Cabello
 452613,Acondicionador Tio Nacho Aclarante 415 ml,Cuidado Personal,Cuidado del Cabello
 452614,Shampoo Tio Nacho Anticanas 415 ml,Cuidado Personal,Cuidado del Cabello
@@ -12062,6 +12067,7 @@ id_producto,producto,categoria,subcategoria
 552103,Ginger Ale Schweppes 350 ml,Bebidas,Gaseosas
 552111,VAGON BREICK NAVIDENO 150 GR,Abarrotes,Temporada
 552112,LOCOMOTORA BREICK NAVIDENA108 GR,Abarrotes,Temporada
+552113,CHOC BREICK ANGELITO BLANCO 75 GR,Abarrotes,Temporada
 552115,CHOCOLATE BRECIK BORLA NAVIDENA 70 GR,Abarrotes,Temporada
 552116,CHOC BREICK TRINEO PAPA NOEL 95 GR,Abarrotes,Temporada
 552117,CHOCOLATE BREICK PINGUINO  68 GR,Abarrotes,Temporada
@@ -12518,6 +12524,7 @@ id_producto,producto,categoria,subcategoria
 552848,PACK 12 HUARI LAGER LTA 440 ML,Bebidas,Cervezas
 552849,GASEOSA ORIENTAL NARANJA 3LT,Bebidas,Gaseosas
 552850,PAN MOLDE SAN GABRIEL MASA MADRE 650 GR,Panadería,Panadería Externa
+552851,GIN DRY GEORG FORSTER 375 ML,Bebidas,Licores
 552853,RON CARTA BLANCA CAPITAN CORTEZ 965 ML,Bebidas,Licores
 552854,PAN PANISIMO SARNITA 12 UN,Panadería,Panadería Externa
 552855,PAN PANISSIMO CON CANELA 12 UN,Panadería,Panadería Externa
@@ -12590,6 +12597,7 @@ id_producto,producto,categoria,subcategoria
 552946,QUINUA REAL MIXTA GRAN ORO 400 GRS.,Abarrotes,Nutrición Infantil
 552952,PASTA DE MANI TACKER SIN AZUCAR 360 GR,Abarrotes,Dietéticos y Saludables
 552953,VINO DELFIN ROSE 750 ML,Bebidas,Vinos y Champagne
+552955,CAFE GRANO LAVAZZA QUALITA ROSA 500G,Abarrotes,Café y Sucedáneos
 552966,NECTAR DEL SOL DURAZNO TETRA 200ML,Bebidas,"Jugos, Néctar"
 552967,NECTAR DEL SOL MANZANA TETRA 200ML,Bebidas,"Jugos, Néctar"
 552968,PACK 6 NECTAR DEL SOL 200 ML,Bebidas,"Jugos, Néctar"
@@ -12600,6 +12608,7 @@ id_producto,producto,categoria,subcategoria
 552974,BIOGURT PROBIOTICO LGG FRUTILLA 200ML,Lácteos y Derivados,Yogures
 552975,PILFRUT MARACUYA 190ML BOLSA,Lácteos y Derivados,Leches
 552976,GALLETA PROMOS CHRISTMAS LTA 340GR,Abarrotes,Temporada
+552977,CAFE IGUAZU POLVO TRAD  POUCH 40 GR,Abarrotes,Café y Sucedáneos
 552978,SAZONADOR MCFOOD BASE P/FRICASE 100 GR,Abarrotes,Básicos
 552986,GALLETAS DANESAS DE MANTEQUILLAA 16 OZ,Abarrotes,Productos Americanos
 552988,MANTEQUILLA DE MANII JIF 40 OZ,Abarrotes,Productos Americanos
@@ -12613,6 +12622,7 @@ id_producto,producto,categoria,subcategoria
 553019,TOALLA DE PAPEL POM 100 HOJAS,Cuidado del Hogar,Productos Americanos
 553024,PACK 2 CERVEZA MAHOU RADLER 330 ML,Bebidas,Cervezas
 553025,INFUSION  HINDU FRUTOS ROJOS 50 SOB,Abarrotes,Café y Sucedáneos
+553026,TE VERDE HINDU SURTIDO 20SAQ,Abarrotes,Café y Sucedáneos
 553027,TE HINDU SUPERBLEND INMUNITY 10SAQ,Abarrotes,Café y Sucedáneos
 553028,TE HINDU SUPERBLEND RELAX 10SAQ,Abarrotes,Café y Sucedáneos
 554333,Cerveza Paceña Lata Roja 473 Cc,Bebidas,Cervezas
@@ -18368,6 +18378,7 @@ id_producto,producto,categoria,subcategoria
 727146,Mostaza Brixy 380 gr,Abarrotes,Aderezos
 727151,Ketchup Brixy 380 gr,Abarrotes,Aderezos
 727646,LOCION GOLDEN SIMONDS 125ML.,Cuidado del Bebé,Cuidado del Bebé
+727666,LOCION PINK SIMONDS 125ML.,Cuidado del Bebé,Cuidado del Bebé
 727686,Colonia Simonds Marina 260 ml,Cuidado del Bebé,Cuidado del Bebé
 727691,Colonia Simonds Rosa 260 ml,Cuidado del Bebé,Cuidado del Bebé
 727700,Colonia Simonds Lila 260 ml,Cuidado del Bebé,Cuidado del Bebé
@@ -20876,6 +20887,7 @@ id_producto,producto,categoria,subcategoria
 857275,CH J11 14 VELA AROMATICA CON TAPA 7X4CM,Bazar Importación,Temporada Navidad
 857276,CH J11 15 VELA AROMATICA CON TAPA 6X4CM,Bazar Importación,Temporada Navidad
 857277,CH J11 16 VELA AROMATICA CON TAPA DISENO SURTIDO 7X4CM,Bazar Importación,Temporada Navidad
+857387,CARRO METAL BLISTER MAISTO 21297,Juguetería,Juguetería Niño/Bebé
 857396,Cocoa Hersheys 100% 23 oz,Abarrotes,Nutrición Infantil
 857436,CH S2 1 ADORNO NAVIDENO SET X4PZAS 3X12CM,Bazar Importación,Temporada Navidad
 857437,CH S2 2 ADORNO NAVIDENO DULCES ROJOS SET X6PZAS,Bazar Importación,Temporada Navidad
