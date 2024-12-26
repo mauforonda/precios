@@ -1526,6 +1526,7 @@ id_producto,producto,categoria,subcategoria
 26146,PIPOCA LOCA CAMARO SALADA TOCINO 70G,Abarrotes,Snack
 26147,PIPOCA LOCA CAMARO SALADA MANTEQ 70G,Abarrotes,Snack
 26148,PIPOCA LOCA CAMARO SALADA QUESO 70G,Abarrotes,Snack
+26149,SIX PACK CUBA LIBRE LTA 355 ML,Bebidas,Licores
 26150,TOMATE TRITURADO DI FRATE FCO 1LT,Abarrotes,Salsas y Extracto de Tomate
 26151,TOMATE TRITURADO DI FRATE FCO 350 ML,Abarrotes,Salsas y Extracto de Tomate
 26155,LICOR CUSENIER MELON BOT 700ML,Bebidas,Licores
@@ -1535,6 +1536,7 @@ id_producto,producto,categoria,subcategoria
 26159,PICO PICO SNACK CAMARO CHURRASCO 120G,Abarrotes,Snack
 26160,PICO PICO SNACK CAMARO QUESO PIC 120G,Abarrotes,Snack
 26161,PICO PICO SNACK CAMARO PIZZA 120G,Abarrotes,Snack
+26164,HARINA PILLSBURY BROWNIE MIX DARK CHOC 1,Abarrotes,Repostería
 26173,"ALOE VERA OTRO MUNDO SIN AZUCAR 1,5LT",Bebidas,Bebidas Varias
 26174,"ALOE VERA OTRO MUNDO PET 1,5LT",Bebidas,Bebidas Varias
 26175,ALOE VERA OTRO MUNDO PET 500ML,Bebidas,Bebidas Varias
@@ -1547,6 +1549,7 @@ id_producto,producto,categoria,subcategoria
 26191,VINO KOHLBERG TRIVARIETAL BOT 750ML,Bebidas,Vinos y Champagne
 26195,MEZCLA CREMA D LECHE EMBARE TETRA 200G,Abarrotes,Repostería
 26196,MEZCLA LECHE CONDENS EMBARE TETRA 395G,Abarrotes,Nutrición Infantil
+26198,TRUFFAS PARA TI NAVIDENA S PANETON 150G,Abarrotes,Chocolates y Caramelos
 26200,CHUPETE BON BON BUM FRESA 336GR,Abarrotes,Chocolates y Caramelos
 26216,TE HINDU ORGINAL 50SAQ,Abarrotes,Café y Sucedáneos
 26217,TE HINDU SUPERBLENDS DIGEST 20SAQ,Abarrotes,Dietéticos y Saludables
@@ -2137,7 +2140,7 @@ id_producto,producto,categoria,subcategoria
 30909,Bebida Contini Ice Guarana 275 ml,Bebidas,Licores
 30911,Bebida Contini Ice Maracuya 275 ml,Bebidas,Licores
 30912,Bebida Contini Ice Acai 275 ml,Bebidas,Licores
-30913,SIXPACK MANDALA WILD BERRY 6X5 200ML,Bebidas,Bebidas Varias
+30913,Six Pack Mandala Wild Berry 6 un 200 ml,Bebidas,Bebidas Varias
 30914,Six Pack Mandala Pink Citrus 6 un 200 ml,Bebidas,Bebidas Varias
 30916,Six Pack Bebida Colossus 6 un 335 ml,Bebidas,Licores
 30917,Galleta Cofler Choco Creamy Vain 85 gr,Abarrotes,Galletas
@@ -2357,6 +2360,7 @@ id_producto,producto,categoria,subcategoria
 31308,Vino Kohlberg Tannat 750 ml,Bebidas,Vinos y Champagne
 31309,Vino Norton Select Chardonay 750 ml,Bebidas,Vinos y Champagne
 31310,Sal Rosada Uyuni Molinillo 100 gr,Abarrotes,Básicos
+31312,Vino Bianchi Marlo Dulce Blanco 750 ml,Bebidas,Vinos y Champagne
 31316,Licor Frangelico 1 L,Bebidas,Licores
 31317,Galleta Wafer Arcor Crema de Mani 105 gr,Abarrotes,Galletas
 31320,Cigarrillo Camel Active Doble Mint Yellow 20 un,Bebidas,Cigarrillos
@@ -4485,6 +4489,7 @@ id_producto,producto,categoria,subcategoria
 112573,Cotonetes Septona Bolsa 100 un,Cuidado del Bebé,Cuidado del Bebé
 112575,Vino El Enemigo Bonarda 750 ml,Bebidas,Vinos y Champagne
 112577,Vino El Enemigo Cabernet Franc 750 ml,Bebidas,Vinos y Champagne
+112578,Vino El Enemigo Malbec 750 ml,Bebidas,Vinos y Champagne
 112579,Cotonetes Septona Kids 100 un,Cuidado del Bebé,Kids
 112580,Cotonetes Septona Kids 50 un,Cuidado del Bebé,Cuidado del Bebé
 112582,Algodon Septona Disco 100 un,Cuidado Personal,Cuidado de la Piel
@@ -6564,6 +6569,7 @@ id_producto,producto,categoria,subcategoria
 223666,Lavavajilla Todo Brillo 3 Accion Limon 1200 ml,Cuidado del Hogar,Limpieza de Cocina
 223667,Shampoo Carissa Colageno 900 ml,Cuidado Personal,Cuidado del Cabello
 223668,Shampoo Carissa Bioceramidas 900 ml,Cuidado Personal,Cuidado del Cabello
+223669,Pack Ahorra Ambientador Aerosol Glade 2x360 cm,Cuidado del Hogar,Limpieza de Living y Ropero
 223671,Pack Shampo Acondicionador Sedal Ceramidas + Tomatodo,Cuidado Personal,Cuidado del Cabello
 223673,Pack Shampo Acondicionador Sedal Rizos + Tomatodo,Cuidado Personal,Cuidado del Cabello
 223674,Pack 2 Shampoo Sedal Zero Caspa + Tomatodo,Cuidado Personal,Cuidado del Cabello
@@ -7248,6 +7254,7 @@ id_producto,producto,categoria,subcategoria
 240645,TINTE CAREY KIT RUBIO COBRIZO 7.4,Cuidado Personal,Cuidado del Cabello
 240646,SHAMPOO H&S SUAVE Y MANEJABLE 2EN1 650ML,Cuidado Personal,Cuidado del Cabello
 240647,GEL AFTER SUN ALOE TANGA 130 GR X6,Cuidado Personal,Cuidado de la Piel
+240649,STICK TANGA BLOQ FACIAL SPF70 13G X12,Cuidado Personal,Cuidado de la Piel
 240651,MAQUINA GILLETTE MACH3 CARBON 1P,Cuidado Personal,Cuidado de la Piel
 240652,SERVILLETA BLANQUITA LARGA  500 UNDS,Cuidado Personal,Cuidado Familiar
 240653,TOALLA PROBOLOCK MANZANILLA ALOE 100 UNDS,Cuidado del Bebé,Cuidado del Bebé
@@ -7279,9 +7286,12 @@ id_producto,producto,categoria,subcategoria
 240704,NUTRISSE OLEO 7.12 RUBIO CENIZO NACARADO,Cuidado Personal,Cuidado del Cabello
 240705,NUTRISSE OLEOS 6.66 RUBIO ROJIZO PROFUND,Cuidado Personal,Cuidado del Cabello
 240706,NUTRISSE OLEOS 5.0 CASTANO CLARO,Cuidado Personal,Cuidado del Cabello
+240707,NUTRISSE OLEOS 1.0 NEGRO,Cuidado Personal,Cuidado del Cabello
 240716,INSECTICIDA RAID ESCUDO 360 CC,Cuidado del Hogar,Productos Americanos
 240719,REPELENE OFF X DURACION 200 ML,Cuidado del Hogar,Productos Americanos
 240720,PACK 2 AMBIENTADORES SURTIDO TOTES 2X360,Cuidado del Hogar,Limpieza de Living y Ropero
+240721,PACK NAVIDAD SPLASH  LOVE 250  + DEPILEX,Cuidado Personal,Cuidado de la Piel
+240722,PACK NAVIDAD SPLASH  KISS 250 ML + DEPIL,Cuidado Personal,Cuidado de la Piel
 240723,SERVILLETA HOGAR NAVIDAD 50 UNDS,Cuidado Personal,Cuidado Familiar
 240725,AMBIENTADOR AER LAVANDA 10 GR,Cuidado del Hogar,Limpieza de Living y Ropero
 240726,SERVILLETA HOGAR NAVIDENA X60UN  1X18,Cuidado Personal,Cuidado Familiar
@@ -8014,6 +8024,7 @@ id_producto,producto,categoria,subcategoria
 314063,Bombon Taboada a La Crema 150 gr,Abarrotes,Chocolates y Caramelos
 314076,Crema Lechuga Reafirmante 350 ml,Cuidado Personal,Cuidado de la Piel
 314077,Crema Lechuga Nutricion Intensiva 350 ml,Cuidado Personal,Cuidado de la Piel
+314078,Crema Lechuga Reafirmante 1 L,Cuidado Personal,Cuidado de la Piel
 314081,Crema Lechuga Manos Anti Edad 75 gr,Cuidado Personal,Cuidado de la Piel
 314536,Jugo Ocean Spray Cranberry 64 oz,Bebidas,Bebidas Usa
 314587,Poroto Bushs Homestyle 28 oz,Abarrotes,Productos Americanos
@@ -8581,6 +8592,7 @@ id_producto,producto,categoria,subcategoria
 339129,Secador Piso Condor Doble 40 cm,Cuidado del Hogar,Accesorios del Hogar
 339131,Secador Piso Condor Doble 60 cm,Cuidado del Hogar,Accesorios del Hogar
 339132,Pala Y Cepillo Condor Conjunto,Cuidado del Hogar,Accesorios del Hogar
+339133,Pala Basura Condor No.1506,Cuidado del Hogar,Accesorios del Hogar
 339134,Cepillo Condor Lava Tenis 1 un,Cuidado del Hogar,Accesorios del Hogar
 339135,Guantes Condor Multiuso Talla M,Cuidado del Hogar,Accesorios del Hogar
 339136,Esponja Condor Multiuso 3 un,Cuidado del Hogar,Accesorios del Hogar
@@ -10213,6 +10225,7 @@ id_producto,producto,categoria,subcategoria
 452287,Cicatricure Gel 30 gr,Cuidado Personal,Cuidado de la Piel
 452291,BATON ORIGINAL X UND  COD FARMA,Abarrotes,Temporada
 452390,Shampoo Medicasp Anticaspa 130 ml,Cuidado Personal,Cuidado del Cabello
+452419,PORTUGAL CREMA LECHUGA X55GR,Farmacia Otc,Dermatológicos
 452423,JABON FLORESTA RUDA X 80 GR,Farmacia Otc,Higiene/Salud
 452612,Shampoo Tio Nacho Herbolaria Milar 2 un 415 ml,Cuidado Personal,Cuidado del Cabello
 452613,Acondicionador Tio Nacho Aclarante 415 ml,Cuidado Personal,Cuidado del Cabello
@@ -12519,6 +12532,7 @@ id_producto,producto,categoria,subcategoria
 552812,PETIT SUISSE TIKI TITO PLATANO 50GRS,Lácteos y Derivados,Yogures
 552813,GALLETAS RICOSITAS PRINCESA CJA 700 GR,Abarrotes,Galletas
 552814,GALLETA  L SUPREMA AVENA MIEL CANELA 120,Abarrotes,Galletas
+552815,VINO ROSADO APALTAGUA GRAN VERANO ROSADO,Bebidas,Vinos y Champagne
 552817,VINO BLANCO APALTAGUA RESERVA CHARDONNAY,Bebidas,Vinos y Champagne
 552818,VINO BLANCO APALTAGUA GRAN VERANO CHARD,Bebidas,Vinos y Champagne
 552819,VINO BCO PUESTO DEL MARQUES  TORRONTES 7,Bebidas,Vinos y Champagne
@@ -12633,7 +12647,11 @@ id_producto,producto,categoria,subcategoria
 552997,PACK 3 CERVEZA PAULANER POSAVASOS,Bebidas,Cervezas
 552999,PIMIENTA NEGRA CAMENCITA MOL 190G,Abarrotes,Condimentos y Legumbres
 553002,SAL MARINA MEDITERRANEA CARMENCITA MOL 3,Abarrotes,Condimentos y Legumbres
+553005,LAUREL HOJA CALMENCITA BOLSA 8 GR,Abarrotes,Condimentos y Legumbres
 553013,ENELDO HOJA CARMENCITA FCO 15 GR,Abarrotes,Condimentos y Legumbres
+553014,TOMILLO CARMENCITA FCO 10 GR,Abarrotes,Condimentos y Legumbres
+553015,PEREJIL CARMENCITA FCO 8 GR,Abarrotes,Condimentos y Legumbres
+553016,ROMERO CARMENCITA FCO 17 GR,Abarrotes,Condimentos y Legumbres
 553019,TOALLA DE PAPEL POM 100 HOJAS,Cuidado del Hogar,Productos Americanos
 553024,PACK 2 CERVEZA MAHOU RADLER 330 ML,Bebidas,Cervezas
 553025,INFUSION  HINDU FRUTOS ROJOS 50 SOB,Abarrotes,Café y Sucedáneos
@@ -12721,6 +12739,7 @@ id_producto,producto,categoria,subcategoria
 565571,Achocolatado Chocolike 200 gr,Abarrotes,Nutrición Infantil
 565573,Isotonico Pawerade Mora Azul 473 ml,Bebidas,Isotónicos
 565575,Isotonico Pawerade Multi Frutas 473 ml,Bebidas,Isotónicos
+565677,CREMA PORTUGAL CONCHA DE NACAR X55G,Farmacia Otc,Dermatológicos
 565687,Cuba Libre Ron y Cola 500 ml,Bebidas,Licores
 565849,Bombon Bon o Bon Blanco 270 gr,Abarrotes,Chocolates y Caramelos
 565970,Chupete Bon Bon Bum Fresa 432 gr,Abarrotes,Chocolates y Caramelos
@@ -16220,6 +16239,7 @@ id_producto,producto,categoria,subcategoria
 669004,COLORISSIMO EXTRA BRILLO FIESTA,Cuidado Personal,Cuidado de la Piel
 669005,SHAMPOO ELVIVE 370ML GLYCO GLOSS,Cuidado Personal,Cuidado del Cabello
 669006,DELINEADOR OJOS ESSENTIAL,Cuidado Personal,Cuidado de la Piel
+669008,MASCARA PESTANA ESSENTIAL,Cuidado Personal,Cuidado de la Piel
 669010,KOCOSTAR MASCARILLA HAND MOISTURE PACK,Cuidado Personal,Cuidado de la Piel
 669011,KOCOSTAR MASCARILLA CAMELLIA HAPPY MASK,Cuidado Personal,Cuidado de la Piel
 669012,KOCOSTAR MASCARILLA FOOT MOISTURE PACK,Cuidado Personal,Cuidado de la Piel
@@ -16259,6 +16279,7 @@ id_producto,producto,categoria,subcategoria
 669071,GLADE AEROSOL TROPICAL FLORAL 360 ML,Cuidado del Hogar,Limpieza de Living y Ropero
 669089,H&S SH MEN OLDSPICE 650ML X 10U,Cuidado Personal,Cuidado del Cabello
 669092,CREMA DENTAL TOTAL TARTAR ANTISARRO 3X75,Cuidado Personal,Cuidado Bucal
+669093,TANGA SPF 70 CREMA X220 ML,Cuidado Personal,Cuidado de la Piel
 669094,PACK OLA LV LIMON BOT 1.05L+VAJ 360ML,Cuidado del Hogar,Limpieza de Cocina
 669095,BANADOR 9 LT ALZARSI,Cuidado del Hogar,Accesorios del Hogar
 669096,BANADOR RECTANGULAR CAFE 13.5 LTS,Cuidado del Hogar,Accesorios del Hogar
@@ -16290,6 +16311,10 @@ id_producto,producto,categoria,subcategoria
 669123,TIDE PODS 3EN1 SPRING MEADOW 9PZA X6U,Cuidado del Hogar,Productos Americanos
 669128,PROTECTOR SUN SHINE CONTROL TONO MEDIO 5,Cuidado Personal,Cuidado de la Piel
 669129,PACK VERANO ECRAN PROT F50 250ML + LECHE,Cuidado Personal,Cuidado de la Piel
+669133,DETERGENTE SURF HORTENSIAS 1.8KG,Cuidado del Hogar,Limpieza de la Ropa
+669134,DETERGENTE SURF HORTENSIAS 4.8KG,Cuidado del Hogar,Limpieza de la Ropa
+669135,DETERGENTE SURF COCO 650G,Cuidado del Hogar,Limpieza de la Ropa
+669136,DETERGENTE SURF LIMON 650G,Cuidado del Hogar,Limpieza de la Ropa
 669901,Pizza Hipermaxi Congelada Hawaiana 620 gr,Congelados,Masas y Comidas Congeladas
 669902,Pizza Hipermaxi Congelada Jamon Queso Light Masa Integral,Congelados,Masas y Comidas Congeladas
 669903,Pizza Hipermaxi Congelada Pepperoni 620 gr,Congelados,Masas y Comidas Congeladas
