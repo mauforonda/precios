@@ -1502,6 +1502,7 @@ id_producto,producto,categoria,subcategoria
 26092,CHOCOLATE BREICK CAFE MOCA TAB 100G,Abarrotes,Chocolates y Caramelos
 26094,CHOCOLATE BREICK BLANCO TAB 100G,Abarrotes,Chocolates y Caramelos
 26095,CHOCOLATE BREICK LECHE TAB 100G,Abarrotes,Chocolates y Caramelos
+26099,COBERTURA BREICK CHOCOL AMARGO 250G,Abarrotes,Repostería
 26103,REFRESCO REAL CHICHA MORAD DISPLAY 20X14G,Bebidas,Refrescos en Polvo
 26104,CERVEZA BUDWEISER LTA 269ML,Bebidas,Cervezas
 26106,CHOCOLATE BREICK RELL FRANBUEZA TAB 95G,Abarrotes,Chocolates y Caramelos
@@ -1547,6 +1548,7 @@ id_producto,producto,categoria,subcategoria
 26184,PIPOCA LOCA DULCE TUTTI FRUTTI 110G,Abarrotes,Snack
 26185,PICO SNACK CAMARO MANTEQ BOLITA 120G,Abarrotes,Snack
 26186,PICO SNACK CAMARO QUESO 120G,Abarrotes,Snack
+26190,MANI PINZONES ORIGINAL DP 220G,Abarrotes,Snack
 26191,VINO KOHLBERG TRIVARIETAL BOT 750ML,Bebidas,Vinos y Champagne
 26195,MEZCLA CREMA D LECHE EMBARE TETRA 200G,Abarrotes,Repostería
 26196,MEZCLA LECHE CONDENS EMBARE TETRA 395G,Abarrotes,Nutrición Infantil
@@ -7269,6 +7271,7 @@ id_producto,producto,categoria,subcategoria
 240667,PACK TOALLA CLASSIC TRIPLE PROT 12X160,Cuidado del Bebé,Cuidado del Bebé
 240668,PACK CACAO SH + C. DE PEINAR HAIR FOOD,Cuidado Personal,Cuidado del Cabello
 240669,"PACK COCO SH + MASCARA ,HAIR FOOD",Cuidado Personal,Cuidado del Cabello
+240670,"PACK BANANA SH + MASCARA, HAIR FOOD",Cuidado Personal,Cuidado del Cabello
 240671,"PACK ALOE VERA SH + MASCARA, HAIR FOOD",Cuidado Personal,Cuidado del Cabello
 240673,"PACK AGUACATE SH + MASCARA, HAIR FOOD",Cuidado Personal,Cuidado del Cabello
 240676,GEL LIMPIADOR  FACIAL HIALURONICO BABARI,Cuidado Personal,Cuidado de la Piel
@@ -12554,7 +12557,7 @@ id_producto,producto,categoria,subcategoria
 552830,VINO APALTAGUA ES MERLOT 750ML,Bebidas,Vinos y Champagne
 552831,VINO APALTAGUA GRAN VERANO MERLOT 750 ML,Bebidas,Vinos y Champagne
 552832,VINO APALTAGUA RESERVA CARMENERE 750 ML,Bebidas,Vinos y Champagne
-552833,VINO APALTAGUA ES CARMENERE 750 ML,Bebidas,Vinos y Champagne
+552833,VINO APALTAGUA CARMENERE 750ML,Bebidas,Vinos y Champagne
 552834,VINO APALTAGUA GRAN VERANO CARMENERE 750,Bebidas,Vinos y Champagne
 552835,VINO APALTAGUA ES CABERNET SAUVIGNON 750,Bebidas,Vinos y Champagne
 552836,PACK 3X2 HUEVO MRM X 6 UNID,Lácteos y Derivados,Huevos
@@ -12564,6 +12567,7 @@ id_producto,producto,categoria,subcategoria
 552849,GASEOSA ORIENTAL NARANJA 3LT,Bebidas,Gaseosas
 552850,PAN MOLDE SAN GABRIEL MASA MADRE 650 GR,Panadería,Panadería Externa
 552851,GIN DRY GEORG FORSTER 375 ML,Bebidas,Licores
+552852,GIN DRY AZUL GEROG FORSTER 375 ML,Bebidas,Licores
 552853,RON CARTA BLANCA CAPITAN CORTEZ 965 ML,Bebidas,Licores
 552854,PAN PANISIMO SARNITA 12 UN,Panadería,Panadería Externa
 552855,PAN PANISSIMO CON CANELA 12 UN,Panadería,Panadería Externa
@@ -12671,6 +12675,8 @@ id_producto,producto,categoria,subcategoria
 553026,TE VERDE HINDU SURTIDO 20SAQ,Abarrotes,Café y Sucedáneos
 553027,TE HINDU SUPERBLEND INMUNITY 10SAQ,Abarrotes,Café y Sucedáneos
 553028,TE HINDU SUPERBLEND RELAX 10SAQ,Abarrotes,Café y Sucedáneos
+553043,SIDRA BURBUSHHH MANZANA 620 ML,Bebidas,Vinos y Champagne
+553044,SIDRA BURBUSHHHH MARACUYA 620 ML,Bebidas,Vinos y Champagne
 553045,SIDRA BURBUSHHH UVA 620 ML,Bebidas,Vinos y Champagne
 554333,Cerveza Paceña Lata Roja 473 Cc,Bebidas,Cervezas
 554466,Detergente Liquido Ola Futuro Limpieza Completa 5 L,Cuidado del Hogar,Limpieza de la Ropa
@@ -13709,6 +13715,8 @@ id_producto,producto,categoria,subcategoria
 629730,MAYONESA KRAFT DELI 90 GR,Abarrotes,Productos Americanos
 629732,GALLETAS SALADAS BAKED SNACK CRACKERS ORIGINAL 351GR,Abarrotes,Productos Americanos
 629734,GALLETAS SALADAS BAKED QUESO CHEDDAR 351GR,Abarrotes,Productos Americanos
+629741,CAMPBELLS SPAGHETTIOS ORIGINAL 448.GR,Abarrotes,Productos Americanos
+629742,CAMPBELLS SPAGHETTI CON QUESO 448 GR,Abarrotes,Productos Americanos
 629744,KRAFT HEINZ PONCHE TROPICAL 0.18ML,Bebidas,Bebidas Usa
 629745,KRAFT HEINZ SABOR CEREZA KOOL AID 0.18 ML,Bebidas,Bebidas Usa
 629746,KRAFT HEINZ SABOR UVA KOOL AID 0.18 ML,Bebidas,Bebidas Usa
@@ -16285,6 +16293,7 @@ id_producto,producto,categoria,subcategoria
 669049,GUANTE NEGRO EXTRA GRUESO7 1/2; 8; 8 1/2,Cuidado del Hogar,Accesorios del Hogar
 669052,BYPHASSE CREMA CORPORAL CON EXTRACTO DE,Cuidado Personal,Cuidado de la Piel
 669058,BYPHASSE FAMILY FRESH SHAMPOO TÉ VERDE &,Cuidado Personal,Cuidado del Cabello
+669059,BYPHASSE FAMILY FRESH MASCARILLA CAPILAR,Cuidado Personal,Cuidado del Cabello
 669060,BYPHASSE FAMILY FRESH MASCARILLA CAPILAR,Cuidado Personal,Cuidado del Cabello
 669063,BYPHASSE PLAISIR NATURE GEL DE DUCHA VER,Cuidado Personal,Cuidado de la Piel
 669065,PAN HUG ACTSEC G BIGP OP DIA 2X74 THA,Cuidado del Bebé,Pañales
@@ -17454,6 +17463,8 @@ id_producto,producto,categoria,subcategoria
 673681,Requeson Jolden 250 gr,Lácteos y Derivados,Quesos
 673714,Mini Salchicha Torito sin Piel kg,Fiambres,Fiambres Externos
 673715,Salchicha Hadoquera Ahumada Sofia kg,Fiambres,Fiambres Externos
+673717,GO GURT MARACUYA KREAM 110ML BX10,Lácteos y Derivados,Yogures
+673718,GO GURT FRUTILLA KREAM 110ML,Lácteos y Derivados,Yogures
 673722,NECTAR DE FRUTAS MANZANA 130ML SOALPRO,Lácteos y Derivados,Leches
 673723,NECTAR DE FRUTAS DURAZNO 130ML SOALPRO,Lácteos y Derivados,Leches
 673731,PALETA TRADICION CHANTILLY DELIZIA 60ML,Congelados,"Helados, Cassattas y Picoleses"
@@ -18337,6 +18348,7 @@ id_producto,producto,categoria,subcategoria
 695658,Refresco Kris Pina 20 gr,Bebidas,Refrescos en Polvo
 695663,Polvo de Hornear Kris 907 gr,Abarrotes,Repostería
 695677,Placentex x 3 ampollas,Farmacia Otc,Dermatológicos
+695680,JABON FLORESTA MIEL DE ABEJA X100G,Farmacia Éticos,Dermatológicos
 695737,Leche de Avena Carla Lorena 300 ml,Cuidado Personal,Cuidado de la Piel
 695738,Leche de Rosas Carla Lorena 300 ml,Cuidado Personal,Cuidado de la Piel
 695739,Leche de Almendra Carla Lorena 300 ml,Cuidado Personal,Cuidado de la Piel
@@ -18519,6 +18531,7 @@ id_producto,producto,categoria,subcategoria
 749148,Empanada de Maiz Sabor Colombia Carne 10 un,Congelados,Masas y Comidas Congeladas
 752417,NUGGETS DE PACU KG.PACUSITO VENTA AL PESO,Congelados,Carnes Congeladas
 761062,Vino Viñas De Balbo Tinto 1125 ml,Bebidas,Vinos y Champagne
+761252,PULPA CONG.FRUTAS Y VEGETALES DETOX X5 UNID.CELEBRE,Congelados,Pulpas y Frutas Congeladas
 761258,Porotos Hess Conserva 340 gr,Fiambres,Fiambres Externos
 761263,Berenjenas Hess Conserva 330 gr,Fiambres,Fiambres Externos
 761419,Tapa de Empanada Criollas Miltipasta 12 un,Congelados,Masas y Comidas Congeladas
