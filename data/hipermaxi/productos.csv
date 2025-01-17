@@ -4924,7 +4924,7 @@ id_producto,producto,categoria,subcategoria
 118558,Ron Viejo de Caldas 3 Años 1000 ml,Bebidas,Licores
 118705,Cera Depiladora Depimiel Lata Natural 200 gr,Cuidado Personal,Cuidado de la Piel
 118707,Cera Depiladora Depimiel Lata Vegetal 200 gr,Cuidado Personal,Cuidado de la Piel
-118708,Cera Depiladora Depimel Negra 200 gr,Aseo Personal,Cuidado De La Piel
+118708,Cera Depiladora Depimel Negra 200 gr,Cuidado Personal,Cuidado de la Piel
 118709,Cera Depiladora Depimiel Lata Negra 200 gr,Cuidado Personal,Cuidado de la Piel
 118711,Cera Depiladora Depimiel Microondas Natural 200 gr,Cuidado Personal,Cuidado de la Piel
 118712,Cera Depiladora Depimel Honda Vegetal 200 gr,Cuidado Personal,Cuidado de la Piel
@@ -7326,6 +7326,7 @@ id_producto,producto,categoria,subcategoria
 240706,NUTRISSE OLEOS 5.0 CASTANO CLARO,Cuidado Personal,Cuidado del Cabello
 240707,NUTRISSE OLEOS 1.0 NEGRO,Cuidado Personal,Cuidado del Cabello
 240711,JABONCILO SIMONDS JALEA REAL 1 LT,Cuidado Personal,Cuidado de la Piel
+240712,LIMPIA TAPIZ PODEROSO 940 ML,Cuidado del Hogar,Limpieza de Living y Ropero
 240716,INSECTICIDA RAID ESCUDO 360 CC,Cuidado del Hogar,Productos Americanos
 240719,REPELENE OFF X DURACION 200 ML,Cuidado del Hogar,Productos Americanos
 240720,PACK 2 AMBIENTADORES SURTIDO TOTES 2X360,Cuidado del Hogar,Limpieza de Living y Ropero
@@ -7337,7 +7338,10 @@ id_producto,producto,categoria,subcategoria
 240726,SERVILLETA HOGAR NAVIDENA X60UN  1X18,Cuidado Personal,Cuidado Familiar
 240727,AMBIENTADOR AER BERRY 6X10 GR,Cuidado del Hogar,Limpieza de Living y Ropero
 240730,AMBIENTADOR AER CITRICA 6X10GR,Cuidado del Hogar,Limpieza de Living y Ropero
+240731,AMBIENTADOR AER ROSAS 6X10 GR,Cuidado del Hogar,Limpieza de Living y Ropero
+240732,AMBIENTADOR AER JAZMIN 6X10 GR,Cuidado del Hogar,Limpieza de Living y Ropero
 240733,AMBIENTADOR AER MARINA 6X10 GR,Cuidado del Hogar,Limpieza de Living y Ropero
+240734,AMBIENTADOR AER LAVANDA 6X10 GR,Cuidado del Hogar,Limpieza de Living y Ropero
 240736,JABON ALMA DE FLORES GARDEN 130 GR,Cuidado Personal,Cuidado de la Piel
 240738,JABON ALMA DE FLOR FOUGERE 130 GR,Cuidado Personal,Cuidado de la Piel
 240739,JABON ALMA DE FLOR INTENSE 130 GR,Cuidado Personal,Cuidado de la Piel
@@ -9393,6 +9397,7 @@ id_producto,producto,categoria,subcategoria
 374970,Limpiador De Baño Sapolio Gel Limon 500 ml,Cuidado del Hogar,Limpieza de Living y Ropero
 375010,Shampoo Liz Hombre 2en1 900 ml,Cuidado Personal,Cuidado del Cabello
 375049,Vinifan Contact 3 m 45 cm,Bazar,Librería
+375050,PAPEL VINIFAN CONTACT 1.5 X0.45,Bazar,Librería
 375179,Quitamanchas Vanish Doypack 400 ml,Cuidado del Hogar,Limpieza de la Ropa
 375373,Escoba Novica Bettanin Varry 1000,Cuidado del Hogar,Accesorios del Hogar
 375381,Escoba Varre Max Bettanin,Cuidado del Hogar,Accesorios del Hogar
@@ -14200,6 +14205,7 @@ id_producto,producto,categoria,subcategoria
 651227,Fideo Divella Carozzi Ravioli de Carne 400 gr,Abarrotes,Básicos
 651236,Condimento Arcoiris Pollo 25 gr,Abarrotes,Condimentos y Legumbres
 651237,Papa Lucana Frita Rallada,Abarrotes,Snack
+651241,CIGARRILLO MARLBORO CAJET BCO 10 UNDS,Bebidas,Cigarrillos
 651272,Suplemento Nutrinat Colon Premium 400 gr,Abarrotes,Dietéticos y Saludables
 651278,Mermelada Campagnola Arandano 454 gr,Abarrotes,"Mermel, Mieles"
 651281,Papa Mix Chip Frita 300 gr,Abarrotes,Snack
@@ -16392,6 +16398,7 @@ id_producto,producto,categoria,subcategoria
 669047,CREMA HANBEL MILK ASAI & PANTENOL 500 GR,Cuidado Personal,Cuidado de la Piel
 669048,PACK HERBAL ESS SH TE VERDE400ML + AC DE,Cuidado Personal,Cuidado del Cabello
 669049,GUANTE NEGRO EXTRA GRUESO7 1/2; 8; 8 1/2,Cuidado del Hogar,Accesorios del Hogar
+669050,BYPHASSE CREMA CARA Y CUERPO TODO TIPO D,Cuidado Personal,Cuidado de la Piel
 669052,BYPHASSE CREMA CORPORAL CON EXTRACTO DE,Cuidado Personal,Cuidado de la Piel
 669058,BYPHASSE FAMILY FRESH SHAMPOO TÉ VERDE &,Cuidado Personal,Cuidado del Cabello
 669059,BYPHASSE FAMILY FRESH MASCARILLA CAPILAR,Cuidado Personal,Cuidado del Cabello
@@ -21723,6 +21730,7 @@ id_producto,producto,categoria,subcategoria
 887425,SARTEN MASALA BRINOX 24X5,Bazar,Articulos de Cocina
 887429,TERMO REVOLUTION 1LT TERMOLAR CAFE,Bazar,Articulos de Cocina
 887574,JAN VINCHAS HALLOWEN 25,Bazar,Temporada Halloween
+887692,JA BARBIJOS SUELTOS .1,Bazar,Bioseguridad
 887711,Jugo de Naranja 1 L,Frutas y Verduras,Ofertas Especiales
 887763,SILICONA STP SON OF GUN GATILLO 595ML,Bazar,Automotriz
 887778,Esponja BomBrill Antiadherente 1 un,Cuidado del Hogar,Accesorios del Hogar
@@ -21800,6 +21808,7 @@ id_producto,producto,categoria,subcategoria
 892272,Boligrafo Faber Castell Negro 0.30,Bazar,Librería
 892279,Marcadores Faber Castell Fiesta 12 Colores,Bazar,Librería
 892310,Sardina Ramirez Aceite Oliva 125 gr,Abarrotes,Comidas en Conserva
+892318,AC SELLOS X 9 STAMPING (GOMA EVA),Bazar,Librería
 892322,AC TEMPERA ESCOLAR X7 COLROES + PINCEL,Bazar,Librería
 892606,PAPEL ALUMINIO DIAMONT 200 SQ USA,Bazar,Articulos de Cocina
 892735,Galleta Tortitas Black 125 gr,Abarrotes,Galletas
@@ -22067,6 +22076,7 @@ id_producto,producto,categoria,subcategoria
 922393,Hoja Papel Bond Report Carta 500 Hojas,Bazar,Librería
 923333,Pegamento Isocola 40 gr,Bazar,Librería
 923334,Pegamento Acricola 40 gr,Bazar,Librería
+923338,CORRECTOR EN CINTA SDY ACRICOLOR,Bazar,Librería
 923342,MARCADOR PIZARRA DONG-A ROJO UND.,Bazar,Librería
 923359,GRAPAS 26/6 KANGARO UND.,Bazar,Librería
 923364,BOLIGRAFO FLAIR C/SURTIDO UND.,Bazar,Librería
@@ -22112,6 +22122,8 @@ id_producto,producto,categoria,subcategoria
 929408,ALE.GOMA EVA PLIEGO BRILLO,Bazar,Librería
 929508,FRI PISCINA INFLABLE NINOS EN CAJA 2ANOS 190,Bazar,Temporada Verano
 929672,VASO DE WHISKY BRISTOL,Bazar,Menaje Vidrio/Cristal
+929755,Agenda Juvenil Perpetua 2025,Bazar,Librería
+929758,Agenda Perpetua 2025,Bazar,Librería
 929789,FRE CAJA DE HERRAMIENTAS N 16 REY,Bazar,Ferretería
 929790,FRE CAJA DE HERRAMIENTAS N20 REY,Bazar,Ferretería
 929797,Vasos Desechable Belen 120 ml 100 un,Bazar,Cotillón
@@ -22234,6 +22246,7 @@ id_producto,producto,categoria,subcategoria
 954998,Taper Good y Good Cuadrado 3.7 L,Bazar,Menaje Plástico
 956809,Film Plastico Pvc Alpfilm 28 cm 100 m,Bazar,Articulos de Cocina
 957074,Alcancia Hipermaxi Chanchito,Bazar,Regalos/Adornos
+957284,Agenda Perpetua 2025 Elegante,Bazar,Librería
 957679,CEPILLO DE CABELLO CONDOR 6873 BLISA,Bazar,Bijouteria/Cuidado Personal
 957690,CI ESPATULA TRAMONTINA 21165/194,Bazar,Articulos de Cocina
 957691,CI ESPATULA DE PASTEL TRAMONT.21163/195,Bazar,Articulos de Cocina
