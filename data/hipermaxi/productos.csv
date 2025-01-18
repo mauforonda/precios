@@ -132,6 +132,7 @@ id_producto,producto,categoria,subcategoria
 5006,Kaky 1 Kg,Frutas y Verduras,Frutas
 5007,Frutilla 1 kg,Frutas y Verduras,Frutas
 5008,Grey 1 kg,Frutas y Verduras,Frutas
+5009,Lenteja Hipermaxi kg,Granos y Hortalizas,Fraccionados Hipermaxi
 5011,Guineo Criollo 1 kg,Frutas y Verduras,Frutas
 5012,Guineo Oloroso 1 kg,Frutas y Verduras,Frutas
 5014,Kiwi 1 kg,Frutas y Verduras,Frutas
@@ -1421,6 +1422,7 @@ id_producto,producto,categoria,subcategoria
 23770,Leche Evaporada Nestle Carnation 360 gr,Abarrotes,Nutrición Infantil
 24005,JELLY SHOT FOUR LOKO BSA 248G,Bebidas,Licores
 24007,Cereal Kelloggs Corn Flakes 200 gr,Abarrotes,Nutrición Infantil
+24017,HIDRATANTE LIFE SANTE INTI FRESA 500ML,Bebidas,Isotónicos
 24040,Cereal Kelloggs Choco Krispis 175 gr,Abarrotes,Nutrición Infantil
 24074,Cereal Kelloggs Corn Flakes 350 gr,Abarrotes,Nutrición Infantil
 24112,Cereal Kelloggs Froot Loops 230 gr,Abarrotes,Nutrición Infantil
@@ -1453,6 +1455,8 @@ id_producto,producto,categoria,subcategoria
 26004,ISOTONICO ACTIVADE MORA PET 1LT,Bebidas,Isotónicos
 26006,BEBIDA MAMITAS PINA LTA 355ML,Bebidas,Licores
 26007,BEBIDA MAMITAS LIMON LTA 355ML,Bebidas,Licores
+26008,LICOR D MENTA LOBO H BUENA 750ML,Bebidas,Licores
+26009,LICOR LOBO SABOR CAFE 750ML,Bebidas,Licores
 26010,AVENA DCEREAL INSTANT C QUINUA 300G,Abarrotes,Nutrición Infantil
 26011,AGUA TONICA LA CABANA PET 1LT,Bebidas,Aguas
 26012,AGUA TONICA LA CABANA CERO 1LT,Bebidas,Aguas
@@ -1470,6 +1474,7 @@ id_producto,producto,categoria,subcategoria
 26027,GRAGEAS D MANI MC NUTS OREO 120G,Abarrotes,Snack
 26028,GRAGEAS D MANI MC NUTS PICANTE 120G,Abarrotes,Snack
 26029,GRAGEA D MANI MC NUTS MIEL MOSTAZ 120G,Abarrotes,Snack
+26030,LICOR DE FRESA LOBO 750 ML,Bebidas,Licores
 26031,TE AMATE D JAMAICA ARAND PET 500ML,Bebidas,Bebidas Varias
 26035,VINO KOHLBERG SEMI DULCE TTO 700ML,Bebidas,Vinos y Champagne
 26036,VINO KOHLBERG DULCE ROSE 700ML,Bebidas,Vinos y Champagne
@@ -5003,6 +5008,7 @@ id_producto,producto,categoria,subcategoria
 119454,Shampoo Barber Gel De Ducha 400 ml,Cuidado Personal,Cuidado del Cabello
 119460,Toallas Humedas Pequeñin Naricitas 20 un,Cuidado del Bebé,Cuidado del Bebé
 119491,Desodorante Aerosol Axe Ice Chill 150 ml,Cuidado Personal,Cuidado de la Piel
+119500,Cepillo Condor Limpia Rincon,Cuidado del Hogar,Accesorios del Hogar
 119501,Cepillo Condor Limpia Baño,Cuidado del Hogar,Accesorios del Hogar
 119502,Limpia Vidrio Condor 1130,Cuidado del Hogar,Accesorios del Hogar
 119543,Crema Depiladora Depilex Bikini Axila,Cuidado Personal,Cuidado de la Piel
@@ -6971,6 +6977,7 @@ id_producto,producto,categoria,subcategoria
 227150,PANAL BABYSEC PREM  PPK XXG 2X44,Cuidado del Bebé,Pañales
 227151,BLOQUE MOCHILA CRIVEA 50 GR,Cuidado del Hogar,Productos Americanos
 227152,BLOQUE MOCHILA CRIVEA 2X50 GR,Cuidado del Hogar,Productos Americanos
+227156,PACK MASCARA COLOSSAL CURL WTP+ ESPONJA,Cuidado Personal,Cuidado de la Piel
 227157,MASCARILLA PANTENE P/CABELLO MIXTO 300ML,Cuidado Personal,Cuidado del Cabello
 227158,Shampoo Head Shoulders Purificante Carbon Activado 650 ml,Cuidado Personal,Cuidado del Cabello
 227159,Desodorante Gel Gillete Power Beads Sport Peak 45 gr,Cuidado Personal,Cuidado de la Piel
@@ -7350,6 +7357,7 @@ id_producto,producto,categoria,subcategoria
 240746,TOALLA HUMEDA PROBLOCK ANTIBACTERIAL 50,Cuidado del Bebé,Cuidado del Bebé
 240747,TOALLA PROBLOCK MANZANILLA  ALOE 10 UNID,Cuidado del Bebé,Cuidado del Bebé
 240748,TOALLA HUMEDA PROBLOCK  ALOE 10 UNID,Cuidado del Bebé,Cuidado del Bebé
+240765,PACK NUTRISSE 57 + ESMALTE VOGUE,Cuidado Personal,Cuidado del Cabello
 240778,Cereal En Linea Kids 330 gr,Abarrotes,Nutrición Infantil
 240850,Sal El Salerito de Mesa 130 gr,Abarrotes,Básicos
 240890,My Toffee Coco 600 gr,Abarrotes,Chocolates y Caramelos
@@ -9010,9 +9018,9 @@ id_producto,producto,categoria,subcategoria
 356014,Shampoo Sedal Ceramidas 340 ml,Cuidado Personal,Cuidado del Cabello
 356016,Shampoo Sedal Rizos 340 ml,Cuidado Personal,Cuidado del Cabello
 356017,Shampoo Sedal Liso 340 ml,Cuidado Personal,Cuidado del Cabello
-356030,Shampoo Johnsons Baby Gotas de Lagrimas 200 ml,Cuidado del Bebé,Cuidado del Bebé
+356030,Shampoo Johnsons Baby Gotas de Brillo 200 ml,Cuidado del Bebé,Cuidado del Bebé
 356031,Acondicionador Johnsons Gotas de Brillo 200 ml,Cuidado del Bebé,Cuidado del Bebé
-356032,Spray Johnsons Baby Gotas de Lagrimas 200 ml,Cuidado del Bebé,Cuidado del Bebé
+356032,Spray Johnsons Baby Gotas de Brillo 200 ml,Cuidado del Bebé,Cuidado del Bebé
 356239,Sopa Instantanea Ajinomen Gallina Picante 80 gr,Abarrotes,Básicos
 356425,Chocolate Rafaello Coco 150 gr,Abarrotes,Chocolates y Caramelos
 356479,Chocolate Tablerone Milk Barra 360 gr,Abarrotes,Chocolates y Caramelos
@@ -12739,6 +12747,7 @@ id_producto,producto,categoria,subcategoria
 552986,GALLETAS DANESAS DE MANTEQUILLAA 16 OZ,Abarrotes,Productos Americanos
 552988,MANTEQUILLA DE MANII JIF 40 OZ,Abarrotes,Productos Americanos
 552989,MANTEQUILLA DE MANI CRUNCHY JIF 40 OZ,Abarrotes,Productos Americanos
+552990,PEPINILLOS MT OLIVE KESHER DILL 46 OZ,Abarrotes,Productos Americanos
 552991,POP TARTS FROSTED SMORES 13.5 OZ,Abarrotes,Productos Americanos
 552993,PACK 3 GELATINA FRAMBU 230G JARRA 1.5 LT,Abarrotes,Repostería
 552997,PACK 3 CERVEZA PAULANER POSAVASOS,Bebidas,Cervezas
@@ -12767,6 +12776,7 @@ id_producto,producto,categoria,subcategoria
 553045,SIDRA BURBUSHHH UVA 620 ML,Bebidas,Vinos y Champagne
 553046,BIPACK JUGOS LA GRANJA 2X2LT,Bebidas,"Jugos, Néctar"
 553048,CHOCOLATE SALTUS  70P CACAO LOCOTO Y SAL,Abarrotes,Chocolates y Caramelos
+553053,GOMITA FINI BANANAS 35 GR,Abarrotes,Golosinas - Varias
 553054,GOMITA FINI GUSANO ACIDO 35 GR,Abarrotes,Golosinas - Varias
 553055,GOMITA FINI BESOS 35 GR,Abarrotes,Golosinas - Varias
 553056,GOMITA FINI DENTADURA 35 GR,Abarrotes,Golosinas - Varias
@@ -13376,6 +13386,7 @@ id_producto,producto,categoria,subcategoria
 616305,Toalla Higienica Maximaternity Posparto 10 un,Cuidado Personal,Cuidado del Adulto
 616344,Jabon Barra Zote Rosado 400 gr,Cuidado del Hogar,Limpieza de la Ropa
 616345,Escoba Condor Limpia Telaraña,Cuidado del Hogar,Accesorios del Hogar
+616346,Escoba Condor Varre Forte V-52,Cuidado del Hogar,Productos Americanos
 616351,Desodorante Barra Dove Original 50 gr,Cuidado Personal,Cuidado de la Piel
 616370,Tinte Casting Tono 600 Rubio Oscuro,Cuidado Personal,Cuidado del Cabello
 616371,Tinte Casting Tono 810 Rubio Perla,Cuidado Personal,Cuidado del Cabello
@@ -14588,6 +14599,7 @@ id_producto,producto,categoria,subcategoria
 655492,Jugo Aloe Vera Savia Frutilla 1500 ml,Bebidas,Bebidas Varias
 655493,Albahaca Carmencita 10 gr,Abarrotes,Condimentos y Legumbres
 655495,Cebolla Carmencita Polvo 35 gr,Abarrotes,Condimentos y Legumbres
+655502,ESPECIAS P/COCKTAIL S GIN&TONIC DISPLAY,Abarrotes,Condimentos y Legumbres
 655505,Hierbas Carmencita Provenzales 18 gr,Abarrotes,Condimentos y Legumbres
 655508,Pimienta Carmencita Blanca,Abarrotes,Condimentos y Legumbres
 655509,Pimienta Negra Carmencita Grano 47 gr,Abarrotes,Condimentos y Legumbres
@@ -16453,8 +16465,12 @@ id_producto,producto,categoria,subcategoria
 669135,DETERGENTE SURF COCO 650G,Cuidado del Hogar,Limpieza de la Ropa
 669136,DETERGENTE SURF LIMON 650G,Cuidado del Hogar,Limpieza de la Ropa
 669137,PACK LAVAVAJILLAS LIMON+LIMON 1050 CC,Cuidado del Hogar,Limpieza de Cocina
-669142,OLDSPICE BARRA DEO LEÑA 85G X 12U,Cuidado Personal,Cuidado de la Piel
+669141,ECO CLEAN VAJILLERO LIMON 1750 ML,Cuidado del Hogar,Limpieza de Cocina
+669142,OLDSPICE BARRA DEO LENA 85G X 12U,Cuidado Personal,Cuidado de la Piel
+669145,H&S SH LIMPIEZA RENOVADORA 90ML X 24U,Cuidado Personal,Cuidado del Cabello
 669146,H&S SH MEN OLD SPICE 90ML X 24U,Cuidado Personal,Cuidado del Cabello
+669152,AMBIENTADOR TOTES VAINILLA 360 ML,Cuidado del Hogar,Limpieza de Living y Ropero
+669156,DOVE SH NUTRICION 12X200ML,Cuidado Personal,Cuidado del Cabello
 669901,Pizza Hipermaxi Congelada Hawaiana 620 gr,Congelados,Masas y Comidas Congeladas
 669902,Pizza Hipermaxi Congelada Jamon Queso Light Masa Integral,Congelados,Masas y Comidas Congeladas
 669903,Pizza Hipermaxi Congelada Pepperoni 620 gr,Congelados,Masas y Comidas Congeladas
@@ -18058,6 +18074,7 @@ id_producto,producto,categoria,subcategoria
 677871,Tortillas Taquinos Tacos Grande,Congelados,Masas y Comidas Congeladas
 677883,Pernil Ahumado Sofia A Granel kg,Fiambres,Fiambres Externos
 677900,Tortilla Taquinos de Trigo Burritos,Congelados,Masas y Comidas Congeladas
+677902,LECHE CHOCOLATADA SOYA NORDLAND 900CC,Lácteos y Derivados,Leches
 677903,PANETTONE CAJA  ZELADA 700GRS,Panadería,Panadería Externa
 677904,ROSCA DE FRUTAS ZELADA (BOLSA) 600GRS,Pastelería y Masas Típicas,Pastelería Externa
 677905,ROSCA ZELADA CHIPS CHOCOLATE BOLSA 600G,Pastelería y Masas Típicas,Pastelería Externa
@@ -18388,6 +18405,8 @@ id_producto,producto,categoria,subcategoria
 679986,Galleta Costa Chips Fiesta 216 gr,Abarrotes,Galletas
 679994,Chocolate Costa Mecano Manjar 608 gr,Abarrotes,Chocolates y Caramelos
 681000,BEBIDA VEGETAL COCO ORIGINAL VILAY X 1L,Lácteos y Derivados,Leches
+681001,BEBIDA VEGETAL WILK ORIGINAL SIN AZUCAR VILAY X1L,Lácteos y Derivados,Leches
+681002,BEBIDA VEGETAL WILK CHOCOLATE VILAY X 1L,Lácteos y Derivados,Leches
 681003,CREMA A BASE DE COCO PALMISTE Y ARVEJA X 200ML VILAY,Lácteos y Derivados,Crema de Leche
 681007,CEREAL DE MAIZ EN HOJUELAS SABOR CHOCOLATE KELLOGGS 345G,Abarrotes,Productos Americanos
 681010,Queso Criollo Vaquita 1 kg,Lácteos y Derivados,Quesos
@@ -19076,6 +19095,7 @@ id_producto,producto,categoria,subcategoria
 784683,Queso Mozzarella Santa Rosa Feteado 200 gr,Lácteos y Derivados,Quesos
 784684,APEGO KIDS FRUTILLA 6 X200 ML,Lácteos y Derivados,Leches
 784690,APEGO KIDS CHOCOLATE 6 X200 ML,Lácteos y Derivados,Leches
+784691,Queso Mozzarella Santa Rosa 400 gr,Lácteos y Derivados,Quesos
 784692,Bizcocho de Maiz Pan Hogar 100 gr,Pastelería y Masas Típicas,Masas Típicas Externas
 784706,Cuñape Rosca La Tradicion Cruceña 120 gr,Pastelería y Masas Típicas,Masas Típicas Externas
 784717,Burrito Congelado Orale Guey Chili de Pollo al Limon 250 gr,Congelados,Carnes Congeladas
