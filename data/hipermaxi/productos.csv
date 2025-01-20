@@ -290,6 +290,7 @@ id_producto,producto,categoria,subcategoria
 5271,Lechuga La Fuente Manteca 1 kg,Frutas y Verduras,Gourmet
 5272,Lechuga La Fuente Romana Verde 1 kg,Frutas y Verduras,Gourmet
 5273,Arandanos Deshidratado Hipermaxi kg,Granos y Hortalizas,Fraccionados Hipermaxi
+5278,Semilla de Girasol Hipermaxi kg,Granos y Hortalizas,Fraccionados Hipermaxi
 5290,Fideo Ferrari Fetuccini 400 gr,Abarrotes,Básicos
 5294,Pimenton Rojo Quinta Manantial 1 kg,Frutas y Verduras,Gourmet
 5298,Tomate Manzana Quinta Manantial 1 kg,Frutas y Verduras,Gourmet
@@ -1422,6 +1423,7 @@ id_producto,producto,categoria,subcategoria
 23770,Leche Evaporada Nestle Carnation 360 gr,Abarrotes,Nutrición Infantil
 24005,JELLY SHOT FOUR LOKO BSA 248G,Bebidas,Licores
 24007,Cereal Kelloggs Corn Flakes 200 gr,Abarrotes,Nutrición Infantil
+24016,HIDRATANTE LIFE SANTE INTI NARANJA 500ML,Bebidas,Isotónicos
 24017,HIDRATANTE LIFE SANTE INTI FRESA 500ML,Bebidas,Isotónicos
 24040,Cereal Kelloggs Choco Krispis 175 gr,Abarrotes,Nutrición Infantil
 24074,Cereal Kelloggs Corn Flakes 350 gr,Abarrotes,Nutrición Infantil
@@ -7360,7 +7362,9 @@ id_producto,producto,categoria,subcategoria
 240746,TOALLA HUMEDA PROBLOCK ANTIBACTERIAL 50,Cuidado del Bebé,Cuidado del Bebé
 240747,TOALLA PROBLOCK MANZANILLA  ALOE 10 UNID,Cuidado del Bebé,Cuidado del Bebé
 240748,TOALLA HUMEDA PROBLOCK  ALOE 10 UNID,Cuidado del Bebé,Cuidado del Bebé
+240750,DETERGENTE SURF ROSAS  LOLAS 4.800 KG,Cuidado del Hogar,Limpieza de la Ropa
 240765,PACK NUTRISSE 57 + ESMALTE VOGUE,Cuidado Personal,Cuidado del Cabello
+240775,PAPEL HIGIENICO FINESSE FAMILIA  6 NDS,Cuidado Personal,Cuidado Familiar
 240778,Cereal En Linea Kids 330 gr,Abarrotes,Nutrición Infantil
 240793,TOALLA HIG LADYSOFT ALAS  10 UNDS,Cuidado Personal,Cuidado Familiar
 240850,Sal El Salerito de Mesa 130 gr,Abarrotes,Básicos
@@ -12249,6 +12253,7 @@ id_producto,producto,categoria,subcategoria
 552249,Vino Tinto Reserve De Laube 750 ml,Bebidas,Vinos y Champagne
 552250,Vino Tinto Janoy Bellevue 750 ml,Bebidas,Vinos y Champagne
 552251,Vino Tinto Chateau Paradis Casseuil 750 ml,Bebidas,Vinos y Champagne
+552252,Vino Baies Blanco Dorees Pays Doc 750 ml,Bebidas,Vinos y Champagne
 552253,Vino Tinto Les Medoc 750 ml,Bebidas,Vinos y Champagne
 552255,Gomita Play Gusanos Tarro 500 gr,Abarrotes,Golosinas - Varias
 552256,Huevo Sofia Maple Mediano 30 un,Lácteos y Derivados,Huevos
@@ -12779,6 +12784,7 @@ id_producto,producto,categoria,subcategoria
 553044,SIDRA BURBUSHHHH MARACUYA 620 ML,Bebidas,Vinos y Champagne
 553045,SIDRA BURBUSHHH UVA 620 ML,Bebidas,Vinos y Champagne
 553046,BIPACK JUGOS LA GRANJA 2X2LT,Bebidas,"Jugos, Néctar"
+553047,CHOCOLATE SALTUS 44 GR 62P CACAO CON KOA,Abarrotes,Chocolates y Caramelos
 553048,CHOCOLATE SALTUS  70P CACAO LOCOTO Y SAL,Abarrotes,Chocolates y Caramelos
 553053,GOMITA FINI BANANAS 35 GR,Abarrotes,Golosinas - Varias
 553054,GOMITA FINI GUSANO ACIDO 35 GR,Abarrotes,Golosinas - Varias
@@ -16417,6 +16423,7 @@ id_producto,producto,categoria,subcategoria
 669049,GUANTE NEGRO EXTRA GRUESO7 1/2; 8; 8 1/2,Cuidado del Hogar,Accesorios del Hogar
 669050,BYPHASSE CREMA CARA Y CUERPO TODO TIPO D,Cuidado Personal,Cuidado de la Piel
 669052,BYPHASSE CREMA CORPORAL CON EXTRACTO DE,Cuidado Personal,Cuidado de la Piel
+669057,BYPHASSE FAMILY FRESH SHAMPOO COCO CABEL,Cuidado Personal,Cuidado del Cabello
 669058,BYPHASSE FAMILY FRESH SHAMPOO TÉ VERDE &,Cuidado Personal,Cuidado del Cabello
 669059,BYPHASSE FAMILY FRESH MASCARILLA CAPILAR,Cuidado Personal,Cuidado del Cabello
 669060,BYPHASSE FAMILY FRESH MASCARILLA CAPILAR,Cuidado Personal,Cuidado del Cabello
@@ -16465,15 +16472,19 @@ id_producto,producto,categoria,subcategoria
 669128,PROTECTOR SUN SHINE CONTROL TONO MEDIO 5,Cuidado Personal,Cuidado de la Piel
 669129,PACK VERANO ECRAN PROT F50 250ML + LECHE,Cuidado Personal,Cuidado de la Piel
 669130,CREMA ANTIESTRIAS REGENERADORA SIMONDS 4,Cuidado Personal,Cuidado de la Piel
+669132,DETERGENTE SURF HORTENSIAS 650G,Cuidado del Hogar,Limpieza de la Ropa
 669133,DETERGENTE SURF HORTENSIAS 1.8KG,Cuidado del Hogar,Limpieza de la Ropa
 669134,DETERGENTE SURF HORTENSIAS 4.8KG,Cuidado del Hogar,Limpieza de la Ropa
 669135,DETERGENTE SURF COCO 650G,Cuidado del Hogar,Limpieza de la Ropa
 669136,DETERGENTE SURF LIMON 650G,Cuidado del Hogar,Limpieza de la Ropa
 669137,PACK LAVAVAJILLAS LIMON+LIMON 1050 CC,Cuidado del Hogar,Limpieza de Cocina
+669140,ECO CLEAN VAJILLERO LIMON 880 ML,Cuidado del Hogar,Limpieza de Cocina
 669141,ECO CLEAN VAJILLERO LIMON 1750 ML,Cuidado del Hogar,Limpieza de Cocina
 669142,OLDSPICE BARRA DEO LENA 85G X 12U,Cuidado Personal,Cuidado de la Piel
 669145,H&S SH LIMPIEZA RENOVADORA 90ML X 24U,Cuidado Personal,Cuidado del Cabello
 669146,H&S SH MEN OLD SPICE 90ML X 24U,Cuidado Personal,Cuidado del Cabello
+669147,DETERGENTE SURF ROSAS Y LILAS 650G,Cuidado del Hogar,Limpieza de la Ropa
+669148,DETERGENTE SURF COCO 1.8KG,Cuidado del Hogar,Limpieza de la Ropa
 669151,AMBIENTADOR TOTES ANTITABACO 360 ML,Cuidado del Hogar,Limpieza de Living y Ropero
 669152,AMBIENTADOR TOTES VAINILLA 360 ML,Cuidado del Hogar,Limpieza de Living y Ropero
 669156,DOVE SH NUTRICION 12X200ML,Cuidado Personal,Cuidado del Cabello
@@ -18898,6 +18909,7 @@ id_producto,producto,categoria,subcategoria
 781513,Tapa de Salteñas Multipasta 12 un,Congelados,Masas y Comidas Congeladas
 781517,Gyozas Dumplings Congelados 20 un,Congelados,Masas y Comidas Congeladas
 781532,Lomito Cocido Stege Laminado 170 gr,Fiambres,Fiambres Externos
+781534,COSTILLAS DE TAMBAQUI KG. EL SUPER TAMBAQUI,Congelados,Carnes Congeladas
 781544,Helado Cabrera Choco Cono Menta Caja 8 un,Congelados,"Helados, Cassattas y Picoleses"
 781547,Huevos San Sebastian Frescos 30 un,Lácteos y Derivados,Huevos
 781560,Milanesa Sofia Superfood Pollo,Congelados,Carnes Congeladas
@@ -21471,6 +21483,7 @@ id_producto,producto,categoria,subcategoria
 869316,JAN BOLSO DE NAVIDAD 7,Bazar,Temporada Navidad
 869317,JAN BOLSA REGALO NAVIDAD 10,Bazar,Temporada Navidad
 869320,JAN GUIA  DE NAVIDAD DELGADA 9,Bazar,Temporada Navidad
+869557,Cuaderno Oficio Colores 100 Hojas,Bazar,Librería
 869605,JAN CAJA DE REGALO MADRE 20,Bazar,Regalos/Adornos
 869776,RESALTADOR MON AMI COLOR NARANJA - 601,Bazar,Librería
 869790,Paño Cocina 100% Algodón,Cuidado del Hogar,Productos Americanos
@@ -21728,6 +21741,7 @@ id_producto,producto,categoria,subcategoria
 883905,BATIDORA PREMIER  ED3307,Bazar,Electrodoméstico/Línea Blanca-Hogar
 883924,PAT COLLAR DE MASCOTAS 18,Bazar,Mascotas General
 883942,FRE BOTELLA DE AGUA  500 ML NINOS,Bazar,Articulos de Bebé
+884084,BLISTER BOLIGRAFO BIC FINE PLUS X3UND,Bazar,Librería
 884115,Baseurero San Remo Infantil con Pedal 275/4,Cuidado del Hogar,Accesorios del Hogar
 884190,ERW AFILADOR CUCHILLO SHARPENER,Bazar,Articulos de Cocina
 884458,KENDY JARRA MIXER 2.7LT X1U,Bazar,Menaje Plástico
