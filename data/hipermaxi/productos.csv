@@ -2260,6 +2260,7 @@ id_producto,producto,categoria,subcategoria
 31074,Vino Tutunjian Cabernet Sauvignon Reserva,Bebidas,Vinos y Champagne
 31075,Vino Apaltagua Cabernet Sauvignon Reserva 750 ml,Bebidas,Vinos y Champagne
 31077,Chicle Buzzy Croc Frambuesa 172 gr,Abarrotes,Golosinas - Varias
+31078,Granola Jasmine Mani Algarr 0 Azucar 250 gr,Abarrotes,Dietéticos y Saludables
 31079,Galleta Jasmine Maracuya Chia 0 Azucar 75 gr,Abarrotes,Dietéticos y Saludables
 31080,Pack Energizante Ciclon 2 un 296 ml,Bebidas,Energizantes
 31093,Vino Mdc Tinto Excellens Cuvee 750 Ml,Bebidas,Vinos y Champagne
@@ -10357,6 +10358,7 @@ id_producto,producto,categoria,subcategoria
 454834,Apanado Maggi 80 gr,Abarrotes,Básicos
 454934,Preservativo Maxmen  Connection 1 caja x 3 Un,Farmacia Otc,Varios
 454978,Masculan Preservativo Largo Placer x 10 und,Farmacia Otc,Varios
+455288,Mayonesa Mayodan Suave 500 ml,Abarrotes,Aderezos
 455321,Ressaka Guarana x 1 sobres,Farmacia Otc,Tracto Alimentario y Metabolismo
 455412,Cicatricure Antimanchas 50 gr,Cuidado Personal,Cuidado de la Piel
 455456,Nectar Pura Vida Frutss Manzana Sin Azucar 2 L,Bebidas,"Jugos, Néctar"
@@ -10931,6 +10933,7 @@ id_producto,producto,categoria,subcategoria
 504513,Alimento Pedigree Adulto Vegetales 1.5 kg,Abarrotes,Mascotas
 504877,Yerba Mate Pajarito Manzana Canela 20 Sobres,Abarrotes,Café y Sucedáneos
 505170,A1 Shake Will Original Sauce 142 gr,Abarrotes,Productos Americanos
+505552,Te Badia Adelgazante 10 un,Abarrotes,Café y Sucedáneos
 505560,Paprika El Cocinero 20 gr,Abarrotes,Condimentos y Legumbres
 505579,Trigolin El Cocinero 400 gr,Abarrotes,Condimentos y Legumbres
 505897,Decolorante Blondor Wella 10 gr,Cuidado Personal,Cuidado del Cabello
@@ -11658,7 +11661,11 @@ id_producto,producto,categoria,subcategoria
 550933,Salsa Ajimadre Picante Piña Aji Colorado,Abarrotes,Aderezos
 550934,Salsa Picante Ajimadre Camba Ulupica 136 gr,Abarrotes,Aderezos
 550935,Salsa Picante Ajimadre Achachairu 136 gr,Abarrotes,Aderezos
+550939,Granola Jasmine Tradicional Coco Pasas 300 gr,Abarrotes,Nutrición Infantil
+550940,Granola Jasmine Avena Maiz 250 gr,Abarrotes,Nutrición Infantil
 550941,Granola Jasmine Maca Canela 250 gr,Abarrotes,Nutrición Infantil
+550942,Granola Jasmine Miel Y Frutas 300 gr,Abarrotes,Nutrición Infantil
+550943,Granola Jasmine Superfrutas 250 gr,Abarrotes,Nutrición Infantil
 550945,Granola Jasmine Cranberries Acai 250 gr,Abarrotes,Nutrición Infantil
 550946,Granola Jasmine Castanas Cacao 250 gr,Abarrotes,Nutrición Infantil
 550949,Chupete Pin Pop Fresa 24 un,Abarrotes,Chocolates y Caramelos
@@ -12519,7 +12526,7 @@ id_producto,producto,categoria,subcategoria
 552685,Te Supremo Piramide Manzanilla Menta,Abarrotes,Café y Sucedáneos
 552686,Te Supremo Piramide Verde Naranja Mandarina,Abarrotes,Café y Sucedáneos
 552687,Te Supremo Piramide Rooibos Vainilla,Abarrotes,Café y Sucedáneos
-552688,TE SUPREMO VERDE GRANEL EN HOJAS 250 GR,Abarrotes,Café y Sucedáneos
+552688,TE VERDE SUPREMO VERDE HOJAS 250G,Abarrotes,Café y Sucedáneos
 552689,AVENA LAMINADA MI SUCO 455 GR,Abarrotes,Nutrición Infantil
 552690,AVENA INSTANTANEA MI SUCO 455 GR,Abarrotes,Nutrición Infantil
 552691,QUINUA REAL MI SUCO 455 GR,Abarrotes,Condimentos y Legumbres
@@ -12922,6 +12929,7 @@ id_producto,producto,categoria,subcategoria
 569186,Galleta Choco Soda 240 gr,Abarrotes,Galletas
 569607,Bombon Nestle Prestigio 33 gr,Abarrotes,Golosinas - Varias
 569798,Chicle Wrigleys Extra Spearmint 15 Sticks,Abarrotes,Golosinas - Varias
+569909,Mayonesa Mayodan Suave 1 kg,Abarrotes,Aderezos
 570044,Cuba Libre Ron y Cola 1 L,Bebidas,Licores
 570125,Cuba Libre Ron y Cola 2 L,Bebidas,Licores
 570214,Palmito Campo Verde Entero 400 gr,Abarrotes,Verduras en Conserva
@@ -19846,6 +19854,7 @@ id_producto,producto,categoria,subcategoria
 826431,Ron Havana Añejo Especial 1 L,Bebidas,Licores
 826446,Salsa Promos Italian Fat Free 16 oz,Abarrotes,Aderezos
 826592,SARTEN ALUM 16C ESPATULA CHILLI P,Bazar,Articulos de Cocina
+826624,Aceituna Verde Saiz 200 gr,Abarrotes,Verduras en Conserva
 826684,Whisky Chivas Royal Salute 21 700 ml,Bebidas,Licores
 826698,23499/022 JUEGO CUBIERTOS 24 PZAS. NATUR,Bazar,Articulos de Cocina
 826699,Nuez Moscada El Cocinero 65 gr,Abarrotes,Condimentos y Legumbres
@@ -19897,6 +19906,7 @@ id_producto,producto,categoria,subcategoria
 830702,Aceituna Del Bono Rellena Pimiento 220 gr,Abarrotes,Verduras en Conserva
 830737,Aceite Crisol Girasol 1800 ml,Abarrotes,Básicos
 830742,Aceite Crisol Vegetal 1800 ml,Abarrotes,Básicos
+830806,Mayonesa Manley Young 500 ml,Abarrotes,Aderezos
 831140,CUCHARILLAS DESECHABLES OLEGO 50UND,Bazar,Cotillón
 831142,PLATO CUADRADODESECHABLE OLEGO 10UND,Bazar,Cotillón
 831285,Refresco Nectar Kris Damasco 120 gr,Bebidas,Refrescos en Polvo
@@ -22102,6 +22112,8 @@ id_producto,producto,categoria,subcategoria
 921346,Pote Clic 2 un,Bazar,Menaje Plástico
 921400,Señaladores Banderitas Color 50 un,Bazar,Librería
 921409,FR.CLIP N 33 X 100 PZS.5,Bazar,Librería
+921413,Corrector Tipo Boligrafo,Bazar,Librería
+921425,Engrampadora Starpler,Bazar,Librería
 921434,CLIP N 50 X 100PZS  .9,Bazar,Librería
 921451,ALE.PAQUETE PAPEL BOND COLORES 50H OF,Bazar,Librería
 921517,Pala Basura Rey Practico,Cuidado del Hogar,Accesorios del Hogar
@@ -22200,6 +22212,8 @@ id_producto,producto,categoria,subcategoria
 931510,Copa de Vino Windsor,Bazar,Menaje Vidrio/Cristal
 932021,FRE PORTA MANTEQUILLERA PLASUTIL,Bazar,Menaje Plástico
 932080,MAR DISFRACES DE MASCOTAS,Bazar,Mascotas General
+932694,ALED CINTA MASQUIN  10,Bazar,Ferretería
+932704,ALED CINTA DOBLE PEGAMENTO 12,Bazar,Ferretería
 932752,Vasos Desechable Belen 500 ml 50 un,Bazar,Cotillón
 932755,Bombillas Belen Corrugada Surtidas 100 un,Bazar,Cotillón
 935914,JAN SET DE COSTURERO .12,Bazar,Bijouteria/Cuidado Personal
@@ -22241,6 +22255,7 @@ id_producto,producto,categoria,subcategoria
 940045,Taper Plastico Cuadrado,Bazar,Menaje Plástico
 940047,Salsero Plaustil,Bazar,Articulos de Cocina
 940743,FRI JUGUETE DIDACTICO - 55,Juguetería,Juguetería Niña/Bebé
+941037,Folder Amarillo con Nepaco,Bazar,Librería
 941113,CI SOPLADOR DE CARBON TRAMONTINA 26479,Bazar,Churrasquería
 941551,Molde Estañado Ilko Redondo,Bazar,Articulos de Cocina
 942359,Cepillo Foramen Junior Suave 1 un,Cuidado Personal,Cuidado Bucal
@@ -22489,21 +22504,24 @@ id_producto,producto,categoria,subcategoria
 996470,Jarra Rey Bonita 2.5 L,Bazar,Menaje Plástico
 996471,Jarra Rey Refrijarra 4 L,Bazar,Menaje Plástico
 996472,FRE.PULVERIZADOR REY UND.,Bazar,Menaje Plástico
+996664,PAQUETE HOJA BOND CARTA X 50HJS,Bazar,Librería
 996936,HIGEEN ADULTO AGUA MARINA X 110 ML,Farmacia Otc,Dermatológicos
 996939,Higeen Adulto Limon x 110 ml,Farmacia Otc,Dermatológicos
 996942,Pyrex Sempre Cuadrado Pequeño,Bazar,Menaje Vidrio/Cristal
 998036,ALED BORRADORES GRANDES DE BS 3.6,Bazar,Librería
 998039,Cartulina Colores Surtido Pliego,Bazar,Librería
 998040,Folder con Liga Oficio,Bazar,Librería
-998054,ALED ESTILETE .4,Bazar,Librería
+998054,ALED ESTILETE .5,Bazar,Librería
 998066,CINTA EMBALAJE UND.,Bazar,Librería
 998071,Marcador Monami de Pizarra,Bazar,Librería
 998074,Cinta Embalaje Grande,Bazar,Librería
 998076,Papel Crepe,Bazar,Librería
 998089,TALONARIO NOTA DE VENTA.7,Bazar,Librería
+998090,Recibo,Bazar,Librería
 998092,Talonario Tickets Numericos,Bazar,Librería
 998093,Cartiluna Blanca Pliego,Bazar,Librería
 998096,TAMPO N*4 CHICO,Bazar,Librería
+998097,Tijera Escolar,Bazar,Librería
 998099,Tijera Mundial n5,Bazar,Librería
 998143,Tijera Mundial n8,Bazar,Librería
 998146,TINTA 30ML,Bazar,Librería
