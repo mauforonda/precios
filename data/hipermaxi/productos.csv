@@ -1426,6 +1426,7 @@ id_producto,producto,categoria,subcategoria
 24016,HIDRATANTE LIFE SANTE INTI NARANJA 500ML,Bebidas,Isotónicos
 24017,HIDRATANTE LIFE SANTE INTI FRESA 500ML,Bebidas,Isotónicos
 24040,Cereal Kelloggs Choco Krispis 175 gr,Abarrotes,Nutrición Infantil
+24056,MIEL D ABEJA MELIMEL SACHET BSA 30 UND,Abarrotes,"Mermel, Mieles"
 24074,Cereal Kelloggs Corn Flakes 350 gr,Abarrotes,Nutrición Infantil
 24112,Cereal Kelloggs Froot Loops 230 gr,Abarrotes,Nutrición Infantil
 24120,Cereal Kelloggs Choco Krispis 310 gr,Abarrotes,Nutrición Infantil
@@ -7339,6 +7340,7 @@ id_producto,producto,categoria,subcategoria
 240705,NUTRISSE OLEOS 6.66 RUBIO ROJIZO PROFUND,Cuidado Personal,Cuidado del Cabello
 240706,NUTRISSE OLEOS 5.0 CASTANO CLARO,Cuidado Personal,Cuidado del Cabello
 240707,NUTRISSE OLEOS 1.0 NEGRO,Cuidado Personal,Cuidado del Cabello
+240708,NUTRISSE OLEOS 8.12 RUBIO CLARO PLATINAD,Cuidado Personal,Cuidado del Cabello
 240711,JABONCILO SIMONDS JALEA REAL 1 LT,Cuidado Personal,Cuidado de la Piel
 240712,LIMPIA TAPIZ PODEROSO 940 ML,Cuidado del Hogar,Limpieza de Living y Ropero
 240716,INSECTICIDA RAID ESCUDO 360 CC,Cuidado del Hogar,Productos Americanos
@@ -7360,16 +7362,20 @@ id_producto,producto,categoria,subcategoria
 240738,JABON ALMA DE FLOR FOUGERE 130 GR,Cuidado Personal,Cuidado de la Piel
 240739,JABON ALMA DE FLOR INTENSE 130 GR,Cuidado Personal,Cuidado de la Piel
 240741,TOALLA HUMEDA HUGGIES LIMP EFECT 80 UNDS,Cuidado del Bebé,Cuidado del Bebé
+240743,PANAL ADULTO PLENITUD PROTECT NOCTURNO G,Cuidado Personal,Cuidado del Adulto
 240744,TOALLA HUMEDA PROBLOCK BABY WIPES 25 UNI,Cuidado del Bebé,Cuidado del Bebé
 240746,TOALLA HUMEDA PROBLOCK ANTIBACTERIAL 50,Cuidado del Bebé,Cuidado del Bebé
 240747,TOALLA PROBLOCK MANZANILLA  ALOE 10 UNID,Cuidado del Bebé,Cuidado del Bebé
 240748,TOALLA HUMEDA PROBLOCK  ALOE 10 UNID,Cuidado del Bebé,Cuidado del Bebé
 240750,DETERGENTE SURF ROSAS  LOLAS 4.800 KG,Cuidado del Hogar,Limpieza de la Ropa
 240751,DETERGENTE SURF COCO  4.800 KG,Cuidado del Hogar,Limpieza de la Ropa
+240762,PACK NUTRISSE 71 + ESMALTE VOGUE,Cuidado Personal,Cuidado del Cabello
 240765,PACK NUTRISSE 57 + ESMALTE VOGUE,Cuidado Personal,Cuidado del Cabello
+240768,PACK NUTRISSE 67 + ESMALTE VOGUE,Cuidado Personal,Cuidado del Cabello
 240775,PAPEL HIGIENICO FINESSE FAMILIA  6 NDS,Cuidado Personal,Cuidado Familiar
 240778,Cereal En Linea Kids 330 gr,Abarrotes,Nutrición Infantil
 240793,TOALLA HIG LADYSOFT ALAS  10 UNDS,Cuidado Personal,Cuidado Familiar
+240812,REPELENTE OFF XDURANCION 196 GR,Cuidado del Hogar,Productos Americanos
 240850,Sal El Salerito de Mesa 130 gr,Abarrotes,Básicos
 240890,My Toffee Coco 600 gr,Abarrotes,Chocolates y Caramelos
 240970,Chocolate Lindt Excellence Dark 100 Cacao 100 gr,Abarrotes,Chocolates y Caramelos
@@ -7876,6 +7882,7 @@ id_producto,producto,categoria,subcategoria
 303917,Dulce de Leche Dulcipeq 500 gr,Lácteos y Derivados,Dulces de Leche y Manjares
 304007,Salsa B&R Alitas Picantes 250 gr,Abarrotes,Aderezos
 304014,Vino 1750 Syrah Rose 750 ml,Bebidas,Vinos y Champagne
+304034,Chinchulises kg,Carnes,Carne de Res
 304057,Chupete Yogus Casal Relleno 408 gr,Abarrotes,Chocolates y Caramelos
 304102,Crema de Mani Jif 454 gr,Abarrotes,Productos Americanos
 304104,Mantequilla de Mani Jif 454 gr,Abarrotes,Productos Americanos
@@ -9813,6 +9820,7 @@ id_producto,producto,categoria,subcategoria
 403232,Chocolate Taboada Caja Blanca Corazon 280 gr,Abarrotes,Chocolates y Caramelos
 403431,Crema Kris Esparragos 75 gr,Abarrotes,Básicos
 403511,Champagne Norton Cosecha Especial Rose 750 ml,Bebidas,Vinos y Champagne
+403512,Tripa de Res kg,Carnes,Carne de Res
 403725,Mentitas Ambrosoli Mints 21 gr,Abarrotes,Golosinas - Varias
 403792,Yogurt Clarabella Natural de Cocina 1 L,Lácteos y Derivados,Yogures
 403954,Paneton Pil 750 gr,Panadería,Panadería Externa
@@ -10571,6 +10579,7 @@ id_producto,producto,categoria,subcategoria
 474240,Bebida Boones Sangria 750 ml,Bebidas,Vinos y Champagne
 474326,Chuleta de Lomo Cerdo Frigor kg,Congelados,Carnes Congeladas
 474363,Chocolate M&M Minis 30.6 gr,Abarrotes,Golosinas - Varias
+474690,Librillo kg,Carnes,Carne de Res
 475068,Postre Danette Danone Surtido 110 gr,Lácteos y Derivados,Postres
 475149,Agua Naturagua Sin Gas 2 L,Bebidas,Aguas
 475521,Mejillones Robinson Crusoe al Natural 190 gr,Abarrotes,Comidas en Conserva
@@ -12661,6 +12670,7 @@ id_producto,producto,categoria,subcategoria
 552834,VINO APALTAGUA GRAN VERANO CARMENERE 750,Bebidas,Vinos y Champagne
 552835,VINO APALTAGUA ES CABERNET SAUVIGNON 750,Bebidas,Vinos y Champagne
 552836,PACK 3X2 HUEVO MRM X 6 UNID,Lácteos y Derivados,Huevos
+552838,VINO CUNE ROSADO LA BAILARINA 750ML,Bebidas,Vinos y Champagne
 552841,VINO NAVERAN ESPUMOSO BRUT NAT 750ML,Bebidas,Vinos y Champagne
 552846,GALLETAS COMI PET HIGADO DE POLLO 250 GR,Abarrotes,Mascotas
 552847,GALLETAS COMI PET PECHUGA DE POLLO 250 G,Abarrotes,Mascotas
@@ -12800,8 +12810,12 @@ id_producto,producto,categoria,subcategoria
 553055,GOMITA FINI BESOS 35 GR,Abarrotes,Golosinas - Varias
 553056,GOMITA FINI DENTADURA 35 GR,Abarrotes,Golosinas - Varias
 553057,CHEETOS QUESO BSA 85 GR,Abarrotes,Snack
+553060,CERVEZA SCHNEIDER LATA 473 ML,Bebidas,Cervezas
 553061,PACK 12 PEPSI BLUE 250 ML,Bebidas,Gaseosas
 553063,PESTO GENOVESE DE LA BAMBA FCO 190 GR,Abarrotes,Productos Americanos
+553065,CORAZONES DE ALCACHOFA DE LA BAMBA MARINADOS 280 GR,Abarrotes,Productos Americanos
+553082,ALIMENTO FARO GATITO CARNE EN SALSA SOB,Abarrotes,Mascotas
+553086,PACK HADOQUERA ALASITAS,Fiambres,Fiambres Externos
 554333,Cerveza Paceña Lata Roja 473 Cc,Bebidas,Cervezas
 554466,Detergente Liquido Ola Futuro Limpieza Completa 5 L,Cuidado del Hogar,Limpieza de la Ropa
 554468,Suavizante Ropa Ola Suavecito Original 5 L,Cuidado del Hogar,Limpieza de la Ropa
@@ -16493,6 +16507,7 @@ id_producto,producto,categoria,subcategoria
 669140,ECO CLEAN VAJILLERO LIMON 880 ML,Cuidado del Hogar,Limpieza de Cocina
 669141,ECO CLEAN VAJILLERO LIMON 1750 ML,Cuidado del Hogar,Limpieza de Cocina
 669142,OLDSPICE BARRA DEO LENA 85G X 12U,Cuidado Personal,Cuidado de la Piel
+669143,PANTENE AC 3MM NUTRICIONCOLAG 170ML X 12,Cuidado Personal,Cuidado del Cabello
 669145,H&S SH LIMPIEZA RENOVADORA 90ML X 24U,Cuidado Personal,Cuidado del Cabello
 669146,H&S SH MEN OLD SPICE 90ML X 24U,Cuidado Personal,Cuidado del Cabello
 669147,DETERGENTE SURF ROSAS Y LILAS 650G,Cuidado del Hogar,Limpieza de la Ropa
@@ -17940,6 +17955,8 @@ id_producto,producto,categoria,subcategoria
 674287,PACK SALAME/JAMON MAS TABLITA SOFIA UNIDAD,Fiambres,Fiambres Externos
 674288,POSTRE HELADO DELIZIA ALFREDO CANELA 850ML,Congelados,"Helados, Cassattas y Picoleses"
 674291,PACK CASSATTA-TRADICION CANELA COCO DELIZIA,Congelados,"Helados, Cassattas y Picoleses"
+674293,GALLETON REV VELVET DULCE OHANA UNIDAD,Pastelería y Masas Típicas,Pastelería Externa
+674294,GALLETON CHOCOBROWNIE DULCE OHANA UNIDAD,Pastelería y Masas Típicas,Pastelería Externa
 674300,YOGURT IOGO TIPO GRIEGO SABOR FRUTILLA 500GRS,Lácteos y Derivados,Yogures
 674301,YOGURT IOGO TIPO GRIEGO SABOR COCO 500 GRS,Lácteos y Derivados,Yogures
 674302,6 PACK YOGURT IOGO 0 AZUCAR SELECCION SABORES 6X120,Lácteos y Derivados,Yogures
@@ -17964,6 +17981,7 @@ id_producto,producto,categoria,subcategoria
 674328,TRIPACK BIMBO TORTILLAS RAPIDITAS 310GRR,Congelados,Masas y Comidas Congeladas
 674329,LECHE EVAPORADA PIL CREMOSA TETRA 1000G,Lácteos y Derivados,Leches
 674330,YOGURELLO ESCOLAR BLUEBERRY PIL 95ML BOLSA,Lácteos y Derivados,Yogures
+674331,HELADO MIXES C. AMERICANA COB BLUEBERRY PIL 65ML,Congelados,"Helados, Cassattas y Picoleses"
 675245,Miel de Abeja Eva Promiel 250 gr,Abarrotes,"Mermel, Mieles"
 676113,Habanito Bits Cream Coojies Cream 120 gr,Congelados,"Helados, Cassattas y Picoleses"
 676115,HABANITO BITS CREAM DULCE DE LECHE 120GRS,Congelados,"Helados, Cassattas y Picoleses"
@@ -21508,6 +21526,7 @@ id_producto,producto,categoria,subcategoria
 869840,PALITOS DE BAMBU CHURASQUERO FIAT LUX,Bazar,Churrasquería
 869881,Cuaderno Top Empastado Carta 200 Hojas,Bazar,Librería
 870381,COMBO LONCHERA MIKEY 76484,Bazar,Librería
+870385,COMBO LONCHERA MEDIANO FROZEN 76488,Bazar,Librería
 870466,Tapetes Miracle Natures Advanced 10 un,Bazar,Mascotas General
 870467,Tapetes Miracle Natures Entrenaiento 14 un,Bazar,Mascotas General
 870517,Acrilex Opaco Surtido,Bazar,Librería
