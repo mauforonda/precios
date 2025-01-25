@@ -1425,6 +1425,7 @@ id_producto,producto,categoria,subcategoria
 24007,Cereal Kelloggs Corn Flakes 200 gr,Abarrotes,Nutrición Infantil
 24016,HIDRATANTE LIFE SANTE INTI NARANJA 500ML,Bebidas,Isotónicos
 24017,HIDRATANTE LIFE SANTE INTI FRESA 500ML,Bebidas,Isotónicos
+24032,PACK 2 CLUB SOCIAL ORIGINAL 216G,Abarrotes,Galletas
 24040,Cereal Kelloggs Choco Krispis 175 gr,Abarrotes,Nutrición Infantil
 24041,PACK 3PRIMOCAO ORIGINAL RZ GDE 1KG,Abarrotes,Mascotas
 24056,MIEL D ABEJA MELIMEL SACHET BSA 30 UND,Abarrotes,"Mermel, Mieles"
@@ -1529,6 +1530,7 @@ id_producto,producto,categoria,subcategoria
 26108,CHOCOLATE BREICK RELL DAMASCO TAB 95G,Abarrotes,Chocolates y Caramelos
 26112,ACEITUNA GOYA RELL QUESO AZUL 149G,Abarrotes,Verduras en Conserva
 26117,HARINA PILLSBURY MILK CHOCOLATE BROWNIE,Abarrotes,Repostería
+26120,GALLETA NUTRI HIT QUINOA MANZ CANELA 180,Abarrotes,Dietéticos y Saludables
 26121,CIGARR CAMEL TROPICAL SHAKE 20UND,Bebidas,Cigarrillos
 26122,CHOCOLATE SUBLIME SONRISAS 25X8G CJA 200,Abarrotes,Chocolates y Caramelos
 26123,BOMBON BREICK ROMBO NAVIDEÑO 85G,Abarrotes,Temporada
@@ -7345,6 +7347,7 @@ id_producto,producto,categoria,subcategoria
 240708,NUTRISSE OLEOS 8.12 RUBIO CLARO PLATINAD,Cuidado Personal,Cuidado del Cabello
 240711,JABONCILO SIMONDS JALEA REAL 1 LT,Cuidado Personal,Cuidado de la Piel
 240712,LIMPIA TAPIZ PODEROSO 940 ML,Cuidado del Hogar,Limpieza de Living y Ropero
+240713,LIMPIA TAPIZ CUERO PODEROSO 940 MLL,Cuidado del Hogar,Limpieza de Living y Ropero
 240716,INSECTICIDA RAID ESCUDO 360 CC,Cuidado del Hogar,Productos Americanos
 240719,REPELENE OFF X DURACION 200 ML,Cuidado del Hogar,Productos Americanos
 240720,PACK 2 AMBIENTADORES SURTIDO TOTES 2X360,Cuidado del Hogar,Limpieza de Living y Ropero
@@ -7377,6 +7380,7 @@ id_producto,producto,categoria,subcategoria
 240775,PAPEL HIGIENICO FINESSE FAMILIA  6 NDS,Cuidado Personal,Cuidado Familiar
 240778,Cereal En Linea Kids 330 gr,Abarrotes,Nutrición Infantil
 240793,TOALLA HIG LADYSOFT ALAS  10 UNDS,Cuidado Personal,Cuidado Familiar
+240809,JABONCILLO SUSI FLORES Y LECHE 3X80GR,Cuidado Personal,Cuidado de la Piel
 240812,REPELENTE OFF XDURANCION 196 GR,Cuidado del Hogar,Productos Americanos
 240850,Sal El Salerito de Mesa 130 gr,Abarrotes,Básicos
 240890,My Toffee Coco 600 gr,Abarrotes,Chocolates y Caramelos
@@ -12795,6 +12799,7 @@ id_producto,producto,categoria,subcategoria
 553016,ROMERO CARMENCITA FCO 17 GR,Abarrotes,Condimentos y Legumbres
 553018,OREGANO CARMENCITA MOL 11 GR,Abarrotes,Condimentos y Legumbres
 553019,TOALLA DE PAPEL POM 100 HOJAS,Cuidado del Hogar,Productos Americanos
+553022,CAFE 3 CORAZ GOURMET DARK 250G,Abarrotes,Café y Sucedáneos
 553024,PACK 2 CERVEZA MAHOU RADLER 330 ML,Bebidas,Cervezas
 553025,TE HINDU FRUTOS ROJOS 50 SAQ,Abarrotes,Café y Sucedáneos
 553026,TE VERDE HINDU SURTIDO 20SAQ,Abarrotes,Café y Sucedáneos
@@ -16510,6 +16515,7 @@ id_producto,producto,categoria,subcategoria
 669135,DETERGENTE SURF COCO 650G,Cuidado del Hogar,Limpieza de la Ropa
 669136,DETERGENTE SURF LIMON 650G,Cuidado del Hogar,Limpieza de la Ropa
 669137,PACK LAVAVAJILLAS LIMON+LIMON 1050 CC,Cuidado del Hogar,Limpieza de Cocina
+669139,T.P. NOVA GIGANTE DH 70M X1,Cuidado del Hogar,Limpieza de Cocina
 669140,ECO CLEAN VAJILLERO LIMON 880 ML,Cuidado del Hogar,Limpieza de Cocina
 669141,ECO CLEAN VAJILLERO LIMON 1750 ML,Cuidado del Hogar,Limpieza de Cocina
 669142,OLDSPICE BARRA DEO LENA 85G X 12U,Cuidado Personal,Cuidado de la Piel
@@ -17826,6 +17832,7 @@ id_producto,producto,categoria,subcategoria
 674074,Milanesa Express Sofia de Res,Congelados,Carnes Congeladas
 674075,Milanesa Express Sofia de Pollo,Congelados,Carnes Congeladas
 674076,Pan de Coco Ovoplus 10 un,Panadería,Panadería Externa
+674080,Requeson Betzy 500 gr,Lácteos y Derivados,Quesos
 674083,Leche Vegetal Impostor Milk Frutilla 946 ml,Lácteos y Derivados,Leches
 674084,Leche Vegetal Impostor Milk Banana 946 ml,Lácteos y Derivados,Leches
 674085,Leche Vegetal Impostor Milk Banana 140 ml,Lácteos y Derivados,Leches
