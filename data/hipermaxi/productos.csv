@@ -1428,6 +1428,8 @@ id_producto,producto,categoria,subcategoria
 24018,GOMITA MOGUL MORAS BSA 80G,Abarrotes,Golosinas - Varias
 24019,GOMITA MOGUL SANDIA EXTREME 80G,Abarrotes,Golosinas - Varias
 24025,PACK 3PRIMOCAO CACHORRO 1 KG,Abarrotes,Mascotas
+24029,BEBIDA FOUR LOKO MISTER MYSTERY 473ML,Bebidas,Licores
+24030,BEBIDA FOUR LOKO MISS MYSTERY 473 ML,Bebidas,Licores
 24032,PACK 2 CLUB SOCIAL ORIGINAL 216G,Abarrotes,Galletas
 24040,Cereal Kelloggs Choco Krispis 175 gr,Abarrotes,Nutrición Infantil
 24041,PACK 3PRIMOCAO ORIGINAL RZ GDE 1KG,Abarrotes,Mascotas
@@ -3066,6 +3068,7 @@ id_producto,producto,categoria,subcategoria
 90565,Almidon El Cocinero Brasilero 300 gr,Abarrotes,Básicos
 90573,Coco Rallado El Cocinero 100 gr,Abarrotes,Condimentos y Legumbres
 90590,Uvas Pasas El Cocinero 200 gr,Abarrotes,Frutas en Conserva
+90638,HELADO ESP. DE LA CASA VAINILLA CHOC 850ML,Congelados,"Helados, Cassattas y Picoleses"
 91093,Gin Greenalls London 1 L,Bebidas,Licores
 91189,Manjar Blanco Nestle Chile 1 kg,Lácteos y Derivados,Dulces de Leche y Manjares
 93530,Detergente Polvo Opal Floral 800 gr,Cuidado del Hogar,Limpieza de la Ropa
@@ -5254,6 +5257,7 @@ id_producto,producto,categoria,subcategoria
 122929,Esmalte de Uña Vogue Fantastic Glaciar 19 10 ml,Cuidado Personal,Cuidado de la Piel
 122930,Esmalte de Uña Vogue Fantastic Campari 36 10 ml,Cuidado Personal,Cuidado de la Piel
 122931,Esmalte de Uña Vogue Fantastic Onix 44 10 ml,Cuidado Personal,Cuidado de la Piel
+122933,Polvo Vogue Mate Natural Arena 14 gr,Cuidado Personal,Cuidado de la Piel
 122949,Esmalte de Uña Vogue Fantastic Tono 58,Cuidado Personal,Cuidado de la Piel
 122950,Esmalte de Uña Vogue Fantastic Plata Decoracion 46 10 ml,Cuidado Personal,Cuidado de la Piel
 122951,Esmalte de Uña Vogue Fantastic Oro Decoraci Tono 49,Cuidado Personal,Cuidado de la Piel
@@ -7379,7 +7383,9 @@ id_producto,producto,categoria,subcategoria
 240748,TOALLA HUMEDA PROBLOCK  ALOE 10 UNID,Cuidado del Bebé,Cuidado del Bebé
 240750,DETERGENTE SURF ROSAS  LOLAS 4.800 KG,Cuidado del Hogar,Limpieza de la Ropa
 240751,DETERGENTE SURF COCO  4.800 KG,Cuidado del Hogar,Limpieza de la Ropa
+240759,PACK NUTRISSE 30 + ESMALTE VOGUE,Cuidado Personal,Cuidado del Cabello
 240762,PACK NUTRISSE 71 + ESMALTE VOGUE,Cuidado Personal,Cuidado del Cabello
+240764,PACK NUTRISSE ULT COBER 60 + ESMALTE VOG,Cuidado Personal,Cuidado del Cabello
 240765,PACK NUTRISSE 57 + ESMALTE VOGUE,Cuidado Personal,Cuidado del Cabello
 240767,PACK NUTRISSE 5562 + ESMALTE VOGUE,Cuidado Personal,Cuidado del Cabello
 240768,PACK NUTRISSE 67 + ESMALTE VOGUE,Cuidado Personal,Cuidado del Cabello
@@ -7388,6 +7394,7 @@ id_producto,producto,categoria,subcategoria
 240778,Cereal En Linea Kids 330 gr,Abarrotes,Nutrición Infantil
 240793,TOALLA HIG LADYSOFT ALAS  10 UNDS,Cuidado Personal,Cuidado Familiar
 240794,TOALLA HIG LADYSOFT ALA NOCTURNA 10 UNDS,Cuidado Personal,Cuidado Familiar
+240804,SHAMPOO ALGABO ACAI ROMERO 750 ML,Cuidado Personal,Cuidado del Cabello
 240809,JABONCILLO SUSI FLORES Y LECHE 3X80GR,Cuidado Personal,Cuidado de la Piel
 240811,MATACUCARACHA TYSON  250 CM,Cuidado del Hogar,Insecticidas
 240812,REPELENTE OFF XDURANCION 196 GR,Cuidado del Hogar,Productos Americanos
@@ -9066,7 +9073,7 @@ id_producto,producto,categoria,subcategoria
 356697,Mermelada Orieta Frutilla 500 gr,Abarrotes,"Mermel, Mieles"
 356700,Mermelada Orieta Durazno 500 gr,Abarrotes,"Mermel, Mieles"
 356890,Salsa B&R Tuco Goumet 360 gr,Abarrotes,Aderezos
-357049,FILETE DE ANCHOITAS MARBELLA 90 GR,Abarrotes,Comidas en Conserva
+357049,Filete de Anchoas 90 Gr Marbella,Abarrotes,Comidas en Conserva
 357072,Sazonador Goya Fajita Red Mix 1.25 oz,Abarrotes,Condimentos y Legumbres
 357190,Salmon Robinson Crusoe Ahumado en Aceite 170 gr,Abarrotes,Comidas en Conserva
 357308,Vino Norton Reserva Malbec 750 ml,Bebidas,Vinos y Champagne
@@ -9138,6 +9145,7 @@ id_producto,producto,categoria,subcategoria
 360752,Jabon Liquido Carissa Hidratacion Floral 360 ml,Cuidado Personal,Cuidado de la Piel
 360753,Jabon Liquido Carissa Antibacterial Brisa Marina 360 ml,Cuidado Personal,Cuidado de la Piel
 360756,PASTILLA D/BANO TODO BRILLO FLORAL 25 GR,Cuidado del Hogar,Limpieza de Baños
+360757,PASTILLA D/BANO TODO BRILLO LAVANDA 25 G,Cuidado del Hogar,Limpieza de Baños
 360758,PASTILLA D/BANO TODO BRILLO BRISA MARINA,Cuidado del Hogar,Limpieza de Baños
 360760,PASTILLA D/BANO TODO BRILLO LIMON 25 GR.,Cuidado del Hogar,Limpieza de Baños
 360780,Esponja Condor Multiuso 4 un,Cuidado del Hogar,Accesorios del Hogar
@@ -12791,6 +12799,7 @@ id_producto,producto,categoria,subcategoria
 552977,CAFE IGUAZU POLVO TRAD  POUCH 40 GR,Abarrotes,Café y Sucedáneos
 552978,SAZONADOR MCFOOD BASE P/FRICASE 100 GR,Abarrotes,Básicos
 552980,KIT PAELLA CARMENCITA ARROZ NEGRO 265 GR,Abarrotes,Básicos
+552983,KIT PAELLA CARMENCITA C ARROZ NEGRO 265G,Abarrotes,Básicos
 552986,GALLETAS DANESAS DE MANTEQUILLAA 16 OZ,Abarrotes,Productos Americanos
 552988,MANTEQUILLA DE MANII JIF 40 OZ,Abarrotes,Productos Americanos
 552989,MANTEQUILLA DE MANI CRUNCHY JIF 40 OZ,Abarrotes,Productos Americanos
@@ -12827,6 +12836,7 @@ id_producto,producto,categoria,subcategoria
 553046,BIPACK JUGOS LA GRANJA 2X2LT,Bebidas,"Jugos, Néctar"
 553047,CHOCOLATE SALTUS 44 GR 62P CACAO CON KOA,Abarrotes,Chocolates y Caramelos
 553048,CHOCOLATE SALTUS  70P CACAO LOCOTO Y SAL,Abarrotes,Chocolates y Caramelos
+553049,CERVEZA LAGER BAVARIA BOT 355 ML,Bebidas,Cervezas
 553053,GOMITA FINI BANANAS 35 GR,Abarrotes,Golosinas - Varias
 553054,GOMITA FINI GUSANO ACIDO 35 GR,Abarrotes,Golosinas - Varias
 553055,GOMITA FINI BESOS 35 GR,Abarrotes,Golosinas - Varias
@@ -13901,7 +13911,10 @@ id_producto,producto,categoria,subcategoria
 629757,GALLETAS SALADA BAJA EN CALORIAS TOWN HOUSE 391GR,Abarrotes,Productos Americanos
 629759,CEREAL KELLOGS CRUMBL CHOC CHIP 592 GR,Abarrotes,Productos Americanos
 629764,CHILE HERDEZ JALAPENO EN TROCITOS 210 GR,Abarrotes,Productos Americanos
+629766,PASTA BARILLA PENNE RIGATE 500 GR,Abarrotes,Productos Americanos
 629770,PASTA BARILLA MINI PENNE RIGATE 250 GR,Abarrotes,Productos Americanos
+629773,PASTA BARILLA SPAGHETTI NO. 7 500 GR,Abarrotes,Productos Americanos
+629775,PASTA BARILLA SPAGHETTI NO.7 200 GR,Abarrotes,Productos Americanos
 630010,Alimento Pedigree Cachorro 1.5 kg,Abarrotes,Mascotas
 630011,Gaseosa Crush Piña 355 ml,Bebidas,Bebidas Usa
 630012,Cereal Kelloggs Cocoa Krispies 439 gr,Abarrotes,Productos Americanos
@@ -16539,6 +16552,7 @@ id_producto,producto,categoria,subcategoria
 669141,ECO CLEAN VAJILLERO LIMON 1750 ML,Cuidado del Hogar,Limpieza de Cocina
 669142,OLDSPICE BARRA DEO LENA 85G X 12U,Cuidado Personal,Cuidado de la Piel
 669143,PANTENE AC 3MM NUTRICIONCOLAG 170ML X 12,Cuidado Personal,Cuidado del Cabello
+669144,PANTENE SH KERATINA 175ML X 12U,Cuidado Personal,Cuidado del Cabello
 669145,H&S SH LIMPIEZA RENOVADORA 90ML X 24U,Cuidado Personal,Cuidado del Cabello
 669146,H&S SH MEN OLD SPICE 90ML X 24U,Cuidado Personal,Cuidado del Cabello
 669147,DETERGENTE SURF ROSAS Y LILAS 650G,Cuidado del Hogar,Limpieza de la Ropa
@@ -16901,6 +16915,7 @@ id_producto,producto,categoria,subcategoria
 671428,Pan Molde Nico Integral,Panadería,Panadería Externa
 671429,Pan Molde Nico Blanco 3 Semillas,Panadería,Panadería Externa
 671430,Pan Molde Nico Integral Tre Semilla,Panadería,Panadería Externa
+671434,POSTRE HELADO DELIZIA LOG TENTACION MENTA,Congelados,"Helados, Cassattas y Picoleses"
 671440,Pan de Panchito Maxi Pan Extra Largo 8 un,Panadería,Panadería Externa
 671442,Biofrut Delizia Durazno 200 ml,Lácteos y Derivados,Leches
 671443,Biofrut Delizia Manzana 200 ml,Lácteos y Derivados,Leches
@@ -17766,6 +17781,7 @@ id_producto,producto,categoria,subcategoria
 673898,Chorizo Argentino Cielo Ahumado 6 un,Fiambres,Fiambres Externos
 673899,Tocino Ahumado Cielo 100 gr,Fiambres,Fiambres Externos
 673900,Lomito Ahumado Cielo de Cerdo 100 gr,Fiambres,Fiambres Externos
+673901,BONDIOLA DE CERDO AHUMADA CIELO 100GRS,Fiambres,Fiambres Externos
 673902,Tocino Ahumado Cielo en Cubos 150 gr,Fiambres,Fiambres Externos
 673903,Queso Colinas del Sol de Untar de Leche de Cabra,Lácteos y Derivados,Quesos
 673906,Gelatina Pil Yeli Blueberry 110 gr,Lácteos y Derivados,Postres
@@ -17851,6 +17867,7 @@ id_producto,producto,categoria,subcategoria
 674074,Milanesa Express Sofia de Res,Congelados,Carnes Congeladas
 674075,Milanesa Express Sofia de Pollo,Congelados,Carnes Congeladas
 674076,Pan de Coco Ovoplus 10 un,Panadería,Panadería Externa
+674079,Queso Fresco Betzy 250 gr,Lácteos y Derivados,Quesos
 674080,Requeson Betzy 500 gr,Lácteos y Derivados,Quesos
 674083,Leche Vegetal Impostor Milk Frutilla 946 ml,Lácteos y Derivados,Leches
 674084,Leche Vegetal Impostor Milk Banana 946 ml,Lácteos y Derivados,Leches
@@ -18014,6 +18031,14 @@ id_producto,producto,categoria,subcategoria
 674329,LECHE EVAPORADA PIL CREMOSA TETRA 1000G,Lácteos y Derivados,Leches
 674330,YOGURELLO ESCOLAR BLUEBERRY PIL 95ML BOLSA,Lácteos y Derivados,Yogures
 674331,HELADO MIXES C. AMERICANA COB BLUEBERRY PIL 65ML,Congelados,"Helados, Cassattas y Picoleses"
+674340,QUESO FUNDIDO EN LONCHAS GOURMET 8 LONCHAS 150GRS,Lácteos y Derivados,Quesos
+674341,QUESO DE CABRA SEMICURADO GOURMET CUNA,Lácteos y Derivados,Quesos
+674343,QUESO MEZCLA SEMICURADO GOURMET LONCHAS 120GRS,Lácteos y Derivados,Quesos
+674344,QUESO DE MEZCLA TIERNO GOURMET LONCHAS,Lácteos y Derivados,Quesos
+674345,QUESO DE OVEJA VIEJO GOURMET 250GRS,Lácteos y Derivados,Quesos
+674346,QUESO DE MEZCLA SEMICURADO GOURMET CUNA,Lácteos y Derivados,Quesos
+674347,QUESO DE MEZCLA TIERNO GOURMET CUNA,Lácteos y Derivados,Quesos
+674348,QUESO DE MEZCLA CURADO GOURMET CUNA 175GRS,Lácteos y Derivados,Quesos
 675245,Miel de Abeja Eva Promiel 250 gr,Abarrotes,"Mermel, Mieles"
 676113,Habanito Bits Cream Coojies Cream 120 gr,Congelados,"Helados, Cassattas y Picoleses"
 676115,HABANITO BITS CREAM DULCE DE LECHE 120GRS,Congelados,"Helados, Cassattas y Picoleses"
@@ -18955,6 +18980,7 @@ id_producto,producto,categoria,subcategoria
 781322,Huevos San Sebastian Frescos 6 un,Lácteos y Derivados,Huevos
 781342,FILETE DE MERLUZZA PUERTO AZUL KG.,Congelados,Carnes Congeladas
 781345,Mini Tortillitas Pan Hogar con Azucar 60 gr,Pastelería y Masas Típicas,Masas Típicas Externas
+781347,PACK DELIBOLO SURTIDO X 12 UNIDADES,Congelados,"Helados, Cassattas y Picoleses"
 781362,Bokaditos de Pollo Sofia Yo Chef 300 gr,Congelados,Carnes Congeladas
 781412,Helado Bonle Granizado 900 ml,Congelados,"Helados, Cassattas y Picoleses"
 781414,Queso Mozzarella Bonle Pil kg,Lácteos y Derivados,Quesos
