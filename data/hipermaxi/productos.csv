@@ -1433,6 +1433,7 @@ id_producto,producto,categoria,subcategoria
 24032,PACK 2 CLUB SOCIAL ORIGINAL 216G,Abarrotes,Galletas
 24040,Cereal Kelloggs Choco Krispis 175 gr,Abarrotes,Nutrición Infantil
 24041,PACK 3PRIMOCAO ORIGINAL RZ GDE 1KG,Abarrotes,Mascotas
+24045,HIDRATANTE SUEROX UVA 630ML,Bebidas,Isotónicos
 24046,HIDRATANTE SUEROX FRUTOS ROJOS 630ML,Bebidas,Isotónicos
 24056,MIEL D ABEJA MELIMEL SACHET BSA 30 UND,Abarrotes,"Mermel, Mieles"
 24063,CHUFLAY HARD ZALZER FLOW LTA 355ML,Bebidas,Licores
@@ -7394,7 +7395,10 @@ id_producto,producto,categoria,subcategoria
 240778,Cereal En Linea Kids 330 gr,Abarrotes,Nutrición Infantil
 240793,TOALLA HIG LADYSOFT ALAS  10 UNDS,Cuidado Personal,Cuidado Familiar
 240794,TOALLA HIG LADYSOFT ALA NOCTURNA 10 UNDS,Cuidado Personal,Cuidado Familiar
+240803,PACK DISCO DE ALGODON SEPTONA 70X3PZA,Cuidado Personal,Cuidado de la Piel
 240804,SHAMPOO ALGABO ACAI ROMERO 750 ML,Cuidado Personal,Cuidado del Cabello
+240805,SHAMPOO ALGABO OLIVA ARGAN 750 ML,Cuidado Personal,Cuidado del Cabello
+240806,ACONDC ALGABO ACAI ROMEO 750 ML,Cuidado Personal,Cuidado del Cabello
 240809,JABONCILLO SUSI FLORES Y LECHE 3X80GR,Cuidado Personal,Cuidado de la Piel
 240811,MATACUCARACHA TYSON  250 CM,Cuidado del Hogar,Insecticidas
 240812,REPELENTE OFF XDURANCION 196 GR,Cuidado del Hogar,Productos Americanos
@@ -12307,6 +12311,7 @@ id_producto,producto,categoria,subcategoria
 552260,Nectar Pura Vida Guayaba 2 L,Bebidas,"Jugos, Néctar"
 552265,Papa Papanax Max Chip Extra Grande 500 gr,Abarrotes,Snack
 552266,PAPA AL HILO AGROMIX 100 GR,Abarrotes,Snack
+552268,CHOC GALLINA BREICK LECHE  92 GR,Abarrotes,Chocolates y Caramelos
 552270,Piña Campo Verde Trozos 200 gr,Abarrotes,Frutas en Conserva
 552271,Papaya Campo Verde Trozado 200 gr,Abarrotes,Frutas en Conserva
 552272,Aji 1918 Mollido Amarillo 30 gr,Abarrotes,Condimentos y Legumbres
@@ -12769,6 +12774,7 @@ id_producto,producto,categoria,subcategoria
 552923,BITS DE MANZANA HI Q 40 GR,Abarrotes,Frutas en Conserva
 552924,BITS DE FRUTILLA HI Q 35 GR,Abarrotes,Frutas en Conserva
 552928,BOMBONES PARA TI TABU BSA 450 GR,Abarrotes,Chocolates y Caramelos
+552929,INFUSION FLOR DE JAMAICA FRUTTE GRANEL 2,Abarrotes,Café y Sucedáneos
 552931,PIQUEO YOGGIUES FRUTILLA S/GLUTEN 20GR,Abarrotes,Golosinas - Varias
 552933,LENTEJA PREMIUM GRAN ORO 400 GRS,Abarrotes,Nutrición Infantil
 552934,GALLETAS GULLON MINI BITES JAMON 250G,Abarrotes,Galletas
@@ -12847,7 +12853,9 @@ id_producto,producto,categoria,subcategoria
 553063,PESTO GENOVESE DE LA BAMBA FCO 190 GR,Abarrotes,Productos Americanos
 553065,CORAZONES DE ALCACHOFA DE LA BAMBA MARINADOS 280 GR,Abarrotes,Productos Americanos
 553071,PACK SUPREMA VUELTA A CLASES,Abarrotes,Galletas
+553081,ALIMENTO FARO CARNE POLLO VEG RAZ MED 90,Abarrotes,Mascotas
 553082,ALIMENTO FARO GATITO CARNE EN SALSA SOB,Abarrotes,Mascotas
+553084,ALIMENTO FARO PATE GATITO CARNE LTA 280,Abarrotes,Mascotas
 553085,ALIMENTO FARO PATE GATO ADULTO PESCADO L,Abarrotes,Mascotas
 553086,PACK HADOQUERA ALASITAS,Fiambres,Fiambres Externos
 554333,Cerveza Paceña Lata Roja 473 Cc,Bebidas,Cervezas
@@ -13911,7 +13919,9 @@ id_producto,producto,categoria,subcategoria
 629757,GALLETAS SALADA BAJA EN CALORIAS TOWN HOUSE 391GR,Abarrotes,Productos Americanos
 629759,CEREAL KELLOGS CRUMBL CHOC CHIP 592 GR,Abarrotes,Productos Americanos
 629764,CHILE HERDEZ JALAPENO EN TROCITOS 210 GR,Abarrotes,Productos Americanos
+629765,CHILE HERDEZ CHILPOTLE EN ADOBO NAL. 198,Abarrotes,Productos Americanos
 629766,PASTA BARILLA PENNE RIGATE 500 GR,Abarrotes,Productos Americanos
+629767,PASTA BARILLA BPE FUSILLI 500 GR,Abarrotes,Productos Americanos
 629770,PASTA BARILLA MINI PENNE RIGATE 250 GR,Abarrotes,Productos Americanos
 629773,PASTA BARILLA SPAGHETTI NO. 7 500 GR,Abarrotes,Productos Americanos
 629775,PASTA BARILLA SPAGHETTI NO.7 200 GR,Abarrotes,Productos Americanos
@@ -16270,6 +16280,7 @@ id_producto,producto,categoria,subcategoria
 668619,Escobilla Jude Lustrin,Cuidado del Hogar,Accesorios del Hogar
 668622,Pasta Dental Dento Menta Natural 80 gr,Cuidado Personal,Cuidado Bucal
 668623,Cotonetes Septona Maquillaje 100 un,Cuidado del Bebé,Cuidado del Bebé
+668624,Serum Farmax Vitamina C 30 ml,Cuidado Personal,Cuidado de la Piel
 668628,Toallas Higienicas Kotex Femenina 2en1,Cuidado Personal,Cuidado Familiar
 668629,Protector Diario Kotex 2en1 20 un,Cuidado Personal,Cuidado Familiar
 668630,Desodorante Barra Nivea Stick Rosas 45 gr,Cuidado Personal,Cuidado de la Piel
