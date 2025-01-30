@@ -1435,6 +1435,7 @@ id_producto,producto,categoria,subcategoria
 24041,PACK 3PRIMOCAO ORIGINAL RZ GDE 1KG,Abarrotes,Mascotas
 24045,HIDRATANTE SUEROX UVA 630ML,Bebidas,Isotónicos
 24046,HIDRATANTE SUEROX FRUTOS ROJOS 630ML,Bebidas,Isotónicos
+24049,AVENA NUTRINAT C CALOSTRO VAINILLA 250G,Abarrotes,Dietéticos y Saludables
 24056,MIEL D ABEJA MELIMEL SACHET BSA 30 UND,Abarrotes,"Mermel, Mieles"
 24063,CHUFLAY HARD ZALZER FLOW LTA 355ML,Bebidas,Licores
 24074,Cereal Kelloggs Corn Flakes 350 gr,Abarrotes,Nutrición Infantil
@@ -1524,6 +1525,7 @@ id_producto,producto,categoria,subcategoria
 26075,TE NEGRO FRUTTE GRANEL 200G,Abarrotes,Café y Sucedáneos
 26080,CHOCOLATE BREICK CAJA LOVE 200G,Abarrotes,Chocolates y Caramelos
 26082,CEREAL CHOCOLIKE ALMOHADITAS CHOCOL 200G,Abarrotes,Nutrición Infantil
+26086,BOMBON BREICK AMOR MIO CJA 130G,Abarrotes,Chocolates y Caramelos
 26088,PACK 2 GALLETAS CHIPS AHOY 222G,Abarrotes,Galletas
 26089,PACK 2GALLETAS RITZ 180G,Abarrotes,Galletas
 26090,PACK 2PASTAS CAROZZI L 1SALSA POMAROLA,Abarrotes,Básicos
@@ -7378,6 +7380,7 @@ id_producto,producto,categoria,subcategoria
 240738,JABON ALMA DE FLOR FOUGERE 130 GR,Cuidado Personal,Cuidado de la Piel
 240739,JABON ALMA DE FLOR INTENSE 130 GR,Cuidado Personal,Cuidado de la Piel
 240741,TOALLA HUMEDA HUGGIES LIMP EFECT 80 UNDS,Cuidado del Bebé,Cuidado del Bebé
+240742,PANAL ADULTO PLENITUD PROTECT NOCTURNO M,Cuidado Personal,Cuidado del Adulto
 240743,PANAL ADULTO PLENITUD PROTECT NOCTURNO G,Cuidado Personal,Cuidado del Adulto
 240744,TOALLA HUMEDA PROBLOCK BABY WIPES 25 UNI,Cuidado del Bebé,Cuidado del Bebé
 240746,TOALLA HUMEDA PROBLOCK ANTIBACTERIAL 50,Cuidado del Bebé,Cuidado del Bebé
@@ -8722,6 +8725,7 @@ id_producto,producto,categoria,subcategoria
 340013,LE GLOBOA PERLADO OLEGO 50 UND,Bazar,Cotillón
 340015,LE GLOBO N9 STANARS OLEGO 50UND,Bazar,Cotillón
 340016,LE GLOBO PENCIL OLEGO 50UND,Bazar,Cotillón
+340018,LE FALDA PARA CUP CAKES X 24 PZ OLEGO,Bazar,Cotillón
 340019,LE VASO DE GELATINERO 4OZ OLEGO 25UND,Bazar,Cotillón
 340021,LE VELAS DE CUMPLEANOS X24 ANIMAL PRINT,Bazar,Cotillón
 340078,FRI PLATO DE MASCOTAS DE BS 15,Bazar,Mascotas General
@@ -12613,7 +12617,7 @@ id_producto,producto,categoria,subcategoria
 552732,Refresco Zuko Maracuya 13 gr,Bebidas,Refrescos en Polvo
 552733,Refresco Zuko Fresa 13 gr,Bebidas,Refrescos en Polvo
 552734,Refresco Zuko Naranja 13 gr,Bebidas,Refrescos en Polvo
-552735,MATE CEYLAN MANZANILLA X 20 UN,Abarrotes,Café y Sucedáneos
+552735,MATE CEYLAN D MANZANILLA 20SAQ,Abarrotes,Café y Sucedáneos
 552736,Te Negro Ceylan con Limon 20 Sobres,Abarrotes,Café y Sucedáneos
 552737,Gelatina Aroma Acai 250 gr,Abarrotes,Repostería
 552738,GELATINA AROMA MARACUYA 250 GR,Abarrotes,Repostería
@@ -17458,6 +17462,7 @@ id_producto,producto,categoria,subcategoria
 673138,Mortadela Avi Rico Jamonada 200 gr,Fiambres,Fiambres Externos
 673139,Enrollado de Pollo Avi Rico 200 gr,Fiambres,Fiambres Externos
 673140,Queso Avi Rico de Chancho 200 gr,Fiambres,Fiambres Externos
+673145,Chorizo Parrillero Avi Rico Picante 400 gr,Fiambres,Fiambres Externos
 673146,Salchicha Avi Rico Coctelera 200 gr,Fiambres,Fiambres Externos
 673149,Queso Fresco Colinas del Sol kg,Lácteos y Derivados,Quesos
 673150,Queso Mozzarella Colinas del Sol kg,Lácteos y Derivados,Quesos
@@ -19574,6 +19579,7 @@ id_producto,producto,categoria,subcategoria
 789795,Queso Provolone Guapurutu Laminado 240 gr,Lácteos y Derivados,Quesos
 789796,Frutilla Congelada Minuto Verde 500 gr,Congelados,Pulpas y Frutas Congeladas
 789799,Yogurt Danoninho Morango 70 gr,Lácteos y Derivados,Yogures
+789803,MANTEQUILLA  SABOR BRASUCO AHUMADA 200 GR.,Lácteos y Derivados,Mantequillas y Margarinas
 789808,Queso Ricotta Natural Artesano Light sin Sal kg,Lácteos y Derivados,Quesos
 789811,Pasta de Ajo Brasuco 200 gr,Lácteos y Derivados,Mantequillas y Margarinas
 789812,Filete de Surubi Pez y Mar kg,Congelados,Carnes Congeladas
@@ -20263,6 +20269,7 @@ id_producto,producto,categoria,subcategoria
 840757,Colador Betty Crocker para Frituras,Bazar Importación,Cocina General
 840828,Vino Terrazas Malbec Reserva 750 ml,Bebidas,Vinos y Champagne
 840988,Juego de Vajilla 16 Piezas,Bazar Importación,Menaje Porcelana/Cerámica
+841005,MAR CHAMARA DE MASCOTAS 3-4 BS 85,Bazar,Mascotas General
 841080,AUTO ESPELHAMENTO CENTRAL SUL 500 ML,Bazar,Automotriz
 841123,Agua Viscachani Cereza 600 ml,Bebidas,Aguas
 841252,Gomita Mogul Fruti Moras 150 gr,Abarrotes,Golosinas - Varias
@@ -21542,7 +21549,9 @@ id_producto,producto,categoria,subcategoria
 864419,CINTA EMBALAJE ACRICOLOR RITO,Bazar,Ferretería
 864502,Quitaesmalte Unik 320 ml,Cuidado Personal,Cuidado de la Piel
 864600,Lentes Año Nuevo,Bazar,Temporadas Restantes
+864670,CA MOCHILA DE NINOS ESCOLAR 185,Bazar,Librería
 864700,Crema Hidratante Loreal Age Perfect Dia 50 ml,Cuidado Personal,Cuidado de la Piel
+864774,ALED ESTUCHERA  ESCOLAR 45,Bazar,Librería
 864778,Set De Marcador 12 Und,Bazar,Librería
 864779,Set De Marcador 24 Piezas,Bazar,Librería
 864781,Mini Agenda 2025 AAA,Bazar,Librería
@@ -21796,6 +21805,7 @@ id_producto,producto,categoria,subcategoria
 879601,CA JUGUETE AUTO PISTAS CAJA 250,Juguetería,Juguetería Niño/Bebé
 879603,Vino Campos de Solana Oporto 700 ml,Bebidas,Vinos y Champagne
 879640,INTERUPTOR SENCILLO SHNEIDER,Bazar,Ferretería
+879642,INTERRUPTOR TRIPLE SCHNEIDER,Bazar,Ferretería
 879673,NA MANDIL P/R LAVAR ROPA  20,Bazar,Articulos de Cocina
 879683,Te Milord Canela Clavo de Olor 100 Sobres,Abarrotes,Café y Sucedáneos
 879725,PILAS DURACELL AAA X8,Bazar,Ferretería
@@ -21858,6 +21868,7 @@ id_producto,producto,categoria,subcategoria
 884084,BLISTER BOLIGRAFO BIC FINE PLUS X3UND,Bazar,Librería
 884115,Baseurero San Remo Infantil con Pedal 275/4,Cuidado del Hogar,Accesorios del Hogar
 884190,ERW AFILADOR CUCHILLO SHARPENER,Bazar,Articulos de Cocina
+884254,MIR GLOBO+PALITO DIA MADRE X10PC.24,Bazar,Temporadas Restantes
 884458,KENDY JARRA MIXER 2.7LT X1U,Bazar,Menaje Plástico
 884631,Estufa Premier 4 Halogenos,Bazar,Camping General
 884684,Paleta Goma Eva Decorativa,Bazar,Regalos/Adornos
@@ -22156,9 +22167,11 @@ id_producto,producto,categoria,subcategoria
 915414,Vela con Fuego,Bazar,Cotillón
 915416,LE PLATO DE DESECHABLE DE COLORES,Bazar,Cotillón
 915418,LE PIROTINES N 10,Bazar,Cotillón
+915421,LE PIROTINES N 7,Bazar,Cotillón
 915422,LE PIROTINES N 4,Bazar,Cotillón
 915424,LE PIROTINES N 3,Bazar,Cotillón
 915425,LE PIROTINES N 2,Bazar,Cotillón
+915426,LE PIROTINES N 1,Bazar,Cotillón
 915430,LE VELAS CUMPLEANOS MUSICALES,Bazar,Cotillón
 915464,Pilas Rayovac Alcalina AA 6 un,Bazar,Ferretería
 915794,BOLSA P/R POLLO WYDA 41CMX27CM,Bazar,Articulos de Cocina
@@ -22259,6 +22272,7 @@ id_producto,producto,categoria,subcategoria
 924809,Boligrafo Bic Rojo,Bazar,Librería
 924810,Boligrafo Bic Azul,Bazar,Librería
 924811,Boligrafo Bic Negro,Bazar,Librería
+924933,CA MOCHILAS DISENOS SURTIDOS BS.99,Bazar,Librería
 925003,Conservadora Tecnopor 7 L,Bazar,Camping General
 925100,Lapiz Rojo,Bazar,Librería
 925101,Lapiz Negro,Bazar,Librería
@@ -22318,8 +22332,11 @@ id_producto,producto,categoria,subcategoria
 932755,Bombillas Belen Corrugada Surtidas 100 un,Bazar,Cotillón
 935914,JAN SET DE COSTURERO .12,Bazar,Bijouteria/Cuidado Personal
 936463,Moledor de Ajo,Bazar,Articulos de Cocina
+936484,CA MOCHILA ESCOLAR JUVENIL 240,Bazar,Librería
+936485,CA MOCHILA JUVENIL ESCOLAR 185,Bazar,Librería
 936600,TER PISO DE ENTRADAA .35,Bazar,Living y Dormitorio
 936609,ALED BARRA  DE SILICONA DE BS 2.5,Bazar,Ferretería
+937579,CA MOCHILA ESCOLAR JUVENIL 260,Bazar,Librería
 937832,CEPILLO P/ CABELLO LARA CONDOR 9830,Bazar,Bijouteria/Cuidado Personal
 937834,PEINE  CONDOR 9890 -,Bazar,Bijouteria/Cuidado Personal
 937835,CEPILLO P/CABELLO SISSI CONDOR 6806,Bazar,Bijouteria/Cuidado Personal
@@ -22449,6 +22466,7 @@ id_producto,producto,categoria,subcategoria
 960840,VELAS TUKY GIBRE CELESTE NUMEROS,Bazar,Cotillón
 960862,Tijera de Cocina Ilko Multifuncion Clasica,Bazar,Articulos de Cocina
 960869,Decorador de Torta Ilko,Bazar,Articulos de Cocina
+962066,SANITARIO DE GATOS DENUCIO 3KG,Bazar,Mascotas General
 963518,Set Cuchara New Tramontina Negra,Bazar,Articulos de Cocina
 963520,Tenedor New Tramontina Azul,Bazar,Articulos de Cocina
 963521,Tenedor New Tramontina Crema,Bazar,Articulos de Cocina
