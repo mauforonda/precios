@@ -1433,6 +1433,7 @@ id_producto,producto,categoria,subcategoria
 24020,ALIMENTO LACTEO BONLE DP 2KG,Abarrotes,Nutrición Infantil
 24024,PACK 3PRIMOGATO BLEND 1 KG,Abarrotes,Mascotas
 24025,PACK 3PRIMOCAO CACHORRO 1 KG,Abarrotes,Mascotas
+24026,PACK 3PRIMOGATO CASTRADOS POLLO 1KG,Abarrotes,Mascotas
 24029,BEBIDA FOUR LOKO MISTER MYSTERY 473ML,Bebidas,Licores
 24030,BEBIDA FOUR LOKO MISS MYSTERY 473 ML,Bebidas,Licores
 24032,PACK 2 CLUB SOCIAL ORIGINAL 216G,Abarrotes,Galletas
@@ -1540,6 +1541,7 @@ id_producto,producto,categoria,subcategoria
 26094,CHOCOLATE BREICK BLANCO TAB 100G,Abarrotes,Chocolates y Caramelos
 26095,CHOCOLATE BREICK LECHE TAB 100G,Abarrotes,Chocolates y Caramelos
 26099,COBERTURA BREICK CHOCOL AMARGO 250G,Abarrotes,Repostería
+26102,REFRESCO REAL SURTIDO DISPALY 20X14G,Bebidas,Refrescos en Polvo
 26103,REFRESCO REAL CHICHA MORADA 14G,Bebidas,Refrescos en Polvo
 26104,CERVEZA BUDWEISER LTA 269ML,Bebidas,Cervezas
 26106,CHOCOLATE BREICK RELL FRANBUEZA TAB 95G,Abarrotes,Chocolates y Caramelos
@@ -2701,7 +2703,7 @@ id_producto,producto,categoria,subcategoria
 37715,Galleta Wafer Marilan Vainilla 115 gr,Abarrotes,Galletas
 37917,Champagne Navarro Correas Dulcet 750 ml,Bebidas,Vinos y Champagne
 37958,Mandarina Incore 1 kg,Frutas y Verduras,Frutas
-38110,Harina Maetha White Chocolate Chip 209 gr,Abarrotes,Repostería
+38110,Harina Martha White Chocolate Chip 209 gr,Abarrotes,Repostería
 38111,Harina Martha White Strawberry 7 oz,Abarrotes,Repostería
 38136,Romero Badia 28.35 gr,Abarrotes,Condimentos y Legumbres
 38172,Cafe Royal Torrado 500 gr,Abarrotes,Café y Sucedáneos
@@ -7400,6 +7402,8 @@ id_producto,producto,categoria,subcategoria
 240748,TOALLA HUMEDA PROBLOCK  ALOE 10 UNID,Cuidado del Bebé,Cuidado del Bebé
 240750,DETERGENTE SURF ROSAS  LOLAS 4.800 KG,Cuidado del Hogar,Limpieza de la Ropa
 240751,DETERGENTE SURF COCO  4.800 KG,Cuidado del Hogar,Limpieza de la Ropa
+240754,CEPILLO DR.DENT CARBON MEDIO X2 UNDS,Cuidado Personal,Cuidado Bucal
+240757,CEPILLO DR.DENT EXTRA CLAN MEDIO 365 X 2,Cuidado Personal,Cuidado Bucal
 240758,PACK NUTRISSE 10 + ESMALTE VOGUE,Cuidado Personal,Cuidado del Cabello
 240759,PACK NUTRISSE 30 + ESMALTE VOGUE,Cuidado Personal,Cuidado del Cabello
 240762,PACK NUTRISSE 71 + ESMALTE VOGUE,Cuidado Personal,Cuidado del Cabello
@@ -12283,7 +12287,7 @@ id_producto,producto,categoria,subcategoria
 552152,Cerveza Paceña Roja 440 ml,Bebidas,Cervezas
 552153,Pack 2 Cerveza Paceña 440 ml,Bebidas,Cervezas
 552155,PACK CIGAR BOHEM SANDIA SPEAKER WIRELESS,Bebidas,Cigarrillos
-552156,PACK CIGAR BOHEM VINO SPEAKER WIRELESS,Bebidas,Cigarrillos
+552156,Pack Cigarillos Bohem Vino Speaker Wireless,Bebidas,Cigarrillos
 552157,Cereal Kelloggs Froot Loops Spinners 265 gr,Abarrotes,Nutrición Infantil
 552158,Marshmallows Trululu Relleno Caramelo 50 gr,Abarrotes,Golosinas - Varias
 552159,Marshmallows Trululu Choco Banana 50 gr,Abarrotes,Golosinas - Varias
@@ -15823,6 +15827,7 @@ id_producto,producto,categoria,subcategoria
 667219,Shampoo Head Shoulders Carbon Activado 700 ml,Cuidado Personal,Cuidado del Cabello
 667220,Shampoo Pantene 3MM Restauracion 270 ml,Cuidado Personal,Cuidado del Cabello
 667224,Shampoo Selfy Chocolate 1 L,Cuidado Personal,Cuidado del Cabello
+667225,Crema Hanabel Niñas 300 gr,Cuidado Personal,Cuidado de la Piel
 667226,Crema de Mano Hanbel Niña 150 gr,Cuidado Personal,Cuidado de la Piel
 667232,Betun Cremoso Coloso Negro 50 ml,Cuidado del Hogar,Limpieza de Zapatos
 667245,Pasta Dental Oral-B Kids Mickey 50 gr,Cuidado Personal,Cuidado Bucal
