@@ -1586,6 +1586,7 @@ id_producto,producto,categoria,subcategoria
 26160,PICO PICO SNACK CAMARO QUESO PIC 120G,Abarrotes,Snack
 26161,PICO PICO SNACK CAMARO PIZZA 120G,Abarrotes,Snack
 26162,SAL ROSADA ISHIMA DP 800 GR,Abarrotes,Básicos
+26163,CHANCACA ISHIMA DP 800 GR,Abarrotes,Básicos
 26164,HARINA PILLSBURY BROWNIE MIX DARK CHOC 1,Abarrotes,Repostería
 26173,"ALOE VERA OTRO MUNDO SIN AZUCAR 1,5LT",Bebidas,Bebidas Varias
 26174,"ALOE VERA OTRO MUNDO PET 1,5LT",Bebidas,Bebidas Varias
@@ -7321,6 +7322,7 @@ id_producto,producto,categoria,subcategoria
 240587,PACK DOVE ROL ON CUIDADO BK 6X2X50ML,Cuidado Personal,Cuidado de la Piel
 240588,PACK DOVE ROL ON EXTRA FRESH BK 6X2X50ML,Cuidado Personal,Cuidado de la Piel
 240589,TRIPACK MI BEBE TOALLA HUMEDA 3X100 UNDS,Cuidado del Bebé,Cuidado del Bebé
+240590,TOALLAS HUMEDAS  MY CARE X 50 UNDS,Cuidado del Bebé,Cuidado del Bebé
 240610,AFTERSUN LECHE REP ECRAN F50 400ML,Cuidado Personal,Cuidado de la Piel
 240611,LECHE PROT + PISTOLA ECRAN F50 270ML,Cuidado Personal,Cuidado de la Piel
 240612,PACK ALGABO BABY SH Y AC Y ACEITE,Cuidado del Bebé,Cuidado del Bebé
@@ -7420,6 +7422,7 @@ id_producto,producto,categoria,subcategoria
 240750,DETERGENTE SURF ROSAS  LOLAS 4.800 KG,Cuidado del Hogar,Limpieza de la Ropa
 240751,DETERGENTE SURF COCO  4.800 KG,Cuidado del Hogar,Limpieza de la Ropa
 240754,CEPILLO DR.DENT CARBON MEDIO X2 UNDS,Cuidado Personal,Cuidado Bucal
+240755,CEPILLO DENTAL DR.DENT MASAGGER MEDIO X2,Cuidado Personal,Cuidado Bucal
 240757,CEPILLO DR.DENT EXTRA CLAN MEDIO 365 X 2,Cuidado Personal,Cuidado Bucal
 240758,PACK NUTRISSE 10 + ESMALTE VOGUE,Cuidado Personal,Cuidado del Cabello
 240759,PACK NUTRISSE 30 + ESMALTE VOGUE,Cuidado Personal,Cuidado del Cabello
@@ -7430,6 +7433,8 @@ id_producto,producto,categoria,subcategoria
 240767,PACK NUTRISSE 5562 + ESMALTE VOGUE,Cuidado Personal,Cuidado del Cabello
 240768,PACK NUTRISSE 67 + ESMALTE VOGUE,Cuidado Personal,Cuidado del Cabello
 240769,QUITAMANCHAS TODO BRILLO 450G BOLSA,Cuidado del Hogar,Limpieza de la Ropa
+240773,AXE AER GREEN GERANIO 150 ML,Cuidado Personal,Cuidado de la Piel
+240774,AXE AER AQUA CITRUS 12X96G/150ML,Cuidado Personal,Cuidado de la Piel
 240775,PAPEL HIGIENICO FINESSE FAMILIA  6 NDS,Cuidado Personal,Cuidado Familiar
 240776,PAPEL HIG FINESSE AROMAS  2P 6 UNDS,Cuidado Personal,Cuidado Familiar
 240778,Cereal En Linea Kids 330 gr,Abarrotes,Nutrición Infantil
@@ -7440,9 +7445,13 @@ id_producto,producto,categoria,subcategoria
 240805,SHAMPOO ALGABO OLIVA ARGAN 750 ML,Cuidado Personal,Cuidado del Cabello
 240806,ACONDC ALGABO ACAI ROMEO 750 ML,Cuidado Personal,Cuidado del Cabello
 240809,JABONCILLO SUSI FLORES Y LECHE 3X80GR,Cuidado Personal,Cuidado de la Piel
+240810,ACEITE BABY OIL CARE STUDIO ROSA 296 ML,Cuidado del Bebé,Cuidado del Bebé
 240811,MATACUCARACHA TYSON  250 CM,Cuidado del Hogar,Insecticidas
 240812,REPELENTE OFF XDURANCION 196 GR,Cuidado del Hogar,Productos Americanos
 240817,TRIPACK KOTEX DISCRETA ULTRAFINA 3X2,Cuidado Personal,Cuidado Familiar
+240828,LIMPIADOR MAXIBRILL LAVANDA CREMOSO 5 LT,Cuidado del Hogar,Limpieza de Living y Ropero
+240836,DOCTOR CURE TIBURON 50 UNDS,Cuidado Personal,Cuidado de la Piel
+240837,DOCTOR CURE POCOYO 50 UNDS,Cuidado Personal,Cuidado de la Piel
 240850,Sal El Salerito de Mesa 130 gr,Abarrotes,Básicos
 240890,My Toffee Coco 600 gr,Abarrotes,Chocolates y Caramelos
 240970,Chocolate Lindt Excellence Dark 100 Cacao 100 gr,Abarrotes,Chocolates y Caramelos
@@ -10417,7 +10426,7 @@ id_producto,producto,categoria,subcategoria
 452842,Masculan Preservativo Gold Caja x 3 unid,Cuidado Personal,Cuidado de la Piel
 453001,Helado Arcor Fanta 80 gr,Congelados,"Helados, Cassattas y Picoleses"
 453060,Helado Arcor Rocklets Palito,Congelados,"Helados, Cassattas y Picoleses"
-453395,Preservativo Maxmen 3b Fresa 1 Cja x 3 un,Farmacia Otc,Varios
+453395,Preservativo Maxmen 3b Fresa 1 Cja x 3 un,Cuidado Personal,Cuidado de la Piel
 453433,Caramelo Garganta Miel Propoleo x 100 gr,Abarrotes,"Mermel, Mieles"
 453434,Caramelo Gargatan Wira Miel 100 gr,Abarrotes,"Mermel, Mieles"
 453435,Caramelo Garganta Eucalipto Miel 100 gr,Abarrotes,"Mermel, Mieles"
@@ -10444,10 +10453,10 @@ id_producto,producto,categoria,subcategoria
 454679,Acondicionador Tio Nacho Engrosador 415 ml,Cuidado Personal,Cuidado del Cabello
 454705,Cicatricure Roll Ojos 15 ml,Cuidado Personal,Cuidado de la Piel
 454720,Preservativo Ultra Fino Tulipan Caja x 3 unid,Cuidado Personal,Cuidado de la Piel
-454738,Preservativo Maxmen Boom 1 Cja x 3 un,Farmacia Otc,Varios
-454739,Preservativo Maxmen Inspiral Tornado 1 Caja x 3 Un,Farmacia Otc,Varios
+454738,Preservativo Maxmen Boom 1 Cja x 3 un,Cuidado Personal,Cuidado de la Piel
+454739,Preservativo Maxmen Inspiral Tornado 1 Caja x 3 Un,Cuidado Personal,Cuidado de la Piel
 454834,Apanado Maggi 80 gr,Abarrotes,Básicos
-454934,Preservativo Maxmen  Connection 1 caja x 3 Un,Farmacia Otc,Varios
+454934,Preservativo Maxmen  Connection 1 caja x 3 Un,Cuidado Personal,Cuidado de la Piel
 454978,Masculan Preservativo Largo Placer x 10 und,Farmacia Otc,Varios
 455288,Mayonesa Mayodan Suave 500 ml,Abarrotes,Aderezos
 455321,Ressaka Guarana x 1 sobres,Farmacia Otc,Tracto Alimentario y Metabolismo
@@ -10470,12 +10479,14 @@ id_producto,producto,categoria,subcategoria
 455864,Alcohol Gel Jamsa Neutro 1 L,Cuidado Personal,Cuidado de la Piel
 455880,ALCOHOL ISOPROPILICO ENVAQUIN X1LT,Cuidado Personal,Cuidado de la Piel
 455885,Preservativo Inspiral Tsunami 48 Caja x 3 und,Farmacia Otc,Varios
-455886,Preservativo Maxmen Sensitive 1 Caja x 3 un,Farmacia Otc,Varios
+455886,Preservativo Maxmen Sensitive 1 Caja x 3 un,Cuidado Personal,Cuidado de la Piel
 455890,Insecticida Mapex Aparato Electrico,Cuidado del Hogar,Insecticidas
 455911,Insecticida Mapex Tableta Mata Mosquito 32 un,Cuidado del Hogar,Insecticidas
 455962,Cafe Irupana Sin Azucar 250 gr,Abarrotes,Aderezos
 455970,Cafe Irupana Tradicional Torrado 250 gr,Abarrotes,Café y Sucedáneos
-455977,Gel Intimo Azucena x 30ml,Farmacia Otc,Sistema Genitourinario y Hormonas Sex.
+455977,Gel Intimo Azucena x 30ml,Cuidado Personal,Cuidado del Adulto
+455978,Gel Lubricante Azucena Connection Hot x 30ml,Cuidado Personal,Cuidado de la Piel
+455979,Gel Lubircante Azucena Frutilla Chocolate x 30ml,Cuidado Personal,Cuidado de la Piel
 456009,Prudence Preservativo Frutilla Caja x 3 unid,Farmacia Otc,Varios
 456013,Prudence Preservat Texturado Extremo Caja x 3 unid,Cuidado Personal,Cuidado de la Piel
 456014,Prudence Preservativo Retardante Caja x 3 unid,Cuidado Personal,Cuidado de la Piel
@@ -12916,6 +12927,7 @@ id_producto,producto,categoria,subcategoria
 553055,GOMITA FINI BESOS 35 GR,Abarrotes,Golosinas - Varias
 553056,GOMITA FINI DENTADURA 35 GR,Abarrotes,Golosinas - Varias
 553057,CHEETOS QUESO BSA 85 GR,Abarrotes,Snack
+553058,PACK FLAN VAINILLA 1 KG  TUPPER,Abarrotes,Repostería
 553059,PACK PUDIN CHOCOLATE 1KG TUPPER,Abarrotes,Repostería
 553060,CERVEZA SCHNEIDER LATA 473 ML,Bebidas,Cervezas
 553061,PACK 12 PEPSI BLUE 250 ML,Bebidas,Gaseosas
@@ -21775,6 +21787,7 @@ id_producto,producto,categoria,subcategoria
 873282,VELAS FORMA PELOTAS OLE BOL X6UND,Bazar,Cotillón
 873283,VELAS LARGA C/SOPORTE OLE BOL X12UND,Bazar,Cotillón
 873284,VELAS LARGAS X12 COLORES OLE BOL,Bazar,Cotillón
+873302,Pala Para Mascota 10,Bazar,Mascotas General
 873315,PAT COLLAR  P/R MASCOTAS 12,Bazar,Mascotas General
 873481,JAN STIKER DE PARED NAVIDAD 9,Bazar,Temporada Navidad
 873483,JAN JUGUETE DE MASCOTAS .12,Bazar,Mascotas General
@@ -22392,6 +22405,7 @@ id_producto,producto,categoria,subcategoria
 929022,Vela Festival 6 un,Bazar,Living y Dormitorio
 929023,Vela Catedral Blanca17cm 8 un,Bazar,Cotillón
 929184,Alargador Del Rio 5 m,Bazar,Ferretería
+929345,COLADOR ESTANADO DE 10 CM,Bazar,Articulos de Cocina
 929346,Colador Clasico Ilko 18 cm,Bazar,Articulos de Cocina
 929347,COLADOR  PLASTICO DE 10 CM ILKO,Bazar,Articulos de Cocina
 929348,Colador Plastico Ilko 18 cm,Bazar,Articulos de Cocina
@@ -22649,6 +22663,7 @@ id_producto,producto,categoria,subcategoria
 984933,Tostador Parrilla Ilko Clasica,Bazar,Articulos de Cocina
 984941,Sarten Antiadherente Ilko Clasica 24 cm,Bazar,Articulos de Cocina
 984943,Sarten Antiadherente Ilko Clasica 30 cm,Bazar,Articulos de Cocina
+984946,Colador Clasico Ilko 14 cm,Bazar,Articulos de Cocina
 984947,COLADOR PLASTICO 7CM.ILKO 2110,Bazar,Articulos de Cocina
 984948,Colador Plastico Ilko 14 cm,Bazar,Articulos de Cocina
 984952,ABRELATA MARIPOSA CLASICA ILKO 2131,Bazar,Articulos de Cocina
