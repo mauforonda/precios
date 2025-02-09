@@ -363,6 +363,11 @@ id_producto,producto,categoria,subcategoria
 5797,Trigo Pelado Hipermaxi 400 gr,Granos y Hortalizas,Fraccionados Hipermaxi
 5804,CP PACK 3X2 MAIZ PIPOCA HIPERMAXI 800 G,Granos y Hortalizas,Fraccionados Hipermaxi
 5805,CP PACK 3X2 LENTEJA HIPERMAXI 800 G,Granos y Hortalizas,Fraccionados Hipermaxi
+5840,CP HOJUELAS DE AVENA HIPERMAXI 400 G,Granos y Hortalizas,Fraccionados Hipermaxi
+5844,CP NUEZ PELADA HIPERMAXI 200 G,Granos y Hortalizas,Fraccionados Hipermaxi
+5845,CP ALMENDRA ESPANOLA HIPERMAXI 300 G,Granos y Hortalizas,Fraccionados Hipermaxi
+5846,CP ALMENDRA ENTERA HIPERMAXI 200 G,Granos y Hortalizas,Fraccionados Hipermaxi
+5848,CP UVAS PASAS HIPERMAXI 200 G,Granos y Hortalizas,Fraccionados Hipermaxi
 5877,Tripack Brixy San Juan Pomos,Abarrotes,Temporada
 6715,Mostaza Taste Zero 350 gr,Abarrotes,Aderezos
 6716,Mayonesa Taste Zero 335 gr,Abarrotes,Aderezos
@@ -1448,7 +1453,9 @@ id_producto,producto,categoria,subcategoria
 24056,MIEL D ABEJA MELIMEL SACHET BSA 30 UND,Abarrotes,"Mermel, Mieles"
 24062,FOUR LOKO MISTER MYSTERY LTA 695ML,Bebidas,Licores
 24063,Chuflay Hard Ximena Zalzer Flow Lata 355 ml sin Azucar,Bebidas,Licores
+24064,GRANOLA TRADIC JASMINE 0 AZUCAR 250G,Abarrotes,Dietéticos y Saludables
 24074,Cereal Kelloggs Corn Flakes 350 gr,Abarrotes,Nutrición Infantil
+24087,FIDEO GUSTOSO MOD31 LINGUINE 400G,Abarrotes,Básicos
 24112,Cereal Kelloggs Froot Loops 230 gr,Abarrotes,Nutrición Infantil
 24120,Cereal Kelloggs Choco Krispis 310 gr,Abarrotes,Nutrición Infantil
 24306,Ron Flor de Caña 5 Años 750 ml,Bebidas,Licores
@@ -1493,6 +1500,7 @@ id_producto,producto,categoria,subcategoria
 26020,SALSA PROMOS BARBACOA ORIG 510G,Abarrotes,Aderezos
 26021,SALSA PROMOS BBQ PICANTE 510G,Abarrotes,Aderezos
 26022,GALLETA COFLER RELLENA BONOBON 85G,Abarrotes,Galletas
+26023,PLATANO CHIPS TITOS SAB AJO 90G,Abarrotes,Snack
 26024,CAFE TOSTADO MOLIDO MUNAQ BSA 250G,Abarrotes,Café y Sucedáneos
 26025,CAFE TOSTADO MOLIDO MUNAQ 500G,Abarrotes,Café y Sucedáneos
 26027,GRAGEAS D MANI MC NUTS OREO 120G,Abarrotes,Snack
@@ -7423,6 +7431,7 @@ id_producto,producto,categoria,subcategoria
 240751,DETERGENTE SURF COCO  4.800 KG,Cuidado del Hogar,Limpieza de la Ropa
 240754,CEPILLO DR.DENT CARBON MEDIO X2 UNDS,Cuidado Personal,Cuidado Bucal
 240755,CEPILLO DENTAL DR.DENT MASAGGER MEDIO X2,Cuidado Personal,Cuidado Bucal
+240756,CEPILLO DR.DENT PROTECT CLEAN MEDIO X2 U,Cuidado Personal,Cuidado Bucal
 240757,CEPILLO DR.DENT EXTRA CLAN MEDIO 365 X 2,Cuidado Personal,Cuidado Bucal
 240758,PACK NUTRISSE 10 + ESMALTE VOGUE,Cuidado Personal,Cuidado del Cabello
 240759,PACK NUTRISSE 30 + ESMALTE VOGUE,Cuidado Personal,Cuidado del Cabello
@@ -7440,6 +7449,7 @@ id_producto,producto,categoria,subcategoria
 240778,Cereal En Linea Kids 330 gr,Abarrotes,Nutrición Infantil
 240793,TOALLA HIG LADYSOFT ALAS  10 UNDS,Cuidado Personal,Cuidado Familiar
 240794,TOALLA HIG LADYSOFT ALA NOCTURNA 10 UNDS,Cuidado Personal,Cuidado Familiar
+240797,PANO ESPONJA CELULOSE WIPES X 3 UNDS,Cuidado del Hogar,Accesorios del Hogar
 240803,PACK DISCO DE ALGODON SEPTONA 70X3PZA,Cuidado Personal,Cuidado de la Piel
 240804,SHAMPOO ALGABO ACAI ROMERO 750 ML,Cuidado Personal,Cuidado del Cabello
 240805,SHAMPOO ALGABO OLIVA ARGAN 750 ML,Cuidado Personal,Cuidado del Cabello
@@ -7449,7 +7459,9 @@ id_producto,producto,categoria,subcategoria
 240811,MATACUCARACHA TYSON  250 CM,Cuidado del Hogar,Insecticidas
 240812,REPELENTE OFF XDURANCION 196 GR,Cuidado del Hogar,Productos Americanos
 240817,TRIPACK KOTEX DISCRETA ULTRAFINA 3X2,Cuidado Personal,Cuidado Familiar
+240822,DESTAPA CANERIA RESPLANDOR 1L,Cuidado del Hogar,Limpieza de Baños
 240828,LIMPIADOR MAXIBRILL LAVANDA CREMOSO 5 LT,Cuidado del Hogar,Limpieza de Living y Ropero
+240835,DOCTOR CURE SIRENITA 50 UNDS,Cuidado Personal,Cuidado de la Piel
 240836,DOCTOR CURE TIBURON 50 UNDS,Cuidado Personal,Cuidado de la Piel
 240837,DOCTOR CURE POCOYO 50 UNDS,Cuidado Personal,Cuidado de la Piel
 240850,Sal El Salerito de Mesa 130 gr,Abarrotes,Básicos
@@ -8157,6 +8169,7 @@ id_producto,producto,categoria,subcategoria
 313644,Labial Maybelline S Stay Matte Ink Pink Pathfinder,Cuidado Personal,Cuidado de la Piel
 313646,Labial Maybelline S Stay Matte Ink Pink Savant 155,Cuidado Personal,Cuidado de la Piel
 313647,Agua Micelar Revitalitf Hilauronico 200 ml,Cuidado Personal,Cuidado de la Piel
+313750,Preservativo Pantera Caja x 3 und,Farmacia Otc,Varios
 313810,Toallas Humedas Pampers Bebe 48 un,Cuidado del Bebé,Cuidado del Bebé
 313811,Toallas Humeda Pampers Aloe Vera 48 un,Cuidado del Bebé,Cuidado del Bebé
 313812,Toallas Humedas Pampers Lavanda 48 un,Cuidado del Bebé,Cuidado del Bebé
@@ -10426,6 +10439,7 @@ id_producto,producto,categoria,subcategoria
 452842,Masculan Preservativo Gold Caja x 3 unid,Cuidado Personal,Cuidado de la Piel
 453001,Helado Arcor Fanta 80 gr,Congelados,"Helados, Cassattas y Picoleses"
 453060,Helado Arcor Rocklets Palito,Congelados,"Helados, Cassattas y Picoleses"
+453237,Pantera Gold Premium Caja 3 unid,Farmacia Otc,Varios
 453395,Preservativo Maxmen 3b Fresa 1 Cja x 3 un,Cuidado Personal,Cuidado de la Piel
 453433,Caramelo Garganta Miel Propoleo x 100 gr,Abarrotes,"Mermel, Mieles"
 453434,Caramelo Gargatan Wira Miel 100 gr,Abarrotes,"Mermel, Mieles"
@@ -10459,6 +10473,8 @@ id_producto,producto,categoria,subcategoria
 454934,Preservativo Maxmen  Connection 1 caja x 3 Un,Cuidado Personal,Cuidado de la Piel
 454978,Masculan Preservativo Largo Placer x 10 und,Farmacia Otc,Varios
 455288,Mayonesa Mayodan Suave 500 ml,Abarrotes,Aderezos
+455304,Pantera Chocolate Caja 3 unid,Farmacia Otc,Varios
+455305,Pantera Cereza Caja 3 unid,Farmacia Otc,Varios
 455321,Ressaka Guarana x 1 sobres,Farmacia Otc,Tracto Alimentario y Metabolismo
 455412,Cicatricure Antimanchas 50 gr,Cuidado Personal,Cuidado de la Piel
 455456,Nectar Pura Vida Frutss Manzana Sin Azucar 2 L,Bebidas,"Jugos, Néctar"
@@ -16663,6 +16679,7 @@ id_producto,producto,categoria,subcategoria
 669146,H&S SH MEN OLD SPICE 90ML X 24U,Cuidado Personal,Cuidado del Cabello
 669147,DETERGENTE SURF ROSAS Y LILAS 650G,Cuidado del Hogar,Limpieza de la Ropa
 669148,DETERGENTE SURF COCO 1.8KG,Cuidado del Hogar,Limpieza de la Ropa
+669149,AXE AER BLUE 12X96G/150ML,Cuidado Personal,Cuidado de la Piel
 669150,AMBIENTADOR TOTTES HAWAIAN 360 ML,Cuidado del Hogar,Limpieza de Living y Ropero
 669151,AMBIENTADOR TOTES ANTITABACO 360 ML,Cuidado del Hogar,Limpieza de Living y Ropero
 669152,AMBIENTADOR TOTES VAINILLA 360 ML,Cuidado del Hogar,Limpieza de Living y Ropero
@@ -20288,6 +20305,10 @@ id_producto,producto,categoria,subcategoria
 839028,CUAD. ESPIRAL PLENO CARTA ECON 100HJ 3238,Bazar,Librería
 839081,Turron Sesamo Tks 150 gr,Abarrotes,Golosinas - Varias
 839159,FRI PLATO DE PERRO DE BS 10,Bazar,Mascotas General
+839239,Libro Infantil Lexus,Bazar,Librería
+839240,Libros Infantiles Lexus,Bazar,Librería
+839241,Libros Lexus Infantiles,Bazar,Librería
+839243,Libro Infantil Lexus,Bazar,Librería
 839254,Harina Famosa Leudante 1 kg,Abarrotes,Básicos
 839310,Encendedor de Carbon La Guardia 1 un,Bazar,Churrasquería
 839313,Set Juego Porta Detergente Plasutil,Bazar,Baño General
