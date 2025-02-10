@@ -365,7 +365,7 @@ id_producto,producto,categoria,subcategoria
 5805,CP PACK 3X2 LENTEJA HIPERMAXI 800 G,Granos y Hortalizas,Fraccionados Hipermaxi
 5840,CP HOJUELAS DE AVENA HIPERMAXI 400 G,Granos y Hortalizas,Fraccionados Hipermaxi
 5844,CP NUEZ PELADA HIPERMAXI 200 G,Granos y Hortalizas,Fraccionados Hipermaxi
-5845,CP ALMENDRA ESPANOLA HIPERMAXI 300 G,Granos y Hortalizas,Fraccionados Hipermaxi
+5845,Almendra Española Hipermaxi 300 gr,Granos y Hortalizas,Fraccionados Hipermaxi
 5846,CP ALMENDRA ENTERA HIPERMAXI 200 G,Granos y Hortalizas,Fraccionados Hipermaxi
 5848,CP UVAS PASAS HIPERMAXI 200 G,Granos y Hortalizas,Fraccionados Hipermaxi
 5877,Tripack Brixy San Juan Pomos,Abarrotes,Temporada
@@ -1429,6 +1429,7 @@ id_producto,producto,categoria,subcategoria
 23531,Achocolatado Chocolike 2 kg,Abarrotes,Nutrición Infantil
 23540,Achocolatado Chocolike 400 gr,Abarrotes,Nutrición Infantil
 23770,Leche Evaporada Nestle Carnation 360 gr,Abarrotes,Nutrición Infantil
+24001,VAPE UMO GRAPE ICE 18000 P,Bebidas,Cigarrillos
 24005,JELLY SHOT FOUR LOKO BSA 248G,Bebidas,Licores
 24007,Cereal Kelloggs Corn Flakes 200 gr,Abarrotes,Nutrición Infantil
 24016,Hidratante Life Sante Naranja 500 ml sin azucar,Bebidas,Isotónicos
@@ -1454,7 +1455,10 @@ id_producto,producto,categoria,subcategoria
 24062,FOUR LOKO MISTER MYSTERY LTA 695ML,Bebidas,Licores
 24063,Chuflay Hard Ximena Zalzer Flow Lata 355 ml sin Azucar,Bebidas,Licores
 24064,GRANOLA TRADIC JASMINE 0 AZUCAR 250G,Abarrotes,Dietéticos y Saludables
+24065,GALLETA SALADA TAPIOCA TRADIC SIN GLUT 2,Abarrotes,Dietéticos y Saludables
+24072,CHOCOLATE BON O BON BREAK 45G,Abarrotes,Golosinas - Varias
 24074,Cereal Kelloggs Corn Flakes 350 gr,Abarrotes,Nutrición Infantil
+24083,FIDEO GUSTOSO TORNILLOS 400G,Abarrotes,Básicos
 24087,FIDEO GUSTOSO MOD31 LINGUINE 400G,Abarrotes,Básicos
 24112,Cereal Kelloggs Froot Loops 230 gr,Abarrotes,Nutrición Infantil
 24120,Cereal Kelloggs Choco Krispis 310 gr,Abarrotes,Nutrición Infantil
@@ -1542,6 +1546,7 @@ id_producto,producto,categoria,subcategoria
 26074,TE FRUTTE BIENESTAR 20 SAQ,Abarrotes,Café y Sucedáneos
 26075,TE NEGRO FRUTTE GRANEL 200G,Abarrotes,Café y Sucedáneos
 26080,CHOCOLATE BREICK CAJA LOVE 200G,Abarrotes,Chocolates y Caramelos
+26081,BOMBON BREICK TE AMO CJA 130G,Abarrotes,Chocolates y Caramelos
 26082,CEREAL CHOCOLIKE ALMOHADITAS CHOCOL 200G,Abarrotes,Nutrición Infantil
 26086,BOMBON BREICK AMOR MIO CJA 130G,Abarrotes,Chocolates y Caramelos
 26088,PACK 2 GALLETAS CHIPS AHOY 222G,Abarrotes,Galletas
@@ -1613,6 +1618,7 @@ id_producto,producto,categoria,subcategoria
 26196,MEZCLA LECHE CONDENS EMBARE TETRA 395G,Abarrotes,Nutrición Infantil
 26198,TRUFFAS PARA TI NAVIDENA S PANETON 150G,Abarrotes,Chocolates y Caramelos
 26200,CHUPETE BON BON BUM FRESA 336GR,Abarrotes,Chocolates y Caramelos
+26212,CAFE BAGGIO MOLIDO CHOCOL TRUFADO 250G,Abarrotes,Café y Sucedáneos
 26215,CAFE BAGGIO MOLIDO AROMAS CARAMEL 250G,Abarrotes,Café y Sucedáneos
 26216,TE HINDU ORGINAL 50SAQ,Abarrotes,Café y Sucedáneos
 26217,TE HINDU SUPERBLENDS DIGEST 20SAQ,Abarrotes,Dietéticos y Saludables
@@ -1889,6 +1895,7 @@ id_producto,producto,categoria,subcategoria
 30463,Cafe En Linea Capuccino 104 gr,Abarrotes,Dietéticos y Saludables
 30465,JARABE SYRUP P PANCAKE PROMOS ORIG 24 OZ,Abarrotes,Repostería
 30466,MARSMALLOWS MINI SUITY 10 OZ,Abarrotes,Chocolates y Caramelos
+30468,Pack Cooler Paceña + 12 Cerveza 330 ml,Bebidas,Cervezas
 30469,Mayonesa Real 500 cm,Abarrotes,Aderezos
 30470,Mayonesa Real 1000 cm,Abarrotes,Aderezos
 30471,Ketchup Real 1000 gr,Abarrotes,Aderezos
@@ -10586,6 +10593,7 @@ id_producto,producto,categoria,subcategoria
 461278,LIPSMACK BAL.LABIAL MANGO TROPICAL 11 GR,Cuidado Personal,Cuidado de la Piel
 461393,Sazonador McCormick Mild Mix Taco 28 gr,Abarrotes,Condimentos y Legumbres
 461530,Carbon Ecologico 3 kg,Bazar,Churrasquería
+461568,REANIMON S/LIMON X10 SOBRES ANTIACIDO,Cuidado Personal,Cuidado de la Piel
 461759,FOODNESS BATIDO VERDE LTA X 630GR,Abarrotes,Dietéticos y Saludables
 461857,Sopa Instantanea Maruchan Camaron 64 gr,Abarrotes,Básicos
 461865,Sopa Instantanea Maruchan Pollo Picante 64 gr,Abarrotes,Básicos
@@ -15840,7 +15848,7 @@ id_producto,producto,categoria,subcategoria
 666867,Jabon Barra Bolivar Antibacterial 210 gr,Cuidado del Hogar,Limpieza de la Ropa
 666868,Jabon Barra Bolivar Blancos Perfectos 210 gr,Cuidado del Hogar,Limpieza de la Ropa
 666873,Ambientador Repuesto Sapolio Bebe 2 un 12 ml,Cuidado del Hogar,Limpieza de Living y Ropero
-666879,Detergente Capsula Tide 397 gr,Cuidado del Hogar,Limpieza de la Ropa
+666879,Detergente Capsula Tide 379 gr,Cuidado del Hogar,Limpieza de la Ropa
 666882,Detergente Capsula Tide 35 un 876 gr,Cuidado del Hogar,Limpieza de la Ropa
 666903,Body Wash Old Spice Swagger 473 ml,Cuidado Personal,Cuidado de la Piel
 666909,Guantes Latex Naranja Talla 7 1/2,Cuidado del Hogar,Accesorios del Hogar
@@ -16027,7 +16035,7 @@ id_producto,producto,categoria,subcategoria
 667693,Pack Cotonetes Septa 100 un,Cuidado del Bebé,Cuidado del Bebé
 667704,Acondicionador Pantene 3MM Bamboo 170 ml,Cuidado Personal,Cuidado del Cabello
 667720,Detergente Capsula Tide Spring Meadow 4 un,Cuidado del Hogar,Limpieza de la Ropa
-667722,Pasta Dental Crest Complete Whiten Deepclean 153 gr,Cuidado Personal,Cuidado Bucal
+667722,Pasta Dental Crest Complete Whitening Deep clean 153 gr,Cuidado Personal,Cuidado Bucal
 667723,Pasta Dental Crest Complete Whiten Scope 153 gr,Cuidado Personal,Cuidado Bucal
 667724,Bolsa Basura La Economica 60x90 cm,Cuidado del Hogar,Accesorios del Hogar
 667725,Serum Revitalift Loreal Acido Hialuronico,Cuidado Personal,Cuidado de la Piel
@@ -16120,6 +16128,8 @@ id_producto,producto,categoria,subcategoria
 667904,Pato Canasta Liquida Marina 50 ml,Cuidado del Hogar,Limpieza de Baños
 667905,Pastilla de Baño Pato Adhesivo Floral 6 un,Cuidado del Hogar,Limpieza de Baños
 667907,Limpiador de Baño Pato Gel Tropical Purific 500 ml,Cuidado del Hogar,Limpieza de Baños
+667908,Crema Tratamiento Belestral Coco Miel,Cuidado Personal,Cuidado del Cabello
+667910,Jabon Liquido Hanbel Tulipan Granada,Cuidado Personal,Cuidado de la Piel
 667911,Shampoo Selfy Bebe 2 en 1 Doypack 900 gr,Cuidado Personal,Cuidado del Cabello
 667915,Shampoo Selfy Antibacterial 1000 ml,Cuidado Personal,Cuidado del Cabello
 667916,Desodorante Barra Old Spice Pack 3 un 50 gr,Cuidado Personal,Cuidado de la Piel
@@ -16683,6 +16693,7 @@ id_producto,producto,categoria,subcategoria
 669150,AMBIENTADOR TOTTES HAWAIAN 360 ML,Cuidado del Hogar,Limpieza de Living y Ropero
 669151,AMBIENTADOR TOTES ANTITABACO 360 ML,Cuidado del Hogar,Limpieza de Living y Ropero
 669152,AMBIENTADOR TOTES VAINILLA 360 ML,Cuidado del Hogar,Limpieza de Living y Ropero
+669155,AFEITADORA BIC SOLEIL ESCAPE LAVANDA,Cuidado Personal,Cuidado de la Piel
 669156,DOVE SH NUTRICION 12X200ML,Cuidado Personal,Cuidado del Cabello
 669901,Pizza Hipermaxi Congelada Hawaiana 620 gr,Congelados,Masas y Comidas Congeladas
 669902,Pizza Hipermaxi Congelada Jamon Queso Light Masa Integral,Congelados,Masas y Comidas Congeladas
@@ -18170,6 +18181,7 @@ id_producto,producto,categoria,subcategoria
 674346,QUESO DE MEZCLA SEMICURADO GOURMET CUNA,Lácteos y Derivados,Quesos
 674347,QUESO DE MEZCLA TIERNO GOURMET CUNA,Lácteos y Derivados,Quesos
 674348,QUESO DE MEZCLA CURADO GOURMET CUNA 175GRS,Lácteos y Derivados,Quesos
+674351,POSTRE TENTACION CANELA-MARACUYA DELIZIA 200ML,Congelados,"Helados, Cassattas y Picoleses"
 675245,Miel de Abeja Eva Promiel 250 gr,Abarrotes,"Mermel, Mieles"
 676113,Habanito Bits Cream Coojies Cream 120 gr,Congelados,"Helados, Cassattas y Picoleses"
 676115,HABANITO BITS CREAM DULCE DE LECHE 120GRS,Congelados,"Helados, Cassattas y Picoleses"
@@ -19837,6 +19849,7 @@ id_producto,producto,categoria,subcategoria
 797620,Crema Depiladora Veet Piel Sensible 100 ml,Cuidado Personal,Cuidado de la Piel
 797635,Crema Depiladora Veet Perfumada Normal 100 ml,Cuidado Personal,Cuidado de la Piel
 797837,Manjar Blanco La Florida Premium 1 kg,Lácteos y Derivados,Dulces de Leche y Manjares
+797979,Queso de Vaca Loro Negro Tipo Provoleta 250 gr,Lácteos y Derivados,Quesos
 798235,Pan Precocido Francesito 10 un,Panadería,Panadería Especialidades Hipermaxi
 798311,Six Pack Helado Vaca Fria Vasos 150 ml,Congelados,"Helados, Cassattas y Picoleses"
 798312,Costilla Ahumada La sierra A Granel kg,Fiambres,Fiambres Externos
