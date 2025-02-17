@@ -1463,6 +1463,7 @@ id_producto,producto,categoria,subcategoria
 24048,MEZCLA P INFUSION DORADA POLVO 130G,Abarrotes,Dietéticos y Saludables
 24049,AVENA NUTRINAT C CALOSTRO VAINILLA 250G,Abarrotes,Dietéticos y Saludables
 24050,AVENA NUTRINAT C CALOSTRO CHOCOLATE 250G,Abarrotes,Dietéticos y Saludables
+24051,CIGARRILLO WINSTON LEGEND BLUE 20 UND,Bebidas,Cigarrillos
 24052,CIGARRILLO WINSTON ORIG RED 20 UND,Bebidas,Cigarrillos
 24056,MIEL D ABEJA MELIMEL SACHET BSA 30 UND,Abarrotes,"Mermel, Mieles"
 24061,FOUR LOKO MISS MYSTERY LTA 695ML,Bebidas,Licores
@@ -1476,13 +1477,16 @@ id_producto,producto,categoria,subcategoria
 24074,Cereal Kelloggs Corn Flakes 350 gr,Abarrotes,Nutrición Infantil
 24075,CHICLE BIG BIG GROSSO EVOLUTION 29G,Abarrotes,Golosinas - Varias
 24076,PACK 2 SUEROX MANZANA 630ML,Bebidas,Isotónicos
+24077,PACK 2 SUEROX FRESA KIWI 630ML,Bebidas,Isotónicos
 24079,PACK 2 SUEROX MORA AZUL HIERBA 630ML,Bebidas,Isotónicos
 24083,FIDEO GUSTOSO TORNILLOS 400G,Abarrotes,Básicos
 24087,FIDEO GUSTOSO MOD31 LINGUINE 400G,Abarrotes,Básicos
 24088,FIDEO GUSTOSO MOD16 TUBITO 400G,Abarrotes,Básicos
+24098,COMITA BILLIKEN BANANITA 150G,Abarrotes,Golosinas - Varias
 24100,GOMITA BILLIKEN SANDIA BSA 150G,Abarrotes,Golosinas - Varias
 24112,Cereal Kelloggs Froot Loops 230 gr,Abarrotes,Nutrición Infantil
 24116,BOMBON BILLIKEN CORAZON CLASSIC 200G,Abarrotes,Chocolates y Caramelos
+24117,GOMITA YUMMY OSITOS ACIDOS 150G,Abarrotes,Golosinas - Varias
 24118,GOMITA BILLIKEN BULL DOG FRUTILLA ACIDO,Abarrotes,Golosinas - Varias
 24119,GOMITA BILLIKEN BUL DOG TUTTI ACIDO 125G,Abarrotes,Golosinas - Varias
 24120,Cereal Kelloggs Choco Krispis 310 gr,Abarrotes,Nutrición Infantil
@@ -7536,6 +7540,7 @@ id_producto,producto,categoria,subcategoria
 240845,JABON DE LAVAR NATU COCO 100 GR,Cuidado del Hogar,Limpieza de la Ropa
 240846,JABON DE LAVAR NATU COCO 200 GR,Cuidado del Hogar,Limpieza de la Ropa
 240848,PAPEL FINESSE FAMILIA 4 X 12,Cuidado Personal,Cuidado Familiar
+240849,PAPEL FINESSE AROMA 4 X 12,Cuidado Personal,Cuidado Familiar
 240850,Sal El Salerito de Mesa 130 gr,Abarrotes,Básicos
 240890,My Toffee Coco 600 gr,Abarrotes,Chocolates y Caramelos
 240970,Chocolate Lindt Excellence Dark 100 Cacao 100 gr,Abarrotes,Chocolates y Caramelos
@@ -13056,6 +13061,7 @@ id_producto,producto,categoria,subcategoria
 553070,GALLETA JASMINE ALMEND CASTANA INTEG 120,Abarrotes,Dietéticos y Saludables
 553071,PACK SUPREMA VUELTA A CLASES,Abarrotes,Galletas
 553072,"BOMBON GAROTO CROCRIBE 215,2G",Abarrotes,Chocolates y Caramelos
+553073,"BOMBON GAROTO SERENATA AMOR 210,7G",Abarrotes,Chocolates y Caramelos
 553074,GALLETA GAROTO CHOCOBISCUIT 78 GR,Abarrotes,Galletas
 553075,CHOCOLATE GAROTO CHOCOTRIO PRESTIGIO TAB,Abarrotes,Chocolates y Caramelos
 553076,MALVAVISCO WANDY ROSA BCO CHOCOL 225G,Abarrotes,Chocolates y Caramelos
@@ -13072,6 +13078,7 @@ id_producto,producto,categoria,subcategoria
 553089,PIPOCAS DE MAIZ PIPOSAL MANTEQUILLA 170,Abarrotes,Snack
 553094,PACK 6 CERVEZA GOLDEN LTA 440 ML,Bebidas,Cervezas
 553097,GIN INSURGENTE FRUTILLA 700 ML,Bebidas,Licores
+553099,ARROZ NELSON WENDT PARBOLIZADO 1 KG,Abarrotes,Productos Americanos
 554333,Cerveza Paceña Lata Roja 473 Cc,Bebidas,Cervezas
 554466,Detergente Liquido Ola Futuro Limpieza Completa 5 L,Cuidado del Hogar,Limpieza de la Ropa
 554468,Suavizante Ropa Ola Suavecito Original 5 L,Cuidado del Hogar,Limpieza de la Ropa
@@ -14148,6 +14155,7 @@ id_producto,producto,categoria,subcategoria
 629766,PASTA BARILLA PENNE RIGATE 500 GR,Abarrotes,Productos Americanos
 629767,PASTA BARILLA BPE FUSILLI 500 GR,Abarrotes,Productos Americanos
 629770,PASTA BARILLA MINI PENNE RIGATE 250 GR,Abarrotes,Productos Americanos
+629771,PASTA BARILLA MINI CONCHIGLIE 250 GR,Abarrotes,Productos Americanos
 629772,PASTA BARILLA SPAGHETTI NO. 5 500 GR,Abarrotes,Productos Americanos
 629773,PASTA BARILLA SPAGHETTI NO. 7 500 GR,Abarrotes,Productos Americanos
 629775,PASTA BARILLA SPAGHETTI NO.7 200 GR,Abarrotes,Productos Americanos
@@ -18274,6 +18282,7 @@ id_producto,producto,categoria,subcategoria
 674308,PASTA DE HIGADO DE POLLO OVOPLUS 100GRS,Fiambres,Fiambres Externos
 674309,PANETON CHOCO CHERRY OVOPLUS CAJA 540 GRS,Panadería,Panadería Externa
 674310,MINI PANETONES TRIO OVOPLUS CAJA 300GRS,Panadería,Panadería Externa
+674312,MANTEQUILLA C/CEBOLLA SABOR BRASUCO 200GRS,Lácteos y Derivados,Mantequillas y Margarinas
 674313,MANTEQUILLA C/CHIMICHURRI SABOR BRASUCO 200GRS,Lácteos y Derivados,Mantequillas y Margarinas
 674314,MANTEQUILLA C/CHEEDAR SABOR BRASUCO 200GRS,Lácteos y Derivados,Mantequillas y Margarinas
 674315,ACEITUNAS VERDES EN SALMUERA KILOGRAMO,Fiambres,Fiambres Externos
@@ -18302,6 +18311,7 @@ id_producto,producto,categoria,subcategoria
 674348,QUESO DE MEZCLA CURADO GOURMET CUNA 175GRS,Lácteos y Derivados,Quesos
 674349,POSTRE TRADICION CANELA-LECHE DELIZIA 200ML,Congelados,"Helados, Cassattas y Picoleses"
 674351,POSTRE TENTACION CANELA-MARACUYA DELIZIA 200ML,Congelados,"Helados, Cassattas y Picoleses"
+674361,QUESO CRIOLLO TORITO AL VACIO,Fiambres,Fiambres Externos
 674363,HELADO TENTACION ALMENDRA DELIZIA,Congelados,"Helados, Cassattas y Picoleses"
 674364,PAN MOLDE QUINUA CEAB 600 GRS,Panadería,Panadería Externa
 675245,Miel de Abeja Eva Promiel 250 gr,Abarrotes,"Mermel, Mieles"
