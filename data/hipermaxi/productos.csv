@@ -1455,7 +1455,7 @@ id_producto,producto,categoria,subcategoria
 24026,PACK 3PRIMOGATO CASTRADOS POLLO 1KG,Abarrotes,Mascotas
 24029,BEBIDA FOUR LOKO MISTER MYSTERY 473ML,Bebidas,Licores
 24030,BEBIDA FOUR LOKO MISS MYSTERY 473 ML,Bebidas,Licores
-24032,PACK 2 CLUB SOCIAL ORIGINAL 216G,Abarrotes,Galletas
+24032,Pack Club Social Original 216 gr,Abarrotes,Galletas
 24033,CALAMARES GOYA EN S TINTA PICANTE  4OZ,Abarrotes,Comidas en Conserva
 24040,Cereal Kelloggs Choco Krispis 175 gr,Abarrotes,Nutrición Infantil
 24041,PACK 3PRIMOCAO ORIGINAL RZ GDE 1KG,Abarrotes,Mascotas
@@ -1488,6 +1488,7 @@ id_producto,producto,categoria,subcategoria
 24085,SPAGUETTI GUSTOSO MOD33 400G,Abarrotes,Básicos
 24087,FIDEO GUSTOSO MOD31 LINGUINE 400G,Abarrotes,Básicos
 24088,FIDEO GUSTOSO MOD16 TUBITO 400G,Abarrotes,Básicos
+24089,CAFE INSTANT IGUAZU LTA 100G,Abarrotes,Café y Sucedáneos
 24098,COMITA BILLIKEN BANANITA 150G,Abarrotes,Golosinas - Varias
 24100,GOMITA BILLIKEN SANDIA BSA 150G,Abarrotes,Golosinas - Varias
 24112,Cereal Kelloggs Froot Loops 230 gr,Abarrotes,Nutrición Infantil
@@ -1497,6 +1498,8 @@ id_producto,producto,categoria,subcategoria
 24119,GOMITA BILLIKEN BUL DOG TUTTI ACIDO 125G,Abarrotes,Golosinas - Varias
 24120,Cereal Kelloggs Choco Krispis 310 gr,Abarrotes,Nutrición Infantil
 24132,GOMITA BILLIKEN REGALIZ ACIDO FRUTILLA 7,Abarrotes,Golosinas - Varias
+24133,GOMITA BILLIKEN REGALIZ ACIDO TUTTI F 75,Abarrotes,Golosinas - Varias
+24134,GOMITA BILLIKEN REGALIZ ACIDO SANDIA 75G,Abarrotes,Golosinas - Varias
 24306,Ron Flor de Caña 5 Años 750 ml,Bebidas,Licores
 24401,"Edulcorante  Dulzero Clasico 250 ml
 ",Abarrotes,Dietéticos y Saludables
@@ -1527,6 +1530,7 @@ id_producto,producto,categoria,subcategoria
 26002,SALSA KRIS P PIZZA DP 200G,Abarrotes,Salsas y Extracto de Tomate
 26003,BEBIDA MAMITAS TEQUILA S FRAMBUESA LTA 3,Bebidas,Licores
 26004,Isotonico Activade Mora 1 Lt,Bebidas,Isotónicos
+26005,VINO MONTESILLO SINGLAD ALBARINO 750ML,Bebidas,Vinos y Champagne
 26006,BEBIDA MAMITAS PINA LTA 355ML,Bebidas,Licores
 26007,BEBIDA MAMITAS LIMON LTA 355ML,Bebidas,Licores
 26008,LICOR D MENTA LOBO H BUENA 750ML,Bebidas,Licores
@@ -1558,7 +1562,7 @@ id_producto,producto,categoria,subcategoria
 26040,GALLETA GULLON DUO CHOCOLATE 145G,Abarrotes,Galletas
 26041,GALLETA GULLON CHIP CHOCO ZERO 125G,Abarrotes,Dietéticos y Saludables
 26042,GALLETA GULLON MARIA LECHE ZERO 200G,Abarrotes,Dietéticos y Saludables
-26043,HARINA NUTRI HIT P PANQUEQ QUINUA 250G,Abarrotes,Dietéticos y Saludables
+26043,Mezcla en Polvo para Panqueques y waffles Chocolate 250 gr Nutrihit,Abarrotes,Dietéticos y Saludables
 26044,BEBIDA BELLA ROMA LTA 473ML,Bebidas,Licores
 26045,VINO POSTA GLORIETA PINOT NOIR 750ML,Bebidas,Vinos y Champagne
 26047,VINO LUCA BESO D DANTE RED BLEND 750ML,Bebidas,Vinos y Champagne
@@ -1605,7 +1609,7 @@ id_producto,producto,categoria,subcategoria
 26108,CHOCOLATE BREICK RELL DAMASCO TAB 95G,Abarrotes,Chocolates y Caramelos
 26110,KIT PAELLA CARMENCITA MARISCOS 4P 490G,Abarrotes,Condimentos y Legumbres
 26112,ACEITUNA GOYA RELL QUESO AZUL 149G,Abarrotes,Verduras en Conserva
-26117,HARINA PILLSBURY MILK CHOCOLATE BROWNIE,Abarrotes,Repostería
+26117,Mezcla para Brownies Leche Chocolate Pillsbury 521 gr,Abarrotes,Repostería
 26118,CAFE ILLY CLASSICO BLEND 18CAP,Abarrotes,Café y Sucedáneos
 26120,GALLETA NUTRI HIT QUINOA MANZ CANELA 180,Abarrotes,Dietéticos y Saludables
 26121,CIGARR CAMEL TROPICAL SHAKE 20UND,Bebidas,Cigarrillos
@@ -1642,7 +1646,7 @@ id_producto,producto,categoria,subcategoria
 26161,PICO PICO SNACK CAMARO PIZZA 120G,Abarrotes,Snack
 26162,SAL ROSADA ISHIMA DP 800 GR,Abarrotes,Básicos
 26163,CHANCACA ISHIMA DP 800 GR,Abarrotes,Básicos
-26164,HARINA PILLSBURY BROWNIE MIX DARK CHOC 1,Abarrotes,Repostería
+26164,Mezcla para Brownies Chocolate Negro Pillsbury 521 gr,Abarrotes,Repostería
 26173,"ALOE VERA OTRO MUNDO SIN AZUCAR 1,5LT",Bebidas,Bebidas Varias
 26174,"ALOE VERA OTRO MUNDO PET 1,5LT",Bebidas,Bebidas Varias
 26175,ALOE VERA OTRO MUNDO PET 500ML,Bebidas,Bebidas Varias
@@ -1736,7 +1740,7 @@ id_producto,producto,categoria,subcategoria
 29091,Gomita Guandy Corazon Dulce 20 gr,Abarrotes,Golosinas - Varias
 29095,REFRESCO FUNCIONAL MITTO LIMON 600ML,Bebidas,Bebidas Varias
 29096,Refresco Mitto Frambuesa Uva 600 ml,Bebidas,Bebidas Varias
-29097,HOJA D GUAYABA DESHID P INFUSION 90G,Abarrotes,Café y Sucedáneos
+29097,Hoja de Guayaba Deshidratada para Infusion 90 gr Alba,Abarrotes,Café y Sucedáneos
 29098,Pack Chocolate Vizzio 3x2 26 gr,Abarrotes,Golosinas - Varias
 29099,Mermelada Bien Hecho Mora Sin Azucar 350 gr,Abarrotes,Dietéticos y Saludables
 29100,MERMELADA B HECHO CIRUELA SIN AZUC 350G,Abarrotes,Dietéticos y Saludables
@@ -4518,6 +4522,8 @@ id_producto,producto,categoria,subcategoria
 111532,Papel Higienico Premier Soft 12 un,Cuidado Personal,Cuidado Familiar
 111559,Limpiador de Acero 3M Inoxidable Multiuso 600 gr,Cuidado del Hogar,Limpieza de Living y Ropero
 111561,Extracto de Tomate Norte 140 gr,Abarrotes,Salsas y Extracto de Tomate
+111562,Lengua de Cabeza un,Carnes,Carne de Res
+111570,Riñones 2 un,Carnes,Carne de Res
 111585,Shampoo Pantene Fuerza Reconstruccion 400 ml,Cuidado Personal,Cuidado del Cabello
 111586,Acondicionador Pantene Fuerza Reconstruccion 400 ml,Cuidado Personal,Cuidado del Cabello
 111587,Shampoo Pantene Control Caida 200 ml,Cuidado Personal,Cuidado del Cabello
@@ -7555,6 +7561,7 @@ id_producto,producto,categoria,subcategoria
 240837,DOCTOR CURE POCOYO 50 UNDS,Cuidado Personal,Cuidado de la Piel
 240845,JABON DE LAVAR NATU COCO 100 GR,Cuidado del Hogar,Limpieza de la Ropa
 240846,JABON DE LAVAR NATU COCO 200 GR,Cuidado del Hogar,Limpieza de la Ropa
+240847,JABON  DE LAVAR NATU COCO  400 GR,Cuidado del Hogar,Limpieza de la Ropa
 240848,PAPEL FINESSE FAMILIA 4 X 12,Cuidado Personal,Cuidado Familiar
 240849,PAPEL FINESSE AROMA 4 X 12,Cuidado Personal,Cuidado Familiar
 240850,Sal El Salerito de Mesa 130 gr,Abarrotes,Básicos
@@ -11067,7 +11074,7 @@ id_producto,producto,categoria,subcategoria
 491934,Vaso Tequilero Campana,Bazar,Menaje Vidrio/Cristal
 492026,Cereal Princesa Divertillops 220 gr,Abarrotes,Nutrición Infantil
 492029,Cereal Abejuelas Miel 220 gr,Abarrotes,Nutrición Infantil
-492031,Cereal Princesa Chocopotamos 220 gr,Abarrotes,Nutrición Infantil
+492031,Cereal Princesa Chocopotamos 200 gr,Abarrotes,Nutrición Infantil
 492033,Bombon Breick Selectos Spirit 110 gr,Abarrotes,Chocolates y Caramelos
 492248,Leche Evaporada Gloria Lata 395 gr,Abarrotes,Nutrición Infantil
 492337,Cerveza Heineken Six Pack 330 ml,Bebidas,Cervezas
@@ -13002,6 +13009,7 @@ id_producto,producto,categoria,subcategoria
 552945,QUINUA TOSTADA GRAN ORO 250 GRS.,Abarrotes,Nutrición Infantil
 552946,QUINUA REAL MIXTA GRAN ORO 400 GRS.,Abarrotes,Nutrición Infantil
 552947,CAFE DE ALTURA GRANO BSA 500G,Abarrotes,Café y Sucedáneos
+552948,CAFE DE ALTURA MOLIDO BSA 500G,Abarrotes,Café y Sucedáneos
 552952,PASTA DE MANI TACKER SIN AZUCAR 360 GR,Abarrotes,Dietéticos y Saludables
 552953,VINO DELFIN ROSE 750 ML,Bebidas,Vinos y Champagne
 552955,CAFE GRANO LAVAZZA QUALITA ROSA 500G,Abarrotes,Café y Sucedáneos
@@ -21886,6 +21894,8 @@ id_producto,producto,categoria,subcategoria
 864781,Mini Agenda 2025 AAA,Bazar,Librería
 864782,Agenda Mediana 2025 AAA,Bazar,Librería
 864819,Mascarilla Capilar Colorvive Elvive 300 ml,Cuidado Personal,Cuidado del Cabello
+864857,LONCHERA PLASTICA KENDY,Bazar,Menaje Plástico
+864862,LONCHERA KENDY 3PZ,Bazar,Librería
 864988,Papel Higienico Scott Cuidado Completo 12 un,Cuidado Personal,Cuidado Familiar
 865189,Huevos Yemita Amarilla 12 un,Lácteos y Derivados,Huevos
 865194,Papa McCain Congelada Smiles 600 gr,Congelados,Masas y Comidas Congeladas
