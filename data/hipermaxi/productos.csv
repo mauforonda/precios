@@ -1576,8 +1576,8 @@ id_producto,producto,categoria,subcategoria
 26058,VINAGRE JE PINA PET 1 LT,Abarrotes,Dietéticos y Saludables
 26060,FERNET BUHERO NEGRO BOT 700ML,Bebidas,Licores
 26061,PACK GALLETA MABEL MULTISEMILLA 3X200G,Abarrotes,Galletas
-26062,MERMELADA DFRUT FRUTILLA FCO 500G,Abarrotes,"Mermel, Mieles"
-26063,MERMELADA DFRUT DURAZNO FCO 500G,Abarrotes,"Mermel, Mieles"
+26062,Mermelada Frutilla Dfrut Frasco 500 gr,Abarrotes,"Mermel, Mieles"
+26063,Mermelada Durazno Dfrut frasco 500 gr,Abarrotes,"Mermel, Mieles"
 26064,CUBANITOS BONOBON LECHE 78GR,Abarrotes,Chocolates y Caramelos
 26065,BOTA BON O BON NAVIDENA DP 150G,Abarrotes,Temporada
 26067,PEPINILLO GREENS AGRIDULCE FCO 350G,Abarrotes,Verduras en Conserva
@@ -1613,24 +1613,24 @@ id_producto,producto,categoria,subcategoria
 26118,CAFE ILLY CLASSICO BLEND 18CAP,Abarrotes,Café y Sucedáneos
 26120,GALLETA NUTRI HIT QUINOA MANZ CANELA 180,Abarrotes,Dietéticos y Saludables
 26121,CIGARR CAMEL TROPICAL SHAKE 20UND,Bebidas,Cigarrillos
-26122,CHOCOLATE SUBLIME SONRISAS 25X8G CJA 200,Abarrotes,Chocolates y Caramelos
+26122,Chocolate Sublime Sonrisas 25x8 gr,Abarrotes,Chocolates y Caramelos
 26123,BOMBON BREICK ROMBO NAVIDEÑO 85G,Abarrotes,Temporada
 26124,CHOCOLATE BREICK CABERTNET TAB 100G,Abarrotes,Chocolates y Caramelos
-26125,CHOCOLATE BREICK RELL MARACUYA TAB 95G,Abarrotes,Chocolates y Caramelos
+26125,Chocolate Breick Maracuya Tableta 95 gr,Abarrotes,Chocolates y Caramelos
 26127,GASEOSA CONTI COLA SIN AZUC 350 ML,Bebidas,Gaseosas
 26128,GALLETA CREMOSITA TROPICAL MIX 228G,Abarrotes,Galletas
 26129,CHOCOLATE BREICK RELL UVA TAB 95G,Abarrotes,Chocolates y Caramelos
 26130,CHOCOLATE BREICK RELL FRUTILLA TAB 95G,Abarrotes,Chocolates y Caramelos
-26133,CHOCOLATE BREICK RELL PINA TAB 95G,Abarrotes,Chocolates y Caramelos
+26133,Chocolate Breick Piña Tableta 95 gr,Abarrotes,Chocolates y Caramelos
 26134,CHOCOLATE BREICK C MANI TAB 100G,Abarrotes,Chocolates y Caramelos
 26135,CHOCOLATE BRECIK CANDY RICE TAB 100G,Abarrotes,Chocolates y Caramelos
 26137,GALLETA ARTESANA ROSQUITAS CHOCOL 180G,Abarrotes,Galletas
-26138,GALLETA ARTESANA ROSQUITAS COCO 180G,Abarrotes,Galletas
-26139,GALLETA ARTESANA ROSQUITAS VAINILLA 180G,Abarrotes,Galletas
-26141,CUNAPE CARAMRO T BRASIL NATURAL 85G,Abarrotes,Snack
-26142,GALLETA ARTESANA ROSQUITAS BANANA 180G,Abarrotes,Galletas
-26144,CUNAPE CAMARO T BRASIL QUESO 85G,Abarrotes,Snack
-26145,CUNAPE CAMARO T BRASIL MANTEQ 85G,Abarrotes,Snack
+26138,Galleta Artesana Rosquitas Coco 180 gr,Abarrotes,Galletas
+26139,Galleta Artesana Rosquitas Vainilla 180 gr,Abarrotes,Galletas
+26141,Cuñape Tipo Brasileño Natural Camaro 85 gr,Abarrotes,Snack
+26142,Galleta Artesana Rosquitas Banana 180 gr,Abarrotes,Galletas
+26144,Cuñape Camaro Tipo Brasileño Queso 85 gr,Abarrotes,Snack
+26145,Cuñape Tipo Brasileño Camaro Mantequilla 85 gr,Abarrotes,Snack
 26146,PIPOCA LOCA CAMARO SALADA TOCINO 70G,Abarrotes,Snack
 26147,PIPOCA LOCA CAMARO SALADA MANTEQ 70G,Abarrotes,Snack
 26148,PIPOCA LOCA CAMARO SALADA QUESO 70G,Abarrotes,Snack
@@ -1690,6 +1690,7 @@ id_producto,producto,categoria,subcategoria
 29008,Chocolate Talento Leche Caju Nuez 75 gr,Abarrotes,Chocolates y Caramelos
 29010,Chocolate Talento Leche Mani Avellana 75 gr,Abarrotes,Chocolates y Caramelos
 29011,Vino Solaz Cabernet Sauvignon Tempranillo 750 ml,Bebidas,Vinos y Champagne
+29012,Vino Montecillo Rioja Crianza 750 ml,Bebidas,Vinos y Champagne
 29013,Nacho Mexican Food Queso 150 gr,Abarrotes,Snack
 29014,Aji Polvo McCormick Brasil 88.4 gr,Abarrotes,Condimentos y Legumbres
 29015,Mermelada Yacobs Maracuya 485 gr,Abarrotes,"Mermel, Mieles"
@@ -1768,7 +1769,7 @@ id_producto,producto,categoria,subcategoria
 29128,MANTEQ D MANI TRI NUTS CHOCOL 360G,Abarrotes,Repostería
 29130,CHOCOL GARATO LECHE C ARROZ CRUJ 80G,Abarrotes,Chocolates y Caramelos
 29131,CAFE CATUNAMBU TOSTADO GRANO 1KG,Abarrotes,Café y Sucedáneos
-29132,FLAN KRIS CHOCOLATE CJA 80G,Abarrotes,Repostería
+29132,Flan Kris Chocolate Caja 80 gr,Abarrotes,Repostería
 29138,VINAGRE JE D MANZANA PET 1 LT,Abarrotes,Dietéticos y Saludables
 29139,VINAGRE JE D MANZANA CURCUMA 1LT,Abarrotes,Dietéticos y Saludables
 29140,BEBIDA CRAZY SUNSET GOLD LTA 473ML,Bebidas,Licores
@@ -12978,10 +12979,10 @@ id_producto,producto,categoria,subcategoria
 552906,GALLETA MAZZEI SIN AZUC LIMON 150G,Abarrotes,Galletas
 552907,GALLETA MAZZEI SIN AZUCAR COCO 150G,Abarrotes,Galletas
 552908,PACK 12 CERVEZA PACENA LTA 440ML,Bebidas,Cervezas
-552909,CAFE VINUT NEGRO LTA 250 ML,Abarrotes,Productos Americanos
-552910,ICED COFFE VINUT LTA 250 ML,Abarrotes,Productos Americanos
-552911,COLD DREW COFFE VINUT S AZUCAR LTA 250 ML,Abarrotes,Productos Americanos
-552912,COFFE LATE VINUT LTA 250 ML,Abarrotes,Productos Americanos
+552909,Bebida de Cafe Vinut Latte 250 ml,Abarrotes,Productos Americanos
+552910,Bebida de Cafe Vinut Iced Coffe Lata 250 ml,Abarrotes,Productos Americanos
+552911,Bebida de Cafe Vinut Arabica y Robusta sin Azucar lata 250 ml,Abarrotes,Productos Americanos
+552912,Bebida de Cafe Negro Vinut Lata 250 ml,Abarrotes,Productos Americanos
 552914,PACK 3 CERVEZA HUARI LAGER 440 ML,Bebidas,Cervezas
 552915,GALLETAS NAVIDENAS MANTEQUILLA CAJA CUADRADA 115GR,Abarrotes,Productos Americanos
 552916,GALLETAS DE MANTEQUILLA LATA NAVIDENA MOD 3 300GR,Abarrotes,Productos Americanos
@@ -13026,6 +13027,7 @@ id_producto,producto,categoria,subcategoria
 552977,CAFE IGUAZU POLVO TRAD  POUCH 40 GR,Abarrotes,Café y Sucedáneos
 552978,SAZONADOR MCFOOD BASE P/FRICASE 100 GR,Abarrotes,Básicos
 552980,KIT PAELLA CARMENCITA ARROZ NEGRO 265 GR,Abarrotes,Básicos
+552982,KIT PAELLA CARMENCITA MARISCOS 265 GR,Abarrotes,Básicos
 552983,KIT PAELLA CARMENCITA C ARROZ NEGRO 265G,Abarrotes,Básicos
 552986,GALLETAS DANESAS DE MANTEQUILLAA 16 OZ,Abarrotes,Productos Americanos
 552988,MANTEQUILLA DE MANII JIF 40 OZ,Abarrotes,Productos Americanos
@@ -13085,6 +13087,7 @@ id_producto,producto,categoria,subcategoria
 553063,Pesto Genovese de La Bamba 190 gr,Abarrotes,Productos Americanos
 553064,Corazones de Alcachofa de La Bamba en Salmuera frasco 280 gr,Abarrotes,Productos Americanos
 553065,Corazones de Alcachofas de La Bamba Marinados 280 gr,Abarrotes,Productos Americanos
+553068,GALLETAS JASMINE INTEGRAL CAFE 120 GR,Abarrotes,Dietéticos y Saludables
 553070,GALLETA JASMINE ALMEND CASTANA INTEG 120,Abarrotes,Dietéticos y Saludables
 553071,PACK SUPREMA VUELTA A CLASES,Abarrotes,Galletas
 553072,"BOMBON GAROTO CROCRIBE 215,2G",Abarrotes,Chocolates y Caramelos
@@ -13559,7 +13562,7 @@ id_producto,producto,categoria,subcategoria
 604105,Chocolate Lindt Excellence Chilli 100 gr,Abarrotes,Chocolates y Caramelos
 604106,Chocolate Lindt Excellence Sea Salt 100 gr,Abarrotes,Chocolates y Caramelos
 604107,Chocolate Lindt Excellence Coconut 100 gr,Abarrotes,Chocolates y Caramelos
-604117,Atun Norte Solido en Aceite Oliva 150 gr,Abarrotes,Comidas en Conserva
+604117,Atun Norte Solido en Aceite Oliva 170 gr,Abarrotes,Comidas en Conserva
 604118,Atun Norte Lomito en Tomate 150 gr,Abarrotes,Comidas en Conserva
 604142,Trufa Lindt Lindor 60 Extra Dark 144 gr,Abarrotes,Chocolates y Caramelos
 604151,Helado Delizia Vainilla 1 L,Congelados,"Helados, Cassattas y Picoleses"
@@ -14162,7 +14165,7 @@ id_producto,producto,categoria,subcategoria
 629729,Hidratante Prime Frutilla Melon 500 ml,Bebidas,Bebidas Usa
 629730,MAYONESA KRAFT DELI 90 GR,Abarrotes,Productos Americanos
 629732,GALLETAS SALADAS BAKED SNACK CRACKERS ORIGINAL 351GR,Abarrotes,Productos Americanos
-629733,GALLETAS SALADAS BAKED CRACKERS EXTRA TOASTY 351GR,Abarrotes,Productos Americanos
+629733,Galletas de queso originales Cheez-It 351 gr,Abarrotes,Productos Americanos
 629734,GALLETAS SALADAS BAKED QUESO CHEDDAR 351GR,Abarrotes,Productos Americanos
 629741,CAMPBELLS SPAGHETTIOS ORIGINAL 448.GR,Abarrotes,Productos Americanos
 629742,CAMPBELLS SPAGHETTI CON QUESO 448 GR,Abarrotes,Productos Americanos
@@ -14179,7 +14182,7 @@ id_producto,producto,categoria,subcategoria
 629753,AGUA DE MESA NATURAL SPRING WATER 828 ML,Bebidas,Bebidas Usa
 629754,AGUA CARBONATADA SPRING WATER 828 ML,Bebidas,Bebidas Usa
 629757,GALLETAS SALADA BAJA EN CALORIAS TOWN HOUSE 391GR,Abarrotes,Productos Americanos
-629758,GALLETAS TOWN HOUSE CON SAL MARINA 269 GR,Abarrotes,Productos Americanos
+629758,Galletas Town House Pita con Sal Marina 269 gr,Abarrotes,Productos Americanos
 629759,CEREAL KELLOGS CRUMBL CHOC CHIP 592 GR,Abarrotes,Productos Americanos
 629762,TOALLAS DE PAPEL ABSORBENTE ULTRA FUERTES 5.81 M2,Cuidado del Hogar,Productos Americanos
 629763,HERDEZ CHUNKY SALSA MILD EXP 425 GR,Abarrotes,Productos Americanos
@@ -16497,6 +16500,8 @@ id_producto,producto,categoria,subcategoria
 668403,Detergente Polvo Bolivar Baby Kids 750 gr,Cuidado del Hogar,Limpieza de la Ropa
 668404,ARTHES CASSANDRA ROSE INTENSE 100 ML PF0,Cuidado Personal,Cuidado de la Piel
 668418,BREAKUP PROOF DELIN. LIQ. A PRUEBA DE AG,Cuidado Personal,Cuidado de la Piel
+668419,W PALETA DE 5 SOMBRAS WALKING ON EGGSHEL,Cuidado Personal,Cuidado de la Piel
+668420,W PALETA DE 5 SOMBRAS PETALETTE COLOR IC,Cuidado Personal,Cuidado de la Piel
 668421,W PALETA DE 5 SOMBRAS CAMO FLAUNT - COLO,Cuidado Personal,Cuidado de la Piel
 668426,W LAPIZ DE CEJAS RETRACTIL MEDIUM BROWN,Cuidado Personal,Cuidado de la Piel
 668486,Lavandida Mr.Cloro en Gel 1 L,Cuidado del Hogar,Limpieza de la Ropa
@@ -16856,6 +16861,7 @@ id_producto,producto,categoria,subcategoria
 669155,AFEITADORA BIC SOLEIL ESCAPE LAVANDA,Cuidado Personal,Cuidado de la Piel
 669156,DOVE SH NUTRICION 12X200ML,Cuidado Personal,Cuidado del Cabello
 669159,LIST ANTICARIES ZERO FRESC SUAVE 12X250M,Cuidado Personal,Cuidado Bucal
+669161,PACK AHORRO INFANTO JUVENIL BOYS,Cuidado Personal,Cuidado de la Piel
 669901,Pizza Hipermaxi Congelada Hawaiana 620 gr,Congelados,Masas y Comidas Congeladas
 669902,Pizza Hipermaxi Congelada Jamon Queso Light Masa Integral,Congelados,Masas y Comidas Congeladas
 669903,Pizza Hipermaxi Congelada Pepperoni 620 gr,Congelados,Masas y Comidas Congeladas
@@ -19342,6 +19348,7 @@ id_producto,producto,categoria,subcategoria
 781658,Cuñape Bolita de Almidon Davieds 140 gr,Pastelería y Masas Típicas,Masas Típicas Externas
 781678,Queso Mozzarella Sabor Chiquitano 450 gr,Lácteos y Derivados,Quesos
 781730,Mantequilla La Serenisima 200 gr,Lácteos y Derivados,Mantequillas y Margarinas
+781738,NUGGETS DE PESCADO TAMBAQUI KG.EL SUPER TAMBAQUI,Congelados,Carnes Congeladas
 781749,Mantequilla La Serenisima para Untar 100 gr,Lácteos y Derivados,Mantequillas y Margarinas
 781789,Hamburguesa Sofia Premium Res 4 un,Congelados,Carnes Congeladas
 781839,CHORIZO DE PESCADO TAMBAQUI KG.SUPER TAMBAQUI,Congelados,Carnes Congeladas
@@ -21891,7 +21898,7 @@ id_producto,producto,categoria,subcategoria
 864774,ALED ESTUCHERA  ESCOLAR 45,Bazar,Librería
 864778,Set De Marcador 12 Und,Bazar,Librería
 864779,Set De Marcador 24 Piezas,Bazar,Librería
-864781,Mini Agenda 2025 AAA,Bazar,Librería
+864781,Mini Agenda 2025,Bazar,Librería
 864782,Agenda Mediana 2025 AAA,Bazar,Librería
 864819,Mascarilla Capilar Colorvive Elvive 300 ml,Cuidado Personal,Cuidado del Cabello
 864857,LONCHERA PLASTICA KENDY,Bazar,Menaje Plástico
@@ -22354,7 +22361,7 @@ id_producto,producto,categoria,subcategoria
 896217,Licor Amarula Petaca 375 ml,Bebidas,Licores
 896326,Gomita Mogul Frutales 35 gr,Abarrotes,Golosinas - Varias
 896346,Ron Abuelo 7 Años 750 ml,Bebidas,Licores
-896503,Plastilina Play Doh 5 en 1,Juguetería,Juguetería Didáctica/Temporada
+896503,Plastilina Play Doh 5 en 1,Juguetería,Juguetería Marcas
 896540,Champiñon Norte Laminado 400 gr,Abarrotes,Verduras en Conserva
 896737,Vino Rutini Malbec Argentino 750 ml,Bebidas,Vinos y Champagne
 896782,Vino Trumpeter Cabernet Sauvignon 750 ml,Bebidas,Vinos y Champagne
