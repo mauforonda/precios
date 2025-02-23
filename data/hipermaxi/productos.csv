@@ -1486,6 +1486,7 @@ id_producto,producto,categoria,subcategoria
 24079,PACK 2 SUEROX MORA AZUL HIERBA 630ML,Bebidas,Isotónicos
 24083,FIDEO GUSTOSO TORNILLOS 400G,Abarrotes,Básicos
 24085,SPAGUETTI GUSTOSO MOD33 400G,Abarrotes,Básicos
+24086,FIDEO GUSTOSO MOD35 CORBATA 400G,Abarrotes,Básicos
 24087,FIDEO GUSTOSO MOD31 LINGUINE 400G,Abarrotes,Básicos
 24088,FIDEO GUSTOSO MOD16 TUBITO 400G,Abarrotes,Básicos
 24089,CAFE INSTANT IGUAZU LTA 100G,Abarrotes,Café y Sucedáneos
@@ -1501,6 +1502,11 @@ id_producto,producto,categoria,subcategoria
 24132,GOMITA BILLIKEN REGALIZ ACIDO FRUTILLA 7,Abarrotes,Golosinas - Varias
 24133,GOMITA BILLIKEN REGALIZ ACIDO TUTTI F 75,Abarrotes,Golosinas - Varias
 24134,GOMITA BILLIKEN REGALIZ ACIDO SANDIA 75G,Abarrotes,Golosinas - Varias
+24137,GOMITA B DOG REGALIZ ACIDO FRUTILLA 18G,Abarrotes,Golosinas - Varias
+24146,SNACK SUPER TOSTI PICANTE EXTREMO 95G,Abarrotes,Snack
+24148,SNACK SUPER TOSTI SABOR TOCINO 95G,Abarrotes,Snack
+24149,SNACK SUPER TOSTI SABOR QUESO 95G,Abarrotes,Snack
+24150,SNACK SUPER TOSTI COSTILLITAS LIMON PIC,Abarrotes,Snack
 24306,Ron Flor de Caña 5 Años 750 ml,Bebidas,Licores
 24401,"Edulcorante  Dulzero Clasico 250 ml
 ",Abarrotes,Dietéticos y Saludables
@@ -7572,7 +7578,13 @@ id_producto,producto,categoria,subcategoria
 240848,PAPEL FINESSE FAMILIA 4 X 12,Cuidado Personal,Cuidado Familiar
 240849,PAPEL FINESSE AROMA 4 X 12,Cuidado Personal,Cuidado Familiar
 240850,Sal El Salerito de Mesa 130 gr,Abarrotes,Básicos
+240851,PACK TOALLA HUMEDA HUGGUIES AF X96 (2X48,Cuidado del Bebé,Cuidado del Bebé
+240855,PACK ELVIVE SH YACONDC GLYCOLIC  370 ML,Cuidado Personal,Cuidado del Cabello
+240856,PACK SH Y  ACO ELVIVE  HIALURONICO PURE,Cuidado Personal,Cuidado del Cabello
 240890,My Toffee Coco 600 gr,Abarrotes,Chocolates y Caramelos
+240896,PACK 2 KOTEX PURE NOCT X16,Cuidado Personal,Cuidado Familiar
+240897,PACK HUGGIES NATURAL CARE HIPERPACK TALL,Cuidado del Bebé,Pañales
+240898,PANOS HUMEDOS PEQUENIN AVENA 6X80,Cuidado del Bebé,Cuidado del Bebé
 240970,Chocolate Lindt Excellence Dark 100 Cacao 100 gr,Abarrotes,Chocolates y Caramelos
 241172,Mantequilla de Ajo Santa Helena 100 gr,Lácteos y Derivados,Mantequillas y Margarinas
 241300,Queso Criollo Flor de Leche Prensado 250 gr,Lácteos y Derivados,Quesos
@@ -13043,6 +13055,7 @@ id_producto,producto,categoria,subcategoria
 552991,POP TARTS FROSTED SMORES 13.5 OZ,Abarrotes,Productos Americanos
 552993,PACK 3 GELATINA FRAMBU 230G JARRA 1.5 LT,Abarrotes,Repostería
 552997,PACK 3 CERVEZA PAULANER POSAVASOS,Bebidas,Cervezas
+552998,VINAGRE S LORENZO MANZANA MADRE 1LT,Abarrotes,Básicos
 552999,PIMIENTA NEGRA CAMENCITA MOL 190G,Abarrotes,Condimentos y Legumbres
 553000,SAZONADOR MADITERRANEAN MIX CARMENCITA M,Abarrotes,Condimentos y Legumbres
 553001,SAL ROSA HIMALAYA CARMENCITA MOL 370 GR,Abarrotes,Condimentos y Legumbres
@@ -17326,6 +17339,7 @@ id_producto,producto,categoria,subcategoria
 671856,Chorizo Picante Pio Rico kg,Fiambres,Fiambres Externos
 671857,Lomo Zenteno Curado 100 gr,Fiambres,Fiambres Externos
 671858,Bondiola Selectos de Zenteno 100 gr,Fiambres,Fiambres Externos
+671861,Chorizo Parrillero Ovoplus 12 un,Fiambres,Fiambres Externos
 671865,Gelatina Proteik con Clara Ovoplus Surtido 100 gr,Lácteos y Derivados,Postres
 671869,Escabeche Cebolla Sanguchera Stege 210 gr,Fiambres,Fiambres Externos
 671879,Bondiola Ahumada Selectos de Zenteno 100 gr,Fiambres,Fiambres Externos
@@ -17549,6 +17563,7 @@ id_producto,producto,categoria,subcategoria
 672523,Bebida de Almendra Vilay Chocolate 1 L,Lácteos y Derivados,Leches
 672524,Bebida de Coco Vilay Original sin Azucar 1 L,Lácteos y Derivados,Leches
 672525,Bebida de Arroz Vilay Original 1 L,Lácteos y Derivados,Leches
+672541,PACK TIKI TITO 6X5 50GRS DELIZIA,Lácteos y Derivados,Yogures
 672545,Pan con Ajo Picante Brasuco 390 gr,Panadería,Panadería Externa
 672546,Pan con Ajo Queso Mozzarella Brasuco 5 un 390 gr,Panadería,Panadería Externa
 672547,Pan con Ajo Tocino Brasuco 5 un 390 gr,Panadería,Panadería Externa
@@ -18364,6 +18379,7 @@ id_producto,producto,categoria,subcategoria
 674361,QUESO CRIOLLO TORITO AL VACIO,Fiambres,Fiambres Externos
 674363,HELADO TENTACION ALMENDRA DELIZIA,Congelados,"Helados, Cassattas y Picoleses"
 674364,PAN MOLDE QUINUA CEAB 600 GRS,Panadería,Panadería Externa
+674368,SACHET TRADICION CHICHA MORADA DELIZIA 150ML,Bebidas,"Jugos, Néctar"
 675245,Miel de Abeja Eva Promiel 250 gr,Abarrotes,"Mermel, Mieles"
 676113,Habanito Bits Cream Coojies Cream 120 gr,Congelados,"Helados, Cassattas y Picoleses"
 676115,HABANITO BITS CREAM DULCE DE LECHE 120GRS,Congelados,"Helados, Cassattas y Picoleses"
@@ -18878,6 +18894,7 @@ id_producto,producto,categoria,subcategoria
 688498,Zanahoria 1 kg,Frutas y Verduras,Verduras
 688552,Zapallo 1 kg,Frutas y Verduras,Verduras
 688625,Pimenton Verde 1 kg,Frutas y Verduras,Verduras
+689991,PAN CON AJO PRE-COCIDO HIPERMAXI 600GR,Congelados,Masas y Comidas Congeladas
 690488,Chocolate Breick Semi Amargo 0 Azucar 100 gr,Abarrotes,Chocolates y Caramelos
 690495,Chocolate Breick Blanco Sin Azucar 100 gr,Abarrotes,Chocolates y Caramelos
 690496,Chocolate Breick Leche Mani 0 Azucar 100 gr,Abarrotes,Chocolates y Caramelos
@@ -20195,6 +20212,7 @@ id_producto,producto,categoria,subcategoria
 819423,Ron Abuelo Añejo 1750 ml,Bebidas,Licores
 819563,Pilas Energizer Alcalina AA 16 un,Bazar,Ferretería
 819564,Pilas Energizer Alcalina AAA 16 un,Bazar,Ferretería
+819577,OLLA ARROCERA BLACK & DECKER RC 43736,Bazar,Electrodoméstico/Línea Blanca-Hogar
 819636,Vino Terrazas Cabernet Sauvignon 750 ml,Bebidas,Vinos y Champagne
 819641,Vino Terrazas Malbec 750 ml,Bebidas,Vinos y Champagne
 819656,Vino Terrazas Cabernet Sauvignon Reserva 750 ml,Bebidas,Vinos y Champagne
@@ -22124,6 +22142,7 @@ id_producto,producto,categoria,subcategoria
 877406,Antifas Carnavalero,Bazar,Temporada Carnaval
 877411,JAN GLOBOS LETRAS DIA MADRE  18,Bazar,Cotillón
 877413,Globos Todo Blue,Bazar,Temporada Carnaval
+877449,LPZ MOLDE P/PIZZA TRAMONTINA 20058/035,Bazar,Articulos de Cocina
 877459,CONSERVADORA MOR 18LT 160,Bazar,Camping General
 877461,CONSERVADORA MOR 6LT 110,Bazar,Camping General
 877730,PAT COLLAR CUERINA MASCOTAS 20,Bazar,Mascotas General
