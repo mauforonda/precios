@@ -1483,6 +1483,7 @@ id_producto,producto,categoria,subcategoria
 24075,CHICLE BIG BIG GROSSO EVOLUTION 29G,Abarrotes,Golosinas - Varias
 24076,PACK 2 SUEROX MANZANA 630ML,Bebidas,Isotónicos
 24077,PACK 2 SUEROX FRESA KIWI 630ML,Bebidas,Isotónicos
+24078,PACK 2 SUEROX NARANJA MAND 630ML,Bebidas,Isotónicos
 24079,PACK 2 SUEROX MORA AZUL HIERBA 630ML,Bebidas,Isotónicos
 24083,FIDEO GUSTOSO TORNILLOS 400G,Abarrotes,Básicos
 24085,SPAGUETTI GUSTOSO MOD33 400G,Abarrotes,Básicos
@@ -1503,7 +1504,9 @@ id_producto,producto,categoria,subcategoria
 24133,GOMITA BILLIKEN REGALIZ ACIDO TUTTI F 75,Abarrotes,Golosinas - Varias
 24134,GOMITA BILLIKEN REGALIZ ACIDO SANDIA 75G,Abarrotes,Golosinas - Varias
 24135,GOMITA B DOG REGALIZ ACIDO TUTTI FR 18G,Abarrotes,Golosinas - Varias
+24136,GOMITA B DOG REGALIZ ACIDO SANDIA 18G,Abarrotes,Golosinas - Varias
 24137,GOMITA B DOG REGALIZ ACIDO FRUTILLA 18G,Abarrotes,Golosinas - Varias
+24138,"HIDRATANTE ELIXIR BERRY PET 1,1 LT",Bebidas,Isotónicos
 24146,SNACK SUPER TOSTI PICANTE EXTREMO 95G,Abarrotes,Snack
 24148,SNACK SUPER TOSTI SABOR TOCINO 95G,Abarrotes,Snack
 24149,SNACK SUPER TOSTI SABOR QUESO 95G,Abarrotes,Snack
@@ -5979,6 +5982,9 @@ id_producto,producto,categoria,subcategoria
 174784,Shampoo Vitane Restauracion 1 L,Cuidado Personal,Cuidado del Cabello
 174785,Vodka Absolut Blue 750 ml,Bebidas,Licores
 174941,Galleta Lia Media Tarde 110 gr,Abarrotes,Galletas
+175023,DEO ABOVE ROLL ON OCEAN MEN 50 ML,Cuidado Personal,Cuidado de la Piel
+175024,DEO ABOVE WOMEN FIRECE SAVAGE 50 ML,Cuidado Personal,Cuidado de la Piel
+175025,DEO ABOVE ROLLON WOMEN FASHION 50 ML,Cuidado Personal,Cuidado de la Piel
 175029,REPELENTE ABOVE SPRAY 200 ML,Cuidado Personal,Cuidado de la Piel
 175032,DEO ABOVE  SP EXTREME BLACK 150 ML,Cuidado Personal,Cuidado de la Piel
 175755,Jabon Barra Carissa Floral 125 gr,Cuidado Personal,Cuidado de la Piel
@@ -7567,6 +7573,8 @@ id_producto,producto,categoria,subcategoria
 240811,MATACUCARACHA TYSON  250 CM,Cuidado del Hogar,Insecticidas
 240812,REPELENTE OFF XDURANCION 196 GR,Cuidado del Hogar,Productos Americanos
 240817,Tripack Toalla Higienica Kotex Discreta Ultra fina 3x2,Cuidado Personal,Cuidado Familiar
+240819,JABON LIQ  NOSTAS MANZANILLA 600ML,Cuidado Personal,Cuidado de la Piel
+240820,ENJUAGUE BUCAL NOSTAS MENTA  1 LT,Cuidado Personal,Cuidado Bucal
 240821,ENJUAGUE BUCAL NOSTAS MENTA 600 ML,Cuidado Personal,Cuidado Bucal
 240822,DESTAPA CANERIA RESPLANDOR 1L,Cuidado del Hogar,Limpieza de Baños
 240827,LIMPIADOR MAXIBRILL LECHOSO LAVANDA 2 LT,Cuidado del Hogar,Limpieza de Living y Ropero
@@ -7581,6 +7589,7 @@ id_producto,producto,categoria,subcategoria
 240849,PAPEL FINESSE AROMA 4 X 12,Cuidado Personal,Cuidado Familiar
 240850,Sal El Salerito de Mesa 130 gr,Abarrotes,Básicos
 240851,PACK TOALLA HUMEDA HUGGUIES AF X96 (2X48,Cuidado del Bebé,Cuidado del Bebé
+240853,CLASSIC SHAMPOO MANZANILLA 950ML.,Cuidado Personal,Cuidado del Cabello
 240855,PACK ELVIVE SH YACONDC GLYCOLIC  370 ML,Cuidado Personal,Cuidado del Cabello
 240856,PACK SH Y  ACO ELVIVE  HIALURONICO PURE,Cuidado Personal,Cuidado del Cabello
 240890,My Toffee Coco 600 gr,Abarrotes,Chocolates y Caramelos
@@ -9153,7 +9162,7 @@ id_producto,producto,categoria,subcategoria
 353323,Crema para Peinar Head Shoulders Aceite de Coco300 ml,Cuidado Personal,Cuidado del Cabello
 353335,Ambientador Aerosol Todo Brillo Frutos Rojos 360 ml,Cuidado del Hogar,Limpieza de Living y Ropero
 353336,Ambientador Repuesto Aerosol Todo Brillo 250 ml,Cuidado del Hogar,Limpieza de Living y Ropero
-353338,Lavavajilla Todo Brillo Limon Verde Doypack 1 L,Cuidado del Hogar,Limpieza de Cocina
+353338,Lavavajilla Todo Brillo Limon Verde Doypack 900 ml,Cuidado del Hogar,Limpieza de Cocina
 353339,Lavavajilla Todo Brillo Limon Verde Doypack 1800 ml,Cuidado del Hogar,Limpieza de Cocina
 353344,Mopa Novica Torcion 1 un,Cuidado del Hogar,Accesorios del Hogar
 353345,Vino Fond de Cave Cabernet Sauvignon Reserva 750 ml,Bebidas,Vinos y Champagne
@@ -18383,6 +18392,7 @@ id_producto,producto,categoria,subcategoria
 674348,QUESO DE MEZCLA CURADO GOURMET CUNA 175GRS,Lácteos y Derivados,Quesos
 674349,POSTRE TRADICION CANELA-LECHE DELIZIA 200ML,Congelados,"Helados, Cassattas y Picoleses"
 674351,POSTRE TENTACION CANELA-MARACUYA DELIZIA 200ML,Congelados,"Helados, Cassattas y Picoleses"
+674360,MORTADELA CHICHARRON STEGE AL VACIO,Fiambres,Fiambres Externos
 674361,QUESO CRIOLLO TORITO AL VACIO,Fiambres,Fiambres Externos
 674363,HELADO TENTACION ALMENDRA DELIZIA,Congelados,"Helados, Cassattas y Picoleses"
 674364,PAN MOLDE QUINUA CEAB 600 GRS,Panadería,Panadería Externa
@@ -18958,7 +18968,7 @@ id_producto,producto,categoria,subcategoria
 695658,Refresco Kris Pina 20 gr,Bebidas,Refrescos en Polvo
 695663,Polvo de Hornear Kris 907 gr,Abarrotes,Repostería
 695677,Placentex x 3 ampollas,Cuidado Personal,Cuidado de la Piel
-695680,JABON FLORESTA MIEL DE ABEJA X100G,Farmacia Éticos,Dermatológicos
+695680,JABON FLORESTA MIEL DE ABEJA X100G,Cuidado Personal,Cuidado de la Piel
 695737,Leche de Avena Carla Lorena 300 ml,Cuidado Personal,Cuidado de la Piel
 695738,Leche de Rosas Carla Lorena 300 ml,Cuidado Personal,Cuidado de la Piel
 695739,Leche de Almendra Carla Lorena 300 ml,Cuidado Personal,Cuidado de la Piel
