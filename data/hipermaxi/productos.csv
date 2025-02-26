@@ -1475,6 +1475,7 @@ id_producto,producto,categoria,subcategoria
 24063,Chuflay Hard Ximena Zalzer Flow Lata 355 ml sin Azucar,Bebidas,Licores
 24064,GRANOLA TRADIC JASMINE 0 AZUCAR 250G,Abarrotes,Dietéticos y Saludables
 24065,GALLETA SALADA TAPIOCA TRADIC SIN GLUT 2,Abarrotes,Dietéticos y Saludables
+24067,GALLETA SALADA JASMIN TOMAT ALBAH 25G,Abarrotes,Dietéticos y Saludables
 24068,GALLETA SALADA JASMINE FINAS HIERBAS 25G,Abarrotes,Dietéticos y Saludables
 24071,PACK LAZZARONI 1QUINUA 1TRICOLOR C TAZON,Abarrotes,Básicos
 24072,CHOCOLATE BON O BON BREAK 45G,Abarrotes,Golosinas - Varias
@@ -1511,6 +1512,8 @@ id_producto,producto,categoria,subcategoria
 24148,SNACK SUPER TOSTI SABOR TOCINO 95G,Abarrotes,Snack
 24149,SNACK SUPER TOSTI SABOR QUESO 95G,Abarrotes,Snack
 24150,SNACK SUPER TOSTI COSTILLITAS LIMON PIC,Abarrotes,Snack
+24159,VAPE WAKA DIAMOND CHERRY ICE 3P 1000 P,Bebidas,Cigarrillos
+24160,VAPE WAKA DIAMON BLUEBERRY ICE 3P 1000 P,Bebidas,Cigarrillos
 24306,Ron Flor de Caña 5 Años 750 ml,Bebidas,Licores
 24401,"Edulcorante  Dulzero Clasico 250 ml
 ",Abarrotes,Dietéticos y Saludables
@@ -1532,6 +1535,7 @@ id_producto,producto,categoria,subcategoria
 24888,Gaseosa Fanta Guarana 2 L,Bebidas,Gaseosas
 24889,Gaseosa Fanta Guarana 2.5 L,Bebidas,Gaseosas
 24915,Mix Caju Kirkland con Almendra 32 oz,Abarrotes,Productos Americanos
+25001,PACK 3MENTOS ROLL FRUTA FANTA FRESA,Abarrotes,Golosinas - Varias
 25640,Surtido de Mariscos Robinson Crusoe Natural 190 gr,Abarrotes,Comidas en Conserva
 25771,Huevos Caisy 12 un,Lácteos y Derivados,Huevos
 25789,Galleta Rocklets Chocolate 118 gr,Abarrotes,Galletas
@@ -1679,6 +1683,7 @@ id_producto,producto,categoria,subcategoria
 26198,TRUFFAS PARA TI NAVIDENA S PANETON 150G,Abarrotes,Chocolates y Caramelos
 26200,CHUPETE BON BON BUM FRESA 336GR,Abarrotes,Chocolates y Caramelos
 26212,CAFE BAGGIO MOLIDO CHOCOL TRUFADO 250G,Abarrotes,Café y Sucedáneos
+26213,CAFE BAGGIO MOLIDO CHOCOL MENTA 250G,Abarrotes,Café y Sucedáneos
 26214,CAFE BAGGIO MOLIDO CHOCOL AVELLAN 250G,Abarrotes,Café y Sucedáneos
 26215,CAFE BAGGIO MOLIDO AROMAS CARAMEL 250G,Abarrotes,Café y Sucedáneos
 26216,TE HINDU ORGINAL 50SAQ,Abarrotes,Café y Sucedáneos
@@ -7653,6 +7658,7 @@ id_producto,producto,categoria,subcategoria
 248781,Salsa B&R Bolognesa con Carne 360 gr,Abarrotes,Aderezos
 248908,Cigarrillo Camel Amarillo 10 un,Bebidas,Cigarrillos
 248940,Atun Campagnola Lomitos Al Agua 170 gr,Abarrotes,Comidas en Conserva
+249002,LAVAVAJILLAS DOYPACK LIMON PULPIN DE 1L,Cuidado del Hogar,Limpieza de Cocina
 249319,Licor Cusenier Menta 700 ml,Bebidas,Licores
 249394,Licor de Café Cusenier 700 ml,Bebidas,Licores
 249793,Cotonetes Johnsons Caja 300 un,Cuidado del Bebé,Cuidado del Bebé
@@ -7961,6 +7967,7 @@ id_producto,producto,categoria,subcategoria
 293695,Gaseosa Sprite 2 L,Bebidas,Gaseosas
 294411,Galleta Salvado La Francesa 1 kg,Abarrotes,Galletas
 295272,Aceite Carbonell Oliva 200 ml,Abarrotes,Básicos
+295275,Ron Barcelo Añejo 1750 ml,Bebidas,Licores
 295388,Galleta Saladix Aguila Pizza 100 gr,Abarrotes,Galletas
 295396,Galleta Saladix Aguila Jamon 100 gr,Abarrotes,Galletas
 295426,Galleta Saladix Pizza 30 gr,Abarrotes,Galletas
@@ -10744,7 +10751,7 @@ id_producto,producto,categoria,subcategoria
 462003,Lavandina Archer Super 1 L,Cuidado del Hogar,Limpieza de la Ropa
 462150,BYPHASSE DESMAQUILLANTE OJOS DOUCEUR 200,Cuidado Personal,Cuidado de la Piel
 462151,BYPHASSE GEL DESMAQUILLANTE PURIFIANT 20,Cuidado Personal,Cuidado de la Piel
-462153,BYPHASSE FACE MIST REHIDRATANTE ROSA 150,Cuidado Personal,Cuidado de la Piel
+462153,.YPHASSE FACE MIST REHIDRATANTE ROSA 150,Cuidado Personal,Cuidado de la Piel
 462156,BYPHASSE CREMA ILUMINADORA VITAMINA C 50,Cuidado Personal,Cuidado de la Piel
 462157,BYPHASSE CREMA ANTIARRUGAS RETINOL 50 ML,Cuidado Personal,Cuidado de la Piel
 462159,BYPHASSE PLAISIR GEL DE DUCHA FLOR DE TI,Cuidado Personal,Cuidado de la Piel
@@ -12110,6 +12117,7 @@ id_producto,producto,categoria,subcategoria
 551321,Vino Hautes Vignes Blanco Noir 750 ml,Bebidas,Vinos y Champagne
 551322,Whisky Dewars White Label 1 L,Bebidas,Licores
 551323,Te Infusion Frutte No stress 50 Sobres,Abarrotes,Café y Sucedáneos
+551327,Pack Cerveza Corona 330 ml,Bebidas,Cervezas
 551328,"Jugo Del Valle Durazno Six Pack 200 ml + Sandwichera
 ",Bebidas,"Jugos, Néctar"
 551329,"Jugo Del Valle Manzana Six Pack 200 ml + Sandwichera
@@ -13121,6 +13129,7 @@ id_producto,producto,categoria,subcategoria
 553064,Corazones de Alcachofa de La Bamba en Salmuera frasco 280 gr,Abarrotes,Productos Americanos
 553065,Corazones de Alcachofas de La Bamba Marinados 280 gr,Abarrotes,Productos Americanos
 553068,GALLETAS JASMINE INTEGRAL CAFE 120 GR,Abarrotes,Dietéticos y Saludables
+553069,GALLETA JASMINE DAMSCO CHOCOL INTEGRAL 1,Abarrotes,Dietéticos y Saludables
 553070,GALLETA JASMINE ALMEND CASTANA INTEG 120,Abarrotes,Dietéticos y Saludables
 553071,PACK SUPREMA VUELTA A CLASES,Abarrotes,Galletas
 553072,"BOMBON GAROTO CROCRIBE 215,2G",Abarrotes,Chocolates y Caramelos
@@ -13145,6 +13154,7 @@ id_producto,producto,categoria,subcategoria
 553097,GIN INSURGENTE FRUTILLA 700 ML,Bebidas,Licores
 553098,ARROZ NELSON WENDT PARBOLIZADO 5 KG,Abarrotes,Productos Americanos
 553099,ARROZ NELSON WENDT PARBOLIZADO 1 KG,Abarrotes,Productos Americanos
+553106,PACK 2 POWERADE MORA CITRUS PASSION 990M,Bebidas,Isotónicos
 554333,Cerveza Paceña Lata Roja 473 Cc,Bebidas,Cervezas
 554466,Detergente Liquido Ola Futuro Limpieza Completa 5 L,Cuidado del Hogar,Limpieza de la Ropa
 554468,Suavizante Ropa Ola Suavecito Original 5 L,Cuidado del Hogar,Limpieza de la Ropa
@@ -13596,7 +13606,7 @@ id_producto,producto,categoria,subcategoria
 604105,Chocolate Lindt Excellence Chilli 100 gr,Abarrotes,Chocolates y Caramelos
 604106,Chocolate Lindt Excellence Sea Salt 100 gr,Abarrotes,Chocolates y Caramelos
 604107,Chocolate Lindt Excellence Coconut 100 gr,Abarrotes,Chocolates y Caramelos
-604117,Atun Norte Solido en Aceite Oliva 170 gr,Abarrotes,Comidas en Conserva
+604117,Atun Norte Solido en Aceite Oliva 150 gr,Abarrotes,Comidas en Conserva
 604118,Atun Norte Lomito en Tomate 150 gr,Abarrotes,Comidas en Conserva
 604142,Trufa Lindt Lindor 60 Extra Dark 144 gr,Abarrotes,Chocolates y Caramelos
 604151,Helado Delizia Vainilla 1 L,Congelados,"Helados, Cassattas y Picoleses"
@@ -16899,6 +16909,7 @@ id_producto,producto,categoria,subcategoria
 669161,PACK AHORRO INFANTO JUVENIL BOYS,Cuidado Personal,Cuidado de la Piel
 669162,PACK AHORRO INFANTO JUVENIL GIRL,Cuidado Personal,Cuidado de la Piel
 669163,PACK AHORRO TEEN GIRL 2X150ML,Cuidado Personal,Cuidado de la Piel
+669164,SUPER LAVANDINA ARCHER 4 LT,Cuidado del Hogar,Limpieza de la Ropa
 669901,Pizza Hipermaxi Congelada Hawaiana 620 gr,Congelados,Masas y Comidas Congeladas
 669902,Pizza Hipermaxi Congelada Jamon Queso Light Masa Integral,Congelados,Masas y Comidas Congeladas
 669903,Pizza Hipermaxi Congelada Pepperoni 620 gr,Congelados,Masas y Comidas Congeladas
@@ -18396,7 +18407,9 @@ id_producto,producto,categoria,subcategoria
 674361,QUESO CRIOLLO TORITO AL VACIO,Fiambres,Fiambres Externos
 674363,HELADO TENTACION ALMENDRA DELIZIA,Congelados,"Helados, Cassattas y Picoleses"
 674364,PAN MOLDE QUINUA CEAB 600 GRS,Panadería,Panadería Externa
+674367,QUESO UNTABLE CHEDDAR NESKRAFT SACHET 150GRS,Lácteos y Derivados,Quesos
 674368,SACHET TRADICION CHICHA MORADA DELIZIA 150ML,Bebidas,"Jugos, Néctar"
+674370,PACK CARNAVALERO OSFIM CHORIZO AHUMADO 1KGR,Fiambres,Fiambres Externos
 675245,Miel de Abeja Eva Promiel 250 gr,Abarrotes,"Mermel, Mieles"
 676113,Habanito Bits Cream Coojies Cream 120 gr,Congelados,"Helados, Cassattas y Picoleses"
 676115,HABANITO BITS CREAM DULCE DE LECHE 120GRS,Congelados,"Helados, Cassattas y Picoleses"
@@ -21949,6 +21962,7 @@ id_producto,producto,categoria,subcategoria
 864857,LONCHERA PLASTICA KENDY,Bazar,Menaje Plástico
 864862,LONCHERA KENDY 3PZ,Bazar,Librería
 864988,Papel Higienico Scott Cuidado Completo 12 un,Cuidado Personal,Cuidado Familiar
+865116,JAN PORTA CELULAR 14,Bazar,Temporada Carnaval
 865189,Huevos Yemita Amarilla 12 un,Lácteos y Derivados,Huevos
 865194,Papa McCain Congelada Smiles 600 gr,Congelados,Masas y Comidas Congeladas
 865223,Pan Molde Integral Belen Avena Azucar 600 gr,Panadería,Panadería Externa
@@ -21982,6 +21996,7 @@ id_producto,producto,categoria,subcategoria
 868805,Plato Para Mascota Kendy 3,Bazar,Mascotas General
 868865,Jabonera Rey Huevo,Bazar,Baño General
 868892,CEPILLO CABELLO LISOS CORTOS CONDOR 9672,Bazar,Bijouteria/Cuidado Personal
+868924,YARDA FERNECERO CON TAPA 9,Bazar,Temporadas Restantes
 868926,PORTA LATA PLASTICA 3,Bazar,Temporada Carnaval
 869154,Encendedor Ronson Recargable,Bazar,Churrasquería
 869222,JAN MASCARA HALLOWEN  25,Bazar,Temporada Halloween
@@ -22693,6 +22708,8 @@ id_producto,producto,categoria,subcategoria
 924811,Boligrafo Bic Negro,Bazar,Librería
 924933,Mochilas Diseños Surtidos,Bazar,Librería
 925003,Conservadora Tecnopor 7 L,Bazar,Camping General
+925033,YARDA GRANDE SURTIDAS BS 7,Bazar,Cotillón
+925034,VASO WHISKEROS SURTIDOS BS 4,Bazar,Menaje Plástico
 925100,Lapiz Rojo,Bazar,Librería
 925101,Lapiz Negro,Bazar,Librería
 925575,Bolsa de Globos Estándar Multicolor 50 un,Bazar,Cotillón
