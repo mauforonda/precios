@@ -1508,6 +1508,8 @@ id_producto,producto,categoria,subcategoria
 24136,GOMITA B DOG REGALIZ ACIDO SANDIA 18G,Abarrotes,Golosinas - Varias
 24137,GOMITA B DOG REGALIZ ACIDO FRUTILLA 18G,Abarrotes,Golosinas - Varias
 24138,"HIDRATANTE ELIXIR BERRY PET 1,1 LT",Bebidas,Isotónicos
+24140,"Hidratante Elixir Arandano  1,1 lt",Bebidas,Isotónicos
+24141,"HIDRATANTE ELIXIR MANGO ZERO 1,1LT",Bebidas,Isotónicos
 24146,SNACK SUPER TOSTI PICANTE EXTREMO 95G,Abarrotes,Snack
 24148,SNACK SUPER TOSTI SABOR TOCINO 95G,Abarrotes,Snack
 24149,SNACK SUPER TOSTI SABOR QUESO 95G,Abarrotes,Snack
@@ -1537,6 +1539,7 @@ id_producto,producto,categoria,subcategoria
 24889,Gaseosa Fanta Guarana 2.5 L,Bebidas,Gaseosas
 24915,Mix Caju Kirkland con Almendra 32 oz,Abarrotes,Productos Americanos
 25001,PACK 3MENTOS ROLL FRUTA FANTA FRESA,Abarrotes,Golosinas - Varias
+25004,SIXPACK CERVEZA POTOSINA 6X473ML,Bebidas,Cervezas
 25640,Surtido de Mariscos Robinson Crusoe Natural 190 gr,Abarrotes,Comidas en Conserva
 25771,Huevos Caisy 12 un,Lácteos y Derivados,Huevos
 25789,Galleta Rocklets Chocolate 118 gr,Abarrotes,Galletas
@@ -1691,6 +1694,7 @@ id_producto,producto,categoria,subcategoria
 26217,TE HINDU SUPERBLENDS DIGEST 20SAQ,Abarrotes,Dietéticos y Saludables
 26220,BUTTER TOFFE ARCOR 53P MENTA INTENSO 500,Abarrotes,Chocolates y Caramelos
 26232,"JUGO ALOE VERA COCO PINA 1,5 LT",Bebidas,Bebidas Varias
+26233,VAPE UMO MINT 18000 P,Bebidas,Cigarrillos
 26874,Whisky Johnnie Walker 18 Años 750 ml,Bebidas,Licores
 27100,MASMELOS TRULULU FRANKI BSA 50G,Abarrotes,Golosinas - Varias
 27101,MASMELOS TRULULU CHOCO VAINILLA 50G,Abarrotes,Golosinas - Varias
@@ -5995,6 +5999,7 @@ id_producto,producto,categoria,subcategoria
 175025,DEO ABOVE ROLLON WOMEN FASHION 50 ML,Cuidado Personal,Cuidado de la Piel
 175029,REPELENTE ABOVE SPRAY 200 ML,Cuidado Personal,Cuidado de la Piel
 175032,DEO ABOVE  SP EXTREME BLACK 150 ML,Cuidado Personal,Cuidado de la Piel
+175033,DEO ABOVE EXTREME SP MOVEMENT 150 ML,Cuidado Personal,Cuidado de la Piel
 175755,Jabon Barra Carissa Floral 125 gr,Cuidado Personal,Cuidado de la Piel
 175756,Ambientador Aerosol Rocio Bienestar 360 ml,Cuidado del Hogar,Limpieza de Living y Ropero
 176133,Whisky Johnnie Walker Swing 750 ml,Bebidas,Licores
@@ -7601,6 +7606,7 @@ id_producto,producto,categoria,subcategoria
 240853,CLASSIC SHAMPOO MANZANILLA 950ML.,Cuidado Personal,Cuidado del Cabello
 240855,PACK ELVIVE SH YACONDC GLYCOLIC  370 ML,Cuidado Personal,Cuidado del Cabello
 240856,PACK SH Y  ACO ELVIVE  HIALURONICO PURE,Cuidado Personal,Cuidado del Cabello
+240864,NEUTROGENA SUN FRES HB50 S COL 6X40ML,Cuidado Personal,Cuidado de la Piel
 240890,My Toffee Coco 600 gr,Abarrotes,Chocolates y Caramelos
 240896,PACK 2 KOTEX PURE NOCT X16,Cuidado Personal,Cuidado Familiar
 240897,PACK HUGGIES NATURAL CARE HIPERPACK TALL,Cuidado del Bebé,Pañales
@@ -13133,6 +13139,7 @@ id_producto,producto,categoria,subcategoria
 553059,PACK PUDIN CHOCOLATE 1KG TUPPER,Abarrotes,Repostería
 553060,CERVEZA SCHNEIDER LATA 473 ML,Bebidas,Cervezas
 553061,PACK 12 PEPSI BLUE 250 ML,Bebidas,Gaseosas
+553062,ENERGIZANTE CICLON LOOD ORANGE 350 ML,Bebidas,Energizantes
 553063,Pesto Genovese de La Bamba 190 gr,Abarrotes,Productos Americanos
 553064,Corazones de Alcachofa de La Bamba en Salmuera frasco 280 gr,Abarrotes,Productos Americanos
 553065,Corazones de Alcachofas de La Bamba Marinados 280 gr,Abarrotes,Productos Americanos
@@ -13199,6 +13206,7 @@ id_producto,producto,categoria,subcategoria
 560510,Mortadela Primavera de Pollo Sofia kg,Fiambres,Fiambres Externos
 560596,Salchicha de Pollo Tipo Viena Sofia,Fiambres,Fiambres Externos
 560677,Chorizo Parrillero Sofia kg,Fiambres,Fiambres Externos
+560823,CANELA MOLIDA FRASCO 30GR,Abarrotes,Condimentos y Legumbres
 560863,Queso Ricotta Cotoca kg,Lácteos y Derivados,Quesos
 560928,Queso Collana 1 kg,Lácteos y Derivados,Quesos
 560944,Requeson Cotoca Dietetico 270 gr,Lácteos y Derivados,Quesos
@@ -14179,7 +14187,7 @@ id_producto,producto,categoria,subcategoria
 629485,Agua de Coco Pulpa Tru Farm 500 ml,Bebidas,Bebidas Usa
 629486,Agua de Coco Trufarm Original 500 ml,Bebidas,Bebidas Usa
 629495,Vinagre Bragg de Manzana 473 ml,Abarrotes,Productos Americanos
-629556,Caramelo Lucas Muecas Cereza 25 gr,Abarrotes,Productos Americanos
+629556,Caramelo Lucas Muecas Cereza 25 gr,Abarrotes,Chocolates y Caramelos
 629557,Caramelo Kidsmania Quick Blast Sour 57 gr,Abarrotes,Productos Americanos
 629565,Galleta Lata Navideña Mantequilla 114 gr,Abarrotes,Productos Americanos
 629566,Galleta Forma de Barquillo Vainilla 114 gr,Abarrotes,Productos Americanos
@@ -15655,6 +15663,7 @@ id_producto,producto,categoria,subcategoria
 658708,Sopa Instantanea Ajinomen Gallina Vaso 51 gr,Abarrotes,Básicos
 658709,Sopa Instantanea Ajinomen Carne Vaso 51 gr,Abarrotes,Básicos
 658715,Cerveza Prost Frei Sin Alcohol 355 ml,Bebidas,Cervezas
+658716,CERVEZA PROST SIN ALCOHOL FREI 330 ML,Bebidas,Cervezas
 658731,Galleta Sublime Rellena 276 gr,Abarrotes,Galletas
 658734,Alimento Whiskas Pounch Adulto Pollo 85 gr,Abarrotes,Mascotas
 658735,Alimento Whiskas Adulto Pescado Pounch 85 gr,Abarrotes,Mascotas
@@ -17509,7 +17518,7 @@ id_producto,producto,categoria,subcategoria
 672341,Yogurt Griego Iogo Cero Azucar 250 gr,Lácteos y Derivados,Yogures
 672342,Yogurt Griego Iogo Natural 250 gr,Lácteos y Derivados,Yogures
 672343,Yogurt Griego Iogo Cero Azucar 500 gr,Lácteos y Derivados,Yogures
-672344,Yogurt Griego Iogo Natural 500 gr,Lácteos y Derivados,Yogures
+672344,Yogurt Griego Iogo Natural 500 gr Sin Azucar,Lácteos y Derivados,Yogures
 672345,Yogurt Griego Iogo Sin Azucar 1000 gr,Lácteos y Derivados,Yogures
 672346,Yogurt Griego Iogo Natural 1000 gr,Lácteos y Derivados,Yogures
 672348,PANETON NOVA DELI PAN 650GRS,Panadería,Panadería Externa
@@ -18129,6 +18138,7 @@ id_producto,producto,categoria,subcategoria
 673858,Tocino Ahumado Cielo Granel,Fiambres,Fiambres Externos
 673859,Lomito Ahumado Cielo de Cerdo A Granel,Fiambres,Fiambres Externos
 673866,Salchicha Cielo Jumbo 8 un,Fiambres,Fiambres Externos
+673868,Salchicha Cielo Tipo Viena de Cerdo 200 gr,Fiambres,Fiambres Externos
 673869,Salchicha Cielo Tipo Viena de Pollo 200 gr,Fiambres,Fiambres Externos
 673870,Salchisalame Salchiqueso Cielo 10 un,Fiambres,Fiambres Externos
 673873,Mortadela Jamonada Cielo 200 gr,Fiambres,Fiambres Externos
@@ -18420,6 +18430,7 @@ id_producto,producto,categoria,subcategoria
 674367,QUESO UNTABLE CHEDDAR NESKRAFT SACHET 150GRS,Lácteos y Derivados,Quesos
 674368,SACHET TRADICION CHICHA MORADA DELIZIA 150ML,Bebidas,"Jugos, Néctar"
 674370,PACK CARNAVALERO OSFIM CHORIZO AHUMADO 1KGR,Fiambres,Fiambres Externos
+674371,CHORIZO AHUMADO A GRANEL OSFIM KILOGRAMO,Fiambres,Fiambres Externos
 675245,Miel de Abeja Eva Promiel 250 gr,Abarrotes,"Mermel, Mieles"
 676113,Habanito Bits Cream Coojies Cream 120 gr,Congelados,"Helados, Cassattas y Picoleses"
 676115,HABANITO BITS CREAM DULCE DE LECHE 120GRS,Congelados,"Helados, Cassattas y Picoleses"
@@ -22971,7 +22982,7 @@ id_producto,producto,categoria,subcategoria
 981768,FRE.COLADOR PLASUTIL N*3,Bazar,Articulos de Cocina
 981769,FRE.COLADOR PLASUTIL N*4,Bazar,Articulos de Cocina
 982178,Ducha Lorenzeti,Bazar,Ferretería
-982224,GAB ENCHUFES TRIPLE,Bazar,Ferretería
+982224,GAB ENCHUFES TRIPLE 8,Bazar,Ferretería
 982228,La Gotita Gel 3 ml,Bazar,Ferretería
 982236,Inflador de Pelota,Bazar,Ferretería
 982244,Cinta Teflon,Bazar,Ferretería
