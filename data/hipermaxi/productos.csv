@@ -1493,6 +1493,7 @@ id_producto,producto,categoria,subcategoria
 24088,FIDEO GUSTOSO MOD16 TUBITO 400G,Abarrotes,Básicos
 24089,CAFE INSTANT IGUAZU LTA 100G,Abarrotes,Café y Sucedáneos
 24098,COMITA BILLIKEN BANANITA 150G,Abarrotes,Golosinas - Varias
+24099,GOMITA BILLIKEN OSITOS BSA 150G,Abarrotes,Golosinas - Varias
 24100,GOMITA BILLIKEN SANDIA BSA 150G,Abarrotes,Golosinas - Varias
 24109,GOMITA MOGUL OSO EXTREME 80G,Abarrotes,Golosinas - Varias
 24112,Cereal Kelloggs Froot Loops 230 gr,Abarrotes,Nutrición Infantil
@@ -4326,6 +4327,7 @@ id_producto,producto,categoria,subcategoria
 109232,Quitaesmalte Algabo Keratina 50 ml,Cuidado Personal,Cuidado de la Piel
 109233,Enjuague Bucal Algabo 500 ml,Cuidado Personal,Cuidado Bucal
 109234,Enjuague Bucal Algabo 250 ml,Cuidado Personal,Cuidado Bucal
+109241,CLASSIC SHAMPOO ALOE VERA  950 ML,Cuidado Personal,Cuidado del Cabello
 109244,Toallas Humedas Mili Premiun Love Care 100 un,Cuidado del Bebé,Cuidado del Bebé
 109245,Esponja Condor Baño Barbie 1 un,Cuidado del Bebé,Kids
 109246,Esponja Condor Baño Hotwheels 1 un,Cuidado del Bebé,Kids
@@ -13173,7 +13175,11 @@ id_producto,producto,categoria,subcategoria
 553097,GIN INSURGENTE FRUTILLA 700 ML,Bebidas,Licores
 553098,ARROZ NELSON WENDT PARBOLIZADO 5 KG,Abarrotes,Productos Americanos
 553099,ARROZ NELSON WENDT PARBOLIZADO 1 KG,Abarrotes,Productos Americanos
+553105,PACK 6X5 POWERADE CITRUS PASSION FRUIT 9,Bebidas,Isotónicos
 553106,PACK 2 POWERADE MORA CITRUS PASSION 990M,Bebidas,Isotónicos
+553107,PACK 2 SUEROX FRUTOS ROJOS TROP 630ML,Bebidas,Isotónicos
+553108,PACK 2 SUEROX UVA 630ML,Bebidas,Isotónicos
+553109,PACK 3 MIX BEBIDA SENSS 355 ML,Bebidas,Licores
 554333,Cerveza Paceña Lata Roja 473 Cc,Bebidas,Cervezas
 554466,Detergente Liquido Ola Futuro Limpieza Completa 5 L,Cuidado del Hogar,Limpieza de la Ropa
 554468,Suavizante Ropa Ola Suavecito Original 5 L,Cuidado del Hogar,Limpieza de la Ropa
@@ -17131,6 +17137,7 @@ id_producto,producto,categoria,subcategoria
 670896,530315 MUSLO DE PAVO CONGELADO SOFIA BOLSA SELLADA,Congelados,Carnes Congeladas
 670897,Medallones de Pavo Congelado Sofia,Congelados,Carnes Congeladas
 670899,Canelloni Individual Da Gloria 500 gr,Congelados,Masas y Comidas Congeladas
+670901,POSTRE MAGNIFICO DELIZIA CREMA AMERICANA 850ML,Congelados,"Helados, Cassattas y Picoleses"
 670909,Tenders de Pollo Sofia Congelado 500 gr,Congelados,Carnes Congeladas
 670910,510313 PIERNA DE PAVO SOFIA EMBOLSADA CONG KGR,Congelados,Carnes Congeladas
 670911,510314 MEDALLONES DE PAVO SOFIA EMBOLSADOS CONG  KGR,Congelados,Carnes Congeladas
@@ -17759,6 +17766,8 @@ id_producto,producto,categoria,subcategoria
 672963,Queso Mozzarella Hacienda San Javier Laminado 200 gr,Lácteos y Derivados,Quesos
 672964,Queso Criollo La Hacienda San Javier Barra kg,Lácteos y Derivados,Quesos
 672965,Helado Delizia Tracicion Canela 200 ml,Congelados,"Helados, Cassattas y Picoleses"
+672967,QUESO SANDWICHERO EN BARRA QUESERIA SUIZA KILOGRAMO,Lácteos y Derivados,Quesos
+672968,QUESO MUZZARELLA EN BARRA QUESERIA SUIZA KILOGRAMO,Lácteos y Derivados,Quesos
 672969,Jamon de Pollo Light Ovoplus 200 gr,Fiambres,Fiambres Externos
 672970,Donas Donita Ovoplus Horneadas Chocolate 6 un,Pastelería y Masas Típicas,Pastelería Externa
 672971,Pan Molde Ovoplus Fibra Miel 500 gr,Panadería,Panadería Externa
@@ -19834,6 +19843,7 @@ id_producto,producto,categoria,subcategoria
 787410,Yogurt Griego Mami Chachi Surtido Leche de Cabra 250 gr,Lácteos y Derivados,Yogures
 787412,Queso Sandwichero Guapurutu Laminado kg,Lácteos y Derivados,Quesos
 787417,Budin Bauducco Gotas de Chocolate 200 gr,Pastelería y Masas Típicas,Pastelería Externa
+787418,Salame a La Pimienta Kostlich un,Fiambres,Fiambres Externos
 787419,Pulpa Congelada Pulpa Frut Surtidas 2 un 500 gr,Congelados,Pulpas y Frutas Congeladas
 787426,Enrollado de Cerdo La Sierra kg,Fiambres,Fiambres Externos
 787428,Queso Corlaza Muzzarella kg,Lácteos y Derivados,Quesos
@@ -22209,7 +22219,7 @@ id_producto,producto,categoria,subcategoria
 877402,Antifas Carnavalero,Bazar,Temporada Carnaval
 877406,Antifas Carnavalero,Bazar,Temporada Carnaval
 877411,JAN GLOBOS LETRAS DIA MADRE  18,Bazar,Cotillón
-877413,Globos Todo Blue,Bazar,Temporada Carnaval
+877413,Globos de Agua Zemar,Bazar,Temporada Carnaval
 877449,LPZ MOLDE P/PIZZA TRAMONTINA 20058/035,Bazar,Articulos de Cocina
 877459,CONSERVADORA MOR 18LT 160,Bazar,Camping General
 877461,CONSERVADORA MOR 6LT 110,Bazar,Camping General
