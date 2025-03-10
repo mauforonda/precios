@@ -1488,6 +1488,7 @@ id_producto,producto,categoria,subcategoria
 24078,PACK 2 SUEROX NARANJA MAND 630ML,Bebidas,Isotónicos
 24079,PACK 2 SUEROX MORA AZUL HIERBA 630ML,Bebidas,Isotónicos
 24083,FIDEO GUSTOSO TORNILLOS 400G,Abarrotes,Básicos
+24084,FIDEO GUSTOSO CODITO 400G,Abarrotes,Básicos
 24085,SPAGUETTI GUSTOSO MOD33 400G,Abarrotes,Básicos
 24086,FIDEO GUSTOSO MOD35 CORBATA 400G,Abarrotes,Básicos
 24087,FIDEO GUSTOSO MOD31 LINGUINE 400G,Abarrotes,Básicos
@@ -1519,6 +1520,8 @@ id_producto,producto,categoria,subcategoria
 24150,SNACK SUPER TOSTI COSTILLITAS LIMON PIC,Abarrotes,Snack
 24159,VAPE WAKA DIAMOND CHERRY ICE 3P 1000 P,Bebidas,Cigarrillos
 24160,VAPE WAKA DIAMON BLUEBERRY ICE 3P 1000 P,Bebidas,Cigarrillos
+24161,VAPE WAKA CREATOR ICY COCONUT 5P 12000 P,Bebidas,Cigarrillos
+24162,VAPE WAKA CREATOR DARK CHERRY 5P 12000 P,Bebidas,Cigarrillos
 24163,KIT WAKA CREATOR DISP 1DARK CHERRY 12000,Bebidas,Cigarrillos
 24164,KIT WAKA CREATOR DISP 1BLUEBERR ICE 1200,Bebidas,Cigarrillos
 24306,Ron Flor de Caña 5 Años 750 ml,Bebidas,Licores
@@ -3374,6 +3377,7 @@ id_producto,producto,categoria,subcategoria
 100693,Sardina Norte al Tomate Olvalado 425 gr,Abarrotes,Comidas en Conserva
 100697,Api Morado Pisabol 500 gr,Abarrotes,Básicos
 100723,Salsa Molho Kenko Ingles 1000 ml,Abarrotes,Aderezos
+100732,Filetes de Anchoas en Aceite Oliva Roland 120 gr,Abarrotes,Productos Americanos
 100734,Salsa McCormick Cilantro Limon 148 gr,Abarrotes,Condimentos y Legumbres
 100758,Isotonico Pawerade Mora Azul 990 ml,Bebidas,Isotónicos
 100761,Isotonico Pawerade Multi Frutas 990 ml,Bebidas,Isotónicos
@@ -6005,6 +6009,7 @@ id_producto,producto,categoria,subcategoria
 174784,Shampoo Vitane Restauracion 1 L,Cuidado Personal,Cuidado del Cabello
 174785,Vodka Absolut Blue 750 ml,Bebidas,Licores
 174941,Galleta Lia Media Tarde 110 gr,Abarrotes,Galletas
+175021,DEO ABOVE SP ELEMENT SP MEN 150 ML,Cuidado Personal,Cuidado de la Piel
 175023,DEO ABOVE ROLL ON OCEAN MEN 50 ML,Cuidado Personal,Cuidado de la Piel
 175024,DEO ABOVE WOMEN FIRECE SAVAGE 50 ML,Cuidado Personal,Cuidado de la Piel
 175025,DEO ABOVE ROLLON WOMEN FASHION 50 ML,Cuidado Personal,Cuidado de la Piel
@@ -6166,6 +6171,7 @@ id_producto,producto,categoria,subcategoria
 201778,Mayonesa Kris Picante 230 ml,Abarrotes,Aderezos
 201789,Galleta Mabel Surtido Especial 480 gr,Abarrotes,Galletas
 201816,Trufa Para Ti de Licor 200 gr,Abarrotes,Chocolates y Caramelos
+201863,Filete de Anchoas Roland 56 gr,Abarrotes,Productos Americanos
 201872,Galleta Gustossi Cracker 200 gr,Abarrotes,Galletas
 201898,Aceituna Nucete Verde 200 gr,Abarrotes,Verduras en Conserva
 201971,Jugo Aloe Vera Tai Original 500 ml,Bebidas,Bebidas Varias
@@ -6679,6 +6685,7 @@ id_producto,producto,categoria,subcategoria
 222305,Chile Yacobs Locoto 220 gr,Abarrotes,Verduras en Conserva
 222306,Escabeche Yacobs Locoto 465 gr,Abarrotes,Verduras en Conserva
 222337,CLASSIC ACONDICIONADOR MANZANA 950 ML,Cuidado Personal,Cuidado del Cabello
+222339,CLASSIC ACONDICIONADOR ALOE VERA 950 ML,Cuidado Personal,Cuidado del Cabello
 222360,Detergente Polvo Bianco Lavanda 5 kg,Cuidado del Hogar,Limpieza de la Ropa
 222361,Detergente Polvo Bianco Limon 5 kg,Cuidado del Hogar,Limpieza de la Ropa
 222362,Detergente Polvo Bianco Manzanilla 5 kg,Cuidado del Hogar,Limpieza de la Ropa
@@ -10775,6 +10782,7 @@ id_producto,producto,categoria,subcategoria
 461166,TULIPAN TATTOO PLACER EXT X 3 UNID,Cuidado Personal,Cuidado de la Piel
 461167,TULIPAN DOBLE PLACER MIX SENS X 3 UNID,Cuidado Personal,Cuidado de la Piel
 461238,VASO AGUA KRISTALINO CRISA UND,Bazar,Menaje Vidrio/Cristal
+461274,LIPSMACK BAL.LABIAL VAINILLA DREAM 12.5GR,Farmacia Otc,Varios
 461275,LIPSMACK BAL. LABIAL SWEET BERRY 12.5GR,Cuidado Personal,Cuidado de la Piel
 461276,LIPSMACK BAL.LABIAL MENTA FRESH 12.5GR,Cuidado Personal,Cuidado de la Piel
 461277,LIPSMACK BAL.LABIAL MANGO TROPICAL 12.5GR,Cuidado Personal,Cuidado de la Piel
@@ -13207,6 +13215,10 @@ id_producto,producto,categoria,subcategoria
 553108,PACK 2 SUEROX UVA 630ML,Bebidas,Isotónicos
 553109,PACK 3 MIX BEBIDA SENSS 355 ML,Bebidas,Licores
 553113,GIN INSURGENTE FRUTOS DEL BOSQUE 700 ML,Bebidas,Licores
+553118,GALLETA COLOMBINA CHOCO MUUU 204 GR,Abarrotes,Galletas
+553120,GALLETA COLOMBINA WAFER VAINILLA 288 GR,Abarrotes,Galletas
+553121,GALLETA COLOMBINA WAFER FRESA 288 GR,Abarrotes,Galletas
+553122,GALLETA BRINKY CHOCOLATE 300 GR,Abarrotes,Galletas
 554333,Cerveza Paceña Lata Roja 473 Cc,Bebidas,Cervezas
 554466,Detergente Liquido Ola Futuro Limpieza Completa 5 L,Cuidado del Hogar,Limpieza de la Ropa
 554468,Suavizante Ropa Ola Suavecito Original 5 L,Cuidado del Hogar,Limpieza de la Ropa
@@ -14575,6 +14587,7 @@ id_producto,producto,categoria,subcategoria
 650407,Licor El Viejo Roble Cafe 750 cc,Bebidas,Licores
 650413,Licor Viejo Roble Menta 750 ml,Bebidas,Licores
 650415,Aguardiente Viejo Roble de Coca 750 ml,Bebidas,Licores
+650419,Licor Viejo Roble Chocolate 750 ml,Bebidas,Licores
 650425,JARABE D GRANADINA VIEJO ROBLE 1LT,Bebidas,Licores
 650427,Choclo Wasil Dulce 340 gr,Abarrotes,Verduras en Conserva
 650429,Azucar Guabira Gourmet 1 kg,Abarrotes,Básicos
@@ -16798,7 +16811,7 @@ id_producto,producto,categoria,subcategoria
 668842,CREMA UNA DE GATO 24 GR NATURALCOS,Cuidado Personal,Cuidado de la Piel
 668843,Crema Almendras Naturalcos 24 gr,Cuidado Personal,Cuidado de la Piel
 668844,PACK TOALLA FAMILIA ACOLCHADAMAX 120H,Cuidado del Hogar,Limpieza de Cocina
-668846,Toalla Higienicas Nosotras Natural Invisible Clasica 10 Und,Cuidado Personal,Cuidado del Adulto
+668846,Toalla Higienicas Nosotras Natural Invisible Clasica 10 Und,Cuidado Personal,Cuidado Familiar
 668847,TH TOALLAS HUMEDAS BABYSEC PREMIUM 45X10,Cuidado del Bebé,Cuidado del Bebé
 668855,REVOX B77 JUST COLLAGEN AMINO ACIDS + HA,Cuidado Personal,Cuidado de la Piel
 668856,REVOX B77 JUST DAILY SUN SHIELD UVA+UVB,Cuidado Personal,Cuidado de la Piel
@@ -16946,6 +16959,7 @@ id_producto,producto,categoria,subcategoria
 669135,DETERGENTE SURF COCO 650G,Cuidado del Hogar,Limpieza de la Ropa
 669136,DETERGENTE SURF LIMON 650G,Cuidado del Hogar,Limpieza de la Ropa
 669137,PACK LAVAVAJILLAS LIMON+LIMON 1050 CC,Cuidado del Hogar,Limpieza de Cocina
+669138,SHAMPOO MILE KIDS CARAMEL SIMONDS 400 ML,Cuidado del Bebé,Kids
 669139,T.P. NOVA GIGANTE DH 70M X1,Cuidado del Hogar,Limpieza de Cocina
 669140,ECO CLEAN VAJILLERO LIMON 880 ML,Cuidado del Hogar,Limpieza de Cocina
 669141,ECO CLEAN VAJILLERO LIMON 1750 ML,Cuidado del Hogar,Limpieza de Cocina
@@ -16969,6 +16983,7 @@ id_producto,producto,categoria,subcategoria
 669162,PACK AHORRO INFANTO JUVENIL GIRL,Cuidado Personal,Cuidado de la Piel
 669163,PACK AHORRO TEEN GIRL 2X150ML,Cuidado Personal,Cuidado de la Piel
 669164,SUPER LAVANDINA ARCHER 4 LT,Cuidado del Hogar,Limpieza de la Ropa
+669166,PACK BELMED OLEO REPARADOR DELUXE,Cuidado Personal,Cuidado del Cabello
 669211,POLVO ESSENTIAL CAPUCCINO,Cuidado Personal,Cuidado de la Piel
 669236,SECRET AT BARRA COCONUT 45G X 12U,Cuidado Personal,Cuidado de la Piel
 669237,DOWNY AMANECER 360ML X 12U,Cuidado del Hogar,Limpieza de la Ropa
@@ -18335,6 +18350,7 @@ id_producto,producto,categoria,subcategoria
 674156,HELADO YOGURT DURAZNO DELIZIA 70ML,Congelados,"Helados, Cassattas y Picoleses"
 674157,HELADO YOGURT MORA DELIZIA 70ML,Congelados,"Helados, Cassattas y Picoleses"
 674160,Pan Hot Dog Normal Panissimo 14 cm 12 un,Panadería,Panadería Externa
+674161,PAN HOT DOG EXTRA LARGO 21CM PANISSIMO 10UNI,Panadería,Panadería Externa
 674162,Filete de Paiche Titicaca kg,Congelados,Carnes Congeladas
 674169,SIMPLOT PAPA CORTE RUSTICA 2 KILOGRAMOS,Congelados,Masas y Comidas Congeladas
 674173,Salchicha Cielo Tipo Frankfurt 750 gr,Fiambres,Fiambres Externos
@@ -18365,7 +18381,7 @@ id_producto,producto,categoria,subcategoria
 674203,Queso Fresco Cochabamba kg,Lácteos y Derivados,Quesos
 674204,YOGURT AFLANADO PIL TARIJA VARIOS SABORES 140ML,Lácteos y Derivados,Yogures
 674205,YOGURT FRUTADO PIL TARIJA VARIOS SABORES 140ML,Lácteos y Derivados,Yogures
-674206,KARPIL MANZADA/MANGO/MANDARINA/LIMON 200ML,Lácteos y Derivados,Leches
+674206,KARPIL VARIOS SABORES 200ML,Lácteos y Derivados,Leches
 674212,KARPIL MARACUYA/PINA/NARANJA/POMELO 230ML,Lácteos y Derivados,Leches
 674213,PACK CLARA DE HUEVO PASTEURIZADA OVOPLUS,Lácteos y Derivados,Huevos
 674214,QUESO MOZZARELLA LAS LOMAS KILOGRAMO,Lácteos y Derivados,Quesos
@@ -22784,6 +22800,7 @@ id_producto,producto,categoria,subcategoria
 922393,Hoja Papel Bond Report Carta 500 Hojas,Bazar,Librería
 923333,Pegamento Isocola 40 gr,Bazar,Librería
 923334,Pegamento Acricola 40 gr,Bazar,Librería
+923335,Pegamento Acricola 80 gr,Bazar,Librería
 923338,CORRECTOR EN CINTA SDY ACRICOLOR,Bazar,Librería
 923342,MARCADOR PIZARRA DONG-A ROJO UND.,Bazar,Librería
 923359,GRAPAS 26/6 KANGARO UND.,Bazar,Librería
