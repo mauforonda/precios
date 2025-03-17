@@ -12,29 +12,32 @@
 <link rel="modulepreload" href="./_observablehq/client.js">
 <link rel="modulepreload" href="./_observablehq/runtime.js">
 <link rel="modulepreload" href="./_observablehq/stdlib.js">
-<link rel="modulepreload" href="./_import/components/files.77e99610.js">
+<link rel="modulepreload" href="./_npm/arquero@8.0.1/_esm.js">
+<link rel="modulepreload" href="./_import/components/files.347ded15.js">
 <link rel="modulepreload" href="./_import/components/format.a3232af2.js">
 <link rel="modulepreload" href="./_npm/htl@0.3.1/_esm.js">
 <link rel="modulepreload" href="./_npm/d3-dsv@3.0.1/_esm.js">
 <link rel="modulepreload" href="./_observablehq/stdlib/inputs.js">
 <link rel="modulepreload" href="./_npm/isoformat@0.2.1/_esm.js">
+<link rel="modulepreload" href="./_npm/acorn@8.14.1/_esm.js">
+<link rel="modulepreload" href="./_npm/@uwdata/flechette@1.1.2/_esm.js">
 <link rel="icon" href="./_file/favicon.cc2893b5.png" type="image/png">
 <script type="module">
 
 import {define} from "./_observablehq/client.js";
 import {registerFile} from "./_observablehq/stdlib.js";
 
-registerFile("./data/cobertura.json", {"name":"./data/cobertura.json","mimeType":"application/json","path":"./_file/data/cobertura.72dec701.json","lastModified":1742186351185});
-registerFile("./data/cochabamba.csv", {"name":"./data/cochabamba.csv","mimeType":"text/csv","path":"./_file/data/cochabamba.3eb286ab.csv","lastModified":1742186348123});
-registerFile("./data/la_paz.csv", {"name":"./data/la_paz.csv","mimeType":"text/csv","path":"./_file/data/la_paz.5ad29c73.csv","lastModified":1742186349553});
-registerFile("./data/productos.json", {"name":"./data/productos.json","mimeType":"application/json","path":"./_file/data/productos.99dada53.json","lastModified":1742186351185});
-registerFile("./data/santa_cruz.csv", {"name":"./data/santa_cruz.csv","mimeType":"text/csv","path":"./_file/data/santa_cruz.7abada03.csv","lastModified":1742186350931});
+registerFile("./data/cobertura.json", {"name":"./data/cobertura.json","mimeType":"application/json","path":"./_file/data/cobertura.72dec701.json","lastModified":1742230776992});
+registerFile("./data/cochabamba.csv", {"name":"./data/cochabamba.csv","mimeType":"text/csv","path":"./_file/data/cochabamba.b70cef79.csv","lastModified":1742230773896});
+registerFile("./data/la_paz.csv", {"name":"./data/la_paz.csv","mimeType":"text/csv","path":"./_file/data/la_paz.6de35966.csv","lastModified":1742230775353});
+registerFile("./data/productos.json", {"name":"./data/productos.json","mimeType":"application/json","path":"./_file/data/productos.cdee18da.json","lastModified":1742230776992});
+registerFile("./data/santa_cruz.csv", {"name":"./data/santa_cruz.csv","mimeType":"text/csv","path":"./_file/data/santa_cruz.0940f8e0.csv","lastModified":1742230776742});
 
-define({id: "09166b80", outputs: ["files","Trend"], body: async () => {
-const [{files}, {Trend}] = await Promise.all([import("./_import/components/files.77e99610.js"), import("./_import/components/format.a3232af2.js")]);
+define({id: "72925c9c", outputs: ["aq","files","Trend"], body: async () => {
+const [aq, {files}, {Trend}] = await Promise.all([import("./_npm/arquero@8.0.1/_esm.js"), import("./_import/components/files.347ded15.js"), import("./_import/components/format.a3232af2.js")]);
 // Imports
 
-return {files,Trend};
+return {aq,files,Trend};
 }});
 
 define({id: "0fb55661", inputs: ["Inputs","files","Generators"], outputs: ["ciudades","ciudad"], body: (Inputs,files,Generators) => {
@@ -58,9 +61,9 @@ data = data.map((d) => {
 return {productos,data};
 }});
 
-define({id: "ece3cbd2", inputs: ["FileAttachment","Inputs","Generators"], outputs: ["cobertura","dias","dia"], body: async (FileAttachment,Inputs,Generators) => {
+define({id: "d62d6f04", inputs: ["FileAttachment","Inputs","Generators"], outputs: ["cobertura","dias","dia"], body: async (FileAttachment,Inputs,Generators) => {
 // Tiempo
-const cobertura = await FileAttachment("./data/cobertura.json").json()
+const cobertura = await FileAttachment("./data/cobertura.json").json();
 const dias = Inputs.select(Object.keys(cobertura), {
     value: 1,
     format: (d) => cobertura[d],
@@ -68,6 +71,42 @@ const dias = Inputs.select(Object.keys(cobertura), {
 });
 const dia = Generators.input(dias);
 return {cobertura,dias,dia};
+}});
+
+define({id: "5f9b1b33", inputs: ["aq"], outputs: ["dolarData"], body: async (aq) => {
+// Cotización del dolar
+const dolarData = await aq.loadCSV(
+    `https://raw.githubusercontent.com/mauforonda/dolares/main/buy.csv`
+);
+return {dolarData};
+}});
+
+define({id: "5c313427", inputs: ["dolarData","aq","cobertura","Trend","dia"], outputs: ["dolarDiario","dolarCambio","dolarString"], body: (dolarData,aq,cobertura,Trend,dia) => {
+// Variaciones del dólar
+const dolarDiario = dolarData
+    .filter((d) => d.vwap != null)
+    .derive({
+        date: aq.escape(
+            (d) => aq.op.split(aq.op.format_date(d.timestamp), "T")[0]
+        ),
+    })
+    .groupby("date")
+    .rollup({
+        median_vwap: (d) => aq.op.median(d.vwap),
+    })
+    .orderby(aq.desc("date"));
+const dolarCambio = Object.fromEntries(
+    Object.keys(cobertura).map((d) => {
+        const dia = Number(d);
+        const hoy = dolarDiario.get("median_vwap", 0);
+        const previo = dolarDiario.get("median_vwap", dia);
+        return [dia, (hoy - previo) / previo];
+    })
+);
+const dolarString = Trend(dolarCambio[dia], {
+    format: { minimumFractionDigits: 2 },
+});
+return {dolarDiario,dolarCambio,dolarString};
 }});
 
 define({id: "530abf1d", inputs: ["data","dia","Inputs","Generators"], outputs: ["dataDia","categorias","sugerencias","sugerencia"], body: (data,dia,Inputs,Generators) => {
@@ -153,6 +192,12 @@ busqueda
 ))
 }});
 
+define({id: "104b6281", mode: "inline", inputs: ["dolarString","display"], body: async (dolarString,display) => {
+display(await(
+dolarString
+))
+}});
+
 define({id: "4a106a9d", mode: "inline", inputs: ["tabla","display"], body: async (tabla,display) => {
 display(await(
 tabla
@@ -162,11 +207,13 @@ tabla
 </script>
 <div id="observablehq-center">
 <main id="observablehq-main" class="observablehq">
-<link rel="stylesheet" href="./_file/style.d6d82293.css">
-<div class="observablehq observablehq--block"><!--:09166b80:--></div>
+<link rel="stylesheet" href="./_file/style.2e26a325.css">
+<div class="observablehq observablehq--block"><!--:72925c9c:--></div>
 <div class="observablehq observablehq--block"><!--:0fb55661:--></div>
 <div class="observablehq observablehq--block"><!--:eab7cc28:--></div>
-<div class="observablehq observablehq--block"><!--:ece3cbd2:--></div>
+<div class="observablehq observablehq--block"><!--:d62d6f04:--></div>
+<div class="observablehq observablehq--block"><!--:5f9b1b33:--></div>
+<div class="observablehq observablehq--block"><!--:5c313427:--></div>
 <div class="observablehq observablehq--block"><!--:530abf1d:--></div>
 <div class="observablehq observablehq--block"><!--:da2ae9de:--></div>
 <div class="observablehq observablehq--block"><!--:0b3690ae:--></div>
@@ -182,8 +229,20 @@ tabla
         <observablehq-loading></observablehq-loading><!--:4e957b19:-->
     </div>
 </div>
+<div class="dolar"> ... mientras tanto el dolar cambió en <observablehq-loading></observablehq-loading><!--:104b6281:--></div>
 <div class="card">
     <observablehq-loading></observablehq-loading><!--:4a106a9d:-->
+</div>
+<div id="creditos">
+    <div class="credito">
+        <span><a href="https://hipermaxi.com/" target="_blank" rel="noopener noreferrer">Hipermaxi</a></span>
+        <span class="creditoNota">fuente</span>
+    </div>
+    <div>&amp;</div>
+    <div class="credito">
+        <span><a href="mailto:mauriforonda@gmail.com" target="_blank" rel="noopener noreferrer">Mauricio Foronda</a></span>
+        <span class="creditoNota">creación</span>
+    </div>
 </div>
 </main>
 </div>
