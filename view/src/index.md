@@ -2,6 +2,7 @@
 
 ```js
 // Imports
+import * as aq from "npm:arquero";
 import { files } from "./components/files.js";
 import { Trend } from "./components/format.js";
 ```
@@ -27,13 +28,47 @@ data = data.map((d) => {
 
 ```js
 // Tiempo
-const cobertura = await FileAttachment("data/cobertura.json").json()
+const cobertura = await FileAttachment("data/cobertura.json").json();
 const dias = Inputs.select(Object.keys(cobertura), {
     value: 1,
     format: (d) => cobertura[d],
     label: "Cambios desde",
 });
 const dia = Generators.input(dias);
+```
+
+```js
+// Cotización del dolar
+const dolarData = await aq.loadCSV(
+    `https://raw.githubusercontent.com/mauforonda/dolares/main/buy.csv`
+);
+```
+
+```js
+// Variaciones del dólar
+const dolarDiario = dolarData
+    .filter((d) => d.vwap != null)
+    .derive({
+        date: aq.escape(
+            (d) => aq.op.split(aq.op.format_date(d.timestamp), "T")[0]
+        ),
+    })
+    .groupby("date")
+    .rollup({
+        median_vwap: (d) => aq.op.median(d.vwap),
+    })
+    .orderby(aq.desc("date"));
+const dolarCambio = Object.fromEntries(
+    Object.keys(cobertura).map((d) => {
+        const dia = Number(d);
+        const hoy = dolarDiario.get("median_vwap", 0);
+        const previo = dolarDiario.get("median_vwap", dia);
+        return [dia, (hoy - previo) / previo];
+    })
+);
+const dolarString = Trend(dolarCambio[dia], {
+    format: { minimumFractionDigits: 2 },
+});
 ```
 
 ```js
@@ -104,6 +139,21 @@ const tabla = Inputs.table(resultado, {
         ${busqueda}
     </div>
 </div>
+
+<div class="dolar"> ... mientras tanto el dolar cambió en ${dolarString}</div>
+
 <div class="card">
     ${tabla}
+</div>
+
+<div id="creditos">
+    <div class="credito">
+        <span><a href="https://hipermaxi.com/" target="_blank">Hipermaxi</a></span>
+        <span class="creditoNota">fuente</span>
+    </div>
+    <div>&</div>
+    <div class="credito">
+        <span><a href="mailto:mauriforonda@gmail.com">Mauricio Foronda</a></span>
+        <span class="creditoNota">creación</span>
+    </div>
 </div>

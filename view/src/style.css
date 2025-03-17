@@ -37,3 +37,34 @@ table input[type="checkbox"] {
         cursor: pointer;
     }
 }
+
+.dolar {
+    font-size: .7rem;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+#creditos {
+    opacity: 0.8;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin: 4em 0 0 0;
+    font-size: 0.6em;
+    color: var(--base);
+    gap: 1rem;
+
+    .credito {
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        width: 100px;
+    }
+
+    a {
+        color: var(--base);
+        text-decoration: underline dotted;
+    }
+
+}

@@ -3,13 +3,24 @@ on:
   schedule:
     - cron: '0 4 * * *'
   workflow_dispatch:
+    inputs:
+      skip_update:
+        description: 'Skip update'
+        required: false
+        default: 'false'
+        type: choice
+        options:
+          - 'true'
+          - 'false'
 
 jobs:
   update:
     uses: ./.github/workflows/update.yml
+    if: ${{ github.event_name != 'workflow_dispatch' || github.event.inputs.skip_update != 'true' }}
   publish:
     name: publish
     needs: [update]
+    if: ${{ success() || (github.event_name == 'workflow_dispatch' && github.event.inputs.skip_update == 'true') }}
     runs-on: ubuntu-latest
     steps:
     - name: Checkout
