@@ -1551,7 +1551,9 @@ id_producto,producto,categoria,subcategoria
 25001,PACK 3MENTOS ROLL FRUTA FANTA FRESA,Abarrotes,Golosinas - Varias
 25002,Bebida Flow Nene Sunrise Lata 355 ml,Bebidas,Licores
 25004,SIXPACK CERVEZA POTOSINA 6X473ML,Bebidas,Cervezas
+25009,PACK 2TRIVARIETAL C SOLANA 1MADERA EQ,Bebidas,Vinos y Champagne
 25012,PACK 2GALLETAS CHOCOBISCUIT GAROTO,Abarrotes,Galletas
+25017,HUEVITOS COFLER BLOCK BSA 78G,Abarrotes,Temporada
 25640,Surtido de Mariscos Robinson Crusoe Natural 190 gr,Abarrotes,Comidas en Conserva
 25771,Huevos Caisy 12 un,Lácteos y Derivados,Huevos
 25789,Galleta Rocklets Chocolate 118 gr,Abarrotes,Galletas
@@ -5816,6 +5818,7 @@ id_producto,producto,categoria,subcategoria
 155758,Toallas Humedas Pampers Higiene Completa 48 un,Cuidado del Bebé,Cuidado del Bebé
 155759,Toallas Humeda Pampers Higiene Completa 192 un,Cuidado del Bebé,Cuidado del Bebé
 155760,Toallas Humedas Pampers Manzanilla 48 un,Cuidado del Bebé,Cuidado del Bebé
+155761,Toallas Humedas Pampers Limpieza Delicada 48 un,Cuidado del Bebé,Cuidado del Bebé
 155763,Protectores Diarios Dmujer Anatomico 15 un,Cuidado Personal,Cuidado Familiar
 155764,Protectores Diarios Dmujer Plegadiza 60 un,Cuidado Personal,Cuidado Familiar
 155765,Protectores Diarios Dmujer Plegadiza 180 un,Cuidado Personal,Cuidado Familiar
@@ -7729,6 +7732,7 @@ id_producto,producto,categoria,subcategoria
 249013,DESODORANTE SPEDSTICK CLINICAL SS VARON,Cuidado Personal,Cuidado de la Piel
 249014,DESODORANTE CLINICAL SPRRD STICK LSS MUJ,Cuidado Personal,Cuidado de la Piel
 249015,ESPONJA D/BANO UNO CON CORDON RF.8330,Cuidado del Hogar,Accesorios del Hogar
+249029,SUAVIZANTE DOWNY EXOTICO 700ML,Cuidado del Hogar,Limpieza de la Ropa
 249032,SUAVIZANTE DOWNY AMANECER 700ML,Cuidado del Hogar,Limpieza de la Ropa
 249319,Licor Cusenier Menta 700 ml,Bebidas,Licores
 249394,Licor de Café Cusenier 700 ml,Bebidas,Licores
@@ -13251,6 +13255,7 @@ id_producto,producto,categoria,subcategoria
 553097,GIN INSURGENTE FRUTILLA 700 ML,Bebidas,Licores
 553098,ARROZ NELSON WENDT PARBOLIZADO 5 KG,Abarrotes,Productos Americanos
 553099,ARROZ NELSON WENDT PARBOLIZADO 1 KG,Abarrotes,Productos Americanos
+553103,GASEOSA ORIENTAL PAPAYA 1L,Bebidas,Gaseosas
 553105,PACK 6X5 POWERADE CITRUS PASSION FRUIT 9,Bebidas,Isotónicos
 553106,PACK 2POWERADE MORA CITRUS 990ML,Bebidas,Isotónicos
 553107,PACK 2 SUEROX FRUTOS ROJOS TROP 630ML,Bebidas,Isotónicos
@@ -19330,6 +19335,7 @@ id_producto,producto,categoria,subcategoria
 761436,YOGURT BEB.NAT.SIN AZUCAR FRIEDLAND 1 LT.,Lácteos y Derivados,Yogures
 761486,Huevos Aranjuez Economico Subsidio 18 un,Lácteos y Derivados,Huevos
 761519,Pulpa Congelada Mattafah Surtido 500 gr,Congelados,Pulpas y Frutas Congeladas
+761538,YOGURT BEB.ARTESANAL COCO FRIEDLAND 1 LT.,Lácteos y Derivados,Yogures
 761638,Linguica Queso Azul La Boteca 500 gr,Fiambres,Fiambres Externos
 761659,LINGUIZA PINA CARAMEL LA BOTECA 500 GRS.,Fiambres,Fiambres Externos
 761823,Hamburguesa de Pacu Pacusito kg,Congelados,Carnes Congeladas
@@ -22129,7 +22135,7 @@ id_producto,producto,categoria,subcategoria
 864857,LONCHERA PLASTICA KENDY,Bazar,Menaje Plástico
 864862,LONCHERA KENDY 3PZ,Bazar,Librería
 864988,Papel Higienico Scott Cuidado Completo 12 un,Cuidado Personal,Cuidado Familiar
-864995,JUG.HERRAMIENTAS DADOS 1/2 12PZ GARANTOOL,Bazar,Ferretería
+864995,Juego Herramientas Garantool 12 piezas,Bazar,Ferretería
 865116,Porta Celular Carnaval,Bazar,Temporada Carnaval
 865189,Huevos Yemita Amarilla 12 un,Lácteos y Derivados,Huevos
 865194,Papa McCain Congelada Smiles 600 gr,Congelados,Masas y Comidas Congeladas
@@ -22307,6 +22313,8 @@ id_producto,producto,categoria,subcategoria
 875000,HUESO MASCOTAS 8IN1 X 3UND ORIGINAL ROLL,Bazar,Mascotas General
 875171,JAN BRAZOS DE PICINA .12,Bazar,Temporada Verano
 875389,Aceite en Spray Crisco Butter 5 oz,Abarrotes,Básicos
+875398,PAT JUGUETES POLLO MASCOTAS  12,Bazar,Mascotas General
+875401,PAT JUGUETE ANIMALES P/R MASCOTAS  18,Bazar,Mascotas General
 875423,Sazonador McCormick Chicken Gravy Mix 24 gr,Abarrotes,Condimentos y Legumbres
 875438,Sazonador McCormick Mix Guacamole 1 oz,Abarrotes,Condimentos y Legumbres
 875676,Galleta Goldfish Pepperidge 187 gr,Abarrotes,Productos Americanos
@@ -22603,6 +22611,7 @@ id_producto,producto,categoria,subcategoria
 897394,Mayonesa Kris Original 125 ml,Abarrotes,Aderezos
 897522,Cafe De Altura en Grano 250 gr,Abarrotes,Café y Sucedáneos
 897592,Cafe De Altura Molido 250 gr,Abarrotes,Café y Sucedáneos
+897884,PAT JUGUETE DE MASCOTAS  23,Bazar,Mascotas General
 897891,Juguete Para Mascota Hueso 15,Bazar,Mascotas General
 898208,Jabon Barra Gigante Azul 200 gr,Cuidado del Hogar,Limpieza de la Ropa
 898228,Queso Philadelphia Kraft Original 150 gr,Lácteos y Derivados,Quesos
