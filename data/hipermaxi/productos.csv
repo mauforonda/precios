@@ -1528,6 +1528,7 @@ id_producto,producto,categoria,subcategoria
 24163,KIT WAKA CREATOR DISP 1DARK CHERRY 12000,Bebidas,Cigarrillos
 24164,KIT WAKA CREATOR DISP 1BLUEBERR ICE 1200,Bebidas,Cigarrillos
 24170,PESTO VALENCIANA TOMAT DESHID ROSSO 200G,Abarrotes,Verduras en Conserva
+24173,TOMATE DESHID VALENCIANA PINCANTE 180G,Abarrotes,Verduras en Conserva
 24306,Ron Flor de Caña 5 Años 750 ml,Bebidas,Licores
 24401,"Edulcorante  Dulzero Clasico 250 ml
 ",Abarrotes,Dietéticos y Saludables
@@ -1555,6 +1556,7 @@ id_producto,producto,categoria,subcategoria
 25006,ECCO NESTLE DP 170G,Abarrotes,Café y Sucedáneos
 25009,PACK 2TRIVARIETAL C SOLANA 1MADERA EQ,Bebidas,Vinos y Champagne
 25012,PACK 2GALLETAS CHOCOBISCUIT GAROTO,Abarrotes,Galletas
+25016,HUEVO LINDT SURTIDO 180G,Abarrotes,Temporada
 25017,HUEVITOS COFLER BLOCK BSA 78G,Abarrotes,Temporada
 25018,GALLETA  LIGERA LA SUPREMA 240G,Abarrotes,Galletas
 25640,Surtido de Mariscos Robinson Crusoe Natural 190 gr,Abarrotes,Comidas en Conserva
@@ -4544,6 +4546,7 @@ id_producto,producto,categoria,subcategoria
 110861,Salame Pequeño Stege 140 gr,Fiambres,Fiambres Externos
 110867,Queso de Cerdo Stege al Vacio 160 Grs,Fiambres,Fiambres Externos
 110877,Chocolate Taboada Blanco 100 gr,Abarrotes,Chocolates y Caramelos
+110879,Chocolate Taboada Semi Amargo 100 gr,Abarrotes,Chocolates y Caramelos
 111001,Acondicionador Dove Fortalecimiento Palta 400 ml,Cuidado Personal,Cuidado del Cabello
 111003,Shampoo Dove Reparacion Coco 400 ml,Cuidado Personal,Cuidado del Cabello
 111004,Acondicionador Dove Reparacion Coco 400 ml,Cuidado Personal,Cuidado del Cabello
@@ -5605,6 +5608,7 @@ id_producto,producto,categoria,subcategoria
 136501,Chocolate Taboada Mani 100 gr,Abarrotes,Chocolates y Caramelos
 136522,Chocolate Taboada Quinua Amaranto 100 gr,Abarrotes,Chocolates y Caramelos
 136523,Chocolate Taboada Almendra 100 gr,Abarrotes,Chocolates y Caramelos
+136524,Chocolate Taboada Uva Pasas 100 gr,Abarrotes,Chocolates y Caramelos
 136576,Crema Antiarrugas Cicatricure 60 gr,Cuidado Personal,Cuidado de la Piel
 136999,QUINUA SNACKS RULITOS D OREGANO 70 GR,Abarrotes,Snack
 137022,Te Forma Adelgazante Natural 25 un,Abarrotes,Dietéticos y Saludables
@@ -7733,13 +7737,15 @@ id_producto,producto,categoria,subcategoria
 249004,TOALLA HUMEDA MI BEBE 25 UNIDADES,Cuidado del Bebé,Cuidado del Bebé
 249005,PACK SH DOVE EXTREME + DEO,Cuidado Personal,Cuidado del Cabello
 249006,PACK SH DOVE SPORT + DEO,Cuidado Personal,Cuidado del Cabello
+249008,PACK SEDAL SH CELULAS MADRE 6X2X340ML+CR,Cuidado Personal,Cuidado del Cabello
 249010,PACK SEDAL SH LISO 6X2X340ML+CR,Cuidado Personal,Cuidado del Cabello
 249011,CIF CREMA ROSA JAZMIN 12X750G,Cuidado del Hogar,Limpieza de Living y Ropero
 249012,Cepillo Dental Colgate Carbon 360 Medio 2 Und,Cuidado Personal,Cuidado Bucal
-249013,DESODORANTE SPEDSTICK CLINICAL SS VARON,Cuidado Personal,Cuidado de la Piel
-249014,DESODORANTE CLINICAL SPRRD STICK LSS MUJ,Cuidado Personal,Cuidado de la Piel
+249013,DESODORANTE SPEDSTICK CLINICAL 70 GR MEN,Cuidado Personal,Cuidado de la Piel
+249014,DESODORANTE CLINICAL SPRRD STICK WOM 70 GR,Cuidado Personal,Cuidado de la Piel
 249015,ESPONJA D/BANO UNO CON CORDON RF.8330,Cuidado del Hogar,Accesorios del Hogar
 249027,ACIDO GLICOLICO LOREAL CREM DIA 50 ML,Cuidado Personal,Cuidado de la Piel
+249028,SUAVIZANTE DOWNY AMANECER 2800ML,Cuidado del Hogar,Limpieza de la Ropa
 249029,SUAVIZANTE DOWNY EXOTICO 700ML,Cuidado del Hogar,Limpieza de la Ropa
 249032,SUAVIZANTE DOWNY AMANECER 700ML,Cuidado del Hogar,Limpieza de la Ropa
 249319,Licor Cusenier Menta 700 ml,Bebidas,Licores
@@ -12738,6 +12744,7 @@ id_producto,producto,categoria,subcategoria
 552345,Leche Condensada Valerie And Me Sin Azucar 220 ml,Abarrotes,Dietéticos y Saludables
 552346,Bombon Lindt Lindor 60 Cacao 200 gr,Abarrotes,Chocolates y Caramelos
 552347,Chocolate Lindt Lindor Huevo Pascua Leche 180 gr,Abarrotes,Temporada
+552351,HUEVO COFLER BLOCK MITI MITI 170 GR,Abarrotes,Temporada
 552352,Huevo Cofler Block 1 kg,Abarrotes,Temporada
 552354,Sal Uyuni Molinillo con Hierbas 90 gr,Abarrotes,Básicos
 552355,Sal Salar de Uyuni Apio Molinillo 90 gr,Abarrotes,Básicos
@@ -13292,6 +13299,9 @@ id_producto,producto,categoria,subcategoria
 553131,Pack Windsor Dia Del Padre 35 gr,Abarrotes,Café y Sucedáneos
 553140,PACK 12 CERVEZA GOLDEN LATA 440 ML,Bebidas,Cervezas
 553146,FREJOL ROJO MI SUCO BOLSA DE 455 GR,Abarrotes,Condimentos y Legumbres
+553147,MANI PELADO MI SUCO BOLSA DE 455 GR,Abarrotes,Condimentos y Legumbres
+553148,FREJOL NEGRO MI SUCO BOLSA  DE 455 GR,Abarrotes,Condimentos y Legumbres
+553152,FREJOL ROJO MI SUCO BOLSA 1KG,Abarrotes,Condimentos y Legumbres
 553153,LENTEJA MI SUCO  BOLSA 1 KG,Abarrotes,Condimentos y Legumbres
 554333,Cerveza Paceña Lata Roja 473 Cc,Bebidas,Cervezas
 554466,Detergente Liquido Ola Futuro Limpieza Completa 5 L,Cuidado del Hogar,Limpieza de la Ropa
@@ -19364,6 +19374,7 @@ id_producto,producto,categoria,subcategoria
 761538,YOGURT BEB.ARTESANAL COCO FRIEDLAND 1 LT.,Lácteos y Derivados,Yogures
 761638,Linguica Queso Azul La Boteca 500 gr,Fiambres,Fiambres Externos
 761659,LINGUIZA PINA CARAMEL LA BOTECA 500 GRS.,Fiambres,Fiambres Externos
+761741,YOGURT BEB.ARTESANAL FRUTILLA FRIEDLAND 1 LT.,Lácteos y Derivados,Yogures
 761823,Hamburguesa de Pacu Pacusito kg,Congelados,Carnes Congeladas
 761842,Linguica Calabresa Frascanata La Boteca 500 gr,Fiambres,Fiambres Externos
 761843,YOGURT BEB.ARTESANAL CHIRIMOYA FRIEDLAND 1 LT.,Lácteos y Derivados,Yogures
