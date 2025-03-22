@@ -1561,6 +1561,8 @@ id_producto,producto,categoria,subcategoria
 25018,GALLETA  LIGERA LA SUPREMA 240G,Abarrotes,Galletas
 25025,GALLETA FRAC BI CHOCO FRUTILLA 110 G,Abarrotes,Galletas
 25030,PACK 3 VINO TINTO KOHLBERG,Bebidas,Vinos y Champagne
+25032,"PACK SKITTLES ORIGINAL 2X61,5G",Abarrotes,Golosinas - Varias
+25033,"PACK  SKITTLES WILD BERRY 2X61,5G",Abarrotes,Golosinas - Varias
 25640,Surtido de Mariscos Robinson Crusoe Natural 190 gr,Abarrotes,Comidas en Conserva
 25771,Huevos Caisy 12 un,Lácteos y Derivados,Huevos
 25789,Galleta Rocklets Chocolate 118 gr,Abarrotes,Galletas
@@ -2986,7 +2988,7 @@ id_producto,producto,categoria,subcategoria
 60469,VINO ETCHART CAFAYATE ROSE 750ML,Bebidas,Vinos y Champagne
 60470,Vino Etchart Gran Linaje Malbec 750 ml,Bebidas,Vinos y Champagne
 61509,Galleta Saladix Arcor Parmesano 100 gr,Abarrotes,Galletas
-61719,Mayonesa Hellmans Clasica 336 gr,Abarrotes,Aderezos
+61719,Mayonesa Hellmanns Clasica 320 gr,Abarrotes,Aderezos
 61731,Gomita Trolli Iberica Garabatos 100 gr,Abarrotes,Golosinas - Varias
 61972,Queso Roquefort Bavaria Horma kg,Lácteos y Derivados,Quesos
 62151,MARSHMALLOWS PROMOS BCO FAT FREE 454 GR,Abarrotes,Chocolates y Caramelos
@@ -7752,7 +7754,9 @@ id_producto,producto,categoria,subcategoria
 249027,ACIDO GLICOLICO LOREAL CREM DIA 50 ML,Cuidado Personal,Cuidado de la Piel
 249028,SUAVIZANTE DOWNY AMANECER 2800ML,Cuidado del Hogar,Limpieza de la Ropa
 249029,SUAVIZANTE DOWNY EXOTICO 700ML,Cuidado del Hogar,Limpieza de la Ropa
+249031,SUAVIZANTE DOWNY EXOTICO 2800ML,Cuidado del Hogar,Limpieza de la Ropa
 249032,SUAVIZANTE DOWNY AMANECER 700ML,Cuidado del Hogar,Limpieza de la Ropa
+249058,GEL FIJADOR SUPER FIX  275G,Cuidado Personal,Cuidado del Cabello
 249319,Licor Cusenier Menta 700 ml,Bebidas,Licores
 249394,Licor de Café Cusenier 700 ml,Bebidas,Licores
 249793,Cotonetes Johnsons Caja 300 un,Cuidado del Bebé,Cuidado del Bebé
@@ -8187,7 +8191,7 @@ id_producto,producto,categoria,subcategoria
 303189,Gel de Mano Aval Neutral,Cuidado Personal,Cuidado de la Piel
 303235,Nacho Mexicamba Surtido 120 gr,Abarrotes,Snack
 303275,Mayonesa Hellmanns 237 ml,Abarrotes,Aderezos
-303283,Mayonesa Hellmanns 950 gr,Abarrotes,Aderezos
+303283,Mayonesa Hellmanns Clasica 950 gr,Abarrotes,Aderezos
 303461,Chocolate Milka Alpine Milk 100 gr,Abarrotes,Chocolates y Caramelos
 303523,Alimento Pedigree Pequeño 1.5 kg,Abarrotes,Mascotas
 303541,Alimento Pedigree Adulto Nutricion Completa 1.5 kg,Abarrotes,Mascotas
@@ -12299,6 +12303,8 @@ id_producto,producto,categoria,subcategoria
 551440,Vape Voom Iris Grape Ice 600 Puffs,Bebidas,Cigarrillos
 551441,Vape Voom Iris Mango Ice 600 Puffs,Bebidas,Cigarrillos
 551443,Vape Voom Iris Mix Berry 600 Puffs,Bebidas,Cigarrillos
+551448,Huevo Bon o Bon Pascua Morango 150 gr,Abarrotes,Temporada
+551450,HUEVO PASCUA BON O BON COCO 150GR,Abarrotes,Temporada
 551451,Papa Luka Frita Clasica 175 gr,Abarrotes,Snack
 551454,Tripack Cereal Nestle Chocapic 350 gr,Abarrotes,Nutrición Infantil
 551455,PACK 6 CERVEZA MAHOU 5 ESTRELLAS 330 ML,Bebidas,Cervezas
@@ -12308,6 +12314,7 @@ id_producto,producto,categoria,subcategoria
 551487,Pack 3x2 Cerveza Paulander Muncher Hell,Bebidas,Cervezas
 551489,Atun Real Lomito al Agua Pack 2 un 185 gr,Abarrotes,Comidas en Conserva
 551491,Pack Atun Real Lomito Agua y Aceite 185 gr,Abarrotes,Comidas en Conserva
+551492,Huevo Garoto Baton Chocolate Leche 186 gr,Abarrotes,Temporada
 551493,Huevo Garoto Crocante 215 gr,Abarrotes,Temporada
 551494,Picadillo de Mariscos Angelmo en Aceite,Abarrotes,Comidas en Conserva
 551495,Picadillo Angelmo Mariscos en Aceite 190 gr,Abarrotes,Comidas en Conserva
@@ -13304,6 +13311,7 @@ id_producto,producto,categoria,subcategoria
 553121,WAFER COLOMBINA FRESA 288G,Abarrotes,Galletas
 553122,GALLETA BRINKY CHOCOLATE 300 GR,Abarrotes,Galletas
 553123,GALLETA BRINKY VAINILLA 300 GR,Abarrotes,Galletas
+553127,CAFE ORANGE CUP GEISHA GRANO BSA 250 GR,Abarrotes,Café y Sucedáneos
 553131,Pack Windsor Dia Del Padre 35 gr,Abarrotes,Café y Sucedáneos
 553136,BOMBON LINDT SAL CARAMELO 200 GR,Abarrotes,Chocolates y Caramelos
 553140,PACK 12 CERVEZA GOLDEN LATA 440 ML,Bebidas,Cervezas
@@ -17990,7 +17998,7 @@ id_producto,producto,categoria,subcategoria
 673163,Pan Molde Santonio con Semillas,Panadería,Panadería Externa
 673164,Pan Molde Santonio con Cereales,Panadería,Panadería Externa
 673165,LETS BE CAPPUCCINO 240 ML,Lácteos y Derivados,Leches
-673168,TROCITOS DE TRUCHA TITIKAKA AL LIMON,Abarrotes,Comidas en Conserva
+673168,TROCITOS D TRUCHA TITIKAKA LIMON 140G,Abarrotes,Comidas en Conserva
 673175,QUESO TIPO GRUYERE QUESERIA SUIZA AL VACIO X KILO,Lácteos y Derivados,Quesos
 673183,Helado Delizia Rocky Cono,Congelados,"Helados, Cassattas y Picoleses"
 673184,Helado Delizia Megacono Pasas Al Ron,Congelados,"Helados, Cassattas y Picoleses"
@@ -20284,6 +20292,7 @@ id_producto,producto,categoria,subcategoria
 795621,Nuggets Dino Sofia 500 gr,Congelados,Carnes Congeladas
 795741,Costilla de Cerdo Congelada Casa de Campo kg,Congelados,Carnes Congeladas
 795748,Pepinillo Yacobs 370 gr,Abarrotes,Verduras en Conserva
+795775,Chorizo Criollo Crudo Sofia a Granel kg,Fiambres,Fiambres Externos
 795794,Queso Azul Artesano kg,Lácteos y Derivados,Quesos
 795832,Pizza Conik Congelada Pressto Personal,Congelados,Masas y Comidas Congeladas
 795897,Huevito Bon o Bon Blanco 20 gr,Abarrotes,Temporada
@@ -23110,6 +23119,7 @@ id_producto,producto,categoria,subcategoria
 957074,Alcancia Hipermaxi Chanchito,Bazar,Regalos/Adornos
 957284,Agenda Perpetua 2025 Elegante,Bazar,Librería
 957679,CEPILLO DE CABELLO CONDOR 6873 BLISA,Bazar,Bijouteria/Cuidado Personal
+957680,SET DE PEINES DE VIAJE X 3 CONDOR SMA5,Bazar,Bijouteria/Cuidado Personal
 957690,CI ESPATULA TRAMONTINA 21165/194,Bazar,Articulos de Cocina
 957691,CI ESPATULA DE PASTEL TRAMONT.21163/195,Bazar,Articulos de Cocina
 957693,CI ESPATULA TRAMONTINA 21168/195,Bazar,Articulos de Cocina
