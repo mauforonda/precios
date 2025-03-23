@@ -1824,6 +1824,7 @@ id_producto,producto,categoria,subcategoria
 29140,BEBIDA CRAZY SUNSET GOLD LTA 473ML,Bebidas,Licores
 29141,BEBIDA ALCOHOLICA 12% BERRIES,Bebidas,Licores
 29142,VINAGRE JE D COCO PET 1LT,Abarrotes,Dietéticos y Saludables
+29145,VINO SOLAZ BERDEJO BLANCO 750ML,Bebidas,Vinos y Champagne
 29148,GASEOSA HIGH SODA ACAI LTA 350ML,Bebidas,Gaseosas
 29150,MASTICABLE NEX SANDIA CJA 336G,Abarrotes,Golosinas - Varias
 29152,AGUA L CABANA SIN GAS SPORT 1LT,Bebidas,Aguas
@@ -2520,6 +2521,7 @@ id_producto,producto,categoria,subcategoria
 31254,Galletas Jasmine Gran Avena Berries 120 gr,Abarrotes,Dietéticos y Saludables
 31255,Galletas Jasmine Gran Avena Nuts 120 gr,Abarrotes,Dietéticos y Saludables
 31257,Mezcla Lista Maggi Pollo Brasa 45 gr,Abarrotes,Básicos
+31258,MERMELADA EKO CHOOSE FRAMBUESA 390 G,Abarrotes,"Mermel, Mieles"
 31261,Caramelo Menthoplus Mix Berries 30 gr,Abarrotes,Golosinas - Varias
 31262,Caramelo Menthoplus Cool Mint 30 gr,Abarrotes,Golosinas - Varias
 31263,Vodka McCormick Raspeberry 1 L,Bebidas,Licores
@@ -4588,6 +4590,7 @@ id_producto,producto,categoria,subcategoria
 111342,Jabon Barra Io Mango Maracuya 125 gr,Cuidado Personal,Cuidado de la Piel
 111343,Franela Naranja Aridam Art 54,Cuidado del Hogar,Productos Americanos
 111344,Paño Franela Aridam Art 55,Cuidado del Hogar,Productos Americanos
+111345,Paño Toalla Nino Surtido,Cuidado del Hogar,Productos Americanos
 111374,Baño Liquido Johnsons Antes de Dormir 400 ml,Cuidado del Bebé,Cuidado del Bebé
 111512,PROTECTOR SOLAR SUNLESS FPS 500 120 GR.+,Cuidado Personal,Cuidado de la Piel
 111532,Papel Higienico Premier Soft 12 un,Cuidado Personal,Cuidado Familiar
@@ -7498,7 +7501,7 @@ id_producto,producto,categoria,subcategoria
 240548,LIMPIA ZAPATILLAS TODO BRILLO 150 ML,Cuidado del Hogar,Limpieza de Zapatos
 240549,TOALLA HUMEDA PROBLOCK DESMAQUILLANTE 25 UNDS,Cuidado Personal,Cuidado del Adulto
 240550,TOALLA HUMEDA PROBLOCK ALOE 25 UNDS,Cuidado del Bebé,Cuidado del Bebé
-240552,TOALLA HUMEDA PROBLOCK ANTIBACTERIAL 25 UND,Cuidado del Bebé,Cuidado del Bebé
+240552,TOALLA HUMEDA PROBLOCK ANTIBACTERIAL 25,Cuidado del Bebé,Cuidado del Bebé
 240553,PACK SERUM HIALURONICO+UV DEF ANTIBRILLO,Cuidado Personal,Cuidado de la Piel
 240554,OMO PVO BLANCO ABSOLUTO 24X360G,Cuidado del Hogar,Limpieza de la Ropa
 240555,OMO PVO BLANCO ABSOLUTO 20X720G,Cuidado del Hogar,Limpieza de la Ropa
@@ -7553,7 +7556,7 @@ id_producto,producto,categoria,subcategoria
 240650,SHAMPOO H&S REVITALIZACION ARGAN 650ML,Cuidado Personal,Cuidado del Cabello
 240651,MAQUINA GILLETTE MACH3 CARBON 1P,Cuidado Personal,Cuidado de la Piel
 240652,SERVILLETA BLANQUITA LARGA  500 UNDS,Cuidado Personal,Cuidado Familiar
-240653,TOALLA PROBOLOCK MANZANILLA ALOE 100 UNDS,Cuidado del Bebé,Cuidado del Bebé
+240653,TOALLA PROBOLOCK MANZANILLA ALOE 100 UND,Cuidado del Bebé,Cuidado del Bebé
 240654,TOALLA PROBOLOCK MANZANILLA ALOE 50 UNDS,Cuidado del Bebé,Cuidado del Bebé
 240663,OLEO P/CABELLO DOVE BOND INTENSE 110 ML,Cuidado Personal,Cuidado del Cabello
 240666,PACK LOREAL MATIFICANTE 50 ML+  GEL  EQU,Cuidado Personal,Cuidado de la Piel
@@ -7682,6 +7685,7 @@ id_producto,producto,categoria,subcategoria
 240896,PACK 2 KOTEX PURE NOCT X16,Cuidado Personal,Cuidado Familiar
 240897,PACK HUGGIES NATURAL CARE HIPERPACK TALL,Cuidado del Bebé,Pañales
 240898,PANOS HUMEDOS PEQUENIN AVENA 6X80,Cuidado del Bebé,Cuidado del Bebé
+240900,ACIDO GLICOLICO GEL LIMPIADOR,Cuidado Personal,Cuidado de la Piel
 240970,Chocolate Lindt Excellence Dark 100 Cacao 100 gr,Abarrotes,Chocolates y Caramelos
 241172,Mantequilla de Ajo Santa Helena 100 gr,Lácteos y Derivados,Mantequillas y Margarinas
 241300,Queso Criollo Flor de Leche Prensado 250 gr,Lácteos y Derivados,Quesos
@@ -10877,13 +10881,13 @@ id_producto,producto,categoria,subcategoria
 462161,BYPHASSE CREMA DE MANOS NUTRITIVA 150ML,Cuidado Personal,Cuidado de la Piel
 462162,BYPHASSE CREMA DE MANOS UREA ULTRA HIDRA,Cuidado Personal,Cuidado de la Piel
 462163,BYPHASSE CREMA DE MANOS REPARADORA Q10 1,Cuidado Personal,Cuidado de la Piel
-462193,TOALLA HUMEDA PROBLOCK BABY WIPES 100 UNID,Cuidado del Bebé,Cuidado del Bebé
-462194,TOALLAS HUMEDAS PROBLOCK BABY WIPES 50 UNID,Cuidado del Bebé,Cuidado del Bebé
+462193,TOALLA HUMEDA PROBLOCK BABY WIPES 100 UN,Cuidado del Bebé,Cuidado del Bebé
+462194,TOALLAS HUMEDAS PROBLOCK BABY WIPES 50 U,Cuidado del Bebé,Cuidado del Bebé
 462195,Vinagre Sakura Uva 1000 cc,Abarrotes,Básicos
 462196,TOALLA HUMEDA PROBLOCK ALOE 100 UNID,Cuidado del Bebé,Cuidado del Bebé
 462197,TOALLAS HUMEDAS PROBLOCK ALOE 50 UNID,Cuidado del Bebé,Cuidado del Bebé
-462199,TOALLAS HUMEDAS PROBLOCK ANTIBACTERIAL 100 UNID,Cuidado del Bebé,Cuidado del Bebé
-462200,TOALLAS HUMEDAS PROBLOCK ANTIBACTERIAL 10 UNID,Cuidado del Bebé,Cuidado del Bebé
+462199,TOALLAS HUMEDAS PROBLOCK ANTIBACTERIAL 1,Cuidado del Bebé,Cuidado del Bebé
+462200,TOALLAS HUMEDAS PROBLOCK ANTIBACTERIAL 1,Cuidado del Bebé,Cuidado del Bebé
 462233,Vinagre Doña Filo Tinto 500 ml,Abarrotes,Básicos
 462241,Vinagre Sakura Alchohol 1 L,Abarrotes,Básicos
 462250,Vinagre Sakura Alcohol 500 ml,Abarrotes,Básicos
@@ -13290,6 +13294,7 @@ id_producto,producto,categoria,subcategoria
 553087,"SALSA CELINDA REPOST FRUTILLA 1,3KG",Abarrotes,Repostería
 553088,"SALSA CELINDA DULCE D LECHE 1,3KG",Abarrotes,Repostería
 553089,PIPOCAS DE MAIZ PIPOSAL MANTEQUILLA 170,Abarrotes,Snack
+553090,VINO TINTO OPORTO JUAN DIABLO 750 ML,Bebidas,Vinos y Champagne
 553091,VINO LUZ LUNA ROSE JUAN DIABLO 750 ML,Bebidas,Vinos y Champagne
 553092,VINO ROSE JUAN DIABLO 750 ML,Bebidas,Vinos y Champagne
 553093,PACK 6 VINO ESPUIMANTE BURBUSHHH 300 ML,Bebidas,Vinos y Champagne
@@ -13299,12 +13304,14 @@ id_producto,producto,categoria,subcategoria
 553099,ARROZ NELSON WENDT PARBOLIZADO 1 KG,Abarrotes,Productos Americanos
 553103,GASEOSA ORIENTAL PAPAYA 1L,Bebidas,Gaseosas
 553104,SINGANI HUELLA ART 750ML.,Bebidas,Licores
-553105,PACK 6X5 POWERADE CITRUS PASSION FRUIT 9,Bebidas,Isotónicos
+553105,PACK POWERADE CITRUS P FRUIT 990ML 6X5,Bebidas,Isotónicos
 553106,PACK 2POWERADE MORA CITRUS 990ML,Bebidas,Isotónicos
 553107,PACK 2 SUEROX FRUTOS ROJOS TROP 630ML,Bebidas,Isotónicos
 553108,PACK 2 SUEROX UVA 630ML,Bebidas,Isotónicos
 553109,PACK 3 MIX BEBIDA SENSS 355 ML,Bebidas,Licores
+553112,PACK 2POWERADE MORA CITRUS 473ML,Bebidas,Isotónicos
 553113,GIN INSURGENTE FRUTOS DEL BOSQUE 700 ML,Bebidas,Licores
+553114,GOMITA PLAY PULPO 55GR,Abarrotes,Golosinas - Varias
 553118,GALLETA COLOMBINA CHOCO MUUU 204 GR,Abarrotes,Galletas
 553119,WAFER COLOMBINA CHOCOLATE 288G,Abarrotes,Galletas
 553120,WAFER COLOMBINA VAINILLA 288G,Abarrotes,Galletas
@@ -19404,6 +19411,7 @@ id_producto,producto,categoria,subcategoria
 762130,Tortillas Mexican Food de Trigo 12 un,Congelados,Masas y Comidas Congeladas
 762135,CUNAPE DE ALMIDON I.DAVIEDS BOLITA 200 GRS.ZIPPER,Pastelería y Masas Típicas,Masas Típicas Externas
 762236,CUNAPE DE ARROZ I.DAVIEDS 200 GRS. ZIPPER,Pastelería y Masas Típicas,Masas Típicas Externas
+762248,YOGURT BEB.PROBIOT PAPAYA 2 LT.FRIEDLAND,Lácteos y Derivados,Yogures
 762314,QUESO MUZZARELLA KOSLAY KG.,Lácteos y Derivados,Quesos
 762337,"CUNAPE DE MAIZ I,DAVIEDS 200 GRS.ZIPPER",Pastelería y Masas Típicas,Masas Típicas Externas
 762349,YOGURT BEB.NATURAL S/AZUCAR 2 LT.FRIEDLAND,Lácteos y Derivados,Yogures
