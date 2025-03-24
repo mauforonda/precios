@@ -1559,6 +1559,8 @@ id_producto,producto,categoria,subcategoria
 25016,HUEVO LINDT SURTIDO 180G,Abarrotes,Temporada
 25017,HUEVITOS COFLER BLOCK BSA 78G,Abarrotes,Temporada
 25018,GALLETA  LIGERA LA SUPREMA 240G,Abarrotes,Galletas
+25019,CERVEZA PROST PREMIUM LAGER LTA 310ML,Bebidas,Cervezas
+25024,MANI CON CARAMELO MANITOBA DP 110G,Abarrotes,Snack
 25025,GALLETA FRAC BI CHOCO FRUTILLA 110 G,Abarrotes,Galletas
 25030,PACK 3 VINO TINTO KOHLBERG,Bebidas,Vinos y Champagne
 25032,"PACK SKITTLES ORIGINAL 2X61,5G",Abarrotes,Golosinas - Varias
@@ -5287,6 +5289,7 @@ id_producto,producto,categoria,subcategoria
 120569,TOALLA HUMEDA MAMI 100 UNDS,Cuidado del Bebé,Cuidado del Bebé
 120573,PASTA DENTAL OB P KIDS MICKEY-MINNIE 37M,Cuidado del Bebé,Kids
 120574,Pañales Pampers Confortsec XXG 24 un,Cuidado del Bebé,Pañales
+120577,PANO TOALLA SECADOR LUCKY SURTIDO,Cuidado del Hogar,Productos Americanos
 120579,VASELINA SOLIDA POMADA NOSTAS FRASCO 100,Cuidado Personal,Cuidado de la Piel
 120580,Pack Tinte Casting Tono 400 + Cepillo,Cuidado Personal,Cuidado del Cabello
 120581,Pack Tinte Casting Tono 300 + Cepillo,Cuidado Personal,Cuidado del Cabello
@@ -7760,11 +7763,13 @@ id_producto,producto,categoria,subcategoria
 249029,SUAVIZANTE DOWNY EXOTICO 700ML,Cuidado del Hogar,Limpieza de la Ropa
 249031,SUAVIZANTE DOWNY EXOTICO 2800ML,Cuidado del Hogar,Limpieza de la Ropa
 249032,SUAVIZANTE DOWNY AMANECER 700ML,Cuidado del Hogar,Limpieza de la Ropa
+249052,TALCO PORTUGAL BEBE ZINC 250,Cuidado del Bebé,Cuidado del Bebé
 249058,GEL FIJADOR SUPER FIX  275G,Cuidado Personal,Cuidado del Cabello
 249319,Licor Cusenier Menta 700 ml,Bebidas,Licores
 249394,Licor de Café Cusenier 700 ml,Bebidas,Licores
 249793,Cotonetes Johnsons Caja 300 un,Cuidado del Bebé,Cuidado del Bebé
 249807,Protector Solar Sundown Playa Piscina 50fps 120 ml,Cuidado Personal,Cuidado de la Piel
+249859,GEL FIJADOR SUPER FIX MUJER 275G,Cuidado Personal,Cuidado del Cabello
 249903,BOLSA COLOR XGRANDE PC 90X110 CM,Cuidado del Hogar,Accesorios del Hogar
 249971,Mortadela Balleron Tipo Suizo Hipermaxi kg,Fiambres,Fiambres Hipermaxi
 249998,Carne Ahumada de Res Tipo Suizo Hipermaxi al Vacio Kg,Fiambres,Fiambres Hipermaxi
@@ -10893,6 +10898,7 @@ id_producto,producto,categoria,subcategoria
 462250,Vinagre Sakura Alcohol 500 ml,Abarrotes,Básicos
 462341,LIPSTICK NATURAL FPS 30 TUBO X 5GR,Cuidado Personal,Cuidado de la Piel
 462383,DR.SELBY PROTECTOR LABIAL HIDRATANTE X5.,Cuidado Personal,Cuidado de la Piel
+462435,REPELENTE FLORESTA KIDS SPRAY 7.5% X 120 ML,Cuidado Personal,Cuidado de la Piel
 462522,Insecticida Killer Mosca Mosquito Azul 360 cm,Cuidado del Hogar,Insecticidas
 462721,Bitter Amargo Centenario 1 L,Bebidas,Bebidas Varias
 462981,Castaña Caju Maya 250 gr,Abarrotes,Snack
@@ -12002,6 +12008,7 @@ id_producto,producto,categoria,subcategoria
 550767,Sopa Instantanea Cup Noodles Cheddar Vaso 69 gr,Abarrotes,Básicos
 550768,Sopa Instantanea Nissin Ramen Pollo Picante 85 gr,Abarrotes,Básicos
 550773,Cereal Kelloggs Krave Chocolate 323 gr,Abarrotes,Productos Americanos
+550777,BEBIDA LISTA MOJITO URBANO PET 2L,Bebidas,Licores
 550781,Cerveza Madera Kolsch 330 ml,Bebidas,Cervezas
 550782,Cerveza Madera Verano Weisen 330 ml,Bebidas,Cervezas
 550783,Cerveza Madera Kalor Gose 330 ml,Bebidas,Cervezas
@@ -13106,7 +13113,7 @@ id_producto,producto,categoria,subcategoria
 552848,PACK 12 HUARI LAGER LTA 440 ML,Bebidas,Cervezas
 552849,GASEOSA ORIENTAL NARANJA 3LT,Bebidas,Gaseosas
 552850,PAN MOLDE SAN GABRIEL MASA MADRE 650 GR,Panadería,Panadería Externa
-552851,GIN DRY GEORG FORSTER 375 ML,Bebidas,Licores
+552851,GIN DRY GEORG FORSTER 500 ML,Bebidas,Licores
 552852,GIN DRY AZUL GEROG FORSTER 375 ML,Bebidas,Licores
 552853,RON CARTA BLANCA CAPITAN CORTEZ 965 ML,Bebidas,Licores
 552854,PAN PANISIMO SARNITA 12 UN,Panadería,Panadería Externa
@@ -13206,6 +13213,7 @@ id_producto,producto,categoria,subcategoria
 552977,CAFE IGUAZU POLVO TRAD  POUCH 40 GR,Abarrotes,Café y Sucedáneos
 552978,SAZONADOR MCFOOD BASE P/FRICASE 100 GR,Abarrotes,Básicos
 552980,KIT PAELLA CARMENCITA ARROZ NEGRO 265 GR,Abarrotes,Básicos
+552981,KIT PAELLA CARMENCITA VERDURA 266 GR,Abarrotes,Básicos
 552982,KIT PAELLA CARMENCITA MARISCOS 265 GR,Abarrotes,Básicos
 552983,KIT PAELLA CARMENCITA C ARROZ NEGRO 265G,Abarrotes,Básicos
 552984,KIT PAELLA CARMENCITA VERDURA + PAELLERA,Abarrotes,Básicos
@@ -18616,6 +18624,7 @@ id_producto,producto,categoria,subcategoria
 674366,QUESO AZUL NESKRAFT KILOGRAMO,Lácteos y Derivados,Quesos
 674367,QUESO UNTABLE CHEDDAR NESKRAFT SACHET 150GRS,Lácteos y Derivados,Quesos
 674368,SACHET TRADICION CHICHA MORADA DELIZIA 150ML,Bebidas,"Jugos, Néctar"
+674369,GALLETA DULCE TARTALETA MAMINA 250GRS,Pastelería y Masas Típicas,Pastelería Externa
 674370,PACK CARNAVALERO OSFIM CHORIZO AHUMADO 1KGR,Fiambres,Fiambres Externos
 674371,CHORIZO AHUMADO A GRANEL OSFIM KILOGRAMO,Fiambres,Fiambres Externos
 674384,LECHE DE CHOCOLATE PIL BOLSA 800ML,Lácteos y Derivados,Leches
@@ -19364,6 +19373,7 @@ id_producto,producto,categoria,subcategoria
 742631,Pan 5 Semillas Dulce Hogar 1 kg,Panadería,Panadería Externa
 742712,Pan Vollkornbrot Dulce Hogar 500 gr,Panadería,Panadería Externa
 742967,Pan Corteza Dulce Hogar 600 gr,Panadería,Panadería Externa
+743213,Bizcocho San Javier de Arroz Sabor Tradicional 200 gr,Pastelería y Masas Típicas,Masas Típicas Externas
 743269,Chorizo Tradicion Hipermaxi kg,Fiambres,Fiambres Hipermaxi
 743413,Pan con Uva Pasas Dulce Hogar un,Panadería,Panadería Externa
 743523,HELADO DIET FRUTILLA VACA FRIA 400 ML.,Congelados,"Helados, Cassattas y Picoleses"
