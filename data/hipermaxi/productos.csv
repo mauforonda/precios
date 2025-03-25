@@ -1517,6 +1517,7 @@ id_producto,producto,categoria,subcategoria
 24138,"HIDRATANTE ELIXIR BERRY PET 1,1 LT",Bebidas,Isotónicos
 24140,"Hidratante Elixir Arandano  1,1 lt",Bebidas,Isotónicos
 24141,"HIDRATANTE ELIXIR MANGO ZERO 1,1LT",Bebidas,Isotónicos
+24145,CHOCOLATE GRAGEAS VIZZIO MIX 122G,Abarrotes,Chocolates y Caramelos
 24146,SNACK SUPER TOSTI PICANTE EXTREMO 95G,Abarrotes,Snack
 24148,SNACK SUPER TOSTI SABOR TOCINO 95G,Abarrotes,Snack
 24149,SNACK SUPER TOSTI SABOR QUESO 95G,Abarrotes,Snack
@@ -1562,9 +1563,11 @@ id_producto,producto,categoria,subcategoria
 25019,CERVEZA PROST PREMIUM LAGER LTA 310ML,Bebidas,Cervezas
 25024,MANI CON CARAMELO MANITOBA DP 110G,Abarrotes,Snack
 25025,GALLETA FRAC BI CHOCO FRUTILLA 110 G,Abarrotes,Galletas
+25026,GOMITAS AMBROSOLI FRERICAS 90G,Abarrotes,Golosinas - Varias
 25030,PACK 3 VINO TINTO KOHLBERG,Bebidas,Vinos y Champagne
 25032,"PACK SKITTLES ORIGINAL 2X61,5G",Abarrotes,Golosinas - Varias
 25033,"PACK  SKITTLES WILD BERRY 2X61,5G",Abarrotes,Golosinas - Varias
+25035,CHUPETE YOGUETA KOLA BSA 360G,Abarrotes,Chocolates y Caramelos
 25640,Surtido de Mariscos Robinson Crusoe Natural 190 gr,Abarrotes,Comidas en Conserva
 25771,Huevos Caisy 12 un,Lácteos y Derivados,Huevos
 25789,Galleta Rocklets Chocolate 118 gr,Abarrotes,Galletas
@@ -7682,6 +7685,7 @@ id_producto,producto,categoria,subcategoria
 240853,CLASSIC SHAMPOO MANZANILLA 950ML.,Cuidado Personal,Cuidado del Cabello
 240855,PACK ELVIVE SH YACONDC GLYCOLIC  370 ML,Cuidado Personal,Cuidado del Cabello
 240856,PACK SH Y  ACO ELVIVE  HIALURONICO PURE,Cuidado Personal,Cuidado del Cabello
+240860,PACK 3M ESPONJAX4 Y TENEDOR NEGRO,Cuidado del Hogar,Accesorios del Hogar
 240863,NEUTROGENA SUN FRES HB50 COL 2 6X40ML,Cuidado Personal,Cuidado de la Piel
 240864,NEUTROGENA SUN FRES HB50 S COL 6X40ML,Cuidado Personal,Cuidado de la Piel
 240890,My Toffee Coco 600 gr,Abarrotes,Chocolates y Caramelos
@@ -13096,6 +13100,7 @@ id_producto,producto,categoria,subcategoria
 552822,VINO BCO APALTAGUA ESTATE SELECTION SB 7,Bebidas,Vinos y Champagne
 552823,VINO PUESTO D MARQUEZ MALBEC 750ML,Bebidas,Vinos y Champagne
 552824,VINO PUESTO D MARQUES CABERNET SAUV 750M,Bebidas,Vinos y Champagne
+552825,VINO TINTO PUENTE AUSTRAL CAB SAUV 750ML,Bebidas,Vinos y Champagne
 552826,VINO TINTO PUENTE AUSTRAL CARMENERE 750M,Bebidas,Vinos y Champagne
 552828,VINO APALTAGUA RESERVA SYRAH 750 ML,Bebidas,Vinos y Champagne
 552829,VINO APALTAGUA RESERVA PINOT NOIR 750 ML,Bebidas,Vinos y Champagne
@@ -13317,6 +13322,7 @@ id_producto,producto,categoria,subcategoria
 553107,PACK 2 SUEROX FRUTOS ROJOS TROP 630ML,Bebidas,Isotónicos
 553108,PACK 2 SUEROX UVA 630ML,Bebidas,Isotónicos
 553109,PACK 3 MIX BEBIDA SENSS 355 ML,Bebidas,Licores
+553111,BEBIDA MAMBO SELTZER MARACUYA 5P 355ML,Bebidas,Licores
 553112,PACK 2POWERADE MORA CITRUS 473ML,Bebidas,Isotónicos
 553113,GIN INSURGENTE FRUTOS DEL BOSQUE 700 ML,Bebidas,Licores
 553114,GOMITA PLAY PULPO 55GR,Abarrotes,Golosinas - Varias
@@ -13333,6 +13339,7 @@ id_producto,producto,categoria,subcategoria
 553146,FREJOL ROJO MI SUCO BOLSA DE 455 GR,Abarrotes,Condimentos y Legumbres
 553147,MANI PELADO MI SUCO BOLSA DE 455 GR,Abarrotes,Condimentos y Legumbres
 553148,FREJOL NEGRO MI SUCO BOLSA  DE 455 GR,Abarrotes,Condimentos y Legumbres
+553150,MAIZ PARA PIPOCA MI SUCO BSA 455 GR,Abarrotes,Snack
 553152,FREJOL ROJO MI SUCO BOLSA 1KG,Abarrotes,Condimentos y Legumbres
 553153,LENTEJA MI SUCO  BOLSA 1 KG,Abarrotes,Condimentos y Legumbres
 554333,Cerveza Paceña Lata Roja 473 Cc,Bebidas,Cervezas
@@ -18628,6 +18635,7 @@ id_producto,producto,categoria,subcategoria
 674370,PACK CARNAVALERO OSFIM CHORIZO AHUMADO 1KGR,Fiambres,Fiambres Externos
 674371,CHORIZO AHUMADO A GRANEL OSFIM KILOGRAMO,Fiambres,Fiambres Externos
 674384,LECHE DE CHOCOLATE PIL BOLSA 800ML,Lácteos y Derivados,Leches
+674385,MUFFIN CON RELLENO ARANDANOS,Pastelería y Masas Típicas,Pastelería Externa
 674397,MINI TORTA CAFFE LATTE DELIZIA 850ML,Congelados,"Helados, Cassattas y Picoleses"
 675245,Miel de Abeja Eva Promiel 250 gr,Abarrotes,"Mermel, Mieles"
 676113,Habanito Bits Cream Coojies Cream 120 gr,Congelados,"Helados, Cassattas y Picoleses"
