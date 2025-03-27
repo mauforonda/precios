@@ -1523,6 +1523,7 @@ id_producto,producto,categoria,subcategoria
 24148,SNACK SUPER TOSTI SABOR TOCINO 95G,Abarrotes,Snack
 24149,SNACK SUPER TOSTI SABOR QUESO 95G,Abarrotes,Snack
 24150,SNACK SUPER TOSTI COSTILLITAS LIMON PIC,Abarrotes,Snack
+24152,ACEITE D PALTA BOTANICA 250 ML,Abarrotes,Básicos
 24159,VAPE WAKA DIAMOND CHERRY ICE 3P 1000 P,Bebidas,Cigarrillos
 24160,VAPE WAKA DIAMON BLUEBERRY ICE 3P 1000 P,Bebidas,Cigarrillos
 24161,VAPE WAKA CREATOR ICY COCONUT 5P 12000 P,Bebidas,Cigarrillos
@@ -1556,6 +1557,7 @@ id_producto,producto,categoria,subcategoria
 25001,PACK 3MENTOS ROLL FRUTA FANTA FRESA,Abarrotes,Golosinas - Varias
 25002,Bebida Flow Nene Sunrise Lata 355 ml,Bebidas,Licores
 25004,SIXPACK CERVEZA POTOSINA 6X473ML,Bebidas,Cervezas
+25005,ALMIDON D YUCA ZAELI BSA 1KG,Abarrotes,Básicos
 25006,ECCO NESTLE DP 170G,Abarrotes,Café y Sucedáneos
 25009,PACK 2TRIVARIETAL C SOLANA 1MADERA EQ,Bebidas,Vinos y Champagne
 25010,CHIPS NATUREZA PINA DESHID BSA 50G,Abarrotes,Frutas en Conserva
@@ -1564,6 +1566,7 @@ id_producto,producto,categoria,subcategoria
 25017,HUEVITOS COFLER BLOCK BSA 78G,Abarrotes,Temporada
 25018,GALLETA  LIGERA LA SUPREMA 240G,Abarrotes,Galletas
 25019,CERVEZA PROST PREMIUM LAGER LTA 310ML,Bebidas,Cervezas
+25020,CERVEZA  PROST FREI 0P LTA 310ML,Bebidas,Cervezas
 25024,MANI CON CARAMELO MANITOBA DP 110G,Abarrotes,Snack
 25025,GALLETA FRAC BI CHOCO FRUTILLA 110 G,Abarrotes,Galletas
 25026,GOMITAS AMBROSOLI FRERICAS 90G,Abarrotes,Golosinas - Varias
@@ -6314,6 +6317,7 @@ id_producto,producto,categoria,subcategoria
 205976,Enjuague Bucal Listerine Cool Mint 250 ml,Cuidado Personal,Cuidado Bucal
 205981,Galleta La Suprema Ula Ula Leche 300 gr,Abarrotes,Galletas
 206578,Cereal Granix Copichoc 400 gr,Abarrotes,Nutrición Infantil
+206587,COMBO PASCUERO BREICK 230 G,Abarrotes,Temporada
 206718,Jugo Frussion Mandarina 3 L,Bebidas,"Jugos, Néctar"
 206779,Whisky Johnnie Walker Green Label 750 ml,Bebidas,Licores
 206782,Salsa Llajua La Propia 210 gr,Abarrotes,Aderezos
@@ -7698,6 +7702,7 @@ id_producto,producto,categoria,subcategoria
 240897,PACK HUGGIES NATURAL CARE HIPERPACK TALL,Cuidado del Bebé,Pañales
 240898,PANOS HUMEDOS PEQUENIN AVENA 6X80,Cuidado del Bebé,Cuidado del Bebé
 240900,ACIDO GLICOLICO GEL LIMPIADOR,Cuidado Personal,Cuidado de la Piel
+240901,ACIDO GLICOLICO SERUM 30 ML,Cuidado Personal,Cuidado de la Piel
 240970,Chocolate Lindt Excellence Dark 100 Cacao 100 gr,Abarrotes,Chocolates y Caramelos
 241172,Mantequilla de Ajo Santa Helena 100 gr,Lácteos y Derivados,Mantequillas y Margarinas
 241300,Queso Criollo Flor de Leche Prensado 250 gr,Lácteos y Derivados,Quesos
@@ -15876,6 +15881,8 @@ id_producto,producto,categoria,subcategoria
 658811,Pepinillo Yapa Agridulce Rodaja 300 gr,Abarrotes,Verduras en Conserva
 658812,Pepinillos Yapa Relish 320 gr,Abarrotes,Verduras en Conserva
 658813,Aji Yapa Picante Rodaja 220 gr,Abarrotes,Verduras en Conserva
+658826,Huevito Breick Chocolate 140 gr,Abarrotes,Temporada
+658827,Huevo Breick Leche 0 Azucar 140 gr,Abarrotes,Temporada
 658848,Harina La Suprema de Trigo 5 kg,Abarrotes,Básicos
 658861,Sangria La Mestiza Doypack 3 L,Bebidas,Vinos y Champagne
 658862,Chocolate Saltus 75 Cacao 44 gr,Abarrotes,Chocolates y Caramelos
@@ -16588,6 +16595,7 @@ id_producto,producto,categoria,subcategoria
 668025,Esmalte de Uña Carey 924 9 ml,Cuidado Personal,Cuidado de la Piel
 668026,Esmalte de Uña Carey Tono 915 9 ml,Cuidado Personal,Cuidado de la Piel
 668027,Esmalte de Uñas Carey Cartagena 756 9 ml,Cuidado Personal,Cuidado de la Piel
+668028,Esmalte de Uña Carey Tono 752 9 ml,Cuidado Personal,Cuidado de la Piel
 668029,Esmalte de Uña Carey Tono 750 9 ml,Cuidado Personal,Cuidado de la Piel
 668031,Esmalte de Uña Carey Tono 737 9 ml,Cuidado Personal,Cuidado de la Piel
 668032,Esmalte de Uña Carey 254 9 ml,Cuidado Personal,Cuidado de la Piel
@@ -17128,6 +17136,7 @@ id_producto,producto,categoria,subcategoria
 669237,DOWNY AMANECER 360ML X 12U,Cuidado del Hogar,Limpieza de la Ropa
 669239,PANAL MI BEBE XXXG 4 X 28 UNIDAD,Cuidado del Bebé,Pañales
 669275,LAVAVAJILLA LIMON BRISTAR DOYPACK 500ML,Cuidado del Hogar,Limpieza de Cocina
+669278,PACK DOWNY PASSION (2PZA) 750ML X 1U,Cuidado del Hogar,Limpieza de la Ropa
 669901,Pizza Hipermaxi Congelada Hawaiana 620 gr,Congelados,Masas y Comidas Congeladas
 669902,Pizza Hipermaxi Congelada Jamon Queso Light Masa Integral,Congelados,Masas y Comidas Congeladas
 669903,Pizza Hipermaxi Congelada Pepperoni 620 gr,Congelados,Masas y Comidas Congeladas
@@ -18373,6 +18382,7 @@ id_producto,producto,categoria,subcategoria
 673912,Nuggets Super Patitas Avena Amaranto Sofia,Congelados,Carnes Congeladas
 673913,Helado Delizia Tentacion Cheesecake,Congelados,"Helados, Cassattas y Picoleses"
 673915,Rollos de Canela Churquis Bakery 400 gr,Pastelería y Masas Típicas,Pastelería Externa
+673916,TORTA PENCO CHURQUIS BAKERY 400GRS,Pastelería y Masas Típicas,Pastelería Externa
 673924,Pulpa Congelada Pulpha Achachairu 200 gr,Congelados,Pulpas y Frutas Congeladas
 673925,Pulpa Congelada Pulpha Asai 200 gr,Congelados,Pulpas y Frutas Congeladas
 673926,ARROLLADO DE QUESO CON ARANDANOS LA MERCED UNI,Lácteos y Derivados,Quesos
@@ -18647,6 +18657,7 @@ id_producto,producto,categoria,subcategoria
 674384,LECHE DE CHOCOLATE PIL BOLSA 800ML,Lácteos y Derivados,Leches
 674385,MUFFIN CON RELLENO ARANDANOS,Pastelería y Masas Típicas,Pastelería Externa
 674397,MINI TORTA CAFFE LATTE DELIZIA 850ML,Congelados,"Helados, Cassattas y Picoleses"
+674400,POSTRE HELADO CAFE DE ALTURA DELIZIA 850ML,Congelados,"Helados, Cassattas y Picoleses"
 674401,JUGO PILFRUT MANZANA PET 2LT,Bebidas,"Jugos, Néctar"
 674402,JUGO PILFRUT DURAZNO PET 2LT,Bebidas,"Jugos, Néctar"
 675245,Miel de Abeja Eva Promiel 250 gr,Abarrotes,"Mermel, Mieles"
@@ -19181,6 +19192,9 @@ id_producto,producto,categoria,subcategoria
 690762,Licor Cusenier Blue Curacao 700 ml,Bebidas,Licores
 690846,Durazno Al Jugo Aconcagua 820 gr,Abarrotes,Frutas en Conserva
 690956,Cafe Copacabana 1 kg,Abarrotes,Café y Sucedáneos
+691011,CONEJO OREJ/GA BREICK(B) 105G,Abarrotes,Temporada
+691015,Conejito Breick Sentado 50 gr,Abarrotes,Temporada
+691018,Conejito Breick Parado 65 gr,Abarrotes,Temporada
 691019,Conejito Breick Saltarin 75 gr,Abarrotes,Temporada
 691022,Huevitos de Chocolate Breick 140 gr,Abarrotes,Temporada
 691092,Frijoles Bushs Vegetarian Baked 454 gr,Abarrotes,Productos Americanos
@@ -19874,7 +19888,9 @@ id_producto,producto,categoria,subcategoria
 784741,Cuñape Bolita La Tradicion Cruceña 120 gr,Pastelería y Masas Típicas,Masas Típicas Externas
 784748,Tortillas De Maiz Don Taco 12 un 300 gr,Congelados,Masas y Comidas Congeladas
 784750,Burrito Congelado Orale Guey Carnita de Cerdo Picante 250 gr,Congelados,Carnes Congeladas
+784751,YOGURT FAMILIAR MIX DELIZIA ZANAH/NARANJA 2 LTS. BOT.(Y),Lácteos y Derivados,Yogures
 784765,Burrito Congelado Orale Guey Carnita de Pollo 250 gr,Congelados,Carnes Congeladas
+784766,YOGURT FAMILIAR MIX ESPIN/MANZANA DELIZIA 2 LTS. BOT.(Y),Lácteos y Derivados,Yogures
 784769,Mini Hamburguesa Fridosa de Res 12 un,Congelados,Carnes Congeladas
 784779,Peperoni La Sierra al Vacio 600 gr,Fiambres,Fiambres Externos
 784821,Pavo Desmenuzado Sofia 170 gr,Fiambres,Fiambres Externos
