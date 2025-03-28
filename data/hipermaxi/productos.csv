@@ -627,6 +627,7 @@ id_producto,producto,categoria,subcategoria
 14295,Vino Espumante Salton Rose 750 ml,Bebidas,Vinos y Champagne
 14296,Gin Theros Red Fruits 1 L,Bebidas,Licores
 14297,Mix Fruta Liofilizada Kranch 50 gr,Abarrotes,Frutas en Conserva
+14298,Pack Vino Aranjuez Tannat 750 ml + 375 ml,Bebidas,Vinos y Champagne
 14299,Te Frutte Plan 21 Dias Ciruela 42 un,Abarrotes,Dietéticos y Saludables
 14300,Cereal Nestle Trix Marsmallos 300 gr,Abarrotes,Nutrición Infantil
 14301,Papa Capitan Cuac Original 140 gr,Abarrotes,Snack
@@ -6782,6 +6783,7 @@ id_producto,producto,categoria,subcategoria
 222894,Ambientador Aerosol Ola Aromatic Lavanda 300 ml,Cuidado del Hogar,Limpieza de Living y Ropero
 222896,Ambientador Aerosol Ola Aromatic Aer Pino 300 ml,Cuidado del Hogar,Limpieza de Living y Ropero
 222920,Lavandina Todo Brillo Original 2 L,Cuidado del Hogar,Limpieza de la Ropa
+222924,PANO TOALLA GAROTEX P,Cuidado del Hogar,Productos Americanos
 222927,Quitaesmalte Unik 110 ml,Cuidado Personal,Cuidado de la Piel
 222931,Suavizante Ropa Uno Caricias Brisa De Primavera 3 .6 L,Cuidado del Hogar,Limpieza de la Ropa
 222932,Suavizante Ropa Uno Caricias Azul Cielo 3.6 L,Cuidado del Hogar,Limpieza de la Ropa
@@ -7437,6 +7439,7 @@ id_producto,producto,categoria,subcategoria
 234042,POLVO MNY SUPERTAY FULL COVERAGE 220,Cuidado Personal,Cuidado de la Piel
 234043,BRILLO LIFTER GLOSS PLUMP MNY HOT CHILI,Cuidado Personal,Cuidado de la Piel
 234044,BRILLO LIFTER GLOSS PLUMP MNY PINK STING,Cuidado Personal,Cuidado de la Piel
+234046,LABIALVINYL INK UPBEAT 155,Cuidado Personal,Cuidado de la Piel
 234047,LABIALVINYL ROGUE 145,Cuidado Personal,Cuidado de la Piel
 234048,LABIALVINYL SULTRY 160,Cuidado Personal,Cuidado de la Piel
 234053,MASCARA CURVAS PERFECTAS 9 GR,Cuidado Personal,Cuidado de la Piel
@@ -7679,6 +7682,7 @@ id_producto,producto,categoria,subcategoria
 240822,DESTAPA CANERIA RESPLANDOR 1L,Cuidado del Hogar,Limpieza de Baños
 240827,LIMPIADOR MAXIBRILL LECHOSO LAVANDA 2 LT,Cuidado del Hogar,Limpieza de Living y Ropero
 240828,LIMPIADOR MAXIBRILL LAVANDA CREMOSO 5 LT,Cuidado del Hogar,Limpieza de Living y Ropero
+240829,LIMPIA PISO MAXIBRILL ARPEGE 5 LT,Cuidado del Hogar,Limpieza de Baños
 240835,DOCTOR CURE SIRENITA 50 UNDS,Cuidado Personal,Cuidado de la Piel
 240836,DOCTOR CURE TIBURON 50 UNDS,Cuidado Personal,Cuidado de la Piel
 240837,DOCTOR CURE POCOYO 50 UNDS,Cuidado Personal,Cuidado de la Piel
@@ -7765,6 +7769,7 @@ id_producto,producto,categoria,subcategoria
 249004,TOALLA HUMEDA MI BEBE 25 UNIDADES,Cuidado del Bebé,Cuidado del Bebé
 249005,PACK SH DOVE EXTREME + DEO,Cuidado Personal,Cuidado del Cabello
 249006,PACK SH DOVE SPORT + DEO,Cuidado Personal,Cuidado del Cabello
+249007,PACK SEDAL SH CERAMIDAS  340ML+CREMA P,Cuidado Personal,Cuidado del Cabello
 249008,PACK SEDAL SH CELULAS MADRE 6X2X340ML+CR,Cuidado Personal,Cuidado del Cabello
 249010,PACK SEDAL SH LISO 6X2X340ML+CR,Cuidado Personal,Cuidado del Cabello
 249011,CIF CREMA ROSA JAZMIN 12X750G,Cuidado del Hogar,Limpieza de Living y Ropero
@@ -11902,8 +11907,11 @@ id_producto,producto,categoria,subcategoria
 550490,Sopa de Trucha Titikaka 430 gr,Abarrotes,Comidas en Conserva
 550491,Galleta Frutigran Granix Avena Frutos Rojos 175 gr,Abarrotes,Galletas
 550492,Vino Luigi Bosca de Sangre Sabernet Franc 750 ml,Bebidas,Vinos y Champagne
+550496,Huevo Breick Pascua N3 30 gr,Abarrotes,Temporada
 550502,PALITOS PRETZEL CRIPS ORIGINAL 14 OZ,Abarrotes,Productos Americanos
 550513,Avena La Suprema Instantanea 400 gr,Abarrotes,Nutrición Infantil
+550514,Chocolate Breick Conejo Orejon 30 gr,Abarrotes,Temporada
+550517,CONEJO COLORES BREICK 15 GR,Abarrotes,Temporada
 550522,Charque Bloch de Trigo 400 gr,Abarrotes,Condimentos y Legumbres
 550524,Hojuela de Quinua Real Bol Fruit 250 gr,Abarrotes,Nutrición Infantil
 550525,Almendra Chocolate Bolivias Fruit,Abarrotes,Chocolates y Caramelos
@@ -12337,6 +12345,9 @@ id_producto,producto,categoria,subcategoria
 551456,Galleta Marilan Ring Leche 300 gr,Abarrotes,Galletas
 551458,Galleta Marilan Ring Coco 300 gr,Abarrotes,Galletas
 551459,Galleta Marilan Ring Chocolate 300 gr,Abarrotes,Galletas
+551467,CONEJITO CHOC LECHE BREICK BSA 20G,Abarrotes,Temporada
+551470,CONEJITO ALEGRIA CAFE BREICK BSA 30G,Abarrotes,Temporada
+551471,CONEJITO ALEGRIA COLORES BREICK BSA 30G,Abarrotes,Temporada
 551487,Pack 3x2 Cerveza Paulander Muncher Hell,Bebidas,Cervezas
 551489,Atun Real Lomito al Agua Pack 2 un 185 gr,Abarrotes,Comidas en Conserva
 551491,Pack Atun Real Lomito Agua y Aceite 185 gr,Abarrotes,Comidas en Conserva
@@ -13346,6 +13357,7 @@ id_producto,producto,categoria,subcategoria
 553123,GALLETA BRINKY VAINILLA 300 GR,Abarrotes,Galletas
 553127,CAFE ORANGE CUP GEISHA GRANO BSA 250 GR,Abarrotes,Café y Sucedáneos
 553131,Pack Windsor Dia Del Padre 35 gr,Abarrotes,Café y Sucedáneos
+553132,WHISKY BLACK STONE CJA 1LT,Bebidas,Licores
 553136,BOMBON LINDT SAL CARAMELO 200 GR,Abarrotes,Chocolates y Caramelos
 553140,PACK 12 CERVEZA GOLDEN LATA 440 ML,Bebidas,Cervezas
 553146,FREJOL ROJO MI SUCO BOLSA DE 455 GR,Abarrotes,Condimentos y Legumbres
@@ -17136,6 +17148,7 @@ id_producto,producto,categoria,subcategoria
 669237,DOWNY AMANECER 360ML X 12U,Cuidado del Hogar,Limpieza de la Ropa
 669239,PANAL MI BEBE XXXG 4 X 28 UNIDAD,Cuidado del Bebé,Pañales
 669275,LAVAVAJILLA LIMON BRISTAR DOYPACK 500ML,Cuidado del Hogar,Limpieza de Cocina
+669277,PACK DOWNY FLORAL (2PZA) 800ML X 1U,Cuidado del Hogar,Limpieza de la Ropa
 669278,PACK DOWNY PASSION (2PZA) 750ML X 1U,Cuidado del Hogar,Limpieza de la Ropa
 669901,Pizza Hipermaxi Congelada Hawaiana 620 gr,Congelados,Masas y Comidas Congeladas
 669902,Pizza Hipermaxi Congelada Jamon Queso Light Masa Integral,Congelados,Masas y Comidas Congeladas
@@ -17554,6 +17567,7 @@ id_producto,producto,categoria,subcategoria
 671705,Mortadela de Gallina Sofia kg,Fiambres,Fiambres Externos
 671714,Queso Azul Sancor kg,Lácteos y Derivados,Quesos
 671718,Yogurt Griego Delizia Sabor Mora 170 gr,Lácteos y Derivados,Yogures
+671719,YOGURT GRIEGO DELIZIA SABOR PINA 170 GRAMOS (Y),Lácteos y Derivados,Yogures
 671724,Morcilla Sofia al Vacio 5 un,Fiambres,Fiambres Externos
 671725,Chorizo Churrasqueo Sofia al Vacio 5 un,Fiambres,Fiambres Externos
 671726,Chorizo de Res Sofia al Vacio 5 un,Fiambres,Fiambres Externos
@@ -18658,8 +18672,8 @@ id_producto,producto,categoria,subcategoria
 674385,MUFFIN CON RELLENO ARANDANOS,Pastelería y Masas Típicas,Pastelería Externa
 674397,MINI TORTA CAFFE LATTE DELIZIA 850ML,Congelados,"Helados, Cassattas y Picoleses"
 674400,POSTRE HELADO CAFE DE ALTURA DELIZIA 850ML,Congelados,"Helados, Cassattas y Picoleses"
-674401,JUGO PILFRUT MANZANA PET 2LT,Bebidas,"Jugos, Néctar"
-674402,JUGO PILFRUT DURAZNO PET 2LT,Bebidas,"Jugos, Néctar"
+674401,Pilfrut Manzana 2 lt,Bebidas,"Jugos, Néctar"
+674402,Pilfrut Durazno 2 lt,Bebidas,"Jugos, Néctar"
 675245,Miel de Abeja Eva Promiel 250 gr,Abarrotes,"Mermel, Mieles"
 676113,Habanito Bits Cream Coojies Cream 120 gr,Congelados,"Helados, Cassattas y Picoleses"
 676115,HABANITO BITS CREAM DULCE DE LECHE 120GRS,Congelados,"Helados, Cassattas y Picoleses"
@@ -19197,6 +19211,7 @@ id_producto,producto,categoria,subcategoria
 691018,Conejito Breick Parado 65 gr,Abarrotes,Temporada
 691019,Conejito Breick Saltarin 75 gr,Abarrotes,Temporada
 691022,Huevitos de Chocolate Breick 140 gr,Abarrotes,Temporada
+691024,Huevo Breick Pascua N5 50 gr,Abarrotes,Temporada
 691092,Frijoles Bushs Vegetarian Baked 454 gr,Abarrotes,Productos Americanos
 691285,Leche Condensada Mococa 395 gr,Abarrotes,Nutrición Infantil
 691871,Galleta Francesa Nevadita Grande 140 gr,Abarrotes,Galletas
@@ -20318,7 +20333,7 @@ id_producto,producto,categoria,subcategoria
 793557,Jamon Sandwichero Sofia al Vacio 250 gr,Fiambres,Fiambres Externos
 793561,Mortadela de Pollo Sofia al Vacio 200 gr,Fiambres,Fiambres Externos
 793565,Jamon Light de Pollo Sofia Al Vacio 250gr,Fiambres,Fiambres Externos
-793573,Mortadela Primavera Sofia al Vacio 200 Grs,Fiambres,Fiambres Externos
+793573,Mortadela de Pollo al Vacío Sofía 200 gr,Fiambres,Fiambres Externos
 793582,Mortadela Jamonada Sofia al Vacio 200 gr,Fiambres,Fiambres Externos
 793596,Salchicha Frankfurt Extra Larga Sofia 720 gr,Fiambres,Fiambres Externos
 793686,Merengue Torta Helada Charlotte,Pastelería y Masas Típicas,Pastelería Externa
