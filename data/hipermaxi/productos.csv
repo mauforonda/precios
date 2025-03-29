@@ -368,8 +368,8 @@ id_producto,producto,categoria,subcategoria
 5840,CP HOJUELAS DE AVENA HIPERMAXI 400 G,Granos y Hortalizas,Fraccionados Hipermaxi
 5844,CP NUEZ PELADA HIPERMAXI 200 G,Granos y Hortalizas,Fraccionados Hipermaxi
 5845,Almendra Española Hipermaxi 300 gr,Granos y Hortalizas,Fraccionados Hipermaxi
-5846,CP ALMENDRA ENTERA HIPERMAXI 200 G,Granos y Hortalizas,Fraccionados Hipermaxi
-5848,CP UVAS PASAS HIPERMAXI 200 G,Granos y Hortalizas,Fraccionados Hipermaxi
+5846,Almendra Entera Hipermaxi 200 gr,Granos y Hortalizas,Fraccionados Hipermaxi
+5848,Uvas Pasas Hipermaxi 200 gr,Granos y Hortalizas,Fraccionados Hipermaxi
 5877,Tripack Brixy San Juan Pomos,Abarrotes,Temporada
 6715,Mostaza Taste Zero 350 gr,Abarrotes,Aderezos
 6716,Mayonesa Taste Zero 335 gr,Abarrotes,Aderezos
@@ -1525,6 +1525,7 @@ id_producto,producto,categoria,subcategoria
 24149,SNACK SUPER TOSTI SABOR QUESO 95G,Abarrotes,Snack
 24150,SNACK SUPER TOSTI COSTILLITAS LIMON PIC,Abarrotes,Snack
 24152,ACEITE D PALTA BOTANICA 250 ML,Abarrotes,Básicos
+24153,ACEITE D PALTA BOTANICA 500 ML,Abarrotes,Básicos
 24159,VAPE WAKA DIAMOND CHERRY ICE 3P 1000 P,Bebidas,Cigarrillos
 24160,VAPE WAKA DIAMON BLUEBERRY ICE 3P 1000 P,Bebidas,Cigarrillos
 24161,VAPE WAKA CREATOR ICY COCONUT 5P 12000 P,Bebidas,Cigarrillos
@@ -7344,7 +7345,7 @@ id_producto,producto,categoria,subcategoria
 230513,CREMA GOICOECHEA ARNICA 1LT,Cuidado Personal,Cuidado de la Piel
 230514,Jabon Barra Asepxia Esponja 80 gr,Cuidado Personal,Cuidado de la Piel
 230517,PANAL BABYSEC PREM.PPK GR 2X58,Cuidado del Bebé,Pañales
-230522,S/LIBRE ADAP PLUS 8,Cuidado Personal,Cuidado Familiar
+230522,Toallas Higienicas Siempre Libres Adapt Plus 8 Und,Cuidado Personal,Cuidado Familiar
 230523,PAPEL NACIONAL DH ECOMAX 6X48,Cuidado Personal,Cuidado Familiar
 230524,PAPEL NACIONAL DH ECOMAX 12X48,Cuidado Personal,Cuidado Familiar
 230525,BOLSA ULTRA RAYADA 60X80,Cuidado del Hogar,Accesorios del Hogar
@@ -10723,6 +10724,7 @@ id_producto,producto,categoria,subcategoria
 452390,Shampoo Medicasp Anticaspa 130 ml,Cuidado Personal,Cuidado del Cabello
 452419,PORTUGAL CREMA LECHUGA X55GR,Cuidado Personal,Cuidado de la Piel
 452420,JABON FLORESTA NATURAL X 80 GR,Cuidado Personal,Cuidado de la Piel
+452421,JAB.PORTUGAL FLORESTA ANTBACTERIAL 100M,Cuidado Personal,Cuidado de la Piel
 452423,JABON FLORESTA RUDA X 80 GR,Cuidado Personal,Cuidado de la Piel
 452425,JABON FLORESTA CONCHA D/NACAR X 80 GR,Cuidado Personal,Cuidado de la Piel
 452612,Shampoo Tio Nacho Herbolaria Milar 2 un 415 ml,Cuidado Personal,Cuidado del Cabello
@@ -11407,6 +11409,7 @@ id_producto,producto,categoria,subcategoria
 508802,Galleta Oreo Vainilla 216 gr,Abarrotes,Galletas
 508829,Galleta Chips Ahoy Nabisco 222 gr,Abarrotes,Galletas
 509000,Filete Pejerrey kg,Congelados,Carnes Congeladas
+509060,Mantequilla de Mani Red White Peanut 510 gr,Abarrotes,Productos Americanos
 509064,Lavandina Archer Blanqueador Desinfectante 950 ml,Cuidado del Hogar,Limpieza de la Ropa
 509083,Insecticida Sapolio Mata Todo 360 ml,Cuidado del Hogar,Insecticidas
 509084,Ambientador Automatico Sapolio Perfumatic Lavanda,Cuidado del Hogar,Limpieza de Living y Ropero
@@ -11911,6 +11914,7 @@ id_producto,producto,categoria,subcategoria
 550502,PALITOS PRETZEL CRIPS ORIGINAL 14 OZ,Abarrotes,Productos Americanos
 550513,Avena La Suprema Instantanea 400 gr,Abarrotes,Nutrición Infantil
 550514,Chocolate Breick Conejo Orejon 30 gr,Abarrotes,Temporada
+550516,Chocolate Breick Conejo 15 gr,Abarrotes,Temporada
 550517,CONEJO COLORES BREICK 15 GR,Abarrotes,Temporada
 550522,Charque Bloch de Trigo 400 gr,Abarrotes,Condimentos y Legumbres
 550524,Hojuela de Quinua Real Bol Fruit 250 gr,Abarrotes,Nutrición Infantil
@@ -12345,9 +12349,11 @@ id_producto,producto,categoria,subcategoria
 551456,Galleta Marilan Ring Leche 300 gr,Abarrotes,Galletas
 551458,Galleta Marilan Ring Coco 300 gr,Abarrotes,Galletas
 551459,Galleta Marilan Ring Chocolate 300 gr,Abarrotes,Galletas
+551460,CONEJITO JUNIOR PARADO BREICK BSA 50G,Abarrotes,Temporada
 551467,CONEJITO CHOC LECHE BREICK BSA 20G,Abarrotes,Temporada
 551470,CONEJITO ALEGRIA CAFE BREICK BSA 30G,Abarrotes,Temporada
 551471,CONEJITO ALEGRIA COLORES BREICK BSA 30G,Abarrotes,Temporada
+551485,Huevitos Breick Surtido 65 gr,Abarrotes,Temporada
 551487,Pack 3x2 Cerveza Paulander Muncher Hell,Bebidas,Cervezas
 551489,Atun Real Lomito al Agua Pack 2 un 185 gr,Abarrotes,Comidas en Conserva
 551491,Pack Atun Real Lomito Agua y Aceite 185 gr,Abarrotes,Comidas en Conserva
@@ -13359,7 +13365,9 @@ id_producto,producto,categoria,subcategoria
 553131,Pack Windsor Dia Del Padre 35 gr,Abarrotes,Café y Sucedáneos
 553132,WHISKY BLACK STONE CJA 1LT,Bebidas,Licores
 553136,BOMBON LINDT SAL CARAMELO 200 GR,Abarrotes,Chocolates y Caramelos
+553137,BOMBON LINDT PISTACHO 200 GR,Abarrotes,Chocolates y Caramelos
 553140,PACK 12 CERVEZA GOLDEN LATA 440 ML,Bebidas,Cervezas
+553144,PACK 2 VINO KOHLBERG SEMIDULCE,Bebidas,Vinos y Champagne
 553146,FREJOL ROJO MI SUCO BOLSA DE 455 GR,Abarrotes,Condimentos y Legumbres
 553147,MANI PELADO MI SUCO BOLSA DE 455 GR,Abarrotes,Condimentos y Legumbres
 553148,FREJOL NEGRO MI SUCO BOLSA  DE 455 GR,Abarrotes,Condimentos y Legumbres
@@ -16677,7 +16685,9 @@ id_producto,producto,categoria,subcategoria
 668139,LIP SMACKER CRAYOLA TRIO,Cuidado Personal,Cuidado de la Piel
 668140,LIP SMACKER CRAYOLA LIQUID,Cuidado Personal,Cuidado de la Piel
 668143,LIP SMACKER COCA COLA TRIO,Cuidado Personal,Cuidado de la Piel
+668145,LIP SMACKER STRAWBERRY STICK,Cuidado Personal,Cuidado de la Piel
 668146,LIP SMACKER WATERMELON STICK,Cuidado Personal,Cuidado de la Piel
+668150,LIP SMACKER BUNNY LIPPY PAL,Cuidado Personal,Cuidado de la Piel
 668152,LS PINK LEMONADE STICK,Cuidado Personal,Cuidado de la Piel
 668154,LS CHERRY COKE CUP,Cuidado Personal,Cuidado de la Piel
 668155,LIP SMACKER FANTA STRAWBERRY CUP,Cuidado Personal,Cuidado de la Piel
@@ -17237,6 +17247,7 @@ id_producto,producto,categoria,subcategoria
 670317,Strudel Victoria de Maracuya,Pastelería y Masas Típicas,Pastelería Externa
 670318,Cup Cakes Victoria 6 un,Pastelería y Masas Típicas,Pastelería Externa
 670348,Hamburguesa Prosana de Soya Queso,Congelados,Masas y Comidas Congeladas
+670353,HELADO DELIZIA PELAO 50ML,Congelados,"Helados, Cassattas y Picoleses"
 670354,IK PAPEL ALUMINIO 7.5 MT PLIEGO,Bazar,Articulos de Cocina
 670355,Budin Arcor Con Frutas 215 gr,Pastelería y Masas Típicas,Pastelería Externa
 670385,Helado Arcor Slice Frutilla Trozo Fruta 70 gr,Congelados,"Helados, Cassattas y Picoleses"
@@ -17715,7 +17726,7 @@ id_producto,producto,categoria,subcategoria
 672290,Papa Sofia Pre Fritas Tradicional 9 Mm 2500 gr,Congelados,Masas y Comidas Congeladas
 672291,Papa Sofia Pre Fritas Fast Food 7 Mm 2 kg,Congelados,Masas y Comidas Congeladas
 672292,Bandeja de Galletas de Avena Monkey,Pastelería y Masas Típicas,Pastelería Externa
-672293,Bandeja de Galletas Monkey Relleno de Limon,Pastelería y Masas Típicas,Pastelería Externa
+672293,Bandeja de Galletas Monkey Relleno de Limon,Abarrotes,Dietéticos y Saludables
 672294,Galleta Monkey de Chocolate con Chispas,Pastelería y Masas Típicas,Pastelería Externa
 672295,Alfajor Monkey Relleno de Dulce de Leche,Pastelería y Masas Típicas,Pastelería Externa
 672296,Yogurt Kream Piña 2 L,Lácteos y Derivados,Yogures
@@ -19206,12 +19217,16 @@ id_producto,producto,categoria,subcategoria
 690762,Licor Cusenier Blue Curacao 700 ml,Bebidas,Licores
 690846,Durazno Al Jugo Aconcagua 820 gr,Abarrotes,Frutas en Conserva
 690956,Cafe Copacabana 1 kg,Abarrotes,Café y Sucedáneos
+691010,CONEJO OREJ/GA BREICK(C)105G,Abarrotes,Temporada
 691011,CONEJO OREJ/GA BREICK(B) 105G,Abarrotes,Temporada
+691014,CONEJO SENTADO 1  BREICK 28G,Abarrotes,Temporada
 691015,Conejito Breick Sentado 50 gr,Abarrotes,Temporada
 691018,Conejito Breick Parado 65 gr,Abarrotes,Temporada
 691019,Conejito Breick Saltarin 75 gr,Abarrotes,Temporada
 691022,Huevitos de Chocolate Breick 140 gr,Abarrotes,Temporada
 691024,Huevo Breick Pascua N5 50 gr,Abarrotes,Temporada
+691026,Huevo Breick Pascua N7 120 gr,Abarrotes,Temporada
+691029,Huevo Breick Pascua N9 200 gr,Abarrotes,Temporada
 691092,Frijoles Bushs Vegetarian Baked 454 gr,Abarrotes,Productos Americanos
 691285,Leche Condensada Mococa 395 gr,Abarrotes,Nutrición Infantil
 691871,Galleta Francesa Nevadita Grande 140 gr,Abarrotes,Galletas
@@ -20331,7 +20346,7 @@ id_producto,producto,categoria,subcategoria
 793538,Salchicha Frankfurt Sofia al Vacio 370 gr,Fiambres,Fiambres Externos
 793539,Papa Pringles Sal Vinagre 158 gr,Abarrotes,Snack
 793557,Jamon Sandwichero Sofia al Vacio 250 gr,Fiambres,Fiambres Externos
-793561,Mortadela de Pollo Sofia al Vacio 200 gr,Fiambres,Fiambres Externos
+793561,Mortadela Primavera al Vacío Sofía 200 gr,Fiambres,Fiambres Externos
 793565,Jamon Light de Pollo Sofia Al Vacio 250gr,Fiambres,Fiambres Externos
 793573,Mortadela de Pollo al Vacío Sofía 200 gr,Fiambres,Fiambres Externos
 793582,Mortadela Jamonada Sofia al Vacio 200 gr,Fiambres,Fiambres Externos
