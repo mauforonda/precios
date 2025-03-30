@@ -1569,6 +1569,7 @@ id_producto,producto,categoria,subcategoria
 25018,GALLETA  LIGERA LA SUPREMA 240G,Abarrotes,Galletas
 25019,CERVEZA PROST PREMIUM LAGER LTA 310ML,Bebidas,Cervezas
 25020,CERVEZA  PROST FREI 0P LTA 310ML,Bebidas,Cervezas
+25021,CERVEZA PROST PREMIUM DUNKEL LTA 310ML,Bebidas,Cervezas
 25024,MANI CON CARAMELO MANITOBA DP 110G,Abarrotes,Snack
 25025,GALLETA FRAC BI CHOCO FRUTILLA 110 G,Abarrotes,Galletas
 25026,GOMITAS AMBROSOLI FRERICAS 90G,Abarrotes,Golosinas - Varias
@@ -7592,6 +7593,7 @@ id_producto,producto,categoria,subcategoria
 240682,NECESER BABARIA LUNARES RETINOL,Cuidado Personal,Cuidado de la Piel
 240683,AMBIENTADOR ROCIO ELAY PUEJ 360ML,Cuidado del Hogar,Limpieza de Living y Ropero
 240685,ALGABO JABON BABY 80GR,Cuidado del Bebé,Cuidado del Bebé
+240686,ALGABO SET CREMA Y COLONIA,Cuidado Personal,Cuidado de la Piel
 240687,ACONDIC SIMONDS MATIZADOR  410 ML,Cuidado Personal,Cuidado del Cabello
 240688,Shampoo Control Caspa Tio Nacho con Jalea Real y Propoleo 950 ml,Cuidado Personal,Cuidado del Cabello
 240689,TIO NACHO SH ANTICASPA 415ML,Cuidado Personal,Cuidado del Cabello
@@ -7776,13 +7778,15 @@ id_producto,producto,categoria,subcategoria
 249011,CIF CREMA ROSA JAZMIN 12X750G,Cuidado del Hogar,Limpieza de Living y Ropero
 249012,Cepillo Dental Colgate Carbon 360 Medio 2 Und,Cuidado Personal,Cuidado Bucal
 249013,DESODORANTE SPEDSTICK CLINICAL 70 GR MEN,Cuidado Personal,Cuidado de la Piel
-249014,DESODORANTE CLINICAL SPRRD STICK WOM 70 GR,Cuidado Personal,Cuidado de la Piel
+249014,DESODORANTE CLINICAL SPRRD STICK WOM 70,Cuidado Personal,Cuidado de la Piel
 249015,ESPONJA D/BANO UNO CON CORDON RF.8330,Cuidado del Hogar,Accesorios del Hogar
 249027,ACIDO GLICOLICO LOREAL CREM DIA 50 ML,Cuidado Personal,Cuidado de la Piel
 249028,SUAVIZANTE DOWNY AMANECER 2800ML,Cuidado del Hogar,Limpieza de la Ropa
 249029,SUAVIZANTE DOWNY EXOTICO 700ML,Cuidado del Hogar,Limpieza de la Ropa
 249031,SUAVIZANTE DOWNY EXOTICO 2800ML,Cuidado del Hogar,Limpieza de la Ropa
 249032,SUAVIZANTE DOWNY AMANECER 700ML,Cuidado del Hogar,Limpieza de la Ropa
+249046,COLONIA PORTUGAL BEBE 120 ML,Cuidado del Bebé,Cuidado del Bebé
+249047,CREMA PORTUGAL BEBE MANZANILLA 120 GR,Cuidado del Bebé,Cuidado del Bebé
 249052,TALCO PORTUGAL BEBE ZINC 250,Cuidado del Bebé,Cuidado del Bebé
 249058,GEL FIJADOR SUPER FIX  275G,Cuidado Personal,Cuidado del Cabello
 249319,Licor Cusenier Menta 700 ml,Bebidas,Licores
@@ -12381,6 +12385,7 @@ id_producto,producto,categoria,subcategoria
 551531,API BLANCO BLOCH 250 GR,Abarrotes,Café y Sucedáneos
 551532,CONEJO PASCUA BENNY CEIBO 250G,Abarrotes,Temporada
 551534,ZANAHORIA DINOVITOS PASCUA CEIBO 70 GR,Abarrotes,Temporada
+551535,ARDILLA CON NUEZ PASCUA CEIBO 42 GR,Abarrotes,Temporada
 551540,Chocolate Ceibo Pascua Conejo Benny 150 gr,Abarrotes,Temporada
 551542,Barra Multicereal Roquin 24 Unid,Abarrotes,Nutrición Infantil
 551543,Papa Chispy Chips Churrasco 300 gr,Abarrotes,Snack
@@ -13142,6 +13147,7 @@ id_producto,producto,categoria,subcategoria
 552836,PACK 3X2 HUEVO MRM X 6 UNID,Lácteos y Derivados,Huevos
 552838,VINO CUNE ROSADO LA BAILARINA 750ML,Bebidas,Vinos y Champagne
 552841,VINO NAVERAN ESPUMOSO BRUT NAT 750ML,Bebidas,Vinos y Champagne
+552842,VINO NAVERAN ESPUMOSO ROSE BRUT 750ML,Bebidas,Vinos y Champagne
 552846,GALLETAS COMI PET HIGADO DE POLLO 250 GR,Abarrotes,Mascotas
 552847,GALLETAS COMI PET PECHUGA DE POLLO 250 G,Abarrotes,Mascotas
 552848,PACK 12 HUARI LAGER LTA 440 ML,Bebidas,Cervezas
@@ -13157,6 +13163,7 @@ id_producto,producto,categoria,subcategoria
 552858,BOMBON LINDT LINDOR STUCHE LECHE 137 GR,Abarrotes,Chocolates y Caramelos
 552859,BOMBON SURT LINDT LINDOR ESTUCHE 137 GR,Abarrotes,Chocolates y Caramelos
 552860,GASEOSA RITZ NARANJA PINA 355 ML,Bebidas,Bebidas Usa
+552861,BUSHS BEST HOMESTYLE BAKED BEANS 1560 GR,Abarrotes,Productos Americanos
 552862,MIX NUECES MACADAMIA KIRKLAND 1130 GR,Abarrotes,Productos Americanos
 552863,SALSA PARA TACO OLDELPASO FCO 255 GR,Abarrotes,Productos Americanos
 552864,GASEOSA RITZ WATERMELON LTA 355 ML,Bebidas,Bebidas Usa
@@ -19911,6 +19918,7 @@ id_producto,producto,categoria,subcategoria
 784692,Bizcocho de Maiz Pan Hogar 100 gr,Pastelería y Masas Típicas,Masas Típicas Externas
 784706,Cuñape Rosca La Tradicion Cruceña 120 gr,Pastelería y Masas Típicas,Masas Típicas Externas
 784717,Burrito Congelado Orale Guey Chili de Pollo al Limon 250 gr,Congelados,Carnes Congeladas
+784719,YOGURT FAMILIAR MIX REMOLACH/FRUTAS DELIZIA 2 LTS.BOT.(Y),Lácteos y Derivados,Yogures
 784721,Burrito Congelado Orale Guey Chili con Carne Original 250 gr,Congelados,Carnes Congeladas
 784727,Helado Arcor Mogul Dientes 65 cc,Congelados,"Helados, Cassattas y Picoleses"
 784728,Pan Molde Don Bosco Dulce Hogar Centeno 500 gr,Panadería,Panadería Externa
@@ -20120,6 +20128,7 @@ id_producto,producto,categoria,subcategoria
 787437,Hamburguesa Degab Garbanzo Quinua 540 gr,Congelados,Masas y Comidas Congeladas
 787438,Yogurt Griego Mami Chachi Surtido Leche de Vaca 250 gr,Lácteos y Derivados,Yogures
 787442,Bimbo Grisines Finitos Salvado 100 gr,Panadería,Panadería Externa
+787458,PRE PIZZA GRANDE DENCKER PAN 255 GRS. UND.,Panadería,Panadería Externa
 787459,Cuñape Abizcochado Pan Hogar Picante 100 gr,Pastelería y Masas Típicas,Masas Típicas Externas
 787469,Mortadela de Gallina Sofia Kg,Fiambres,Fiambres Externos
 787473,Queso Guapurutu Montanez 250 gr,Lácteos y Derivados,Quesos
