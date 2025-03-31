@@ -1577,6 +1577,8 @@ id_producto,producto,categoria,subcategoria
 25032,"PACK SKITTLES ORIGINAL 2X61,5G",Abarrotes,Golosinas - Varias
 25033,"PACK  SKITTLES WILD BERRY 2X61,5G",Abarrotes,Golosinas - Varias
 25035,CHUPETE YOGUETA KOLA BSA 360G,Abarrotes,Chocolates y Caramelos
+25046,CERVEZA DUCAL LTA 269ML,Bebidas,Cervezas
+25050,NESCAFE TRADICION T ROJA FCO 160G,Abarrotes,Café y Sucedáneos
 25640,Surtido de Mariscos Robinson Crusoe Natural 190 gr,Abarrotes,Comidas en Conserva
 25771,Huevos Caisy 12 un,Lácteos y Derivados,Huevos
 25789,Galleta Rocklets Chocolate 118 gr,Abarrotes,Galletas
@@ -7787,6 +7789,7 @@ id_producto,producto,categoria,subcategoria
 249032,SUAVIZANTE DOWNY AMANECER 700ML,Cuidado del Hogar,Limpieza de la Ropa
 249046,COLONIA PORTUGAL BEBE 120 ML,Cuidado del Bebé,Cuidado del Bebé
 249047,CREMA PORTUGAL BEBE MANZANILLA 120 GR,Cuidado del Bebé,Cuidado del Bebé
+249049,SHAMPOO PORTUGAL BEBE ALOE 120 ML,Cuidado del Bebé,Cuidado del Bebé
 249052,TALCO PORTUGAL BEBE ZINC 250,Cuidado del Bebé,Cuidado del Bebé
 249058,GEL FIJADOR SUPER FIX  275G,Cuidado Personal,Cuidado del Cabello
 249319,Licor Cusenier Menta 700 ml,Bebidas,Licores
@@ -13369,6 +13372,7 @@ id_producto,producto,categoria,subcategoria
 553122,GALLETA BRINKY CHOCOLATE 300 GR,Abarrotes,Galletas
 553123,GALLETA BRINKY VAINILLA 300 GR,Abarrotes,Galletas
 553127,CAFE ORANGE CUP GEISHA GRANO BSA 250 GR,Abarrotes,Café y Sucedáneos
+553128,CAFE ORANGE CUP GEISHA MOLIDO BSA 250 GR,Abarrotes,Café y Sucedáneos
 553131,Pack Windsor Dia Del Padre 35 gr,Abarrotes,Café y Sucedáneos
 553132,WHISKY BLACK STONE CJA 1LT,Bebidas,Licores
 553136,BOMBON LINDT SAL CARAMELO 200 GR,Abarrotes,Chocolates y Caramelos
@@ -18494,6 +18498,7 @@ id_producto,producto,categoria,subcategoria
 674078,Queso Fresco Betzy 500 gr,Lácteos y Derivados,Quesos
 674079,Queso Fresco Betzy 250 gr,Lácteos y Derivados,Quesos
 674080,Requeson Betzy 500 gr,Lácteos y Derivados,Quesos
+674081,Requeson Betzy 250 gr,Lácteos y Derivados,Quesos
 674083,Leche Vegetal Impostor Milk Frutilla 946 ml,Lácteos y Derivados,Leches
 674084,Leche Vegetal Impostor Milk Banana 946 ml,Lácteos y Derivados,Leches
 674085,Leche Vegetal Impostor Milk Banana 140 ml,Lácteos y Derivados,Leches
@@ -18674,6 +18679,7 @@ id_producto,producto,categoria,subcategoria
 674347,QUESO DE MEZCLA TIERNO GOURMET CUNA,Lácteos y Derivados,Quesos
 674348,QUESO DE MEZCLA CURADO GOURMET CUNA 175GRS,Lácteos y Derivados,Quesos
 674349,POSTRE TRADICION CANELA-LECHE DELIZIA 200ML,Congelados,"Helados, Cassattas y Picoleses"
+674350,POSTRE TRADICION CANELA-COCO DELIZIA 200ML,Congelados,"Helados, Cassattas y Picoleses"
 674351,POSTRE TENTACION CANELA-MARACUYA DELIZIA 200ML,Congelados,"Helados, Cassattas y Picoleses"
 674360,MORTADELA CHICHARRON STEGE AL VACIO,Fiambres,Fiambres Externos
 674361,QUESO CRIOLLO TORITO AL VACIO,Fiambres,Fiambres Externos
@@ -19231,9 +19237,11 @@ id_producto,producto,categoria,subcategoria
 691018,Conejito Breick Parado 65 gr,Abarrotes,Temporada
 691019,Conejito Breick Saltarin 75 gr,Abarrotes,Temporada
 691022,Huevitos de Chocolate Breick 140 gr,Abarrotes,Temporada
+691023,Huevo Breick Pascua N4 40 gr,Abarrotes,Temporada
 691024,Huevo Breick Pascua N5 50 gr,Abarrotes,Temporada
 691026,Huevo Breick Pascua N7 120 gr,Abarrotes,Temporada
 691029,Huevo Breick Pascua N9 200 gr,Abarrotes,Temporada
+691030,HUEVO PASCUA N10 BREICK 300G,Abarrotes,Temporada
 691092,Frijoles Bushs Vegetarian Baked 454 gr,Abarrotes,Productos Americanos
 691285,Leche Condensada Mococa 395 gr,Abarrotes,Nutrición Infantil
 691871,Galleta Francesa Nevadita Grande 140 gr,Abarrotes,Galletas
@@ -19468,6 +19476,7 @@ id_producto,producto,categoria,subcategoria
 752417,NUGGETS DE PACU KG.PACUSITO VENTA AL PESO,Congelados,Carnes Congeladas
 760239,YOGURT BEB.COCO PROBIOT FRIEDLAND 1 LT.,Lácteos y Derivados,Yogures
 761062,Vino Viñas De Balbo Tinto 1125 ml,Bebidas,Vinos y Champagne
+761121,YOGURT BEB.PROBIOT DURAZNO FRIEDLAND 1 LT.,Lácteos y Derivados,Yogures
 761224,YOGURT BEB.PROBIOT FRUTILLA FRIEDLAND 1 LT.,Lácteos y Derivados,Yogures
 761252,PULPA CONG.FRUTAS Y VEGETALES DETOX X5 UNID.CELEBRE,Congelados,Pulpas y Frutas Congeladas
 761258,Porotos Hess Conserva 340 gr,Fiambres,Fiambres Externos
