@@ -1526,6 +1526,7 @@ id_producto,producto,categoria,subcategoria
 24150,SNACK SUPER TOSTI COSTILLITAS LIMON PIC,Abarrotes,Snack
 24152,ACEITE D PALTA BOTANICA 250 ML,Abarrotes,Básicos
 24153,ACEITE D PALTA BOTANICA 500 ML,Abarrotes,Básicos
+24154,CARNE D RES KARNICA LTA 240G,Abarrotes,Comidas en Conserva
 24159,VAPE WAKA DIAMOND CHERRY ICE 3P 1000 P,Bebidas,Cigarrillos
 24160,VAPE WAKA DIAMON BLUEBERRY ICE 3P 1000 P,Bebidas,Cigarrillos
 24161,VAPE WAKA CREATOR ICY COCONUT 5P 12000 P,Bebidas,Cigarrillos
@@ -1577,6 +1578,7 @@ id_producto,producto,categoria,subcategoria
 25032,"PACK SKITTLES ORIGINAL 2X61,5G",Abarrotes,Golosinas - Varias
 25033,"PACK  SKITTLES WILD BERRY 2X61,5G",Abarrotes,Golosinas - Varias
 25035,CHUPETE YOGUETA KOLA BSA 360G,Abarrotes,Chocolates y Caramelos
+25043,MEZCAL DON RAMON ESPADIN 750 ML,Bebidas,Licores
 25046,CERVEZA DUCAL LTA 269ML,Bebidas,Cervezas
 25050,NESCAFE TRADICION T ROJA FCO 160G,Abarrotes,Café y Sucedáneos
 25640,Surtido de Mariscos Robinson Crusoe Natural 190 gr,Abarrotes,Comidas en Conserva
@@ -2341,6 +2343,7 @@ id_producto,producto,categoria,subcategoria
 30895,Energizante Volt Dark 350 ml,Bebidas,Energizantes
 30897,Salsa Pomarola Molitalia Clasica 290 gr,Abarrotes,Salsas y Extracto de Tomate
 30898,Salsa Pomarola Molitalia Clasica 145 gr,Abarrotes,Salsas y Extracto de Tomate
+30900,Snack Alpha Bofe Banana Liofilizado 25 gr,Abarrotes,Mascotas
 30901,Pack 2 Galletas Chip Ahoy + Oreo Tubo,Abarrotes,Galletas
 30902,Pack 2 Galletas Oreo + Sandwichera,Abarrotes,Galletas
 30909,Bebida Contini Ice Guarana 275 ml,Bebidas,Licores
@@ -10926,6 +10929,7 @@ id_producto,producto,categoria,subcategoria
 462250,Vinagre Sakura Alcohol 500 ml,Abarrotes,Básicos
 462341,LIPSTICK NATURAL FPS 30 TUBO X 5GR,Cuidado Personal,Cuidado de la Piel
 462383,DR.SELBY PROTECTOR LABIAL HIDRATANTE X5.,Cuidado Personal,Cuidado de la Piel
+462385,DR.SELBY PROTECTOR LABIAL ANTI OXIDANTE,Cuidado Personal,Cuidado de la Piel
 462435,REPELENTE FLORESTA KIDS SPRAY 7.5% X 120 ML,Cuidado Personal,Cuidado de la Piel
 462522,Insecticida Killer Mosca Mosquito Azul 360 cm,Cuidado del Hogar,Insecticidas
 462721,Bitter Amargo Centenario 1 L,Bebidas,Bebidas Varias
@@ -11923,6 +11927,7 @@ id_producto,producto,categoria,subcategoria
 550514,Chocolate Breick Conejo Orejon 30 gr,Abarrotes,Temporada
 550516,Chocolate Breick Conejo 15 gr,Abarrotes,Temporada
 550517,CONEJO COLORES BREICK 15 GR,Abarrotes,Temporada
+550519,Chocolate Breick Conejo 12 gr,Abarrotes,Temporada
 550522,Charque Bloch de Trigo 400 gr,Abarrotes,Condimentos y Legumbres
 550524,Hojuela de Quinua Real Bol Fruit 250 gr,Abarrotes,Nutrición Infantil
 550525,Almendra Chocolate Bolivias Fruit,Abarrotes,Chocolates y Caramelos
@@ -13375,6 +13380,8 @@ id_producto,producto,categoria,subcategoria
 553128,CAFE ORANGE CUP GEISHA MOLIDO BSA 250 GR,Abarrotes,Café y Sucedáneos
 553131,Pack Windsor Dia Del Padre 35 gr,Abarrotes,Café y Sucedáneos
 553132,WHISKY BLACK STONE CJA 1LT,Bebidas,Licores
+553134,ALOE VERA OTRO MUNDO NATURAL 500 ML,Bebidas,Bebidas Varias
+553135,ALOE VERA OTRO MUNDO PINA 500 ML,Bebidas,Bebidas Varias
 553136,BOMBON LINDT SAL CARAMELO 200 GR,Abarrotes,Chocolates y Caramelos
 553137,BOMBON LINDT PISTACHO 200 GR,Abarrotes,Chocolates y Caramelos
 553140,PACK 12 CERVEZA GOLDEN LATA 440 ML,Bebidas,Cervezas
@@ -19500,6 +19507,7 @@ id_producto,producto,categoria,subcategoria
 762046,YOGURT BEB.PROBIOT DURAZNO 2 LT.FRIEDLAND,Lácteos y Derivados,Yogures
 762130,Tortillas Mexican Food de Trigo 12 un,Congelados,Masas y Comidas Congeladas
 762135,CUNAPE DE ALMIDON I.DAVIEDS BOLITA 200 GRS.ZIPPER,Pastelería y Masas Típicas,Masas Típicas Externas
+762147,YOGURT BEB.PROBIOT FRUTILLA 2 LT.FRIEDLAND,Lácteos y Derivados,Yogures
 762236,CUNAPE DE ARROZ I.DAVIEDS 200 GRS. ZIPPER,Pastelería y Masas Típicas,Masas Típicas Externas
 762248,YOGURT BEB.PROBIOT PAPAYA 2 LT.FRIEDLAND,Lácteos y Derivados,Yogures
 762314,QUESO MUZZARELLA KOSLAY KG.,Lácteos y Derivados,Quesos
