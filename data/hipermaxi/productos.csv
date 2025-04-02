@@ -907,6 +907,7 @@ id_producto,producto,categoria,subcategoria
 16677,BEBIDA VITAM MELISSA CALM TORONJIL 1 LT,Bebidas,Bebidas Varias
 16678,Bebida Vitam Melissa Calm Naranja Lima 1 L,Bebidas,Bebidas Varias
 16684,Licor Crema Baileys Original 750 ml + Taza,Bebidas,Licores
+16700,Suplemento Nutricena Chocolate 50 gr,Abarrotes,Dietéticos y Saludables
 16873,Four Loko Sandia 473 ml,Bebidas,Licores
 16875,Four Loko Ponche Fruta 473 ml,Bebidas,Licores
 16876,Four Loko Gold 473 ml,Bebidas,Licores
@@ -1559,6 +1560,7 @@ id_producto,producto,categoria,subcategoria
 24915,Mix Caju Kirkland con Almendra 32 oz,Abarrotes,Productos Americanos
 25001,PACK 3MENTOS ROLL FRUTA FANTA FRESA,Abarrotes,Golosinas - Varias
 25002,Bebida Flow Nene Sunrise Lata 355 ml,Bebidas,Licores
+25003,AGUARDIENTE ILC AMARILLO MANZANARES 750M,Bebidas,Licores
 25004,SIXPACK CERVEZA POTOSINA 6X473ML,Bebidas,Cervezas
 25005,ALMIDON D YUCA ZAELI BSA 1KG,Abarrotes,Básicos
 25006,ECCO NESTLE DP 170G,Abarrotes,Café y Sucedáneos
@@ -7524,7 +7526,7 @@ id_producto,producto,categoria,subcategoria
 240546,Lavavajilla Bristar Tutti Frutti 1050 ml,Cuidado del Hogar,Limpieza de Cocina
 240547,LAVAVAJILLAS BRISTAR TUTTI FRUTTI 5000 L,Cuidado del Hogar,Limpieza de Cocina
 240548,LIMPIA ZAPATILLAS TODO BRILLO 150 ML,Cuidado del Hogar,Limpieza de Zapatos
-240549,TOALLA HUMEDA PROBLOCK DESMAQUILLANTE 25 UNDS,Cuidado Personal,Cuidado del Adulto
+240549,TOALLA HUMEDA PROBLOCK DESMAQUILLANTE 25,Cuidado Personal,Cuidado del Adulto
 240550,TOALLA HUMEDA PROBLOCK ALOE 25 UNDS,Cuidado del Bebé,Cuidado del Bebé
 240552,TOALLA HUMEDA PROBLOCK ANTIBACTERIAL 25,Cuidado del Bebé,Cuidado del Bebé
 240553,PACK SERUM HIALURONICO+UV DEF ANTIBRILLO,Cuidado Personal,Cuidado de la Piel
@@ -13389,7 +13391,9 @@ id_producto,producto,categoria,subcategoria
 553146,FREJOL ROJO MI SUCO BOLSA DE 455 GR,Abarrotes,Condimentos y Legumbres
 553147,MANI PELADO MI SUCO BOLSA DE 455 GR,Abarrotes,Condimentos y Legumbres
 553148,FREJOL NEGRO MI SUCO BOLSA  DE 455 GR,Abarrotes,Condimentos y Legumbres
+553149,HOJUELAS DE QUINUA MI SUCO BSA 200 GR,Abarrotes,Nutrición Infantil
 553150,MAIZ PARA PIPOCA MI SUCO BSA 455 GR,Abarrotes,Snack
+553151,QUINUA REAL  MI SUCO BOLSA 1 KG,Abarrotes,Nutrición Infantil
 553152,FREJOL ROJO MI SUCO BOLSA 1KG,Abarrotes,Condimentos y Legumbres
 553153,LENTEJA MI SUCO  BOLSA 1 KG,Abarrotes,Condimentos y Legumbres
 554333,Cerveza Paceña Lata Roja 473 Cc,Bebidas,Cervezas
@@ -14137,6 +14141,7 @@ id_producto,producto,categoria,subcategoria
 618277,Aceituna Cacerena Negra con Hueso 350 gr,Abarrotes,Verduras en Conserva
 618314,Ron Bacardi Añejo 1750 ml,Bebidas,Licores
 618320,Tequila Olmeca Reposado 750 ml,Bebidas,Licores
+618325,HUEVO COFLER BLOCK 115G,Abarrotes,Chocolates y Caramelos
 618326,Ron Barcelo Imperial 750 ml,Bebidas,Licores
 618354,Harina de Avena Princesa Extra Fina 650 gr,Abarrotes,Nutrición Infantil
 618360,Gaseosa Salvietty Papaya 1 L,Bebidas,Gaseosas
@@ -22145,6 +22150,13 @@ id_producto,producto,categoria,subcategoria
 858194,CH J17 27 JUGUETE SET DE HERRAMIENTAS DE CONSTRUCCION C CASC,Juguetería Importación,Juguetería Niño/Bebé
 858196,CH J17 29 JUGUETE SET DE BOMBEROS CON MASCARA ROJA X9PZAS,Juguetería Importación,Juguetería Niño/Bebé
 858235,Aceite La Española Extra Virgen 200 ml,Abarrotes,Básicos
+858297,BRA TOMATODO SPORT ROSA 750ML,Bazar Importación,Menaje Plástico
+858298,BRA TOMATODO SPORT BLANCO PERRO LOVE 750ML,Bazar Importación,Menaje Plástico
+858308,BRA TOMATODO SPORT TRANSPARENTE CARROS 750ML,Bazar Importación,Menaje Plástico
+858309,BRA TOMATODO SPORT ROSA CORAZONES 750ML,Bazar Importación,Menaje Plástico
+858310,BRA TOMATODO SPORT CAMUFLADO NEGRO 750ML,Bazar Importación,Menaje Plástico
+858312,BRA TOMATODO ROSA CLARO 750ML,Bazar Importación,Menaje Plástico
+858313,BRA TOMATODO VERDE AGUA 750ML,Bazar Importación,Menaje Plástico
 858319,Galleta La Francesa Paris Surtida 250 gr,Abarrotes,Galletas
 858364,Vino Concha y Toro Reservado Merlot 750 Ml,Bebidas,Vinos y Champagne
 858375,Zapallo Picado 1 Kg,Granos y Hortalizas,Hortalizas Delifresh
