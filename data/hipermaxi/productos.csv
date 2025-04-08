@@ -1513,6 +1513,7 @@ id_producto,producto,categoria,subcategoria
 24118,GOMITA BILLIKEN BULL DOG FRUTILLA ACIDO,Abarrotes,Golosinas - Varias
 24119,Gomita Billiken Bull Dog Tutti Acido 125 gr,Abarrotes,Golosinas - Varias
 24120,Cereal Kelloggs Choco Krispis 310 gr,Abarrotes,Nutrición Infantil
+24130,Gomita Billiken Bull Dog Regaliz Frutilla 500 gr,Abarrotes,Golosinas - Varias
 24131,Gomita Billiken Acido Tutti Frutti 500 gr,Abarrotes,Golosinas - Varias
 24132,Gomita Billiken Regaliz Acido Frutilla 75 gr,Abarrotes,Golosinas - Varias
 24133,Gomita Billiken Regaliz Acido Tutti Fruti 75 gr,Abarrotes,Golosinas - Varias
@@ -1571,6 +1572,7 @@ id_producto,producto,categoria,subcategoria
 25010,CHIPS NATUREZA PINA DESHID BSA 50G,Abarrotes,Frutas en Conserva
 25011,CHIPS NATUREZA MANZANA VERDE DESHID 50G,Abarrotes,Frutas en Conserva
 25012,PACK 2GALLETAS CHOCOBISCUIT GAROTO,Abarrotes,Galletas
+25013,Whisky Grants 12 Años 750 ml,Bebidas,Licores
 25016,Huevo Lindt Surtido 180 gr,Abarrotes,Temporada
 25017,Huevo Cofler Block 78 gr,Abarrotes,Temporada
 25018,Galleta La Suprema Ligera 240 gr,Abarrotes,Galletas
@@ -1850,7 +1852,7 @@ id_producto,producto,categoria,subcategoria
 29131,Café Catunambu Tostado Grano 1 kg,Abarrotes,Café y Sucedáneos
 29132,Flan Kris Chocolate Caja 80 gr,Abarrotes,Repostería
 29138,Vinagre Je de Manzana 1 L,Abarrotes,Dietéticos y Saludables
-29139,VINAGRE JE D MANZANA CURCUMA 1LT,Abarrotes,Dietéticos y Saludables
+29139,Vinagre Je de Manzana Curcuma 1 L,Abarrotes,Dietéticos y Saludables
 29140,Bebida Crazy Sunset Gold 473 ml,Bebidas,Licores
 29141,BEBIDA ALCOHOLICA 12% BERRIES,Bebidas,Licores
 29142,Vinagre Je de Coco 1 L,Abarrotes,Dietéticos y Saludables
@@ -12424,6 +12426,7 @@ id_producto,producto,categoria,subcategoria
 551530,Avena Instantanea Irupana Almendra Miel 300 gr,Abarrotes,Nutrición Infantil
 551531,API BLANCO BLOCH 250 GR,Abarrotes,Café y Sucedáneos
 551532,Chocolate Ceibo Conejo Pascua Benny 250 gr,Abarrotes,Temporada
+551533,CONEJO PASCUA BENNY CEIBO 35G,Abarrotes,Temporada
 551534,ZANAHORIA DINOVITOS PASCUA CEIBO 70 GR,Abarrotes,Temporada
 551535,ARDILLA CON NUEZ PASCUA CEIBO 42 GR,Abarrotes,Temporada
 551540,Chocolate Ceibo Pascua Conejo Benny 150 gr,Abarrotes,Temporada
@@ -13389,6 +13392,7 @@ id_producto,producto,categoria,subcategoria
 553092,VINO ROSE JUAN DIABLO 750 ML,Bebidas,Vinos y Champagne
 553093,PACK 6 VINO ESPUIMANTE BURBUSHHH 300 ML,Bebidas,Vinos y Champagne
 553094,PACK 6 CERVEZA GOLDEN LTA 440 ML,Bebidas,Cervezas
+553096,VINO 1750 GRAN RESERVA 750 ML,Bebidas,Vinos y Champagne
 553097,GIN INSURGENTE FRUTILLA 700 ML,Bebidas,Licores
 553098,ARROZ NELSON WENDT PARBOLIZADO 5 KG,Abarrotes,Productos Americanos
 553099,ARROZ NELSON WENDT PARBOLIZADO 1 KG,Abarrotes,Productos Americanos
@@ -13432,7 +13436,9 @@ id_producto,producto,categoria,subcategoria
 553156,PACK SINGANI INSIGNIA ETQ NEGRA VASO TER,Bebidas,Licores
 553158,PACK 3X2 GALLETA CHOCOSODA,Abarrotes,Galletas
 553159,PACK 3X2 PIPOCAS ACT II CHEDDAR,Abarrotes,Snack
+553165,ISOTONICO SANTE SPORT FRESA WILSTERMANN,Bebidas,Isotónicos
 553170,GALLETAS CARSA MEGA CHIP O CHIP VAINILLA,Abarrotes,Galletas
+553175,NACHO DR PICKS S PIZZA BSA 200G,Abarrotes,Snack
 554333,Cerveza Paceña Lata Roja 473 Cc,Bebidas,Cervezas
 554466,Detergente Liquido Ola Futuro Limpieza Completa 5 L,Cuidado del Hogar,Limpieza de la Ropa
 554468,Suavizante Ropa Ola Suavecito Original 5 L,Cuidado del Hogar,Limpieza de la Ropa
@@ -19901,7 +19907,7 @@ id_producto,producto,categoria,subcategoria
 783617,Queso Bonle Danbo kg,Lácteos y Derivados,Quesos
 783624,Helado Dietetico Vaca Fria Frutilla 180 ml,Congelados,"Helados, Cassattas y Picoleses"
 783635,Helado Dietetico Vaca Fria Chocolate 180 ml,Congelados,"Helados, Cassattas y Picoleses"
-783647,HELADO DIET VAINILLA VACA FRIA 180 ML.,Congelados,"Helados, Cassattas y Picoleses"
+783647,Helado Dietetico Vaca Fria Vainilla 180 ml,Congelados,"Helados, Cassattas y Picoleses"
 783648,Queso Mozzarella Pil Feteado 200 gr,Lácteos y Derivados,Quesos
 783653,HELADO DIET DULCE DE LECHE VACA FRIA 180 ML.,Congelados,"Helados, Cassattas y Picoleses"
 783700,Hamburguesa Hipermaxi Bolsa 12 un,Congelados,Carnes Congeladas
