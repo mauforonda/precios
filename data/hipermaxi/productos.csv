@@ -1493,6 +1493,8 @@ id_producto,producto,categoria,subcategoria
 24077,PACK 2 SUEROX FRESA KIWI 630ML,Bebidas,Isotónicos
 24078,PACK 2 SUEROX NARANJA MAND 630ML,Bebidas,Isotónicos
 24079,PACK 2 SUEROX MORA AZUL HIERBA 630ML,Bebidas,Isotónicos
+24080,Tequila Olmeca Altos Plata 700 ml,Bebidas,Licores
+24081,Tequila Olmeca Altos Reposado 700 ml,Bebidas,Licores
 24083,Fideo Gustoso Tornillo 400 gr,Abarrotes,Básicos
 24084,Fideo Gustoso Codito 400 gr,Abarrotes,Básicos
 24085,Fideo Gustoso Spaguetti Mod 33 400 gr,Abarrotes,Básicos
@@ -3813,6 +3815,7 @@ id_producto,producto,categoria,subcategoria
 102069,Cafe Posdata Especial Grano 250 gr,Abarrotes,Café y Sucedáneos
 102072,Cafe Estampa Espresso Molido 250 gr,Abarrotes,Café y Sucedáneos
 102073,Cafe Espresso Estampa En Grano 250 gr,Abarrotes,Café y Sucedáneos
+102079,TRIPACK ISOTONICO ACTIVE 3 X 600 ML,Bebidas,Isotónicos
 102080,Maquina de Afeitar Bic Soleil Sensitive 4 un,Cuidado Personal,Cuidado de la Piel
 102091,Pack Ron Havana Especial 1 L,Bebidas,Licores
 102093,Detergente Liquido Bolivar Matic 1.9 L,Cuidado del Hogar,Limpieza de la Ropa
@@ -4145,7 +4148,14 @@ id_producto,producto,categoria,subcategoria
 106012,Pack Desodorante Aerosol Deo Pies Extreme 2 un,Cuidado Personal,Cuidado de la Piel
 106013,Pack Desodorante Aerosol Deo Pies Antitraspirante 2 un,Cuidado Personal,Cuidado de la Piel
 106014,Pack Desodorante Aerosol Deo Pies Recamier Mujer 2 un,Cuidado Personal,Cuidado de la Piel
+106021,Aromatizante Smell Fresh Dixi 178 gr,Cuidado del Hogar,Limpieza de Living y Ropero
 106023,Desodorante Aerosol Pino Magregor 147 gr,Cuidado Personal,Cuidado de la Piel
+106025,Aromatizante Smell Fresh Chicle 178 gr,Cuidado del Hogar,Limpieza de Living y Ropero
+106026,Aromatizante Smell Fresh Bebe 178 gr,Cuidado del Hogar,Limpieza de Living y Ropero
+106029,Aromatizante Smell Fresh Brisa Marina 178 gr,Cuidado del Hogar,Limpieza de Living y Ropero
+106031,Aromatizante Smell Fresh Lemon 178 gr,Cuidado del Hogar,Limpieza de Living y Ropero
+106033,Aromatizante Smell Fresh Lavanda 178 gr,Cuidado del Hogar,Limpieza de Living y Ropero
+106034,Aromatizante Smell Fresh Jazmin 178 gr,Cuidado del Hogar,Limpieza de Living y Ropero
 106054,Pimienta Dulce Badia 12 oz,Abarrotes,Productos Americanos
 106060,Limpiador de Baño Poderoso Saca Sarro 1 L,Cuidado del Hogar,Limpieza de Baños
 106070,Acondicionador Head Shoulders Carbon 300 ml,Cuidado Personal,Cuidado del Cabello
@@ -4450,6 +4460,7 @@ id_producto,producto,categoria,subcategoria
 109313,Pañales Babysec Super Premium Cuidado Total XXG 38 un,Cuidado del Bebé,Pañales
 109314,Toallas Humedas Doctor Baby Pocoyo 100 un,Cuidado del Bebé,Cuidado del Bebé
 109337,Paño Tottes Microfibra Pack 8 un,Cuidado del Hogar,Accesorios del Hogar
+109345,AROMATIZADOR SMELL FRESH NEW YORK 262 ML,Cuidado del Hogar,Limpieza de Living y Ropero
 109410,Suavizante Ropa Downy Brisa Fresca 2.8 L,Cuidado del Hogar,Limpieza de la Ropa
 109411,Maquina de Afeitar Gillette Derma Proteccion 2 un,Cuidado Personal,Cuidado de la Piel
 109412,Maquina de Afeitar Gillette Derma Proteccion 1 un,Cuidado Personal,Cuidado de la Piel
@@ -6376,6 +6387,7 @@ id_producto,producto,categoria,subcategoria
 209325,Vino Concepcion Estirpe Tinto 700 ml,Bebidas,Vinos y Champagne
 209533,COPOS DE ALGODON SEPTONA 100UN,Cuidado del Bebé,Cuidado del Bebé
 209545,ACON. REVIVE LISO Y SEDOSO 600ML POTE,Cuidado Personal,Cuidado del Cabello
+209547,REVIVE ACOND CERAMIDAS 12X600ML,Cuidado Personal,Cuidado del Cabello
 209671,Jugo Yogo Vera Melon 500 ml,Bebidas,Bebidas Varias
 209673,Jugo Yogo Vera Strawberry 500 ml,Bebidas,Bebidas Varias
 209701,Gaseosa Oro Piña 3 L,Bebidas,Gaseosas
@@ -11480,6 +11492,7 @@ id_producto,producto,categoria,subcategoria
 513105,Huevo Cofler Chocolate Mani 56 gr,Abarrotes,Temporada
 513130,Conejito Arcor Bon o Bon Leche 50 gr,Abarrotes,Temporada
 513148,Conejito Arcor Bon o Bon Blanco 50 gr,Abarrotes,Temporada
+513155,HUEVO PASCUA BREICK CRUNCHIE 20 GR,Abarrotes,Temporada
 513422,Chocolate Cofler Block Mani 760 gr,Abarrotes,Chocolates y Caramelos
 513440,Cotonetes Johnsons Canister 150 un,Cuidado del Bebé,Cuidado del Bebé
 513458,Acondicionador Johnsons Baby Cabello Claro 200 ml,Cuidado del Bebé,Cuidado del Bebé
@@ -13439,8 +13452,10 @@ id_producto,producto,categoria,subcategoria
 553158,PACK 3X2 GALLETA CHOCOSODA,Abarrotes,Galletas
 553159,PACK 3X2 PIPOCAS ACT II CHEDDAR,Abarrotes,Snack
 553165,ISOTONICO SANTE SPORT FRESA WILSTERMANN,Bebidas,Isotónicos
+553167,GALLETAS CARSA SUPER DORADITA CLASICA 11,Abarrotes,Galletas
 553170,GALLETAS CARSA MEGA CHIP O CHIP VAINILLA,Abarrotes,Galletas
 553175,NACHO DR PICKS S PIZZA BSA 200G,Abarrotes,Snack
+553178,CHOCOLATE TWIX TRIPLE CHOCOLATE 40 GR,Abarrotes,Golosinas - Varias
 554333,Cerveza Paceña Lata Roja 473 Cc,Bebidas,Cervezas
 554466,Detergente Liquido Ola Futuro Limpieza Completa 5 L,Cuidado del Hogar,Limpieza de la Ropa
 554468,Suavizante Ropa Ola Suavecito Original 5 L,Cuidado del Hogar,Limpieza de la Ropa
@@ -18585,6 +18600,7 @@ id_producto,producto,categoria,subcategoria
 674109,Mortadela Primavera Torito 200 gr,Fiambres,Fiambres Externos
 674113,Galleta Victoria Pañuelitos 270 gr,Pastelería y Masas Típicas,Pastelería Externa
 674114,Galleta Victoria Surtida 400 gr,Pastelería y Masas Típicas,Pastelería Externa
+674115,Mortadela de Pollo Pio Rico 200 gr,Fiambres,Fiambres Externos
 674116,Palitos de Yuca Queso Cheddar 500 gr,Congelados,Masas y Comidas Congeladas
 674117,Queso Cheddar La Hacienda San Javier Laminado 160 gr,Lácteos y Derivados,Quesos
 674120,Helado Nordland Premium Cafe 1 kg,Congelados,"Helados, Cassattas y Picoleses"
@@ -19317,7 +19333,7 @@ id_producto,producto,categoria,subcategoria
 691026,Huevo Breick Pascua N7 120 gr,Abarrotes,Temporada
 691028,Huevo Breick Pascua N8 160 gr,Abarrotes,Temporada
 691029,Huevo Breick Pascua N9 200 gr,Abarrotes,Temporada
-691030,HUEVO PASCUA N10 BREICK 300G,Abarrotes,Temporada
+691030,Huevo Pascua Breick N10 300 gr,Abarrotes,Temporada
 691092,Frijoles Bushs Vegetarian Baked 454 gr,Abarrotes,Productos Americanos
 691285,Leche Condensada Mococa 395 gr,Abarrotes,Nutrición Infantil
 691871,Galleta Francesa Nevadita Grande 140 gr,Abarrotes,Galletas
