@@ -1596,7 +1596,9 @@ id_producto,producto,categoria,subcategoria
 25050,NESCAFE TRADICION T ROJA FCO 160G,Abarrotes,Café y Sucedáneos
 25062,ACEITE D OLIVA AGUIRRE EXT VIRG FCO 250M,Abarrotes,Básicos
 25064,PACK SUPER SNACKS 6UND,Abarrotes,Snack
+25065,CHUPETE BON BON BUM SANDIA SENSAT 336G,Abarrotes,Chocolates y Caramelos
 25066,CHOCOL VIZZIO C MANI CJA 70G,Abarrotes,Chocolates y Caramelos
+25070,SOPA INST ZAELI PIMIENTA BSA 85G,Abarrotes,Básicos
 25640,Surtido de Mariscos Robinson Crusoe Natural 190 gr,Abarrotes,Comidas en Conserva
 25771,Huevos Caisy 12 un,Lácteos y Derivados,Huevos
 25789,Galleta Rocklets Chocolate 118 gr,Abarrotes,Galletas
@@ -5570,6 +5572,7 @@ id_producto,producto,categoria,subcategoria
 126051,Labial Maybelline Crayon Matte Ink Make It Happen,Cuidado Personal,Cuidado de la Piel
 126519,Cepillo Dental Foramen V Plus Medio 1 un,Cuidado Personal,Cuidado Bucal
 126587,Cafe Yungas Molido 250 gr,Abarrotes,Café y Sucedáneos
+127868,Galleta La Francesa Craker 230 gr,Abarrotes,Galletas
 127878,Cafe Juan Valdez Liofilizado Descafeinado 95 gr,Abarrotes,Café y Sucedáneos
 127880,Bebida Ice 51 Guarana Six Pack 275 ml,Bebidas,Licores
 127969,Fideo Divella Pappardelle 100 500 gr,Abarrotes,Básicos
@@ -7090,6 +7093,10 @@ id_producto,producto,categoria,subcategoria
 223954,PROTEC KOTEX ANTIBAC NORMAL TELA  120 U,Cuidado Personal,Cuidado Familiar
 223955,Lavavajilla Pulpin Limon 1500 ml,Cuidado del Hogar,Limpieza de Cocina
 223956,Tripack Paños Totes Microfibra Surtido,Cuidado del Hogar,Accesorios del Hogar
+223958,Suavizante Ropa Girando Sol Eterna Magia 1 Lt,Cuidado del Hogar,Limpieza de la Ropa
+223959,Suavizante Ropa Girando Sol Pasion Secret,Cuidado del Hogar,Limpieza de la Ropa
+223965,Detergente Polvo Girandosol Hipoalergenico 4 kg,Cuidado del Hogar,Limpieza de la Ropa
+223966,Detergente Polvo Girandosol Floral 4 kg,Cuidado del Hogar,Limpieza de la Ropa
 223976,Serum Revitalift Retinol Noche 30 ml,Cuidado Personal,Cuidado de la Piel
 223977,Crema de Peinar Sedal Celula Madres 300 ml,Cuidado Personal,Cuidado del Cabello
 223978,Acondicionador Sedal Celula Madre 340 ml,Cuidado Personal,Cuidado del Cabello
@@ -12438,6 +12445,7 @@ id_producto,producto,categoria,subcategoria
 551501,Maiz Molido Willcaparu Ana 250 gr,Abarrotes,Nutrición Infantil
 551502,Pack 2 Vino De Altura 750 ml,Bebidas,Vinos y Champagne
 551510,Mezcla Panqueques Mrs Buttersworth 32 oz,Abarrotes,Productos Americanos
+551512,PACK 4 PICNIC HEINZ 2.6 KG,Abarrotes,Productos Americanos
 551513,Agua Ion Life 5 L,Bebidas,Aguas
 551514,Salsa Herdez Casera 240 gr,Abarrotes,Productos Americanos
 551515,Caramelo Paleta Sour Carnival Pop 120 gr,Abarrotes,Chocolates y Caramelos
@@ -12760,6 +12768,7 @@ id_producto,producto,categoria,subcategoria
 552141,Caramelo Liquido Rollips Dragon Ball 25 ml,Abarrotes,Golosinas - Varias
 552144,Salsa Barbacoa Lamor Cerdo 350 gr,Abarrotes,Aderezos
 552145,Caramelo Oreo Cow Tales 3 oz,Abarrotes,Productos Americanos
+552146,Maple Grove Farms Sin Azucar 710 ml,Abarrotes,Productos Americanos
 552152,Cerveza Paceña Roja 440 ml,Bebidas,Cervezas
 552153,Pack 2 Cerveza Paceña 440 ml,Bebidas,Cervezas
 552155,PACK CIGAR BOHEM SANDIA SPEAKER WIRELESS,Bebidas,Cigarrillos
@@ -13450,6 +13459,7 @@ id_producto,producto,categoria,subcategoria
 553139,CHOCOLATE LINDT NOCCIOLATTE 35 GR,Abarrotes,Chocolates y Caramelos
 553140,PACK 12 CERVEZA GOLDEN LATA 440 ML,Bebidas,Cervezas
 553144,PACK 2 VINO KOHLBERG SEMIDULCE,Bebidas,Vinos y Champagne
+553145,Huevo Pascua Breick 7 Sorpresa 140 gr,Abarrotes,Temporada
 553146,Frejol Rojo Mi Suco 455 gr,Abarrotes,Condimentos y Legumbres
 553147,Mani Pelado Mi Suco 455 gr,Abarrotes,Condimentos y Legumbres
 553148,Frejol Negro Mi Suco 455 gr,Abarrotes,Condimentos y Legumbres
@@ -15375,6 +15385,7 @@ id_producto,producto,categoria,subcategoria
 655755,Macarroni con Queso Bv 4.5 oz,Abarrotes,Productos Americanos
 655759,Cereal Cinnamon Toast Crunch Mills 1.4 kg,Abarrotes,Productos Americanos
 655764,Mantequilla de Mani Crunchy 18 oz,Abarrotes,Productos Americanos
+655765,Mejillones Vigo 3 oz,Abarrotes,Productos Americanos
 655774,Papa Lucana Mediana 65 gr,Abarrotes,Snack
 655783,Vino Diamond Con Estuche Bottega 750 ml,Bebidas,Vinos y Champagne
 655791,Vino Trapiche Gran Medalla Cabernet 750 ml,Bebidas,Vinos y Champagne
@@ -16005,6 +16016,7 @@ id_producto,producto,categoria,subcategoria
 658813,Aji Yapa Picante Rodaja 220 gr,Abarrotes,Verduras en Conserva
 658826,Huevito Breick Chocolate 140 gr,Abarrotes,Temporada
 658827,Huevo Breick Leche 0 Azucar 140 gr,Abarrotes,Temporada
+658835,MAPLE 6 HUEVOS N-2 BREICK 120 GR,Abarrotes,Temporada
 658848,Harina La Suprema de Trigo 5 kg,Abarrotes,Básicos
 658861,Sangria La Mestiza Doypack 3 L,Bebidas,Vinos y Champagne
 658862,Chocolate Saltus 75 Cacao 44 gr,Abarrotes,Chocolates y Caramelos
@@ -17493,6 +17505,7 @@ id_producto,producto,categoria,subcategoria
 670979,Yogurt Provipal Frutado 1 L,Lácteos y Derivados,Yogures
 670980,Helado Provipal Familiar Crema Varios Sabores 1 L,Congelados,"Helados, Cassattas y Picoleses"
 670981,Helado Provipal Cassata 1 L,Congelados,"Helados, Cassattas y Picoleses"
+670982,TRUCHA EVISCERADA CONGELADA TITIKAKA A/V KILOGRAMO,Congelados,Carnes Congeladas
 670985,Yogurt Delizia Bebible Durazno 2 L,Lácteos y Derivados,Yogures
 670986,Manjar Pastelero Real 1 kg,Lácteos y Derivados,Dulces de Leche y Manjares
 670987,Manjar Pastelero Real 300 gr,Lácteos y Derivados,Dulces de Leche y Manjares
@@ -18127,6 +18140,7 @@ id_producto,producto,categoria,subcategoria
 673031,Salchicha Viena Frankfurt Ovoplus 10 un,Fiambres,Fiambres Externos
 673033,Salchicha Viena Pollo Pequeña 10 un,Fiambres,Fiambres Externos
 673037,Cacaolat Mocca 200 ml,Lácteos y Derivados,Leches
+673040,SURTIDO BANDEJA GRANDE GALLETAS COCO LA,Pastelería y Masas Típicas,Pastelería Externa
 673042,Papas Congelada Simplot 2 kg,Congelados,Masas y Comidas Congeladas
 673043,Chorizo Fridosa Tipo Español Kg,Fiambres,Fiambres Externos
 673050,Manzana Deshidratada Nutrifruit 50 gr,Abarrotes,Frutas en Conserva
@@ -22776,6 +22790,7 @@ id_producto,producto,categoria,subcategoria
 883726,Audifono Bluetooh Huavi  FH13,Bazar,Telefonía y Accesorios
 883903,Hervidor Premier de Agua,Bazar,Electrodoméstico/Línea Blanca-Hogar
 883905,BATIDORA PREMIER  ED3307,Bazar,Electrodoméstico/Línea Blanca-Hogar
+883920,PAT COLLAR DE MASCOTAS  18,Bazar,Mascotas General
 883924,PAT COLLAR DE MASCOTAS 18,Bazar,Mascotas General
 883942,FRE BOTELLA DE AGUA  500 ML NINOS,Bazar,Articulos de Bebé
 884084,BLISTER BOLIGRAFO BIC FINE PLUS X3UND,Bazar,Librería
@@ -23310,6 +23325,8 @@ id_producto,producto,categoria,subcategoria
 942359,Cepillo Foramen Junior Suave 1 un,Cuidado Personal,Cuidado Bucal
 947068,Juguete Auto a Control Remoto,Juguetería,Juguetería Niño/Bebé
 947072,Bingo,Juguetería,Juguetería Didáctica/Temporada
+947270,Cama de Mascota Economica 4,Bazar,Mascotas General
+947280,Cama de Mascota Estandar 3,Bazar,Mascotas General
 947355,Sarten Plancha Tramontina Redonda,Bazar,Articulos de Cocina
 947363,Sarten Tramontina 30 cm + Espatula,Bazar,Articulos de Cocina
 947364,Sarten Tramontina 24 cm + Espatula,Bazar,Articulos de Cocina
