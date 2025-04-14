@@ -1308,6 +1308,7 @@ id_producto,producto,categoria,subcategoria
 18004,Vape Waka Smash Aloe Grape 3% 6000 Puffs,Bebidas,Cigarrillos
 18005,Vape Waka Smash Banana Coco 3% 6000 Puffs,Bebidas,Cigarrillos
 18008,Pisco Capel Reserva Guarda 40G 700 ml,Bebidas,Licores
+18009,Gomita Billiken Yummy 100 Pies 500 gr,Abarrotes,Golosinas - Varias
 18010,Gomita Billiken Tutti Frutti 200 gr,Abarrotes,Golosinas - Varias
 18012,Pack Gin Tanqueray 750 ml + Copa,Bebidas,Licores
 18016,Mantequilla de Mani Vitapower Integral 450 gr,Abarrotes,Repostería
@@ -1582,6 +1583,7 @@ id_producto,producto,categoria,subcategoria
 25019,CERVEZA PROST PREMIUM LAGER LTA 310ML,Bebidas,Cervezas
 25020,CERVEZA  PROST FREI 0P LTA 310ML,Bebidas,Cervezas
 25021,CERVEZA PROST PREMIUM DUNKEL LTA 310ML,Bebidas,Cervezas
+25023,SINGANI SAN PEDRO TRADICION 750 ML,Bebidas,Licores
 25024,Mani con Caramelo Manitoba 110 gr,Abarrotes,Snack
 25025,Galleta Frac Bi Choco Frutilla 110 gr,Abarrotes,Galletas
 25026,Gomita Ambrosoli Frericas 90 gr,Abarrotes,Golosinas - Varias
@@ -1590,6 +1592,8 @@ id_producto,producto,categoria,subcategoria
 25032,"PACK SKITTLES ORIGINAL 2X61,5G",Abarrotes,Golosinas - Varias
 25033,"PACK  SKITTLES WILD BERRY 2X61,5G",Abarrotes,Golosinas - Varias
 25035,Chupete Yogueta Kola 360 gr,Abarrotes,Chocolates y Caramelos
+25036,COCTEL COCOBLANC 670ML,Bebidas,Licores
+25037,GIN INSURGENTE POMELO 700 ML,Bebidas,Licores
 25043,MEZCAL DON RAMON ESPADIN 750 ML,Bebidas,Licores
 25046,CERVEZA DUCAL LTA 269ML,Bebidas,Cervezas
 25048,FIDEO NIDO PALOMA  400 GR,Abarrotes,Básicos
@@ -2510,6 +2514,7 @@ id_producto,producto,categoria,subcategoria
 31156,Pack Whisky Chivas 13 Años 1 L + 2 Vasos,Bebidas,Licores
 31157,Edulcorante Dezero Clasico 250 ml,Abarrotes,Dietéticos y Saludables
 31158,Edulcorante Dezero Sucralosa 250 ml,Abarrotes,Dietéticos y Saludables
+31163,Vino Pulenta Estate Malbec 750 ml,Bebidas,Vinos y Champagne
 31164,Vino Pulenta Estate Red Blend 750 ml,Bebidas,Vinos y Champagne
 31166,Mantequilla de Mani Skurzth Clasica 360 gr,Abarrotes,Repostería
 31167,Mantequilla de Mani Skurzth Canela 360 gr,Abarrotes,Repostería
@@ -4048,7 +4053,7 @@ id_producto,producto,categoria,subcategoria
 105049,Limpiador de Pisos Todo Brillo Cremoso Floral 5 L,Cuidado del Hogar,Limpieza de Baños
 105050,Limpiador de Pisos Todo Brillo Cremoso Eucalipto 5 L,Cuidado del Hogar,Limpieza de Baños
 105060,Paño Alklin Estampado 3 un 38x65 cm,Cuidado del Hogar,Productos Americanos
-105092,VAJILLERO BRISTAR LIMON REC DOYPACK 1 LT,Cuidado del Hogar,Limpieza de Cocina
+105092,Vajillero Bristar Limon Doypack 1 L,Cuidado del Hogar,Limpieza de Cocina
 105097,Shampoo Fructis Hair Food Aloe Vera 300 ml,Cuidado Personal,Cuidado del Cabello
 105098,Acondicionador Fructis Hair Food Aloe Vera 300 ml,Cuidado Personal,Cuidado del Cabello
 105099,Shampoo Fructis Hair Food Coco 300 ml,Cuidado Personal,Cuidado del Cabello
@@ -4421,7 +4426,7 @@ id_producto,producto,categoria,subcategoria
 109240,CLASSIC SHAMPOO MIEL Y GERMEN DE TRIGO 9,Cuidado Personal,Cuidado del Cabello
 109241,CLASSIC SHAMPOO ALOE VERA  950 ML,Cuidado Personal,Cuidado del Cabello
 109242,CLASSIC SHAMPOO CERAMIDAS  950 ML,Cuidado Personal,Cuidado del Cabello
-109243,CLASSIC SHAMPOO KIDS  950 ML,Cuidado del Bebé,Kids
+109243,Shampoo Neutro Classic Kids 950 ml,Cuidado del Bebé,Kids
 109244,Toallas Humedas Mili Premiun Love Care 100 un,Cuidado del Bebé,Cuidado del Bebé
 109245,Esponja Condor Baño Barbie 1 un,Cuidado del Bebé,Kids
 109246,Esponja Condor Baño Hotwheels 1 un,Cuidado del Bebé,Kids
@@ -6392,7 +6397,8 @@ id_producto,producto,categoria,subcategoria
 209274,Crema Tratamiento Capilar Revive Curly sin Sal 300 gr,Cuidado Personal,Cuidado del Cabello
 209309,Vino La Concepcion Sauvignon Blanco Reserva 750 ml,Bebidas,Vinos y Champagne
 209325,Vino Concepcion Estirpe Tinto 700 ml,Bebidas,Vinos y Champagne
-209530,BIPACK KOTEX NOCTURNA UF X24 (2X12),Cuidado Personal,Cuidado Familiar
+209530,Pack Kotex Nocturna Discreta 24 Und,Cuidado Personal,Cuidado Familiar
+209531,Pack Toallas Humedas Huggies Caja 640 Und,Cuidado del Bebé,Cuidado del Bebé
 209533,COPOS DE ALGODON SEPTONA 100UN,Cuidado del Bebé,Cuidado del Bebé
 209545,ACON. REVIVE LISO Y SEDOSO 600ML POTE,Cuidado Personal,Cuidado del Cabello
 209547,REVIVE ACOND CERAMIDAS 12X600ML,Cuidado Personal,Cuidado del Cabello
@@ -6598,7 +6604,7 @@ id_producto,producto,categoria,subcategoria
 220727,Jabon Liquido Aval Limon 800 ml,Cuidado Personal,Cuidado de la Piel
 220729,Cicatricure Beauty Care 50 gr,Cuidado Personal,Cuidado de la Piel
 220740,Toalla de Papel Nova Ultra Absorbente 1 Und,Cuidado del Hogar,Limpieza de Cocina
-220741,TP NOVA ULTRA ABSORBENTE 6 X 2,Cuidado del Hogar,Limpieza de Cocina
+220741,Toalla de Cocina Absorbente 2 Und,Cuidado del Hogar,Limpieza de Cocina
 220742,Betun Liquido Todo Brillo Negro 70 ml,Cuidado del Hogar,Limpieza de Zapatos
 220743,Betun Liquido Todo Brillo Neutro 70 ml,Cuidado del Hogar,Limpieza de Zapatos
 220746,PACK AHORRA GLADE REP. VAINILLA,Cuidado del Hogar,Limpieza de Living y Ropero
@@ -7697,7 +7703,7 @@ id_producto,producto,categoria,subcategoria
 240749,DETERGENTE SURF ROSAS  LILAS 1.800 KG,Cuidado del Hogar,Limpieza de la Ropa
 240750,DETERGENTE SURF ROSAS  LOLAS 4.800 KG,Cuidado del Hogar,Limpieza de la Ropa
 240751,DETERGENTE SURF COCO  4.800 KG,Cuidado del Hogar,Limpieza de la Ropa
-240752,SERVILLETA MILI GRAN CHEF 40 UNDS RF1304,Cuidado Personal,Cuidado Familiar
+240752,Servilleta Mili Gran Chef 25 Und,Cuidado Personal,Cuidado Familiar
 240754,Cepillo Doctor Dent Carbon Activado mediano 2 Und,Cuidado Personal,Cuidado Bucal
 240755,Cepillo Dental Doctor Dent Masagger Medio 2 Und,Cuidado Personal,Cuidado Bucal
 240756,Cepillo Doctor Dent Protec Clean Medio 2 Und,Cuidado Personal,Cuidado Bucal
@@ -7758,8 +7764,8 @@ id_producto,producto,categoria,subcategoria
 240863,NEUTROGENA SUN FRES HB50 COL 2 6X40ML,Cuidado Personal,Cuidado de la Piel
 240864,NEUTROGENA SUN FRES HB50 S COL 6X40ML,Cuidado Personal,Cuidado de la Piel
 240890,My Toffee Coco 600 gr,Abarrotes,Chocolates y Caramelos
-240896,PACK 2 KOTEX PURE NOCT X16,Cuidado Personal,Cuidado Familiar
-240897,PACK HUGGIES NATURAL CARE HIPERPACK TALL,Cuidado del Bebé,Pañales
+240896,Pack Kotex Puro Nocturno 16 Und,Cuidado Personal,Cuidado Familiar
+240897,Pack Huggies Natural Care Talla M 60 Und,Cuidado del Bebé,Pañales
 240898,PANOS HUMEDOS PEQUENIN AVENA 6X80,Cuidado del Bebé,Cuidado del Bebé
 240900,ACIDO GLICOLICO GEL LIMPIADOR,Cuidado Personal,Cuidado de la Piel
 240901,ACIDO GLICOLICO SERUM 30 ML,Cuidado Personal,Cuidado de la Piel
@@ -8318,7 +8324,7 @@ id_producto,producto,categoria,subcategoria
 304255,Huevos Jars de Codorniz Cocido,Lácteos y Derivados,Huevos
 304352,Harina Princesa de Trigo 1 kg,Abarrotes,Básicos
 304504,Cafe Iguazu Sachet 50 gr,Abarrotes,Café y Sucedáneos
-304511,HUEVO COFLER BLOCK MANI 26 GR,Abarrotes,Temporada
+304511,Huevo Cofler Block Mani 26 g,Abarrotes,Temporada
 304533,Banano con Chocolate Bolivias Fruit 70 gr,Abarrotes,Frutas en Conserva
 304555,Canaston Super Economico Scz,Abarrotes,Temporada
 304741,Cereal Vivo 3 Cereales 360 gr,Abarrotes,Nutrición Infantil
@@ -12885,7 +12891,7 @@ id_producto,producto,categoria,subcategoria
 552345,Leche Condensada Valerie And Me Sin Azucar 220 ml,Abarrotes,Dietéticos y Saludables
 552346,Bombon Lindt Lindor 60 Cacao 200 gr,Abarrotes,Chocolates y Caramelos
 552347,Chocolate Lindt Lindor Huevo Pascua Leche 180 gr,Abarrotes,Temporada
-552351,HUEVO COFLER BLOCK MITI MITI 170 GR,Abarrotes,Temporada
+552351,Huevo Cofler Block Miti Miti 170 g,Abarrotes,Temporada
 552352,Huevo Cofler Block 1 kg,Abarrotes,Temporada
 552354,Sal Uyuni Molinillo con Hierbas 90 gr,Abarrotes,Básicos
 552355,Sal Salar de Uyuni Apio Molinillo 90 gr,Abarrotes,Básicos
@@ -13441,6 +13447,7 @@ id_producto,producto,categoria,subcategoria
 553112,PACK 2POWERADE MORA CITRUS 473ML,Bebidas,Isotónicos
 553113,GIN INSURGENTE FRUTOS DEL BOSQUE 700 ML,Bebidas,Licores
 553114,Gomita Play Pulpo 55 gr,Abarrotes,Golosinas - Varias
+553115,GOMITA PLAY SANDIA 55 GR,Abarrotes,Golosinas - Varias
 553118,Galleta Colombina Choco Muu 204 gr,Abarrotes,Galletas
 553119,Galleta Wafer Colombina Chocolate 288 gr,Abarrotes,Galletas
 553120,Galleta Wafer Colombina Vainilla 288 gr,Abarrotes,Galletas
@@ -13454,9 +13461,9 @@ id_producto,producto,categoria,subcategoria
 553134,ALOE VERA OTRO MUNDO NATURAL 500 ML,Bebidas,Bebidas Varias
 553135,Aloe Vera Otro Mundo Piña 500 ml,Bebidas,Bebidas Varias
 553136,BOMBON LINDT SAL CARAMELO 200 GR,Abarrotes,Chocolates y Caramelos
-553137,BOMBON LINDT PISTACHO 200 GR,Abarrotes,Chocolates y Caramelos
+553137,Chocolate Lindt Pistacho 200 g,Abarrotes,Chocolates y Caramelos
 553138,Bombon Lindt Lindor Trio Milk 37 gr,Abarrotes,Chocolates y Caramelos
-553139,CHOCOLATE LINDT NOCCIOLATTE 35 GR,Abarrotes,Chocolates y Caramelos
+553139,Chocolate Lindt Nocciolatte 35 g,Abarrotes,Chocolates y Caramelos
 553140,PACK 12 CERVEZA GOLDEN LATA 440 ML,Bebidas,Cervezas
 553144,PACK 2 VINO KOHLBERG SEMIDULCE,Bebidas,Vinos y Champagne
 553145,Huevo Pascua Breick 7 Sorpresa 140 gr,Abarrotes,Temporada
@@ -13476,6 +13483,7 @@ id_producto,producto,categoria,subcategoria
 553165,ISOTONICO SANTE SPORT FRESA WILSTERMANN,Bebidas,Isotónicos
 553167,GALLETAS CARSA SUPER DORADITA CLASICA 11,Abarrotes,Galletas
 553170,GALLETAS CARSA MEGA CHIP O CHIP VAINILLA,Abarrotes,Galletas
+553171,VINO TINTO SEMIDULCE  FINCA ATAMISQUE 75,Bebidas,Vinos y Champagne
 553175,NACHO DR PICKS S PIZZA BSA 200G,Abarrotes,Snack
 553177,CHOCOLATE M Y M CRISPY 35 GR,Abarrotes,Golosinas - Varias
 553178,CHOCOLATE TWIX TRIPLE CHOCOLATE 40 GR,Abarrotes,Golosinas - Varias
@@ -17147,7 +17155,7 @@ id_producto,producto,categoria,subcategoria
 669001,CORRECTOR ESSENTIAL NATURAL,Cuidado Personal,Cuidado de la Piel
 669003,COLORISSIMO EXTRA BRILLO COSMOPOLITAN,Cuidado Personal,Cuidado de la Piel
 669004,COLORISSIMO EXTRA BRILLO FIESTA,Cuidado Personal,Cuidado de la Piel
-669005,SHAMPOO ELVIVE 370ML GLYCO GLOSS,Cuidado Personal,Cuidado del Cabello
+669005,Shampoo Elvive Glycolic Gloss 370 ml,Cuidado Personal,Cuidado del Cabello
 669006,DELINEADOR OJOS ESSENTIAL,Cuidado Personal,Cuidado de la Piel
 669007,KOCOSTAR MASCARILLA FOOT PEELING PACK,Cuidado Personal,Cuidado de la Piel
 669008,MASCARA PESTANA ESSENTIAL,Cuidado Personal,Cuidado de la Piel
@@ -17260,7 +17268,7 @@ id_producto,producto,categoria,subcategoria
 669155,AFEITADORA BIC SOLEIL ESCAPE LAVANDA,Cuidado Personal,Cuidado de la Piel
 669156,DOVE SH NUTRICION 12X200ML,Cuidado Personal,Cuidado del Cabello
 669159,LIST ANTICARIES ZERO FRESC SUAVE 12X250M,Cuidado Personal,Cuidado Bucal
-669160,BIPACK HUGGIES TRIPLE PROTECCION G 2X48,Cuidado del Bebé,Pañales
+669160,Pack Huggies Triple Proteccion Talla G 48 Und,Cuidado del Bebé,Pañales
 669161,PACK AHORRO INFANTO JUVENIL BOYS,Cuidado Personal,Cuidado de la Piel
 669162,PACK AHORRO INFANTO JUVENIL GIRL,Cuidado Personal,Cuidado de la Piel
 669163,PACK AHORRO TEEN GIRL 2X150ML,Cuidado Personal,Cuidado de la Piel
@@ -17888,6 +17896,7 @@ id_producto,producto,categoria,subcategoria
 672363,Nuggets Patitas Sofia 1 kg,Congelados,Carnes Congeladas
 672364,Leche Sancor Deslactosada 1 L,Lácteos y Derivados,Leches
 672368,Punta de S Fridosa Premium kg,Carnes,Carnes al Vacio Externas
+672371,INTERCOSTAL RIB FINGERS FRIDOSA AL VACIO KGR,Carnes,Carnes al Vacio Externas
 672373,Frutilla Congelada Punto Verde 1 kg,Congelados,Pulpas y Frutas Congeladas
 672380,Huevos Colorado Maple 10 un,Lácteos y Derivados,Huevos
 672381,Queso Mozzarella San Mateo Laminado 160 gr,Lácteos y Derivados,Quesos
@@ -18807,6 +18816,7 @@ id_producto,producto,categoria,subcategoria
 674383,Leche de Frutilla Pil 800 ml,Lácteos y Derivados,Leches
 674384,Leche Chocolatada Pil 800 ml,Lácteos y Derivados,Leches
 674385,MUFFIN CON RELLENO ARANDANOS,Pastelería y Masas Típicas,Pastelería Externa
+674386,PAN MOLDE MIGA GRANDE KING 280GRS,Panadería,Panadería Externa
 674397,MINI TORTA CAFFE LATTE DELIZIA 850ML,Congelados,"Helados, Cassattas y Picoleses"
 674399,CHOCOLATIN BUDIN SABOR CHOCOLATE DELIZIA 110 GRS,Lácteos y Derivados,Postres
 674400,Postre Helado Delizia Cafe de Altura 850 ml,Congelados,"Helados, Cassattas y Picoleses"
@@ -22825,6 +22835,7 @@ id_producto,producto,categoria,subcategoria
 886903,Film Pvc Transparente Sin Corte 28X30 - Alpfilm,Bazar,Articulos de Cocina
 886948,Jabon Liquido Ballerina Humectacion 900 ml,Cuidado Personal,Cuidado de la Piel
 886953,Jabon Liquido Ballerina Violeta Silvestre Doypack 900 ml,Cuidado Personal,Cuidado de la Piel
+887045,3M PONJITA DELICADA  CORDON CORPORAL,Cuidado Personal,Cuidado de la Piel
 887050,Esponja Ponjita Espuma Abundante 1 un,Cuidado Personal,Cuidado de la Piel
 887065,Esponja Nexcare Exfoliante 1 un,Cuidado Personal,Cuidado de la Piel
 887070,Esponja Scotch Brite Nexcare Aqua Verde,Cuidado Personal,Cuidado de la Piel
