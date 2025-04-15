@@ -1583,6 +1583,7 @@ id_producto,producto,categoria,subcategoria
 25019,CERVEZA PROST PREMIUM LAGER LTA 310ML,Bebidas,Cervezas
 25020,CERVEZA  PROST FREI 0P LTA 310ML,Bebidas,Cervezas
 25021,CERVEZA PROST PREMIUM DUNKEL LTA 310ML,Bebidas,Cervezas
+25022,Singani San Pedro Oro Bicent 750 ml,Bebidas,Licores
 25023,SINGANI SAN PEDRO TRADICION 750 ML,Bebidas,Licores
 25024,Mani con Caramelo Manitoba 110 gr,Abarrotes,Snack
 25025,Galleta Frac Bi Choco Frutilla 110 gr,Abarrotes,Galletas
@@ -7847,12 +7848,14 @@ id_producto,producto,categoria,subcategoria
 249031,SUAVIZANTE DOWNY EXOTICO 2800ML,Cuidado del Hogar,Limpieza de la Ropa
 249032,SUAVIZANTE DOWNY AMANECER 700ML,Cuidado del Hogar,Limpieza de la Ropa
 249034,ESPONJA MULTIUSO TODO BRILLO 1X4,Cuidado del Hogar,Accesorios del Hogar
+249044,ACEITE PORTUGAL BEBE VIT E 250 ML,Cuidado del Bebé,Cuidado del Bebé
 249046,COLONIA PORTUGAL BEBE 120 ML,Cuidado del Bebé,Cuidado del Bebé
 249047,CREMA PORTUGAL BEBE MANZANILLA 120 GR,Cuidado del Bebé,Cuidado del Bebé
 249049,SHAMPOO PORTUGAL BEBE ALOE 120 ML,Cuidado del Bebé,Cuidado del Bebé
 249052,TALCO PORTUGAL BEBE ZINC 250,Cuidado del Bebé,Cuidado del Bebé
 249058,GEL FIJADOR SUPER FIX  275G,Cuidado Personal,Cuidado del Cabello
 249062,PROT SOLAR SUNBEAT 50+ SPORT 200G,Cuidado Personal,Cuidado de la Piel
+249077,CEPILLO DENTALCLEAN CARS 95,Cuidado del Bebé,Kids
 249319,Licor Cusenier Menta 700 ml,Bebidas,Licores
 249394,Licor de Café Cusenier 700 ml,Bebidas,Licores
 249793,Cotonetes Johnsons Caja 300 un,Cuidado del Bebé,Cuidado del Bebé
@@ -10746,7 +10749,7 @@ id_producto,producto,categoria,subcategoria
 447396,Mentisan Canela Sobre,Farmacia Otc,Sistema Respiratorio
 447398,Mentisan Menta Sobre,Farmacia Otc,Sistema Respiratorio
 447668,Gaseosa Pepsi 500 ml,Bebidas,Gaseosas
-447860,Masculan Preservativo Rojo x 10 und,Farmacia Otc,Varios
+447860,Masculan Preservativo Rojo x 10 und,Cuidado Personal,Cuidado de la Piel
 447861,Masculan Preservativo Saborizado x 10 und,Cuidado Personal,Cuidado de la Piel
 447863,Masculan Preservativo Doble Protec Caja x 3 unid,Farmacia Otc,Varios
 447974,"Edulcorante  D Light 80 gr
@@ -13340,7 +13343,7 @@ id_producto,producto,categoria,subcategoria
 552980,KIT PAELLA CARMENCITA ARROZ NEGRO 265 GR,Abarrotes,Básicos
 552981,KIT PAELLA CARMENCITA VERDURA 266 GR,Abarrotes,Básicos
 552982,KIT PAELLA CARMENCITA MARISCOS 265 GR,Abarrotes,Básicos
-552983,KIT PAELLA CARMENCITA C ARROZ NEGRO 265G,Abarrotes,Básicos
+552983,Kit Paella Carmencita Con Arroz Negro 265 gr,Abarrotes,Básicos
 552984,Kit Paella Carmencita Verdura + Paellara,Abarrotes,Básicos
 552986,GALLETAS DANESAS DE MANTEQUILLAA 16 OZ,Abarrotes,Productos Americanos
 552988,Mantequilla de Mani Jif 40 oz,Abarrotes,Productos Americanos
@@ -13360,6 +13363,7 @@ id_producto,producto,categoria,subcategoria
 553006,Sazonador Carmencita Pollo Teriyaki,Abarrotes,Básicos
 553007,Sazonador Carmencita Curry al Horno,Abarrotes,Básicos
 553008,SAZONADOR SA BBQ AL HORNO CARMENCITA SOB,Abarrotes,Básicos
+553010,"SAZONADOR SOUR CREAM CARMENCITA CJA 13,5",Abarrotes,Básicos
 553012,Sazonador Carmencita Paprika Vinegar,Abarrotes,Básicos
 553013,ENELDO HOJA CARMENCITA FCO 15 GR,Abarrotes,Condimentos y Legumbres
 553014,TOMILLO CARMENCITA FCO 10 GR,Abarrotes,Condimentos y Legumbres
@@ -18817,6 +18821,8 @@ id_producto,producto,categoria,subcategoria
 674384,Leche Chocolatada Pil 800 ml,Lácteos y Derivados,Leches
 674385,MUFFIN CON RELLENO ARANDANOS,Pastelería y Masas Típicas,Pastelería Externa
 674386,PAN MOLDE MIGA GRANDE KING 280GRS,Panadería,Panadería Externa
+674387,PAN MOLDE MIGA INTEGRAL GRANDE KING 280GRS,Panadería,Panadería Externa
+674388,PAN HAMBURGUESA EXTRA KING X 10 UNIDADES,Panadería,Panadería Externa
 674397,MINI TORTA CAFFE LATTE DELIZIA 850ML,Congelados,"Helados, Cassattas y Picoleses"
 674399,CHOCOLATIN BUDIN SABOR CHOCOLATE DELIZIA 110 GRS,Lácteos y Derivados,Postres
 674400,Postre Helado Delizia Cafe de Altura 850 ml,Congelados,"Helados, Cassattas y Picoleses"
@@ -19866,10 +19872,13 @@ id_producto,producto,categoria,subcategoria
 781789,Hamburguesa Sofia Premium Res 4 un,Congelados,Carnes Congeladas
 781839,Chorizo de Pescado Tambaqui,Congelados,Carnes Congeladas
 781858,Huevos Rolon 18 un,Lácteos y Derivados,Huevos
+782001,Chuleta de Surubi Mar de Limon kg,Congelados,Carnes Congeladas
 782013,Filete de Surubi Mar de Limon kg,Congelados,Carnes Congeladas
 782019,Filetitos de Pollo Sofia Congelado Salsa Soya Limon 300 gr,Congelados,Carnes Congeladas
 782024,Pacu de Rio Mar de Limon Mitad kg,Congelados,Carnes Congeladas
+782035,Milanesa Mar de Limon Pescado Paiche kg,Congelados,Carnes Congeladas
 782046,Filete de Paiche Mar de Limon 1 kg,Congelados,Carnes Congeladas
+782068,Chicharron de Pescado Paiche Mar de Limon kg,Congelados,Carnes Congeladas
 782142,Jugo Aquarius Manzana 500 ml,Bebidas,"Jugos, Néctar"
 782153,Jugo Aquarius Pera 500 ml,Bebidas,"Jugos, Néctar"
 782171,Jugo Aquarius Pomelo 500 ml,Bebidas,"Jugos, Néctar"
@@ -22493,6 +22502,13 @@ id_producto,producto,categoria,subcategoria
 867898,Pack Limones Amarillos 25 un,Frutas y Verduras,Frutas
 867987,Papa Simplot Congeladas 700 gr,Congelados,Masas y Comidas Congeladas
 868523,CH 3009 VASO DE VIDRIO 200ML,Bazar Importación,Menaje Vidrio/Cristal
+868525,CH 15 1 INDIVIDUAL DE MESA RECTANGULAR 30X45CM,Bazar Importación,Cocina General
+868526,CH 15 2 INDIVIDUAL DE MESA FRANJAS DE COLORES 30X45CM,Bazar Importación,Cocina General
+868527,CH 15 3A INDIVIDUAL DE MESA JASPEADO COLORES SURTIDOS 30X45,Bazar Importación,Cocina General
+868528,CH 15 4 INDIVIDUAL DE MESA COLORES SURTIDOS  30X45CM,Bazar Importación,Cocina General
+868529,CH 15 5 INDIVIDUAL DE MESA FRANJAS BLANCAS A LOS COSTADO 30X,Bazar Importación,Cocina General
+868530,CH 15 6 INDIVIDUAL DE MESA COLORES DEGRADADOS SURTIDOS 30X45,Bazar Importación,Cocina General
+868531,CH 15 7 INDIVIDUAL DE MESA CON DISENO COLORES SURTIDOS 30X45,Bazar Importación,Cocina General
 868630,LI CINTA EMBALAGE ZERTEX .12,Bazar,Librería
 868658,CEPILLO P/R CABELLO BARBIE CONDOR 6895,Bazar,Bijouteria/Cuidado Personal
 868659,CEPILLO P/R CABELLO HOT WHEELS CONDOR 6899,Bazar,Bijouteria/Cuidado Personal
