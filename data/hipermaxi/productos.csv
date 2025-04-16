@@ -354,6 +354,8 @@ id_producto,producto,categoria,subcategoria
 5644,Tres Leche Delifresh,Granos y Hortalizas,Postres Delifresh
 5726,Asadito Criollo Hipermaxi 360 gr,Granos y Hortalizas,Derivados Hipermaxi
 5727,Lasaña de Carne Hipermaxi 400 gr,Granos y Hortalizas,Derivados Hipermaxi
+5729,CP SUFLE DE BROCOLI HIPERMAXI 400 G,Granos y Hortalizas,Derivados Hipermaxi
+5730,CP SUFLE DE COLIFLOR HIPERMAXI 400 G,Granos y Hortalizas,Derivados Hipermaxi
 5731,Pastel de Choclo Hipermaxi 400 gr,Granos y Hortalizas,Derivados Hipermaxi
 5748,CP PACK 3X2 HOJUELAS DE AVENA 500 G,Granos y Hortalizas,Fraccionados Hipermaxi
 5758,Maiz Dulce Pelado 1 kg,Frutas y Verduras,Verduras
@@ -1599,6 +1601,7 @@ id_producto,producto,categoria,subcategoria
 25046,CERVEZA DUCAL LTA 269ML,Bebidas,Cervezas
 25048,FIDEO NIDO PALOMA  400 GR,Abarrotes,Básicos
 25050,NESCAFE TRADICION T ROJA FCO 160G,Abarrotes,Café y Sucedáneos
+25052,PACK GALLETA ROSQ MABELS 10U 324G,Abarrotes,Galletas
 25062,ACEITE D OLIVA AGUIRRE EXT VIRG FCO 250M,Abarrotes,Básicos
 25064,PACK SUPER SNACKS 6UND,Abarrotes,Snack
 25065,CHUPETE BON BON BUM SANDIA SENSAT 336G,Abarrotes,Chocolates y Caramelos
@@ -1974,6 +1977,7 @@ id_producto,producto,categoria,subcategoria
 30246,Alimento Snack Alpha Aleta de Trucha 50 gr,Abarrotes,Mascotas
 30247,Alimento Snack Alpha Bofe con Banana 50 gr,Abarrotes,Mascotas
 30248,Piqueo Snack Frito Lay 48 gr,Abarrotes,Snack
+30253,Chocolate Donofrio Triangulo 17 gr,Abarrotes,Golosinas - Varias
 30258,Pack Choclo Etti + Extracto de Tomate,Abarrotes,Verduras en Conserva
 30263,Vape Umo Dual Mesh Mint Ice 8000 Puffs,Bebidas,Cigarrillos
 30265,Singani Aranjuez Insignia Etiqueta Negra 750 ml,Bebidas,Licores
@@ -3163,6 +3167,7 @@ id_producto,producto,categoria,subcategoria
 69548,Bicervecina El Inca con Alcohol 620 cc,Bebidas,Bebidas Varias
 69719,Galleta Gullon Lijera Integral Sin Sal 200 gr,Abarrotes,Dietéticos y Saludables
 69730,Champagne Freixenet X Dulce 750 ml,Bebidas,Vinos y Champagne
+69790,Cerveza Paceña Pilsener 710 ml,Bebidas,Cervezas
 69850,Pilas Duracell Alcalina AA 2 un,Bazar,Ferretería
 69876,Pilas Duracell Alcalina AAA 4 un,Bazar,Ferretería
 69884,Pilas Duracell Alcalina C 2 un,Bazar,Ferretería
@@ -3558,6 +3563,7 @@ id_producto,producto,categoria,subcategoria
 101281,Gomita Mogul Extreme Acido Surtido 35 gr,Abarrotes,Golosinas - Varias
 101282,Jabon Liquido Bacterion Antibacterial 1000 ml,Cuidado Personal,Cuidado de la Piel
 101285,Jugo Clamato de Tomate 10 oz,Abarrotes,Salsas y Extracto de Tomate
+101287,Salsa Soya Sakura 2 L,Abarrotes,Condimentos y Legumbres
 101292,Pack Singani Casa Real Etiqueta Negra 750 ml + Vaso,Bebidas,Licores
 101295,Aceite Corporal Rosa Mosqueta Farmax 100 ml,Cuidado Personal,Cuidado de la Piel
 101296,Vinagre Paladio Alcohol Claro 1 L,Abarrotes,Básicos
@@ -6403,6 +6409,7 @@ id_producto,producto,categoria,subcategoria
 209533,COPOS DE ALGODON SEPTONA 100UN,Cuidado del Bebé,Cuidado del Bebé
 209545,ACON. REVIVE LISO Y SEDOSO 600ML POTE,Cuidado Personal,Cuidado del Cabello
 209547,REVIVE ACOND CERAMIDAS 12X600ML,Cuidado Personal,Cuidado del Cabello
+209549,DETERGENTE POLVO TODO BRILLO LIMON 1KG,Cuidado del Hogar,Limpieza de la Ropa
 209671,Jugo Yogo Vera Melon 500 ml,Bebidas,Bebidas Varias
 209673,Jugo Yogo Vera Strawberry 500 ml,Bebidas,Bebidas Varias
 209701,Gaseosa Oro Piña 3 L,Bebidas,Gaseosas
@@ -10804,6 +10811,7 @@ id_producto,producto,categoria,subcategoria
 452419,PORTUGAL CREMA LECHUGA X55GR,Cuidado Personal,Cuidado de la Piel
 452420,JABON FLORESTA NATURAL X 80 GR,Cuidado Personal,Cuidado de la Piel
 452421,JAB.PORTUGAL FLORESTA ANTBACTERIAL 100M,Cuidado Personal,Cuidado de la Piel
+452422,JABON PORTUGAL AVENA FLORESTA 100 GR.,Cuidado Personal,Cuidado de la Piel
 452423,JABON FLORESTA RUDA X 80 GR,Cuidado Personal,Cuidado de la Piel
 452425,JABON FLORESTA CONCHA D/NACAR X 80 GR,Cuidado Personal,Cuidado de la Piel
 452612,Shampoo Tio Nacho Herbolaria Milar 2 un 415 ml,Cuidado Personal,Cuidado del Cabello
@@ -13469,6 +13477,7 @@ id_producto,producto,categoria,subcategoria
 553138,Bombon Lindt Lindor Trio Milk 37 gr,Abarrotes,Chocolates y Caramelos
 553139,Chocolate Lindt Nocciolatte 35 g,Abarrotes,Chocolates y Caramelos
 553140,PACK 12 CERVEZA GOLDEN LATA 440 ML,Bebidas,Cervezas
+553141,CHOCOLATE CEIBO CONEJO GUNTER 30GR,Abarrotes,Temporada
 553144,PACK 2 VINO KOHLBERG SEMIDULCE,Bebidas,Vinos y Champagne
 553145,Huevo Pascua Breick 7 Sorpresa 140 gr,Abarrotes,Temporada
 553146,Frejol Rojo Mi Suco 455 gr,Abarrotes,Condimentos y Legumbres
@@ -15123,6 +15132,7 @@ id_producto,producto,categoria,subcategoria
 653593,Cocoa Milko 180 gr,Abarrotes,Nutrición Infantil
 653595,Achocolatado Chocomilko 1 kg,Abarrotes,Nutrición Infantil
 653599,Galleta La Francesa Pancrek Light 190 gr,Abarrotes,Galletas
+653600,Vino Concha y Toro Marques Merlot 750 ml,Bebidas,Vinos y Champagne
 653610,Chocolate Nestle Sublime Blanco 38 gr,Abarrotes,Golosinas - Varias
 653614,Vino Concha y Toro Marques Carmenere 750 ml,Bebidas,Vinos y Champagne
 653615,Vino Terrunyo Carmenere 750 ml,Bebidas,Vinos y Champagne
@@ -19579,6 +19589,7 @@ id_producto,producto,categoria,subcategoria
 736178,Ravioles Mendia Ricota Espinaca 5000 gr,Congelados,Masas y Comidas Congeladas
 736181,Ravioles Mendia Pollo Espinacas 500 gr,Congelados,Masas y Comidas Congeladas
 736192,Ravioles Mendia Ricota Jamon 500 gr,Congelados,Masas y Comidas Congeladas
+741200,Pan con Ajo Clasico Mil Sabores 5 un,Panadería,Panadería Externa
 741202,Cuñape Congelado Mil Sabores 10 un,Congelados,Masas y Comidas Congeladas
 741213,Linguica Calabresa Pernil Cerdo La Boteca 500 gr,Fiambres,Fiambres Externos
 741234,Pacu Despinado Congelado Pacusito kg,Congelados,Carnes Congeladas
