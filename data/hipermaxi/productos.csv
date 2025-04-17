@@ -1161,6 +1161,7 @@ id_producto,producto,categoria,subcategoria
 17652,Barra Quinua Chocolate Chia Almendra 30 gr,Abarrotes,Nutrición Infantil
 17653,Barra Quinua Chocolate Blanco Chia 30 gr,Abarrotes,Nutrición Infantil
 17654,Barra Quinua Mix 30 gr,Abarrotes,Nutrición Infantil
+17665,Aceite DAguirre Oliva Extra Virgen 500 ml,Abarrotes,Básicos
 17668,VINO DONA VITA CHOLERO TINTO 750 ML,Bebidas,Vinos y Champagne
 17676,Chocolate Cofler Block Relleno Untable 290 gr,Abarrotes,Repostería
 17677,Gomita Mogul Ositos 500 gr,Abarrotes,Golosinas - Varias
@@ -1539,7 +1540,7 @@ id_producto,producto,categoria,subcategoria
 24154,CARNE D RES KARNICA LTA 240G,Abarrotes,Comidas en Conserva
 24159,Vape Wake Diamon Cherry Ice 3% 1000 Puffs,Bebidas,Cigarrillos
 24160,Vape Wake Diamon Blueberry Ice 3% 1000 Puffs,Bebidas,Cigarrillos
-24161,VAPE WAKA CREATOR ICY COCONUT 5P 12000 P,Bebidas,Cigarrillos
+24161,Vape Waka Creator Icy Coconut 5% 12000 Puffs,Bebidas,Cigarrillos
 24162,Vape Waka Creator Dark Cherry 5% 12000 Puffs,Bebidas,Cigarrillos
 24163,Kit Waka Creator Disp 1 Dark Cherry 12000,Bebidas,Cigarrillos
 24164,Kit Waka Creator Disp 1 Blueberry Ice 12000,Bebidas,Cigarrillos
@@ -4729,6 +4730,7 @@ id_producto,producto,categoria,subcategoria
 112276,Detergente Polvo Omo Limon 3.8 kg,Cuidado del Hogar,Limpieza de la Ropa
 112277,Quitamanchas Vanish Ropa Blanca 120 gr,Cuidado del Hogar,Limpieza de la Ropa
 112280,Quitamanchas Vanish Pote 2 un 405 gr,Cuidado del Hogar,Limpieza de la Ropa
+112290,AMBIENTADOR TODO BRILLO BEBE 250 CM.,Cuidado del Hogar,Limpieza de Living y Ropero
 112291,Ambientador Aerosol Todo Brillo Hawaiian 360 cm,Cuidado del Hogar,Limpieza de Living y Ropero
 112292,Ambientador Aerosol Todo Brillo Vainilla 360 cm,Cuidado del Hogar,Limpieza de Living y Ropero
 112293,Ambientador Aerosol Todo Brillo Lavanda 360 cm,Cuidado del Hogar,Limpieza de Living y Ropero
@@ -6398,12 +6400,14 @@ id_producto,producto,categoria,subcategoria
 208717,Salsa Molho Kenko Pimienta 1 L,Abarrotes,Productos Americanos
 208971,Vino Campos de Solana Trivarietal Blanco 750 ml,Bebidas,Vinos y Champagne
 209060,JABON LIQUIDO SIEMPRE MELON 1 LT.,Cuidado Personal,Cuidado de la Piel
+209063,VAJILLERO TODOBRILLO DP GALLO  LIMON 1.8,Cuidado del Hogar,Limpieza de Cocina
 209163,Galleta de Avena Almendra Vikinger,Panadería,Panadería Externa
 209260,AGUA DESTILADA 1 LT 1000C,Bazar,Automotriz
 209273,Acondicionador Revive Curly sin Sal 340 ml,Cuidado Personal,Cuidado del Cabello
 209274,Crema Tratamiento Capilar Revive Curly sin Sal 300 gr,Cuidado Personal,Cuidado del Cabello
 209309,Vino La Concepcion Sauvignon Blanco Reserva 750 ml,Bebidas,Vinos y Champagne
 209325,Vino Concepcion Estirpe Tinto 700 ml,Bebidas,Vinos y Champagne
+209464,SUAVIZANTE TODOBRILLO DP  GALLO  MARINA,Cuidado del Hogar,Limpieza de la Ropa
 209530,Pack Kotex Nocturna Discreta 24 Und,Cuidado Personal,Cuidado Familiar
 209531,Pack Toallas Humedas Huggies Caja 640 Und,Cuidado del Bebé,Cuidado del Bebé
 209533,COPOS DE ALGODON SEPTONA 100UN,Cuidado del Bebé,Cuidado del Bebé
@@ -7652,6 +7656,8 @@ id_producto,producto,categoria,subcategoria
 240670,"PACK BANANA SH + MASCARA, HAIR FOOD",Cuidado Personal,Cuidado del Cabello
 240671,"PACK ALOE VERA SH + MASCARA, HAIR FOOD",Cuidado Personal,Cuidado del Cabello
 240673,"PACK AGUACATE SH + MASCARA, HAIR FOOD",Cuidado Personal,Cuidado del Cabello
+240674,CREMA BABARIA FACIAL SOLAR HIALURON. SPF,Cuidado Personal,Cuidado de la Piel
+240675,SERUM BABARIA FACIAL SOLAR HIALURON. SPF,Cuidado Personal,Cuidado de la Piel
 240676,GEL LIMPIADOR  FACIAL HIALURONICO BABARI,Cuidado Personal,Cuidado de la Piel
 240677,GEL LIMPIADOR  FACIAL VITAMINA C BABARIA,Cuidado Personal,Cuidado de la Piel
 240678,NECESER BABARIA LUNARES HIALURONICO,Cuidado Personal,Cuidado de la Piel
@@ -11103,6 +11109,7 @@ id_producto,producto,categoria,subcategoria
 475530,Mejillones Robinson Crusoe al Aceite 190 gr,Abarrotes,Comidas en Conserva
 475634,Matambre de Cerdo Frigopor kg,Congelados,Carnes Congeladas
 476609,Achocolatado Chocolike 1 kg,Abarrotes,Nutrición Infantil
+477249,Lomito de Cerdo Colonia Pirai kg,Fiambres,Fiambres Externos
 477656,Salsa La Costeña Verde 450 gr,Abarrotes,Aderezos
 477664,Salsa La Costeña Ranchera 450 gr,Abarrotes,Aderezos
 478113,Jamon Linea Caliente Dillman kg,Fiambres,Fiambres Externos
@@ -18780,7 +18787,7 @@ id_producto,producto,categoria,subcategoria
 674302,6 PACK YOGURT IOGO 0 AZUCAR SELECCION SABORES 6X120,Lácteos y Derivados,Yogures
 674303,NECTAR CONCENTRADO FRUKO PINA CAJA 12 UNI,Congelados,Pulpas y Frutas Congeladas
 674304,NECTAR CONCENTRADO DURAZNO FRUKO CAJA 12 UNI,Congelados,Pulpas y Frutas Congeladas
-674305,NECTAR CONCENTRADO MARACUYA FRUKO CAJA 12 UNI,Congelados,Pulpas y Frutas Congeladas
+674305,Nectar Concentrado Maracuya Fruko 12 un,Congelados,Pulpas y Frutas Congeladas
 674306,NECTAR CONCENTRADO ASAI FRUKO CAJA 12 UNI,Congelados,Pulpas y Frutas Congeladas
 674307,Nectar Concentrado Naranja Fruko 12 un,Congelados,Pulpas y Frutas Congeladas
 674308,Pasta de Higado de Pollo Ovoplus 100 gr,Fiambres,Fiambres Externos
@@ -19896,6 +19903,7 @@ id_producto,producto,categoria,subcategoria
 782175,Jugo Aquarius Manzana 2 L,Bebidas,"Jugos, Néctar"
 782186,Jugo Aquarius Pera 2 L,Bebidas,"Jugos, Néctar"
 782242,Mini Salchicha de Res Sofia 10 un,Fiambres,Fiambres Externos
+782302,Colita de Cerdo Ahumada Colonia Pirai kg,Fiambres,Fiambres Externos
 782314,Queso Edam La Purita 500 gr,Lácteos y Derivados,Quesos
 782317,Mix Eterovic Mini Budines 4 Sabores 700 gr,Pastelería y Masas Típicas,Pastelería Externa
 782338,Albondigas de Res Sofia Caja 15 un,Congelados,Carnes Congeladas
@@ -19971,6 +19979,7 @@ id_producto,producto,categoria,subcategoria
 783463,Queso Sandwichero Feteado Guaruja 200 gr,Lácteos y Derivados,Quesos
 783467,Galleta Eterovic de Almendra Medialuna 16 un,Pastelería y Masas Típicas,Pastelería Externa
 783469,Matambre de Cerdo Sofia kg,Congelados,Carnes Congeladas
+783471,Morcilla Colonia Pirai kg,Fiambres,Fiambres Externos
 783476,Cuñape Mini Monona Tradicional 65 gr,Pastelería y Masas Típicas,Masas Típicas Externas
 783478,Mix de Locoto Guaruja 350 gr,Fiambres,Fiambres Externos
 783479,Tocino Feteado Zenteno 100 gr,Fiambres,Fiambres Externos
@@ -22738,6 +22747,7 @@ id_producto,producto,categoria,subcategoria
 878748,Vaporizador,Bazar,Bioseguridad
 878772,SMARTLIFE EXPRIMIDOR INOX 0.8L,Bazar,Electrodoméstico/Línea Blanca-Hogar
 878784,Sopa Instantanea Ajinomen Pollo con Verdura 80 gr,Abarrotes,Básicos
+878848,CHOCLO PROMOS LTA 248 GR,Abarrotes,Verduras en Conserva
 878957,Quinua Pop 100  Natural 100 gr,Abarrotes,Nutrición Infantil
 879074,Papa Chippitas Onduladas Picante 185 gr,Abarrotes,Snack
 879148,MA PLATILLO CUMPLEANOS,Bazar,Cotillón
