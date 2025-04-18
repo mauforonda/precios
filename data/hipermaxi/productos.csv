@@ -1506,6 +1506,7 @@ id_producto,producto,categoria,subcategoria
 24087,Fideo Gustoso Mod 31 Linguine 400 gr,Abarrotes,Básicos
 24088,Fideo Gustoso Mod 16 Tubito 400 gr,Abarrotes,Básicos
 24089,Café Iguazu Instantaneo 100 gr,Abarrotes,Café y Sucedáneos
+24092,PACK RON ABUELO 12A 750 ML 1 OAKS 200 ML,Bebidas,Licores
 24097,Cigarrillo Bohem Mango Double 20 un,Bebidas,Cigarrillos
 24098,COMITA BILLIKEN BANANITA 150G,Abarrotes,Golosinas - Varias
 24099,Gomita Billiken Ositos 150 gr,Abarrotes,Golosinas - Varias
@@ -1601,13 +1602,17 @@ id_producto,producto,categoria,subcategoria
 25043,MEZCAL DON RAMON ESPADIN 750 ML,Bebidas,Licores
 25046,CERVEZA DUCAL LTA 269ML,Bebidas,Cervezas
 25048,FIDEO NIDO PALOMA  400 GR,Abarrotes,Básicos
+25049,ACEITE D COCO SANTIAGO FCO 360G,Abarrotes,Básicos
 25050,NESCAFE TRADICION T ROJA FCO 160G,Abarrotes,Café y Sucedáneos
 25052,PACK GALLETA ROSQ MABELS 10U 324G,Abarrotes,Galletas
+25054,CAFE B VISTA BARISTA BLEND GRANO 250G,Abarrotes,Café y Sucedáneos
+25055,CAFE B VISTA IRUPANA GRANO 250G,Abarrotes,Café y Sucedáneos
 25062,ACEITE D OLIVA AGUIRRE EXT VIRG FCO 250M,Abarrotes,Básicos
 25064,PACK SUPER SNACKS 6UND,Abarrotes,Snack
 25065,CHUPETE BON BON BUM SANDIA SENSAT 336G,Abarrotes,Chocolates y Caramelos
 25066,CHOCOL VIZZIO C MANI CJA 70G,Abarrotes,Chocolates y Caramelos
 25070,SOPA INST ZAELI PIMIENTA BSA 85G,Abarrotes,Básicos
+25072,LOMO D JUREL SAN JOSE AL ACEITE 160G,Abarrotes,Comidas en Conserva
 25640,Surtido de Mariscos Robinson Crusoe Natural 190 gr,Abarrotes,Comidas en Conserva
 25771,Huevos Caisy 12 un,Lácteos y Derivados,Huevos
 25789,Galleta Rocklets Chocolate 118 gr,Abarrotes,Galletas
@@ -7868,6 +7873,7 @@ id_producto,producto,categoria,subcategoria
 249052,TALCO PORTUGAL BEBE ZINC 250,Cuidado del Bebé,Cuidado del Bebé
 249058,GEL FIJADOR SUPER FIX  275G,Cuidado Personal,Cuidado del Cabello
 249062,PROT SOLAR SUNBEAT 50+ SPORT 200G,Cuidado Personal,Cuidado de la Piel
+249063,TALCO PIE SILKA 150GR,Cuidado Personal,Cuidado de la Piel
 249077,CEPILLO DENTALCLEAN CARS 95,Cuidado del Bebé,Kids
 249319,Licor Cusenier Menta 700 ml,Bebidas,Licores
 249394,Licor de Café Cusenier 700 ml,Bebidas,Licores
@@ -11692,6 +11698,7 @@ id_producto,producto,categoria,subcategoria
 540250,Fideo Carozzi Ojos De Diuca 250 gr,Abarrotes,Básicos
 540269,Fideo Carozzi Granizo 250 gr,Abarrotes,Básicos
 540439,Ensalada Atun Real Escabeche 174 gr,Abarrotes,Comidas en Conserva
+540455,ATUN REAL LOMITOS AL ACEITE LTA 160G,Abarrotes,Comidas en Conserva
 540463,ATUN REAL LOMITOS AL AGUA LTA 160G,Abarrotes,Comidas en Conserva
 540471,Atun Real Lomito en Aceite 185 gr,Abarrotes,Comidas en Conserva
 540480,Atun Real Lomito en Agua 185 gr,Abarrotes,Comidas en Conserva
@@ -13485,6 +13492,7 @@ id_producto,producto,categoria,subcategoria
 553139,Chocolate Lindt Nocciolatte 35 g,Abarrotes,Chocolates y Caramelos
 553140,PACK 12 CERVEZA GOLDEN LATA 440 ML,Bebidas,Cervezas
 553141,CHOCOLATE CEIBO CONEJO GUNTER 30GR,Abarrotes,Temporada
+553143,CHOCOLATE CEIBO CONEJO BONNY 250GR,Abarrotes,Temporada
 553144,PACK 2 VINO KOHLBERG SEMIDULCE,Bebidas,Vinos y Champagne
 553145,Huevo Pascua Breick 7 Sorpresa 140 gr,Abarrotes,Temporada
 553146,Frejol Rojo Mi Suco 455 gr,Abarrotes,Condimentos y Legumbres
@@ -13505,6 +13513,7 @@ id_producto,producto,categoria,subcategoria
 553170,GALLETAS CARSA MEGA CHIP O CHIP VAINILLA,Abarrotes,Galletas
 553171,VINO TINTO SEMIDULCE  FINCA ATAMISQUE 75,Bebidas,Vinos y Champagne
 553175,NACHO DR PICKS S PIZZA BSA 200G,Abarrotes,Snack
+553176,PACK 12 PEPSI BLACK 250 CC,Bebidas,Gaseosas
 553177,CHOCOLATE M Y M CRISPY 35 GR,Abarrotes,Golosinas - Varias
 553178,CHOCOLATE TWIX TRIPLE CHOCOLATE 40 GR,Abarrotes,Golosinas - Varias
 554333,Cerveza Paceña Lata Roja 473 Cc,Bebidas,Cervezas
@@ -15570,6 +15579,7 @@ id_producto,producto,categoria,subcategoria
 656661,Pan Molde Ceab Integral 500 gr,Panadería,Panadería Externa
 656666,Pan de Panchito Ceab 10 un,Panadería,Panadería Externa
 656669,Pan de Hamburguesa Ceab 10 un,Panadería,Panadería Externa
+656672,BIZCOCHOS CEAB 10 UNI,Pastelería y Masas Típicas,Pastelería Externa
 656674,Pan Dietetico Ceab Redondo 10 un,Panadería,Panadería Externa
 656675,PANETON CEAB 700GR. BOLSA CLASICO,Panadería,Panadería Externa
 656678,PANETON CEAB DE CHOCOLATE 700 GRS BOLSA,Panadería,Panadería Externa
@@ -21501,6 +21511,7 @@ id_producto,producto,categoria,subcategoria
 846860,CH G12 14 PLANTA ARTIFICIAL CON MACETA GRIS 16X14CM,Bazar Importación,Regalos/Adornos
 846861,CH G12 15 PLANTA ARTIFICIAL HOJAS CON MACETA GRIS,Bazar Importación,Regalos/Adornos
 846891,Mayonesa Hellmanns Light 475 gr,Abarrotes,Dietéticos y Saludables
+846915,Trio Kris San Juan 200 gr,Abarrotes,Temporada
 846919,CH Y27 2 MOLDE RECTANGULAR DE SILICONA COOKSTYLE 25X12X7CM,Bazar Importación,Cocina General
 846922,Molde De Silicona  24X24X5Cm - Cookstyle,Bazar Importación,Cocina General
 846927,CH Y27 9 MOLDE PARA BUDIN ESPIRAL DE SILICONA 24CM COOKSTYLE,Bazar Importación,Cocina General
