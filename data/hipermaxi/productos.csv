@@ -1606,7 +1606,7 @@ id_producto,producto,categoria,subcategoria
 25046,CERVEZA DUCAL LTA 269ML,Bebidas,Cervezas
 25048,FIDEO NIDO PALOMA  400 GR,Abarrotes,Básicos
 25049,ACEITE D COCO SANTIAGO FCO 360G,Abarrotes,Básicos
-25050,NESCAFE TRADICION T ROJA FCO 160G,Abarrotes,Café y Sucedáneos
+25050,Cafe Nescafe Tradicional Tapa Roja 160 gr,Abarrotes,Café y Sucedáneos
 25052,PACK GALLETA ROSQ MABELS 10U 324G,Abarrotes,Galletas
 25053,CAFE B VISTA SAMAIPATA MOLID 250G,Abarrotes,Café y Sucedáneos
 25054,CAFE B VISTA BARISTA BLEND GRANO 250G,Abarrotes,Café y Sucedáneos
@@ -3198,7 +3198,7 @@ id_producto,producto,categoria,subcategoria
 71072,Cafe Melitta Extra Fuerte 250 gr,Abarrotes,Café y Sucedáneos
 71129,Cafe Melitta Tradicional 500 gr,Abarrotes,Café y Sucedáneos
 71161,Cafe Nescafe Original Tapa Negra 100 gr,Abarrotes,Café y Sucedáneos
-71170,Cafe Nescafe Original Tapa Negra 200 gr,Abarrotes,Café y Sucedáneos
+71170,Cafe Nescafe Original Tapa Negra 160 gr,Abarrotes,Café y Sucedáneos
 71173,Azucar Becoco de Coco 250 gr,Abarrotes,Dietéticos y Saludables
 71174,Hojuelas Becoco de Coco Chips 250 gr,Abarrotes,Dietéticos y Saludables
 71612,Proteina de Soya Mama Soja 250 gr,Abarrotes,Comidas en Conserva
@@ -13508,6 +13508,7 @@ id_producto,producto,categoria,subcategoria
 553121,Galleta Wafer Colombina Fresa 288 gr,Abarrotes,Galletas
 553122,GALLETA BRINKY CHOCOLATE 300 GR,Abarrotes,Galletas
 553123,GALLETA BRINKY VAINILLA 300 GR,Abarrotes,Galletas
+553124,Granola Foodness Montecristo 300 gr,Abarrotes,Nutrición Infantil
 553127,Cafe Orange Cup Geisha Grano 250 gr,Abarrotes,Café y Sucedáneos
 553128,Cafe Orange Cup Geisha Molido 250 gr,Abarrotes,Café y Sucedáneos
 553131,Pack Windsor Dia Del Padre 35 gr,Abarrotes,Café y Sucedáneos
@@ -14779,7 +14780,7 @@ id_producto,producto,categoria,subcategoria
 645856,Enciende Fuego x2,Bazar,Churrasquería
 646077,Mortadela Cervecero Stege al Vacio,Fiambres,Fiambres Externos
 646106,Chorizo Ahumado Stege kg,Fiambres,Fiambres Externos
-646111,Silpancho Stege al Vacio,Fiambres,Fiambres Externos
+646111,Silpancho Stege al Vacio,Congelados,Carnes Congeladas
 646320,Desmaquillante Nivea Basico Ojo 125 ml,Cuidado Personal,Cuidado de la Piel
 646408,Avena Princesa Salvado 250 gr,Abarrotes,Nutrición Infantil
 646413,Salvado de Trigo Princesa 250 gr,Abarrotes,Nutrición Infantil
@@ -14981,7 +14982,7 @@ id_producto,producto,categoria,subcategoria
 650850,Achocalla Flor de Leche Maduro kg,Lácteos y Derivados,Quesos
 650858,Queso Roca Flor de Leche Illimani Maduro kg,Lácteos y Derivados,Quesos
 650877,Escabeche de Cebollitas Sanguchero Stege 500 gr,Fiambres,Fiambres Externos
-650884,Milaneza de Pollo Stege 6 un,Fiambres,Fiambres Externos
+650884,Milaneza de Pollo Stege 6 un,Congelados,Carnes Congeladas
 650888,Queso Roca Flor de Leche Illimani Viejo kg,Lácteos y Derivados,Quesos
 650920,Yogustar Soalpro Galactica Fruti 60 ml,Lácteos y Derivados,Leches
 650926,Yogustar Soalpro Galactica Mora 60 ml,Lácteos y Derivados,Leches
@@ -17352,6 +17353,7 @@ id_producto,producto,categoria,subcategoria
 669277,PACK DOWNY FLORAL (2PZA) 800ML X 1U,Cuidado del Hogar,Limpieza de la Ropa
 669278,PACK DOWNY PASSION (2PZA) 750ML X 1U,Cuidado del Hogar,Limpieza de la Ropa
 669294,REVIVE SHAMPOO LISO Y SEDOSO 12X600 ML,Cuidado Personal,Cuidado del Cabello
+669297,TB DETER POLVO MATIC C/SUAV 3X4.8KG,Cuidado del Hogar,Limpieza de la Ropa
 669298,AXE AER COCO 12X96G/150ML,Cuidado Personal,Cuidado de la Piel
 669901,Pizza Hipermaxi Congelada Hawaiana 620 gr,Congelados,Masas y Comidas Congeladas
 669902,Pizza Hipermaxi Congelada Jamon Queso Light Masa Integral,Congelados,Masas y Comidas Congeladas
@@ -17639,7 +17641,7 @@ id_producto,producto,categoria,subcategoria
 671163,Cuñape Abizcochados Crocsitos,Pastelería y Masas Típicas,Masas Típicas Externas
 671179,Dulce de Leche Sancor Repostero 400 gr,Lácteos y Derivados,Dulces de Leche y Manjares
 671196,Helado Pil Panono Dulce de Leche 85 ml,Congelados,"Helados, Cassattas y Picoleses"
-671208,Hamburguesa Stege 2 un 140 gr,Fiambres,Fiambres Externos
+671208,Hamburguesa Stege 2 un 140 gr,Congelados,Carnes Congeladas
 671215,Yogurt Fatyh Plastica 850 cc,Lácteos y Derivados,Yogures
 671216,Yogurt Fatyh Plastica 500 cc,Lácteos y Derivados,Yogures
 671217,Yogurt Fatyh Plastica 200 cc,Lácteos y Derivados,Yogures
