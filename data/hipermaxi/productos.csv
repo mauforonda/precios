@@ -585,6 +585,7 @@ id_producto,producto,categoria,subcategoria
 14204,Ciruela Deshidratada Confrut 100 gr,Abarrotes,Frutas en Conserva
 14205,Manzana Deshidratada Confrut 50 gr,Abarrotes,Frutas en Conserva
 14206,Piña Deshidratada Confrut 50 gr,Abarrotes,Frutas en Conserva
+14207,Mermelada Confrut Durazno Zapallo Jengibre 220 gr,Abarrotes,"Mermel, Mieles"
 14208,Mermelada Confrut Guayaba Jamaica Curcuma 220 gr,Abarrotes,"Mermel, Mieles"
 14209,Mermelada Confrut Frutilla Yacon 220 gr,Abarrotes,"Mermel, Mieles"
 14210,Mermelada Confrut Mora Berenjena 220 gr,Abarrotes,"Mermel, Mieles"
@@ -1553,6 +1554,7 @@ id_producto,producto,categoria,subcategoria
 24170,PESTO VALENCIANA TOMAT DESHID ROSSO 200G,Abarrotes,Verduras en Conserva
 24172,MANI PINZONES S PIZZA BSA 220G,Abarrotes,Snack
 24173,TOMATE DESHID VALENCIANA PINCANTE 180G,Abarrotes,Verduras en Conserva
+24175,Arandanos Deshidratados Natureza 50 gr,Abarrotes,Frutas en Conserva
 24176,MIX FRUTAS DESHID NATUREZA 50G,Abarrotes,Frutas en Conserva
 24306,Ron Flor de Caña 5 Años 750 ml,Bebidas,Licores
 24401,"Edulcorante  Dulzero Clasico 250 ml
@@ -1624,6 +1626,7 @@ id_producto,producto,categoria,subcategoria
 25078,ENERGY ROCKSTAR FRUIT PET 300ML,Bebidas,Energizantes
 25080,WAFER PROMOS HAZELNUT CREAM 120G,Abarrotes,Galletas
 25104,CHUPETE BON BON BUM UVA FRESA 336G,Abarrotes,Chocolates y Caramelos
+25108,ISOTONICO SANTE VITAM NARANJ LIMON 1LT,Bebidas,Isotónicos
 25109,ISOTONICO SANTE COLAGENO LIMON 1LT,Bebidas,Isotónicos
 25640,Surtido de Mariscos Robinson Crusoe Natural 190 gr,Abarrotes,Comidas en Conserva
 25771,Huevos Caisy 12 un,Lácteos y Derivados,Huevos
@@ -1703,7 +1706,7 @@ id_producto,producto,categoria,subcategoria
 26088,PACK 2 GALLETAS CHIPS AHOY 222G,Abarrotes,Galletas
 26089,PACK 2GALLETAS RITZ 180G,Abarrotes,Galletas
 26090,PACK 2PASTAS CAROZZI L 1SALSA POMAROLA,Abarrotes,Básicos
-26092,CHOCOLATE BREICK CAFE MOCA TAB 100G,Abarrotes,Chocolates y Caramelos
+26092,Chocolate Breick Cafe Moca 100 gr,Abarrotes,Chocolates y Caramelos
 26094,Chocolate Breick Blanco 100 gr,Abarrotes,Chocolates y Caramelos
 26095,Chocolate Breick Leche 100 gr,Abarrotes,Chocolates y Caramelos
 26099,COBERTURA BREICK CHOCOL AMARGO 250G,Abarrotes,Repostería
@@ -1716,6 +1719,7 @@ id_producto,producto,categoria,subcategoria
 26108,Chocolate Breick Damasco Barra 95 gr,Abarrotes,Chocolates y Caramelos
 26110,Kit Paella Carmencita Marisco 4P 490 gr,Abarrotes,Condimentos y Legumbres
 26112,Aceituna Goya Rellena Queso Azul 149 gr,Abarrotes,Verduras en Conserva
+26114,Aceituna Goya Rellena Anchoas 149 gr,Abarrotes,Verduras en Conserva
 26117,Mezcla para Brownies Leche Chocolate Pillsbury 521 gr,Abarrotes,Repostería
 26118,Cafe Illy Clasico Blend 18 Capsulas,Abarrotes,Café y Sucedáneos
 26119,Galleta Nutri Hit Quinoa Cafe Chocolate 180 gr,Abarrotes,Dietéticos y Saludables
@@ -4751,6 +4755,7 @@ id_producto,producto,categoria,subcategoria
 112277,Quitamanchas Vanish Ropa Blanca 120 gr,Cuidado del Hogar,Limpieza de la Ropa
 112280,Quitamanchas Vanish Pote 2 un 405 gr,Cuidado del Hogar,Limpieza de la Ropa
 112284,AMBIENTADOR TODO BRILLO MANZANA CANELA 2,Cuidado del Hogar,Limpieza de Living y Ropero
+112288,AMBIENTADOR TODO BRILLO FLORAL 250 CM.,Cuidado del Hogar,Limpieza de Living y Ropero
 112289,AMBIENTADOR TODO BRILLO BRISA MARINA 250 CM.,Cuidado del Hogar,Limpieza de Living y Ropero
 112290,AMBIENTADOR TODO BRILLO BEBE 250 CM.,Cuidado del Hogar,Limpieza de Living y Ropero
 112291,Ambientador Aerosol Todo Brillo Hawaiian 360 cm,Cuidado del Hogar,Limpieza de Living y Ropero
@@ -6091,6 +6096,7 @@ id_producto,producto,categoria,subcategoria
 168816,Paneton Hipermaxi Edicion Especial Chocolate 980 gr,Panadería,Panadería Hipermaxi
 169010,Shampoo Vitane Liso 400 ml,Cuidado Personal,Cuidado del Cabello
 169011,Acondicionador Vitane Liso 400 ml,Cuidado Personal,Cuidado del Cabello
+169013,Shampoo Vitane Rizos 400 ml,Cuidado Personal,Cuidado del Cabello
 169014,Acondicionador Vitane Rizos 400 ml,Cuidado Personal,Cuidado del Cabello
 169102,Paella El Unico Carmencita 5 un,Abarrotes,Productos Americanos
 169856,Pasta Dental Colgate Sensitive Pro Alivio 110 gr,Cuidado Personal,Cuidado Bucal
@@ -6428,6 +6434,7 @@ id_producto,producto,categoria,subcategoria
 208717,Salsa Molho Kenko Pimienta 1 L,Abarrotes,Productos Americanos
 208971,Vino Campos de Solana Trivarietal Blanco 750 ml,Bebidas,Vinos y Champagne
 209060,JABON LIQUIDO SIEMPRE MELON 1 LT.,Cuidado Personal,Cuidado de la Piel
+209061,SUAVIZANTE TODOBRILLO DP FLORAL 1.8LT,Cuidado del Hogar,Limpieza de la Ropa
 209062,VAJILLERO TODOBRILLO DP  GALLO  LIMON 90,Cuidado del Hogar,Limpieza de Cocina
 209063,VAJILLERO TODOBRILLO DP GALLO  LIMON 1.8,Cuidado del Hogar,Limpieza de Cocina
 209065,SUAVISANTE TODOBRILLO DP GALLO FLORAL 90,Cuidado del Hogar,Limpieza de la Ropa
@@ -7786,6 +7793,7 @@ id_producto,producto,categoria,subcategoria
 240804,SHAMPOO ALGABO ACAI ROMERO 750 ML,Cuidado Personal,Cuidado del Cabello
 240805,SHAMPOO ALGABO OLIVA ARGAN 750 ML,Cuidado Personal,Cuidado del Cabello
 240806,ACONDC ALGABO ACAI ROMEO 750 ML,Cuidado Personal,Cuidado del Cabello
+240807,JABONCILLO SUSI ROSAS 3X80GR,Cuidado Personal,Cuidado de la Piel
 240808,JABONCILLO SUSI FLORES Y MIEL 3X80GR,Cuidado Personal,Cuidado de la Piel
 240809,JABONCILLO SUSI FLORES Y LECHE 3X80GR,Cuidado Personal,Cuidado de la Piel
 240810,ACEITE BABY OIL CARE STUDIO ROSA 296 ML,Cuidado del Bebé,Cuidado del Bebé
@@ -7912,6 +7920,10 @@ id_producto,producto,categoria,subcategoria
 249063,TALCO PIE SILKA 150GR,Cuidado Personal,Cuidado de la Piel
 249072,PACK MAXIBRILL VAJILLERO Y ANTIGRASA 600 ML,Cuidado del Hogar,Limpieza de Cocina
 249077,CEPILLO DENTALCLEAN CARS 95,Cuidado del Bebé,Kids
+249079,CEPILLO DENTALCLEAN JOVENS JEDY,Cuidado del Bebé,Kids
+249080,CEPILLO DENTALCLEAN JOVEN JEDI C ESTUCHE,Cuidado del Bebé,Kids
+249081,CEPILLO DENTALCLEAN CARS C ESTUCHE,Cuidado del Bebé,Kids
+249082,PANO ALKLIN COLOR 25X25 CM,Cuidado del Hogar,Accesorios del Hogar
 249319,Licor Cusenier Menta 700 ml,Bebidas,Licores
 249394,Licor de Café Cusenier 700 ml,Bebidas,Licores
 249793,Cotonetes Johnsons Caja 300 un,Cuidado del Bebé,Cuidado del Bebé
@@ -13296,7 +13308,7 @@ id_producto,producto,categoria,subcategoria
 552830,VINO APALTAGUA ES MERLOT 750ML,Bebidas,Vinos y Champagne
 552831,VINO APALTAGUA GRAN VERANO MERLOT 750 ML,Bebidas,Vinos y Champagne
 552832,VINO APALTAGUA RESERVA CARMENERE 750 ML,Bebidas,Vinos y Champagne
-552833,VINO APALTAGUA CARMENERE 750ML,Bebidas,Vinos y Champagne
+552833,Vino Apaltagua Carmenere 750 ml,Bebidas,Vinos y Champagne
 552834,VINO APALTAGUA GRAN VERANO CARMENERE 750,Bebidas,Vinos y Champagne
 552835,VINO APALTAGUA ES CABERNET SAUVIGNON 750,Bebidas,Vinos y Champagne
 552836,PACK 3X2 HUEVO MRM X 6 UNID,Lácteos y Derivados,Huevos
@@ -13569,11 +13581,14 @@ id_producto,producto,categoria,subcategoria
 553176,PACK 12 PEPSI BLACK 250 CC,Bebidas,Gaseosas
 553177,CHOCOLATE M Y M CRISPY 35 GR,Abarrotes,Golosinas - Varias
 553178,CHOCOLATE TWIX TRIPLE CHOCOLATE 40 GR,Abarrotes,Golosinas - Varias
+553180,PIPOCA JOHNS POP SWEET SALTY 100 GR,Abarrotes,Snack
 553209,GASEOSA PEPSI BLACK 2LT,Bebidas,Gaseosas
 553211,MOLLEJAS DE POLLO COMIPET 80 GR,Abarrotes,Mascotas
 553213,ISPI DESHID COMIPET 40 GR,Abarrotes,Mascotas
 553221,"CERVEZA PAULANER WEISSBIER BOT 0,33 L",Bebidas,Cervezas
 553224,LECHE BECOCO CONDENSADA DE COCO 250GR,Abarrotes,Dietéticos y Saludables
+553230,PULPA CAYETANA CIRUELA LTA 280G,Abarrotes,Frutas en Conserva
+553231,PULPA CAYETANA ACHACHAIRU LTA 280G,Abarrotes,Frutas en Conserva
 554333,Cerveza Paceña Lata Roja 473 Cc,Bebidas,Cervezas
 554466,Detergente Liquido Ola Futuro Limpieza Completa 5 L,Cuidado del Hogar,Limpieza de la Ropa
 554468,Suavizante Ropa Ola Suavecito Original 5 L,Cuidado del Hogar,Limpieza de la Ropa
@@ -13808,6 +13823,7 @@ id_producto,producto,categoria,subcategoria
 586897,Spray Easy Cheese Cheddar Kraft 8 oz,Lácteos y Derivados,Quesos
 587052,Mostaza French Classic Yellow 14 oz,Abarrotes,Productos Americanos
 587095,Cafe Nescafe Descafeinado 100 gr,Abarrotes,Café y Sucedáneos
+587265,Filete de Caballa San Lucas 175 gr,Abarrotes,Comidas en Conserva
 587648,"Edulcorante  Equal 50 un
 ",Abarrotes,Dietéticos y Saludables
 588130,Gaseosa Simba Durazno 2 L,Bebidas,Gaseosas
@@ -15054,6 +15070,7 @@ id_producto,producto,categoria,subcategoria
 651278,Mermelada Campagnola Arandano 454 gr,Abarrotes,"Mermel, Mieles"
 651281,Papa Mix Chip Frita 300 gr,Abarrotes,Snack
 651286,Mani Delimix Salado con Pasas 300 gr,Abarrotes,Snack
+651301,CERVEZA PAULANER ORIGINAL 0.33L,Bebidas,Cervezas
 651305,Cerveza Erdinger Urweisse 0.5 L,Bebidas,Cervezas
 651311,Leche Bella Holandesa Polvo 1.8 kg,Abarrotes,Nutrición Infantil
 651370,Azafran Molido Extra Carmencita 375 gr,Abarrotes,Productos Americanos
@@ -16589,6 +16606,10 @@ id_producto,producto,categoria,subcategoria
 667346,Shampoo Elvive Color Vive 680 ml,Cuidado Personal,Cuidado del Cabello
 667349,Desodorante Roll On Nivea Silky 50 ml,Cuidado Personal,Cuidado de la Piel
 667370,Shampoo Childys Manzanilla 200 ml,Aseo Del Bebé,Aseo Del Bebé
+667371,Bolsa Basura Limpito 140 L 10 un,Cuidado del Hogar,Accesorios del Hogar
+667372,Bolsa Basura Limpito 75 L 10 un,Cuidado del Hogar,Accesorios del Hogar
+667373,Bolsa Basura Limpito 50 L 10 un,Cuidado del Hogar,Accesorios del Hogar
+667374,Bolsa Basura Limpito 35 L 10 un,Cuidado del Hogar,Accesorios del Hogar
 667375,Shampoo Childys Manzanilla 400 ml,Cuidado del Bebé,Cuidado del Bebé
 667378,Shampoo Childys Girasol 200 ml,Cuidado del Bebé,Cuidado del Bebé
 667380,Acondicionador Childys Manzanilla 200 ml,Cuidado del Bebé,Cuidado del Bebé
@@ -16656,6 +16677,7 @@ id_producto,producto,categoria,subcategoria
 667573,Mermelada Del Valle Maracuya 450 gr,Abarrotes,"Mermel, Mieles"
 667574,Salsa Del Valle Tomate Italiano 350 gr,Abarrotes,Salsas y Extracto de Tomate
 667575,Mezcla Pancake Celinda 400 gr,Abarrotes,Repostería
+667578,Bolsa Basura Limpito 25 L 10 un,Cuidado del Hogar,Accesorios del Hogar
 667583,Lomito de Trucha Titikaka al Agua 165 gr,Abarrotes,Comidas en Conserva
 667584,Lomito de Trucha Titikaka Limon 165 gr,Abarrotes,Comidas en Conserva
 667586,Detergente Polvo Skip Perfectos Resultados 2 kg,Cuidado del Hogar,Limpieza de la Ropa
@@ -17383,6 +17405,7 @@ id_producto,producto,categoria,subcategoria
 669294,REVIVE SHAMPOO LISO Y SEDOSO 12X600 ML,Cuidado Personal,Cuidado del Cabello
 669297,TB DETER POLVO MATIC C/SUAV 3X4.8KG,Cuidado del Hogar,Limpieza de la Ropa
 669298,AXE AER COCO 12X96G/150ML,Cuidado Personal,Cuidado de la Piel
+669331,JABON INTIMO MANZANILLA/CALENDULA 220 ML,Cuidado Personal,Cuidado del Adulto
 669901,Pizza Hipermaxi Congelada Hawaiana 620 gr,Congelados,Masas y Comidas Congeladas
 669902,Pizza Hipermaxi Congelada Jamon Queso Light Masa Integral,Congelados,Masas y Comidas Congeladas
 669903,Pizza Hipermaxi Congelada Pepperoni 620 gr,Congelados,Masas y Comidas Congeladas
@@ -17967,6 +17990,7 @@ id_producto,producto,categoria,subcategoria
 672308,Nuggets Pio Rico de Pollo 500 gr,Congelados,Carnes Congeladas
 672309,Milanesa Pio Rico Pollo Napolitana 4 un,Congelados,Carnes Congeladas
 672310,Filete de Pollo Finas Hierbas Pio Rico 500 gr,Congelados,Carnes Congeladas
+672311,Chicharron de Pollo Pio Rico 500 gr,Congelados,Carnes Congeladas
 672312,Filete de Pollo Limon Ajo Pio Rico 500 gr,Congelados,Carnes Congeladas
 672313,Hamburguesa Prosana de Garbanzo Hierbas Aromaticas,Congelados,Carnes Congeladas
 672314,Helado Delizia Tres Leche 1 L,Congelados,"Helados, Cassattas y Picoleses"
@@ -18867,7 +18891,7 @@ id_producto,producto,categoria,subcategoria
 674303,NECTAR CONCENTRADO FRUKO PINA CAJA 12 UNI,Congelados,Pulpas y Frutas Congeladas
 674304,NECTAR CONCENTRADO DURAZNO FRUKO CAJA 12 UNI,Congelados,Pulpas y Frutas Congeladas
 674305,Nectar Concentrado Maracuya Fruko 12 un,Congelados,Pulpas y Frutas Congeladas
-674306,NECTAR CONCENTRADO ASAI FRUKO CAJA 12 UNI,Congelados,Pulpas y Frutas Congeladas
+674306,Nectar Concentrado Asai Fruko 12 un,Congelados,Pulpas y Frutas Congeladas
 674307,Nectar Concentrado Naranja Fruko 12 un,Congelados,Pulpas y Frutas Congeladas
 674308,Pasta de Higado de Pollo Ovoplus 100 gr,Fiambres,Fiambres Externos
 674309,PANETON CHOCO CHERRY OVOPLUS CAJA 540 GRS,Panadería,Panadería Externa
@@ -18929,6 +18953,7 @@ id_producto,producto,categoria,subcategoria
 674419,CHULETA T BONE DE CERDO CONGELADA A/VACIO KGR,Congelados,Carnes Congeladas
 674420,ALIMENTO LACTEO FORMULADO LOLA 900ML,Lácteos y Derivados,Leches
 674422,HUEVO BLANCO ROLON MAPLE PLASTICO 30 UNI SABOR DEL CAMPO,Lácteos y Derivados,Huevos
+674425,HELADO NORDLAND VASO KGR VARIOS SABORES,Congelados,"Helados, Cassattas y Picoleses"
 675245,Miel de Abeja Eva Promiel 250 gr,Abarrotes,"Mermel, Mieles"
 676113,Habanito Bits Cream Coojies Cream 120 gr,Congelados,"Helados, Cassattas y Picoleses"
 676115,HABANITO BITS CREAM DULCE DE LECHE 120GRS,Congelados,"Helados, Cassattas y Picoleses"
@@ -19070,7 +19095,7 @@ id_producto,producto,categoria,subcategoria
 677871,Tortillas Taquinos Tacos Grande,Congelados,Masas y Comidas Congeladas
 677883,Pernil Ahumado Sofia A Granel kg,Fiambres,Fiambres Externos
 677900,Tortilla Taquinos de Trigo Burritos,Congelados,Masas y Comidas Congeladas
-677902,LECHE CHOCOLATADA SOYA NORDLAND 900CC,Lácteos y Derivados,Leches
+677902,Leche Chocolatada Soya Nordland 900 ml,Lácteos y Derivados,Leches
 677903,PANETTONE CAJA  ZELADA 700GRS,Panadería,Panadería Externa
 677904,ROSCA DE FRUTAS ZELADA (BOLSA) 600GRS,Pastelería y Masas Típicas,Pastelería Externa
 677905,ROSCA ZELADA CHIPS CHOCOLATE BOLSA 600G,Pastelería y Masas Típicas,Pastelería Externa
