@@ -1625,6 +1625,8 @@ id_producto,producto,categoria,subcategoria
 25072,LOMO D JUREL SAN JOSE AL ACEITE 160G,Abarrotes,Comidas en Conserva
 25073,LOMO D JUREL SAN JOSE NATURAL 160G,Abarrotes,Comidas en Conserva
 25074,"GALLETA FESTIVAL RELL FRESA 201,6G",Abarrotes,Galletas
+25075,"GALLETA FESTIVAL RELL RECREO 201,6G",Abarrotes,Galletas
+25076,"GALLETA FESTIVAL RELL LIMON 201,6G",Abarrotes,Galletas
 25078,ENERGY ROCKSTAR FRUIT PET 300ML,Bebidas,Energizantes
 25080,WAFER PROMOS HAZELNUT CREAM 120G,Abarrotes,Galletas
 25097,PACK 12CERVEZA BUDWEISER LTA 269ML,Bebidas,Cervezas
@@ -6356,6 +6358,7 @@ id_producto,producto,categoria,subcategoria
 203521,Lavavajilla Mr.Flash Limon 750 ml,Cuidado del Hogar,Limpieza de Cocina
 203522,Lavavajilla Mr.Flash Naranja Pomelo 1.2 L,Cuidado del Hogar,Limpieza de Cocina
 203523,Lavavajilla Mr.Flash Limon 5 L,Cuidado del Hogar,Limpieza de Cocina
+203580,Vino Familia Gascon Malbec 750 ml,Bebidas,Vinos y Champagne
 203581,Vino Familia Gascon Syrah 750 ml,Bebidas,Vinos y Champagne
 203582,Vino Familia Gascon Tempranillo 750 ml,Bebidas,Vinos y Champagne
 203707,Chipilo Ralf Salado 180 gr,Abarrotes,Snack
@@ -6447,6 +6450,7 @@ id_producto,producto,categoria,subcategoria
 209069,REFILES FRESH AIR CHERRY BLOSSOM 250 ML,Cuidado del Hogar,Limpieza de Living y Ropero
 209070,REFILES FRESH AIR SILKY SATIN 250 ML,Cuidado del Hogar,Limpieza de Living y Ropero
 209072,PASTILLA COLGANTES ALL VALUE AROMA SURTI,Cuidado del Hogar,Limpieza de Baños
+209087,LIMPIADOR TODOBRILLO MARMOL GRANO 360 ML,Cuidado del Hogar,Limpieza de Living y Ropero
 209163,Galleta de Avena Almendra Vikinger,Panadería,Panadería Externa
 209260,AGUA DESTILADA 1 LT 1000C,Bazar,Automotriz
 209273,Acondicionador Revive Curly sin Sal 340 ml,Cuidado Personal,Cuidado del Cabello
@@ -13550,6 +13554,7 @@ id_producto,producto,categoria,subcategoria
 553122,GALLETA BRINKY CHOCOLATE 300 GR,Abarrotes,Galletas
 553123,GALLETA BRINKY VAINILLA 300 GR,Abarrotes,Galletas
 553124,Granola Foodness Montecristo 300 gr,Abarrotes,Nutrición Infantil
+553125,SNACK MONTECRISTO ME TINKA PICANTE 160 G,Abarrotes,Snack
 553126,SNACK MONTECRISTO ME TINKA QUESO 160 GR,Abarrotes,Snack
 553127,Cafe Orange Cup Geisha Grano 250 gr,Abarrotes,Café y Sucedáneos
 553128,Cafe Orange Cup Geisha Molido 250 gr,Abarrotes,Café y Sucedáneos
@@ -17414,9 +17419,14 @@ id_producto,producto,categoria,subcategoria
 669278,PACK DOWNY PASSION (2PZA) 750ML X 1U,Cuidado del Hogar,Limpieza de la Ropa
 669294,REVIVE SHAMPOO LISO Y SEDOSO 12X600 ML,Cuidado Personal,Cuidado del Cabello
 669295,TB DETER EN POLVO FLORAL C/SUAV 3X4.8KG,Cuidado del Hogar,Limpieza de la Ropa
+669296,TB DETER POLVO ORIGINAL C/SUAV 3X4.8KG,Cuidado del Hogar,Limpieza de la Ropa
 669297,TB DETER POLVO MATIC C/SUAV 3X4.8KG,Cuidado del Hogar,Limpieza de la Ropa
 669298,AXE AER COCO 12X96G/150ML,Cuidado Personal,Cuidado de la Piel
+669299,SHAMPOO SELFY D.P.PLACENTA & ROMERO 900,Cuidado Personal,Cuidado del Cabello
+669300,SELFY SHAMPOO PLACENTA  ROMERO 1000 GR,Cuidado Personal,Cuidado del Cabello
+669317,PACK DOMÉSTICO 50L BOLSAS BASURERAS ROL,Cuidado del Hogar,Accesorios del Hogar
 669318,PACK EMERGENCIA BOLSA BASURERA 75L ROLL,Cuidado del Hogar,Accesorios del Hogar
+669320,PACK BANOS ECO BOLSA BASURERA 35L ROLLO,Cuidado del Hogar,Accesorios del Hogar
 669331,JABON INTIMO MANZANILLA/CALENDULA 220 ML,Cuidado Personal,Cuidado del Adulto
 669901,Pizza Hipermaxi Congelada Hawaiana 620 gr,Congelados,Masas y Comidas Congeladas
 669902,Pizza Hipermaxi Congelada Jamon Queso Light Masa Integral,Congelados,Masas y Comidas Congeladas
@@ -23063,6 +23073,12 @@ id_producto,producto,categoria,subcategoria
 891405,Nacho Rancheritos Clasico 150 gr,Abarrotes,Snack
 891410,Nacho Rancheritos Queso 330 gr,Abarrotes,Snack
 891425,Vino Norton Cabernet Sauvignon Reserva 750 ml,Bebidas,Vinos y Champagne
+891456,CH T8 5A TOMATODO DEPORTIVO NEGRO 800ML,Bazar Importación,Camping General
+891457,CH T8 5B TOMATODO  DEPORTIVO AZUL 800ML,Bazar Importación,Camping General
+891458,CH T8 5C TOMATODO  DEPORTIVO ROJO 800ML,Bazar Importación,Camping General
+891459,CH T8 5D TOMATODO  DEPORTIVO BLANCO 800ML,Bazar Importación,Camping General
+891532,CH T8 5E TOMATODO  DEPORTIVO NARANJA 800ML,Bazar Importación,Camping General
+891644,CH T8 5F TOMATODO  DEPORTIVO ROSADO 800ML,Bazar Importación,Camping General
 891787,Vinagre Castelo Tinto 750 ml,Abarrotes,Básicos
 891792,Mini Torta Aguila Coco 73 gr,Abarrotes,Golosinas - Varias
 891801,Mini Torta Aguila Brownie 74 gr,Abarrotes,Golosinas - Varias
