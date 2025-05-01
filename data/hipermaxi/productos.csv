@@ -1603,6 +1603,7 @@ id_producto,producto,categoria,subcategoria
 25031,EXTRACTO D TOMATE LAZZARONI LTA 400G,Abarrotes,Salsas y Extracto de Tomate
 25032,"PACK SKITTLES ORIGINAL 2X61,5G",Abarrotes,Golosinas - Varias
 25033,"PACK  SKITTLES WILD BERRY 2X61,5G",Abarrotes,Golosinas - Varias
+25034,MAICENA TOMAY CAJA 200G,Abarrotes,Básicos
 25035,Chupete Yogueta Kola 360 gr,Abarrotes,Chocolates y Caramelos
 25036,COCTEL COCOBLANC 670ML,Bebidas,Licores
 25037,GIN INSURGENTE POMELO 700 ML,Bebidas,Licores
@@ -1629,6 +1630,8 @@ id_producto,producto,categoria,subcategoria
 25076,"GALLETA FESTIVAL RELL LIMON 201,6G",Abarrotes,Galletas
 25078,ENERGY ROCKSTAR FRUIT PET 300ML,Bebidas,Energizantes
 25080,WAFER PROMOS HAZELNUT CREAM 120G,Abarrotes,Galletas
+25086,PACK CHOCLO Y ARVEJA ETTI,Abarrotes,Verduras en Conserva
+25087,GELATINA TOMAY DURAZNO BSA 230G,Abarrotes,Repostería
 25097,PACK 12CERVEZA BUDWEISER LTA 269ML,Bebidas,Cervezas
 25104,CHUPETE BON BON BUM UVA FRESA 336G,Abarrotes,Chocolates y Caramelos
 25108,ISOTONICO SANTE VITAM NARANJ LIMON 1LT,Bebidas,Isotónicos
@@ -6443,14 +6446,15 @@ id_producto,producto,categoria,subcategoria
 208971,Vino Campos de Solana Trivarietal Blanco 750 ml,Bebidas,Vinos y Champagne
 209060,JABON LIQUIDO SIEMPRE MELON 1 LT.,Cuidado Personal,Cuidado de la Piel
 209061,SUAVIZANTE TODOBRILLO DP FLORAL 1.8LT,Cuidado del Hogar,Limpieza de la Ropa
-209062,VAJILLERO TODOBRILLO DP  GALLO  LIMON 90,Cuidado del Hogar,Limpieza de Cocina
-209063,VAJILLERO TODOBRILLO DP GALLO  LIMON 1.8,Cuidado del Hogar,Limpieza de Cocina
+209062,VAJILLERO GALLITO LIMON 900ML DP,Cuidado del Hogar,Limpieza de Cocina
+209063,VAJILLERO GALLITO LIMON 1.800ML DP,Cuidado del Hogar,Limpieza de Cocina
 209065,SUAVISANTE TODOBRILLO DP GALLO FLORAL 90,Cuidado del Hogar,Limpieza de la Ropa
 209068,REFIL FRESH AIR JASMINE 250 ML,Cuidado del Hogar,Limpieza de Living y Ropero
 209069,REFILES FRESH AIR CHERRY BLOSSOM 250 ML,Cuidado del Hogar,Limpieza de Living y Ropero
 209070,REFILES FRESH AIR SILKY SATIN 250 ML,Cuidado del Hogar,Limpieza de Living y Ropero
 209072,PASTILLA COLGANTES ALL VALUE AROMA SURTI,Cuidado del Hogar,Limpieza de Baños
 209087,LIMPIADOR TODOBRILLO MARMOL GRANO 360 ML,Cuidado del Hogar,Limpieza de Living y Ropero
+209099,PACK FRUCTIS SANDIA SH + MASCARA,Cuidado Personal,Cuidado del Cabello
 209163,Galleta de Avena Almendra Vikinger,Panadería,Panadería Externa
 209260,AGUA DESTILADA 1 LT 1000C,Bazar,Automotriz
 209273,Acondicionador Revive Curly sin Sal 340 ml,Cuidado Personal,Cuidado del Cabello
@@ -7545,6 +7549,7 @@ id_producto,producto,categoria,subcategoria
 232650,Servilletas Premier Max 300 un,Cuidado Personal,Cuidado Familiar
 232939,Shampoo Carissa Trigo Y Miel 900 ml,Cuidado Personal,Cuidado del Cabello
 233030,TALCO PARA CANES SUPER 100 GR,Bazar,Mascotas General
+233048,Regenal Belmed Vitalizante 200 ml,Cuidado Personal,Cuidado de la Piel
 233137,Tomate Pelado Perita Arcor 400 gr,Abarrotes,Verduras en Conserva
 233307,Biscocho Integral Hipermaxi 10 un,Panadería,Panadería Hipermaxi
 233471,Alimento Doguito Purina Carne 65 gr,Abarrotes,Mascotas
@@ -11077,18 +11082,20 @@ id_producto,producto,categoria,subcategoria
 462195,Vinagre Sakura Uva 1000 cc,Abarrotes,Básicos
 462196,TOALLA HUMEDA PROBLOCK ALOE 100 UNID,Cuidado del Bebé,Cuidado del Bebé
 462197,TOALLAS HUMEDAS PROBLOCK ALOE 50 UNID,Cuidado del Bebé,Cuidado del Bebé
-462199,TOALLAS HUMEDAS PROBLOCK ANTIBAC.X100 UND.,Cuidado del Bebé,Cuidado del Bebé
+462199,TOALLAS HUMEDAS PROBLOCK ANTIBAC.X100 UN,Cuidado del Bebé,Cuidado del Bebé
 462200,TOALLAS HUMEDAS PROBLOCK ANTIBACTERIAL 1,Cuidado del Bebé,Cuidado del Bebé
 462233,Vinagre Doña Filo Tinto 500 ml,Abarrotes,Básicos
 462241,Vinagre Sakura Alchohol 1 L,Abarrotes,Básicos
 462250,Vinagre Sakura Alcohol 500 ml,Abarrotes,Básicos
 462341,LIPSTICK NATURAL FPS 30 TUBO X 5GR,Cuidado Personal,Cuidado de la Piel
+462382,DR.SELBY PROTECTOR LABIAL NUTRITIVO X5.5,Cuidado Personal,Cuidado de la Piel
 462383,DR.SELBY PROTECTOR LABIAL HIDRATANTE X5.,Cuidado Personal,Cuidado de la Piel
 462385,DR.SELBY PROTECTOR LABIAL ANTI OXIDANTE,Cuidado Personal,Cuidado de la Piel
 462435,REPELENTE FLORESTA KIDS SPRAY 7.5% X 120 ML,Cuidado Personal,Cuidado de la Piel
 462522,Insecticida Killer Mosca Mosquito Azul 360 cm,Cuidado del Hogar,Insecticidas
 462721,Bitter Amargo Centenario 1 L,Bebidas,Bebidas Varias
 462981,Castaña Caju Maya 250 gr,Abarrotes,Snack
+463068,REPELENTE FLORESTA FAMILIAR 7.5% CREMA 120G,Cuidado Personal,Cuidado de la Piel
 463426,Pimienta Dulce Badia Molida 2 oz,Abarrotes,Condimentos y Legumbres
 463442,Pimienta Negra Badia Molida 7 oz,Abarrotes,Condimentos y Legumbres
 463469,Crema Para Cafe Promos 16 oz,Abarrotes,Café y Sucedáneos
@@ -13308,6 +13315,7 @@ id_producto,producto,categoria,subcategoria
 552817,VINO BLANCO APALTAGUA RESERVA CHARDONNAY,Bebidas,Vinos y Champagne
 552818,Vino Blanco Apaltagua Gran Verano Chardonay,Bebidas,Vinos y Champagne
 552819,VINO BCO PUESTO DEL MARQUES  TORRONTES 7,Bebidas,Vinos y Champagne
+552820,VINO BCO QUEBRADA DE LAS FLECHAS  TORRON,Bebidas,Vinos y Champagne
 552821,VINO BCO APALTAGUA RESERVA SAUVIGNON BLA,Bebidas,Vinos y Champagne
 552822,VINO APALTAGUA SELECT SAUVIG BLANC 750ML,Bebidas,Vinos y Champagne
 552823,VINO PUESTO D MARQUEZ MALBEC 750ML,Bebidas,Vinos y Champagne
@@ -13601,8 +13609,9 @@ id_producto,producto,categoria,subcategoria
 553209,GASEOSA PEPSI BLACK 2LT,Bebidas,Gaseosas
 553211,MOLLEJAS DE POLLO COMIPET 80 GR,Abarrotes,Mascotas
 553213,ISPI DESHID COMIPET 40 GR,Abarrotes,Mascotas
-553221,"CERVEZA PAULANER WEISSBIER BOT 0,33 L",Bebidas,Cervezas
-553222,CHIPS DE COCO CROCANTE CAR SAL MARINA 40,Abarrotes,Snack
+553221,CERVEZA PAULANER WEISSBIER BOT 330ML,Bebidas,Cervezas
+553222,CHIP COCO SILVERMILL CARAMELIZ C SAL40G,Abarrotes,Snack
+553223,CHIP D COCO SILVERMILL C CHOCOLATE 40G,Abarrotes,Snack
 553224,LECHE CONDENSADA BECOCO D COCO 250G,Abarrotes,Dietéticos y Saludables
 553230,PULPA CAYETANA CIRUELA LTA 280G,Abarrotes,Frutas en Conserva
 553231,PULPA CAYETANA ACHACHAIRU LTA 280G,Abarrotes,Frutas en Conserva
@@ -15087,7 +15096,7 @@ id_producto,producto,categoria,subcategoria
 651278,Mermelada Campagnola Arandano 454 gr,Abarrotes,"Mermel, Mieles"
 651281,Papa Mix Chip Frita 300 gr,Abarrotes,Snack
 651286,Mani Delimix Salado con Pasas 300 gr,Abarrotes,Snack
-651301,CERVEZA PAULANER ORIGINAL 0.33L,Bebidas,Cervezas
+651301,CERVEZA PAULANER ORIGINAL 330ML,Bebidas,Cervezas
 651305,Cerveza Erdinger Urweisse 0.5 L,Bebidas,Cervezas
 651311,Leche Bella Holandesa Polvo 1.8 kg,Abarrotes,Nutrición Infantil
 651370,Azafran Molido Extra Carmencita 375 gr,Abarrotes,Productos Americanos
@@ -17034,6 +17043,7 @@ id_producto,producto,categoria,subcategoria
 668396,Detergente Polvo Bolivar Baby Kids 1.5 Kg,Cuidado del Hogar,Limpieza de la Ropa
 668403,Detergente Polvo Bolivar Baby Kids 750 gr,Cuidado del Hogar,Limpieza de la Ropa
 668404,ARTHES CASSANDRA ROSE INTENSE 100 ML PF0,Cuidado Personal,Cuidado de la Piel
+668410,ARTHES FRENCH WAY OF LIFE - BALADE A PAR,Cuidado Personal,Cuidado de la Piel
 668418,BREAKUP PROOF DELIN. LIQ. A PRUEBA DE AG,Cuidado Personal,Cuidado de la Piel
 668419,W PALETA DE 5 SOMBRAS WALKING ON EGGSHEL,Cuidado Personal,Cuidado de la Piel
 668420,W PALETA DE 5 SOMBRAS PETALETTE COLOR IC,Cuidado Personal,Cuidado de la Piel
@@ -17672,6 +17682,7 @@ id_producto,producto,categoria,subcategoria
 671012,Chorizo Parrillero Dillmann Tipo Argentino kg,Fiambres,Fiambres Externos
 671034,Mortadela Primavera de Pollo Dillman kg,Fiambres,Fiambres Externos
 671035,Mortadela Primavera de Pollo Dillman 200 gr,Fiambres,Fiambres Externos
+671037,YOGURT PROBIOTICO PRO ACTIVE DELIZIA CIRUELA/MANZANA 200ML,Lácteos y Derivados,Yogures
 671038,Queso Flor de Leche con Chia 500 gr,Lácteos y Derivados,Quesos
 671039,Queso Flor de Leche con Chia 250 gr,Lácteos y Derivados,Quesos
 671040,Queso Sandwichero San Mateo kg,Lácteos y Derivados,Quesos
@@ -19771,6 +19782,7 @@ id_producto,producto,categoria,subcategoria
 761335,Yogurt Bebible Friedland Probiotico Papaya 1 L,Lácteos y Derivados,Yogures
 761419,Tapa de Empanada Criollas Miltipasta 12 un,Congelados,Masas y Comidas Congeladas
 761422,Tapa de Empanada Multiple Multipasta 12 un,Congelados,Masas y Comidas Congeladas
+761425,ALMEJAS ENTERAS CON CONCHAS ILOMAR 1 DOCENA,Congelados,Carnes Congeladas
 761431,Tapa de Empanada de Freir Multipasta 12 un,Congelados,Masas y Comidas Congeladas
 761436,Yogurt Bebible Friedland Natural Sin Azucar 1 L,Lácteos y Derivados,Yogures
 761486,Huevos Aranjuez Economico Subsidio 18 un,Lácteos y Derivados,Huevos
