@@ -249,6 +249,7 @@ id_producto,producto,categoria,subcategoria
 5173,Durazno Criollo 1 kg,Frutas y Verduras,Temporada
 5174,Aji Gusanito Picante 1 kg,Frutas y Verduras,Verduras
 5175,Triguillo Hipermaxi kg,Granos y Hortalizas,Fraccionados Hipermaxi
+5176,Maiz de Pipoca Hipermaxi kg,Granos y Hortalizas,Fraccionados Hipermaxi
 5177,Limon Tipo Italiano 1 kg,Frutas y Verduras,Frutas
 5178,Garbanzo Hipermaxi kg,Granos y Hortalizas,Fraccionados Hipermaxi
 5179,Calabacin 1 kg,Frutas y Verduras,Verduras
@@ -1616,6 +1617,7 @@ id_producto,producto,categoria,subcategoria
 25053,CAFE B VISTA SAMAIPATA MOLID 250G,Abarrotes,Café y Sucedáneos
 25054,CAFE B VISTA BARISTA BLEND GRANO 250G,Abarrotes,Café y Sucedáneos
 25055,CAFE B VISTA IRUPANA GRANO 250G,Abarrotes,Café y Sucedáneos
+25060,TELATINA TOMAY NARANJA BSA 230G,Abarrotes,Repostería
 25062,ACEITE D OLIVA AGUIRRE EXT VIRG FCO 250M,Abarrotes,Básicos
 25063,CHOCOLATE M&M PLAIN BSA 1KG,Abarrotes,Chocolates y Caramelos
 25064,PACK SUPER SNACKS 6UND,Abarrotes,Snack
@@ -3172,7 +3174,7 @@ id_producto,producto,categoria,subcategoria
 67980,Cerveza Prost Lager 500 ml,Bebidas,Cervezas
 67992,Salsa Heinz Jalapeños con Ketchup 397 gr,Abarrotes,Productos Americanos
 68110,Cepillo Para Zapato Condor 1 un,Cuidado del Hogar,Productos Americanos
-68438,Franela Naranja Mr. Trapo 55x55 cm,Cuidado del Hogar,Productos Americanos
+68438,Franela Naranja Mr. Trapo 35x55 cm,Cuidado del Hogar,Productos Americanos
 68718,Cerveza Potosina Pilsener 355 ml,Bebidas,Cervezas
 68829,Brazo Gitano con Crema Hipermaxi,Pastelería y Masas Típicas,Pastelería Hipermaxi
 68837,Galleta Rex Bagley 125 gr,Abarrotes,Galletas
@@ -6212,6 +6214,7 @@ id_producto,producto,categoria,subcategoria
 190010,Te Twinings Chai 20 Sobres,Abarrotes,Productos Americanos
 191630,Pastilla de Baño Pato Adhesivo Citrus 3 un,Cuidado del Hogar,Limpieza de Baños
 191841,Helado Cabrera Alfajor,Congelados,"Helados, Cassattas y Picoleses"
+191950,Vino Escorihuela Malbec 750 ml,Bebidas,Vinos y Champagne
 191953,Vino Escorihuela Cabernet Sauvignon 750 ml,Bebidas,Vinos y Champagne
 191954,Vino Escorihuela Gascon Pequeñas Producciones Syrah 750 ml,Bebidas,Vinos y Champagne
 192010,Lavavajilla Mr.Flash Aloe Vera Manzanilla 1200 ml,Cuidado del Hogar,Limpieza de Cocina
@@ -9394,6 +9397,7 @@ id_producto,producto,categoria,subcategoria
 351203,Paño Alkin Super 80x90 cm 1 un,Cuidado del Hogar,Accesorios del Hogar
 351205,Limpiador de Baño Siempre Saca Sarro 500 ml,Cuidado del Hogar,Limpieza de Baños
 351206,Limpiador de Baño Saca Sarro Siempre 5 L,Cuidado del Hogar,Limpieza de Baños
+351214,ACONDIC ALGABO OLIVA ARGAN 750 ML,Cuidado Personal,Cuidado del Cabello
 351229,Pasta Dental Oral-B Stages Para Niños 75 ml,Cuidado Personal,Cuidado Bucal
 351235,Galleta Noel Leche 321 gr,Abarrotes,Galletas
 351335,Energizante Ciclon 500 ml,Bebidas,Energizantes
@@ -13609,6 +13613,7 @@ id_producto,producto,categoria,subcategoria
 553209,GASEOSA PEPSI BLACK 2LT,Bebidas,Gaseosas
 553211,MOLLEJAS DE POLLO COMIPET 80 GR,Abarrotes,Mascotas
 553213,ISPI DESHID COMIPET 40 GR,Abarrotes,Mascotas
+553218,JUGO DE SABILA MAYBO BAJO EN AZUCAR 500,Bebidas,Bebidas Varias
 553221,CERVEZA PAULANER WEISSBIER BOT 330ML,Bebidas,Cervezas
 553222,CHIP COCO SILVERMILL CARAMELIZ C SAL40G,Abarrotes,Snack
 553223,CHIP D COCO SILVERMILL C CHOCOLATE 40G,Abarrotes,Snack
@@ -17437,6 +17442,8 @@ id_producto,producto,categoria,subcategoria
 669299,SHAMPOO SELFY D.P.PLACENTA & ROMERO 900,Cuidado Personal,Cuidado del Cabello
 669300,SELFY SHAMPOO PLACENTA  ROMERO 1000 GR,Cuidado Personal,Cuidado del Cabello
 669305,VASELINA ALOE VERA  ZURLY 25 G,Cuidado del Bebé,Cuidado del Bebé
+669311,VASELINA  ZURLY BABY 185 G,Cuidado del Bebé,Cuidado del Bebé
+669313,TALCO BABY POWDER BLUE 625 G,Cuidado del Bebé,Cuidado del Bebé
 669317,PACK DOMÉSTICO 50L BOLSAS BASURERAS ROL,Cuidado del Hogar,Accesorios del Hogar
 669318,PACK EMERGENCIA BOLSA BASURERA 75L ROLL,Cuidado del Hogar,Accesorios del Hogar
 669319,PACK BANOS ECO BOLSA BASURERA 20L ROLLO,Cuidado del Hogar,Accesorios del Hogar
@@ -19852,7 +19859,7 @@ id_producto,producto,categoria,subcategoria
 764645,Pan Danes Mediterraneo Ajo y Oregano,Panadería,Panadería Externa
 764756,PAN DANES ABDEL MASA MADRE UNID.,Panadería,Panadería Externa
 764783,DULCECITOS CUNAPECITOS MAYSER 200 GRS.,Pastelería y Masas Típicas,Masas Típicas Externas
-764857,PAN BRIOCHE SURTIDO BELEN 340 GRS.,Panadería,Panadería Externa
+764857,Pan Brioche Belen Surtido 340 gr,Panadería,Panadería Externa
 764871,Empanadas Integrales Hipermaxi Con Cereales 4 un,Panadería,Panadería Especialidades Hipermaxi
 765024,Magdalenas Paris 10 un,Panadería,Panadería Externa
 765148,Alfajores de Maicena 6 un,Pastelería y Masas Típicas,Pastelería Hipermaxi
