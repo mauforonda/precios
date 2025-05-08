@@ -163,6 +163,7 @@ id_producto,producto,categoria,subcategoria
 5049,Aji Rojo Seco 1 kg,Frutas y Verduras,Verduras
 5050,Ajo 1 kg,Frutas y Verduras,Verduras
 5051,Albahaca 1 kg,Frutas y Verduras,Verduras
+5053,GALLETA FGL EXCLUSIVAS CJA 210G,Abarrotes,Galletas
 5054,Apio 1 kg,Frutas y Verduras,Verduras
 5055,Arveja 1 kg,Frutas y Verduras,Verduras
 5056,Berenjena Grande 1 kg,Frutas y Verduras,Verduras
@@ -355,6 +356,7 @@ id_producto,producto,categoria,subcategoria
 5644,Tres Leche Delifresh,Granos y Hortalizas,Postres Delifresh
 5726,Asadito Criollo Hipermaxi 360 gr,Granos y Hortalizas,Derivados Hipermaxi
 5727,Lasaña de Carne Hipermaxi 400 gr,Granos y Hortalizas,Derivados Hipermaxi
+5728,CP LASANA DE VERDURAS HIPERMAXI 400 G,Granos y Hortalizas,Derivados Hipermaxi
 5729,CP SUFLE DE BROCOLI HIPERMAXI 400 G,Granos y Hortalizas,Derivados Hipermaxi
 5730,CP SUFLE DE COLIFLOR HIPERMAXI 400 G,Granos y Hortalizas,Derivados Hipermaxi
 5731,Pastel de Choclo Hipermaxi 400 gr,Granos y Hortalizas,Derivados Hipermaxi
@@ -1469,6 +1471,7 @@ id_producto,producto,categoria,subcategoria
 24024,PACK 3PRIMOGATO BLEND 1 KG,Abarrotes,Mascotas
 24025,PACK 3PRIMOCAO CACHORRO 1 KG,Abarrotes,Mascotas
 24026,PACK 3PRIMOGATO CASTRADOS POLLO 1KG,Abarrotes,Mascotas
+24028,NACHO MEXICAN FOOD LIMON 180G,Abarrotes,Snack
 24029,Four Loko Mister Mystery 473 ml,Bebidas,Licores
 24030,Four Loko Miss Mystery 473 ml,Bebidas,Licores
 24032,Pack Club Social Original 216 gr,Abarrotes,Galletas
@@ -1644,6 +1647,8 @@ id_producto,producto,categoria,subcategoria
 25108,ISOTONICO SANTE VITAM NARANJ LIMON 1LT,Bebidas,Isotónicos
 25109,ISOTONICO SANTE COLAGENO LIMON 1LT,Bebidas,Isotónicos
 25110,ISOTONICO SANTE BIOTINA FRESA LIMON 1LT,Bebidas,Isotónicos
+25112,PASANKALLA PORORO CLAF DULCE 170G,Abarrotes,Snack
+25114,PASANKALLA PORORO CALF C CHANCACA 170G,Abarrotes,Snack
 25640,Surtido de Mariscos Robinson Crusoe Natural 190 gr,Abarrotes,Comidas en Conserva
 25771,Huevos Caisy 12 un,Lácteos y Derivados,Huevos
 25789,Galleta Rocklets Chocolate 118 gr,Abarrotes,Galletas
@@ -2298,6 +2303,7 @@ id_producto,producto,categoria,subcategoria
 30745,Datiles Deshidratado Date Crown 250 gr,Abarrotes,Frutas en Conserva
 30746,CONCENTRADO DATILES DATE CROWN PET 400G,Bebidas,Bebidas Varias
 30747,DULCE DATILES DATE CROWN SIN GLUTEN 1 KG,Abarrotes,"Mermel, Mieles"
+30749,PATE D ATUN RAMIREZ CASERO 75G,Abarrotes,Comidas en Conserva
 30750,Tripack Cepera Ketchup Mayonesa Mostaza,Abarrotes,Temporada
 30751,Pack Salsa Cepera Bbq + Extracto de Tomate,Abarrotes,Aderezos
 30753,Bombon Costa Rolls Nut 210 gr,Abarrotes,Chocolates y Caramelos
@@ -2454,7 +2460,7 @@ id_producto,producto,categoria,subcategoria
 30946,Isotonico Revive Blueberry 1 L,Bebidas,Isotónicos
 30947,Isotonico Revive Blueberry 600 ml,Bebidas,Isotónicos
 30948,Isotonico Revive Frutiponch 600 ml,Bebidas,Isotónicos
-30949,ARROZ GRANO D ORO PREMIUM 5KG,Abarrotes,Básicos
+30949,Arroz Grano de Oro Premium 5 kg,Abarrotes,Básicos
 30950,Yerba Mate Pajarito Tradicional 20 Sobres,Abarrotes,Café y Sucedáneos
 30951,CHUPETE PIN POP PINTALENGUA BSA 500G,Abarrotes,Chocolates y Caramelos
 30952,Infusion Mandala Tropical Punch 473 ml,Bebidas,Bebidas Varias
@@ -7356,9 +7362,9 @@ id_producto,producto,categoria,subcategoria
 227122,Desodorante Aerosol Dove Orquidea 150 ml,Cuidado Personal,Cuidado de la Piel
 227123,TOALLA D/COCINA MILI GRAN CHEF 360 UN RF,Cuidado Personal,Cuidado Familiar
 227124,Desmaquillante Disco Doctor Baby 100 un,Cuidado Personal,Cuidado de la Piel
-227125,TINTE ISSUE EXPRESS 5 MINUTOS CASTANO,Cuidado Personal,Cuidado del Cabello
-227126,TINTE ISSUE EXPRESS 5 MINUTOS NEGRO,Cuidado Personal,Cuidado del Cabello
-227127,TINTE ISSUE EXPRESS 5 MINUTOS RUBIO,Cuidado Personal,Cuidado del Cabello
+227125,Tinte Issue Express 5 Minutos Castaño,Cuidado Personal,Cuidado del Cabello
+227126,Tinte Issue Express 5 Minutos Negro,Cuidado Personal,Cuidado del Cabello
+227127,Tinte Issue Express 5 Minutos Rubio,Cuidado Personal,Cuidado del Cabello
 227128,Shampoo Ogx Brazlin Keratin Thrpy 385 ml,Cuidado Personal,Cuidado del Cabello
 227130,Acondicionador Ogx Brazlin Keratin Thrpy 385 ml,Cuidado Personal,Cuidado del Cabello
 227134,TRIPACK NINET CLASICA X 300 UNID,Cuidado del Bebé,Cuidado del Bebé
@@ -7845,6 +7851,7 @@ id_producto,producto,categoria,subcategoria
 240836,DOCTOR CURE TIBURON 50 UNDS,Cuidado Personal,Cuidado de la Piel
 240837,DOCTOR CURE POCOYO 50 UNDS,Cuidado Personal,Cuidado de la Piel
 240838,MASCARA VOGUE INFINITO,Cuidado Personal,Cuidado de la Piel
+240841,SULFATO ALUMINIO PISCINA  MR CLORO DP 1K,Cuidado del Hogar,Limpieza de Baños
 240845,JABON DE LAVAR NATU COCO 100 GR,Cuidado del Hogar,Limpieza de la Ropa
 240846,JABON DE LAVAR NATU COCO 200 GR,Cuidado del Hogar,Limpieza de la Ropa
 240847,JABON  DE LAVAR NATU COCO  400 GR,Cuidado del Hogar,Limpieza de la Ropa
@@ -13626,6 +13633,7 @@ id_producto,producto,categoria,subcategoria
 553180,PIPOCA JOHNS POP SWEET SALTY 100 GR,Abarrotes,Snack
 553181,FRUTA DESHID CONFRUT FRUTILLA TROZOS 50G,Abarrotes,Frutas en Conserva
 553182,MANGO DESHID CONFRUT 50G,Abarrotes,Frutas en Conserva
+553201,AJO EN POLVO SANTIAGO 60 GR,Abarrotes,Condimentos y Legumbres
 553202,CURCUMA SANTIAGO POLVO FCO 60G,Abarrotes,Condimentos y Legumbres
 553205,PIMENTON SANTIAGO ROJO EN POLVO 60 GR,Abarrotes,Condimentos y Legumbres
 553207,HIELO CRISTAGUA CUBOS VASO 150 GR,Bebidas,Hielos
@@ -13731,7 +13739,7 @@ id_producto,producto,categoria,subcategoria
 565571,Achocolatado Chocolike 200 gr,Abarrotes,Nutrición Infantil
 565573,Isotonico Pawerade Mora Azul 473 ml,Bebidas,Isotónicos
 565575,Isotonico Pawerade Multi Frutas 473 ml,Bebidas,Isotónicos
-565677,CREMA PORTUGAL CONCHA DE NACAR X55G,Farmacia Otc,Dermatológicos
+565677,CREMA PORTUGAL CONCHA DE NACAR X55G,Cuidado Personal,Cuidado de la Piel
 565687,Cuba Libre Ron y Cola 500 ml,Bebidas,Licores
 565849,Bombon Bon o Bon Blanco 270 gr,Abarrotes,Chocolates y Caramelos
 565970,Chupete Bon Bon Bum Fresa 432 gr,Abarrotes,Chocolates y Caramelos
@@ -17471,6 +17479,7 @@ id_producto,producto,categoria,subcategoria
 669300,SELFY SHAMPOO PLACENTA  ROMERO 1000 GR,Cuidado Personal,Cuidado del Cabello
 669305,VASELINA ALOE VERA  ZURLY 25 G,Cuidado del Bebé,Cuidado del Bebé
 669308,VASELINA  ZURY PURE 185 G,Cuidado del Bebé,Cuidado del Bebé
+669310,VASELINA ZURLY  ALOE VERA 185 G,Cuidado del Bebé,Cuidado del Bebé
 669311,VASELINA  ZURLY BABY 185 G,Cuidado del Bebé,Cuidado del Bebé
 669312,TALCO  ZURLY BABY POWDER PINK 625 G,Cuidado del Bebé,Cuidado del Bebé
 669313,TALCO BABY POWDER BLUE 625 G,Cuidado del Bebé,Cuidado del Bebé
@@ -19089,6 +19098,8 @@ id_producto,producto,categoria,subcategoria
 676843,Papa Crujipap Mediterranea 53 gr,Abarrotes,Snack
 676844,Papa Crujipap Pimenton 53 gr,Abarrotes,Snack
 676859,Cola de Res kg,Carnes,Carne de Res
+676894,CHARQUE SAN BORJA ENVASE GRANDE TAPER 150 GRAMOS,Carnes,Carnes Procesadas
+676896,Chaque San Borja Pequeño 50 gr,Carnes,Carnes Procesadas
 676897,Trucha Entera Congelada Titikaka kg,Congelados,Carnes Congeladas
 676950,Te Infusion Akbar Rooibos 37.5 gr,Abarrotes,Café y Sucedáneos
 676964,Queso Florandino Flor de Leche 250 gr,Lácteos y Derivados,Quesos
@@ -19098,6 +19109,7 @@ id_producto,producto,categoria,subcategoria
 676978,Lavavajilla Ola Manzana 1050 ml,Cuidado del Hogar,Limpieza de Cocina
 676980,Lavavajilla Ola Extra Proteccion Colageno Pomelo 1100 ml,Cuidado del Hogar,Limpieza de Cocina
 677032,Huevos de Codorniz 24 un,Lácteos y Derivados,Huevos
+677036,CHARQUE SAN BORJA PLASTICO CUADRADO MEDIANO 100 GRAMOS,Carnes,Carnes Procesadas
 677038,Cannelloni Pollo Da Gloria,Congelados,Masas y Comidas Congeladas
 677039,Freddo Cannelloni Carne Da Gloria,Congelados,Masas y Comidas Congeladas
 677048,HUEVOS NUTRIROLON SABOR DEL CAMPO 12UNI,Lácteos y Derivados,Huevos
@@ -23835,7 +23847,7 @@ id_producto,producto,categoria,subcategoria
 998071,Marcador Monami de Pizarra,Bazar,Librería
 998074,Cinta Embalaje Grande,Bazar,Librería
 998076,Papel Crepe,Bazar,Librería
-998089,TALONARIO NOTA DE VENTA.7,Bazar,Librería
+998089,TALONARIO NOTA DE VENTA.8,Bazar,Librería
 998090,Recibo,Bazar,Librería
 998092,Talonario Tickets Numericos,Bazar,Librería
 998093,Cartulina Blanca Pliego,Bazar,Librería
