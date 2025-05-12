@@ -1651,6 +1651,7 @@ id_producto,producto,categoria,subcategoria
 25113,Mani Tostado Claf Chocolate 150 gr,Abarrotes,Snack
 25114,PASANKALLA PORORO CALF C CHANCACA 170G,Abarrotes,Snack
 25115,Mani Tostado Claf Chancaca 150 gr,Abarrotes,Snack
+25120,Vino Kohlberg Cautivo 750 ml,Bebidas,Vinos y Champagne
 25125,MANI SALADO CROPPERS BSA 105G,Abarrotes,Snack
 25640,Surtido de Mariscos Robinson Crusoe Natural 190 gr,Abarrotes,Comidas en Conserva
 25771,Huevos Caisy 12 un,Lácteos y Derivados,Huevos
@@ -4921,6 +4922,7 @@ id_producto,producto,categoria,subcategoria
 113318,Ambientador Repuesto Todo Brillo Bebe 21 ml,Cuidado del Hogar,Limpieza de Living y Ropero
 113320,Ambientador Repuesto Todo Brillo Floral 21 ml,Cuidado del Hogar,Limpieza de Living y Ropero
 113340,Toallas Humedas Mili Baby Aloe 110 un,Cuidado del Bebé,Cuidado del Bebé
+113388,PACK PAPEL SCOTT RINDEMAX 32 UN+FINESSE X6,Cuidado Personal,Cuidado Familiar
 113460,Pañuelo Ness Super Suave 60 un,Cuidado Personal,Cuidado Familiar
 113520,Shampoo Elvive Arginina Caida 370 ml,Cuidado Personal,Cuidado del Cabello
 113521,Shampoo Elvive Oleo Extra Univer 370 ml,Cuidado Personal,Cuidado del Cabello
@@ -6358,6 +6360,8 @@ id_producto,producto,categoria,subcategoria
 202088,Franela Scotch Brite 3M,Cuidado del Hogar,Accesorios del Hogar
 202097,Jabon Liquido Simonds Aloe Vera 1 L,Cuidado Personal,Cuidado de la Piel
 202098,Jabon Liquido Simonds Chocolate Almendra 1 L,Cuidado Personal,Cuidado de la Piel
+202133,SEDAL AC LUMINOUS 12X650ML,Cuidado Personal,Cuidado del Cabello
+202136,SEDAL SH LUMINOUS 12X340ML,Cuidado Personal,Cuidado del Cabello
 202140,Pasta Dental Colgate Luminous White 125 ml,Cuidado Personal,Cuidado Bucal
 202155,Galleta Wafer Marilan Chocolate 115 gr,Abarrotes,Galletas
 202167,Salsa McCormick de Ajo 148 ml,Abarrotes,Aderezos
@@ -6481,6 +6485,7 @@ id_producto,producto,categoria,subcategoria
 209072,PASTILLA COLGANTES ALL VALUE AROMA SURTI,Cuidado del Hogar,Limpieza de Baños
 209087,LIMPIADOR TODOBRILLO MARMOL GRANO 360 ML,Cuidado del Hogar,Limpieza de Living y Ropero
 209088,LIMPIADOR DE ACERO INOX TODO BRILLO 360,Cuidado del Hogar,Limpieza de Living y Ropero
+209096,PACK EXCELLENCE 7.17  Y NECESER LOREAL,Cuidado Personal,Cuidado del Cabello
 209099,PACK FRUCTIS SANDIA SH + MASCARA,Cuidado Personal,Cuidado del Cabello
 209100,PACK FRUCTIS CACAO SH + MASCARA,Cuidado Personal,Cuidado del Cabello
 209163,Galleta de Avena Almendra Vikinger,Panadería,Panadería Externa
@@ -7374,6 +7379,7 @@ id_producto,producto,categoria,subcategoria
 227127,Tinte Issue Express 5 Minutos Rubio,Cuidado Personal,Cuidado del Cabello
 227128,Shampoo Ogx Brazlin Keratin Thrpy 385 ml,Cuidado Personal,Cuidado del Cabello
 227130,Acondicionador Ogx Brazlin Keratin Thrpy 385 ml,Cuidado Personal,Cuidado del Cabello
+227132,DETERGENTE GIRANDOSOL FLORAL PARIS 2400,Cuidado del Hogar,Limpieza de la Ropa
 227133,DETERGENTE  POLVO GIRANDOSOL ROSA FLORAL,Cuidado del Hogar,Limpieza de la Ropa
 227134,TRIPACK NINET CLASICA X 300 UNID,Cuidado del Bebé,Cuidado del Bebé
 227135,Jabon de Glicerina Senador Vital Stone 130,Cuidado Personal,Cuidado de la Piel
@@ -7874,6 +7880,8 @@ id_producto,producto,categoria,subcategoria
 240860,PACK 3M ESPONJAX4 Y TENEDOR NEGRO,Cuidado del Hogar,Accesorios del Hogar
 240863,NEUTROGENA SUN FRES HB50 COL 2 6X40ML,Cuidado Personal,Cuidado de la Piel
 240864,NEUTROGENA SUN FRES HB50 S COL 6X40ML,Cuidado Personal,Cuidado de la Piel
+240867,DETER. EN POLVO GIRANDOSOL ROSA FLORAL 8,Cuidado del Hogar,Limpieza de la Ropa
+240868,DET  EN POLVO HIPOALERGENICO 800 GR,Cuidado del Hogar,Limpieza de la Ropa
 240890,My Toffee Coco 600 gr,Abarrotes,Chocolates y Caramelos
 240896,Pack Kotex Puro Nocturno 16 Und,Cuidado Personal,Cuidado Familiar
 240897,Pack Huggies Natural Care Talla M 60 Und,Cuidado del Bebé,Pañales
@@ -9540,7 +9548,7 @@ id_producto,producto,categoria,subcategoria
 353895,Servilletas Premier Soft 500 un,Cuidado Personal,Cuidado Familiar
 353934,Detergente Polvo Todo Brillo Original 2 kg,Cuidado del Hogar,Limpieza de la Ropa
 353935,Detergente Polvo Todo Brillo Original 800 gr,Cuidado del Hogar,Limpieza de la Ropa
-353936,Detergente Polvo Todo Brillo Limon 2.2 kg,Cuidado del Hogar,Limpieza de la Ropa
+353936,Detergente Polvo Todo Brillo Limon 1.8 kg,Cuidado del Hogar,Limpieza de la Ropa
 353937,Detergente Polvo Todo Brillo Limon 800 gr,Cuidado del Hogar,Limpieza de la Ropa
 353950,Jabon Liquido Liz Antibacterial Suave Algodón 360 ml,Cuidado Personal,Cuidado de la Piel
 353951,Jabon Liquido Liz Seduccion Floral 360 ml,Cuidado Personal,Cuidado de la Piel
@@ -17516,6 +17524,7 @@ id_producto,producto,categoria,subcategoria
 669318,PACK EMERGENCIA BOLSA BASURERA 75L ROLL,Cuidado del Hogar,Accesorios del Hogar
 669319,PACK BANOS ECO BOLSA BASURERA 20L ROLLO,Cuidado del Hogar,Accesorios del Hogar
 669320,PACK BANOS ECO BOLSA BASURERA 35L ROLLO,Cuidado del Hogar,Accesorios del Hogar
+669322,SANTIAGO CREMA CUERO BRILL 100ML,Cuidado del Hogar,Limpieza de Zapatos
 669327,LIMPIA PISOS FRESCURA NATURAL 900 ML,Cuidado del Hogar,Limpieza de Baños
 669331,JABON INTIMO MANZANILLA/CALENDULA 220 ML,Cuidado Personal,Cuidado del Adulto
 669332,JABON INTIMO PH DEFENSE 220 MLX6,Cuidado Personal,Cuidado del Adulto
@@ -20311,7 +20320,7 @@ id_producto,producto,categoria,subcategoria
 784630,Palitos Integrales San Javier,Pastelería y Masas Típicas,Masas Típicas Externas
 784633,Hamburguesa Minuto Verde Lenteja 400 gr,Congelados,Carnes Congeladas
 784642,Hamburguesa Minuto Verde Garbanzo 400 gr,Congelados,Carnes Congeladas
-784643,YOGURT BEBIBLE OSITO RIO GDE.SABOR COCO 110 ML.,Lácteos y Derivados,Yogures
+784643,Yogurt Osito Rio Grande Coco 110 ml,Lácteos y Derivados,Yogures
 784646,Filete de Merluzza Pez y Mar Austral Congelada,Congelados,Carnes Congeladas
 784656,Yogurt Osito Rio Grande Mora 110 ml,Lácteos y Derivados,Yogures
 784657,Pollerita Fridosa Premium al Vacio kg,Carnes,Carnes al Vacio Externas
