@@ -463,16 +463,16 @@ id_producto,producto,categoria,subcategoria
 11784,Chocolate Garoto Caju 80 gr,Abarrotes,Chocolates y Caramelos
 11785,Chocolate Garoto Crocante 80 gr,Abarrotes,Chocolates y Caramelos
 12105,Arroz Integral Ahumado 750 gr,Abarrotes,Básicos
-12173,VASO P  JUGO PRENSADO DE 240 ML,Bazar,Menaje Vidrio/Cristal
+12173,Vasoo Jugo Pr Prensado 2recuentre  D,Bazar,Menaje Vidrio/Cristal
 12174,Vaso Tequilero Crisa 1 oz,Bazar,Menaje Vidrio/Cristal
 12175,Vaso de Cristal Tipo Americano,Bazar,Menaje Vidrio/Cristal
 12177,Vaso Tequilero Crisa 1/2 oz,Bazar,Menaje Vidrio/Cristal
 12180,Vaso de Cristal Munich Cerveza,Bazar,Menaje Vidrio/Cristal
 12183,Set 6 Copas Windsor Champagne,Bazar,Menaje Vidrio/Cristal
 12184,Set 6 Vasos Amasadinho,Bazar,Menaje Vidrio/Cristal
-12185,VASO P/REFRESCO COD 7700,Bazar,Menaje Vidrio/Cristal
-12187,VASO LISO UPC COD 6660,Bazar,Menaje Vidrio/Cristal
-12191,VASO DE CERVEZA BRISTOL N.5911,Bazar,Menaje Vidrio/Cristal
+12185,Vasoo Cod 770 P CrecuentreP,Bazar,Menaje Vidrio/Cristal
+12187,Vasoo Upc Cod Liso CrecuentreU,Bazar,Menaje Vidrio/Cristal
+12191,Vasoo Mascota Avena Procao 500 ml,Bazar,Menaje Vidrio/Cristal
 12192,Pyrex Sempre Redondo Microondas,Bazar,Menaje Vidrio/Cristal
 12193,Pyrex Sempre Rectangular Microondas,Bazar,Menaje Vidrio/Cristal
 12194,Pyrex Sempre Ovalado Microondas,Bazar,Menaje Vidrio/Cristal
@@ -2922,6 +2922,7 @@ id_producto,producto,categoria,subcategoria
 37400,Energizante Monster Mango 473 ml,Bebidas,Energizantes
 37401,Mermelada del Valle Guayaba 450 gr,Abarrotes,"Mermel, Mieles"
 37402,Galleta Costa Chocodonuts Leche 198 gr,Abarrotes,Galletas
+37405,SIXPACK CIFRUT MULTISABOR 6X5 360 ML,Bebidas,"Jugos, Néctar"
 37408,Bebida Celosa Fresh Tonic 355 ml,Bebidas,Licores
 37409,Bebida Celosa Pink Lemonade 355 ml,Bebidas,Licores
 37410,Bebida Celosa Wild Berries 355 ml,Bebidas,Licores
@@ -3230,9 +3231,9 @@ id_producto,producto,categoria,subcategoria
 69906,Pilas Duracell Alcalina AAA 2 un,Bazar,Ferretería
 69914,Bateria Alcalina Duracell 9V 1 un,Bazar,Ferretería
 70017,Colita Ahumada Santa Fe kg,Fiambres,Fiambres Externos
-70360,AGUA ROSADA 1LT,Bazar,Automotriz
-70378,AGUA VERDE 1LT,Bazar,Automotriz
-70408,SHAMPU PARA AUTOS 200CC,Bazar,Automotriz
+70360,Agua Rosada 1 L,Bazar,Automotriz
+70378,Agua Verde 1 L,Bazar,Automotriz
+70408,Shampuo Autos 2 Para ArecuentreP,Bazar,Automotriz
 71023,Desodorante Barra Nivea For Men Silver Protection 43 gr,Cuidado Personal,Cuidado de la Piel
 71064,Cafe Melitta Extra Fuerte 500 gr,Abarrotes,Café y Sucedáneos
 71072,Cafe Melitta Extra Fuerte 250 gr,Abarrotes,Café y Sucedáneos
@@ -4845,7 +4846,7 @@ id_producto,producto,categoria,subcategoria
 112563,Bloqueador Solar Nivea f50 200 ml,Cuidado Personal,Cuidado de la Piel
 112570,Cotonetes Septona 100 un,Cuidado del Bebé,Cuidado del Bebé
 112571,Cotonetes Septona 200 un,Cuidado del Bebé,Cuidado del Bebé
-112572,COPO ALGODDON SEPTONA CJ 200 UNDS,Cuidado del Bebé,Cuidado del Bebé
+112572,Cotonetes Septona Algodón 200 un,Cuidado del Bebé,Cuidado del Bebé
 112573,Cotonetes Septona Bolsa 100 un,Cuidado del Bebé,Cuidado del Bebé
 112575,Vino El Enemigo Bonarda 750 ml,Bebidas,Vinos y Champagne
 112577,Vino El Enemigo Cabernet Franc 750 ml,Bebidas,Vinos y Champagne
@@ -6490,11 +6491,13 @@ id_producto,producto,categoria,subcategoria
 209072,PASTILLA COLGANTES ALL VALUE AROMA SURTI,Cuidado del Hogar,Limpieza de Baños
 209087,Limpiador Todo Brillo Marmol Grano 360 ml,Cuidado del Hogar,Limpieza de Living y Ropero
 209088,Limpiador de Acero Inox Todo Brillo,Cuidado del Hogar,Limpieza de Living y Ropero
+209092,AFEITADORAS BIG FLEX 3X2,Cuidado Personal,Cuidado de la Piel
 209096,PACK EXCELLENCE 7.17  Y NECESER LOREAL,Cuidado Personal,Cuidado del Cabello
 209099,PACK FRUCTIS SANDIA SH + MASCARA,Cuidado Personal,Cuidado del Cabello
 209100,PACK FRUCTIS CACAO SH + MASCARA,Cuidado Personal,Cuidado del Cabello
+209122,AMBIENTADOR GLADE HAWA BREE 270 ML,Cuidado del Hogar,Limpieza de Living y Ropero
 209163,Galleta de Avena Almendra Vikinger,Panadería,Panadería Externa
-209260,AGUA DESTILADA 1 LT 1000C,Bazar,Automotriz
+209260,Agua Destilada 1 L,Bazar,Automotriz
 209273,Acondicionador Revive Curly sin Sal 340 ml,Cuidado Personal,Cuidado del Cabello
 209274,Crema Tratamiento Capilar Revive Curly sin Sal 300 gr,Cuidado Personal,Cuidado del Cabello
 209309,Vino La Concepcion Sauvignon Blanco Reserva 750 ml,Bebidas,Vinos y Champagne
@@ -6686,7 +6689,7 @@ id_producto,producto,categoria,subcategoria
 220664,Toffe de Leche Watts 900 gr,Abarrotes,Chocolates y Caramelos
 220667,Chicle Watts Tutti Tatuajes 600 gr,Abarrotes,Golosinas - Varias
 220669,Caramelo Watts Miel Honey 900 gr,Abarrotes,Chocolates y Caramelos
-220670,SERVILLETA BLANQUITA  200 UNID.,Cuidado Personal,Cuidado Familiar
+220670,Servilleta Blanquita 200 un,Cuidado Personal,Cuidado Familiar
 220672,Pastilla de Baño Vim Mochila Poder Total 2 un 100 gr,Cuidado del Hogar,Productos Americanos
 220673,POLVO VAJILLERO SUN BOLSA MAQUINA  1 KG,Cuidado del Hogar,Productos Americanos
 220674,POLVO VAJILLERO SUN POTE 1 KG,Cuidado del Hogar,Productos Americanos
@@ -7403,7 +7406,7 @@ id_producto,producto,categoria,subcategoria
 227151,BLOQUE MOCHILA CRIVEA 50 GR,Cuidado del Hogar,Productos Americanos
 227152,BLOQUE MOCHILA CRIVEA 2X50 GR,Cuidado del Hogar,Productos Americanos
 227156,PACK MASCARA COLOSSAL CURL WTP+ ESPONJA,Cuidado Personal,Cuidado de la Piel
-227157,MASCARILLA PANTENE P/CABELLO MIXTO 300ML,Cuidado Personal,Cuidado del Cabello
+227157,Mascarilla Pantene Cabello Mixto 300 ml,Cuidado Personal,Cuidado del Cabello
 227158,Shampoo Head Shoulders Purificante Carbon Activado 650 ml,Cuidado Personal,Cuidado del Cabello
 227159,Desodorante Gel Gillete Power Beads Sport Peak 45 gr,Cuidado Personal,Cuidado de la Piel
 227160,Shampoo Head Shoulders Anti Comezon 180 ml,Cuidado Personal,Cuidado del Cabello
@@ -7417,7 +7420,7 @@ id_producto,producto,categoria,subcategoria
 227169,Crema Para Peinar Pantene Keratina 300 ml,Cuidado Personal,Cuidado del Cabello
 227171,Salsa Chimichurri Santa Helena Picante 303 ml,Abarrotes,Condimentos y Legumbres
 227172,Acondicionador Pantene Keratina 250 ml,Cuidado Personal,Cuidado del Cabello
-227173,PACK SUAVISANTE Y DETERGENTE LIQUIDO GIG,Cuidado del Hogar,Limpieza de la Ropa
+227173,Pack Gigante Suavizante Ropa + Detergente Liquido,Cuidado del Hogar,Limpieza de la Ropa
 227174,Lavavajilla Pulpin Limocitron 500 ml,Cuidado del Hogar,Limpieza de Cocina
 227176,Lavavajilla Pulpin Limoncitron 5 L,Cuidado del Hogar,Limpieza de Cocina
 227177,Salsa Chimichurri Santa Helena con Oliva 303 ml,Abarrotes,Condimentos y Legumbres
@@ -7554,7 +7557,7 @@ id_producto,producto,categoria,subcategoria
 230701,Papel Toalla Cocina Limppano Toalex 1 un 50 Toallas,Cuidado del Hogar,Limpieza de Cocina
 230702,Protector Solar Crema Tanga Recamier Spf 60,Cuidado Personal,Cuidado de la Piel
 230703,PROT SOLAR TANGA RECAMIER SPF100  130ML,Cuidado Personal,Cuidado de la Piel
-230705,ACEITE BRONCEADOR RECAMIER TANGA SPF4 X,Cuidado Personal,Cuidado de la Piel
+230705,Aceite Bronceador Recamier Tanga Spf4,Cuidado Personal,Cuidado de la Piel
 230811,Tinte Excellence Tono 6660 Seductor,Cuidado Personal,Cuidado del Cabello
 230850,Gomita Mogul Rodajas Acidas 50 gr,Abarrotes,Golosinas - Varias
 230851,Gomita Mogul Extreme Oso 55 gr,Abarrotes,Golosinas - Varias
@@ -7591,7 +7594,7 @@ id_producto,producto,categoria,subcategoria
 232513,Galleta Costa Limon 140 gr,Abarrotes,Galletas
 232650,Servilletas Premier Max 300 un,Cuidado Personal,Cuidado Familiar
 232939,Shampoo Carissa Trigo Y Miel 900 ml,Cuidado Personal,Cuidado del Cabello
-233030,TALCO PARA CANES SUPER 100 GR,Bazar,Mascotas General
+233030,Talcoo Mascota Avena Procao 500 ml,Bazar,Mascotas General
 233048,Regenal Belmed Vitalizante 200 ml,Cuidado Personal,Cuidado de la Piel
 233137,Tomate Pelado Perita Arcor 400 gr,Abarrotes,Verduras en Conserva
 233307,Biscocho Integral Hipermaxi 10 un,Panadería,Panadería Hipermaxi
@@ -7599,7 +7602,7 @@ id_producto,producto,categoria,subcategoria
 234011,PACK SEDAL SH CELULAS M 6X650ML + AC 340,Cuidado Personal,Cuidado del Cabello
 234012,PACK SEDAL SH CERAMIDAS 6X650ML + AC 340,Cuidado Personal,Cuidado del Cabello
 234015,Shampoo Dove Repair Intense 400 ml,Cuidado Personal,Cuidado del Cabello
-234016,DOVE MASC RECONSTRUCCION 6X300G,Cuidado Personal,Cuidado del Cabello
+234016,Mascara Tratamiento Dove Recontruccion 300 gr,Cuidado Personal,Cuidado del Cabello
 234017,Mascarilla Tratamiento Dove Nutricion 300 gr,Cuidado Personal,Cuidado del Cabello
 234018,Mascarilla Capilar Dove Repair Intense 250 gr,Cuidado Personal,Cuidado del Cabello
 234019,Acondicionador Dove Repair Intense 250 ml,Cuidado Personal,Cuidado del Cabello
@@ -7718,7 +7721,7 @@ id_producto,producto,categoria,subcategoria
 240590,TOALLAS HUMEDAS  MY CARE X 50 UNDS,Cuidado del Bebé,Cuidado del Bebé
 240610,AFTERSUN LECHE REP ECRAN F50 400ML,Cuidado Personal,Cuidado de la Piel
 240611,LECHE PROT + PISTOLA ECRAN F50 270ML,Cuidado Personal,Cuidado de la Piel
-240612,PACK ALGABO BABY SH Y AC Y ACEITE,Cuidado del Bebé,Cuidado del Bebé
+240612,Pack Algabo Baby Shampoo Acondicionador Aceite,Cuidado del Bebé,Cuidado del Bebé
 240614,ALGABO CREMA PARA AFEITAR 150GR,Cuidado Personal,Cuidado de la Piel
 240615,Talco Algabo Antibacterial 100 gr,Cuidado Personal,Cuidado de la Piel
 240616,Talco Algabo Antibacterial 200 gr,Cuidado Personal,Cuidado de la Piel
@@ -7740,10 +7743,10 @@ id_producto,producto,categoria,subcategoria
 240637,Silicona Rocio Lavanda Brillo 360 ml,Cuidado del Hogar,Limpieza de Living y Ropero
 240638,VARITA REPELENTE SACHETS 5UNIDADES,Cuidado del Hogar,Insecticidas
 240639,TRATAMINTO CAPILAR ELVIVE SERUM  102 ML,Cuidado Personal,Cuidado del Cabello
-240640,PACK  SH 370ML + ACO 370ML AMINEXIL,Cuidado Personal,Cuidado del Cabello
+240640,Pack Aminexil Shampoo 370 ml + Acondicionadro 370 ml,Cuidado Personal,Cuidado del Cabello
 240641,TRI PACK KOTEX PURE UF TELA X10,Cuidado Personal,Cuidado Familiar
 240642,Pack Toalla Higienica Kotex Nocturna,Cuidado Personal,Cuidado Familiar
-240644,DOVE MEN AER INVISIBLE BIG 12X250ML,Cuidado Personal,Cuidado de la Piel
+240644,Desodorante Aerosol Dove Men Aer Invisible Big 250 ml,Cuidado Personal,Cuidado de la Piel
 240645,TINTE CAREY KIT RUBIO COBRIZO 7.4,Cuidado Personal,Cuidado del Cabello
 240646,Shampoo Head Shoulder Suave Manejable 2en1 650 ml,Cuidado Personal,Cuidado del Cabello
 240647,GEL AFTER SUN ALOE TANGA 130 GR X6,Cuidado Personal,Cuidado de la Piel
@@ -7782,14 +7785,14 @@ id_producto,producto,categoria,subcategoria
 240696,Pañal Adulto Plussec Talla G 10 un,Cuidado Personal,Cuidado del Adulto
 240697,Pañal Adulto Plussec Talla XG 10 un,Cuidado Personal,Cuidado del Adulto
 240698,Pañal Mi Bebe Recien Nacido 20 Und,Cuidado del Bebé,Pañales
-240700,NUTRISSE OLEOS 3.0 CASTANO OSCURO,Cuidado Personal,Cuidado del Cabello
-240701,NUTRISSE OLEOS 7.35 RUBIO DORADO,Cuidado Personal,Cuidado del Cabello
+240700,Tinte Nutrisse Oleo Tono 3.0 Castaño Oscuro,Cuidado Personal,Cuidado del Cabello
+240701,Tinte Nutrisse Oleo Tono 7.35 Rubio Dorado,Cuidado Personal,Cuidado del Cabello
 240703,NUTRISSE OLEOS 9.1 RUBIO CENIZO,Cuidado Personal,Cuidado del Cabello
-240704,NUTRISSE OLEO 7.12 RUBIO CENIZO NACARADO,Cuidado Personal,Cuidado del Cabello
-240705,NUTRISSE OLEOS 6.66 RUBIO ROJIZO PROFUND,Cuidado Personal,Cuidado del Cabello
-240706,NUTRISSE OLEOS 5.0 CASTANO CLARO,Cuidado Personal,Cuidado del Cabello
-240707,NUTRISSE OLEOS 1.0 NEGRO,Cuidado Personal,Cuidado del Cabello
-240708,NUTRISSE OLEOS 8.12 RUBIO CLARO PLATINAD,Cuidado Personal,Cuidado del Cabello
+240704,Tinte Nutrisse Oleo Tono 7.12 Rubio Cenizo Nacarado,Cuidado Personal,Cuidado del Cabello
+240705,Tinte Nutrisse Oleo Tono 6.66 Rubio Rojizo Profundo,Cuidado Personal,Cuidado del Cabello
+240706,Tinte Nutrisse Oleo Tono 5.0 Castaño Claro,Cuidado Personal,Cuidado del Cabello
+240707,Tinte Nutrisse Oleo Tono 1.0 Negro,Cuidado Personal,Cuidado del Cabello
+240708,Tinte Nutrisse Oleo Tono 8.12 Rubio Claro Platinado,Cuidado Personal,Cuidado del Cabello
 240711,Jabon Simonds Jalea Real 1 L,Cuidado Personal,Cuidado de la Piel
 240712,Limpiador de Tapiz Poderoso 940 ml,Cuidado del Hogar,Limpieza de Living y Ropero
 240713,LIMPIA TAPIZ CUERO PODEROSO 940 MLL,Cuidado del Hogar,Limpieza de Living y Ropero
@@ -7828,14 +7831,14 @@ id_producto,producto,categoria,subcategoria
 240756,Cepillo Doctor Dent Protec Clean Medio 2 Und,Cuidado Personal,Cuidado Bucal
 240757,Cepillo Doctor Dent Extra Clean Medio 365 2 Und,Cuidado Personal,Cuidado Bucal
 240758,PACK NUTRISSE 10 + ESMALTE VOGUE,Cuidado Personal,Cuidado del Cabello
-240759,PACK NUTRISSE 30 + ESMALTE VOGUE,Cuidado Personal,Cuidado del Cabello
+240759,Pack Tinte Nutrisse Tono 30 + Esmalte Uña Vogue,Cuidado Personal,Cuidado del Cabello
 240760,PACK NUTRISSE ULT COBER 50 + ESMALTE VOG,Cuidado Personal,Cuidado del Cabello
-240762,PACK NUTRISSE 71 + ESMALTE VOGUE,Cuidado Personal,Cuidado del Cabello
+240762,Pack Tinte Nutrisse Tono 71 + Esmalte Uña Vogue,Cuidado Personal,Cuidado del Cabello
 240763,PACK NUTRISSE ULT COBER 40 + ESMALTE VOG,Cuidado Personal,Cuidado del Cabello
 240764,PACK NUTRISSE ULT COBER 60 + ESMALTE VOG,Cuidado Personal,Cuidado del Cabello
-240765,PACK NUTRISSE 57 + ESMALTE VOGUE,Cuidado Personal,Cuidado del Cabello
-240766,PACK NUTRISSE 6660 + ESMALTE VOGUE,Cuidado Personal,Cuidado del Cabello
-240767,PACK NUTRISSE 5562 + ESMALTE VOGUE,Cuidado Personal,Cuidado del Cabello
+240765,Pack Tinte Nutrisse Tono 57 + Esmalte Uña Vogue,Cuidado Personal,Cuidado del Cabello
+240766,Pack Tinte Nutrisse Tono 6660 + Esmalte Uña Vogue,Cuidado Personal,Cuidado del Cabello
+240767,Pack Tinte Nutrisse Tono 5562 + Esmalte Uña Vogue,Cuidado Personal,Cuidado del Cabello
 240768,PACK NUTRISSE 67 + ESMALTE VOGUE,Cuidado Personal,Cuidado del Cabello
 240769,QUITAMANCHAS TODO BRILLO 450G BOLSA,Cuidado del Hogar,Limpieza de la Ropa
 240771,Shampoo Dove Regeneracion 200 ml,Cuidado Personal,Cuidado del Cabello
@@ -7883,12 +7886,13 @@ id_producto,producto,categoria,subcategoria
 240852,Jabon Barra Palmolive Mandarina Romeo,Cuidado Personal,Cuidado de la Piel
 240853,Shampoo Classic Manzanilla 950 ml,Cuidado Personal,Cuidado del Cabello
 240855,PACK ELVIVE SH YACONDC GLYCOLIC  370 ML,Cuidado Personal,Cuidado del Cabello
-240856,PACK SH Y  ACO ELVIVE  HIALURONICO PURE,Cuidado Personal,Cuidado del Cabello
+240856,Pack Shampoo Elvive Hialuronico Pure + Acondicionador,Cuidado Personal,Cuidado del Cabello
 240860,PACK 3M ESPONJAX4 Y TENEDOR NEGRO,Cuidado del Hogar,Accesorios del Hogar
 240863,NEUTROGENA SUN FRES HB50 COL 2 6X40ML,Cuidado Personal,Cuidado de la Piel
 240864,NEUTROGENA SUN FRES HB50 S COL 6X40ML,Cuidado Personal,Cuidado de la Piel
 240867,Detergente Polvo Girandosol Rosa Floral 800 gr,Cuidado del Hogar,Limpieza de la Ropa
 240868,Detergente Polvo Hipoalergenico 800 gr,Cuidado del Hogar,Limpieza de la Ropa
+240870,Detergente Polvo Girandosol Floral 800 gr,Cuidado del Hogar,Limpieza de la Ropa
 240890,My Toffee Coco 600 gr,Abarrotes,Chocolates y Caramelos
 240896,Pack Kotex Puro Nocturno 16 Und,Cuidado Personal,Cuidado Familiar
 240897,Pack Huggies Natural Care Talla M 60 Und,Cuidado del Bebé,Pañales
@@ -7956,11 +7960,11 @@ id_producto,producto,categoria,subcategoria
 249002,Lavavajilla Pulpin Limon Doypack 1 L,Cuidado del Hogar,Limpieza de Cocina
 249003,Lavavajilla Pulpin Limon Doypack 500 ml,Cuidado del Hogar,Limpieza de Cocina
 249004,Toallas Humedas Mi Bebe 25 un,Cuidado del Bebé,Cuidado del Bebé
-249005,PACK SH DOVE EXTREME + DEO,Cuidado Personal,Cuidado del Cabello
-249006,PACK SH DOVE SPORT + DEO,Cuidado Personal,Cuidado del Cabello
-249007,PACK SEDAL SH CERAMIDAS  340ML+CREMA P,Cuidado Personal,Cuidado del Cabello
-249008,PACK SEDAL SH CELULAS MADRE 6X2X340ML+CR,Cuidado Personal,Cuidado del Cabello
-249010,PACK SEDAL SH LISO 6X2X340ML+CR,Cuidado Personal,Cuidado del Cabello
+249005,Pack Shampoo Dove + Desodorante Extreme,Cuidado Personal,Cuidado del Cabello
+249006,Pack Shampoo Dove + Desodorante Sport,Cuidado Personal,Cuidado del Cabello
+249007,Pack Shampoo Sedal Ceramidas 340 ml + Crema,Cuidado Personal,Cuidado del Cabello
+249008,Pack Shampoo Sedal Celulas Madres 340 ml + Crema,Cuidado Personal,Cuidado del Cabello
+249010,Pack Shampoo Sedal Liso 340 ml + Crema,Cuidado Personal,Cuidado del Cabello
 249011,Limpiador Crema Cif Rosa Jazmin 750 gr,Cuidado del Hogar,Limpieza de Living y Ropero
 249012,Cepillo Dental Colgate Carbon 360 Medio 2 Und,Cuidado Personal,Cuidado Bucal
 249013,DESODORANTE SPEDSTICK CLINICAL 70 GR MEN,Cuidado Personal,Cuidado de la Piel
@@ -8680,7 +8684,7 @@ id_producto,producto,categoria,subcategoria
 314081,Crema Lechuga Manos Anti Edad 75 gr,Cuidado Personal,Cuidado de la Piel
 314536,Jugo Ocean Spray Cranberry 64 oz,Bebidas,Bebidas Usa
 314587,Poroto Bushs Homestyle 28 oz,Abarrotes,Productos Americanos
-314625,SHAMPOO P/CANES NEUTRO SUPER 1 LT.,Bazar,Mascotas General
+314625,Shampooo Neutro  Neutro 1recuentre  S,Bazar,Mascotas General
 314900,Canaston Especial A Scz,Abarrotes,Temporada
 314978,Bombon Nestle Especialidades 251 gr,Abarrotes,Chocolates y Caramelos
 314994,Galleta Champanera Victoria 99 gr,Abarrotes,Galletas
@@ -9275,11 +9279,11 @@ id_producto,producto,categoria,subcategoria
 340018,LE FALDA PARA CUP CAKES X 24 PZ OLEGO,Bazar,Cotillón
 340019,LE VASO DE GELATINERO 4OZ OLEGO 25UND,Bazar,Cotillón
 340021,LE VELAS DE CUMPLEANOS X24 ANIMAL PRINT,Bazar,Cotillón
-340078,FRI PLATO DE MASCOTAS DE BS 15,Bazar,Mascotas General
+340078,Plato de Mascota 2,Bazar,Mascotas General
 340081,Limpiador Antigrasa Ola Maximus con Gatillo 890 ml,Cuidado del Hogar,Limpieza de Cocina
 340087,Cucharillas Desechables Belen 10 un,Bazar,Cotillón
 340088,Cucharillas Desechables Belen Mini,Bazar,Cotillón
-340101,JAN JUGUETE DE MASCOTAS .20,Bazar,Mascotas General
+340101,Juguete de Mascota 3,Bazar,Mascotas General
 340112,Vino Navarro Correas Alegoria Gran Reserva 750 ml,Bebidas,Vinos y Champagne
 340137,Crema Ponds Clarante B3 Spf 15 100 gr,Cuidado Personal,Cuidado de la Piel
 340151,Paño Cuadrille 37x60 cm,Cuidado del Hogar,Productos Americanos
@@ -9316,7 +9320,7 @@ id_producto,producto,categoria,subcategoria
 340692,Secador Piso Condor Simple Enxuto,Cuidado del Hogar,Accesorios del Hogar
 340702,Crema Loreal Hidra Total 5 50 ml,Cuidado Personal,Cuidado de la Piel
 340750,Elimina Olor Procao de Mascotas 500 ml,Bazar,Mascotas General
-340751,ACONDICIONADOR DE MASCOTAS PROCAO 200ML,Bazar,Mascotas General
+340751,Acondicionador de Mascota Procao 200 ml,Bazar,Mascotas General
 340752,Educador Procao Sanitario de Mascotas 200 ml,Bazar,Mascotas General
 340753,Educador Procao Sanitario No Ppude 180 ml,Bazar,Mascotas General
 340782,Chocolate M&M Peanut 150.3 gr,Abarrotes,Chocolates y Caramelos
@@ -9932,18 +9936,18 @@ id_producto,producto,categoria,subcategoria
 371205,Shampoo Procao Neutralizador de Olores 500 ml,Bazar,Mascotas General
 371220,Mani Charito Frito 160 gr,Abarrotes,Snack
 371246,Leche Sancor Entera 1 L,Lácteos y Derivados,Leches
-371298,SHAMPO ACONDICIONADOR HEPAZOTE  PROCAO 500ML,Bazar,Mascotas General
+371298,Shampoo Acondicionador Hepazote Procao 500 ml,Bazar,Mascotas General
 371299,Shampoo Procao Citronella 500 ml,Bazar,Mascotas General
-371301,SHAMPO PELOS OSCUROS PROCAO 500ML,Bazar,Mascotas General
+371301,Shampoo Mascota Avena Procao 500 ml,Bazar,Mascotas General
 371302,Shampoo Procao Neutro 500 ml,Bazar,Mascotas General
 371303,Shampoo Procao Elos Claros 500 ml,Bazar,Mascotas General
 371304,Shampoo Procao Cachorros 500 ml,Bazar,Mascotas General
 371305,Colonia Procao Cachorros 120 ml,Bazar,Mascotas General
-371306,COLONIA CANES HEMBRA PROCAO 120ML,Bazar,Mascotas General
+371306,Colonia Procao Canes Hembra,Bazar,Mascotas General
 371307,Colonia Procao Macho 120 ml,Bazar,Mascotas General
-371328,SILICONA EN POTE SURTIDO 250 G  CENTRAL SUL,Bazar,Automotriz
+371328,Siliconao Pote Su G Crecuentre  G,Bazar,Automotriz
 371405,Silicona Liquida Armorall New Car 295 ml,Bazar,Automotriz
-371470,CA JUGUETE CAMION .115,Juguetería,Juguetería Niño/Bebé
+371470,Juguete Camion 3,Juguetería,Juguetería Niño/Bebé
 372085,Hoja Papel Bond Report Oficio 500 Hojas,Bazar,Librería
 372106,Vaso Termico Good y Good,Bazar,Camping General
 372107,Taper Good y Good Cuadrado 920 ml,Bazar,Menaje Plástico
@@ -9955,7 +9959,7 @@ id_producto,producto,categoria,subcategoria
 372149,Sarten Tramontina Paris 26 cm,Bazar,Articulos de Cocina
 372157,Sarten Tramontina Paris 24 cm,Bazar,Articulos de Cocina
 372163,Bombonero Plasutil,Bazar,Menaje Plástico
-372173,CI JUEGO CUBIERTOS 24 PZ LILA CARMEL TRA,Bazar,Articulos de Cocina
+372173,Juego de Cubiertos Tramontina 24 pz,Bazar,Articulos de Cocina
 372175,Set Churrasquero Tramontina 3 un,Bazar,Churrasquería
 372178,Set Churrasquero Tramontina 2 un,Bazar,Churrasquería
 372179,Tenedor Churrasquero Tramontina,Bazar,Churrasquería
@@ -9967,17 +9971,17 @@ id_producto,producto,categoria,subcategoria
 372261,Vela con Fuego 1 un,Bazar,Cotillón
 372262,LE VELA CUMPLEANOS TWIS X 1 BS 10,Bazar,Cotillón
 372282,Film Plastico Wyda 100 m 28x5,Bazar,Articulos de Cocina
-372283,GM CUCHARILLAS X50 UND STRAWPLAST,Bazar,Cotillón
+372283,Cucharilla Strawplast 50 un,Bazar,Cotillón
 372284,GM VASO TEQUILERO MULTICOLOR STRAWPLAST,Bazar,Cotillón
 372560,Cereal Granix Copos Maiz Azucarados 500 gr,Abarrotes,Nutrición Infantil
-372734,FRI JUGUETE DE MASCOTAS .14,Bazar,Mascotas General
+372734,Juguete de Mascota,Bazar,Mascotas General
 372760,Carbon Renegro 3 kg,Bazar,Churrasquería
 372770,Vasos Desechable Dispack 250 ml 100 un,Bazar,Cotillón
 372802,NA COLCHA DE MASCOTAS DE BS 38,Bazar,Mascotas General
-372883,CH CUCHILLO AZUL RUMBA X12 UND .7,Bazar,Cotillón
+372883,Chuchillos Azules Rumba Plasticos 12 un,Bazar,Cotillón
 372950,Vasos Desechable Belen 300 ml 100 un,Bazar,Cotillón
 372951,Plancha Facil Robin 500 ml,Cuidado del Hogar,Limpieza de la Ropa
-372976,JAN BOLSA DE REGALO DE .15,Bazar,Regalos/Adornos
+372976,Bolsa de Regalo 3,Bazar,Regalos/Adornos
 373020,Suavizante Ropa Cavallaro Clasico 4 L,Cuidado del Hogar,Limpieza de la Ropa
 373021,Suavizante Ropa Cavallaro Intenso 4 L,Cuidado del Hogar,Limpieza de la Ropa
 373030,CA JUGUETE MUNECA DE  BS 32,Juguetería,Juguetería Niña/Bebé
@@ -10001,14 +10005,14 @@ id_producto,producto,categoria,subcategoria
 373956,ASADERA RECTANGULAR LAR MARINEX ASAS 3.5LT,Bazar,Menaje Vidrio/Cristal
 373963,FRI COOLER FLOTANTE 88 X 77CM 210,Bazar,Temporada Verano
 373969,FRI MASCARA DE PICINA SENCILLO 3 ANOS 40,Bazar,Temporada Verano
-373975,FRI FLOTADOR DE  PICINA NINO 130,Bazar,Temporada Verano
+373975,Flotador de Piscina Niño,Bazar,Temporada Verano
 374010,Fosforo Parana Acendedores Brasa 5 un,Bazar,Churrasquería
 374012,Palitos de Anticucho Parana 50 un,Bazar,Churrasquería
 374199,Esponja Baño Luzon Pardan 550,Cuidado del Hogar,Productos Americanos
 374334,Jabon Barra Johnsons Baby Glicerina Miel 80 gr,Cuidado del Bebé,Cuidado del Bebé
 374480,Hielera Alaska de Plastico,Bazar,Menaje Plástico
 374495,Huesos Guau Nutrigua 3 un,Bazar,Mascotas General
-374496,UV HUESOS X1  DE MASCOTAS BS 29,Bazar,Mascotas General
+374496,Uvo X1  De  De Brecuentre  M,Bazar,Mascotas General
 374497,Palitos Guau Huesitos,Bazar,Mascotas General
 374725,Mani Arcor Confitado Colores 80 gr,Abarrotes,Snack
 374750,Gaseosa Sprite 500 ml,Bebidas,Gaseosas
@@ -10035,11 +10039,11 @@ id_producto,producto,categoria,subcategoria
 376540,Shampoo Babyland Manzanilla 410 ml,Cuidado del Bebé,Cuidado del Bebé
 376710,Crema Emulsionada Bellekiss Neutra 610 ml,Cuidado Personal,Cuidado de la Piel
 377588,Corrector Magico Acricolor Doble Punta,Bazar,Librería
-377631,CI CUCHILLO CHURASQUERO TRAMONTINA,Bazar,Churrasquería
+377631,Cuchillo Churrasquero Tramontina,Bazar,Churrasquería
 377673,Toma Todo Plasutil Mikey 800 ml,Bazar,Menaje Plástico
 377678,FRE POTE MIKEY 170M PLASUTIL,Bazar,Menaje Plástico
 377685,FRE LONCHERA MINNIE PLASUTIL,Bazar,Librería
-377688,FRE LONCHERA +SANWICHERA+BOTELLLA,Bazar,Librería
+377688,Lochera Sanwichera + Botella,Bazar,Librería
 377852,PAT PORTA CELULAR CARNAVALERO 5,Bazar,Temporada Carnaval
 378283,Crema Hidratante Pantene Control de Caida 300 ml,Cuidado Personal,Cuidado del Cabello
 378313,Gaseosa Fanta 500 ml,Bebidas,Gaseosas
@@ -11009,7 +11013,7 @@ id_producto,producto,categoria,subcategoria
 455678,JABON PORTUGAL FLORESTA LECHUGA X100G,Cuidado Personal,Cuidado de la Piel
 455692,Intifem Jabon Liquido Intimo x 250 ml,Cuidado Personal,Cuidado del Adulto
 455709,Lavavajilla Sapolio Crema Limon 1 kg,Cuidado del Hogar,Limpieza de Cocina
-455775,MASCULAN GEL LUBRICANTE VELVET X50ML,Cuidado Personal,Cuidado de la Piel
+455775,Gel Lubircante Masculan Velvet 50 ml,Cuidado Personal,Cuidado de la Piel
 455789,Enjuague Bucal Foramen Whitening 500 ml,Cuidado Personal,Cuidado Bucal
 455791,Cepillo Dental Foramen Unipenacho 1 un,Cuidado Personal,Cuidado Bucal
 455830,Servilletas Elite Practica 100 un,Cuidado Personal,Cuidado Familiar
@@ -11110,7 +11114,7 @@ id_producto,producto,categoria,subcategoria
 461167,TULIPAN DOBLE PLACER MIX SENS X 3 UNID,Cuidado Personal,Cuidado de la Piel
 461207,ESPUMA LIMPIADORA FACIAL FCO X175ML,Cuidado Personal,Cuidado de la Piel
 461208,Agua Micelar Portugal x 280 ml,Cuidado Personal,Cuidado del Adulto
-461238,VASO AGUA KRISTALINO CRISA UND,Bazar,Menaje Vidrio/Cristal
+461238,Vasoo Mascota Avena Procao 500 ml,Bazar,Menaje Vidrio/Cristal
 461274,LIPSMACK BAL.LABIAL VAINILLA DREAM 12.5GR,Farmacia Otc,Varios
 461275,LIPSMACK BAL. LABIAL SWEET BERRY 12.5GR,Cuidado Personal,Cuidado de la Piel
 461276,LIPSMACK BAL.LABIAL MENTA FRESH 12.5GR,Cuidado Personal,Cuidado de la Piel
@@ -11229,7 +11233,7 @@ id_producto,producto,categoria,subcategoria
 473019,Queque Dollycioso Surtido 650 gr,Pastelería y Masas Típicas,Pastelería Externa
 473477,Dorito Frito Lays Queso Atrevido 47 gr,Abarrotes,Snack
 473546,Tocino Chips A&M Picante 100 gr,Abarrotes,Snack
-473766,CUAD.ESPIRAL DISENO OFICIO TOP 100HJ 2096,Bazar,Librería
+473766,Cuaderno Top Espiral Oficio 100 Hojas,Bazar,Librería
 473871,Ajinomoto Glutamato 1 kg,Abarrotes,Condimentos y Legumbres
 474215,Repuesto Maquina de Afeitar Gillette Mach3 4 un,Cuidado Personal,Cuidado de la Piel
 474231,Gaseosa Seven Up 500 ml,Bebidas,Gaseosas
@@ -11711,8 +11715,8 @@ id_producto,producto,categoria,subcategoria
 518344,Sazonador McCormick Montreal Steak 96 gr,Abarrotes,Condimentos y Legumbres
 518711,Cerveza Potosina Light 355 ml,Bebidas,Cervezas
 518718,Almendra Maya Española 320 gr,Abarrotes,Snack
-519707,VASO GRANDE CERVECERO X 1 UNID.,Bazar,Menaje Vidrio/Cristal
-519715,VINO ETCHART CAFAYATE CHARDONNAY 750ML,Bebidas,Vinos y Champagne
+519707,Vasoo Mascota Avena Procao 500 ml,Bazar,Menaje Vidrio/Cristal
+519715,Vino Etchart Cafayate Chardonay 750 ml,Bebidas,Vinos y Champagne
 519731,Vino Etchart Cafayate Malbec 750 ml,Bebidas,Vinos y Champagne
 519740,Vino Pedriel Centenario 750 ml,Bebidas,Vinos y Champagne
 519758,Vino Norton Merlot 750 ml,Bebidas,Vinos y Champagne
@@ -13374,7 +13378,7 @@ id_producto,producto,categoria,subcategoria
 552814,Galleta La Suprema Avena Miel Canela,Abarrotes,Galletas
 552815,VINO ROSADO APALTAGUA GRAN VERANO ROSADO,Bebidas,Vinos y Champagne
 552816,VINO ROSE APALTAGUA CARMENERE RESERVA 75,Bebidas,Vinos y Champagne
-552817,VINO BLANCO APALTAGUA RESERVA CHARDONNAY,Bebidas,Vinos y Champagne
+552817,Vino Blanco Apaltagua Reserva Chardonay,Bebidas,Vinos y Champagne
 552818,Vino Blanco Apaltagua Gran Verano Chardonay,Bebidas,Vinos y Champagne
 552819,VINO BCO PUESTO DEL MARQUES  TORRONTES 7,Bebidas,Vinos y Champagne
 552820,Vino Blanco Quebrada de Las Flechas Torron,Bebidas,Vinos y Champagne
@@ -13669,6 +13673,7 @@ id_producto,producto,categoria,subcategoria
 553180,PIPOCA JOHNS POP SWEET SALTY 100 GR,Abarrotes,Snack
 553181,Fruta Deshidratada Confrut Frutilla Trozos 50 gr,Abarrotes,Frutas en Conserva
 553182,Mango Deshidratado Confrut 50 gr,Abarrotes,Frutas en Conserva
+553190,MANI CONFRUT PELADO TOSTADO 100 GR,Abarrotes,Frutas en Conserva
 553201,AJO EN POLVO SANTIAGO 60 GR,Abarrotes,Condimentos y Legumbres
 553202,Curcuma Santiago Polvo 60 gr,Abarrotes,Condimentos y Legumbres
 553205,PIMENTON SANTIAGO ROJO EN POLVO 60 GR,Abarrotes,Condimentos y Legumbres
@@ -13708,14 +13713,14 @@ id_producto,producto,categoria,subcategoria
 557721,Lavavajilla Sapolio Manzana 1250 ml,Cuidado del Hogar,Limpieza de Cocina
 557729,Servilletas Premier Max 50 un,Cuidado Personal,Cuidado Familiar
 557731,Servilletas Premier Max 100 un,Cuidado Personal,Cuidado Familiar
-557906,TENEDOR DE MESA BRINOX NEGRO 12PZAS.,Bazar,Articulos de Cocina
+557906,Tenedoro Mesa Br Brinox Nrecuentre 12 B,Bazar,Articulos de Cocina
 558508,Alcohol Desnaturalizado Envaquin 500 ml,Cuidado Personal,Cuidado de la Piel
 558985,20163 824 SARTEN 24CM Y 1200 C FLAMENCOS,Bazar,Articulos de Cocina
 558988,23670 175 HACHUELA 5 SOFT PLUS ROJO,Bazar,Articulos de Cocina
 559646,"22845/107 HACHUELA CHURRASCO BLACK 7""",Bazar,Churrasquería
 559648,22935/108 AFILADOR CHAIRA DYNAMIC 8,Bazar,Churrasquería
 559662,PROCESADOR 8TZA B+D,Bazar,Electrodoméstico/Línea Blanca-Hogar
-559742,LAPICES D COLORES LARGOS X24 KEYROAD,Bazar,Librería
+559742,Colores Keyroad Largo 24 Colores,Bazar,Librería
 559743,LAPICES D COLORES LARGOS 12UNI KEYROAD,Bazar,Librería
 559868,Vape Waka Watermelon Chill 1800 Puffs,Bebidas,Cigarrillos
 559869,Vape Waka Pineapple 1800 Puff,Bebidas,Cigarrillos
@@ -13726,7 +13731,7 @@ id_producto,producto,categoria,subcategoria
 560180,Champagne Mateus Demi Sec Rose 750 ml,Bebidas,Vinos y Champagne
 560207,Vaso Toma Todo + Bombilla,Bazar,Menaje Plástico
 560230,Limpiador de Baño Archer Saca Sarro 5 L,Cuidado del Hogar,Limpieza de Baños
-560272,CUCHILLO CHURRASCO BLACK 10 FILETEADOR TRAMONTINA,Bazar,Churrasquería
+560272,Cuchillo Churrasquero Tramontina Black,Bazar,Churrasquería
 560340,Mortadela Cazador Hipermaxi kg,Fiambres,Fiambres Hipermaxi
 560359,Mortadela de Pollo Sofia Kg,Fiambres,Fiambres Externos
 560384,SET DE 3 BOWLS C TAPA,Bazar,Menaje Plástico
@@ -14738,6 +14743,7 @@ id_producto,producto,categoria,subcategoria
 629574,Galleta Forma de Barquillo Mod 2 s/Chocolate 114 gr,Abarrotes,Productos Americanos
 629576,Galleta Forma de Barquillo s/Capuch 114 gr,Abarrotes,Productos Americanos
 629586,Galleta Butter Danish Cookies 1.36 kg,Abarrotes,Productos Americanos
+629588,GALLETAS DESOBRY CHOC BLAN Y NEG 800GR,Abarrotes,Productos Americanos
 629589,Cereal Cheerios Whole Grain 510 gr,Abarrotes,Productos Americanos
 629594,Pretzel Snyders Queso Cheddar 318 gr,Abarrotes,Productos Americanos
 629595,PRETZEL SNAPS SNYDERS AJO TOSTADO 255 GR,Abarrotes,Productos Americanos
@@ -14801,6 +14807,7 @@ id_producto,producto,categoria,subcategoria
 629775,Fideo Espagueti Barilla N°7  200 gr,Abarrotes,Productos Americanos
 629782,AGUA DE MESA EVIAN NATURAL SPRING WATER 750ML,Bebidas,Bebidas Usa
 629783,EVIAN AGUA CARBONATADA SPARKLING CARBONATED 750ML,Bebidas,Bebidas Usa
+629789,HAPPY VIBES PINA COLADA 1LT,Bebidas,Bebidas Usa
 630010,Alimento Pedigree Cachorro 1.5 kg,Abarrotes,Mascotas
 630011,Gaseosa Crush Piña 355 ml,Bebidas,Bebidas Usa
 630012,Cereal Kelloggs Cocoa Krispies 439 gr,Abarrotes,Productos Americanos
@@ -16382,6 +16389,7 @@ id_producto,producto,categoria,subcategoria
 660092,Barra Multicereal Miel Chia x12,Abarrotes,Dietéticos y Saludables
 660093,Barra Multicereal Miel Papaya x12,Abarrotes,Dietéticos y Saludables
 660094,Aceite Coco Becoco Virgen 370 ml,Abarrotes,Dietéticos y Saludables
+660095,Aceite Becoco Coco Organico 720 ml,Abarrotes,Básicos
 660096,Aceite Coco Becoco Virgen 200 ml,Abarrotes,Dietéticos y Saludables
 660099,Mantequilla de Mani Kirkland 27 oz,Abarrotes,Productos Americanos
 660100,Pretzel Crispis Sea Salt Pepper Snack Factory 7.2 oz,Abarrotes,Productos Americanos
@@ -16667,12 +16675,12 @@ id_producto,producto,categoria,subcategoria
 667147,RETOQUE RAIZ KOLESTON 3 RUBIO MEDIO,Cuidado Personal,Cuidado del Cabello
 667148,Tinte Retocador de Raiz Koleston Rojo,Cuidado Personal,Cuidado del Cabello
 667161,Servilletas Perlita Intitucional 500 un,Cuidado Personal,Cuidado Familiar
-667165,LABIAL MATTE INK  10 DREAMER,Cuidado Personal,Cuidado de la Piel
-667166,LABIAL MATTE INK  15 LOVER,Cuidado Personal,Cuidado de la Piel
-667167,LABIAL MATTE INK  80 RULER,Cuidado Personal,Cuidado de la Piel
+667165,Labial Matte Ink 10 Dreamer,Cuidado Personal,Cuidado de la Piel
+667166,Labial Matte Ink 15 Lover,Cuidado Personal,Cuidado de la Piel
+667167,Labial Matte Ink 80 Ruler,Cuidado Personal,Cuidado de la Piel
 667168,Labial Maybelline Super Stay Matte Ink Pionner 20,Cuidado Personal,Cuidado de la Piel
 667172,Labial Maybelline S Stay Matte Ink Seducress 65,Cuidado Personal,Cuidado de la Piel
-667174,LABIAL MATTE INK  50 VOYAGER,Cuidado Personal,Cuidado de la Piel
+667174,Labial Matte Ink 50 Voyager,Cuidado Personal,Cuidado de la Piel
 667196,Pasta Dental Oral-B 3D Withe Glamorous 90 gr,Cuidado Personal,Cuidado Bucal
 667197,Cepillo Dental Oral-B Pro Salud Suave 4 un,Cuidado Personal,Cuidado Bucal
 667198,Cepillo Dental Oral-B Pro Salud Indicator 2 un,Cuidado Personal,Cuidado Bucal
@@ -16817,7 +16825,7 @@ id_producto,producto,categoria,subcategoria
 667652,Bolsa Basura Virutex Bio Rollo 70x90 10 un,Cuidado del Hogar,Accesorios del Hogar
 667662,Cera Liquida Lorito 1 L,Cuidado del Hogar,Limpieza de Living y Ropero
 667663,Agua Micelar Garnier Pure Active Todo en Uno,Cuidado Personal,Cuidado de la Piel
-667665,NUTRISSE COLORISSIMOS  416,Cuidado Personal,Cuidado del Cabello
+667665,Tinte Nutrisse Colorisimo Tono 416,Cuidado Personal,Cuidado del Cabello
 667669,Detergente Liquido Skip Conford 3 L,Cuidado del Hogar,Limpieza de la Ropa
 667672,Pack Esponja Limppano Multiuso 4 un,Cuidado del Hogar,Accesorios del Hogar
 667673,Cicatricure Anti - Manchas Serum Concent,Cuidado Personal,Cuidado de la Piel
@@ -17398,25 +17406,25 @@ id_producto,producto,categoria,subcategoria
 669007,KOCOSTAR MASCARILLA FOOT PEELING PACK,Cuidado Personal,Cuidado de la Piel
 669008,MASCARA PESTANA ESSENTIAL,Cuidado Personal,Cuidado de la Piel
 669009,KOCOSTAR MASCARILLA HYDROGEL CHIN PACK,Cuidado Personal,Cuidado de la Piel
-669010,KOCOSTAR MASCARILLA HAND MOISTURE PACK,Cuidado Personal,Cuidado de la Piel
+669010,Mascarilla Kocostar Hand Moisture,Cuidado Personal,Cuidado de la Piel
 669011,KOCOSTAR MASCARILLA CAMELLIA HAPPY MASK,Cuidado Personal,Cuidado de la Piel
 669012,KOCOSTAR MASCARILLA FOOT MOISTURE PACK,Cuidado Personal,Cuidado de la Piel
 669013,KOCOSTAR MASCARILLA WHITE HAPPY MASK,Cuidado Personal,Cuidado de la Piel
-669014,KOCOSTAR MASCARILLA VITAMIN HAPPY MASK,Cuidado Personal,Cuidado de la Piel
+669014,Mascarilla Kocostar Vitamina Happy Mask,Cuidado Personal,Cuidado de la Piel
 669028,PACK SERUM HIALURONICO+UV DEF ANTIBRILLO,Cuidado Personal,Cuidado de la Piel
 669029,PACK 2X1 PANITO HÚMEDO PEQUEÑÍN PIEL DEL,Cuidado del Bebé,Cuidado del Bebé
 669030,FOTOPROTECTOR TONO BEIGE,Cuidado Personal,Cuidado de la Piel
 669031,TANGA SPF 100 BABY CREMA 120 ML X6,Cuidado Personal,Cuidado de la Piel
 669032,PROT SOLAR CREMA SPF50 X 220 ML X6,Cuidado Personal,Cuidado de la Piel
 669033,TANGA SPF 60 FACIAL Q10 50 ML X12,Cuidado Personal,Cuidado de la Piel
-669034,OLA AROMATIC CEDRON 2X5L,Cuidado del Hogar,Limpieza de Baños
-669035,OLA AROMATIC LAVANDA CREMOS 6X1.8L,Cuidado del Hogar,Limpieza de Baños
-669036,OLA AROMATIC LAVANDA CREMOSO 2X5L,Cuidado del Hogar,Limpieza de Baños
-669037,OLA AROMATIC CEDRON 12X900ML,Cuidado del Hogar,Limpieza de Baños
-669038,OLA AROMATIC CEDRON 6X1.8L,Cuidado del Hogar,Limpieza de Baños
-669039,OLA AROMATIC LAVANDA CREMOS 12X900ML,Cuidado del Hogar,Limpieza de Baños
-669040,OLA AROMATIC FLORAL CREMOSO 2X5L,Cuidado del Hogar,Limpieza de Baños
-669041,OLA AROMATIC FLORAL CREMOSO 6X1.8L,Cuidado del Hogar,Limpieza de Baños
+669034,Limpiador de Piso Ola Aromatic Cedron 5 L,Cuidado del Hogar,Limpieza de Baños
+669035,Limpiador de Piso Ola Aromatic Cremoso Lavanda 1.8 L,Cuidado del Hogar,Limpieza de Baños
+669036,Limpiador de Piso Ola Aromatic Cremoso Lavanda 5 L,Cuidado del Hogar,Limpieza de Baños
+669037,Limpiador de Piso Ola Aromatic Cedron 900 ml,Cuidado del Hogar,Limpieza de Baños
+669038,Limpiador de Piso Ola Aromatic Cedron 1.8 L,Cuidado del Hogar,Limpieza de Baños
+669039,Limpiador de Piso Ola Aromatic Cremoso Lavanda 900 ml,Cuidado del Hogar,Limpieza de Baños
+669040,Limapidor de Piso Ola Aromatic Floral Cremoso 5 L,Cuidado del Hogar,Limpieza de Baños
+669041,Limapidor de Piso Ola Aromatic Floral Cremoso 1.8 L,Cuidado del Hogar,Limpieza de Baños
 669042,Crema Hanbel Milk Coco Avena 500 gr,Cuidado Personal,Cuidado de la Piel
 669043,JABON LIQUIDO HIERBA BUENA 370 GR,Cuidado Personal,Cuidado de la Piel
 669044,Shampoo Selfy Cebolla Doypack 900 gr,Cuidado Personal,Cuidado del Cabello
@@ -17448,12 +17456,12 @@ id_producto,producto,categoria,subcategoria
 669094,PACK OLA LV LIMON BOT 1.05L+VAJ 360ML,Cuidado del Hogar,Limpieza de Cocina
 669095,Bañador Alzarsi 9 L,Cuidado del Hogar,Accesorios del Hogar
 669096,Bañador Rectangular Café 13.5 L,Cuidado del Hogar,Accesorios del Hogar
-669097,SECRET AT GEL WATERLILLY 45G X 12U,Cuidado Personal,Cuidado de la Piel
+669097,Desodorante Gel Secret Antitraspirante Waterlilly 45 gr,Cuidado Personal,Cuidado de la Piel
 669098,H&S SH DERMO SENSITIVE 650ML X 10U,Cuidado Personal,Cuidado del Cabello
 669099,SECRET AT GEL POWDERPROT COTTON 73G X 12,Cuidado Personal,Cuidado de la Piel
 669100,SECRET AT GEL WATERLILLY 73GR X12U,Cuidado Personal,Cuidado de la Piel
-669101,SECRET AT SPRAY WATERLILLY 150ML X12U,Cuidado Personal,Cuidado de la Piel
-669102,SECRET AT BARRA WATERLILLY 45G X 10U,Cuidado Personal,Cuidado de la Piel
+669101,Desodorante Aerosol Secret Antitraspirante Waterlilly 150 ml,Cuidado Personal,Cuidado de la Piel
+669102,Desodorante Barra Secret Antitraspirante Waterlilly 45 gr,Cuidado Personal,Cuidado de la Piel
 669103,Perlas Potenciadoras De Aroma Downy Lush 680 gr,Cuidado del Hogar,Productos Americanos
 669104,Perlas Potenciadoras De Aroma Downy Fresh 680 gr,Cuidado del Hogar,Productos Americanos
 669105,Perlas Potenciadoras De Aroma Downy Lush 141 gr,Cuidado del Hogar,Productos Americanos
@@ -17515,8 +17523,8 @@ id_producto,producto,categoria,subcategoria
 669166,PACK BELMED OLEO REPARADOR DELUXE,Cuidado Personal,Cuidado del Cabello
 669211,POLVO ESSENTIAL CAPUCCINO,Cuidado Personal,Cuidado de la Piel
 669212,BASE EN POLVO RESIST PETALO,Cuidado Personal,Cuidado de la Piel
-669236,SECRET AT BARRA COCONUT 45G X 12U,Cuidado Personal,Cuidado de la Piel
-669237,DOWNY AMANECER 360ML X 12U,Cuidado del Hogar,Limpieza de la Ropa
+669236,Desodorante Barra Secret Antitraspirante Coconut 45 gr,Cuidado Personal,Cuidado de la Piel
+669237,Suavizante Ropa Downy Amanecer 360 ml,Cuidado del Hogar,Limpieza de la Ropa
 669239,PANAL MI BEBE XXXG 4 X 28 UNIDAD,Cuidado del Bebé,Pañales
 669275,Lavavajilla Bristar Limon Doypack 500 ml,Cuidado del Hogar,Limpieza de Cocina
 669276,Detergente Polvo Girandosol Rosa Floral,Cuidado del Hogar,Limpieza de la Ropa
@@ -17531,16 +17539,18 @@ id_producto,producto,categoria,subcategoria
 669300,Shampoo Selfy Placenta Romero 1000 gr,Cuidado Personal,Cuidado del Cabello
 669303,VASELINA  ZURLY BABY 25 G,Cuidado del Bebé,Cuidado del Bebé
 669305,Vaselina Zurly Aloe Vera 25 gr,Cuidado del Bebé,Cuidado del Bebé
-669308,VASELINA  ZURY PURE 185 G,Cuidado del Bebé,Cuidado del Bebé
+669308,Vaselina Zurly Pure 185 gr,Cuidado del Bebé,Cuidado del Bebé
+669309,Vaselina Zurly Chamomile Rose 185 gr,Cuidado del Bebé,Cuidado del Bebé
 669310,Vaselina Zurly Aloe Vera 185 gr,Cuidado del Bebé,Cuidado del Bebé
 669311,Vaselina Zurly Baby 185 gr,Cuidado del Bebé,Cuidado del Bebé
 669312,Talco Zurly Baby Powder Pink 625 gr,Cuidado del Bebé,Cuidado del Bebé
 669313,Talco Baby Powder Blue 625 gr,Cuidado del Bebé,Cuidado del Bebé
-669316,PACK DOMÉSTICO 25L BOLSAS BASURERAS ROL,Cuidado del Hogar,Accesorios del Hogar
-669317,PACK DOMÉSTICO 50L BOLSAS BASURERAS ROL,Cuidado del Hogar,Accesorios del Hogar
+669316,PACK BOLSA DOMESTICO 25 LTS,Cuidado del Hogar,Accesorios del Hogar
+669317,PACK BOLSA BOLSA DOMESTICO 50 LTS,Cuidado del Hogar,Accesorios del Hogar
 669318,PACK EMERGENCIA BOLSA BASURERA 75L ROLL,Cuidado del Hogar,Accesorios del Hogar
-669319,PACK BANOS ECO BOLSA BASURERA 20L ROLLO,Cuidado del Hogar,Accesorios del Hogar
-669320,PACK BANOS ECO BOLSA BASURERA 35L ROLLO,Cuidado del Hogar,Accesorios del Hogar
+669319,PACK BOLSA ECO ROLLO BASURERA 20 LTS,Cuidado del Hogar,Accesorios del Hogar
+669320,PACK BOLSA ECO ROLLO BANO 35 LTS,Cuidado del Hogar,Accesorios del Hogar
+669321,VEET CREMA A&B PIEL SENSIBLE 100 ML,Cuidado Personal,Cuidado de la Piel
 669322,SANTIAGO CREMA CUERO BRILL 100ML,Cuidado del Hogar,Limpieza de Zapatos
 669327,LIMPIA PISOS FRESCURA NATURAL 900 ML,Cuidado del Hogar,Limpieza de Baños
 669331,Jabon Intimo Manzanilla Calendula 220 ml,Cuidado Personal,Cuidado del Adulto
@@ -17637,7 +17647,7 @@ id_producto,producto,categoria,subcategoria
 670318,Cup Cakes Victoria 6 un,Pastelería y Masas Típicas,Pastelería Externa
 670348,Hamburguesa Prosana de Soya Queso,Congelados,Carnes Congeladas
 670353,Helado Delizia Pelao 50 ml,Congelados,"Helados, Cassattas y Picoleses"
-670354,IK PAPEL ALUMINIO 7.5 MT PLIEGO,Bazar,Articulos de Cocina
+670354,Papel Aluminio Ilko 7.5 mts,Bazar,Articulos de Cocina
 670355,Budin Arcor Con Frutas 215 gr,Pastelería y Masas Típicas,Pastelería Externa
 670385,Helado Arcor Slice Frutilla Trozo Fruta 70 gr,Congelados,"Helados, Cassattas y Picoleses"
 670387,Tartaleta Mamina Barquito 40 un,Pastelería y Masas Típicas,Pastelería Externa
@@ -19415,7 +19425,7 @@ id_producto,producto,categoria,subcategoria
 678931,Hamburguesa Sofia Res Clasica 83 gr,Congelados,Carnes Congeladas
 678941,Galleta Cauca Pan Cris,Pastelería y Masas Típicas,Pastelería Externa
 678943,Queso Crema Colinas del Sol,Lácteos y Derivados,Quesos
-678959,SHAMPOO CERA ARMORALL 500ML,Bazar,Automotriz
+678959,Shampooo Armoral Cera ArecuentreC,Bazar,Automotriz
 678961,LEATHER CLEANER GEL ARMORALL LIMPIA CUER,Bazar,Automotriz
 678976,Removedor de Manchas Tuff Stuff 510 gr,Bazar,Automotriz
 678984,Leche Delizia Vaquita con Avena 120 ml,Lácteos y Derivados,Leches
@@ -20395,7 +20405,7 @@ id_producto,producto,categoria,subcategoria
 785156,Queque Marmolado Kositas 1100 gr,Pastelería y Masas Típicas,Pastelería Externa
 785157,Resaltador Faber Castell Amarillo,Bazar,Librería
 785162,Resaltador Faber Castell Verde,Bazar,Librería
-785177,RESALTADOR FABER CASTEL 49 CELESTE UNID,Bazar,Librería
+785177,Resaltador Faber Castell Celeste,Bazar,Librería
 785182,Resaltador Faber Castell Rosado,Bazar,Librería
 785186,Queque Marmolado Kositas 600 gr,Pastelería y Masas Típicas,Pastelería Externa
 785214,Pato Entero Congelado Don Jose kg,Congelados,Carnes Congeladas
@@ -20615,7 +20625,7 @@ id_producto,producto,categoria,subcategoria
 788572,Chocolate Cofler Block Mani 38 gr,Abarrotes,Golosinas - Varias
 788592,Chicle Topline Sin Azucar Fruta 11 gr,Abarrotes,Golosinas - Varias
 788676,Chicle Topline Sin Azucar Strong 11 gr,Abarrotes,Golosinas - Varias
-789020,RESALTADOR FABER CASTEL 49 NARANJA UNID.,Bazar,Librería
+789020,Resaltador Faber Castell Naranja,Bazar,Librería
 789032,Sandwich Panini Salami Congelado Ventura Factory,Pastelería y Masas Típicas,Pastelería Externa
 789037,Dulce de Leche La Florida Repostero 1 kg,Lácteos y Derivados,Dulces de Leche y Manjares
 789054,Sandwich Panini Pechuga Pollo Ventura Factory,Pastelería y Masas Típicas,Pastelería Externa
@@ -20946,7 +20956,7 @@ id_producto,producto,categoria,subcategoria
 806195,Ketchup Heinz 20 oz,Abarrotes,Productos Americanos
 806388,Papa Pringles Ranch 158 gr,Abarrotes,Snack
 806926,CH 2547 SET PORTATEQUILA HALLOWEN X 5,Bazar Importación,Temporada Halloween
-807538,RESALTADOR STABILO BOSS ROSADO,Bazar,Librería
+807538,Resaltador Stabilo Rosado,Bazar,Librería
 808002,Chocolate Toblerone 35 gr,Abarrotes,Golosinas - Varias
 808077,Crema Para Cafe Promos 11 oz,Abarrotes,Café y Sucedáneos
 808126,Vino Kohlberg Syrah 750 ml,Bebidas,Vinos y Champagne
@@ -21004,7 +21014,7 @@ id_producto,producto,categoria,subcategoria
 819094,999.SET DE TIC TAC X6UNID,Bazar,Bijouteria/Cuidado Personal
 819095,Mk201482 Set Tic Tac y Ligas,Bazar,Bijouteria/Cuidado Personal
 819265,Ron Matusalen Solera 7 Años 700 ml,Bebidas,Licores
-819287,TAJADOR I-GLOO  EJECT 1 ORIF.,Bazar,Librería
+819287,Tajadoro Mascota Avena Procao 500 ml,Bazar,Librería
 819329,Salsa de Tomate Hunts Oregano 227 gr,Abarrotes,Salsas y Extracto de Tomate
 819334,Salsa de Tomate Hunts Roasted 227 gr,Abarrotes,Salsas y Extracto de Tomate
 819403,Ron Abuelo Añejo 750 ml,Bebidas,Licores
@@ -21035,26 +21045,26 @@ id_producto,producto,categoria,subcategoria
 820468,Aceite Carbonell Extra Virgen 250 ml,Abarrotes,Básicos
 820597,Café Nescafe Tradicion Tapa Roja 200 gr,Abarrotes,Café y Sucedáneos
 820611,Galleta Club Social Integral 216 gr,Abarrotes,Galletas
-821077,ALED  ESTILETE DE BS 10,Bazar,Librería
+821077,Estilete,Bazar,Librería
 821224,Huesos Guau Nutrigua 8 un,Bazar,Mascotas General
-821225,UV HUESITOS NUTRIGUA X3 DE BS 18,Bazar,Mascotas General
+821225,Uvo Nutrigu X Brecuentre  D,Bazar,Mascotas General
 821226,Huesos Guau Nutrigua 2 un,Bazar,Mascotas General
-821227,UV HUESITOS NUTRIGUAUU 13/14 UND BS 65,Bazar,Mascotas General
-821228,UV HUESITOS NUTRIGUAUUU CHICLES X4 BS12,Bazar,Mascotas General
-821229,UV HUESITOS PIPOCANITOS DE BS 60,Bazar,Mascotas General
-821230,UV HUESITOS BOCANITOS,Bazar,Mascotas General
+821227,Uvo Mascota Avena Procao 500 ml,Bazar,Mascotas General
+821228,Uvo Nutrigu Chicles Xrecuentre  C,Bazar,Mascotas General
+821229,Uvo Mascota Avena Procao 500 ml,Bazar,Mascotas General
+821230,Uvo Bocanit Uv HrecuentreU,Bazar,Mascotas General
 821323,Mascara Halloween Casa Papel,Bazar,Temporada Carnaval
 821367,Limpiador de Baño Sapolio Gel Pino 500 ml,Cuidado del Hogar,Limpieza de Baños
 821372,Limpiador Sapolio Limpia Todo Floral 900 ml,Cuidado del Hogar,Limpieza de Baños
 821387,Limpiador Sapolio Limpia Todo Bebe 900 ml,Cuidado del Hogar,Limpieza de Baños
 821422,Globos Pencil Variados,Bazar,Cotillón
-821445,JAN GORRRO DE DUCHA DE BS 10,Bazar,Baño General
+821445,Gorro de Ducha,Bazar,Baño General
 821451,Foco Led Luminar Luz Blanca 11 W,Bazar,Ferretería
 821452,Foco Led Luminar Luz Calida 11 W,Bazar,Ferretería
-821462,VASO ROCKS DUBAI 12OZ 0728AL48,Bazar,Menaje Vidrio/Cristal
+821462,Vasoo Mascota Avena Procao 500 ml,Bazar,Menaje Vidrio/Cristal
 821468,Jarra Genova 1.5 L,Bazar,Menaje Vidrio/Cristal
-821472,COPA CHAMPANA ARAGON AV LISO 5436AL24,Bazar,Menaje Vidrio/Cristal
-821474,VASO AV LISO POPULAR 6OZ 2860AL,Bazar,Menaje Vidrio/Cristal
+821472,Copa de Champagne Aragon Liso,Bazar,Menaje Vidrio/Cristal
+821474,Vasoo Liso Po Popular 6recuentre 2860 P,Bazar,Menaje Vidrio/Cristal
 821530,Quitamanchas Vanish Poder Oxi Action 450 gr,Cuidado del Hogar,Limpieza de la Ropa
 821565,Jabon Barra Cavallaro Coco 500 gr,Cuidado del Hogar,Limpieza de la Ropa
 822028,Cafe Nescafe Tradicion Tapa Roja 100 gr,Abarrotes,Café y Sucedáneos
@@ -21156,14 +21166,14 @@ id_producto,producto,categoria,subcategoria
 830737,Aceite Crisol Girasol 1800 ml,Abarrotes,Básicos
 830742,Aceite Crisol Vegetal 1800 ml,Abarrotes,Básicos
 830806,Mayonesa Manley Young 500 ml,Abarrotes,Aderezos
-831140,CUCHARILLAS DESECHABLES OLEGO 50UND,Bazar,Cotillón
+831140,Cucharilla Desechables Olego 50 un,Bazar,Cotillón
 831142,PLATO CUADRADODESECHABLE OLEGO 10UND,Bazar,Cotillón
 831285,Refresco Nectar Kris Damasco 120 gr,Bebidas,Refrescos en Polvo
 831345,Adorno Para AArbol Estrella Navideña 11 cm,Bazar Importación,Temporada Navidad
 831346,Adorno Para AArbol Estrella Navideña 17 cm,Bazar Importación,Temporada Navidad
 831347,Bolas Navideñas Set de 6 Piezas 4 cm,Bazar Importación,Temporada Navidad
-831480,SHAMPO CENTRAL SUR  500ML,Bazar,Automotriz
-831509,BLISTER LAPIZ BIC EVOLUTION PIJAMA 3UN,Bazar,Librería
+831480,Shampoo Central Sur 500 ml,Bazar,Automotriz
+831509,Lapz Bic Evolution Pijama 3 un,Bazar,Librería
 831542,Vela Cirio Yander Maciel Gruesa 2 un,Bazar,Cotillón
 831544,LV VELA VASO GRANDE PERFUMADA COLORES YANDE MACIEL,Bazar,Living y Dormitorio
 831640,JAN GORRO DE NAVIDAD DE BS 10,Bazar,Temporada Navidad
@@ -21173,7 +21183,7 @@ id_producto,producto,categoria,subcategoria
 831674,Cesto Handy Rey 78,Cuidado del Hogar,Accesorios del Hogar
 831681,Couscous Roland 100% Natural 500 gr,Abarrotes,Productos Americanos
 831790,Caramelo Kidsmania Dubble Bubble Machine 40 gr,Abarrotes,Productos Americanos
-831804,ALED RESALTADOR DE BS 5,Bazar,Librería
+831804,Resaltador,Bazar,Librería
 831854,Cereal Kelloggs Special Red Berries 43 oz,Abarrotes,Productos Americanos
 831923,Caramelo Nerds Watermelon Cherry 1.65 oz,Abarrotes,Golosinas - Varias
 832248,Gomita Fini Minichcas Gusanos 100 gr,Abarrotes,Golosinas - Varias
@@ -21288,14 +21298,14 @@ id_producto,producto,categoria,subcategoria
 837150,Bandeja de Aluminio Wyda Asadera 10 L,Bazar,Articulos de Cocina
 837152,Bandeja de Aluminio Wyda Asadera Ovaladda 7 L,Bazar,Articulos de Cocina
 837210,RALLADOR ILKO DE ACERO 3 CORTES 5845,Bazar,Articulos de Cocina
-837292,FRI PALTO DE MASCOTA METAL BS 35,Bazar,Mascotas General
+837292,Plato de Mascota de Metal,Bazar,Mascotas General
 837674,Boligrafo Faber Castell Azul 0.32,Bazar,Librería
 837675,Boligrafo Faber Castell Negro 0.32,Bazar,Librería
-837891,TAPER GOOD &GOOD 970ML,Bazar,Menaje Plástico
-837892,TAPER GOOD & GOOD 350 ML,Bazar,Menaje Plástico
+837891,Tapero &Good 9 Good &recuentreG,Bazar,Menaje Plástico
+837892,Tapero & Good  & 3recuentre G,Bazar,Menaje Plástico
 837893,Taper Good y Good Cuadrado 1.25 L,Bazar,Menaje Plástico
-837894,TAPER GOOD & GOOD SANDWICHERO 430ML,Bazar,Menaje Plástico
-837970,FRE TOMA TODO BASA 500ML,Bazar,Menaje Plástico
+837894,Tapero Mascota Avena Procao 500 ml,Bazar,Menaje Plástico
+837970,Toma Todo Basa 500 ml,Bazar,Menaje Plástico
 837971,Taper Myr Ovalado 0.8 L,Bazar,Menaje Plástico
 837976,Taper Mr Ovalado 2 L,Bazar,Menaje Plástico
 837977,Taper Myr Cuadrado 4.5 L,Bazar,Menaje Plástico
@@ -21305,9 +21315,9 @@ id_producto,producto,categoria,subcategoria
 838080,Jarra 2Lt - Wanda,Bazar,Menaje Plástico
 838081,Toma Todo  X2 Unidades,Bazar,Menaje Plástico
 838104,FRI INFLABLE ARCO DE FUTBOL DE BS 140,Bazar,Temporada Verano
-838120,FRI PELOTA GIGANTE DE PICINA 55,Bazar,Temporada Verano
-838298,SHAMPO DE MASCOTA STOP TUTTY FRUTY 500ML,Bazar,Mascotas General
-838299,SHAMPO ALOE VERA DE MASCOTA STOP 500ML,Bazar,Mascotas General
+838120,Pelota Gigante de Piscina,Bazar,Temporada Verano
+838298,Shampoo Mascota Stop Tutty Frutty 500 ml,Bazar,Mascotas General
+838299,Shampoo Mascota Aloe Vera Stop 500 ml,Bazar,Mascotas General
 838300,Arena Para Gato Catsan 4 kg,Bazar,Mascotas General
 838309,Vasos Desechable Belen Colores 200 ml 100 un,Bazar,Cotillón
 838393,AMBIEMTADOR DE AUTO NATUAR MEN 45 ML,Bazar,Automotriz
@@ -21321,7 +21331,7 @@ id_producto,producto,categoria,subcategoria
 838573,Vino Luigi Bosca Cabernet Sauvignon Reserva 750 ml,Bebidas,Vinos y Champagne
 838593,Palmito Chimore Entero 410 gr,Abarrotes,Verduras en Conserva
 838595,SHAMPO DE MASCOTAS LAVADO FRECUENTE 1LT,Bazar,Mascotas General
-838596,SHAMPO DE BLACK SUPER 1LT,Bazar,Mascotas General
+838596,Shampoo Black Super 1 L,Bazar,Mascotas General
 838599,Termo de Agua Dama Termolar 1 L,Bazar,Articulos de Cocina
 838617,Atun Norte Lomito en Aceite 170 gr,Abarrotes,Comidas en Conserva
 838622,Atun Norte Lomito al Agua 170 gr,Abarrotes,Comidas en Conserva
@@ -21331,7 +21341,7 @@ id_producto,producto,categoria,subcategoria
 838785,JAN FLORES DE ARBOL NAVIDAD BS 14,Bazar,Temporada Navidad
 839010,Filtro N2 - Melitta,Bazar,Articulos de Cocina
 839026,CUAD ESPIR DISENO 1/2 OFIC ECON 100HJ 8731,Bazar,Librería
-839028,CUAD. ESPIRAL PLENO CARTA ECON 100HJ 3238,Bazar,Librería
+839028,Cuaderno Espiral Pleno Carta 100 Hojas,Bazar,Librería
 839081,Turron Sesamo Tks 150 gr,Abarrotes,Golosinas - Varias
 839126,MIR ANTIFAZ DE ZORRO BS 10,Bazar,Temporada Carnaval
 839159,FRI PLATO DE PERRO DE BS 10,Bazar,Mascotas General
@@ -21348,13 +21358,13 @@ id_producto,producto,categoria,subcategoria
 839354,Afilador de Cuchillo Ilko,Bazar,Articulos de Cocina
 839358,Vino Aranjuez Terruño Blanco 70 ml,Bebidas,Vinos y Champagne
 839360,FRI CEPILLO DE MASCOTAS DE BS 14,Bazar,Mascotas General
-839371,SHAMPO MASCOTA AVENA PROCAO 500 ML,Bazar,Mascotas General
-839584,FRI PLATO DE MASCOTA .12,Bazar,Mascotas General
+839371,Shampoo Mascota Avena Procao 500 ml,Bazar,Mascotas General
+839584,Plato de Mascota,Bazar,Mascotas General
 839596,Salsa Chimichurri La Parmesana Tradicional 300 gr,Abarrotes,Aderezos
 839601,Colonia Super Para Mascotas 120 ml,Bazar,Mascotas General
 839635,Pilas Energizer Alcalina AAA 8 un,Bazar,Ferretería
-839737,JAN PORTA VELA VIDRIO 16,Bazar,Living y Dormitorio
-839756,CA JUGUETE SET DE BOMBEROS 245,Juguetería,Juguetería Niño/Bebé
+839737,Porta Vela de Vidrio,Bazar,Living y Dormitorio
+839756,Juguete Set Bomberos,Juguetería,Juguetería Niño/Bebé
 839770,MA GLOBOS DIFERENTES MODELOS,Bazar,Cotillón
 839800,FIL PVC ALPFILM 28X300 MT,Bazar,Articulos de Cocina
 839810,Set Cuchara Tramontina Roja,Bazar,Articulos de Cocina
@@ -21478,7 +21488,7 @@ id_producto,producto,categoria,subcategoria
 841573,Taper Cuadrado X2 Piezas,Bazar,Menaje Plástico
 841605,Cuchara Betty Crocker para Pasta,Bazar Importación,Cocina General
 841616,REFIL ALPFILM 300X28CM,Bazar,Articulos de Cocina
-841622,FRI PISCINA COLORES NINOS 3 ANOS 1.57MT 198,Bazar,Temporada Verano
+841622,Piscina Colores Niños 3 Años,Bazar,Temporada Verano
 841658,Limpiador Desinfectante Ola Aromatic Pino 1.8 L,Cuidado del Hogar,Limpieza de Baños
 841663,Limpiador Desinfectante Ola Aromatic Lavanda 1.8 L,Cuidado del Hogar,Limpieza de Baños
 841683,Insecticida Glacoxan Hormiga Polvo 250 gr,Cuidado del Hogar,Insecticidas
@@ -21498,7 +21508,7 @@ id_producto,producto,categoria,subcategoria
 842229,Gomita Play Banana 55 gr,Abarrotes,Golosinas - Varias
 842291,JUEGO CHURRASCO 3 PZS C/PINZA PEQUENO 22,Bazar,Churrasquería
 842300,Biberon Duo Pack 9 oz,Bazar,Articulos de Bebé
-842466,JUEGO CUCHILLOS 8PZAS PLENUS BLANCO,Bazar,Articulos de Cocina
+842466,Juego de Cuchillos Plenus Blanco 8 un,Bazar,Articulos de Cocina
 842486,JUEGO CUBIERTOS 24PZAS MALIBU NEGRO,Bazar,Articulos de Cocina
 842527,"BOLSA ZIPPER CONGELAR 12X15UNID.27,9X26,",Bazar,Articulos de Cocina
 843169,CH S20 15 RECIPIENTE HERMETICO PLASTICO REDONDO CON TAPA COL,Bazar Importación,Temporada Carnaval
@@ -21541,22 +21551,22 @@ id_producto,producto,categoria,subcategoria
 844623,"20582/420 OLLA DE PRESION 4,5L VANCOUVER",Bazar,Articulos de Cocina
 844625,61229/160 POTE CUADRADO CON TAPA,Bazar,Menaje Metálico
 844626,61229/190 TAPPER ACERO C/TAPA 2 LTS.,Bazar,Menaje Metálico
-844638,ECOLAPICES MADERA NEGRA SOFT (12 COLORES) FABER CASTELL,Bazar,Librería
+844638,Colores Faber Castell Ecolapices Madera Negra 12 Colores,Bazar,Librería
 844813,Biberon Dos Agarradores Ancho 14 oz Carli,Bazar,Articulos de Bebé
 844814,Tetina Silicona Estandar x 4 unid,Bazar,Articulos de Bebé
 844818,Set Platos Plasticos Carlitos 5 und,Bazar,Articulos de Bebé
 844821,HUESO PEQUENO CAFE Y COLORES,Bazar,Mascotas General
-844824,JUGUETE HAMBURGUESAS,Bazar,Mascotas General
-844829,COLLAR P/ MASCOTAS C/ PANUELETA GRANDE,Bazar,Mascotas General
+844824,Juguete de Mascota Hamburguesa,Bazar,Mascotas General
+844829,Collar para Mascota con Pañoleta Grande,Bazar,Mascotas General
 844833,PECHERA SENSILLA DE 1.5 CM. DE ANCHO,Bazar,Mascotas General
-844834,COLLAR REFLECTIVO  DE 2 CM. DE CNCHO,Bazar,Mascotas General
+844834,Collar para Mascota Reflectivo,Bazar,Mascotas General
 844837,NOCHILA TRANSPORTADOR P/MASCOTAS,Bazar,Mascotas General
 844838,PECHERA CON ROPA P/MASCOTAS,Bazar,Mascotas General
 844845,CASAS PARA MASCOTA,Bazar,Mascotas General
 844847,"HUESO MEDIANO DE SILICON, CON LUZ",Bazar,Mascotas General
-844849,TRANSPORTADOR ESTAMPADO  P/MASCOTA,Bazar,Mascotas General
+844849,Transportadoro P/Masco Estampado ErecuentreE,Bazar,Mascotas General
 844852,JUGUETE DE GOMA GRANDE (4 MODELOS),Bazar,Mascotas General
-844856,JUGUETE SURTIDO MASCOTAS,Bazar,Mascotas General
+844856,Juguete de Mascota Surtido,Bazar,Mascotas General
 845216,CH 3618 SETX2 PARA ENSALADAS DE  BAMBU   TAMANO 27CM,Bazar Importación,Cocina General
 845221,CH 6019 PISTOLA DE JUGUETE  CON 12 BALAS DE ESPUMA  EVA,Juguetería Importación,Juguetería Niño/Bebé
 845232,Pistola de Juguete con 12 Balas de Espumas,Juguetería Importación,Juguetería Niño/Bebé
@@ -21577,9 +21587,10 @@ id_producto,producto,categoria,subcategoria
 845558,Queso Danbo Guapurutu kg,Lácteos y Derivados,Quesos
 845945,CH Y514 CANASTA CUADRADA CON 4 DIVISIONES 20X20 CM,Bazar Importación,Living y Dormitorio
 845949,CH Y517 SETX2 PZAS CANASTA RECTANGULAR 30X25X6 Y 27X23X7,Bazar Importación,Living y Dormitorio
-846041,SILICONA WHITE C AROMA DE 300MM,Bazar,Automotriz
-846043,SILICONA WHITE C/AROMA CICLE 300ML,Bazar,Automotriz
-846057,SPRAY AFLOJA TODO 5.5OZ,Bazar,Automotriz
+846041,Siliconao C Aroma Aroma Drecuentre 300 A,Bazar,Automotriz
+846043,Siliconao C/Aroma Aroma CrecuentreC,Bazar,Automotriz
+846057,Sprayo Todo 5. Afloja TrecuentreA,Bazar,Automotriz
+846059,LIMPIA PARABRISAS 1LT,Bazar,Automotriz
 846125,Calavera Prisionero 23x24x28,Bazar Importación,Temporada Halloween
 846129,Barril Inicia Carbon BBQ 17x27x5x28 cm,Bazar Importación,Churrasquería
 846130,Parrillero Portatil BBQ Ovalado,Bazar Importación,Churrasquería
@@ -21818,14 +21829,14 @@ id_producto,producto,categoria,subcategoria
 847059,FOCO BULBO LED 19W LUZ CALIDA,Bazar,Ferretería
 847092,Curry El Cocinero 65 gr,Abarrotes,Condimentos y Legumbres
 847101,Comino El Cocinero Completo 75 gr,Abarrotes,Condimentos y Legumbres
-847283,CHUPON EN CAJITA 2X1 -36,Bazar,Articulos de Bebé
+847283,Chupon en Cajita,Bazar,Articulos de Bebé
 847291,PLATO P/MASCOTA 2X1 -20,Bazar,Mascotas General
 847334,Gaseosa Simba Pomelo 2 L,Bebidas,Gaseosas
 847369,Chocolate Repostero Para Ti Chocolate 250 gr,Abarrotes,Repostería
-847397,ENCENDEDOR RONSON LARGO CRON,Bazar,Churrasquería
+847397,Encendedor Ronson Largo,Bazar,Churrasquería
 847399,Encendedor Tubo Negro - Ronson,Bazar,Churrasquería
-847446,CB.DISPENSADOR DE GEL 200ML,Bazar,Bioseguridad
-847486,TRAJE DE BIOSEGURIDAD,Bazar,Bioseguridad
+847446,Dispensador de Gel 200 ml,Bazar,Bioseguridad
+847486,Trajeo Biosegu Traje DrecuentreT,Bazar,Bioseguridad
 847488,LP.MASCARA DE PROTECCION -19,Bazar,Bioseguridad
 847519,POSILLO P/TINTE -10.50,Bazar,Bijouteria/Cuidado Personal
 847521,PONCHILLO P/PELUQUERIA-24.90,Bazar,Bijouteria/Cuidado Personal
@@ -21833,7 +21844,7 @@ id_producto,producto,categoria,subcategoria
 847607,Lechuga Mixta La Huerta 190 gr,Frutas y Verduras,Gourmet
 847610,Hongos Ostra Frescos La Huerta 200 gr,Frutas y Verduras,Gourmet
 847615,Banana 1 kg,Frutas y Verduras,Frutas
-847784,JUEGO DE CUCHILLOS DE 8 UNIDADES,Bazar,Articulos de Cocina
+847784,Juego de Cuchillos 8 un,Bazar,Articulos de Cocina
 847848,MINI CEPILLO P/CARTERA C/FUCSIA,Bazar,Bijouteria/Cuidado Personal
 847850,MINI CEPILLO P/CARTERA PLATEADO,Bazar,Bijouteria/Cuidado Personal
 847857,PULVERIZADOR 300ML  REF. P9793,Bazar,Bioseguridad
@@ -21843,7 +21854,7 @@ id_producto,producto,categoria,subcategoria
 847864,PORTA JABON LIQUIDO 280ML REF. P12979,Bazar,Bioseguridad
 847865,PORTA JABON LIQ. 480ML REF. P12831,Bazar,Bioseguridad
 847910,Estufa Briara Giratoria 160 Brc,Bazar,Electrodoméstico/Línea Blanca-Hogar
-847934,ZIPPER BAGS STORAGE MEDIUM 25UNID.,Bazar,Articulos de Cocina
+847934,Zippero Mascota Avena Procao 500 ml,Bazar,Articulos de Cocina
 847969,KENDY CAJA KENDYFRESH  1 BAJA 350ML X1U 61320,Bazar,Menaje Plástico
 848001,KENDY JARRA MIXER 1.7 LT X1U 61470,Bazar,Menaje Plástico
 848018,KENDY CAJA FRESH REDONDA  3BAJA 1.4LT X1U,Bazar,Menaje Plástico
@@ -21851,11 +21862,11 @@ id_producto,producto,categoria,subcategoria
 848209,PLAY-DOH PLASTILINA 4+1,Juguetería,Juguetería Didáctica/Temporada
 848210,MTTL BARBIE FASHIONISTA SURTIDO FBR37,Juguetería Importación,Jugueteria Marcas
 848472,Licuadora Philips Walita,Bazar,Electrodoméstico/Línea Blanca-Hogar
-848531,TRIANGULO SEGURIDAD P/ AUTO DE 29 CM,Bazar,Automotriz
+848531,Trianguloo P/ Auto Auto 2recuentre  D,Bazar,Automotriz
 848661,FOCO LED RAYOVAC 8W 750ML LUZ AMARRILLA,Bazar,Ferretería
 848708,Caramelo Ring Pop Surtido 14 gr,Abarrotes,Productos Americanos
 848712,GRASA EN SPRAYC 100Z,Bazar,Automotriz
-848714,SILICONA RTV GREASE 85GR,Bazar,Automotriz
+848714,Siliconao Grease  Rtv GrecuentreR,Bazar,Automotriz
 848735,LP.SET DE VINCHA X5 174,Bazar,Bijouteria/Cuidado Personal
 848737,LP.SET DE LIGAS C/MONO X2PZAS,Bazar,Bijouteria/Cuidado Personal
 848740,LP.SET DE LIGAS TORNASOL X2PZAS,Bazar,Bijouteria/Cuidado Personal
@@ -21890,7 +21901,7 @@ id_producto,producto,categoria,subcategoria
 849109,VINCHA NAVIDENA VENADO -13,Bazar,Temporada Navidad
 849111,"VINCHA NAVIDENA NOEL, ARBOL, MUNECO - 10",Bazar,Temporada Navidad
 849137,ADORNO NAVIDENO COUNTRY TELA VERDE - 11,Bazar,Temporada Navidad
-849160,VASO DESECHABLES 50ML C/TAPA ART,Bazar,Cotillón
+849160,Vasoo 50Ml C/ C Crecuentre5,Bazar,Cotillón
 849171,AMBIENT.REFRESH DAISY PINK PETALS,Bazar,Automotriz
 849183,AMBIEMNTADOR REFRESH LINE MINI,Bazar,Automotriz
 849184,AMBIENTADOR REFRESH WILDFLOWES MINI 8ML,Bazar,Automotriz
@@ -21931,20 +21942,20 @@ id_producto,producto,categoria,subcategoria
 850843,PAN 205B VELA 13X13X9CM,Bazar Importación,Living y Dormitorio
 850915,PAN 1026 MOLDE P REPOSTERIA OREO R,Bazar Importación,Cocina General
 850916,CH 11 156 ACCESORIOS PARA BANO SET X 6 PZAS PLANTAS,Bazar Importación,Baño General
-850990,CH D2 1 VELA AROMATICA COLOR SURTIDO 7X7 5CM,Bazar Importación,Living y Dormitorio
-850991,CH D2 2 VELA AROMATICA COLOR SURTIDO 7X10CM,Bazar Importación,Living y Dormitorio
-850992,CH D2 3 VELA AROMATICA COLOR SURTIDO 7X15CM,Bazar Importación,Living y Dormitorio
-850996,CH D2 7 VELA AROMATICA LAVENDER 7X7 5CM,Bazar Importación,Living y Dormitorio
-850997,CH D2 8 VELA AROMATICA LAVENDER 7X10CM,Bazar Importación,Living y Dormitorio
-850998,CH D2 9 VELA AROMATICA LAVENDER 7X15CM,Bazar Importación,Living y Dormitorio
-851000,CH D2 10 VELA AROMATICA ORANGE 7X7 5CM,Bazar Importación,Living y Dormitorio
-851003,CH D2 12 VELA AROMATICA ORANGE 7X15CM,Bazar Importación,Living y Dormitorio
-851004,CH D2 12 VELA AROMATICA ORANGE 7X15CM,Bazar Importación,Living y Dormitorio
-851006,CH D2 14 VELA AROMATICA JASMINE 7X10CM,Bazar Importación,Living y Dormitorio
-851007,CH D2 15 VELA AROMATICA JASMINE 7X15CM,Bazar Importación,Living y Dormitorio
+850990,Vela Aromatica Color Surtido 5 cm,Bazar Importación,Living y Dormitorio
+850991,Vela Aromatica Color Surtido 10 cm,Bazar Importación,Living y Dormitorio
+850992,Vela Aromatica Color Surtido 15 cm,Bazar Importación,Living y Dormitorio
+850996,Vela Aromatica Lavanda 5 cm,Bazar Importación,Living y Dormitorio
+850997,Vela Aromatica Lavanda 10 cm,Bazar Importación,Living y Dormitorio
+850998,Vela Aromatica Lavanda 15 cm,Bazar Importación,Living y Dormitorio
+851000,Vela Aromatica Orange 5cm,Bazar Importación,Living y Dormitorio
+851003,Vela Aromatica Orange 15 cm,Bazar Importación,Living y Dormitorio
+851004,Vela Aromatica Orange 15 cm,Bazar Importación,Living y Dormitorio
+851006,Vela Aromatica Jasmine 10 cm,Bazar Importación,Living y Dormitorio
+851007,Vela Aromatica Jasmine 15 cm,Bazar Importación,Living y Dormitorio
 851008,CH D2 16 VELA AROMATICA VAINILLA 7X7 5CM,Bazar Importación,Living y Dormitorio
-851009,CH D2 17 VELA AROMATICA VAINILLA 7X10CM,Bazar Importación,Living y Dormitorio
-851022,CH D2 18 VELA AROMATICA VAINILLA 7X15CM,Bazar Importación,Living y Dormitorio
+851009,Vela Aromatica Vainilla 10 cm,Bazar Importación,Living y Dormitorio
+851022,Vela Aromatica Vainilla 15 cm,Bazar Importación,Living y Dormitorio
 851234,Pan de Hamburguesa Paris Mediano 10 un,Panadería,Panadería Externa
 851314,CH D5 3 JUGUETE CAMION DINOSAURIO CON JAULA 24X9 5X14CM,Juguetería Importación,Juguetería Niño/Bebé
 851335,MA VELAS CUMPLEANOS NUMEROS,Bazar,Cotillón
@@ -21958,14 +21969,14 @@ id_producto,producto,categoria,subcategoria
 851504,Cuaderno Lider Espiral 1/2 Oficio 100 Hojas,Bazar,Librería
 851505,Cuaderno Lider Espiral Oficio 100 Hojas,Bazar,Librería
 851506,Cuaderno Lider Espiral Carta 100 Hojas,Bazar,Librería
-851571,BOTELLON SAN REMO 500 ML SR91/3 NEGRO,Bazar,Menaje Plástico
+851571,Toma Todo San Remo Negro Sr91-3 500 ml,Bazar,Menaje Plástico
 851636,CH 27 1 SET DE UTENSILIOS PARRILLEROS 53X24CM,Bazar Importación,Churrasquería
 851640,Incienso Flute,Bazar,Living y Dormitorio
-851667,CH D3 1 JUGUETE ESTACION DE SERVICIO X 22PZAS,Juguetería Importación,Juguetería Niño/Bebé
+851667,Juguete Estacion de Servicio,Juguetería Importación,Juguetería Niño/Bebé
 851697,Libro Magico Crea Pulseras 3 en 1,Juguetería Importación,Juguetería Niña/Bebé
 851710,Cereal Post Fruity Marshmallow 11 oz,Abarrotes,Nutrición Infantil
 851787,Juguete Para Hacer Joyeria,Juguetería Importación,Juguetería Niña/Bebé
-851832,CH D4 13 JUGUETE PARA HACER MANILLAS Y COLLARES SET 2EN1,Juguetería Importación,Juguetería Niña/Bebé
+851832,Juguete para Hacer Manilla Collares,Juguetería Importación,Juguetería Niña/Bebé
 851857,Juguete Set de Peluqueria,Juguetería Importación,Juguetería Niña/Bebé
 851859,CH D4 16 JUGUETE SET DE PELUQUERIA 2EN 1 PARA HACER TRENZADO,Juguetería Importación,Juguetería Niña/Bebé
 851870,CH D4 18 JUGUETE SET DE PELUQUERIA 2 EN 1,Juguetería Importación,Juguetería Niña/Bebé
@@ -22296,7 +22307,7 @@ id_producto,producto,categoria,subcategoria
 856418,Taper Rectangular De Vidrio Hermetico Pequeño,Bazar Importación,Menaje Vidrio/Cristal
 856419,Taper Rectangular De Vidrio Hermetico Mediano,Bazar Importación,Menaje Vidrio/Cristal
 856420,Taper Rectangular De Vidrio Hermetico Grande,Bazar Importación,Menaje Vidrio/Cristal
-856522,VESTON AROMATIZANTE GLACIAR 120 ML,Bazar,Automotriz
+856522,Vestono Glaciar Aromatizante 1recuentreG,Bazar,Automotriz
 856526,Salsa McCormick Mix Mushroom Gravy 21 gr,Abarrotes,Condimentos y Legumbres
 856620,Achocolatado Choco Piter 1 kg,Abarrotes,Nutrición Infantil
 856651,"Sartén Antiadherente 25x5 cm, varios colores",Bazar Importación,Cocina General
@@ -22546,7 +22557,7 @@ id_producto,producto,categoria,subcategoria
 857589,Palmito Campo Verde Entero 250 gr,Abarrotes,Verduras en Conserva
 857626,Papa Qhati 1 kg,Frutas y Verduras,Verduras
 857629,Romero 1 kg,Frutas y Verduras,Verduras
-857660,CP LECHUGA HIDROPONICA CIMA 1 UND,Frutas y Verduras,Verduras
+857660,Lechuga Hidroponica Cima,Frutas y Verduras,Verduras
 857664,CH S5 3 ADORNO NAVIDENO PAPA NOEL MUNECO DE NIEVE Y RENO,Bazar Importación,Temporada Navidad
 857665,CH S5 4 ADORNO FELIZ NAVIDAD PAPA NOEL RENO MUNECO DE NIEVE,Bazar Importación,Temporada Navidad
 857666,CH S5 5 ADORNO FELIZ NAVIDAD MUNECO DE NIEVE Y PAPA NOEL,Bazar Importación,Temporada Navidad
@@ -22589,13 +22600,13 @@ id_producto,producto,categoria,subcategoria
 858196,CH J17 29 JUGUETE SET DE BOMBEROS CON MASCARA ROJA X9PZAS,Juguetería Importación,Juguetería Niño/Bebé
 858235,Aceite La Española Extra Virgen 200 ml,Abarrotes,Básicos
 858262,SET DE ELECTRODOMESTICOS 4 EN 1,Juguetería,Juguetería Niña/Bebé
-858297,BRA TOMATODO SPORT ROSA 750ML,Bazar Importación,Menaje Plástico
-858298,BRA TOMATODO SPORT BLANCO PERRO LOVE 750ML,Bazar Importación,Menaje Plástico
-858308,BRA TOMATODO SPORT TRANSPARENTE CARROS 750ML,Bazar Importación,Menaje Plástico
-858309,BRA TOMATODO SPORT ROSA CORAZONES 750ML,Bazar Importación,Menaje Plástico
-858310,BRA TOMATODO SPORT CAMUFLADO NEGRO 750ML,Bazar Importación,Menaje Plástico
-858312,BRA TOMATODO ROSA CLARO 750ML,Bazar Importación,Menaje Plástico
-858313,BRA TOMATODO VERDE AGUA 750ML,Bazar Importación,Menaje Plástico
+858297,Toma Todo Sport Rosa 750 ML,Bazar Importación,Menaje Plástico
+858298,Toma Todo Sport Blanco Perro Love 750 ml,Bazar Importación,Menaje Plástico
+858308,Toma Todo Sport Trasparente Carros 750 ml,Bazar Importación,Menaje Plástico
+858309,Toma Todo Sport Rosa Corazones 750 ml,Bazar Importación,Menaje Plástico
+858310,Toma Todo Sport Camuflado Negro 750 ml,Bazar Importación,Menaje Plástico
+858312,Toma Todo Rosa Claro 750 ml,Bazar Importación,Menaje Plástico
+858313,Toma Todo Verde 750 ml,Bazar Importación,Menaje Plástico
 858319,Galleta La Francesa Paris Surtida 250 gr,Abarrotes,Galletas
 858364,Vino Concha y Toro Reservado Merlot 750 Ml,Bebidas,Vinos y Champagne
 858375,Zapallo Picado 1 Kg,Granos y Hortalizas,Hortalizas Delifresh
@@ -22619,7 +22630,7 @@ id_producto,producto,categoria,subcategoria
 858772,CH J15 35 MUNECA CON ROPA DE ENFERMERA,Juguetería Importación,Juguetería Niña/Bebé
 858847,Paragua Compacto 53 Cm Varios Colores,Bazar Importación,Bijouteria/Cuidado Personal
 859071,Taza Ceramica,Bazar,Articulos de Cocina
-859088,CEPILLO PALETA REVLON LISO SUAVIDAD,Bazar,Bijouteria/Cuidado Personal
+859088,Cepillo de Cabello Revlon Liso Suavidad,Bazar,Bijouteria/Cuidado Personal
 859129,Mayonesa Brixy 200 ml,Abarrotes,Aderezos
 859134,Ketchup Brixy 215 gr,Abarrotes,Aderezos
 859149,Mostaza Brixy 215 gr,Abarrotes,Aderezos
@@ -22627,8 +22638,8 @@ id_producto,producto,categoria,subcategoria
 859207,SARTEN WOOK 28CM BRINOX S/TAPA,Bazar,Articulos de Cocina
 859211,Ambientador Gel Glade Lavanda 70 GR,Cuidado del Hogar,Limpieza de Living y Ropero
 859213,Ambientador Gel Glade Limon 70 gr,Cuidado del Hogar,Limpieza de Living y Ropero
-859241,VASO CAFETERO PLASTICO PLASUTIL .10,Bazar,Menaje Plástico
-859264,BOTELLA DE AGUA COLORES PLASUTIL 500ML,Bazar,Menaje Metálico
+859241,Vasoo Plastic Cafetero PrecuentreP,Bazar,Menaje Plástico
+859264,Botella de Agua Plasutil Colores 500 ml,Bazar,Menaje Metálico
 859273,CH 14 1 ROMPECABEZAS X1000 PZAS PAISAJE CON PUENTE,Juguetería Importación,Juguetería Didáctica/Temporada
 859481,Pan Vikinger Kernbrot,Panadería,Panadería Externa
 859496,Palitos de Sesamo Vikinger,Panadería,Panadería Externa
@@ -22641,7 +22652,7 @@ id_producto,producto,categoria,subcategoria
 859879,Leña El Fogon Sku Familiar 1.4 kg,Bazar,Churrasquería
 859880,Leña El Fogon Sku Familiar 8 kg,Bazar,Churrasquería
 859996,Yogurt Dietetico San Javier Natural 200 ml,Lácteos y Derivados,Yogures
-860001,COPA P/R COCTEL  WINDSOR UND,Bazar,Menaje Vidrio/Cristal
+860001,Copa de Coctel Windsor,Bazar,Menaje Vidrio/Cristal
 860233,Pie de Manzana Hipermaxi,Pastelería y Masas Típicas,Pastelería Hipermaxi
 860253,Alfajores de Maizena Hipermaxi 5 un,Pastelería y Masas Típicas,Pastelería Hipermaxi
 860256,CH 41 3 JUGUETE ARCO CON 6 FLECHAS LARGAS + 3 FLECHAS EVA,Juguetería Importación,Juguetería Didáctica/Temporada
@@ -22649,42 +22660,42 @@ id_producto,producto,categoria,subcategoria
 860297,CH 41 42 JUGUETE BLOQUES PARA ARMAR X 76PZAS,Juguetería Importación,Juguetería Didáctica/Temporada
 860337,Huevos La Codorniz de Codorniz 50 un,Lácteos y Derivados,Huevos
 860384,Bowl de Ceramica 18X8 cm,Bazar Importación,Menaje Porcelana/Cerámica
-860795,CAJA BARBIE CON ENGANCHE,Bazar,Menaje Plástico
+860795,Caja Barbie Enganche,Bazar,Menaje Plástico
 860797,BALDECITO MIX DE 500ML REY HALLOWEN,Bazar,Menaje Plástico
 861052,BROCHA DE MAQUILLAJE CONTOURING BETER,Bazar,Bijouteria/Cuidado Personal
 861053,PINCEL SOMBREADOR GRUESO PELO N13 BETER,Bazar,Bijouteria/Cuidado Personal
 861054,TAJADOR DE COSMETICA DOBLE BETER,Bazar,Bijouteria/Cuidado Personal
-861055,TOALLA DESMAQUILLADORA BANDA CABELLO BET,Bazar,Bijouteria/Cuidado Personal
+861055,Toallao Mascota Avena Procao 500 ml,Bazar,Bijouteria/Cuidado Personal
 861056,PINCEL DIFUMINADOR DE SOMBRAS BETER N 14,Bazar,Bijouteria/Cuidado Personal
-861057,BROCHA DE MAQUILLAJE EN POLVO BETER N16,Bazar,Bijouteria/Cuidado Personal
+861057,Brocha de Maquillaje Polvo Beter N16,Bazar,Bijouteria/Cuidado Personal
 861058,Sazon Completa Badia 793.80 gr,Abarrotes,Condimentos y Legumbres
-861059,BROCHA ESPECIAL MAQUILLAJE BASE BETER N2,Bazar,Bijouteria/Cuidado Personal
+861059,Brocha de Maquillaje Especial Base Beter N2,Bazar,Bijouteria/Cuidado Personal
 861060,CEPILLO CABELLO PUAS NYLON BETER,Bazar,Bijouteria/Cuidado Personal
 861062,CEPILLO CABELLO DESENREDANTE BETER DESLI,Bazar,Bijouteria/Cuidado Personal
-861064,CEPILLO CABELLO NEUMATICO BETER NYLON,Bazar,Bijouteria/Cuidado Personal
-861065,CEPILLO CABELLO NATURAL FIDER BETER,Bazar,Bijouteria/Cuidado Personal
-861066,BROCHA ANGULADA PARA RUBOR BETER N20,Bazar,Bijouteria/Cuidado Personal
-861070,CORTACUT¡CULAS DE TRIPLE BETER,Bazar,Bijouteria/Cuidado Personal
+861064,Cepillo de Cabello Neumatico Beter Nylon,Bazar,Bijouteria/Cuidado Personal
+861065,Cepillo de Cabello Natural Fider Beter,Bazar,Bijouteria/Cuidado Personal
+861066,Brocha Angulada Rubor Beter N20,Bazar,Bijouteria/Cuidado Personal
+861070,Corta Cuticula Beter,Bazar,Bijouteria/Cuidado Personal
 861152,Spaguetti Barilla 454 gr,Abarrotes,Productos Americanos
 861223,PIEDRA RASPADORA  BETER,Bazar,Bijouteria/Cuidado Personal
 861224,PULIDOR DE UNAS X2 PZ BETER,Bazar,Bijouteria/Cuidado Personal
 861225,ESPONJA DE MAQUILLAJE BETER,Bazar,Bijouteria/Cuidado Personal
 861227,PINZA DE PILAR PUNTA SOFT BETER,Bazar,Bijouteria/Cuidado Personal
-861228,CEPILLO DESENREDANTE DESLIA FLOW  BETER,Bazar,Bijouteria/Cuidado Personal
+861228,Cepillo de Cabello Desenredadnte Deslia Flow Beter,Bazar,Bijouteria/Cuidado Personal
 861229,CEPILLO DESENREDANTE FLOW REDONDO BETER,Bazar,Bijouteria/Cuidado Personal
-861230,CEPILLO DESENREDANTE ELIPSI BETER,Bazar,Bijouteria/Cuidado Personal
-861231,CEPILLO DESENREDANTE MINI DESLIA BETER,Bazar,Bijouteria/Cuidado Personal
-861234,ALICATE MANICURE PILES BETER,Bazar,Bijouteria/Cuidado Personal
-861235,CEPILLO DE UNAS  BETER,Bazar,Bijouteria/Cuidado Personal
-861237,CORTA UNAS DE PIE CROMADO BETER,Bazar,Bijouteria/Cuidado Personal
+861230,Cepillo de Cabello Desenredante Elipsi Beter,Bazar,Bijouteria/Cuidado Personal
+861231,Cepillo de Cabello Desenredante Mini Beter,Bazar,Bijouteria/Cuidado Personal
+861234,Alicate Manicura Pieles Beter 2,Bazar,Bijouteria/Cuidado Personal
+861235,Cepillo de Uña Beter,Bazar,Bijouteria/Cuidado Personal
+861237,Corta Uña Beter,Bazar,Bijouteria/Cuidado Personal
 861238,ALICATE MANICURA PIELES BETER,Bazar,Bijouteria/Cuidado Personal
 861239,ESPEJO CON VENTOSAS BETER,Bazar,Bijouteria/Cuidado Personal
-861242,DEPILADOR DE CEJAS BETER,Bazar,Bijouteria/Cuidado Personal
+861242,Depilador de Ceja Beter,Bazar,Bijouteria/Cuidado Personal
 861243,DISCO POLVO BETER,Bazar,Bijouteria/Cuidado Personal
 861244,PINZA DE DEPILAR PUNTA CANGREJO BETER,Bazar,Bijouteria/Cuidado Personal
-861245,TIJERA MANICURA PIELES BETER,Bazar,Bijouteria/Cuidado Personal
-861246,TIJERA PARA NINOS INOX BETER,Bazar,Bijouteria/Cuidado Personal
-861247,TIJERA MANICURA UNAS  BETER,Bazar,Bijouteria/Cuidado Personal
+861245,Tijerao Pieles  Manicura PrecuentreM,Bazar,Bijouteria/Cuidado Personal
+861246,Tijerao Mascota Avena Procao 500 ml,Bazar,Bijouteria/Cuidado Personal
+861247,Tijerao Unas  B Manicura UrecuentreM,Bazar,Bijouteria/Cuidado Personal
 861249,PEINE BATIDOR 15.5CM BETER,Bazar,Bijouteria/Cuidado Personal
 861250,LIMA DE UNA DUREZAS BETER,Bazar,Bijouteria/Cuidado Personal
 861397,Plato + Juguete Mascota 15,Bazar,Mascotas General
@@ -22734,7 +22745,7 @@ id_producto,producto,categoria,subcategoria
 863031,ESPONJA DE MAQUILLAJE BETER 22031,Bazar,Bijouteria/Cuidado Personal
 863322,JAN AROS METALICOS 12,Bazar,Bijouteria/Cuidado Personal
 863324,JAN MANILLAS DE DAMA 10,Bazar,Bijouteria/Cuidado Personal
-863327,JAN MANILLAS DE VARON 25,Bazar,Bijouteria/Cuidado Personal
+863327,Manilla de Varones,Bazar,Bijouteria/Cuidado Personal
 863430,Te Frutte Tranquilito 20 Sobres,Abarrotes,Café y Sucedáneos
 863445,Te Frutte Duermete 20 Sobres,Abarrotes,Café y Sucedáneos
 863450,Te Frutte No Stress 20 Sobres,Abarrotes,Café y Sucedáneos
@@ -22763,7 +22774,7 @@ id_producto,producto,categoria,subcategoria
 864600,Lentes Año Nuevo,Bazar,Temporadas Restantes
 864670,Mochila de Niño Escolar,Bazar,Librería
 864700,Crema Hidratante Loreal Age Perfect Dia 50 ml,Cuidado Personal,Cuidado de la Piel
-864774,ALED ESTUCHERA  ESCOLAR 45,Bazar,Librería
+864774,Estuchera Escolar N45,Bazar,Librería
 864778,Set De Marcador 12 Und,Bazar,Librería
 864779,Set De Marcador 24 Piezas,Bazar,Librería
 864781,Mini Agenda 2025,Bazar,Librería
@@ -22807,16 +22818,16 @@ id_producto,producto,categoria,subcategoria
 868530,CH 15 6 INDIVIDUAL DE MESA COLORES DEGRADADOS SURTIDOS 30X45,Bazar Importación,Cocina General
 868531,CH 15 7 INDIVIDUAL DE MESA CON DISENO COLORES SURTIDOS 30X45,Bazar Importación,Cocina General
 868630,LI CINTA EMBALAGE ZERTEX .12,Bazar,Librería
-868658,CEPILLO P/R CABELLO BARBIE CONDOR 6895,Bazar,Bijouteria/Cuidado Personal
+868658,Cepillo de Cabello Condor Barbie,Bazar,Bijouteria/Cuidado Personal
 868659,CEPILLO P/R CABELLO HOT WHEELS CONDOR 6899,Bazar,Bijouteria/Cuidado Personal
 868664,SET CHURASQUERO X3 TRAMONTINA 23498/449,Bazar,Churrasquería
 868685,Limpiador Desinfectante Jardin Pino 900 ml,Cuidado del Hogar,Limpieza de Baños
 868688,Limpiador Desinfectante Jardin Pino 4 L,Cuidado del Hogar,Limpieza de Baños
-868690,SMARTLIFE CALEFACTOR BLANCO 2000W,Bazar,Electrodoméstico/Línea Blanca-Hogar
+868690,Smartlifeo Blanco  Calefactor BrecuentreC,Bazar,Electrodoméstico/Línea Blanca-Hogar
 868744,SMARTLIFE CAFETERA DIGITAL 1.5L,Bazar,Electrodoméstico/Línea Blanca-Hogar
 868805,Plato Para Mascota Kendy 3,Bazar,Mascotas General
 868865,Jabonera Rey Huevo,Bazar,Baño General
-868892,CEPILLO CABELLO LISOS CORTOS CONDOR 9672,Bazar,Bijouteria/Cuidado Personal
+868892,Cepillo de Cabello Condor Lisos Cortos,Bazar,Bijouteria/Cuidado Personal
 868924,Yarda Fernecero Con Tapa,Bazar,Temporadas Restantes
 868926,Porta Latas Plastico,Bazar,Temporada Carnaval
 869154,Encendedor Ronson Recargable,Bazar,Churrasquería
@@ -22828,19 +22839,19 @@ id_producto,producto,categoria,subcategoria
 869308,JAN BOLSA REGALO NAVIDAD 6,Bazar,Temporada Navidad
 869311,JAN BOLSA REGALO NAVIDAD 18,Bazar,Temporada Navidad
 869312,JAN BOLSA REGALO NAVIDAD 14,Bazar,Temporada Navidad
-869313,JAN BOLSA REGALO CARTON 12,Bazar,Regalos/Adornos
+869313,Bolsa de Regalo Carton,Bazar,Regalos/Adornos
 869316,JAN BOLSO DE NAVIDAD 7,Bazar,Temporada Navidad
 869317,JAN BOLSA REGALO NAVIDAD 10,Bazar,Temporada Navidad
 869320,JAN GUIA  DE NAVIDAD DELGADA 9,Bazar,Temporada Navidad
 869557,Cuaderno Oficio Colores 100 Hojas,Bazar,Librería
-869605,JAN CAJA DE REGALO MADRE 20,Bazar,Regalos/Adornos
-869776,RESALTADOR MON AMI COLOR NARANJA - 601,Bazar,Librería
+869605,Caja de Regalo Madre,Bazar,Regalos/Adornos
+869776,Resaltador Monami Narnaja,Bazar,Librería
 869790,Paño Cocina 100% Algodón,Cuidado del Hogar,Productos Americanos
 869826,Cinta Embalaje Izy Trasparente,Bazar,Librería
 869840,PALITOS DE BAMBU CHURASQUERO FIAT LUX,Bazar,Churrasquería
 869881,Cuaderno Top Empastado Carta 200 Hojas,Bazar,Librería
 870381,COMBO LONCHERA MIKEY 76484,Bazar,Librería
-870385,COMBO LONCHERA MEDIANO FROZEN 76488,Bazar,Librería
+870385,Lonchera Mediano Frozen,Bazar,Librería
 870466,Tapetes Miracle Natures Advanced 10 un,Bazar,Mascotas General
 870467,Tapetes Miracle Natures Entrenaiento 14 un,Bazar,Mascotas General
 870517,Acrilex Opaco Surtido,Bazar,Librería
@@ -22851,14 +22862,14 @@ id_producto,producto,categoria,subcategoria
 870770,PAT MOCHILA +PECHERA Y JALADOR 58,Bazar,Mascotas General
 870838,SARTEN 16+OMELETERA BRINOX,Bazar,Articulos de Cocina
 870919,Vasos Shaker 1Lt X2 Unidades,Bazar,Menaje Plástico
-870920,FRE TOMA TODO HERMETICO 1LT X2,Bazar,Menaje Plástico
-870923,JAN MACETA DE REGALO MADRE 20,Bazar,Regalos/Adornos
+870920,Toma Todo Hermetico  1 L,Bazar,Menaje Plástico
+870923,Maceta de Regalo Madre,Bazar,Regalos/Adornos
 870996,Cable Cargador Huavi U05 Iphone 2 M,Bazar,Telefonía y Accesorios
-871035,FRI PROTECTOR DE COCINA .12,Bazar,Articulos de Cocina
-871042,UV.SHAMPO MASCT.CHOCOLT.500ML,Bazar,Mascotas General
+871035,Protector de Cocina,Bazar,Articulos de Cocina
+871042,Uvo Mascota Avena Procao 500 ml,Bazar,Mascotas General
 871044,Collar de Mascota Cuero Grande 60,Bazar,Mascotas General
 871046,Collar de Mascota Cuero Mediano 29,Bazar,Mascotas General
-871047,UV COLLAR CUERO  CHICO .22,Bazar,Mascotas General
+871047,Uvo Cuero   Collar CrecuentreC,Bazar,Mascotas General
 871073,SILICONA AUTO SAPOLIO LAVANDA 360ML,Bazar,Automotriz
 871074,SILICONA AUTO SAPOLIO ANTITABACO 360ML,Bazar,Automotriz
 871077,SILICONA AUTO SAPOLIO CHERRY 360ML,Bazar,Automotriz
@@ -22868,7 +22879,7 @@ id_producto,producto,categoria,subcategoria
 871445,BAMDERINES DE PAPEL CUMPLEANOS,Bazar,Cotillón
 871446,INFLADOR DE GLOBOS PLASTICO,Bazar,Cotillón
 871447,LETRERO DE CUMPLEANOS INFLABLES,Bazar,Cotillón
-871448,GLOBOS C/PLUMAS SURTIDOS,Bazar,Cotillón
+871448,Globos con Plumas Surtidas,Bazar,Cotillón
 871449,LAMPARA DE PAPEL GRANDE,Bazar,Living y Dormitorio
 871676,LAPICES COLOR ANIMALES X24 CARTON,Bazar,Librería
 871832,Cuchillo Universal Para Cocina N7,Bazar,Articulos de Cocina
@@ -22878,15 +22889,15 @@ id_producto,producto,categoria,subcategoria
 871885,Juego Bloques Didacticos,Juguetería,Juguetería Didáctica/Temporada
 871982,REGLA TWIST FLEX 30CM MAPEDD,Bazar,Librería
 871983,MA GLOBOS INFLABLES NUMEROS 14,Bazar,Cotillón
-871992,SHAMPOO P/R MASCOTAS ALOE VERA SUPER 1LT,Bazar,Mascotas General
-871993,SHAMPO P/R AUTO SUPER 2LITORS ENVAQUIN,Bazar,Automotriz
+871992,Shampooo Mascota Vera Srecuentre 1 V,Bazar,Mascotas General
+871993,Shampoo Auto Su Super 2recuentre  P/S,Bazar,Automotriz
 872026,PAPEL ALUMINIO ALPFILM 45X7.5CM,Bazar,Articulos de Cocina
 872172,Tostadora Philips,Bazar,Electrodoméstico/Línea Blanca-Hogar
 872210,Copa de Champagne Barone,Bazar,Menaje Vidrio/Cristal
 872259,Sombrero Año Nuevo,Bazar,Temporadas Restantes
 872441,Lapices de Colores Faber Castell 48 Colores,Bazar,Librería
 872445,Lapices de Colores Faber Castell Jumbo 12+2 Colores,Bazar,Librería
-872447,LAPIZ ROJO VERDE UND 1812 FABER CASTELL.3,Bazar,Librería
+872447,Lapiz Rojo Faber Catell,Bazar,Librería
 872448,MARCADOR  RIGIDO X48UND FABER CASTELL,Bazar,Librería
 872449,Marcador Faber Castell Permanente Negro,Bazar,Librería
 872450,Marcador Faber Castell Permanente Azul,Bazar,Librería
@@ -22904,28 +22915,28 @@ id_producto,producto,categoria,subcategoria
 872675,FRI CONSERVADORA MOR 34LT,Bazar,Camping General
 872693,JAN FUNDAS COJIN NAVIDAD 20,Bazar,Living y Dormitorio
 872701,Tapetes Absorvente Didi Para Mascotas 10 un,Bazar,Mascotas General
-872740,JAN BOLSA DE REGALO .5,Bazar,Regalos/Adornos
+872740,Bolsa de Regalo,Bazar,Regalos/Adornos
 872882,JAN ANTIFAS CRAQUELADO CARANAVAL 8,Bazar,Temporada Carnaval
 872889,Globos Carnavaleros con Cargador,Bazar,Temporada Carnaval
-872923,TAPER HERMETICOS 130ML BASA,Bazar,Menaje Plástico
+872923,Tapero 130Ml B Hermeticos 1recuentreH,Bazar,Menaje Plástico
 873107,FOCO LED LUZ AMARILLA 10W RAYOVAC,Bazar,Ferretería
 873183,Pincel de Barba Condor Sm 2008,Cuidado Personal,Cuidado de la Piel
-873188,CEPILLO CABELLO FASHION CONDOR 6893,Bazar,Bijouteria/Cuidado Personal
-873189,CEPILLO CABELLO FLUORS +PINE CONDOR 6802,Bazar,Bijouteria/Cuidado Personal
+873188,Cepillo de Cabello Fashion Condor,Bazar,Bijouteria/Cuidado Personal
+873189,Cepillo de Cabello Condor Fluors,Bazar,Bijouteria/Cuidado Personal
 873220,Leche Delizia Vaquita Chocolatada 946 ml,Lácteos y Derivados,Leches
-873282,VELAS FORMA PELOTAS OLE BOL X6UND,Bazar,Cotillón
+873282,Velaso Pelotas Bol Brecuentre X6 FORMA O,Bazar,Cotillón
 873283,VELAS LARGA C/SOPORTE OLE BOL X12UND,Bazar,Cotillón
-873284,VELAS LARGAS X12 COLORES OLE BOL,Bazar,Cotillón
+873284,Velaso X12 Col Colores Orecuentre  C,Bazar,Cotillón
 873302,Pala Para Mascota 10,Bazar,Mascotas General
 873315,PAT COLLAR  P/R MASCOTAS 12,Bazar,Mascotas General
 873390,Antifas Carnavaleros 12 Piezas,Bazar,Temporada Carnaval
 873391,JAN  MASCARA INFANTIL  CARNAVAL 10,Bazar,Temporada Carnaval
 873394,Serpentina,Bazar,Temporada Carnaval
 873481,JAN STIKER DE PARED NAVIDAD 9,Bazar,Temporada Navidad
-873483,JAN JUGUETE DE MASCOTAS .12,Bazar,Mascotas General
-873486,JAN JUGUETE DE MASCOTAS.12,Bazar,Mascotas General
+873483,Juguete de Mascota 2,Bazar,Mascotas General
+873486,Juguete de Mascota 4,Bazar,Mascotas General
 873534,JAN GUANTES DE TRABAJO .12,Bazar,Ferretería
-873540,JAN CINTA ISLANTE .10,Bazar,Ferretería
+873540,Cinta Islante 2,Bazar,Ferretería
 873550,Mistura Carnavalera,Bazar,Temporada Carnaval
 873767,"SARTEN PARA FREIR PAPAS 2,65 LT BRINOX",Bazar,Articulos de Cocina
 873804,FOCO LUMINAR 3U 27 LUZ BLANCA,Bazar,Ferretería
@@ -22937,9 +22948,9 @@ id_producto,producto,categoria,subcategoria
 873939,PALITOS MONDADIENTES PARANA MENTOLADO 1000UND,Bazar,Churrasquería
 873940,Fosforo Parana Acendedores Brasa 10 un,Bazar,Churrasquería
 873941,VELA PARANA VOTIVA 1UND,Bazar,Living y Dormitorio
-873942,VELAS PARANA N4 X8UND,Bazar,Living y Dormitorio
+873942,Velaso Mascota Avena Procao 500 ml,Bazar,Living y Dormitorio
 873943,VELAS PARANA N1 X8 UND,Bazar,Living y Dormitorio
-873945,HUESO DE MASCOTAS SX3 8EN 102GR,Bazar,Mascotas General
+873945,Hueso de Mascota 102 gr,Bazar,Mascotas General
 873946,HUESO P/R MASCOTAS 8IN1 150GRS MX2,Bazar,Mascotas General
 873956,PAT COLLAR DE MASCOTAS 18,Bazar,Mascotas General
 873980,CONTENEDOR X3DEV CUBIERTOS PLASVALE,Bazar,Menaje Plástico
@@ -22952,7 +22963,7 @@ id_producto,producto,categoria,subcategoria
 874703,Pilas Duracell Alcalina AAA 16 un,Bazar,Ferretería
 874704,Pilas Duracell Alcalina AA 16 un,Bazar,Ferretería
 874828,SET TARTALETAS X4 MET.ILKO,Bazar,Articulos de Cocina
-874829,CUCHILLO DE CARNE 18CM ILKO,Bazar,Articulos de Cocina
+874829,Cuchillo de Carne Ilko 18 cm,Bazar,Articulos de Cocina
 874860,KIT DE POTES X3 CRISTAL PLASVALE 1454,Bazar,Menaje Plástico
 874866,Lavavajilla Ola Limon Verde 5 L,Cuidado del Hogar,Limpieza de Cocina
 874868,KIT POTES CRISTAL 3PZ PLASVALE,Bazar,Menaje Plástico
@@ -22965,10 +22976,10 @@ id_producto,producto,categoria,subcategoria
 875438,Sazonador McCormick Mix Guacamole 1 oz,Abarrotes,Condimentos y Legumbres
 875676,Galleta Goldfish Pepperidge 187 gr,Abarrotes,Productos Americanos
 875760,JARRA CON VASOS Y PALETA WANDA,Bazar,Menaje Plástico
-875831,COPA CHAMPANG BUFET NADIR UND 0708,Bazar,Menaje Vidrio/Cristal
-875832,COPA AGUA BUFET NADIR UND 0700,Bazar,Menaje Vidrio/Cristal
+875831,Copa de Champagne Bufet Nair 2,Bazar,Menaje Vidrio/Cristal
+875832,Copa de Agua Bufer Nair,Bazar,Menaje Vidrio/Cristal
 875975,BORRADOR DE GOMA LES GO FABER CASTELL,Bazar,Librería
-875990,LAPICES DE COLOR 12+3 FABER CASTELL,Bazar,Librería
+875990,Colores Faber Castell 12 Colores + 3 Lapices,Bazar,Librería
 876039,SARTEN ALUM 2PZ BRINOX 18-22 CM,Bazar,Articulos de Cocina
 876041,SARTEN ALUM 22CM +SARTEN 18CM BRINOX,Bazar,Articulos de Cocina
 876049,SARTEN 16CM BRINOX +ESPATULA,Bazar,Articulos de Cocina
@@ -22977,19 +22988,19 @@ id_producto,producto,categoria,subcategoria
 876092,MA VELAS CUMPLEANOS NINOS SURTIDO,Bazar,Cotillón
 876098,MA VASOS CUMPLE.DESCH.SURT.,Bazar,Cotillón
 876099,MA ABANICO DECORTIVO .28,Bazar,Cotillón
-876174,COM.MASCARA FACIALES,Bazar,Bioseguridad
+876174,Mascara Faciales,Bazar,Bioseguridad
 876184,Leche Light Delizia Larga Vida 800 ml,Lácteos y Derivados,Leches
 876234,Lapices de Colores Faber Castell 24 Colores + 2 Lapices,Bazar,Librería
 876236,FRI CANDADO N60.BS 35,Bazar,Ferretería
 876240,FORRRO PRECORTADO A4 VINIFAN,Bazar,Librería
 876265,Crayones Vinifan 12 Colores,Bazar,Librería
-876296,CA JUG CAMION .64,Juguetería,Juguetería Niño/Bebé
+876296,Juguete Camion 2,Juguetería,Juguetería Niño/Bebé
 876357,Jamon Sandwichero Hipermaxi kg,Fiambres,Fiambres Hipermaxi
 876606,JAN FLOR DE NAVIDAD  15,Bazar,Temporada Navidad
 876607,JAN ADORNO PAPA NOEL CARA 14,Bazar,Temporada Navidad
 876625,JAN CINTA NAVIDAD 12,Bazar,Temporada Navidad
 876702,Cuaderno Lider Espiral Carta 100 Hojas,Bazar,Librería
-876703,CUAD ESPIRAL 1/2 OFICIO ARANA LIDER 100HJ 0228,Bazar,Librería
+876703,Cuaderno Espiral Lider 1/2 Oficio Araña 100 Hojas,Bazar,Librería
 876918,Lentes Año Nuevo Sombrero,Bazar,Temporadas Restantes
 876920,Lentes Para Año Nuevo,Bazar,Temporadas Restantes
 877000,JAN VELAS ARTIFICIAL 12,Bazar,Temporada Navidad
@@ -22997,17 +23008,17 @@ id_producto,producto,categoria,subcategoria
 877362,Espuma Carnavalera Fiesta 290 ml,Bazar,Temporada Carnaval
 877402,Antifas Carnavalero,Bazar,Temporada Carnaval
 877406,Antifas Carnavalero,Bazar,Temporada Carnaval
-877411,JAN GLOBOS LETRAS DIA MADRE  18,Bazar,Cotillón
+877411,Globos Letras Dia Madre,Bazar,Cotillón
 877413,Globos de Agua Zemar,Bazar,Temporada Carnaval
 877449,LPZ MOLDE P/PIZZA TRAMONTINA 20058/035,Bazar,Articulos de Cocina
 877459,CONSERVADORA MOR 18LT 160,Bazar,Camping General
 877461,CONSERVADORA MOR 6LT 110,Bazar,Camping General
 877730,PAT COLLAR CUERINA MASCOTAS 20,Bazar,Mascotas General
 877830,Set 6 Copas Windsor Agua,Bazar,Menaje Vidrio/Cristal
-877939,JAN PONCHILLO IMPERMEABLE .5,Bazar,Camping General
-878068,VASO TERMICO DESECHABLE COPABRAS 240ML,Bazar,Cotillón
-878069,VASO TERMICO DESECHABLE COPOBRAS 120ML,Bazar,Cotillón
-878070,VASO TERMICO DESECHABLE COPOBRAS 180ML,Bazar,Cotillón
+877939,Ponchillos Impermeable,Bazar,Camping General
+878068,Vasoo Mascota Avena Procao 500 ml,Bazar,Cotillón
+878069,Vasoo Mascota Avena Procao 500 ml,Bazar,Cotillón
+878070,Vasoo Mascota Avena Procao 500 ml,Bazar,Cotillón
 878241,Juego de Domino,Juguetería,Juguetería Didáctica/Temporada
 878245,Juego de Ajedrez,Juguetería,Juguetería Didáctica/Temporada
 878299,PELA PAPAS BLANCO,Bazar,Articulos de Cocina
@@ -23020,7 +23031,7 @@ id_producto,producto,categoria,subcategoria
 878668,FOCO LED DEGA LUZ BLANCA 30WATTS,Bazar,Ferretería
 878672,PLESCO JUEGO HERMETICO DECORADO,Bazar,Menaje Plástico
 878696,Juego Mesa Didactica Niños,Juguetería,Juguetería Didáctica/Temporada
-878740,JAN BOLSA DE REGALO 9,Bazar,Regalos/Adornos
+878740,Bolsa de Regalo 2,Bazar,Regalos/Adornos
 878748,Vaporizador,Bazar,Bioseguridad
 878772,SMARTLIFE EXPRIMIDOR INOX 0.8L,Bazar,Electrodoméstico/Línea Blanca-Hogar
 878784,Sopa Instantanea Ajinomen Pollo con Verdura 80 gr,Abarrotes,Básicos
@@ -23043,9 +23054,9 @@ id_producto,producto,categoria,subcategoria
 879361,Crema Maggie de Tomate 45 gr,Abarrotes,Básicos
 879486,PLAYDOH-DRIZZY HELADERIA CREATIVA,Juguetería,Juguetería Didáctica/Temporada
 879534,Achocolatado Kriskao 200 gr,Abarrotes,Nutrición Infantil
-879552,JAN JUGUETE MASCOTAS.14,Bazar,Mascotas General
+879552,Juguete de Mascota 5,Bazar,Mascotas General
 879553,BOLSAS ZIPPER FREEZER DIAMOND,Bazar,Articulos de Cocina
-879560,JAN TRAPO DE COCINA .14,Bazar,Articulos de Cocina
+879560,Trapo de Cocina,Bazar,Articulos de Cocina
 879561,JAN NACIMIENTO CON LUCES  85,Bazar,Temporada Navidad
 879573,JAN PIC DECORATIVO NAVIDAD 14,Bazar,Temporada Navidad
 879576,JAN CHERRYS DECORATIVAS NAVIDAD 12,Bazar,Temporada Navidad
@@ -23053,10 +23064,10 @@ id_producto,producto,categoria,subcategoria
 879583,JAN ADORNO NAVIDAD P/R PUERTA 10,Bazar,Temporada Navidad
 879586,JAN FLOR DE NAVIDAD 10,Bazar,Temporada Navidad
 879589,Mermelada Gigante Frutilla 340 gr,Abarrotes,"Mermel, Mieles"
-879601,CA JUGUETE AUTO PISTAS CAJA 250,Juguetería,Juguetería Niño/Bebé
+879601,Juguete Auto Pista 2,Juguetería,Juguetería Niño/Bebé
 879603,Vino Campos de Solana Oporto 700 ml,Bebidas,Vinos y Champagne
-879640,INTERUPTOR SENCILLO SHNEIDER,Bazar,Ferretería
-879642,INTERRUPTOR TRIPLE SCHNEIDER,Bazar,Ferretería
+879640,Interructor Sencillo Shneider,Bazar,Ferretería
+879642,Interructor Triple Schneider,Bazar,Ferretería
 879673,NA MANDIL P/R LAVAR ROPA  20,Bazar,Articulos de Cocina
 879683,Te Milord Canela Clavo de Olor 100 Sobres,Abarrotes,Café y Sucedáneos
 879725,PILAS DURACELL AAA X8,Bazar,Ferretería
@@ -23092,16 +23103,16 @@ id_producto,producto,categoria,subcategoria
 883150,MAP BANANERO CHICO.50,Bazar,Bolsos/Carteras/Maletas
 883151,MAP BANANERO MEDIANO .60,Bazar,Bolsos/Carteras/Maletas
 883197,GRAMPAS 26/6 ACRICOLOR 5000 UND.ACRICOLOR,Bazar,Librería
-883220,LAPIZ  CARPINTERO FABER CASTELL,Bazar,Librería
-883222,TAJADOR JUMBO FABER CASTELL,Bazar,Librería
+883220,Lapiz Carpintero Faber Castell,Bazar,Librería
+883222,Tajadoro Faber C Jumbo FrecuentreJ,Bazar,Librería
 883250,MICROPUNTA 499 MARRON FABER CASTELL,Bazar,Librería
 883251,MICROPUNTA 499 AMARILLO FABER CASTELL,Bazar,Librería
 883256,Removedor de Neumaticos Son Of Gun 593 ml,Bazar,Automotriz
 883318,Cuaderno Foroni Racing Espiral Carta 200 Hojas,Bazar,Librería
-883327,BOL ADORNO MISTER PASTO,Bazar,Jardinería General
+883327,Adorno Mister Pasto,Bazar,Jardinería General
 883415,Tapetes Procao Para Mascotas 30 un,Bazar,Mascotas General
-883416,TAPETAS P/R MASCOTAS  PROCAO 1X7,Bazar,Mascotas General
-883455,BLISTER DE 6 BOLIGRAFOS RAYADITO MON AMI,Bazar,Librería
+883416,Tapetaso Mascota Mascotas PrecuentreM,Bazar,Mascotas General
+883455,Boligrafo Monami Rayadito 6 un,Bazar,Librería
 883517,MARCADOR ACRILICO MONAMI X4,Bazar,Librería
 883629,Jabonera Rey Practica,Bazar,Baño General
 883695,FOCO TIPO VELA E14 6W LUZ BLANCA LUNIMAR,Bazar,Ferretería
@@ -23114,7 +23125,7 @@ id_producto,producto,categoria,subcategoria
 883723,Audifono Huavi F2 para Celular,Bazar,Telefonía y Accesorios
 883726,Audifono Bluetooh Huavi  FH13,Bazar,Telefonía y Accesorios
 883903,Hervidor Premier de Agua,Bazar,Electrodoméstico/Línea Blanca-Hogar
-883905,BATIDORA PREMIER  ED3307,Bazar,Electrodoméstico/Línea Blanca-Hogar
+883905,Batidora Premier Ed 3307,Bazar,Electrodoméstico/Línea Blanca-Hogar
 883920,PAT COLLAR DE MASCOTAS  18,Bazar,Mascotas General
 883924,PAT COLLAR DE MASCOTAS 18,Bazar,Mascotas General
 883942,FRE BOTELLA DE AGUA  500 ML NINOS,Bazar,Articulos de Bebé
@@ -23130,7 +23141,8 @@ id_producto,producto,categoria,subcategoria
 884888,PINZA P/CARNE 26400/100,Bazar,Churrasquería
 884930,"LIQUIDO RADIADOR VISTONY 946,ML",Bazar,Automotriz
 884931,LIQUIDO RADIADOR VISTONY 946ML,Bazar,Automotriz
-884945,ENVASE DE SALSA BASA 400ML,Bazar,Menaje Plástico
+884938,Shampooo 1 Visto Shampoo 1recuentre3,Bazar,Automotriz
+884945,Envase de Salsa Basa 400 ml,Bazar,Menaje Plástico
 884959,Juguete Pista de Auto,Juguetería,Juguetería Niño/Bebé
 885410,Porta Cubiertos Rey,Bazar,Articulos de Cocina
 885810,Desinfectante Aerosol Lysoform Lavanda 360 ml,Cuidado del Hogar,Limpieza de Baños
@@ -23157,20 +23169,20 @@ id_producto,producto,categoria,subcategoria
 887070,Esponja Scotch Brite Nexcare Aqua Verde,Cuidado Personal,Cuidado de la Piel
 887104,BE DEPILADOR 3 EN 1 INTIMO MUJER,Bazar,Electrodoméstico Cuidado Personal
 887211,MAP MOCHILA JUVENIL 85,Bazar,Bolsos/Carteras/Maletas
-887357,CA JUG CAMION .47,Juguetería,Juguetería Niño/Bebé
+887357,Juguete Camion,Juguetería,Juguetería Niño/Bebé
 887425,SARTEN MASALA BRINOX 24X5,Bazar,Articulos de Cocina
 887429,TERMO REVOLUTION 1LT TERMOLAR CAFE,Bazar,Articulos de Cocina
 887574,JAN VINCHAS HALLOWEN 25,Bazar,Temporada Halloween
-887692,JA BARBIJOS SUELTOS .1,Bazar,Bioseguridad
+887692,Barbijo Suelto,Bazar,Bioseguridad
 887711,Jugo de Naranja 1 L,Frutas y Verduras,Ofertas Especiales
-887763,SILICONA STP SON OF GUN GATILLO 595ML,Bazar,Automotriz
+887763,Siliconao Son Of  Gun Grecuentre 595 G,Bazar,Automotriz
 887778,Esponja BomBrill Antiadherente 1 un,Cuidado del Hogar,Accesorios del Hogar
 887783,Esponja BomBrill Multiuso Limpieza Pesada 1 un,Cuidado del Hogar,Accesorios del Hogar
-887803,FRI FLOTADOR BOTE CON SOMBRA 150,Bazar,Temporada Verano
+887803,Flotador Bote con Sombra,Bazar,Temporada Verano
 887805,FRI COOLER RADIO FLOTANTE  125,Bazar,Temporada Verano
 887806,FRI FLOTADOR ARO PICINA 12 ANOS CAJA 70,Bazar,Temporada Verano
-887816,FRI FLOTADOR ARO 1.19M SERPIENTE 95,Bazar,Temporada Verano
-887819,FRI FLOTADOR PICINA ARO 51CM 20,Bazar,Temporada Verano
+887816,Flotador Aro Serpiente,Bazar,Temporada Verano
+887819,Flotador Piscina Aro,Bazar,Temporada Verano
 887821,FRI MALLA VOLLEYBALL FLOTANTE 3 ANOS 135,Bazar,Temporada Verano
 887831,"JAN PISOS DE NAVIDAD ,28",Bazar,Temporada Navidad
 887836,JAN ADORNO NAVIDAD MADERA  MUNECO 10,Bazar,Temporada Navidad
@@ -23180,9 +23192,9 @@ id_producto,producto,categoria,subcategoria
 887854,25550/100 ABRIDOR/SACACORCHOS HARMONI MA,Bazar,Articulos de Cocina
 887855,25550/170 ABRIDOR/SACACORCHOS HARMONI MA,Bazar,Articulos de Cocina
 887862,JAN BOTAS DE NAVIDAD .12,Bazar,Temporada Navidad
-887967,CA JUG SET COCINA .75,Juguetería,Juguetería Niña/Bebé
+887967,Juguete Set de Cocina 2,Juguetería,Juguetería Niña/Bebé
 888270,AMBIENTADOR WOMAN MADRI,Bazar,Automotriz
-888547,CEPILLO P/R CABELLO FASHION CONDOR 6894,Bazar,Bijouteria/Cuidado Personal
+888547,Cepillo de Cabello Condor Fashion,Bazar,Bijouteria/Cuidado Personal
 889090,ELS BOLSA DE VINO 6,Bazar,Temporada Navidad
 889138,Ablandador de Carne Basa,Bazar,Articulos de Cocina
 889139,Exprimidor de Limon Basa,Bazar,Articulos de Cocina
@@ -23193,7 +23205,7 @@ id_producto,producto,categoria,subcategoria
 889160,Pegamento Barra Uhu Stic 40 gr,Bazar,Librería
 889352,Sarten Plancha Tramontina Paris,Bazar,Articulos de Cocina
 889394,Juguete Muñeca Habladora,Juguetería,Juguetería Niña/Bebé
-889396,CA JUG MUNECA DIDACTICA DE BS 99,Juguetería,Juguetería Niña/Bebé
+889396,Juegute Muñeca Didactica,Juguetería,Juguetería Niña/Bebé
 889471,BOL DIVERTY BLOCKS  SURTIDOS,Juguetería,Juguetería Didáctica/Temporada
 890260,Aceite de Maiz Mazola Spray 142 gr,Abarrotes,Básicos
 890261,Aceite Mazola Spray 142 gr,Abarrotes,Básicos
@@ -23217,12 +23229,12 @@ id_producto,producto,categoria,subcategoria
 891405,Nacho Rancheritos Clasico 150 gr,Abarrotes,Snack
 891410,Nacho Rancheritos Queso 330 gr,Abarrotes,Snack
 891425,Vino Norton Cabernet Sauvignon Reserva 750 ml,Bebidas,Vinos y Champagne
-891456,CH T8 5A TOMATODO DEPORTIVO NEGRO 800ML,Bazar Importación,Camping General
-891457,CH T8 5B TOMATODO  DEPORTIVO AZUL 800ML,Bazar Importación,Camping General
-891458,CH T8 5C TOMATODO  DEPORTIVO ROJO 800ML,Bazar Importación,Camping General
-891459,CH T8 5D TOMATODO  DEPORTIVO BLANCO 800ML,Bazar Importación,Camping General
-891532,CH T8 5E TOMATODO  DEPORTIVO NARANJA 800ML,Bazar Importación,Camping General
-891644,CH T8 5F TOMATODO  DEPORTIVO ROSADO 800ML,Bazar Importación,Camping General
+891456,Toma Todo Deportivo Negro 800 ml,Bazar Importación,Camping General
+891457,Toma Todo Deportivo Azul 800 ml,Bazar Importación,Camping General
+891458,Toma Todo Deportivo Rojo 800 ml,Bazar Importación,Camping General
+891459,Toma Todo Deportivo Blanco 800 ml,Bazar Importación,Camping General
+891532,Toma Todo Deportivo Naranja 800 ml,Bazar Importación,Camping General
+891644,Toma Todo Deportivo Rosado 800 ml,Bazar Importación,Camping General
 891787,Vinagre Castelo Tinto 750 ml,Abarrotes,Básicos
 891792,Mini Torta Aguila Coco 73 gr,Abarrotes,Golosinas - Varias
 891801,Mini Torta Aguila Brownie 74 gr,Abarrotes,Golosinas - Varias
@@ -23249,7 +23261,7 @@ id_producto,producto,categoria,subcategoria
 892310,Sardina Ramirez Aceite Oliva 125 gr,Abarrotes,Comidas en Conserva
 892318,AC SELLOS X 9 STAMPING (GOMA EVA),Bazar,Librería
 892322,AC TEMPERA ESCOLAR X7 COLROES + PINCEL,Bazar,Librería
-892606,PAPEL ALUMINIO DIAMONT 200 SQ USA,Bazar,Articulos de Cocina
+892606,Papel Aluminio Diamont,Bazar,Articulos de Cocina
 892735,Galleta Tortitas Black 125 gr,Abarrotes,Galletas
 893639,TR BOWL 16*4 CM  2 PCS SET,Bazar Importación,Menaje Porcelana/Cerámica
 894386,PAN BATIDOR MANUAL 2PZAS 25.5 CM,Bazar Importación,Cocina General
@@ -23275,7 +23287,7 @@ id_producto,producto,categoria,subcategoria
 898228,Queso Philadelphia Kraft Original 150 gr,Lácteos y Derivados,Quesos
 898233,Queso Philadelphia Kraft Light 150 gr,Lácteos y Derivados,Quesos
 898257,Cable Usb Huavi U06 para Celular,Bazar,Telefonía y Accesorios
-898274,JAN BILLETERAS X 2  45,Bazar,Bolsos/Carteras/Maletas
+898274,Billetera,Bazar,Bolsos/Carteras/Maletas
 898293,Papel Toalla Cocina Elite Ultra Doble Hoja 3 un 60 Toallas,Cuidado del Hogar,Limpieza de Cocina
 898341,Regleta Huavi R-88,Bazar,Ferretería
 898406,Aceite Johnsons Baby 200 ml,Cuidado del Bebé,Cuidado del Bebé
@@ -23285,7 +23297,7 @@ id_producto,producto,categoria,subcategoria
 898657,LIMPIADOR DE CAJAS GATOS CAT ZONE  500ML,Bazar,Mascotas General
 898660,SHAMPOO MATINHO CAT ZONE 300ML,Bazar,Mascotas General
 898661,SHAMPOO ALOE VERA CAT ZONE 300ML,Bazar,Mascotas General
-898704,ECI BARBIJOS CAJA X40UND,Bazar,Bioseguridad
+898704,Barbijos Caja 40 un,Bazar,Bioseguridad
 898718,Pintura Carnavalera Alegria Spray Rosado 150 ml,Bazar,Temporada Carnaval
 898720,PINTURA SPRAY VERDE ALEGRIA .150ML,Bazar,Cotillón
 898721,Pintura Spray Amarilla Alegria 150 ml,Bazar,Temporada Carnaval
@@ -23294,23 +23306,23 @@ id_producto,producto,categoria,subcategoria
 898790,Audifono Huavi E03 Stereo para Celular,Bazar,Computadora/Cámara/Filmadora y Accesorio
 898917,Pintura Spray Alegria Violeta 150 ml,Bazar,Temporada Carnaval
 898920,Fosforo Fiat Lux Grande 200 un,Bazar,Churrasquería
-898958,CINTA EMBALAJE TECNO SUPER CLARA,Bazar,Ferretería
+898958,Cinta de Embalaje Tecno Super Clara,Bazar,Ferretería
 899050,MIR GLOBO DI APADRE CHICO.5,Bazar,Temporadas Restantes
 899051,MIR PACK MURAL DIA PADRE  60,Bazar,Temporadas Restantes
-899081,FRI MOTO INFLABLE PICINA NINO 115,Bazar,Temporada Verano
-899082,FRI FLOTADOR INFLABLE PATO MUSICAL CAJA 150,Bazar,Temporada Verano
+899081,Flotador Moto Niño,Bazar,Temporada Verano
+899082,Flotador Pato Musical,Bazar,Temporada Verano
 900040,Pyrex Gelatinero,Bazar,Menaje Vidrio/Cristal
 900101,Jarra Kristalino,Bazar,Menaje Vidrio/Cristal
 900103,Set 6 Vasos Amasadinho,Bazar,Menaje Vidrio/Cristal
 900104,Set 6 Vasos Capri Nadir,Bazar,Menaje Vidrio/Cristal
 900198,FORRO VINIFAN CARTA CRISTALINO DOS 1/2,Bazar,Librería
-900199,FORRO VINIFAN CARTA CRISTAL 5 MTS.,Bazar,Librería
-900200,FORRO VINIFAN OFICIO CRITALINO 5 MTS.,Bazar,Librería
+900199,Forro Vinifan Carta Cristal 5 L,Bazar,Librería
+900200,Forro Vinifan Oficio Cristalino 5 L,Bazar,Librería
 900808,Vela Catedral Grande 8 un,Bazar,Cotillón
 901218,Sarten Tramontina 28 cm,Bazar,Articulos de Cocina
 901630,Boligrafo Faber Castell Rojo 0.62,Bazar,Librería
-901973,BIDON DE 5 LITROS P/GASOLINA,Bazar,Automotriz
-901976,EXPRIMIDOR GIGANTE REY SURTIDOS,Bazar,Articulos de Cocina
+901973,Bidon de 5 L,Bazar,Automotriz
+901976,Exprimidor de Jugo Rey,Bazar,Articulos de Cocina
 901986,SET COLADORES MEDIANOS X 4 PZAS,Bazar,Articulos de Cocina
 901999,Guantes Scotch Brite Trabajo Pesado Medio,Cuidado del Hogar,Accesorios del Hogar
 902019,Guantes Scotch Brite Multiuso Amarrillo Talla M,Cuidado del Hogar,Accesorios del Hogar
@@ -23334,7 +23346,7 @@ id_producto,producto,categoria,subcategoria
 905451,Set 6 Vasos Vega Whisky,Bazar,Menaje Vidrio/Cristal
 905453,Set 6 Copas Windsor Vino Tinto,Bazar,Menaje Vidrio/Cristal
 905454,Set 6 Vasos Cilinder Refresco,Bazar,Menaje Vidrio/Cristal
-905457,VASO TUBO AMASADHINO UND NADIR,Bazar,Menaje Vidrio/Cristal
+905457,Vasoo Mascota Avena Procao 500 ml,Bazar,Menaje Vidrio/Cristal
 905458,Vaso de Cristal de Trago,Bazar,Menaje Vidrio/Cristal
 905650,Vaso de Cristal Vega Agua,Bazar,Menaje Vidrio/Cristal
 905652,Set 6 Vasos Nadir Tubo,Bazar,Menaje Vidrio/Cristal
@@ -23353,14 +23365,14 @@ id_producto,producto,categoria,subcategoria
 906426,Vaso de Cristal Cristar Whisky,Bazar,Menaje Vidrio/Cristal
 906427,Set 6 Vasos Cristar Rocks,Bazar,Menaje Vidrio/Cristal
 906428,Vaso de Cristal Cristar,Bazar,Menaje Vidrio/Cristal
-906429,VASO LEXINGTON LICOR,Bazar,Menaje Vidrio/Cristal
-906436,VASO AV LISO VIVALDI TRAGO,Bazar,Menaje Vidrio/Cristal
+906429,Vasoo Mascota Avena Procao 500 ml,Bazar,Menaje Vidrio/Cristal
+906436,Vasoo Mascota Avena Procao 500 ml,Bazar,Menaje Vidrio/Cristal
 906437,Set 6 Vasos Cristar Trago,Bazar,Menaje Vidrio/Cristal
-906458,VASO VAN GOGH LARGO,Bazar,Menaje Vidrio/Cristal
+906458,Vasoo Gogh La Van GrecuentreV,Bazar,Menaje Vidrio/Cristal
 906471,Vaso de Cristal Prisma,Bazar,Menaje Vidrio/Cristal
 906473,Vaso de Cristal Prisma Largo,Bazar,Menaje Vidrio/Cristal
 906483,Vaso de Cristal Prisma Whisky,Bazar,Menaje Vidrio/Cristal
-906489,VASO PRISMA LICOR,Bazar,Menaje Vidrio/Cristal
+906489,Vasoo Mascota Avena Procao 500 ml,Bazar,Menaje Vidrio/Cristal
 906496,Vaso Cervecero Hamburgo,Bazar,Menaje Vidrio/Cristal
 906616,Vaso de Cristal Strauss Largo,Bazar,Menaje Vidrio/Cristal
 906636,Vaso de Cristal Largo,Bazar,Menaje Vidrio/Cristal
@@ -23371,7 +23383,7 @@ id_producto,producto,categoria,subcategoria
 906728,PORTA CUBIERTO DE LUJO,Bazar,Menaje Plástico
 906781,Hoja Papel Bond Chamex Oficio 500 Hojas,Bazar,Librería
 906785,Hoja Papel Bond Chamex Carta 500 Hojas,Bazar,Librería
-906799,COPA LISA SODERA 2805AL72,Bazar,Menaje Vidrio/Cristal
+906799,Copa Lisa Sodera,Bazar,Menaje Vidrio/Cristal
 906862,Sarten Tramontina con Tapa,Bazar,Articulos de Cocina
 906897,Set Cubiertos Tramontina Para Niños 4 un,Bazar,Articulos de Bebé
 906954,Vela Chispas un Olego 18 un,Bazar,Cotillón
@@ -23384,7 +23396,7 @@ id_producto,producto,categoria,subcategoria
 907685,MS.VELAS ECONOMICAS HIPERMAXI,Bazar,Cotillón
 908057,Conservadora Tecnopor 50 L,Bazar,Camping General
 908058,Conservadora Tecnopor 100 L,Bazar,Camping General
-908565,CENICERO TRIANGULAR CRISTAL CRISA UND,Bazar,Menaje Vidrio/Cristal
+908565,Cenicero Triangular Cristal Crisa,Bazar,Menaje Vidrio/Cristal
 908584,Juego de Utensilio Tramontina 5 un,Bazar,Articulos de Cocina
 908602,Cepillo Dental Colgate Barney Smile 1 un,Cuidado Personal,Cuidado Bucal
 908604,Cepillo Dental Colgate Batman Smiles 6 Años 1 un,Cuidado del Bebé,Kids
@@ -23392,11 +23404,11 @@ id_producto,producto,categoria,subcategoria
 908727,Sarten Tramontina + Espatula,Bazar,Articulos de Cocina
 908728,Sarten Plancha Tramontina Asadora,Bazar,Churrasquería
 908733,Cuchara Batidora Tramontina,Bazar,Articulos de Cocina
-908734,HIELERA CRISA DE CRISTAL 3688/000,Bazar,Articulos de Cocina
-908771,VASO TEQUILERO 2 OZ CRISA UND,Bazar,Menaje Vidrio/Cristal
+908734,Hielera Crisa de Cristal,Bazar,Articulos de Cocina
+908771,Vasoo Mascota Avena Procao 500 ml,Bazar,Menaje Vidrio/Cristal
 908773,Vaso de Cristal Crisa Cervecero,Bazar,Menaje Vidrio/Cristal
 908841,Paño Cocina Teka,Cuidado del Hogar,Productos Americanos
-908855,FRI GAFAS DE BS 15,Bazar,Bioseguridad
+908855,Gafas,Bazar,Bioseguridad
 909133,Limpia Vidrio con Alargador Argentino,Cuidado del Hogar,Productos Americanos
 909354,Flip Tamaño Carta,Bazar,Librería
 909355,Flip Tamaño Oficio,Bazar,Librería
@@ -23411,20 +23423,20 @@ id_producto,producto,categoria,subcategoria
 910368,Vasos Desechable Belen 180 ml 100 un,Bazar,Cotillón
 910980,Mini Hueso Pushky Super,Bazar,Mascotas General
 911199,Film Plastico Ilko Adherente 20 m,Bazar,Articulos de Cocina
-911778,RESALTADORES STABILO X4 COLOR BOSS,Bazar,Librería
+911778,Resaltador Stabilo 4 un,Bazar,Librería
 911905,Muñeca Barbie Basica,Juguetería,Juguetería Niña/Bebé
 913226,Nota de Venta Grande,Bazar,Librería
-913227,ALED RECIBO GRANDE DE BS 12,Bazar,Librería
+913227,Recibo Grande,Bazar,Librería
 913229,ALED CARTULINA OFICIO X 10UND BS 10,Bazar,Librería
-913279,CA JUG MUNECA DE BS 65,Juguetería,Juguetería Niña/Bebé
-913280,CA JUG MUNECA DE BS  43,Juguetería,Juguetería Niña/Bebé
+913279,Juguete Muñeca 2,Juguetería,Juguetería Niña/Bebé
+913280,Juguete Muñeca,Juguetería,Juguetería Niña/Bebé
 913281,Muñeca,Juguetería,Juguetería Niña/Bebé
-913368,XI GLOBO  LISO X 20 UND,Bazar,Cotillón
+913368,Xio Mascota Avena Procao 500 ml,Bazar,Cotillón
 913371,Globos Perla 20 un,Bazar,Cotillón
 913832,FRI LENTES DE NATACION 3 ANOS 32,Bazar,Temporada Verano
-913947,FRI PISCINA INFLABLE NINOS 2 ANOS 165,Bazar,Temporada Verano
+913947,Piscina Inflable Niños 2 Años,Bazar,Temporada Verano
 913948,FRI PISCINA DE NINOS 2ANOS CAJA 1.52MT 160,Bazar,Temporada Verano
-913995,FRE TABLA GOURMET,Bazar,Churrasquería
+913995,Tabla Gourmet,Bazar,Churrasquería
 914012,Porta Vianda 2 un,Bazar,Articulos de Cocina
 914013,Porta Vianda Rey 3 un,Bazar,Articulos de Cocina
 914024,Jarra Rey Familiar 3 L,Bazar,Menaje Plástico
@@ -23433,19 +23445,19 @@ id_producto,producto,categoria,subcategoria
 914836,Alargador 10 m,Bazar,Ferretería
 915185,Botella Metalica,Bazar,Regalos/Adornos
 915400,Fosforo Parana Familiar 300 un,Bazar,Churrasquería
-915409,VASOS DESECHABLES 7OZX10UND,Bazar,Cotillón
-915410,VASOS DESECHABLES DE 12OZ 10UND,Bazar,Cotillón
-915411,IMFLADOR DE GLOBOS,Bazar,Cotillón
-915412,LE BOMBILLAS DE DE DOBLAR,Bazar,Cotillón
+915409,Vasoso 7Ozx10U Desechables DrecuentreD,Bazar,Cotillón
+915410,Vasoso Mascota Avena Procao 500 ml,Bazar,Cotillón
+915411,Inflador de Globos,Bazar,Cotillón
+915412,Bombilla de Doblar,Bazar,Cotillón
 915414,Vela con Fuego,Bazar,Cotillón
 915416,LE PLATO DE DESECHABLE DE COLORES,Bazar,Cotillón
-915418,LE PIROTINES N 10,Bazar,Cotillón
-915421,LE PIROTINES N 7,Bazar,Cotillón
-915422,LE PIROTINES N 4,Bazar,Cotillón
-915423,LE PIRITINES N 5,Bazar,Cotillón
-915424,LE PIROTINES N 3,Bazar,Cotillón
-915425,LE PIROTINES N 2,Bazar,Cotillón
-915426,LE PIROTINES N 1,Bazar,Cotillón
+915418,Pirotines N10,Bazar,Cotillón
+915421,Pirotines N7,Bazar,Cotillón
+915422,Pirotines N4,Bazar,Cotillón
+915423,Pirotines N5,Bazar,Cotillón
+915424,Pirotines N3,Bazar,Cotillón
+915425,Pirotines N2,Bazar,Cotillón
+915426,Pirotines N1,Bazar,Cotillón
 915430,LE VELAS CUMPLEANOS MUSICALES,Bazar,Cotillón
 915464,Pilas Rayovac Alcalina AA 6 un,Bazar,Ferretería
 915794,BOLSA P/R POLLO WYDA 41CMX27CM,Bazar,Articulos de Cocina
@@ -23454,22 +23466,22 @@ id_producto,producto,categoria,subcategoria
 915800,FILME DE PVC WYDA 28CM 15MT,Bazar,Articulos de Cocina
 915801,BOLSAS HERMETICOS 31CM 8UND,Bazar,Articulos de Cocina
 915802,Film Plastico Wyda Pvc 30 m 28 cm,Bazar,Articulos de Cocina
-915804,PAPEL ALUMINIO WYDA 4MT X45CM,Bazar,Articulos de Cocina
+915804,Papel Aluminio Wyda 4 Mt,Bazar,Articulos de Cocina
 915805,BOLSA ASADERAP/R CHURASCO WYDA 5MTX45CM,Bazar,Articulos de Cocina
 915812,Papel Aluminio Wyda 45 cm x 7.5 m,Bazar,Articulos de Cocina
 915813,Papel Manteca Wyda 7.5 m 29 cm,Bazar,Articulos de Cocina
-915814,PAPEL ALUMINIO WYDA 30CM C4MT,Bazar,Articulos de Cocina
-917089,RESALTADOR STABILO BOSS NARANJA,Bazar,Librería
-917090,RESALTADOR STABILO BOSS VERDE,Bazar,Librería
-917091,RESALTADOR STABILO BOSS AMARILLO,Bazar,Librería
+915814,Papel Aluminio Wyda 30 cm,Bazar,Articulos de Cocina
+917089,Resaltador Stabilo Naranja,Bazar,Librería
+917090,Resaltador Stabilo Verde,Bazar,Librería
+917091,Resaltador Stabilo Amarillo,Bazar,Librería
 917684,MAR SOLERA DE MASCOTAS DE BS 30,Bazar,Mascotas General
 917686,MAR SOLERA E MASCOTAS DE BS 35,Bazar,Mascotas General
 917731,Portaretrato,Bazar,Living y Dormitorio
 917931,TRAVA PARA PORTA VIDRIO JOY 92400,Bazar,Living y Dormitorio
-918221,FRI MANILLAS DE DAMA BS 25,Bazar,Bijouteria/Cuidado Personal
+918221,Manilla de Dama,Bazar,Bijouteria/Cuidado Personal
 918833,Porta Salsas 600 ml,Bazar,Menaje Plástico
-919316,SILICONA GATILLO AMORALL ORIGINAL 473ML,Bazar,Automotriz
-919317,SILICONA SPRAY AMORALL 12X295ML,Bazar,Automotriz
+919316,Siliconao Mascota Avena Procao 500 ml,Bazar,Automotriz
+919317,Siliconao Mascota Avena Procao 500 ml,Bazar,Automotriz
 919384,Batidora Black Decker con Bowl,Bazar,Electrodoméstico/Línea Blanca-Hogar
 920081,Pyrex Redondo con Tapa,Bazar,Menaje Vidrio/Cristal
 920086,Pyrex Rectangular Grande con Tapa,Bazar,Menaje Vidrio/Cristal
@@ -23486,23 +23498,23 @@ id_producto,producto,categoria,subcategoria
 920148,Panera Diamante,Bazar,Articulos de Cocina
 920789,Basurero Rey Calada Paris,Cuidado del Hogar,Accesorios del Hogar
 920822,Copa Larga,Bazar,Menaje Vidrio/Cristal
-920823,VASO WHISKERO NADIR 1 UND.7505,Bazar,Menaje Vidrio/Cristal
+920823,Vasoo Nadir 1 Whiskero 1recuentreN,Bazar,Menaje Vidrio/Cristal
 920826,Copa Vino Blanco,Bazar,Menaje Vidrio/Cristal
 920859,CI.CUCHI P/COCIN NEGR*5 RECTO 22920/005,Bazar,Articulos de Cocina
 920862,Cucharon Tramontina Teflon,Bazar,Articulos de Cocina
-920865,CI.CUCHI COC/PROFES*6 TRAMON 24606/086,Bazar,Articulos de Cocina
-920868,CI.MOLDE P/PIZZA 30CM TRAMON 20058/030,Bazar,Articulos de Cocina
-921093,COPA P/CHAMPAGNE LIRIO UND,Bazar,Menaje Vidrio/Cristal
+920865,Cuchillo Profesional Tramontina,Bazar,Articulos de Cocina
+920868,Molde de Pizza Tramontina,Bazar,Articulos de Cocina
+921093,Copa de Champagne Lirio,Bazar,Menaje Vidrio/Cristal
 921228,Fosforo Parana Grande,Bazar,Churrasquería
 921333,Pote Clic 3 un,Bazar,Menaje Plástico
 921339,FRE.CLIC POTE GG ALTA REF 2417,Bazar,Menaje Plástico
 921346,Pote Clic 2 un,Bazar,Menaje Plástico
 921400,Señaladores Banderitas Color 50 un,Bazar,Librería
-921409,FR.CLIP N 33 X 100 PZS.5,Bazar,Librería
+921409,Clip N33 100 pz,Bazar,Librería
 921413,Corrector Tipo Boligrafo,Bazar,Librería
 921425,Engrampadora Starpler,Bazar,Librería
-921434,CLIP N 50 X 100PZS  .9,Bazar,Librería
-921451,ALE.PAQUETE PAPEL BOND COLORES 50H OF,Bazar,Librería
+921434,Clip 100 pz,Bazar,Librería
+921451,Paquete Papel Bond Colores 50 Hojas,Bazar,Librería
 921517,Pala Basura Rey Practico,Cuidado del Hogar,Accesorios del Hogar
 921518,Pala Basura con Sujetador de Escoba,Cuidado del Hogar,Accesorios del Hogar
 921527,Panero Rey Regia con Tapa,Bazar,Articulos de Cocina
@@ -23511,7 +23523,7 @@ id_producto,producto,categoria,subcategoria
 921534,Pyrex Nadir Ovalado Mediano,Bazar,Menaje Vidrio/Cristal
 921535,Pyrex Sempre Ovalado Grande,Bazar,Menaje Vidrio/Cristal
 921621,FOCO OSRAM VELA ROSCA NORMAL AHUMA 25W,Bazar,Ferretería
-921650,JAN SONAJERO DE BEBE BS 25,Bazar,Articulos de Bebé
+921650,Sonajero de Bebe,Bazar,Articulos de Bebé
 921684,JAN ENCENDEDOR DE COCINA  13,Bazar,Articulos de Cocina
 921808,Mantequillera Rey Holandesa,Bazar,Articulos de Cocina
 921813,Panero Rey Comercial,Bazar,Articulos de Cocina
@@ -23526,7 +23538,7 @@ id_producto,producto,categoria,subcategoria
 921860,FRI ENCHUFE TRIPLE .10  .,Bazar,Ferretería
 921883,Juego de Mesa Ojo de Aguila,Juguetería,Juguetería Didáctica/Temporada
 921887,Cicatricure Gel Tubo 60 gr,Cuidado Personal,Cuidado de la Piel
-922075,FRI FLOTADOR DE BEBE AUTO-AVION 80,Bazar,Temporada Verano
+922075,Flotador de Bebe Auto Avion,Bazar,Temporada Verano
 922367,CUAD ENG.LIDER C/C 50HJ PLENO 10533,Bazar,Librería
 922382,Archivador Condor Oficio,Bazar,Librería
 922390,Sobre Manila Carta,Bazar,Librería
@@ -23534,15 +23546,15 @@ id_producto,producto,categoria,subcategoria
 923333,Pegamento Isocola 40 gr,Bazar,Librería
 923334,Pegamento Acricola 40 gr,Bazar,Librería
 923335,Pegamento Acricola 80 gr,Bazar,Librería
-923338,CORRECTOR EN CINTA SDY ACRICOLOR,Bazar,Librería
+923338,Corrector Acricolor en Cinta,Bazar,Librería
 923342,MARCADOR PIZARRA DONG-A ROJO UND.,Bazar,Librería
 923359,GRAPAS 26/6 KANGARO UND.,Bazar,Librería
 923364,BOLIGRAFO FLAIR C/SURTIDO UND.,Bazar,Librería
 924102,Bañador Canoa Chica Economica 12 L,Cuidado del Hogar,Accesorios del Hogar
 924175,Pelota Viniball Perfumada,Juguetería,Juguetería Niño/Bebé
 924176,Pelota Viniball Disney,Juguetería,Juguetería Niño/Bebé
-924195,FR.GOMA EVA T/OFICIO,Bazar,Librería
-924196,FR.GOMA EVA PLIEGO,Bazar,Librería
+924195,Goma Eva Oficio,Bazar,Librería
+924196,Goma Eva Pliego,Bazar,Librería
 924198,Marcador Permanente Azul,Bazar,Librería
 924808,LAPICERO BIC ROUND STIC VERDE 8226,Bazar,Librería
 924809,Boligrafo Bic Rojo,Bazar,Librería
@@ -23550,8 +23562,8 @@ id_producto,producto,categoria,subcategoria
 924811,Boligrafo Bic Negro,Bazar,Librería
 924933,Mochilas Diseños Surtidos,Bazar,Librería
 925003,Conservadora Tecnopor 7 L,Bazar,Camping General
-925033,YARDA GRANDE SURTIDAS BS 7,Bazar,Cotillón
-925034,VASO WHISKEROS SURTIDOS BS 4,Bazar,Menaje Plástico
+925033,Yardao Surtida Grande BrecuentreS,Bazar,Cotillón
+925034,Vasoo Surtido Whiskeros BrecuentreS,Bazar,Menaje Plástico
 925060,Alcohol Desnaturalizado Envaquin 125 ml,Cuidado Personal,Cuidado de la Piel
 925100,Lapiz Rojo,Bazar,Librería
 925101,Lapiz Negro,Bazar,Librería
@@ -23583,8 +23595,8 @@ id_producto,producto,categoria,subcategoria
 929386,MOLDE TEFLONADO RECTANGULAR 25 CM ILKO GOLD,Bazar,Articulos de Cocina
 929387,Molde Teflonado Ilko Rectangular 30 cm,Bazar,Articulos de Cocina
 929408,Pliego Brillo Goma Eva,Bazar,Librería
-929508,FRI PISCINA INFLABLE NINOS EN CAJA 2ANOS 190,Bazar,Temporada Verano
-929672,VASO DE WHISKY BRISTOL,Bazar,Menaje Vidrio/Cristal
+929508,Piscina Inflable Niños,Bazar,Temporada Verano
+929672,Vasoo Whisky  De WrecuentreD,Bazar,Menaje Vidrio/Cristal
 929755,Agenda Juvenil Perpetua 2025,Bazar,Librería
 929758,Agenda Perpetua 2025,Bazar,Librería
 929760,Agenda Perpetua,Bazar,Librería
@@ -23596,7 +23608,7 @@ id_producto,producto,categoria,subcategoria
 930098,Bandeja Rectangular Tramontina 40 cm,Bazar,Articulos de Cocina
 930132,Pyrex Sempre Cuadrado Chico,Bazar,Menaje Vidrio/Cristal
 930293,Set Cucharilla Olego Color 10 un,Bazar,Cotillón
-930295,CUCHILLO OLEGO COLOR X 10UND.,Bazar,Cotillón
+930295,Cuchillo Desechable Olego 10 un,Bazar,Cotillón
 930298,Vela Bengala 1 un,Bazar,Cotillón
 930306,Octane Booster Stp 155 ml,Bazar,Automotriz
 930307,Fuel Injector Cleaner Stp 155 ml,Bazar,Automotriz
@@ -23605,10 +23617,10 @@ id_producto,producto,categoria,subcategoria
 931488,Copa Martini Windsor,Bazar,Menaje Vidrio/Cristal
 931491,Set 6 Vasos Amasadinho Tubo,Bazar,Menaje Vidrio/Cristal
 931510,Copa de Vino Windsor,Bazar,Menaje Vidrio/Cristal
-932021,FRE PORTA MANTEQUILLERA PLASUTIL,Bazar,Menaje Plástico
+932021,Porta Mantequillero Plasutil,Bazar,Menaje Plástico
 932080,MAR DISFRACES DE MASCOTAS,Bazar,Mascotas General
 932694,ALED CINTA MASQUIN  10,Bazar,Ferretería
-932704,ALED CINTA DOBLE PEGAMENTO 12,Bazar,Ferretería
+932704,Cinta Doble Contacto,Bazar,Ferretería
 932752,Vasos Desechable Belen 500 ml 50 un,Bazar,Cotillón
 932755,Bombillas Belen Corrugada Surtidas 100 un,Bazar,Cotillón
 935914,JAN SET DE COSTURERO .12,Bazar,Bijouteria/Cuidado Personal
@@ -23616,11 +23628,11 @@ id_producto,producto,categoria,subcategoria
 936484,Mochila Escolar Juvenil,Bazar,Librería
 936485,Mochila Juvenil Escolar,Bazar,Librería
 936600,TER PISO DE ENTRADAA .35,Bazar,Living y Dormitorio
-936609,ALED BARRA  DE SILICONA DE BS 2.5,Bazar,Ferretería
+936609,Barra de Silicona,Bazar,Ferretería
 937579,Mochila Escolar Juvenil + Estuche,Bazar,Librería
-937832,CEPILLO P/ CABELLO LARA CONDOR 9830,Bazar,Bijouteria/Cuidado Personal
+937832,Cepillo de Cabello Condor Lara,Bazar,Bijouteria/Cuidado Personal
 937834,PEINE  CONDOR 9890 -,Bazar,Bijouteria/Cuidado Personal
-937835,CEPILLO P/CABELLO SISSI CONDOR 6806,Bazar,Bijouteria/Cuidado Personal
+937835,Cepillo de Cabello Condor Sissi,Bazar,Bijouteria/Cuidado Personal
 937836,CEPILLO P/CABELLO RAQUEL CONDOR 6807,Bazar,Bijouteria/Cuidado Personal
 937837,CEPILLO P/CABELLO MARISA M CONDOR 6820,Bazar,Bijouteria/Cuidado Personal
 937838,CEPILLO P/CABELLO SIMONE M CONDOR 6871,Bazar,Bijouteria/Cuidado Personal
@@ -23631,9 +23643,9 @@ id_producto,producto,categoria,subcategoria
 937847,PEINE AQUAHAIR  CONDOR  SM 140,Bazar,Bijouteria/Cuidado Personal
 937850,Set Cepillo Condor Peine Para Bebe,Bazar,Bijouteria/Cuidado Personal
 937852,Pincel Brocha de Pintura Condor,Bazar,Bijouteria/Cuidado Personal
-937926,GAB ADAPTADOR COMPUTADORA ANCHO BS 8,Bazar,Ferretería
+937926,Adaptador Ancho,Bazar,Ferretería
 938317,CP CEPILLO DE CABELLO ELIANE 6853,Bazar,Bijouteria/Cuidado Personal
-938318,CP CEPILLO DE CABELO KATIA CONDOR 6850,Bazar,Bijouteria/Cuidado Personal
+938318,Cepillo de Cabello Katia Condor,Bazar,Bijouteria/Cuidado Personal
 938320,CP CEPILLO D/CABELLO MARLENE CONDOR6876,Bazar,Bijouteria/Cuidado Personal
 938322,CP CEPILLO DE CABELLO MILA CONDOR 9840,Bazar,Bijouteria/Cuidado Personal
 938454,Encendedor de Carbon la Llama Facil Ecologico 1 un,Bazar,Churrasquería
@@ -23654,7 +23666,7 @@ id_producto,producto,categoria,subcategoria
 940047,Salsero Plaustil,Bazar,Articulos de Cocina
 940743,FRI JUGUETE DIDACTICO - 55,Juguetería,Juguetería Niña/Bebé
 941037,Folder Amarillo con Nepaco,Bazar,Librería
-941113,CI SOPLADOR DE CARBON TRAMONTINA 26479,Bazar,Churrasquería
+941113,Soplador de Carbon Tramontina,Bazar,Churrasquería
 941551,Molde Estañado Ilko Redondo,Bazar,Articulos de Cocina
 942359,Cepillo Foramen Junior Suave 1 un,Cuidado Personal,Cuidado Bucal
 947068,Juguete Auto a Control Remoto,Juguetería,Juguetería Niño/Bebé
@@ -23670,10 +23682,10 @@ id_producto,producto,categoria,subcategoria
 947368,Hervidor Tramontina con Tapa 16 cm,Bazar,Articulos de Cocina
 947369,Hervidor Tramontina con Tapa 14 cm,Bazar,Articulos de Cocina
 947376,Olla Tramontina Alta 22 cm,Bazar,Articulos de Cocina
-947378,CI OLLA ALTA DE 18CM 3L20530/618,Bazar,Articulos de Cocina
+947378,Olla Alta 18 cm 3 L,Bazar,Articulos de Cocina
 947380,CI CACEROLA C/MANGO 20CM20525/620,Bazar,Articulos de Cocina
 947385,Olla Tramontina Baja 20 cm,Bazar,Articulos de Cocina
-947386,CI OLLA BAJA DE 18CM 2L20520/618,Bazar,Articulos de Cocina
+947386,Olla Baja 18 cm 2 L,Bazar,Articulos de Cocina
 947387,Sarten Tramontina con Tapa 26 cm,Bazar,Articulos de Cocina
 947475,Exprimidor de Naranja Mgf 3445,Bazar,Electrodoméstico/Línea Blanca-Hogar
 947531,Panero Plaza Opaline,Bazar,Menaje Porcelana/Cerámica
@@ -23700,16 +23712,16 @@ id_producto,producto,categoria,subcategoria
 948676,Ambientador Natura de Auto,Bazar,Automotriz
 948678,Aromatizante Centralsul en Gel 60 gr,Bazar,Automotriz
 948680,ESPONJA DE AUTO CENTRALSUL 20X13X7,Bazar,Automotriz
-948706,CEPILLO LAVA LEGUMBRES 1730,Bazar,Baño General
+948706,Cepillo Lava Legumbres,Bazar,Baño General
 948921,LECHERO ILKO 1.5LT CLASICA 5037,Bazar,Articulos de Cocina
 948923,PLANCHA ANTIADERENTE ILKO CLASICA 28 CM,Bazar,Articulos de Cocina
 948948,Fosforo Parana Gigante 50 un,Bazar,Churrasquería
-950466,VASO PLASTICO 7OZ X10,Bazar,Cotillón
-950475,INFLADOR MANUAL P/GLOBOS BS.18,Bazar,Cotillón
+950466,Vasoo 7Oz X10 Plastico 7recuentreP,Bazar,Cotillón
+950475,Inflador de Globos Manual,Bazar,Cotillón
 950520,Auto Hot Wheels 3 un,Juguetería,Juguetería Niño/Bebé
 951414,Vela Cumpleaños Fuego,Bazar,Cotillón
 951543,Cuaderno Top Empastado Carta 100 Hojas,Bazar,Librería
-951546,CUAD EMPAST OFICIO TOP PLENO 100HJ 0305,Bazar,Librería
+951546,Cuaderno Empastado Top Oficio Pleno 100 Hojas,Bazar,Librería
 951807,Lapices de Colores Stabilo 24 Colores,Bazar,Librería
 951815,MICROPUNTA STABILO POINT 88 10 PIEZAS,Bazar,Librería
 954009,Papel Aluminio Wyda 7.5x30 cm,Bazar,Articulos de Cocina
@@ -23720,11 +23732,11 @@ id_producto,producto,categoria,subcategoria
 956809,Film Plastico Pvc Alpfilm 28 cm 100 m,Bazar,Articulos de Cocina
 957074,Alcancia Hipermaxi Chanchito,Bazar,Regalos/Adornos
 957284,Agenda Perpetua 2025 Elegante,Bazar,Librería
-957679,CEPILLO DE CABELLO CONDOR 6873 BLISA,Bazar,Bijouteria/Cuidado Personal
+957679,Cepillo de Cabello Condor Blisa,Bazar,Bijouteria/Cuidado Personal
 957680,SET DE PEINES DE VIAJE X 3 CONDOR SMA5,Bazar,Bijouteria/Cuidado Personal
 957690,CI ESPATULA TRAMONTINA 21165/194,Bazar,Articulos de Cocina
-957691,CI ESPATULA DE PASTEL TRAMONT.21163/195,Bazar,Articulos de Cocina
-957693,CI ESPATULA TRAMONTINA 21168/195,Bazar,Articulos de Cocina
+957691,Espatula de Pastel Tramontina,Bazar,Articulos de Cocina
+957693,Espatula Tramontina 195,Bazar,Articulos de Cocina
 958076,Papel Crepe Normal,Bazar,Librería
 959610,Porta Jabon Plasutil con Escurridor,Bazar,Menaje Plástico
 959621,Clic Pote Plasutil Rectangular 2 Diviciones,Bazar,Menaje Plástico
@@ -23745,10 +23757,10 @@ id_producto,producto,categoria,subcategoria
 960630,Sopa Instantanea Chow Mein 4 oz,Abarrotes,Productos Americanos
 960631,Sopa Instantanea Chow Mein Teriyaki Beef Flavor 4 oz,Abarrotes,Productos Americanos
 960670,Cubeta para Hielo Rey,Bazar,Articulos de Cocina
-960815,ALED CALCULADORA DE BS 22,Bazar,Librería
+960815,Calculadora,Bazar,Librería
 960838,VELAS TUKY FLUOR NUMEROS,Bazar,Cotillón
-960839,VELAS TUKY GIBRE ROSA NUMEROS,Bazar,Cotillón
-960840,VELAS TUKY GIBRE CELESTE NUMEROS,Bazar,Cotillón
+960839,Velaso Mascota Avena Procao 500 ml,Bazar,Cotillón
+960840,Velaso Mascota Avena Procao 500 ml,Bazar,Cotillón
 960862,Tijera de Cocina Ilko Multifuncion Clasica,Bazar,Articulos de Cocina
 960869,Decorador de Torta Ilko,Bazar,Articulos de Cocina
 962066,SANITARIO DE GATOS DENUCIO 3KG,Bazar,Mascotas General
@@ -23765,23 +23777,23 @@ id_producto,producto,categoria,subcategoria
 970541,LV.PAQUETE VELAS CRESPAS X8 MACIEL AZUL,Bazar,Living y Dormitorio
 970543,Vela Maciel Tronquito Amarillo,Bazar,Living y Dormitorio
 971345,Vela Cena Extra Grande,Bazar,Living y Dormitorio
-971455,VELAS CUMPLEANOS SURTIDA OLEGO X 12PZS,Bazar,Cotillón
+971455,Velaso Surtida Olego Xrecuentre 12 O,Bazar,Cotillón
 971456,Vela Cumpleaños Surtida 1 un,Bazar,Cotillón
 971460,VELA ZIGZAG OLEGO X 24PZS,Bazar,Cotillón
-971463,VELA ESPIRAL OLEGO X 12PZS BLISTER,Bazar,Cotillón
+971463,Velao Olego X X 1recuentre  X,Bazar,Cotillón
 971464,Vela Cumpleaños Numericas Surtidas,Bazar,Cotillón
 971481,Shampoo Denucio Natural con Repelente,Bazar,Mascotas General
 971492,PLATO P/MASCOTA CHICO DENUCIO,Bazar,Mascotas General
 971495,PIEDRA P/GATO DENUCIO 2KG.,Bazar,Mascotas General
 971501,Vela Catedral Yander Super 4 un,Bazar,Cotillón
-974280,FRI FLOTADOR ARO FANTASIA 1.14M ADULTO 90,Bazar,Temporada Verano
+974280,Flotador Aro Fantasia Adulto,Bazar,Temporada Verano
 976413,Lapiz Bic HBN2,Bazar,Librería
-976416,LAPICERO CRISTAL VERDE BIC UND. 8206,Bazar,Librería
+976416,Boligrafo Bic Verde Cristal,Bazar,Librería
 976418,Boligrafo Bic Fino Rojo,Bazar,Librería
 977411,Candado,Bazar,Ferretería
-979269,VELA COLORES DISENOS X 24UND. OLEGO,Bazar,Cotillón
-979273,GLOBOS EMOTION TUKY X 5UND. SURT,Bazar,Cotillón
-979274,GLOBOS FORMA X 3UND. TUKY SURTIDOS,Bazar,Cotillón
+979269,Velao Disenos X 2recuentre  X,Bazar,Cotillón
+979273,Globos Emotion Tuky Surtido,Bazar,Cotillón
+979274,Globos Forma Tuky Surtido 3 un,Bazar,Cotillón
 979847,Paño Cocina Country 40X60 cm,Cuidado del Hogar,Productos Americanos
 979849,Paño de Cocina Cuit,Cuidado del Hogar,Productos Americanos
 979964,Auto Hot Wheels 5 un,Juguetería,Juguetería Niño/Bebé
@@ -23789,11 +23801,11 @@ id_producto,producto,categoria,subcategoria
 979999,Molde Teflonado Tramontina,Bazar,Articulos de Cocina
 980105,Taper Mr Ovalado 0.4 L,Bazar,Menaje Plástico
 980293,VELA BLANCA C/ESTRELLAS OLEGO X8,Bazar,Cotillón
-980294,VELA FELIZ CUMPLEANOS OLEGO X12,Bazar,Cotillón
-980295,VELA LAPICES OLEGO X10,Bazar,Cotillón
-980297,VELA FUTBOL OLEGO X6,Bazar,Cotillón
+980294,Velao Mascota Avena Procao 500 ml,Bazar,Cotillón
+980295,Velao Olego X Lapices OrecuentreL,Bazar,Cotillón
+980297,Velao Olego X Futbol OrecuentreF,Bazar,Cotillón
 980598,Vela Cumpleaños Azul Rosada,Bazar,Cotillón
-980651,CRAYONES YIPPY WAX JUMBO CIRCULAR EST X  12 COLORES,Bazar,Librería
+980651,Crayones Jumbo Circular 12 Colores,Bazar,Librería
 981637,Mini Hueso Pushky Doble,Bazar,Mascotas General
 981638,Hueso Pushky Pequeño,Bazar,Mascotas General
 981639,Hueso Pushky Mediano,Bazar,Mascotas General
@@ -23803,10 +23815,10 @@ id_producto,producto,categoria,subcategoria
 981758,Juego de Carta,Juguetería,Juguetería Didáctica/Temporada
 981766,Colador Plasutil N1,Bazar,Articulos de Cocina
 981767,Colador Plasutil N2,Bazar,Articulos de Cocina
-981768,FRE.COLADOR PLASUTIL N*3,Bazar,Articulos de Cocina
-981769,FRE.COLADOR PLASUTIL N*4,Bazar,Articulos de Cocina
+981768,Colador Plasutil N3,Bazar,Articulos de Cocina
+981769,Colador Plasutil N4,Bazar,Articulos de Cocina
 982178,Ducha Lorenzeti,Bazar,Ferretería
-982224,GAB ENCHUFES TRIPLE 8,Bazar,Ferretería
+982224,Enchufes Tlipe,Bazar,Ferretería
 982228,La Gotita Gel 3 ml,Bazar,Ferretería
 982236,Inflador de Pelota,Bazar,Ferretería
 982244,Cinta Teflon,Bazar,Ferretería
@@ -23814,10 +23826,10 @@ id_producto,producto,categoria,subcategoria
 982551,Pilas Energizer Alcalina AA 8 un,Bazar,Ferretería
 982552,Pilas Eveready Alcalina AA 6 un,Bazar,Ferretería
 982711,Colgador rey de Ropa 4 un,Bazar,Living y Dormitorio
-983256,VASO HERRADURA BEBIDAS 0124AD,Bazar,Menaje Vidrio/Cristal
-983260,VASO LICOR LORD 0355AL,Bazar,Menaje Vidrio/Cristal
+983256,Vasoo Bebidas Herradura BrecuentreH,Bazar,Menaje Vidrio/Cristal
+983260,Vasoo Lord 03 Licor LrecuentreL,Bazar,Menaje Vidrio/Cristal
 983262,Copa de Champagne Lisa Premier,Bazar,Menaje Vidrio/Cristal
-983267,VASO LISO NOVA 11 OZ 0259AL,Bazar,Menaje Vidrio/Cristal
+983267,Vasoo Mascota Avena Procao 500 ml,Bazar,Menaje Vidrio/Cristal
 983448,COMPAS STUDY CON ABRAZADERA MAPED,Bazar,Librería
 983685,Paño Microfibra para Cocina 2 un,Bazar,Articulos de Cocina
 983686,Paño Lucky para Cocina 2 un,Bazar,Articulos de Cocina
@@ -23831,13 +23843,13 @@ id_producto,producto,categoria,subcategoria
 984924,Palitos de Anticucho Parana 100 un,Bazar,Churrasquería
 984926,Molde Estañado Ilko Alto 24 cm,Bazar,Articulos de Cocina
 984930,Tabla para Cortar Ilko Mediana 34x24 cm,Bazar,Churrasquería
-984931,TABLA P/CORTAR PEQUENA 30*21 ILKO 2093,Bazar,Churrasquería
-984932,TABLA P/CORTAR REDONDA ILKO 2091,Bazar,Churrasquería
+984931,Tablao Mascota Avena Procao 500 ml,Bazar,Churrasquería
+984932,Tablao Mascota Avena Procao 500 ml,Bazar,Churrasquería
 984933,Tostador Parrilla Ilko Clasica,Bazar,Articulos de Cocina
 984941,Sarten Antiadherente Ilko Clasica 24 cm,Bazar,Articulos de Cocina
 984943,Sarten Antiadherente Ilko Clasica 30 cm,Bazar,Articulos de Cocina
 984946,Colador Clasico Ilko 14 cm,Bazar,Articulos de Cocina
-984947,COLADOR PLASTICO 7CM.ILKO 2110,Bazar,Articulos de Cocina
+984947,Colador Ilko Plastico 7 cm,Bazar,Articulos de Cocina
 984948,Colador Plastico Ilko 14 cm,Bazar,Articulos de Cocina
 984952,ABRELATA MARIPOSA CLASICA ILKO 2131,Bazar,Articulos de Cocina
 984964,ABRELATA Y DESTAPADOR DESIGN ILKO 2134,Bazar,Articulos de Cocina
@@ -23847,7 +23859,7 @@ id_producto,producto,categoria,subcategoria
 986524,Pinza Ropa Gigante,Bazar,Living y Dormitorio
 987113,Yol Peluche,Juguetería,Juguetería Didáctica/Temporada
 987731,Papel Sabana Pliego,Bazar,Librería
-987878,ALE.BORRADOR PIZARRA ACRILICA,Bazar,Librería
+987878,Borrador de Pizarra Acrilica,Bazar,Librería
 987976,Fuente Marinex Rectangular Lasaña,Bazar,Menaje Vidrio/Cristal
 988844,FRI PELOTAS DE PICINA  14,Bazar,Temporada Verano
 989050,Plato de Mascota Mediano Plasutil,Bazar,Mascotas General
@@ -23865,7 +23877,7 @@ id_producto,producto,categoria,subcategoria
 991081,Masculan Preservativo Largo Placer Caja x 3 unid,Farmacia Otc,Varios
 991082,Masculan Preservativo Saborizado Caja x 3 unid,Cuidado Personal,Cuidado de la Piel
 991288,Boligrafo Bic Cristal Azul,Bazar,Librería
-991289,LAPICERO CRISTAL ROJO BIC UND. 8204,Bazar,Librería
+991289,Boligrafo Bic Rojo Cristal,Bazar,Librería
 991502,Pyrex Nadir para Mezclar Pequeño,Bazar,Menaje Vidrio/Cristal
 991503,Pyrex Nadir para Mezclar Mediano,Bazar,Menaje Vidrio/Cristal
 991504,Pyrex Nadir para Mezclar Grande,Bazar,Menaje Vidrio/Cristal
@@ -23877,26 +23889,26 @@ id_producto,producto,categoria,subcategoria
 993293,Cuchillo Tramontina Para Carne N8,Bazar,Articulos de Cocina
 993380,CI.CUCHARA NEW KOLOR CREMA 23163/030,Bazar,Articulos de Cocina
 993385,Rallador Tramontina Surtido,Bazar,Articulos de Cocina
-993386,CI.CORTADOR PIZZA C/SURTIDOS TRAMONTINA,Bazar,Articulos de Cocina
+993386,Cortador Pizza Tramontina,Bazar,Articulos de Cocina
 993414,Algodon Cremer Disco 37 gr,Cuidado Personal,Cuidado de la Piel
 993460,Taper Mr Microonda Rectangular Salchicha,Bazar,Menaje Plástico
 993519,LV VELA P/TE .15 CAFE,Bazar,Living y Dormitorio
 993675,Jarra Mexico Cristal,Bazar,Menaje Vidrio/Cristal
 993691,TARJETAS GIGANTES SURTIDAS UND.,Bazar,Librería
-993692,TARJETA ESPECIAL KROMAS UND.,Bazar,Librería
-993900,PAPEL REGALO SURTIDO UND.,Bazar,Librería
+993692,Tarjetao Kromas  Especial KrecuentreE,Bazar,Librería
+993900,Papel de Regalo Surtido,Bazar,Librería
 993944,Salero Plasutil Para Mesa,Bazar,Articulos de Cocina
 993945,Pote Tapa Plasutil Rosca 390 ml,Bazar,Menaje Plástico
 993947,Pote Tapa Plasutil Rosca 720 ml,Bazar,Menaje Plástico
 993948,Pote Tapa Plasutil Rosca 1 L,Bazar,Menaje Plástico
 993949,Pote Tapa Plasutil Rosca 300 ml,Bazar,Menaje Plástico
 993954,Porta Cepillo Dental con Tapa Plastica,Bazar,Baño General
-993955,FR.PORTA JABON LIQUIDO PLASUTIL,Bazar,Baño General
+993955,Porta Jabon Liquido Plasutil,Bazar,Baño General
 993959,Toma Todo con Pico Plasutil,Bazar,Menaje Plástico
 993978,Plato Hondo Diamante Cristalino,Bazar,Menaje Vidrio/Cristal
 993979,Plato Plano Diamante Cristalino,Bazar,Menaje Vidrio/Cristal
 994819,Brintec Par,Cuidado del Hogar,Limpieza de Zapatos
-995109,VASO P/WHISKY CAPRI X 1 UND,Bazar,Menaje Vidrio/Cristal
+995109,Vasoo Capri X Capri 1recuentre  X,Bazar,Menaje Vidrio/Cristal
 995277,FRE.CAJA P/FREEZER/MICROONDAS 450ML.,Bazar,Menaje Plástico
 995278,FRE.CAJA FREEZER/MICROONDA 1.8LT,Bazar,Menaje Plástico
 995279,FRE.CAJA FREZEER/MICROONDA 5.6LT,Bazar,Menaje Plástico
@@ -23904,8 +23916,8 @@ id_producto,producto,categoria,subcategoria
 995287,FRE.JABONERA PLASUTIL,Bazar,Baño General
 995762,Vela Catedral 8 un,Bazar,Cotillón
 996295,Boligrafo Bic Fino Azul,Bazar,Librería
-996297,LAPICERO FINE PLUS BIC ROJO 8244,Bazar,Librería
-996299,RESALTADRO BRITE LINER BIC AMAR 8310,Bazar,Librería
+996297,Boligrafo Bic Fine Plus Rojo,Bazar,Librería
+996299,Resaltador Bic Amarillo Brite Liner,Bazar,Librería
 996304,Porta Cepillo Dental Plasultil,Bazar,Baño General
 996470,Jarra Rey Bonita 2.5 L,Bazar,Menaje Plástico
 996471,Jarra Rey Refrijarra 4 L,Bazar,Menaje Plástico
@@ -23914,26 +23926,26 @@ id_producto,producto,categoria,subcategoria
 996936,HIGEEN ADULTO AGUA MARINA X 110 ML,Farmacia Otc,Dermatológicos
 996939,Higeen Adulto Limon x 110 ml,Farmacia Otc,Dermatológicos
 996942,Pyrex Sempre Cuadrado Pequeño,Bazar,Menaje Vidrio/Cristal
-998036,ALED BORRADORES GRANDES DE BS 3.6,Bazar,Librería
+998036,Borrador Grande,Bazar,Librería
 998039,Cartulina Colores Surtido Pliego,Bazar,Librería
 998040,Folder con Liga Oficio,Bazar,Librería
-998054,ALED ESTILETE .5,Bazar,Librería
+998054,Estilete N2,Bazar,Librería
 998066,CINTA EMBALAJE UND.,Bazar,Librería
 998071,Marcador Monami de Pizarra,Bazar,Librería
 998074,Cinta Embalaje Grande,Bazar,Librería
 998076,Papel Crepe,Bazar,Librería
-998089,TALONARIO NOTA DE VENTA.8,Bazar,Librería
+998089,Talonarioo De Vent Nota DrecuentreN,Bazar,Librería
 998090,Recibo,Bazar,Librería
 998092,Talonario Tickets Numericos,Bazar,Librería
 998093,Cartulina Blanca Pliego,Bazar,Librería
-998096,TAMPO N*4 CHICO,Bazar,Librería
+998096,Tampoo Mascota Avena Procao 500 ml,Bazar,Librería
 998097,Tijera Escolar,Bazar,Librería
 998099,Tijera Mundial n5,Bazar,Librería
 998143,Tijera Mundial n8,Bazar,Librería
 998146,TINTA 30ML,Bazar,Librería
 998147,Yurex,Bazar,Librería
 998618,Basurero Rey Calada Venecia,Cuidado del Hogar,Accesorios del Hogar
-999259,HOJAS CARPETA 3PERF BLANCA LIDER 500HJ 4414,Bazar,Librería
+999259,Hoja de Carpeta Lider Blanca 500 Hojas,Bazar,Librería
 999270,Cuaderno Top Espiral 1/2 Oficio 100 Hojas,Bazar,Librería
 999273,Trapper Top Carta 3 Anillo,Bazar,Librería
 999501,FOCO PHELIX B/CONSUMO 27W UND.,Bazar,Ferretería
