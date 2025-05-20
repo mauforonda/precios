@@ -1663,12 +1663,16 @@ id_producto,producto,categoria,subcategoria
 25116,VINAGRE CASTELO D ALCOHOL 6P 5LT,Abarrotes,Básicos
 25117,GALLETA FAMILY FARM ARROZ SIN SAL 110G,Abarrotes,Dietéticos y Saludables
 25120,Vino Kohlberg Cautivo 750 ml,Bebidas,Vinos y Champagne
+25124,MANI SALADO CROPPERS BSA 350G,Abarrotes,Snack
 25125,MANI SALADO CROPPERS BSA 105G,Abarrotes,Snack
+25126,MANI CROPPERS SIN SAL BSA 350G,Abarrotes,Snack
+25127,MIX CROPPERS MANI ALMEND PASAS 85G,Abarrotes,Snack
 25128,MANI C CHOCOLATE CROPPERS BSA 85G,Abarrotes,Snack
 25130,CHAMPINON ENTERO ISAMAR LTA 425G,Abarrotes,Verduras en Conserva
 25133,PACK SPAGUETTO LAZZARONI 1EXTRACTO,Abarrotes,Básicos
 25134,ENERGIZANTE RUSH BONNY LOVY 269 ML,Bebidas,Energizantes
 25135,AGUA DE COCO RENUKA TETRA 330ML,Bebidas,Bebidas Varias
+25136,AGUA DE COCO RENUKA TETRA 1LT,Bebidas,Bebidas Varias
 25142,MANI CROPPERS SAB PANCETA 85G,Abarrotes,Snack
 25145,JUGO VALLE FRESH TROPICAL PUNCH 3LT,Bebidas,"Jugos, Néctar"
 25146,JUGO VALLE FRESH TROPICAL PUNCH 2LT,Bebidas,"Jugos, Néctar"
@@ -1893,6 +1897,7 @@ id_producto,producto,categoria,subcategoria
 29070,Te Brissol Cola de Caballo 20 Sobres,Abarrotes,Dietéticos y Saludables
 29071,Te Brissol Flor de Jamaica 20 Sobres,Abarrotes,Dietéticos y Saludables
 29072,Te Brissol de Alcachofa  20 Sobres,Abarrotes,Dietéticos y Saludables
+29073,Te Brissol Rompe Piedra 20 Sobres,Abarrotes,Dietéticos y Saludables
 29074,Te Brissol de Valeriana 20 Sobres,Abarrotes,Dietéticos y Saludables
 29075,Mani Picnic Japones Tradicional 350 gr,Abarrotes,Snack
 29076,Mani Picnic Japones Picante 350 gr,Abarrotes,Snack
@@ -6523,6 +6528,7 @@ id_producto,producto,categoria,subcategoria
 209099,PACK FRUCTIS SANDIA SH + MASCARA,Cuidado Personal,Cuidado del Cabello
 209100,PACK FRUCTIS CACAO SH + MASCARA,Cuidado Personal,Cuidado del Cabello
 209122,AMBIENTADOR GLADE HAWA BREE 270 ML,Cuidado del Hogar,Limpieza de Living y Ropero
+209127,CAREY QUITAESMALTE BRISAS 65 ML,Cuidado Personal,Cuidado de la Piel
 209163,Galleta de Avena Almendra Vikinger,Panadería,Panadería Externa
 209260,Agua Destilada 1 L,Bazar,Automotriz
 209273,Acondicionador Revive Curly sin Sal 340 ml,Cuidado Personal,Cuidado del Cabello
@@ -7327,6 +7333,7 @@ id_producto,producto,categoria,subcategoria
 224098,Enjuague Bucal Listerine Cuidado Total 1 L,Cuidado Personal,Cuidado Bucal
 224099,Combo Tipack Fanelas + Papel Higienico,Cuidado del Hogar,Accesorios del Hogar
 224100,GEL FIJADOR CLASSIC FUERZA EXPLOSIVA 250,Cuidado Personal,Cuidado del Cabello
+224101,VAJILLERO BRIMAX LIMÓN 5 LT,Cuidado del Hogar,Limpieza de Cocina
 224140,Champiñon Deymas Conserva 425 gr,Abarrotes,Verduras en Conserva
 224141,Champiñones Enteros Deymas 184 gr,Abarrotes,Verduras en Conserva
 224187,Te Intenso con Canela 100 Sobres,Abarrotes,Café y Sucedáneos
@@ -7892,7 +7899,7 @@ id_producto,producto,categoria,subcategoria
 240811,Insecticida Tyson Matacucaracha 250 cm,Cuidado del Hogar,Insecticidas
 240812,Repelente Off Duracion 196 gr,Cuidado del Hogar,Productos Americanos
 240817,Tripack Toalla Higienica Kotex Discreta Ultra fina 3x2,Cuidado Personal,Cuidado Familiar
-240819,JABON LIQ  NOSTAS MANZANILLA 600ML,Cuidado Personal,Cuidado de la Piel
+240819,Jabon Liquido Nostas Manzanilla 600 ml,Cuidado Personal,Cuidado de la Piel
 240820,Enjuague Bucal Nostas Menta 1 L,Cuidado Personal,Cuidado Bucal
 240821,ENJUAGUE BUCAL NOSTAS MENTA 600 ML,Cuidado Personal,Cuidado Bucal
 240822,DESTAPA CANERIA RESPLANDOR 1L,Cuidado del Hogar,Limpieza de Baños
@@ -8000,7 +8007,7 @@ id_producto,producto,categoria,subcategoria
 249013,DESODORANTE SPEDSTICK CLINICAL 70 GR MEN,Cuidado Personal,Cuidado de la Piel
 249014,DESODORANTE CLINICAL SPRRD STICK WOM 70,Cuidado Personal,Cuidado de la Piel
 249015,ESPONJA D/BANO UNO CON CORDON RF.8330,Cuidado del Hogar,Accesorios del Hogar
-249027,ACIDO GLICOLICO LOREAL CREM DIA 50 ML,Cuidado Personal,Cuidado de la Piel
+249027,Acido Glicolico Loreal Crema Dia 50 ml,Cuidado Personal,Cuidado de la Piel
 249028,Suavizante Ropa Downy Amanecer 2800 ml,Cuidado del Hogar,Limpieza de la Ropa
 249029,Suavizante Ropa Downy Exotico 700 ml,Cuidado del Hogar,Limpieza de la Ropa
 249030,Suavizante Ropa Downy Exotico 1400 ml,Cuidado del Hogar,Limpieza de la Ropa
@@ -8458,6 +8465,7 @@ id_producto,producto,categoria,subcategoria
 302854,Lavandina Lider Poder Desinfectante 1 L,Cuidado del Hogar,Limpieza de la Ropa
 302855,Lavavajilla Lider Limon 1050 ml,Cuidado del Hogar,Limpieza de Cocina
 302861,Limpiador de Baño Lider Saca Sarro 1 L,Cuidado del Hogar,Limpieza de Baños
+302879,Vino Riccitelli Malbec Cabernet Franc 750 ml,Bebidas,Vinos y Champagne
 303006,Chocolate Cofler Aireado con Almendra 55 gr,Abarrotes,Golosinas - Varias
 303101,Fideo Pezzullo Spaguetti 500 gr,Abarrotes,Básicos
 303171,Mani Alimentarte con Pasas 80 gr,Abarrotes,Snack
@@ -11125,6 +11133,7 @@ id_producto,producto,categoria,subcategoria
 460223,Cafe Iguazu Gourmet 100 gr,Abarrotes,Café y Sucedáneos
 460225,Cafe Iguazu Cappuccino Classico 200 gr,Abarrotes,Café y Sucedáneos
 460226,Cafe Iguazu Cappuccino Chocolate 200 gr,Abarrotes,Café y Sucedáneos
+460229,VINAGRE CASTELO TINTO 500 ML,Abarrotes,Básicos
 460273,Toallas Humedas Pequeñin Aloe Vera 50 un,Cuidado del Bebé,Cuidado del Bebé
 460545,Dermocutyl Wash Limpiador en Gel 100 ml,Cuidado Personal,Cuidado de la Piel
 460688,Digestan Fiesta x 1 sobres,Cuidado Personal,Cuidado de la Piel
@@ -12416,6 +12425,7 @@ id_producto,producto,categoria,subcategoria
 550970,Vinagre Doña Filo Frutilla 750 ml,Abarrotes,Básicos
 550971,Avena Instantanea Princesa Caja 300 gr,Abarrotes,Nutrición Infantil
 550972,SAL AHUMADA SABORATI DP 220G,Abarrotes,Básicos
+550976,SAL C CHIMICHURRI SABORATI DP 220G,Abarrotes,Básicos
 550977,Alimento Dog Chow Adulto Cordero 100 gr,Abarrotes,Mascotas
 550978,Alimento Dog Chow Extralife Pollo 100 gr,Abarrotes,Mascotas
 550979,Alimento Dentalife Raza Pequeña 42 gr,Abarrotes,Mascotas
@@ -13409,6 +13419,7 @@ id_producto,producto,categoria,subcategoria
 552807,PACK 2 GOMITA FRUGELE 1CALABAZA,Abarrotes,Temporada
 552808,LICOR CITRICUS LIMONCELLO  700 ML,Bebidas,Licores
 552809,Licor Arancello Citricus 700 ml,Bebidas,Licores
+552810,Licor Tunqui Café 700 ml,Bebidas,Licores
 552811,SINGANI NUMINA 750 ML,Bebidas,Licores
 552812,Yogurt Delizia Tiki Tito Sabor Platano 50 gr,Lácteos y Derivados,Yogures
 552813,Galleta Princesa Ricositas 700 gr,Abarrotes,Galletas
@@ -13721,6 +13732,7 @@ id_producto,producto,categoria,subcategoria
 553209,Gaseosa Pepsi Black 2 L,Bebidas,Gaseosas
 553210,PATAS DE POLLO COMIPET 10 UN,Abarrotes,Mascotas
 553211,MOLLEJAS DE POLLO COMIPET 80 GR,Abarrotes,Mascotas
+553212,PECHUGA DESHID COMIPET 80 GR,Abarrotes,Mascotas
 553213,Ispi Deshidratado Comipet 40 gr,Abarrotes,Mascotas
 553214,GASEOSA FRISCH COCO LOCO S AZÚCAR 1 LT,Bebidas,Gaseosas
 553215,GASEOSA FRISCH CHIRIMOYA S AZÚCAR 1 LT,Bebidas,Gaseosas
@@ -14851,8 +14863,10 @@ id_producto,producto,categoria,subcategoria
 629773,Fideo Espagueti Barilla N°7 500 gr,Abarrotes,Productos Americanos
 629774,Fideo Spaghetti Barilla N°5 200 gr,Abarrotes,Productos Americanos
 629775,Fideo Espagueti Barilla N°7  200 gr,Abarrotes,Productos Americanos
+629776,CEREAL MANZANA Y CANELA APPLE JACKS 374 GR,Abarrotes,Productos Americanos
 629782,AGUA DE MESA EVIAN NATURAL SPRING WATER 750ML,Bebidas,Bebidas Usa
 629783,EVIAN AGUA CARBONATADA SPARKLING CARBONATED 750ML,Bebidas,Bebidas Usa
+629784,LUCKY CHARMS CHOCOLATE MALVAVISCOS 300GR,Abarrotes,Productos Americanos
 629788,HAPPY VIBES MOJITO 1LT,Bebidas,Bebidas Usa
 629789,HAPPY VIBES PINA COLADA 1LT,Bebidas,Bebidas Usa
 630010,Alimento Pedigree Cachorro 1.5 kg,Abarrotes,Mascotas
@@ -17197,6 +17211,7 @@ id_producto,producto,categoria,subcategoria
 668420,W PALETA DE 5 SOMBRAS PETALETTE COLOR IC,Cuidado Personal,Cuidado de la Piel
 668421,W PALETA DE 5 SOMBRAS CAMO FLAUNT - COLO,Cuidado Personal,Cuidado de la Piel
 668426,W LAPIZ DE CEJAS RETRACTIL MEDIUM BROWN,Cuidado Personal,Cuidado de la Piel
+668440,TC PALTA X UND,Frutas y Verduras,Verduras
 668486,Lavandida Mr.Cloro en Gel 1 L,Cuidado del Hogar,Limpieza de la Ropa
 668487,PERLITA HOJA DOBLE SUPER MEGA 4X12,Cuidado Personal,Cuidado Familiar
 668488,Papel Higienico Perlita Mega Soft 12 un,Cuidado Personal,Cuidado Familiar
@@ -17483,10 +17498,10 @@ id_producto,producto,categoria,subcategoria
 669049,GUANTE NEGRO EXTRA GRUESO7 1/2; 8; 8 1/2,Cuidado del Hogar,Accesorios del Hogar
 669050,BYPHASSE CREMA CARA Y CUERPO TODO TIPO D,Cuidado Personal,Cuidado de la Piel
 669052,BYPHASSE CREMA CORPORAL CON EXTRACTO DE,Cuidado Personal,Cuidado de la Piel
-669055,BYPHASSE FAMILY FRESH SHAMPOO 2 EN 1 TOD,Cuidado Personal,Cuidado del Cabello
+669055,Shampoo Byphasse Family Fresh 2 en 1,Cuidado Personal,Cuidado del Cabello
 669057,Shampoo Byphasse Family Fresh Coco,Cuidado Personal,Cuidado del Cabello
 669058,BYPHASSE FAMILY FRESH SHAMPOO TÉ VERDE &,Cuidado Personal,Cuidado del Cabello
-669059,BYPHASSE FAMILY FRESH MASCARILLA CAPILAR,Cuidado Personal,Cuidado del Cabello
+669059,Mascarilla Capilar Byphasse Family Fresh,Cuidado Personal,Cuidado del Cabello
 669060,BYPHASSE FAMILY FRESH MASCARILLA CAPILAR,Cuidado Personal,Cuidado del Cabello
 669061,Acondicionador Byphasse Family Fresh Palta,Cuidado Personal,Cuidado del Cabello
 669062,Acondicionador Byphasse Family Fresh Coco,Cuidado Personal,Cuidado del Cabello
@@ -17590,6 +17605,7 @@ id_producto,producto,categoria,subcategoria
 669303,VASELINA  ZURLY BABY 25 G,Cuidado del Bebé,Cuidado del Bebé
 669304,VASELINA ZURLY PURE 25 G,Cuidado del Bebé,Cuidado del Bebé
 669305,Vaselina Zurly Aloe Vera 25 gr,Cuidado del Bebé,Cuidado del Bebé
+669307,Vaselina Zurly Coconut 25 gr,Cuidado del Bebé,Cuidado del Bebé
 669308,Vaselina Zurly Pure 185 gr,Cuidado del Bebé,Cuidado del Bebé
 669309,Vaselina Zurly Chamomile Rose 185 gr,Cuidado del Bebé,Cuidado del Bebé
 669310,Vaselina Zurly Aloe Vera 185 gr,Cuidado del Bebé,Cuidado del Bebé
@@ -18523,6 +18539,7 @@ id_producto,producto,categoria,subcategoria
 673164,Pan Molde Santonio con Cereales,Panadería,Panadería Externa
 673165,LETS BE CAPPUCCINO 240 ML,Lácteos y Derivados,Leches
 673168,TROCITOS D TRUCHA TITIKAKA LIMON 140G,Abarrotes,Comidas en Conserva
+673172,Queso Parmesano Queseria Suiza Al Vacio,Lácteos y Derivados,Quesos
 673175,Queso Tipo Gruyere Queseria Suiza Al Vacio,Lácteos y Derivados,Quesos
 673177,Queso Tilsit Queseria Suiza Al Vacio,Lácteos y Derivados,Quesos
 673183,Helado Delizia Rocky Cono,Congelados,"Helados, Cassattas y Picoleses"
@@ -19167,6 +19184,8 @@ id_producto,producto,categoria,subcategoria
 674426,Queso Criollo kg,Lácteos y Derivados,Quesos
 674427,Tortilla Tacos Lucky Pequeña 12 un,Congelados,Masas y Comidas Congeladas
 674428,Tortilla Tacos Lucky Mediana  12 un,Congelados,Masas y Comidas Congeladas
+674429,CROPPERS MANTEQUILLA DE MANI 305 GRS,Lácteos y Derivados,Mantequillas y Margarinas
+674430,CROPPERS PASTA DE MANI 305 GRS,Lácteos y Derivados,Mantequillas y Margarinas
 674432,POSTRE HELADO DELIZIA DELI VEGGIE QUINUA CHOCOLATE 400ML,Congelados,"Helados, Cassattas y Picoleses"
 675245,Miel de Abeja Eva Promiel 250 gr,Abarrotes,"Mermel, Mieles"
 676113,Habanito Bits Cream Coojies Cream 120 gr,Congelados,"Helados, Cassattas y Picoleses"
@@ -22638,6 +22657,7 @@ id_producto,producto,categoria,subcategoria
 857830,Kale Granja Ventilla 1 un,Frutas y Verduras,Gourmet
 857884,CH S5 41 BOTA NAVIDENA ROJO CON VERDE PAPA NOEL 30X20CM,Bazar Importación,Temporada Navidad
 857961,Manzana Rosada 1 kg,Frutas y Verduras,Frutas
+857976,CP PALTA X UND,Frutas y Verduras,Verduras
 857996,CH S8 2 MUNECO JENGIBRE C CHALECO MUNECA JENGIBRE 50CM,Bazar Importación,Temporada Navidad
 857997,CH S8 3 MUEECO JENGIBRE CON PANTALON VERDE 38CM,Bazar Importación,Temporada Navidad
 858003,CH S9 2 GNOMO BLANCO Y PLATEADO CON ZAPATOS PLATEADOS,Bazar Importación,Temporada Navidad
