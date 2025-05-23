@@ -1654,6 +1654,7 @@ id_producto,producto,categoria,subcategoria
 25093,ISOTONICO REAKTORADE MORA ZERO SPORT 1LT,Bebidas,Isotónicos
 25097,Pack 12 Cerveza Budweiser 269 ml,Bebidas,Cervezas
 25098,ISOTONICO REAKTORADE UVA SIN AZUC 1LT,Bebidas,Isotónicos
+25099,"AVENA CREEK MIX LA ORURENA MIEL,PASAS 50",Abarrotes,Nutrición Infantil
 25104,Chupete Bon Bon Bum Uva Fresa 336 gr,Abarrotes,Chocolates y Caramelos
 25108,Isotonico Sante Vitam Naranja Limon 1 L,Bebidas,Isotónicos
 25109,Isotonico Sante Colageno Limon 1 L,Bebidas,Isotónicos
@@ -1675,12 +1676,15 @@ id_producto,producto,categoria,subcategoria
 25134,ENERGIZANTE RUSH BONNY LOVY 269 ML,Bebidas,Energizantes
 25135,AGUA DE COCO RENUKA TETRA 330ML,Bebidas,Bebidas Varias
 25136,AGUA DE COCO RENUKA TETRA 1LT,Bebidas,Bebidas Varias
+25140,"MARSHMALLOW OLE OLE FESTIVAL 202,5G",Abarrotes,Chocolates y Caramelos
 25142,MANI CROPPERS SAB PANCETA 85G,Abarrotes,Snack
 25145,JUGO VALLE FRESH TROPICAL PUNCH 3LT,Bebidas,"Jugos, Néctar"
 25146,JUGO VALLE FRESH TROPICAL PUNCH 2LT,Bebidas,"Jugos, Néctar"
 25149,MANI CROPPERS CREMA CEBOLLA BSA 85G,Abarrotes,Snack
 25150,MANI CROPPERS BBQ BSA 85G,Abarrotes,Snack
 25151,MANI CROPPERS PARMES PIMIENTA 85G,Abarrotes,Snack
+25155,PACK 2MARSELAN ROSE C MARCA COPAS,Bebidas,Vinos y Champagne
+25157,PACK 2 SALVIETTI PAPAYA 600ML,Bebidas,Gaseosas
 25640,Surtido de Mariscos Robinson Crusoe Natural 190 gr,Abarrotes,Comidas en Conserva
 25771,Huevos Caisy 12 un,Lácteos y Derivados,Huevos
 25789,Galleta Rocklets Chocolate 118 gr,Abarrotes,Galletas
@@ -2501,6 +2505,7 @@ id_producto,producto,categoria,subcategoria
 30955,Vape Waka Nova Sour Blueberry 16000 Puffs,Bebidas,Cigarrillos
 30956,Vape Waka Nova Passion Fruit 16000 Puffs,Bebidas,Cigarrillos
 30957,Yerba Mate Colon Selección Especial 1 kg,Abarrotes,Café y Sucedáneos
+30958,PRIMOGATO BLEND ADULTO 500GR,Abarrotes,Mascotas
 30961,Licor Mexica Tequila Sal Limon 700 ml,Bebidas,Licores
 30962,Edulcorante  Sucranova Duo Liquido 270 ml,Abarrotes,Dietéticos y Saludables
 30963,Mejillones Ramirez Marinera 111 gr,Abarrotes,Comidas en Conserva
@@ -3151,6 +3156,7 @@ id_producto,producto,categoria,subcategoria
 62779,Gelatina de Pata Tomay 150 gr,Abarrotes,Repostería
 62780,Gelatina Dami Sin Sabor 45 gr,Abarrotes,Repostería
 62782,Ambientador Aerosol Glade Harmony 360 ml,Cuidado del Hogar,Limpieza de Living y Ropero
+62801,Flan Dami Vainilla 120 gr,Abarrotes,Repostería
 62802,Flan Dami Fresa 120 gr,Abarrotes,Repostería
 62803,Flan Dami Chocolate 120 gr,Abarrotes,Repostería
 63101,Vino Viña de Balbo Blanco 1125 ml,Bebidas,Vinos y Champagne
@@ -8033,7 +8039,7 @@ id_producto,producto,categoria,subcategoria
 249057,Bloqueador Portugal Bahia Sport Spf 50 60 gr,Cuidado Personal,Cuidado de la Piel
 249058,GEL FIJADOR SUPER FIX  275G,Cuidado Personal,Cuidado del Cabello
 249061,Protector Solar Sunbeat 50 + Diario 90 gr,Cuidado Personal,Cuidado de la Piel
-249062,PROT SOLAR SUNBEAT 50+ SPORT 200G,Cuidado Personal,Cuidado de la Piel
+249062,Protector Solar Sunbeat 50 + Sport 200 gr,Cuidado Personal,Cuidado de la Piel
 249063,Talco Pie Silka 150 gr,Cuidado Personal,Cuidado de la Piel
 249070,VAJILLERO MAXIBRILL 5LT,Cuidado del Hogar,Limpieza de Cocina
 249072,PACK MAXIBRILL VAJILLERO Y ANTIGRASA 600 ML,Cuidado del Hogar,Limpieza de Cocina
@@ -17639,12 +17645,15 @@ id_producto,producto,categoria,subcategoria
 669325,PACK SERUM RETINOL + UV DEFENDER FLUIDO,Cuidado Personal,Cuidado de la Piel
 669326,PACK RETINOL SERUM + CREMA DIARIA,Cuidado Personal,Cuidado de la Piel
 669327,LIMPIA PISOS FRESCURA NATURAL 900 ML,Cuidado del Hogar,Limpieza de Baños
+669328,Limpiador de Piso Frescura Natural 1800 ml,Cuidado del Hogar,Limpieza de Baños
+669329,	LIMPIA PISOS FRESCURA NATURAL 5000 ML,Cuidado del Hogar,Limpieza de Baños
 669331,Jabon Intimo Manzanilla Calendula 220 ml,Cuidado Personal,Cuidado del Adulto
 669332,Jabon Intimo Ph Defense 220 ml,Cuidado Personal,Cuidado del Adulto
 669336,SEDAL SH LUMINOUS  12X190ML,Cuidado Personal,Cuidado del Cabello
 669337,SEDAL AC LUMINOUS 12X190ML,Cuidado Personal,Cuidado del Cabello
 669344,PAPEL TOALLA TRENDS HOJA DOBLE 22.5CMX20,Cuidado del Hogar,Limpieza de Cocina
 669347,PAPEL HIGINICO NESS 12ROLLOS,Cuidado Personal,Cuidado Familiar
+669350,TRIPACK ESPONJAS SB X4 + 6 UNID GANCHERA,Cuidado del Hogar,Accesorios del Hogar
 669901,Pizza Hipermaxi Congelada Hawaiana 620 gr,Congelados,Masas y Comidas Congeladas
 669902,Pizza Hipermaxi Congelada Jamon Queso Light Masa Integral,Congelados,Masas y Comidas Congeladas
 669903,Pizza Hipermaxi Congelada Pepperoni 620 gr,Congelados,Masas y Comidas Congeladas
@@ -19205,6 +19214,7 @@ id_producto,producto,categoria,subcategoria
 674428,Tortilla Tacos Lucky Mediana  12 un,Congelados,Masas y Comidas Congeladas
 674429,CROPPERS MANTEQUILLA DE MANI 305 GRS,Lácteos y Derivados,Mantequillas y Margarinas
 674430,CROPPERS PASTA DE MANI 305 GRS,Lácteos y Derivados,Mantequillas y Margarinas
+674431,MINI TORTA TRES LECHES DELIZIA 850ML,Congelados,"Helados, Cassattas y Picoleses"
 674432,POSTRE HELADO DELIZIA DELI VEGGIE QUINUA CHOCOLATE 400ML,Congelados,"Helados, Cassattas y Picoleses"
 675245,Miel de Abeja Eva Promiel 250 gr,Abarrotes,"Mermel, Mieles"
 676113,Habanito Bits Cream Coojies Cream 120 gr,Congelados,"Helados, Cassattas y Picoleses"
@@ -19368,7 +19378,7 @@ id_producto,producto,categoria,subcategoria
 677936,Jamon Ahumado Pio Rico kg,Fiambres,Fiambres Externos
 677938,Pate Grande Pio Rico un,Fiambres,Fiambres Externos
 677939,Pate Pequeño Pio Rico un,Fiambres,Fiambres Externos
-677953,PAVO CONGELADO SOFIA  KILOGRAMO,Congelados,Carnes Congeladas
+677953,Pavo Sofia Congelado,Congelados,Carnes Congeladas
 677954,Pollo Relleno Valenciana Sofia,Congelados,Carnes Congeladas
 677996,Alfajores Adelita de Color 200 gr,Pastelería y Masas Típicas,Pastelería Externa
 677997,Placas de Merengue Adelita 150 gr,Pastelería y Masas Típicas,Pastelería Externa
@@ -19426,6 +19436,7 @@ id_producto,producto,categoria,subcategoria
 678369,Queso Cheddar Queseria Suiza kg,Lácteos y Derivados,Quesos
 678370,Queso Roca Flor de Leche Illimani Añejo kg,Lácteos y Derivados,Quesos
 678398,Mantequilla Delizia con Sal 200 gr,Lácteos y Derivados,Mantequillas y Margarinas
+678401,TORTA CORAZON DELIZIA UNIDAD,Congelados,"Helados, Cassattas y Picoleses"
 678429,Leche Pil Cremosa Uht 1.1 L,Lácteos y Derivados,Leches
 678444,Virutilla Virutex Extra Gruesa,Cuidado del Hogar,Accesorios del Hogar
 678445,Alfajores Bazali 10 un,Pastelería y Masas Típicas,Pastelería Externa
