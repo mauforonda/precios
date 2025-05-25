@@ -1676,6 +1676,7 @@ id_producto,producto,categoria,subcategoria
 25134,ENERGIZANTE RUSH BONNY LOVY 269 ML,Bebidas,Energizantes
 25135,AGUA DE COCO RENUKA TETRA 330ML,Bebidas,Bebidas Varias
 25136,Agua de Coco Renuka 1 L,Bebidas,Bebidas Varias
+25137,CHOCOLATE TWIX ORIGINAL 15G,Abarrotes,Golosinas - Varias
 25140,"MARSHMALLOW OLE OLE FESTIVAL 202,5G",Abarrotes,Chocolates y Caramelos
 25142,MANI CROPPERS SAB PANCETA 85G,Abarrotes,Snack
 25145,Jugo del Valle Fresh Tropical Punch 3 L,Bebidas,"Jugos, Néctar"
@@ -1686,6 +1687,7 @@ id_producto,producto,categoria,subcategoria
 25155,PACK 2MARSELAN ROSE C MARCA COPAS,Bebidas,Vinos y Champagne
 25157,Pack 2 Gaseosa Salvietti Papaya 600 ml,Bebidas,Gaseosas
 25168,GALLETA COLOMBINA CRAKENA DORADITA 224G,Abarrotes,Galletas
+25174,TWOPACK HIDRATANTE LIFE 500ML,Bebidas,Isotónicos
 25640,Surtido de Mariscos Robinson Crusoe Natural 190 gr,Abarrotes,Comidas en Conserva
 25771,Huevos Caisy 12 un,Lácteos y Derivados,Huevos
 25789,Galleta Rocklets Chocolate 118 gr,Abarrotes,Galletas
@@ -2612,6 +2614,7 @@ id_producto,producto,categoria,subcategoria
 31158,Edulcorante Dezero Sucralosa 250 ml,Abarrotes,Dietéticos y Saludables
 31163,Vino Pulenta Estate Malbec 750 ml,Bebidas,Vinos y Champagne
 31164,Vino Pulenta Estate Red Blend 750 ml,Bebidas,Vinos y Champagne
+31165,Vino Pulenta Estate Sauvignon Blanco 750 ml,Bebidas,Vinos y Champagne
 31166,Mantequilla de Mani Skurzth Clasica 360 gr,Abarrotes,Repostería
 31167,Mantequilla de Mani Skurzth Canela 360 gr,Abarrotes,Repostería
 31168,Mantequilla de Mani Skurzth Chocolate 360 gr,Abarrotes,Repostería
@@ -13319,7 +13322,7 @@ id_producto,producto,categoria,subcategoria
 552676,Chocolate Breick Tableta Blanca 25 gr,Abarrotes,Chocolates y Caramelos
 552677,CHOCOLATE VIZZIO TABLETA LECHE 15 GR,Abarrotes,Chocolates y Caramelos
 552678,PACK 3 FRUT-ALL SABORES TETRA 1 LT,Bebidas,"Jugos, Néctar"
-552679,Four Loko El Bony 473 ml,Bebidas,Licores
+552679,Four Loko Bonny Lovy 473 ml,Bebidas,Licores
 552680,Four Loko El Bony 693 ml,Bebidas,Licores
 552681,Dulce de Membrillo 340 gr,Abarrotes,"Mermel, Mieles"
 552682,Bicervecina El Inca sin Alcohol 620 cc,Bebidas,Bebidas Varias
@@ -13565,6 +13568,7 @@ id_producto,producto,categoria,subcategoria
 552946,Quinua Real Grano Oro Mixta 400 gr,Abarrotes,Nutrición Infantil
 552947,Café de Altura Grano 500 gr,Abarrotes,Café y Sucedáneos
 552948,Café de Altura Molido 500 gr,Abarrotes,Café y Sucedáneos
+552950,Licor Arancello de Altura 750 ml,Bebidas,Licores
 552952,PASTA DE MANI TACKER SIN AZUCAR 360 GR,Lácteos y Derivados,Mantequillas y Margarinas
 552953,VINO DELFIN ROSE 750 ML,Bebidas,Vinos y Champagne
 552954,Cafe Lavazza Descafeinado Molido 250 gr,Abarrotes,Café y Sucedáneos
@@ -13790,6 +13794,7 @@ id_producto,producto,categoria,subcategoria
 553243,SINGANI RUPESTRE PREMIUM 750 ML,Bebidas,Licores
 553244,SINGANI RUPESTRE COLECCION PRIV 750 ML,Bebidas,Licores
 553245,Pack Vino Luz Luna Rose + burbushh Uva,Bebidas,Vinos y Champagne
+553250,CHOCOLATE CONDOR ESTEVIA 100 GR,Abarrotes,Chocolates y Caramelos
 554333,Cerveza Paceña Lata Roja 473 Cc,Bebidas,Cervezas
 554466,Detergente Liquido Ola Futuro Limpieza Completa 5 L,Cuidado del Hogar,Limpieza de la Ropa
 554468,Suavizante Ropa Ola Suavecito Original 5 L,Cuidado del Hogar,Limpieza de la Ropa
@@ -17662,7 +17667,9 @@ id_producto,producto,categoria,subcategoria
 669336,Shampoo Sedal Luminous 190 ml,Cuidado Personal,Cuidado del Cabello
 669337,Acondicionador Sedal Luminous 190 ml,Cuidado Personal,Cuidado del Cabello
 669344,PAPEL TOALLA TRENDS HOJA DOBLE 22.5CMX20,Cuidado del Hogar,Limpieza de Cocina
+669346,SUPER BOLSA 60X63 35LT,Cuidado del Hogar,Accesorios del Hogar
 669347,PAPEL HIGINICO NESS 12ROLLOS,Cuidado Personal,Cuidado Familiar
+669349,TRIPACK ESPOJA TININDO + 6UNID GANCHERAS,Cuidado del Hogar,Accesorios del Hogar
 669350,TRIPACK ESPONJAS SB X4 + 6 UNID GANCHERA,Cuidado del Hogar,Accesorios del Hogar
 669901,Pizza Hipermaxi Congelada Hawaiana 620 gr,Congelados,Masas y Comidas Congeladas
 669902,Pizza Hipermaxi Congelada Jamon Queso Light Masa Integral,Congelados,Masas y Comidas Congeladas
@@ -19203,7 +19210,7 @@ id_producto,producto,categoria,subcategoria
 674385,MUFFIN CON RELLENO ARANDANOS,Pastelería y Masas Típicas,Pastelería Externa
 674386,Pan Molde Miga King Grande 280 gr,Panadería,Panadería Externa
 674387,Pan Molde Miga King Integral 280 gr,Panadería,Panadería Externa
-674388,PAN HAMBURGUESA EXTRA KING X 10 UNIDADES,Panadería,Panadería Externa
+674388,Pan de Hamburguesa King 10 un,Panadería,Panadería Externa
 674397,Mini Torta Caffe Latte Delizia 850 ml,Congelados,"Helados, Cassattas y Picoleses"
 674399,Budin Delizia Chocolatin 110 gr,Lácteos y Derivados,Postres
 674400,Postre Helado Delizia Cafe de Altura 850 ml,Congelados,"Helados, Cassattas y Picoleses"
