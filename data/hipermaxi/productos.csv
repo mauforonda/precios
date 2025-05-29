@@ -1621,6 +1621,7 @@ id_producto,producto,categoria,subcategoria
 25036,Coctel Coco Blanco 670 ml,Bebidas,Licores
 25037,GIN INSURGENTE POMELO 700 ML,Bebidas,Licores
 25043,MEZCAL DON RAMON ESPADIN 750 ML,Bebidas,Licores
+25044,Mezcla Don Ramon Joven Salmiana 750 ml,Bebidas,Licores
 25046,CERVEZA DUCAL LTA 269ML,Bebidas,Cervezas
 25048,Fideo Nido Paloma 400 gr,Abarrotes,Básicos
 25049,Aceite de Coco Santiago 360 gr,Abarrotes,Básicos
@@ -1690,7 +1691,9 @@ id_producto,producto,categoria,subcategoria
 25157,Pack 2 Gaseosa Salvietti Papaya 600 ml,Bebidas,Gaseosas
 25165,CHOCOLATE VIZZIO COCO CJA 110G,Abarrotes,Chocolates y Caramelos
 25166,GALLETA FRAC NARANJA BSA 110G,Abarrotes,Galletas
+25167,GALLETA COLOMBINA CRAKENA CLUB 192G,Abarrotes,Galletas
 25168,GALLETA COLOMBINA CRAKENA DORADITA 224G,Abarrotes,Galletas
+25170,NESCAFE CAPPUCCINO CJA 112G,Abarrotes,Café y Sucedáneos
 25174,TWOPACK HIDRATANTE LIFE 500ML,Bebidas,Isotónicos
 25640,Surtido de Mariscos Robinson Crusoe Natural 190 gr,Abarrotes,Comidas en Conserva
 25771,Huevos Caisy 12 un,Lácteos y Derivados,Huevos
@@ -1833,6 +1836,7 @@ id_producto,producto,categoria,subcategoria
 26176,Aloe Vera Otro Mundo Sin Azucar 500 ml,Bebidas,Bebidas Varias
 26177,Aloe Vera Otro Mundo Coco Piña 500 ml,Bebidas,Bebidas Varias
 26178,Aloe Vera Otro Mundo Durazo 500 ml,Bebidas,Bebidas Varias
+26180,Yuca Picada Dorichips 100 gr,Abarrotes,Snack
 26184,Pipoca Loca Dulce Tutti Frutti 110 gr,Abarrotes,Snack
 26185,Pico Pico Snack Camaro Mantequilla Bolita 120 gr,Abarrotes,Snack
 26186,Pico Pico Snack Camaro Queso 120 gr,Abarrotes,Snack
@@ -1925,6 +1929,7 @@ id_producto,producto,categoria,subcategoria
 29089,Café Catunambu Espresso Descafeinado 20 Capsula,Abarrotes,Café y Sucedáneos
 29090,Café Catunambu Ristretto Fuerte 20 Capsula,Abarrotes,Café y Sucedáneos
 29091,Gomita Guandy Corazon Dulce 20 gr,Abarrotes,Golosinas - Varias
+29094,Galleta de Arroz Taste Frutilla 25 gr,Abarrotes,Dietéticos y Saludables
 29095,REFRESCO FUNCIONAL MITTO LIMON 600ML,Bebidas,Bebidas Varias
 29096,Refresco Mitto Frambuesa Uva 600 ml,Bebidas,Bebidas Varias
 29097,Hoja de Guayaba Deshidratada para Infusion 90 gr Alba,Abarrotes,Café y Sucedáneos
@@ -3153,6 +3158,7 @@ id_producto,producto,categoria,subcategoria
 62190,Galleta Mazzei Cracker Tradicional 100 gr,Abarrotes,Galletas
 62191,Galleta Mazzei Cracker Salvado 190 gr,Abarrotes,Galletas
 62510,Yerba Mate Colon Compuesta 500 gr,Abarrotes,Café y Sucedáneos
+62511,Yerba Mate Colon Menta Boldo 500 gr,Abarrotes,Café y Sucedáneos
 62600,Aceituna Del Bono 2 kg,Abarrotes,Verduras en Conserva
 62618,Aceituna Del Bono Verde 500 gr,Abarrotes,Verduras en Conserva
 62626,Aceituna Del Bono Verde 220 gr,Abarrotes,Verduras en Conserva
@@ -6545,6 +6551,7 @@ id_producto,producto,categoria,subcategoria
 209070,REFILES FRESH AIR SILKY SATIN 250 ML,Cuidado del Hogar,Limpieza de Living y Ropero
 209071,PAPEL TOALLA DE COCINA CLIN  200 MTS,Cuidado del Hogar,Limpieza de Cocina
 209072,PASTILLA COLGANTES ALL VALUE AROMA SURTI,Cuidado del Hogar,Limpieza de Baños
+209078,Shampoo Tio Nacho Ultra Hidratante 950 ml,Cuidado Personal,Cuidado del Cabello
 209080,Jabon Barra Farmax Esfoliante 100 gr,Cuidado Personal,Cuidado de la Piel
 209086,NECESER LUNARES BTOX BABARIA,Cuidado Personal,Cuidado de la Piel
 209087,Limpiador Todo Brillo Marmol Grano 360 ml,Cuidado del Hogar,Limpieza de Living y Ropero
@@ -6558,6 +6565,7 @@ id_producto,producto,categoria,subcategoria
 209108,GEL DUCHA PORTUGAL QUINUA  AVENA 470 ML,Cuidado Personal,Cuidado de la Piel
 209121,PACK ROCIO SENSACIONES 3X360 ML,Cuidado del Hogar,Limpieza de Living y Ropero
 209122,AMBIENTADOR GLADE HAWA BREE 270 ML,Cuidado del Hogar,Limpieza de Living y Ropero
+209123,Ambientador Galde Repuesto Topical 270 ml,Cuidado del Hogar,Limpieza de Living y Ropero
 209127,CAREY QUITAESMALTE BRISAS 65 ML,Cuidado Personal,Cuidado de la Piel
 209163,Galleta de Avena Almendra Vikinger,Panadería,Panadería Externa
 209260,Agua Destilada 1 L,Bazar,Automotriz
@@ -17692,6 +17700,7 @@ id_producto,producto,categoria,subcategoria
 669350,TRIPACK ESPONJAS SB X4 + 6 UNID GANCHERA,Cuidado del Hogar,Accesorios del Hogar
 669351,TB DETER EN POLVO FLORAL C/SUAV 1X9.5KG,Cuidado del Hogar,Limpieza de la Ropa
 669352,TB DETER POLVO MATIC C/SUAV 1X9.5KG,Cuidado del Hogar,Limpieza de la Ropa
+669360,ORALB PACK CEPILLOS ADVAN 7 BENEF 3 PZAS,Cuidado Personal,Cuidado Bucal
 669361,GILL PREST3 CARBON 2PX72U,Cuidado Personal,Cuidado de la Piel
 669901,Pizza Hipermaxi Congelada Hawaiana 620 gr,Congelados,Masas y Comidas Congeladas
 669902,Pizza Hipermaxi Congelada Jamon Queso Light Masa Integral,Congelados,Masas y Comidas Congeladas
@@ -20098,7 +20107,7 @@ id_producto,producto,categoria,subcategoria
 762613,Yogurt San Javier Coco Light 200 ml,Lácteos y Derivados,Yogures
 762635,Yogurt Light San Javier Durazno 200 ml,Lácteos y Derivados,Yogures
 762636,Chorizo Churrasquero Sofia a Granel kg,Fiambres,Fiambres Externos
-762746,YOGURT LIGHT MARACUYA PEQ SAN JAVIER 850 ML.,Lácteos y Derivados,Yogures
+762746,Yogurt San Javier Light Maracuya 850 ml,Lácteos y Derivados,Yogures
 762754,Yogurt Bebible Friedland Artesanal Chirimoya 2 L,Lácteos y Derivados,Yogures
 763224,Mantequilla Sabor Brasuco Ajo Gourmet 200 gr,Lácteos y Derivados,Mantequillas y Margarinas
 763240,Galleta Chatitas Blanca La Delicia,Panadería,Panadería Externa
@@ -21865,7 +21874,7 @@ id_producto,producto,categoria,subcategoria
 846428,Flores Artificiales Decoracion,Bazar Importación,Regalos/Adornos
 846429,Flores Artificiales Decoracion con Maceta Gris,Bazar Importación,Regalos/Adornos
 846432,Planta Artificial Hojas Lobuladas con Maceta,Bazar Importación,Regalos/Adornos
-846455,Cafe Colcafe Instantaneo Descafeinado 170 gr,Abarrotes,Café y Sucedáneos
+846455,Cafe Instantaneo Colcafe Ligero Descafeinado 200 g,Abarrotes,Café y Sucedáneos
 846460,Cafe Colcafe Instantaneo Descafeinado 85 gr,Abarrotes,Café y Sucedáneos
 846475,Cafe Colcafe Instantaneo Granulado 170 gr,Abarrotes,Café y Sucedáneos
 846480,Cafe Colcafe Instantaneo Granulado 85 gr,Abarrotes,Café y Sucedáneos
