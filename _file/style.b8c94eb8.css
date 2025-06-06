@@ -68,3 +68,20 @@ table input[type="checkbox"] {
     }
 
 }
+
+.advertencia {
+    
+    font-size: .7rem;
+    text-align: center;
+    font-family: sans-serif;
+
+    a {
+        color: var(--theme-foreground);
+        font-weight: bold;
+        text-decoration: 1px dotted underline;
+        text-underline-offset: 2px;
+    }
+}
+.advertencia::before, .advertencia::after {
+    content: "⚠️";
+}
