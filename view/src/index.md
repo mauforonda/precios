@@ -126,6 +126,9 @@ const tabla = Inputs.table(resultado, {
     reverse: true,
 });
 ```
+<div class="advertencia">
+Estos precios están desactualizados desde el 3 de junio porque la fuente se encuentra <a href="https://www.facebook.com/HipermaxiLPZCBB/posts/pfbid0wEVrQLkuVY7bzYdDRAsQEbnrcJGYaxQrvsqR3Nr8qQ6YWMRNDYtyKzYt9oBF48Vfl">en mantenimiento</a>.
+</div>
 
 <div class="grid grid-cols-3 controls">
     <div class="card grid-colspan-1">
