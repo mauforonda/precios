@@ -17,29 +17,34 @@ sucursales_representativas = {
     "santa_cruz": 91,  # Las Brisas
 }
 hipermaxi = "data/hipermaxi"
+js = "static/js/main.c08b8086.js"
 TIMEOUT = 10
 
 
 def construirHeaders():
     def conseguirMain():
         response = requests.get(
-            "https://hipermaxi.com", verify=False, timeout=TIMEOUT
+            "https://www.hipermaxi.com", verify=False, timeout=TIMEOUT, headers=bare_headers
         )
         js = re.findall(r"src=\"\/static\/js\/(main.+\.js)\">", response.text)[0]
         response = requests.get(
-            f"https://hipermaxi.com/static/js/{js}",
+            f"https://www.hipermaxi.com/static/js/{js}",
             verify=False,
             timeout=TIMEOUT,
+            headers=bare_headers,
         )
         return response.text
+
 
     def conseguirToken():
         response = requests.put(
             "https://hipermaxi.com/tienda-api/api/v1/CuentasMarket/Anonimo-Por-Token",
             verify=False,
             timeout=10,
+            headers=bare_headers,
         )
         return [response.json()["Dato"][i] for i in ["Codigo", "Token"]]
+
 
     def conseguirAplicacion():
         main = conseguirMain()
@@ -53,11 +58,28 @@ def construirHeaders():
             ]
         ]
 
+    bare_headers = {
+        "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:138.0) Gecko/20100101 Firefox/138.0",
+        "Accept": "application/json",
+        "Accept-Language": "en-US,en;q=0.5",
+        "uzlc": "true",
+        "Origin": "https://www.hipermaxi.com",
+        "Sec-GPC": "1",
+        "Connection": "keep-alive",
+        "Referer": "https://www.hipermaxi.com/",
+        "Sec-Fetch-Dest": "empty",
+        "Sec-Fetch-Mode": "cors",
+        "Sec-Fetch-Site": "same-site",
+        "Pragma": "no-cache",
+        "Cache-Control": "no-cache",
+    }
+
     print("preparando sesión ...")
     codigo, token = conseguirToken()
     cuenta, aplicacion, password, grant_type = conseguirAplicacion()
     response = requests.post(
         "https://hipermaxi.com/tienda-api/api/v1/token",
+        headers=bare_headers,
         data=dict(
             grant_type=grant_type,
             aplicacion=aplicacion,
@@ -70,11 +92,13 @@ def construirHeaders():
         timeout=TIMEOUT,
     )
     bearer = response.json()["access_token"]
-    return dict(
-        authorization=f"Bearer {bearer}",
-        origin="https://hipermaxi.com",
-        referer="https://hipermaxi.com",
-    )
+    return {
+        **dict(
+            authorization=f"Bearer {bearer}",
+            origin="https://hipermaxi.com",
+            referer="https://hipermaxi.com",
+        ), **bare_headers
+    }
 
 
 def actualizarSucursales(sesion):

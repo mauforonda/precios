@@ -17,7 +17,8 @@ periodos = {
     60: "hace 2 meses",
     90: "hace 3 meses",
     180: "hace 6 meses",
-    365: "hace 1 año"
+    365: "hace 1 año",
+    900: "hace mil años"
 }
 cobertura = []
 
@@ -36,6 +37,8 @@ def verCambios(pivot, dias):
 
 
 for departamento in departamentos:
+
+    # all available prices
     df = pd.concat(
         [
             pd.read_csv(Path(fuente, departamento, csv), parse_dates=["fecha"])
@@ -43,6 +46,10 @@ for departamento in departamentos:
         ]
     ).pivot_table(index="fecha", columns="id_producto", values="precio")
 
+    # fill forward on missing date
+    df = df.reindex(pd.date_range(df.index[0], df.index[-1], freq="D")).ffill()
+
+    # price changes
     pd.concat(
         [df.iloc[-1].rename("hoy")]
         + [
