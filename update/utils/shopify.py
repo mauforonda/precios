@@ -22,17 +22,17 @@ def getPagina(sesion, domain, pageNum, pageSize=250):
             precio=p["variants"][0]["price"],
         )
 
-    RETRIES = 3
+    RETRIES = 5
     url = f"{domain}/collections/all/products.json?limit={pageSize}&page={pageNum}"
 
     for attempt in range(RETRIES):
+        response = sesion.get(url, timeout=TIMEOUT)
         try:
-            response = sesion.get(url, timeout=TIMEOUT)
             return [parseProducto(producto) for producto in response.json()["products"]]
-        except Exception as e:
-            print(e)
+        except requests.exceptions.JSONDecodeError:
+            print(response.text)
             if attempt < RETRIES:
-                sleep(2)
+                sleep(5)
             else:
                 raise Exception("unavailable source")
 
@@ -57,6 +57,7 @@ def getProductos(domain):
             if len(page) < pageSize:
                 break
             p += 1
+            sleep(1)
     return productos
 
 
