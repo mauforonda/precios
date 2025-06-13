@@ -9,8 +9,9 @@ from pathlib import Path
 PRODUCTOS = "productos.csv"
 PRECIOS = "precios"
 HOY = dt.datetime.now(timezone("America/La_Paz")).date()
+TIMEOUT = 10
 
-def getPagina(domain, pageNum, pageSize=250):
+def getPagina(sesion, domain, pageNum, pageSize=250):
     def parseProducto(p):
         return dict(
             id_producto=p["id"],
@@ -21,21 +22,28 @@ def getPagina(domain, pageNum, pageSize=250):
         )
 
     url = f"{domain}/collections/all/products.json?limit={pageSize}&page={pageNum}"
-    response = requests.get(url)
+    response = sesion.get(url, timeout=TIMEOUT)
     return [parseProducto(producto) for producto in response.json()["products"]]
 
+def crearSesion(retries=3):
+    sesion = requests.Session()
+    sesion.mount("http://", requests.adapters.HTTPAdapter(max_retries=retries))
+    sesion.mount("https://", requests.adapters.HTTPAdapter(max_retries=retries))
+    return sesion
 
 def getProductos(domain):
     pageSize = 250
     p = 1
     productos = []
-    while True:
-        page = getPagina(domain, p, pageSize)
-        productos.extend(page)
-        print(f"{p} consultas: {len(productos)}")
-        if len(page) < pageSize:
-            break
-        p += 1
+
+    with crearSesion() as sesion:
+        while True:
+            page = getPagina(sesion, domain, p, pageSize)
+            productos.extend(page)
+            print(f"{p} consultas: {len(productos)}")
+            if len(page) < pageSize:
+                break
+            p += 1
     return productos
 
 

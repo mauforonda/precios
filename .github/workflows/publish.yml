@@ -1,4 +1,4 @@
-name: Publish
+name: Publish Monitor
 on:
   schedule:
     - cron: '0 4 * * *'
