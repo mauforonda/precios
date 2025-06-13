@@ -20,8 +20,6 @@ jobs:
       - name: update data
         run: |
           python update/hipermaxi.py
-          python update/fidalga.py
-          python update/farmacorp.py
       - name: commit
         run: |
           git config --global user.email "precios-bot@example.com"
