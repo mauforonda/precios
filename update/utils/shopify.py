@@ -5,6 +5,7 @@ import pandas as pd
 import datetime as dt
 from pytz import timezone
 from pathlib import Path
+from time import sleep
 
 PRODUCTOS = "productos.csv"
 PRECIOS = "precios"
@@ -21,8 +22,20 @@ def getPagina(sesion, domain, pageNum, pageSize=250):
             precio=p["variants"][0]["price"],
         )
 
+    RETRIES = 3
     url = f"{domain}/collections/all/products.json?limit={pageSize}&page={pageNum}"
-    response = sesion.get(url, timeout=TIMEOUT)
+
+    for attempt in range(RETRIES):
+        try:
+            response = sesion.get(url, timeout=TIMEOUT)
+            return [parseProducto(producto) for producto in response.json()["products"]]
+        except Exception as e:
+            print(e)
+            if attempt < RETRIES:
+                sleep(2)
+            else:
+                raise Exception("unavailable source")
+
     return [parseProducto(producto) for producto in response.json()["products"]]
 
 def crearSesion(retries=3):
