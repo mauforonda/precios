@@ -3457,6 +3457,7 @@ id_producto,producto,categoria,subcategoria
 100047,Chocolate Submarino Baure 55 Cacao Original 45 gr,Abarrotes,Repostería
 100048,Pack Fernet Branca 750 ml,Bebidas,Licores
 100049,Nacho Dr.Picks Conito Queso 230 gr,Abarrotes,Snack
+100050,Cerveza Bavaria 473 ml,Bebidas,Cervezas
 100055,Emulsion Babyland Neutro 270 ml,Cuidado del Bebé,Cuidado del Bebé
 100056,Jabon De Glicerina Babyland Rosado 750 ml,Cuidado del Bebé,Cuidado del Bebé
 100057,Shampoo Babyland Neutro Lagrima 410 ml,Cuidado del Bebé,Cuidado del Bebé
@@ -7128,6 +7129,7 @@ id_producto,producto,categoria,subcategoria
 223667,Shampoo Carissa Colageno 900 ml,Cuidado Personal,Cuidado del Cabello
 223668,Shampoo Carissa Bioceramidas 900 ml,Cuidado Personal,Cuidado del Cabello
 223669,Pack Ahorra Ambientador Aerosol Glade 2x360 cm,Cuidado del Hogar,Limpieza de Living y Ropero
+223670,Jabon Barra El Macho Limon 220 gr,Cuidado del Hogar,Limpieza de la Ropa
 223671,Pack Shampo Acondicionador Sedal Ceramidas + Tomatodo,Cuidado Personal,Cuidado del Cabello
 223673,Pack Shampo Acondicionador Sedal Rizos + Tomatodo,Cuidado Personal,Cuidado del Cabello
 223674,Pack 2 Shampoo Sedal Zero Caspa + Tomatodo,Cuidado Personal,Cuidado del Cabello
@@ -7558,6 +7560,7 @@ id_producto,producto,categoria,subcategoria
 228023,DEO STICK SPEED BARRA CLINICAL MSS 55 G,Cuidado Personal,Cuidado de la Piel
 228024,DEO SPEED STICK   EN BARRA CLINICAL  55,Cuidado Personal,Cuidado de la Piel
 228028,Gaseosa Coca Cola 2 L,Bebidas,Gaseosas
+228034,MASCARA FRUCTIS PINA HAIR FOOD  300 ML,Cuidado Personal,Cuidado del Cabello
 228045,BIPACK PANAL MI BEBE XG 2 X 36 UND,Cuidado del Bebé,Pañales
 228049,PROTECTOR DIARIO NOSOTRAS  NORMAL 48X10,Cuidado Personal,Cuidado Familiar
 228053,BALDE MAX HOGAR C ESCURRIDOR 12 LTS,Cuidado del Hogar,Accesorios del Hogar
@@ -10352,7 +10355,7 @@ id_producto,producto,categoria,subcategoria
 390595,Paño Tecilar Algodon 45X63 cm,Cuidado del Hogar,Productos Americanos
 390640,Cereal Kelloggs Musli Manzana 300 gr,Abarrotes,Nutrición Infantil
 390658,Galleta Opera Bagley 92 gr,Abarrotes,Galletas
-390755,Cerveza Budweiser Arg 330 ml,Bebidas,Cervezas
+390755,Cerveza Budweiser Botella 330 ml,Bebidas,Cervezas
 390854,Mopa Tucan 350 gr,Cuidado del Hogar,Accesorios del Hogar
 390879,Paño De Vajilla Ositos,Cuidado del Hogar,Productos Americanos
 390907,Crema Algabo Miel Almendra 200 ml,Cuidado Personal,Cuidado de la Piel
@@ -12823,7 +12826,7 @@ id_producto,producto,categoria,subcategoria
 551626,Vino Excellens Marques de Caceres Rose 750 ml,Bebidas,Vinos y Champagne
 551628,Vino Antigal Uno Rose 750 ml,Bebidas,Vinos y Champagne
 551630,Musli Manzana Canela Monkeys 410 gr,Abarrotes,Nutrición Infantil
-551631,MUSLI MONKEYS COCO VAIN PROTEINA 410G,Abarrotes,Nutrición Infantil
+551631,Musli Monkeys Coco Vain Proteina 410 gr,Abarrotes,Nutrición Infantil
 551632,Musli Frutilla Choc Monkeys 410 gr,Abarrotes,Nutrición Infantil
 551633,Musli Almendra Choc Monkeys 410 gr,Abarrotes,Nutrición Infantil
 551634,Musli Arandano Choc Monkeys 410 gr,Abarrotes,Nutrición Infantil
@@ -13869,6 +13872,7 @@ id_producto,producto,categoria,subcategoria
 553238,Galleta Colombina Doraditas 364 gr,Abarrotes,Galletas
 553239,Galleta Colombina Saltin 200 gr,Abarrotes,Galletas
 553240,MIEL DE ABEJA COSTENITA 450 GR,Abarrotes,"Mermel, Mieles"
+553241,CHUPETE YOGUETA CHICLE SURTIDO 360 GR,Abarrotes,Chocolates y Caramelos
 553242,VINO D FINCA BLANCO COSECHA TARDIA 750ML,Bebidas,Vinos y Champagne
 553243,SINGANI RUPESTRE PREMIUM 750 ML,Bebidas,Licores
 553244,SINGANI RUPESTRE COLECCION PRIV 750 ML,Bebidas,Licores
@@ -13884,6 +13888,7 @@ id_producto,producto,categoria,subcategoria
 553256,GOMITA REGALIZ TUBES UVA 15G,Abarrotes,Golosinas - Varias
 553257,Gomita Fini Regaliz Tubes Tutti Fruti 15 gr,Abarrotes,Golosinas - Varias
 553258,Gomita Regaliz Tubos Colores 15 gr,Abarrotes,Golosinas - Varias
+553259,GOMITA REGALIZ TUBES FRESA 15G,Abarrotes,Golosinas - Varias
 553268,PACK BREICK DIA DE LA MADRE,Abarrotes,Chocolates y Caramelos
 553271,ISOTONICO AQUALITE FRUIT PUNCH 500ML,Bebidas,Isotónicos
 553272,ISOTONICO AQUALIFE BLUE BERRY 500ML,Bebidas,Isotónicos
@@ -13896,6 +13901,7 @@ id_producto,producto,categoria,subcategoria
 553284,BARRAS DE CEREAL ANDES TROPICO SURT 148,Abarrotes,Nutrición Infantil
 553294,WAFER CARSA DADITOS BROWNIE 300 GR,Abarrotes,Galletas
 553295,WAFER CARSA DADITOS CAPUCHINO 300 GR,Abarrotes,Galletas
+553297,GALLETA SALADA SUPREMA CHAPITAS 141GR,Abarrotes,Galletas
 554333,Cerveza Paceña Lata Roja 473 Cc,Bebidas,Cervezas
 554466,Detergente Liquido Ola Futuro Limpieza Completa 5 L,Cuidado del Hogar,Limpieza de la Ropa
 554468,Suavizante Ropa Ola Suavecito Original 5 L,Cuidado del Hogar,Limpieza de la Ropa
@@ -18964,6 +18970,7 @@ id_producto,producto,categoria,subcategoria
 673681,Requeson Jolden 250 gr,Lácteos y Derivados,Quesos
 673709,Pack Salchicha Stege San Juan Viena con Piel,Fiambres,Temporada San Juan Externos
 673710,Pack Salchicha Stege San Juan Extra Larga Sin Piel,Fiambres,Temporada San Juan Externos
+673711,Pack Salchicha Torito San Juan Larga,Fiambres,Temporada San Juan Externos
 673714,Mini Salchicha Torito sin Piel kg,Fiambres,Fiambres Externos
 673715,Salchicha Hadoquera Ahumada Sofia kg,Fiambres,Fiambres Externos
 673717,Go Gurt Kream Maracuya 110 ml,Lácteos y Derivados,Yogures
@@ -23936,7 +23943,7 @@ id_producto,producto,categoria,subcategoria
 937835,Cepillo de Cabello Condor Sissi,Bazar,Bijouteria/Cuidado Personal
 937836,CEPILLO P/CABELLO RAQUEL CONDOR 6807,Bazar,Bijouteria/Cuidado Personal
 937837,CEPILLO P/CABELLO MARISA M CONDOR 6820,Bazar,Bijouteria/Cuidado Personal
-937838,CEPILLO P/CABELLO SIMONE M CONDOR 6871,Bazar,Bijouteria/Cuidado Personal
+937838,Cepillo de Cabello Condor Simone,Bazar,Bijouteria/Cuidado Personal
 937839,Set Peine Condor 3 un Sm 110,Bazar,Bijouteria/Cuidado Personal
 937843,Set Peine Condor 2 un Sm 120,Bazar,Bijouteria/Cuidado Personal
 937845,Set Peine Condor 2 un,Bazar,Bijouteria/Cuidado Personal
@@ -23947,7 +23954,7 @@ id_producto,producto,categoria,subcategoria
 937926,Adaptador Ancho,Bazar,Ferretería
 938317,CP CEPILLO DE CABELLO ELIANE 6853,Bazar,Bijouteria/Cuidado Personal
 938318,Cepillo de Cabello Katia Condor,Bazar,Bijouteria/Cuidado Personal
-938320,CP CEPILLO D/CABELLO MARLENE CONDOR6876,Bazar,Bijouteria/Cuidado Personal
+938320,Cepillo de Cabello Condor Marlene,Bazar,Bijouteria/Cuidado Personal
 938322,CP CEPILLO DE CABELLO MILA CONDOR 9840,Bazar,Bijouteria/Cuidado Personal
 938454,Encendedor de Carbon la Llama Facil Ecologico 1 un,Bazar,Churrasquería
 938655,Escurridor de Platos,Bazar,Menaje Plástico
