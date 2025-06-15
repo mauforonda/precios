@@ -7,6 +7,8 @@ from pytz import timezone
 from pathlib import Path
 from time import sleep
 
+from utils.general import crearSesion, saveProductos
+
 PRODUCTOS = "productos.csv"
 PRECIOS = "precios"
 HOY = dt.datetime.now(timezone("America/La_Paz")).date()
@@ -36,14 +38,6 @@ def getPagina(sesion, domain, pageNum, pageSize=250):
             else:
                 raise Exception("unavailable source")
 
-    return [parseProducto(producto) for producto in response.json()["products"]]
-
-def crearSesion(retries=3):
-    sesion = requests.Session()
-    sesion.mount("http://", requests.adapters.HTTPAdapter(max_retries=retries))
-    sesion.mount("https://", requests.adapters.HTTPAdapter(max_retries=retries))
-    return sesion
-
 def getProductos(domain):
     pageSize = 250
     p = 1
@@ -69,29 +63,8 @@ def organize(productos):
     definiciones = df[["id_producto", "producto", "proveedor", "categoria"]].copy()
     return precios, definiciones
 
-def save(dataDirectory, precios, definiciones):
-    print("Guardando ...")
-    base = Path(dataDirectory)
-    base.mkdir(exist_ok=True)
-    def saveDefiniciones(definiciones):
-        if (base / PRODUCTOS).exists():
-            df = pd.read_csv(base / PRODUCTOS)
-            pd.concat([df, definiciones]).drop_duplicates(subset=["id_producto"], keep="last").to_csv(base / PRODUCTOS, index=False)
-        else:
-            definiciones.to_csv(base / PRODUCTOS, index=False)
-    def savePrecios(precios):
-        (base / PRECIOS).mkdir(exist_ok=True)
-        fn = (base / PRECIOS / HOY.strftime("%Y_%m.csv"))
-        if fn.exists():
-            df = pd.read_csv(fn, parse_dates=["fecha"])
-            pd.concat([df, precios]).to_csv(fn, index=False)
-        else:
-            precios.to_csv(fn, index=False)
-    saveDefiniciones(definiciones)
-    savePrecios(precios)
-
 def getShopify(domain, dataDirectory):
 
   productos = getProductos(domain)
   precios, definiciones = organize(productos)
-  save(dataDirectory, precios, definiciones)
+  saveProductos(dataDirectory, precios, PRECIOS, definiciones, PRODUCTOS, HOY)
