@@ -1640,6 +1640,7 @@ id_producto,producto,categoria,subcategoria
 25064,PACK SUPER SNACKS 6UND,Abarrotes,Snack
 25065,Chupete Bon Bon Bum Sandia Sensat 336 gr,Abarrotes,Chocolates y Caramelos
 25066,Chocolate Vizzio con Mani 70 gr,Abarrotes,Chocolates y Caramelos
+25069,Pasta Taste Cookies And Cream 160 gr,Abarrotes,Repostería
 25070,Sopa Instantanea Zaeli Pimienta 85 gr,Abarrotes,Básicos
 25071,Lomo de Jurel San Jose Ahumado 160 gr,Abarrotes,Comidas en Conserva
 25072,Lomo de Jurel San Jose al Aceite 160 gr,Abarrotes,Comidas en Conserva
@@ -1745,6 +1746,7 @@ id_producto,producto,categoria,subcategoria
 26031,Te Helado Amate Jamica Arandano 500 ml,Bebidas,Bebidas Varias
 26035,Vino Kohlberg Semi Dulce Tinto 700 ml,Bebidas,Vinos y Champagne
 26036,Vino Kohlberg Dulce Rose 700 ml,Bebidas,Vinos y Champagne
+26037,Licor Piña Colada Roble 750 ml,Bebidas,Licores
 26038,SIX PACK CERVEZA PROST BARLEY 6X330ML,Bebidas,Cervezas
 26039,Premezcla Nutrifit Garbanzo Quinuoa 750 gr,Abarrotes,Dietéticos y Saludables
 26040,Galleta Gullon Duo Chocolate 145 gr,Abarrotes,Galletas
@@ -1920,6 +1922,7 @@ id_producto,producto,categoria,subcategoria
 29056,Chocolate Taboada Frutilla 100 gr,Abarrotes,Chocolates y Caramelos
 29057,"Galleta Cofler Relleno Cookies 132,8 gr",Abarrotes,Galletas
 29059,Te Brissol de Tilo  20 Sobres,Abarrotes,Dietéticos y Saludables
+29060,PUDIN MIKI DULCE D LECHE CJA 120G,Abarrotes,Repostería
 29064,Whisky Monkey Shoulder 700 ml,Bebidas,Licores
 29065,VINO CAMPOS DE SOLANA TANNAT UNICO DARK,Bebidas,Vinos y Champagne
 29066,Piña Colada Celosa Spirits 355 ml,Bebidas,Licores
@@ -6585,6 +6588,7 @@ id_producto,producto,categoria,subcategoria
 209087,Limpiador Todo Brillo Marmol Grano 360 ml,Cuidado del Hogar,Limpieza de Living y Ropero
 209088,Limpiador de Acero Inox Todo Brillo,Cuidado del Hogar,Limpieza de Living y Ropero
 209089,TOALLA HUMEDA MICAR PH NEUTRO 100 UNID,Cuidado del Bebé,Cuidado del Bebé
+209091,TOALLA HUMEDA MY CARE MANZANILLA 100 UNI,Cuidado del Bebé,Cuidado del Bebé
 209092,AFEITADORAS BIG FLEX 3X2,Cuidado Personal,Cuidado de la Piel
 209093,Maquina de Afeitar Bic Soleil Clic,Cuidado Personal,Cuidado de la Piel
 209094,Maquina de Afeitar Bic Scape Lavanda,Cuidado Personal,Cuidado de la Piel
@@ -7563,12 +7567,16 @@ id_producto,producto,categoria,subcategoria
 228023,DEO STICK SPEED BARRA CLINICAL MSS 55 G,Cuidado Personal,Cuidado de la Piel
 228024,DEO SPEED STICK   EN BARRA CLINICAL  55,Cuidado Personal,Cuidado de la Piel
 228028,Gaseosa Coca Cola 2 L,Bebidas,Gaseosas
+228032,SHAMPOO  FRUCTIS HAIR FOOD  PINA  300 ML,Cuidado Personal,Cuidado del Cabello
 228034,MASCARA FRUCTIS PINA HAIR FOOD  300 ML,Cuidado Personal,Cuidado del Cabello
 228045,BIPACK PANAL MI BEBE XG 2 X 36 UND,Cuidado del Bebé,Pañales
 228049,PROTECTOR DIARIO NOSOTRAS  NORMAL 48X10,Cuidado Personal,Cuidado Familiar
 228053,BALDE MAX HOGAR C ESCURRIDOR 12 LTS,Cuidado del Hogar,Accesorios del Hogar
+228073,NAFTALINA PERDIGON 100 GR,Cuidado del Hogar,Productos Americanos
 228074,NAFTALINA IBERIA 100 GR,Cuidado del Hogar,Productos Americanos
+228076,TINTE ISSUE EXPRESS 5 MINUTOS RUBIO NATU,Cuidado Personal,Cuidado del Cabello
 228083,PAPEL FINESSE FAMILIA 1 X 32,Cuidado Personal,Cuidado Familiar
+228084,ESPONJA LIMPPANO SUPERWISH MULTIUSO 4UND,Cuidado del Hogar,Accesorios del Hogar
 228145,Ron Havana Club 3 Años 1 L,Bebidas,Licores
 228725,Galleta Granix Cereal 185 gr,Abarrotes,Galletas
 228771,Endulcorante  Chuker con Stevia 250 ml,Abarrotes,Dietéticos y Saludables
@@ -7843,6 +7851,7 @@ id_producto,producto,categoria,subcategoria
 240588,PACK DOVE ROL ON EXTRA FRESH BK 6X2X50ML,Cuidado Personal,Cuidado de la Piel
 240589,TRIPACK MI BEBE TOALLA HUMEDA 3X100 UNDS,Cuidado del Bebé,Cuidado del Bebé
 240590,TOALLAS HUMEDAS  MY CARE X 50 UNDS,Cuidado del Bebé,Cuidado del Bebé
+240592,TOALLA HUMEDA MYCARE  100 UNDS,Cuidado del Bebé,Cuidado del Bebé
 240610,AFTERSUN LECHE REP ECRAN F50 400ML,Cuidado Personal,Cuidado de la Piel
 240611,LECHE PROT + PISTOLA ECRAN F50 270ML,Cuidado Personal,Cuidado de la Piel
 240612,Pack Algabo Baby Shampoo Acondicionador Aceite,Cuidado del Bebé,Cuidado del Bebé
@@ -8191,6 +8200,7 @@ id_producto,producto,categoria,subcategoria
 253110,Crema Garnier Aclarante 30fps 50 ml,Cuidado Personal,Cuidado de la Piel
 253365,Crema Portugal Antiarrugas Q10 Dia 55 gr,Cuidado Personal,Cuidado de la Piel
 253374,Pastilla de Baño Glade Campos Lavanda 25 gr,Cuidado del Hogar,Productos Americanos
+253379,Paño Consorcio Blanco Clean No.087,Cuidado del Hogar,Productos Americanos
 253634,Chocolate Aguila 100 gr,Abarrotes,Chocolates y Caramelos
 253707,Leche Evaporada Pil Lata 400 gr,Abarrotes,Nutrición Infantil
 253774,Cigarrillo Marlboro Rojo 20 un,Bebidas,Cigarrillos
@@ -9646,6 +9656,7 @@ id_producto,producto,categoria,subcategoria
 352985,Salsa Herdez Verde 453 gr,Abarrotes,Productos Americanos
 353030,Espiral Raid 12 Noches 150 gr,Cuidado del Hogar,Productos Americanos
 353031,Paño Mr.Trapo Rejilla 38x40 cm,Cuidado del Hogar,Productos Americanos
+353070,LABIAL LEBLON UNGUENTO X 8GR,Cuidado Personal,Cuidado de la Piel
 353110,Nacho Zacatecas de Maiz 150 gr,Abarrotes,Snack
 353130,Fragancia Corporal Aromasense Intense Kiss 250 ml,Cuidado Personal,Cuidado de la Piel
 353131,Fragancia Corporal Aromasense Intense Life 250 ml,Cuidado Personal,Cuidado de la Piel
@@ -13909,6 +13920,7 @@ id_producto,producto,categoria,subcategoria
 553284,BARRAS DE CEREAL ANDES TROPICO SURT 148,Abarrotes,Nutrición Infantil
 553294,WAFER CARSA DADITOS BROWNIE 300 GR,Abarrotes,Galletas
 553295,WAFER CARSA DADITOS CAPUCHINO 300 GR,Abarrotes,Galletas
+553296,GALLETA LA SUPREMA CHAPITAS 60 GRS,Abarrotes,Galletas
 553297,GALLETA SALADA SUPREMA CHAPITAS 141GR,Abarrotes,Galletas
 554333,Cerveza Paceña Lata Roja 473 Cc,Bebidas,Cervezas
 554466,Detergente Liquido Ola Futuro Limpieza Completa 5 L,Cuidado del Hogar,Limpieza de la Ropa
@@ -16216,7 +16228,7 @@ id_producto,producto,categoria,subcategoria
 657632,Barra Cereal Irupana Frutos Rojos 240 gr,Abarrotes,Dietéticos y Saludables
 657640,Dr.PICKS Piquesos 200 gr,Abarrotes,Snack
 657642,Dr.Picks Jalapeño 230 gr,Abarrotes,Snack
-657644,Vino Esther Ortiz Petit Verd 750 ml,Bebidas,Vinos y Champagne
+657644,Vino Esther Ortiz Campos de Solana 750 ml,Bebidas,Vinos y Champagne
 657645,Chocolate Cofler Graffiti 45 gr,Abarrotes,Golosinas - Varias
 657652,Pistacho Soproma 100 gr,Abarrotes,Snack
 657653,Pasas Rubias Soproma 100 gr,Abarrotes,Frutas en Conserva
@@ -17816,6 +17828,7 @@ id_producto,producto,categoria,subcategoria
 669360,ORALB PACK CEPILLOS ADVAN 7 BENEF 3 PZAS,Cuidado Personal,Cuidado Bucal
 669361,GILL PREST3 CARBON 2PX72U,Cuidado Personal,Cuidado de la Piel
 669364,PANOS MICROFIBRA TOTES REUTILIZABLE 30 H,Cuidado del Hogar,Accesorios del Hogar
+669369,DOWNY EXOTICO 360ML X 12U,Cuidado del Hogar,Limpieza de la Ropa
 669901,Pizza Hipermaxi Congelada Hawaiana 620 gr,Congelados,Masas y Comidas Congeladas
 669902,Pizza Hipermaxi Congelada Jamon Queso Light Masa Integral,Congelados,Masas y Comidas Congeladas
 669903,Pizza Hipermaxi Congelada Pepperoni 620 gr,Congelados,Masas y Comidas Congeladas
@@ -18540,6 +18553,7 @@ id_producto,producto,categoria,subcategoria
 672573,Queso Dietetico Neskraft kg,Lácteos y Derivados,Quesos
 672574,Queso Mozzarella Neskraft kg,Lácteos y Derivados,Quesos
 672575,Queso Sandwichero Neskraft kg,Lácteos y Derivados,Quesos
+672576,Queso Neskraft Cheddar kg,Lácteos y Derivados,Quesos
 672579,Milanesa Cordon Sofia 2 un 125 gr,Congelados,Carnes Congeladas
 672595,Queso Bonle Dambo kg,Lácteos y Derivados,Quesos
 672597,Queso Bonle Edam kg,Lácteos y Derivados,Quesos
@@ -18994,6 +19008,7 @@ id_producto,producto,categoria,subcategoria
 673731,Paleta Delizia Tradicion Chantilly 60 ml,Congelados,"Helados, Cassattas y Picoleses"
 673732,Salchicha Ahumada Sofia 10 un,Fiambres,Fiambres Externos
 673733,Salchicha Hadoquera Ahumada 20 UN,Fiambres,Fiambres Externos
+673747,Pack San Juan Sofia Hadoquera XL,Fiambres,Temporada San Juan Externos
 673750,Alimento Bebible Soya Nordland con Almendra 1 L,Lácteos y Derivados,Leches
 673752,Chorizo Español Zenteno 150 gr,Fiambres,Fiambres Externos
 673753,Tocino Zenteno Alvacio 100 gr,Fiambres,Fiambres Externos
