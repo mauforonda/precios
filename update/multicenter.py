@@ -135,7 +135,7 @@ def organize(productos):
 productos = getProductos()
 precios, definiciones = organize(productos)
 saveProductos(
-  dataDirectory="data/multicine",
+  dataDirectory="data/multicenter",
   precios=precios,
   preciosPath="precios",
   definiciones=definiciones,
