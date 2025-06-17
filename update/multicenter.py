@@ -98,7 +98,7 @@ def getCategoria(sesion, categoryId, pageSize=50):
         page, total = getPagina(sesion, categoryId, offset, pageSize)
         productos.extend(page)
         print(f"{len(productos)} / {total} productos")
-        if len(productos) >= total:
+        if offset >= total:
             break
         offset += pageSize
     return productos
