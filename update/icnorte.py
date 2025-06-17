@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-from time import sleep 
+from time import sleep
 import datetime as dt
 from pytz import timezone
 import pandas as pd
@@ -21,10 +21,10 @@ def getPagina(sesion, offset, pageSize):
             categoria=p["categories"][0],
             precio=p["items"][0]["sellers"][0]["commertialOffer"]["Price"],
         )
-        
+
     RETRIES = 5
     url = f"https://www.icnorte.com/api/catalog_system/pub/products/search?ft=&O=OrderByNameASC&_from={offset}&_to={offset + pageSize - 1}"
-    
+
     for attempt in range(RETRIES):
         response = sesion.get(url, timeout=TIMEOUT)
         try:
@@ -56,7 +56,9 @@ def organize(productos):
     precios = df[["id_producto", "precio"]].copy()
     precios["precio"] = precios["precio"].astype(float)
     precios.insert(0, "fecha", HOY)
-    definiciones = df[["id_producto", "producto", "proveedor", "categoria"]].copy()
+    definiciones = df[[
+        "id_producto", "producto", "proveedor", "categoria"
+    ]].sort_values('id_producto').copy()
     return precios, definiciones
 
 productos = getProductos()
