@@ -60,7 +60,9 @@ def organize(productos):
     precios = df[["id_producto", "precio"]].copy()
     precios["precio"] = precios["precio"].astype(float)
     precios.insert(0, "fecha", HOY)
-    definiciones = df[["id_producto", "producto", "proveedor", "categoria"]].copy()
+    definiciones = df[[
+        "id_producto", "producto", "proveedor", "categoria"
+    ]].sort_values('id_producto').copy()
     return precios, definiciones
 
 def getShopify(domain, dataDirectory):
