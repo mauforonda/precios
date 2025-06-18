@@ -1708,6 +1708,7 @@ id_producto,producto,categoria,subcategoria
 25170,NESCAFE CAPPUCCINO CJA 112G,Abarrotes,Café y Sucedáneos
 25174,TWOPACK HIDRATANTE LIFE 500ML,Bebidas,Isotónicos
 25180,NESCAFE ORIGINAL EXT FUERTE DP 40G,Abarrotes,Café y Sucedáneos
+25185,ACEITE D OLIVA KRIS EXT VIRGEN 250 ML,Abarrotes,Básicos
 25186,CHUFLAY FLOW HARD ZALZER BOT 275 ML,Bebidas,Licores
 25187,BEBIDA FLOW NENE SUNRISE BOT 275 ML,Bebidas,Licores
 25190,ENERGIZANTE MOOV BLUE RAZZ LTA 355ML,Bebidas,Energizantes
@@ -6603,6 +6604,7 @@ id_producto,producto,categoria,subcategoria
 209099,PACK FRUCTIS SANDIA SH + MASCARA,Cuidado Personal,Cuidado del Cabello
 209100,PACK FRUCTIS CACAO SH + MASCARA,Cuidado Personal,Cuidado del Cabello
 209108,GEL DUCHA PORTUGAL QUINUA  AVENA 470 ML,Cuidado Personal,Cuidado de la Piel
+209120,AMBIENTADOR ROCIO SABIDURIA 360 ML.,Cuidado del Hogar,Limpieza de Living y Ropero
 209121,PACK ROCIO SENSACIONES 3X360 ML,Cuidado del Hogar,Limpieza de Living y Ropero
 209122,AMBIENTADOR GLADE HAWA BREE 270 ML,Cuidado del Hogar,Limpieza de Living y Ropero
 209123,Ambientador Galde Repuesto Topical 270 ml,Cuidado del Hogar,Limpieza de Living y Ropero
@@ -7578,6 +7580,7 @@ id_producto,producto,categoria,subcategoria
 228049,PROTECTOR DIARIO NOSOTRAS  NORMAL 48X10,Cuidado Personal,Cuidado Familiar
 228053,BALDE MAX HOGAR C ESCURRIDOR 12 LTS,Cuidado del Hogar,Accesorios del Hogar
 228055,TRAPEADOR WISARD CON PALO  38 CM,Cuidado del Hogar,Accesorios del Hogar
+228069,GEL DENTAL CONDOR KIDS HW 3511,Cuidado del Bebé,Kids
 228073,NAFTALINA PERDIGON 100 GR,Cuidado del Hogar,Productos Americanos
 228074,NAFTALINA IBERIA 100 GR,Cuidado del Hogar,Productos Americanos
 228076,TINTE ISSUE EXPRESS 5 MINUTOS RUBIO NATU,Cuidado Personal,Cuidado del Cabello
@@ -7692,7 +7695,7 @@ id_producto,producto,categoria,subcategoria
 230649,Cepillo Dental Clinic F92 Medio 3 Und,Cuidado Personal,Cuidado Bucal
 230701,Papel Toalla Cocina Limppano Toalex 1 un 50 Toallas,Cuidado del Hogar,Limpieza de Cocina
 230702,Protector Solar Crema Tanga Recamier Spf 60,Cuidado Personal,Cuidado de la Piel
-230703,PROT SOLAR TANGA RECAMIER SPF100  130ML,Cuidado Personal,Cuidado de la Piel
+230703,Protector Solar Tanga Recamier Spf 100 130 ml,Cuidado Personal,Cuidado de la Piel
 230705,Aceite Bronceador Recamier Tanga Spf4,Cuidado Personal,Cuidado de la Piel
 230811,Tinte Excellence Tono 6660 Seductor,Cuidado Personal,Cuidado del Cabello
 230850,Gomita Mogul Rodajas Acidas 50 gr,Abarrotes,Golosinas - Varias
@@ -7903,7 +7906,7 @@ id_producto,producto,categoria,subcategoria
 240669,"PACK COCO SH + MASCARA ,HAIR FOOD",Cuidado Personal,Cuidado del Cabello
 240670,"PACK BANANA SH + MASCARA, HAIR FOOD",Cuidado Personal,Cuidado del Cabello
 240671,"PACK ALOE VERA SH + MASCARA, HAIR FOOD",Cuidado Personal,Cuidado del Cabello
-240673,"PACK AGUACATE SH + MASCARA, HAIR FOOD",Cuidado Personal,Cuidado del Cabello
+240673,Pack Hair Food Aguacate Shampoo + Mascara,Cuidado Personal,Cuidado del Cabello
 240674,Crema Babaria Facial Solar Hialuron,Cuidado Personal,Cuidado de la Piel
 240675,SERUM BABARIA FACIAL SOLAR HIALURON. SPF,Cuidado Personal,Cuidado de la Piel
 240676,GEL LIMPIADOR  FACIAL HIALURONICO BABARI,Cuidado Personal,Cuidado de la Piel
@@ -10041,6 +10044,7 @@ id_producto,producto,categoria,subcategoria
 367320,Juguito Pil Manzana 150 ml,Bebidas,"Jugos, Néctar"
 367370,Juguito Pil Naranja 150 ml,Bebidas,"Jugos, Néctar"
 367443,Caldo De Costilla Doña Gusta 42 gr,Abarrotes,Básicos
+367501,Chia Salud Omega 3 500 gr,Abarrotes,Nutrición Infantil
 367702,Vinagre Sakura De Alcohol 750 ml,Abarrotes,Básicos
 367710,Vinagre Sakura Vino Tinto 750 ml,Abarrotes,Básicos
 367729,Chocolate Breick Para Mesa Submarino 500 gr,Abarrotes,Chocolates y Caramelos
@@ -13860,6 +13864,7 @@ id_producto,producto,categoria,subcategoria
 553183,Platano Entero Deshidratado Confrut 100 gr,Abarrotes,Frutas en Conserva
 553189,Mermelada Confrut Mora Yacon 500 gr,Abarrotes,"Mermel, Mieles"
 553190,MANI CONFRUT PELADO TOSTADO 100 GR,Abarrotes,Frutas en Conserva
+553199,Mermelada Confrut Naranja Yacon 500 gr,Abarrotes,"Mermel, Mieles"
 553201,AJO EN POLVO SANTIAGO 60 GR,Abarrotes,Condimentos y Legumbres
 553202,Curcuma Santiago Polvo 60 gr,Abarrotes,Condimentos y Legumbres
 553203,Locoto en Polvo Santiago 60 gr,Abarrotes,Condimentos y Legumbres
@@ -13923,11 +13928,12 @@ id_producto,producto,categoria,subcategoria
 553275,ISOTONICO AQUALITE CEREZO NEGRO 500ML,Bebidas,Isotónicos
 553276,ISOTONICO AQUALITE GRANAD FRAMB 500ML,Bebidas,Isotónicos
 553277,CARAMELOS MINIBUM SURTIDO 400G,Abarrotes,Chocolates y Caramelos
+553278,PACK 2 PEPSI BLACK 2 LT,Bebidas,Gaseosas
 553283,BARRA ANDES TROPICO AJONJOLI CACAO 156GR,Abarrotes,Nutrición Infantil
 553284,BARRAS DE CEREAL ANDES TROPICO SURT 148,Abarrotes,Nutrición Infantil
 553294,WAFER CARSA DADITOS BROWNIE 300 GR,Abarrotes,Galletas
 553295,WAFER CARSA DADITOS CAPUCHINO 300 GR,Abarrotes,Galletas
-553296,GALLETA LA SUPREMA CHAPITAS 60 GRS,Abarrotes,Galletas
+553296,GALLETA SUPREMA SALADA CHAPITA 60G,Abarrotes,Galletas
 553297,GALLETA SALADA SUPREMA CHAPITAS 141GR,Abarrotes,Galletas
 554333,Cerveza Paceña Lata Roja 473 Cc,Bebidas,Cervezas
 554466,Detergente Liquido Ola Futuro Limpieza Completa 5 L,Cuidado del Hogar,Limpieza de la Ropa
@@ -18793,6 +18799,7 @@ id_producto,producto,categoria,subcategoria
 673224,Pan Molde Integral Bauducco 400 gr,Panadería,Panadería Externa
 673229,Pan de Hamburguesa Ovoplus 10 un,Panadería,Panadería Externa
 673230,Pan Hot Dog Ovoplus Pequeño 10 un,Panadería,Panadería Externa
+673231,Pan de Panchito Ovoplus Grande 10 un,Panadería,Panadería Externa
 673232,Pan Molde Ovoplus Multicereal Sin Azucar 500 gr,Panadería,Panadería Externa
 673233,Queque Ovoplus Mix Cereales 6 un,Pastelería y Masas Típicas,Pastelería Externa
 673235,Jamon York Sofia al Vacio un,Fiambres,Fiambres Externos
@@ -20001,6 +20008,7 @@ id_producto,producto,categoria,subcategoria
 693632,Pan Batalla 1 un,Panadería,Panadería Externa
 694342,Queso Super Collana,Lácteos y Derivados,Quesos
 694868,Salsa Carozzi Pomarola Natural 200 gr,Abarrotes,Salsas y Extracto de Tomate
+695543,Digestan Compuesto Efervescente Menta x 1 sob,Farmacia Éticos,Tracto Alimentario y Metabolismo
 695574,Refresco Nectar Kris Mango 120 gr,Bebidas,Refrescos en Polvo
 695580,Tulipan Clasico x 6 und Con 2 Geles Clasicos,Cuidado Personal,Cuidado de la Piel
 695581,Tulipan Ctrl Retardante x 6 und Con Benzoca,Cuidado Personal,Cuidado de la Piel
@@ -23843,6 +23851,7 @@ id_producto,producto,categoria,subcategoria
 920822,Copa Larga,Bazar,Menaje Vidrio/Cristal
 920823,Vasoo Nadir 1 Whiskero 1recuentreN,Bazar,Menaje Vidrio/Cristal
 920826,Copa Vino Blanco,Bazar,Menaje Vidrio/Cristal
+920849,Cuchillo Tramontina Acero,Bazar,Articulos de Cocina
 920859,CI.CUCHI P/COCIN NEGR*5 RECTO 22920/005,Bazar,Articulos de Cocina
 920862,Cucharon Tramontina Teflon,Bazar,Articulos de Cocina
 920865,Cuchillo Profesional Tramontina,Bazar,Articulos de Cocina
@@ -24026,7 +24035,7 @@ id_producto,producto,categoria,subcategoria
 947369,Hervidor Tramontina con Tapa 14 cm,Bazar,Articulos de Cocina
 947376,Olla Tramontina Alta 22 cm,Bazar,Articulos de Cocina
 947378,Olla Alta 18 cm 3 L,Bazar,Articulos de Cocina
-947380,CI CACEROLA C/MANGO 20CM20525/620,Bazar,Articulos de Cocina
+947380,Sarten Caserola con Mango,Bazar,Articulos de Cocina
 947385,Olla Tramontina Baja 20 cm,Bazar,Articulos de Cocina
 947386,Olla Baja 18 cm 2 L,Bazar,Articulos de Cocina
 947387,Sarten Tramontina con Tapa 26 cm,Bazar,Articulos de Cocina
