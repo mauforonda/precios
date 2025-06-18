@@ -17,8 +17,8 @@ periodos = {
     60: "hace 2 meses",
     90: "hace 3 meses",
     180: "hace 6 meses",
+    270: "hace 9 meses",
     365: "hace 1 año",
-    900: "hace mil años"
 }
 cobertura = []
 

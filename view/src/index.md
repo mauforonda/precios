@@ -126,22 +126,36 @@ const tabla = Inputs.table(resultado, {
     reverse: true,
 });
 ```
+
+<div class="header">
+    <div class="title">Precios</div>
+    <div class="subtitle">
+        ¿ Qué precios suben o bajan en Bolivia ?
+    </div>
+</div>
+
 <div class="grid grid-cols-3 controls">
     <div class="card grid-colspan-1">
-        ${ciudades}
-        ${dias}
+        <div class="ciudades">
+            ${ciudades}
+        </div>
+        <div class="tiempo">
+            ${dias}
+        </div>
     </div>
     <div class="card grid-colspan-2">
         <div class="sugerencias">
           ${sugerencias}
         </div>
-        ${busqueda}
+        <div class="busqueda">
+            ${busqueda}
+        </div>
     </div>
 </div>
 
 <div class="dolar"> ... mientras tanto el dolar cambió en ${dolarString}</div>
 
-<div class="card">
+<div class="card precios">
     ${tabla}
 </div>
 
