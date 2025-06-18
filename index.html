@@ -13,39 +13,52 @@
 <link rel="modulepreload" href="./_observablehq/runtime.js">
 <link rel="modulepreload" href="./_observablehq/stdlib.js">
 <link rel="modulepreload" href="./_npm/arquero@8.0.3/_esm.js">
-<link rel="modulepreload" href="./_import/components/files.8a42a4b6.js">
+<link rel="modulepreload" href="./_import/components/files.ac43bb4d.js">
 <link rel="modulepreload" href="./_import/components/format.77702a7a.js">
 <link rel="modulepreload" href="./_npm/htl@0.3.1/_esm.js">
 <link rel="modulepreload" href="./_npm/d3-dsv@3.0.1/_esm.js">
 <link rel="modulepreload" href="./_observablehq/stdlib/inputs.js">
 <link rel="modulepreload" href="./_npm/isoformat@0.2.1/_esm.js">
 <link rel="modulepreload" href="./_npm/acorn@8.15.0/_esm.js">
-<link rel="modulepreload" href="./_npm/@uwdata/flechette@2.0.0/_esm.js">
+<link rel="modulepreload" href="./_npm/@uwdata/flechette@2.0.1/_esm.js">
 <link rel="icon" href="./_file/favicon.cc2893b5.png" type="image/png">
 <script type="module">
 
 import {define} from "./_observablehq/client.js";
 import {registerFile} from "./_observablehq/stdlib.js";
 
-registerFile("./data/cobertura.json", {"name":"./data/cobertura.json","mimeType":"application/json","path":"./_file/data/cobertura.e6a6a938.json","lastModified":1750221625084});
-registerFile("./data/cochabamba.csv", {"name":"./data/cochabamba.csv","mimeType":"text/csv","path":"./_file/data/cochabamba.85b0a5c7.csv","lastModified":1750221620465});
-registerFile("./data/la_paz.csv", {"name":"./data/la_paz.csv","mimeType":"text/csv","path":"./_file/data/la_paz.12b30384.csv","lastModified":1750221622667});
-registerFile("./data/productos.json", {"name":"./data/productos.json","mimeType":"application/json","path":"./_file/data/productos.67df0ac6.json","lastModified":1750221625084});
-registerFile("./data/santa_cruz.csv", {"name":"./data/santa_cruz.csv","mimeType":"text/csv","path":"./_file/data/santa_cruz.8a197551.csv","lastModified":1750221624815});
+registerFile("./data/cobertura.json", {"name":"./data/cobertura.json","mimeType":"application/json","path":"./_file/data/cobertura.e6a6a938.json","lastModified":1750257430316});
+registerFile("./data/cochabamba.csv", {"name":"./data/cochabamba.csv","mimeType":"text/csv","path":"./_file/data/cochabamba.a64cf7fa.csv","lastModified":1750257425657});
+registerFile("./data/la_paz.csv", {"name":"./data/la_paz.csv","mimeType":"text/csv","path":"./_file/data/la_paz.a84e2246.csv","lastModified":1750257427896});
+registerFile("./data/productos.json", {"name":"./data/productos.json","mimeType":"application/json","path":"./_file/data/productos.2bdfda27.json","lastModified":1750257430316});
+registerFile("./data/santa_cruz.csv", {"name":"./data/santa_cruz.csv","mimeType":"text/csv","path":"./_file/data/santa_cruz.97ec0d8b.csv","lastModified":1750257430052});
 
 define({id: "72925c9c", outputs: ["aq","files","Trend"], body: async () => {
-const [aq, {files}, {Trend}] = await Promise.all([import("./_npm/arquero@8.0.3/_esm.js"), import("./_import/components/files.8a42a4b6.js"), import("./_import/components/format.77702a7a.js")]);
+const [aq, {files}, {Trend}] = await Promise.all([import("./_npm/arquero@8.0.3/_esm.js"), import("./_import/components/files.ac43bb4d.js"), import("./_import/components/format.77702a7a.js")]);
 // Imports
 
 return {aq,files,Trend};
 }});
 
-define({id: "0fb55661", inputs: ["Inputs","files","Generators"], outputs: ["ciudades","ciudad"], body: (Inputs,files,Generators) => {
+define({id: "fdc120d6", inputs: ["localStorage"], outputs: ["default_ciudad","stored_ciudad","selected_ciudad"], body: (localStorage) => {
+const default_ciudad = "la_paz";
+const stored_ciudad = localStorage.getItem("ciudad");
+const selected_ciudad = stored_ciudad
+    ? stored_ciudad
+    : default_ciudad;
+return {default_ciudad,stored_ciudad,selected_ciudad};
+}});
+
+define({id: "6cb463d6", inputs: ["localStorage","ciudad"], body: (localStorage,ciudad) => {
+localStorage.setItem("ciudad", ciudad);
+}});
+
+define({id: "f108d49a", inputs: ["Inputs","files","selected_ciudad","Generators"], outputs: ["ciudades","ciudad"], body: (Inputs,files,selected_ciudad,Generators) => {
 // Ciudades
 const ciudades = Inputs.radio(Object.keys(files), {
     format: (d) => files[d].name,
     label: "En",
-    value: "la_paz",
+    value: selected_ciudad,
 });
 const ciudad = Generators.input(ciudades);
 return {ciudades,ciudad};
@@ -61,11 +74,24 @@ data = data.map((d) => {
 return {productos,data};
 }});
 
-define({id: "d62d6f04", inputs: ["FileAttachment","Inputs","Generators"], outputs: ["cobertura","dias","dia"], body: async (FileAttachment,Inputs,Generators) => {
+define({id: "a00e337c", inputs: ["localStorage"], outputs: ["default_dias","stored_dias","selected_dias"], body: (localStorage) => {
+const default_dias = "3";
+const stored_dias = localStorage.getItem("dias");
+const selected_dias = stored_dias
+    ? stored_dias
+    : default_dias;
+return {default_dias,stored_dias,selected_dias};
+}});
+
+define({id: "f451b4ca", inputs: ["localStorage","dia"], body: (localStorage,dia) => {
+localStorage.setItem("dias", dia);
+}});
+
+define({id: "0ebe9762", inputs: ["FileAttachment","Inputs","selected_dias","Generators"], outputs: ["cobertura","dias","dia"], body: async (FileAttachment,Inputs,selected_dias,Generators) => {
 // Tiempo
 const cobertura = await FileAttachment("./data/cobertura.json").json();
 const dias = Inputs.select(Object.keys(cobertura), {
-    value: 1,
+    value: selected_dias,
     format: (d) => cobertura[d],
     label: "Cambios desde",
 });
@@ -207,11 +233,15 @@ tabla
 </script>
 <div id="observablehq-center">
 <main id="observablehq-main" class="observablehq">
-<link rel="stylesheet" href="./_file/style.40317458.css">
+<link rel="stylesheet" href="./_file/style.cdf1007c.css">
 <div class="observablehq observablehq--block"><!--:72925c9c:--></div>
-<div class="observablehq observablehq--block"><!--:0fb55661:--></div>
+<div class="observablehq observablehq--block"><!--:fdc120d6:--></div>
+<div class="observablehq observablehq--block"><!--:6cb463d6:--></div>
+<div class="observablehq observablehq--block"><!--:f108d49a:--></div>
 <div class="observablehq observablehq--block"><!--:eab7cc28:--></div>
-<div class="observablehq observablehq--block"><!--:d62d6f04:--></div>
+<div class="observablehq observablehq--block"><!--:a00e337c:--></div>
+<div class="observablehq observablehq--block"><!--:f451b4ca:--></div>
+<div class="observablehq observablehq--block"><!--:0ebe9762:--></div>
 <div class="observablehq observablehq--block"><!--:5f9b1b33:--></div>
 <div class="observablehq observablehq--block"><!--:5c313427:--></div>
 <div class="observablehq observablehq--block"><!--:530abf1d:--></div>
@@ -220,7 +250,7 @@ tabla
 <div class="header">
     <div class="title">Precios</div>
     <div class="subtitle">
-        ¿ Qué precios suben o bajan en Bolivia ?
+        ¿ Qué precios <span class="up">suben</span> o <span class="down">bajan</span> en Bolivia ?
     </div>
 </div>
 <div class="grid grid-cols-3 controls">
