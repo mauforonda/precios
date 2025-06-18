@@ -8,11 +8,23 @@ import { Trend } from "./components/format.js";
 ```
 
 ```js
+const default_ciudad = "la_paz";
+const stored_ciudad = localStorage.getItem("ciudad");
+const selected_ciudad = stored_ciudad
+    ? stored_ciudad
+    : default_ciudad;
+```
+
+```js
+localStorage.setItem("ciudad", ciudad);
+```
+
+```js
 // Ciudades
 const ciudades = Inputs.radio(Object.keys(files), {
     format: (d) => files[d].name,
     label: "En",
-    value: "la_paz",
+    value: selected_ciudad,
 });
 const ciudad = Generators.input(ciudades);
 ```
@@ -27,10 +39,22 @@ data = data.map((d) => {
 ```
 
 ```js
+const default_dias = "3";
+const stored_dias = localStorage.getItem("dias");
+const selected_dias = stored_dias
+    ? stored_dias
+    : default_dias;
+```
+
+```js
+localStorage.setItem("dias", dia);
+```
+
+```js
 // Tiempo
 const cobertura = await FileAttachment("data/cobertura.json").json();
 const dias = Inputs.select(Object.keys(cobertura), {
-    value: 1,
+    value: selected_dias,
     format: (d) => cobertura[d],
     label: "Cambios desde",
 });
@@ -130,7 +154,7 @@ const tabla = Inputs.table(resultado, {
 <div class="header">
     <div class="title">Precios</div>
     <div class="subtitle">
-        ¿ Qué precios suben o bajan en Bolivia ?
+        ¿ Qué precios <span class="up">suben</span> o <span class="down">bajan</span> en Bolivia ?
     </div>
 </div>
 

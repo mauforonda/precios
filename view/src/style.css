@@ -23,8 +23,8 @@ th {
     max-width: 100%;
     margin-bottom: 20px;
     .title {
-        font-weight: 600;
-        font-size: 2rem;
+        font-weight: 700;
+        font-size: 2.5rem;
     }
     .subtitle {
         font-weight: 400;
@@ -204,10 +204,10 @@ table input[type="checkbox"] {
 
 @media (prefers-color-scheme: dark) {
     :root {
-        --accent: #8a692868;
-        --background: #181c26;
-        --border: rgba(223, 225, 238, 0.76);
-        --border-soft: rgba(223, 225, 238, 0.3);;
-        --control-background: #232738;
+        --accent: rgba(53, 80, 115, 1);
+        --background: #19171e;
+        --border: rgba(223, 225, 238, 0.5);
+        --border-soft: rgba(223, 225, 238, 0.2);;
+        --control-background: #4c597d21;
     }
 }
