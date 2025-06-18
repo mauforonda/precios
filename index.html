@@ -13,8 +13,8 @@
 <link rel="modulepreload" href="./_observablehq/runtime.js">
 <link rel="modulepreload" href="./_observablehq/stdlib.js">
 <link rel="modulepreload" href="./_npm/arquero@8.0.3/_esm.js">
-<link rel="modulepreload" href="./_import/components/files.0e3c3bd3.js">
-<link rel="modulepreload" href="./_import/components/format.a3232af2.js">
+<link rel="modulepreload" href="./_import/components/files.8a42a4b6.js">
+<link rel="modulepreload" href="./_import/components/format.77702a7a.js">
 <link rel="modulepreload" href="./_npm/htl@0.3.1/_esm.js">
 <link rel="modulepreload" href="./_npm/d3-dsv@3.0.1/_esm.js">
 <link rel="modulepreload" href="./_observablehq/stdlib/inputs.js">
@@ -27,14 +27,14 @@
 import {define} from "./_observablehq/client.js";
 import {registerFile} from "./_observablehq/stdlib.js";
 
-registerFile("./data/cobertura.json", {"name":"./data/cobertura.json","mimeType":"application/json","path":"./_file/data/cobertura.72dec701.json","lastModified":1750135221819});
-registerFile("./data/cochabamba.csv", {"name":"./data/cochabamba.csv","mimeType":"text/csv","path":"./_file/data/cochabamba.68a3d013.csv","lastModified":1750135217376});
-registerFile("./data/la_paz.csv", {"name":"./data/la_paz.csv","mimeType":"text/csv","path":"./_file/data/la_paz.6957f18b.csv","lastModified":1750135219475});
-registerFile("./data/productos.json", {"name":"./data/productos.json","mimeType":"application/json","path":"./_file/data/productos.bcab25c1.json","lastModified":1750135221818});
-registerFile("./data/santa_cruz.csv", {"name":"./data/santa_cruz.csv","mimeType":"text/csv","path":"./_file/data/santa_cruz.9a0b2e61.csv","lastModified":1750135221562});
+registerFile("./data/cobertura.json", {"name":"./data/cobertura.json","mimeType":"application/json","path":"./_file/data/cobertura.e6a6a938.json","lastModified":1750221625084});
+registerFile("./data/cochabamba.csv", {"name":"./data/cochabamba.csv","mimeType":"text/csv","path":"./_file/data/cochabamba.85b0a5c7.csv","lastModified":1750221620465});
+registerFile("./data/la_paz.csv", {"name":"./data/la_paz.csv","mimeType":"text/csv","path":"./_file/data/la_paz.12b30384.csv","lastModified":1750221622667});
+registerFile("./data/productos.json", {"name":"./data/productos.json","mimeType":"application/json","path":"./_file/data/productos.67df0ac6.json","lastModified":1750221625084});
+registerFile("./data/santa_cruz.csv", {"name":"./data/santa_cruz.csv","mimeType":"text/csv","path":"./_file/data/santa_cruz.8a197551.csv","lastModified":1750221624815});
 
 define({id: "72925c9c", outputs: ["aq","files","Trend"], body: async () => {
-const [aq, {files}, {Trend}] = await Promise.all([import("./_npm/arquero@8.0.3/_esm.js"), import("./_import/components/files.0e3c3bd3.js"), import("./_import/components/format.a3232af2.js")]);
+const [aq, {files}, {Trend}] = await Promise.all([import("./_npm/arquero@8.0.3/_esm.js"), import("./_import/components/files.8a42a4b6.js"), import("./_import/components/format.77702a7a.js")]);
 // Imports
 
 return {aq,files,Trend};
@@ -207,7 +207,7 @@ tabla
 </script>
 <div id="observablehq-center">
 <main id="observablehq-main" class="observablehq">
-<link rel="stylesheet" href="./_file/style.b8c94eb8.css">
+<link rel="stylesheet" href="./_file/style.40317458.css">
 <div class="observablehq observablehq--block"><!--:72925c9c:--></div>
 <div class="observablehq observablehq--block"><!--:0fb55661:--></div>
 <div class="observablehq observablehq--block"><!--:eab7cc28:--></div>
@@ -217,20 +217,32 @@ tabla
 <div class="observablehq observablehq--block"><!--:530abf1d:--></div>
 <div class="observablehq observablehq--block"><!--:da2ae9de:--></div>
 <div class="observablehq observablehq--block"><!--:0b3690ae:--></div>
+<div class="header">
+    <div class="title">Precios</div>
+    <div class="subtitle">
+        ¿ Qué precios suben o bajan en Bolivia ?
+    </div>
+</div>
 <div class="grid grid-cols-3 controls">
     <div class="card grid-colspan-1">
-        <observablehq-loading></observablehq-loading><!--:e471f4fa:-->
-        <observablehq-loading></observablehq-loading><!--:d470eac9:-->
+        <div class="ciudades">
+            <observablehq-loading></observablehq-loading><!--:e471f4fa:-->
+        </div>
+        <div class="tiempo">
+            <observablehq-loading></observablehq-loading><!--:d470eac9:-->
+        </div>
     </div>
     <div class="card grid-colspan-2">
         <div class="sugerencias">
           <observablehq-loading></observablehq-loading><!--:feecd4f3:-->
         </div>
-        <observablehq-loading></observablehq-loading><!--:4e957b19:-->
+        <div class="busqueda">
+            <observablehq-loading></observablehq-loading><!--:4e957b19:-->
+        </div>
     </div>
 </div>
 <div class="dolar"> ... mientras tanto el dolar cambió en <observablehq-loading></observablehq-loading><!--:104b6281:--></div>
-<div class="card">
+<div class="card precios">
     <observablehq-loading></observablehq-loading><!--:4a106a9d:-->
 </div>
 <div id="creditos">

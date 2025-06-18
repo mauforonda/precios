@@ -5,8 +5,8 @@ export function Trend(
   {
     locale = "en-US",
     format,
-    positive = "red",
-    negative = "green",
+    positive = "up",
+    negative = "down",
     base = "muted",
     positiveSuffix = " ↗︎",
     negativeSuffix = " ↘︎",
@@ -21,5 +21,5 @@ export function Trend(
   });
   const suffix =
     value > 0 ? positiveSuffix : value < 0 ? negativeSuffix : baseSuffix;
-  return html`<span class="small ${variant}">${text}${suffix}</span>`;
+  return html`<span class="${variant}">${text}${suffix}</span>`;
 }

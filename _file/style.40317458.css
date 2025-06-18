@@ -1,0 +1,213 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap");
+
+:root {
+    --accent: #fac58d;
+    --background: #f7f4ef;
+    --border: rgba(0, 0, 0, 0.76);
+    --border-soft: rgba(0, 0, 0, 0.3);
+    --sans-serif: Inter;
+    --control-background: #fffffe;
+}
+
+html,
+body,
+.precios,
+table,
+th {
+    background-color: var(--background) !important;
+    font-family: Inter !important;
+}
+
+.header {
+    text-align: center;
+    max-width: 100%;
+    margin-bottom: 20px;
+    .title {
+        font-weight: 600;
+        font-size: 2rem;
+    }
+    .subtitle {
+        font-weight: 400;
+        font-size: 0.9rem;
+        font-family: serif;
+    }
+}
+
+input {
+    accent-color: var(--accent);
+    color: var(--border) !important
+}
+
+table input[type="checkbox"] {
+    visibility: hidden;
+}
+
+.up {
+    color: #c62f18;
+    font-weight: 550;
+}
+
+.down {
+    color: #159315;
+    font-weight: 550;
+}
+
+.controls {
+    .card {
+        background-color: var(--control-background);
+        display: flex;
+        flex-flow: column;
+        gap: 10px;
+        justify-content: center;
+        form > label,
+        output {
+            font-style: italic;
+            font-size: 0.9em;
+        }
+    }
+    form {
+        margin: 0;
+    }
+    input,
+    select {
+        border-radius: 5px;
+        border: 1px solid var(--border);
+        background-color: var(--accent);
+        padding: 3px 6px;
+    }
+}
+
+.ciudades {
+    input {
+        accent-color: var(--accent);
+    }
+}
+
+.sugerencias {
+    input {
+        display: none;
+    }
+
+    label {
+        padding: 3px 6px;
+        margin: 2px !important;
+        font-size: 0.8em;
+        opacity: 0.8;
+        border-radius: 3px;
+        border: 1px solid var(--border-soft);
+    }
+
+    label:hover {
+        background-color: var(--accent);
+        border-color: var(--border);
+        cursor: pointer;
+    }
+}
+
+.busqueda {
+    input {
+        background-color: var(--accent);
+        font-weight: 500;
+    }
+}
+
+.dolar {
+    font-size: 0.7rem;
+    text-align: center;
+    font-style: italic;
+}
+
+.precios {
+    border-width: 3px;
+    border-color: var(--border);
+    thead {
+        tr th {
+            border-width: 1px;
+            border-color: var(--border);
+            padding-bottom: 5px;
+        }
+    }
+    tr > :first-of-type {
+        width: 0px;
+        input {
+            margin: 0;
+            height: 0;
+        }
+    }
+    tbody {
+        td {
+            padding: 7px 5px;
+            font-size: 13px;
+        }
+        tr > :nth-child(2) {
+            font-weight: 500;
+            font-family: Inter;
+        }
+        tr:not(:last-child) td {
+            border-bottom: 1px dotted var(--border);
+        }
+    }
+}
+
+#creditos {
+    opacity: 0.8;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin: 4em 0 0 0;
+    font-size: 0.7rem;
+    color: var(--base);
+    gap: 1rem;
+
+    .credito {
+        display: flex;
+        flex-direction: column;
+        width: 100px;
+    }
+    .credito:first-of-type {
+        text-align: right;
+    }
+    .credito:second-of-type {
+        text-align: left;
+    }
+
+    a {
+        color: var(--base);
+        text-decoration: underline dotted;
+        text-underline-offset: 4px;
+    }
+
+    .creditoNota {
+        margin-top: 3px;
+        opacity: 0.7;
+        font-size: 0.85em;
+    }
+}
+
+.advertencia {
+    font-size: 0.7rem;
+    text-align: center;
+    font-family: sans-serif;
+
+    a {
+        color: var(--theme-foreground);
+        font-weight: bold;
+        text-decoration: 1px dotted underline;
+        text-underline-offset: 2px;
+    }
+}
+.advertencia::before,
+.advertencia::after {
+    content: "⚠️";
+}
+
+@media (prefers-color-scheme: dark) {
+    :root {
+        --accent: #8a692868;
+        --background: #181c26;
+        --border: rgba(223, 225, 238, 0.76);
+        --border-soft: rgba(223, 225, 238, 0.3);;
+        --control-background: #232738;
+    }
+}
