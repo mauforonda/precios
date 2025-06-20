@@ -1661,6 +1661,7 @@ id_producto,producto,categoria,subcategoria
 25098,Isotonico Reaktorade Uva Sin Azucar 1 L,Bebidas,Isotónicos
 25099,"AVENA CREEK MIX LA ORURENA MIEL,PASAS 50",Abarrotes,Nutrición Infantil
 25100,INSUFLADO D QUINUA LA ORURENA C MIEL 150,Abarrotes,Nutrición Infantil
+25101,Pulpa de Tomate Cayetana Gruesa 400 gr,Abarrotes,Salsas y Extracto de Tomate
 25104,Chupete Bon Bon Bum Uva Fresa 336 gr,Abarrotes,Chocolates y Caramelos
 25108,Isotonico Sante Vitam Naranja Limon 1 L,Bebidas,Isotónicos
 25109,Isotonico Sante Colageno Limon 1 L,Bebidas,Isotónicos
@@ -1707,7 +1708,9 @@ id_producto,producto,categoria,subcategoria
 25166,GALLETA FRAC NARANJA BSA 110G,Abarrotes,Galletas
 25167,GALLETA COLOMBINA CRAKENA CLUB 192G,Abarrotes,Galletas
 25168,GALLETA COLOMBINA CRAKENA DORADITA 224G,Abarrotes,Galletas
+25169,CEREAL NESTLE TRIX BSA 90G,Abarrotes,Nutrición Infantil
 25170,NESCAFE CAPPUCCINO CJA 112G,Abarrotes,Café y Sucedáneos
+25173,GOMITA MOGUL BANANITAS BSA 30G,Abarrotes,Golosinas - Varias
 25174,TWOPACK HIDRATANTE LIFE 500ML,Bebidas,Isotónicos
 25180,NESCAFE ORIGINAL EXT FUERTE DP 40G,Abarrotes,Café y Sucedáneos
 25185,ACEITE D OLIVA KRIS EXT VIRGEN 250 ML,Abarrotes,Básicos
@@ -7581,6 +7584,7 @@ id_producto,producto,categoria,subcategoria
 228045,BIPACK PANAL MI BEBE XG 2 X 36 UND,Cuidado del Bebé,Pañales
 228049,PROTECTOR DIARIO NOSOTRAS  NORMAL 48X10,Cuidado Personal,Cuidado Familiar
 228053,BALDE MAX HOGAR C ESCURRIDOR 12 LTS,Cuidado del Hogar,Accesorios del Hogar
+228054,PAPELERO MAX HOGAR 10 LTS,Cuidado del Hogar,Accesorios del Hogar
 228055,TRAPEADOR WISARD CON PALO  38 CM,Cuidado del Hogar,Accesorios del Hogar
 228069,GEL DENTAL CONDOR KIDS HW 3511,Cuidado del Bebé,Kids
 228073,NAFTALINA PERDIGON 100 GR,Cuidado del Hogar,Productos Americanos
@@ -11545,6 +11549,7 @@ id_producto,producto,categoria,subcategoria
 480545,Frijol Bloch Negro 400 gr,Abarrotes,Condimentos y Legumbres
 480546,Frejol Rojo Bloch 350 gr,Abarrotes,Condimentos y Legumbres
 480547,Quinua Bloch 400 gr,Abarrotes,Nutrición Infantil
+480548,Somo Bloch 350 gr,Abarrotes,Condimentos y Legumbres
 480549,Tojori Bloch 250 gr,Abarrotes,Básicos
 480551,Trigo Bloch Pelado 400 gr,Abarrotes,Condimentos y Legumbres
 480552,Tujure Bloch 350 gr,Abarrotes,Condimentos y Legumbres
@@ -15306,6 +15311,7 @@ id_producto,producto,categoria,subcategoria
 650249,Oregano Andes Entero 55 gr,Abarrotes,Condimentos y Legumbres
 650253,Oregano Andes Molido 22 gr,Abarrotes,Condimentos y Legumbres
 650259,Paprika Andes 40 gr,Abarrotes,Condimentos y Legumbres
+650263,PIMIENTA BLANCA ANDES BSA. 15 GR.,Abarrotes,Condimentos y Legumbres
 650273,Pimienta Dulce Andes 25 gr,Abarrotes,Condimentos y Legumbres
 650279,PIMIENTA DULCE MOLIDA ANDES BSA 25 GR,Abarrotes,Condimentos y Legumbres
 650283,Pimienta Negra Andes Entera 30 gr,Abarrotes,Condimentos y Legumbres
@@ -17671,7 +17677,7 @@ id_producto,producto,categoria,subcategoria
 669028,PACK SERUM HIALURONICO+UV DEF ANTIBRILLO,Cuidado Personal,Cuidado de la Piel
 669029,PACK 2X1 PANITO HÚMEDO PEQUEÑÍN PIEL DEL,Cuidado del Bebé,Cuidado del Bebé
 669030,FOTOPROTECTOR TONO BEIGE,Cuidado Personal,Cuidado de la Piel
-669031,TANGA SPF 100 BABY CREMA 120 ML X6,Cuidado Personal,Cuidado de la Piel
+669031,Protector Solar Tanga Spf 100 Baby Crema 120 ml,Cuidado Personal,Cuidado de la Piel
 669032,Protecotr Solar Crema Spf50 220 ml,Cuidado Personal,Cuidado de la Piel
 669033,Protector Solar Tanga Spf 60 Facial Q10 50 ml,Cuidado Personal,Cuidado de la Piel
 669034,Limpiador de Piso Ola Aromatic Cedron 5 L,Cuidado del Hogar,Limpieza de Baños
@@ -17829,6 +17835,7 @@ id_producto,producto,categoria,subcategoria
 669337,Acondicionador Sedal Luminous 190 ml,Cuidado Personal,Cuidado del Cabello
 669338,SUPER BOLSA 48X55 25LT,Cuidado del Hogar,Accesorios del Hogar
 669341,SUPER BOLSA 90X110 140LT,Cuidado del Hogar,Accesorios del Hogar
+669342,SUPER BOLSA 70X95 75LT,Cuidado del Hogar,Accesorios del Hogar
 669343,SUPER BOLSA 44X50 20LT,Cuidado del Hogar,Accesorios del Hogar
 669344,PAPEL TOALLA TRENDS HOJA DOBLE 22.5CMX20,Cuidado del Hogar,Limpieza de Cocina
 669345,SUPER BOLSA  60X90 50LT,Cuidado del Hogar,Accesorios del Hogar
@@ -17847,6 +17854,7 @@ id_producto,producto,categoria,subcategoria
 669360,ORALB PACK CEPILLOS ADVAN 7 BENEF 3 PZAS,Cuidado Personal,Cuidado Bucal
 669361,GILL PREST3 CARBON 2PX72U,Cuidado Personal,Cuidado de la Piel
 669364,PANOS MICROFIBRA TOTES REUTILIZABLE 30 H,Cuidado del Hogar,Accesorios del Hogar
+669366,PAPEL TOALLA SEDA 200 MTS,Cuidado del Hogar,Limpieza de Cocina
 669369,DOWNY EXOTICO 360ML X 12U,Cuidado del Hogar,Limpieza de la Ropa
 669901,Pizza Hipermaxi Congelada Hawaiana 620 gr,Congelados,Masas y Comidas Congeladas
 669902,Pizza Hipermaxi Congelada Jamon Queso Light Masa Integral,Congelados,Masas y Comidas Congeladas
@@ -18231,6 +18239,8 @@ id_producto,producto,categoria,subcategoria
 671483,Pack Sofia San Juan Salchicha Frankfurt XL,Fiambres,Temporada San Juan Externos
 671486,Pack Sofia San Juan Chorizo Churrasquero,Fiambres,Temporada San Juan Externos
 671487,Pack Sofia San Juan Chorizo Parillero,Fiambres,Temporada San Juan Externos
+671489,535100 PACK SOFIA PEQUENO SAN JUAN UNIDAD,Fiambres,Temporada San Juan Externos
+671490,Pack Sofia San Juan Grande,Fiambres,Temporada San Juan Externos
 671495,Helado Pil Vainilla 5 L,Congelados,"Helados, Cassattas y Picoleses"
 671496,Helado Pil Chocolate 5 L,Congelados,"Helados, Cassattas y Picoleses"
 671497,Helado Pil Frutilla 5 L,Congelados,"Helados, Cassattas y Picoleses"
@@ -19436,6 +19446,7 @@ id_producto,producto,categoria,subcategoria
 674471,SALCHICHA SIN PIEL OSFIM VIENIQUESO 1 KILOGRAMO,Fiambres,Fiambres Externos
 674472,YOGURT ENTERO FRUTADO PIL SABOR COCO 700GRS,Lácteos y Derivados,Yogures
 674474,YOGURT ENTERO FRUTADO PIL FRUTILLA 700GRS,Lácteos y Derivados,Yogures
+674490,MORTADELA HASS PRIMAVERA KILOGRAMO,Fiambres,Fiambres Externos
 674832,MINI TORTA DELIZIA FRUTILLA 850ML,Congelados,"Helados, Cassattas y Picoleses"
 674834,MINI TORTA DELIZIA YOGURT SALSA AMARENA 850 ML,Congelados,"Helados, Cassattas y Picoleses"
 675245,Miel de Abeja Eva Promiel 250 gr,Abarrotes,"Mermel, Mieles"
