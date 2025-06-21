@@ -6592,6 +6592,7 @@ id_producto,producto,categoria,subcategoria
 209076,LIPSTICK BUBBLEGUM 5.3 GR,Cuidado Personal,Cuidado de la Piel
 209077,Jabon Liquido Farmax Facial Vitamina c 120 gr,Cuidado Personal,Cuidado de la Piel
 209078,Shampoo Tio Nacho Ultra Hidratante 950 ml,Cuidado Personal,Cuidado del Cabello
+209079,DR. SELBY CREMA DE AFEITAR TUBO 100G,Cuidado Personal,Cuidado de la Piel
 209080,Jabon Barra Farmax Esfoliante 100 gr,Cuidado Personal,Cuidado de la Piel
 209083,Leche Corporal Babaria Vitamina C 500 ml,Cuidado Personal,Cuidado de la Piel
 209084,Leche Corporal Babaria Vitamina E 500 ml,Cuidado Personal,Cuidado de la Piel
@@ -7580,6 +7581,7 @@ id_producto,producto,categoria,subcategoria
 228024,DEO SPEED STICK   EN BARRA CLINICAL  55,Cuidado Personal,Cuidado de la Piel
 228028,Gaseosa Coca Cola 2 L,Bebidas,Gaseosas
 228032,SHAMPOO  FRUCTIS HAIR FOOD  PINA  300 ML,Cuidado Personal,Cuidado del Cabello
+228033,ACONDIC FRUCTISPINA  HAIR FOOD 300 ML,Cuidado Personal,Cuidado del Cabello
 228034,MASCARA FRUCTIS PINA HAIR FOOD  300 ML,Cuidado Personal,Cuidado del Cabello
 228045,BIPACK PANAL MI BEBE XG 2 X 36 UND,Cuidado del Bebé,Pañales
 228049,PROTECTOR DIARIO NOSOTRAS  NORMAL 48X10,Cuidado Personal,Cuidado Familiar
@@ -7589,6 +7591,7 @@ id_producto,producto,categoria,subcategoria
 228069,GEL DENTAL CONDOR KIDS HW 3511,Cuidado del Bebé,Kids
 228073,NAFTALINA PERDIGON 100 GR,Cuidado del Hogar,Productos Americanos
 228074,NAFTALINA IBERIA 100 GR,Cuidado del Hogar,Productos Americanos
+228075,TINTE ISSUE EXPRESS 5 MINUTOS ROJO,Cuidado Personal,Cuidado del Cabello
 228076,TINTE ISSUE EXPRESS 5 MINUTOS RUBIO NATU,Cuidado Personal,Cuidado del Cabello
 228083,PAPEL FINESSE FAMILIA 1 X 32,Cuidado Personal,Cuidado Familiar
 228084,ESPONJA LIMPPANO SUPERWISH MULTIUSO 4UND,Cuidado del Hogar,Accesorios del Hogar
@@ -10956,6 +10959,7 @@ id_producto,producto,categoria,subcategoria
 434233,Semilla de Soya Nativa 500 gr,Abarrotes,Condimentos y Legumbres
 434426,Sazonador Badia Completa 12 oz,Abarrotes,Condimentos y Legumbres
 434434,Aji Picado Badia en Aceite Oliva 226.7 gr,Abarrotes,Productos Americanos
+434442,Albahaca Badia 0.75 oz,Abarrotes,Productos Americanos
 434469,Canela Molida Badia 2 oz,Abarrotes,Productos Americanos
 434477,Curry en Polvo Badia 2 oz,Abarrotes,Productos Americanos
 434485,Chile Badia Polvo 2.5 oz,Abarrotes,Condimentos y Legumbres
@@ -13250,7 +13254,7 @@ id_producto,producto,categoria,subcategoria
 552359,Sal Uyuni Molinillo con Aji 90 gr,Abarrotes,Básicos
 552360,Sal Uyuni Molinillo con Locoto 90 gr,Abarrotes,Básicos
 552361,Sal con Cebolla Uyuni Molinillo 90 gr,Abarrotes,Básicos
-552362,FLOR DE SAL UYUNI MOLINILLO 50 G,Abarrotes,Básicos
+552362,Sal Flor de Sal Uyuni Molinillo 50 gr,Abarrotes,Básicos
 552363,Sal Uyuni Molinillo con Ajo 90 gr,Abarrotes,Básicos
 552366,Pack 6 Cerveza Martens Gold Lata + Copa,Bebidas,Cervezas
 552367,Energizante Volt Guarana 310 ml,Bebidas,Energizantes
@@ -13869,8 +13873,10 @@ id_producto,producto,categoria,subcategoria
 553181,Fruta Deshidratada Confrut Frutilla Trozos 50 gr,Abarrotes,Frutas en Conserva
 553182,Mango Deshidratado Confrut 50 gr,Abarrotes,Frutas en Conserva
 553183,Platano Entero Deshidratado Confrut 100 gr,Abarrotes,Frutas en Conserva
+553187,Mermelada Confrut Durazno Yacon 50 gr,Abarrotes,"Mermel, Mieles"
 553189,Mermelada Confrut Mora Yacon 500 gr,Abarrotes,"Mermel, Mieles"
 553190,MANI CONFRUT PELADO TOSTADO 100 GR,Abarrotes,Frutas en Conserva
+553197,MERMELADA CONFRUT MARACUYA TOMA MOR 500,Abarrotes,"Mermel, Mieles"
 553199,Mermelada Confrut Naranja Yacon 500 gr,Abarrotes,"Mermel, Mieles"
 553201,AJO EN POLVO SANTIAGO 60 GR,Abarrotes,Condimentos y Legumbres
 553202,Curcuma Santiago Polvo 60 gr,Abarrotes,Condimentos y Legumbres
@@ -17854,6 +17860,7 @@ id_producto,producto,categoria,subcategoria
 669360,ORALB PACK CEPILLOS ADVAN 7 BENEF 3 PZAS,Cuidado Personal,Cuidado Bucal
 669361,GILL PREST3 CARBON 2PX72U,Cuidado Personal,Cuidado de la Piel
 669364,PANOS MICROFIBRA TOTES REUTILIZABLE 30 H,Cuidado del Hogar,Accesorios del Hogar
+669365,PANOS MICROFIBRA TOTES REUTILIZABLE 30 H,Cuidado del Hogar,Accesorios del Hogar
 669366,PAPEL TOALLA SEDA 200 MTS,Cuidado del Hogar,Limpieza de Cocina
 669369,DOWNY EXOTICO 360ML X 12U,Cuidado del Hogar,Limpieza de la Ropa
 669901,Pizza Hipermaxi Congelada Hawaiana 620 gr,Congelados,Masas y Comidas Congeladas
@@ -19261,6 +19268,9 @@ id_producto,producto,categoria,subcategoria
 674160,Pan Hot Dog Normal Panissimo 14 cm 12 un,Panadería,Panadería Externa
 674161,PAN HOT DOG EXTRA LARGO 21CM PANISSIMO 10UNI,Panadería,Panadería Externa
 674162,Filete de Paiche Titicaca kg,Congelados,Carnes Congeladas
+674166,Salchicha Viena Haas Medio 14 un,Fiambres,Temporada San Juan Externos
+674167,Salchicha Viena Haas Cuarto 6 un,Fiambres,Temporada San Juan Externos
+674168,Salchicha Haas Frankfurt Extra Larga 8 un,Fiambres,Temporada San Juan Externos
 674169,Papa Corte Rustica Simplot 2 kg,Congelados,Masas y Comidas Congeladas
 674173,Salchicha Cielo Tipo Frankfurt 750 gr,Fiambres,Fiambres Externos
 674177,Salchicha Hadoquera Ahumada XXL Al Vacio kg,Fiambres,Fiambres Externos
@@ -19446,6 +19456,7 @@ id_producto,producto,categoria,subcategoria
 674471,SALCHICHA SIN PIEL OSFIM VIENIQUESO 1 KILOGRAMO,Fiambres,Fiambres Externos
 674472,YOGURT ENTERO FRUTADO PIL SABOR COCO 700GRS,Lácteos y Derivados,Yogures
 674474,YOGURT ENTERO FRUTADO PIL FRUTILLA 700GRS,Lácteos y Derivados,Yogures
+674487,MORTADELA HASS CERVECERO KILOGRAMO,Fiambres,Fiambres Externos
 674490,MORTADELA HASS PRIMAVERA KILOGRAMO,Fiambres,Fiambres Externos
 674832,MINI TORTA DELIZIA FRUTILLA 850ML,Congelados,"Helados, Cassattas y Picoleses"
 674834,MINI TORTA DELIZIA YOGURT SALSA AMARENA 850 ML,Congelados,"Helados, Cassattas y Picoleses"
