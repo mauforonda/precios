@@ -4490,6 +4490,7 @@ id_producto,producto,categoria,subcategoria
 108767,Crema de Peinar Fixer Natural 250 gr,Cuidado Personal,Cuidado del Cabello
 108768,Crema Corporal Juicy Passion Flower 100 ml,Cuidado del Bebé,Kids
 108769,Crema Corpotal Juicy Summer Crush 100 ml,Cuidado del Bebé,Kids
+108783,Frutos Secos Cocinero 300 gr,Abarrotes,Snack
 108788,Pack Agua Mendocina Sin Gas 3 L,Bebidas,Aguas
 108801,Lavavajilla Surf Limon Doypack 1 L,Cuidado del Hogar,Limpieza de Cocina
 108820,Ambientador Aerosol Sapolio Coco Tropical 360 ml,Cuidado del Hogar,Limpieza de Living y Ropero
@@ -13934,6 +13935,7 @@ id_producto,producto,categoria,subcategoria
 553258,Gomita Regaliz Tubos Colores 15 gr,Abarrotes,Golosinas - Varias
 553259,GOMITA REGALIZ TUBES FRESA 15G,Abarrotes,Golosinas - Varias
 553268,PACK BREICK DIA DE LA MADRE,Abarrotes,Chocolates y Caramelos
+553270,PIPOCA GUADIA SALADA PICANTE 90 GR,Abarrotes,Snack
 553271,ISOTONICO AQUALITE FRUIT PUNCH 500ML,Bebidas,Isotónicos
 553272,ISOTONICO AQUALIFE BLUE BERRY 500ML,Bebidas,Isotónicos
 553273,HIDRATANTE ISOTONICA BLUE BERRY S AZUC 5,Bebidas,Isotónicos
@@ -18031,6 +18033,7 @@ id_producto,producto,categoria,subcategoria
 670721,Cepillo Profi Baño con Base,Cuidado del Hogar,Accesorios del Hogar
 670723,Bolsa Basura Virutex Biorollo 70x90,Cuidado del Hogar,Accesorios del Hogar
 670756,Queso de Untar Colinas del Sol Trucha Ahumada,Lácteos y Derivados,Quesos
+670758,Pack Sofia San Juan Clasico Res,Fiambres,Temporada San Juan Externos
 670771,Mermelada Dietetica de Frutilla Clementina,Abarrotes,Dietéticos y Saludables
 670772,Mermelada Dietetica de Durazno Clementina,Abarrotes,Dietéticos y Saludables
 670778,PAN PARA PANCHITOS 16CM 10 UNIDADES BOLSA,Panadería,Panadería Externa
@@ -18248,6 +18251,7 @@ id_producto,producto,categoria,subcategoria
 671487,Pack Sofia San Juan Chorizo Parillero,Fiambres,Temporada San Juan Externos
 671489,535100 PACK SOFIA PEQUENO SAN JUAN UNIDAD,Fiambres,Temporada San Juan Externos
 671490,Pack Sofia San Juan Grande,Fiambres,Temporada San Juan Externos
+671492,Pack Sofia San Juan de Res XL,Fiambres,Temporada San Juan Externos
 671495,Helado Pil Vainilla 5 L,Congelados,"Helados, Cassattas y Picoleses"
 671496,Helado Pil Chocolate 5 L,Congelados,"Helados, Cassattas y Picoleses"
 671497,Helado Pil Frutilla 5 L,Congelados,"Helados, Cassattas y Picoleses"
@@ -19018,6 +19022,7 @@ id_producto,producto,categoria,subcategoria
 673659,Pan de Hamburguesa La Colmena 10 un,Panadería,Panadería Externa
 673660,Pan Tortilla con Queso La Colmena,Panadería,Panadería Externa
 673661,Pan de Panchito La Colmena Pequeño 10 un,Panadería,Panadería Externa
+673662,PAN HOT DOG XTR LARGO LA COLMENA 10U,Panadería,Panadería Externa
 673663,Pan Salvado La Colmena 10 un,Panadería,Panadería Externa
 673664,Pan de Mesa La Colmena 20 un,Panadería,Panadería Externa
 673665,Pre Pizza La Colmena,Panadería,Panadería Externa
@@ -19046,6 +19051,7 @@ id_producto,producto,categoria,subcategoria
 673731,Paleta Delizia Tradicion Chantilly 60 ml,Congelados,"Helados, Cassattas y Picoleses"
 673732,Salchicha Ahumada Sofia 10 un,Fiambres,Fiambres Externos
 673733,Salchicha Hadoquera Ahumada 20 UN,Fiambres,Fiambres Externos
+673746,PACK HADOQUERA SOFIA 14CM CLASICO SAN JUAN,Fiambres,Temporada San Juan Externos
 673747,Pack San Juan Sofia Hadoquera XL,Fiambres,Temporada San Juan Externos
 673750,Alimento Bebible Soya Nordland con Almendra 1 L,Lácteos y Derivados,Leches
 673752,Chorizo Español Zenteno 150 gr,Fiambres,Fiambres Externos
@@ -19093,6 +19099,7 @@ id_producto,producto,categoria,subcategoria
 673818,PIERNA DE PAVO AHUMADA SANTA ISABEL 4 UNIDADES,Fiambres,Fiambres Externos
 673821,Jamon de Pavo Santa Isabel Barra kg,Fiambres,Fiambres Externos
 673822,Mortadela de Pavo Santa Isabel Barra kg,Fiambres,Fiambres Externos
+673825,Salchicha Cielo Tipo Frankfurt 22 cm kg,Fiambres,Fiambres Externos
 673826,Salchicha Cielo de Cerdo Tipo Viena Ahumada Granel,Fiambres,Fiambres Externos
 673827,Salchicha Cielo Tipo Viena San Juancho,Fiambres,Fiambres Externos
 673834,Mortadela Jamonada Cielo Barra,Fiambres,Fiambres Externos
@@ -19456,8 +19463,10 @@ id_producto,producto,categoria,subcategoria
 674471,SALCHICHA SIN PIEL OSFIM VIENIQUESO 1 KILOGRAMO,Fiambres,Fiambres Externos
 674472,YOGURT ENTERO FRUTADO PIL SABOR COCO 700GRS,Lácteos y Derivados,Yogures
 674474,YOGURT ENTERO FRUTADO PIL FRUTILLA 700GRS,Lácteos y Derivados,Yogures
+674484,SALCHICHA FRANKFURT HASS KILOGRAMO,Fiambres,Fiambres Externos
 674487,MORTADELA HASS CERVECERO KILOGRAMO,Fiambres,Fiambres Externos
 674490,MORTADELA HASS PRIMAVERA KILOGRAMO,Fiambres,Fiambres Externos
+674492,QUESO MUZZARELLA MALLON 450GR,Lácteos y Derivados,Quesos
 674832,MINI TORTA DELIZIA FRUTILLA 850ML,Congelados,"Helados, Cassattas y Picoleses"
 674834,MINI TORTA DELIZIA YOGURT SALSA AMARENA 850 ML,Congelados,"Helados, Cassattas y Picoleses"
 675245,Miel de Abeja Eva Promiel 250 gr,Abarrotes,"Mermel, Mieles"
