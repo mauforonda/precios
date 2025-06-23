@@ -1537,6 +1537,7 @@ id_producto,producto,categoria,subcategoria
 24118,GOMITA BILLIKEN BULL DOG FRUTILLA ACIDO,Abarrotes,Golosinas - Varias
 24119,Gomita Billiken Bull Dog Tutti Acido 125 gr,Abarrotes,Golosinas - Varias
 24120,Cereal Kelloggs Choco Krispis 310 gr,Abarrotes,Nutrición Infantil
+24126,BEBIDA SENSS HARD ACHACHAIRU LTA 355ML,Bebidas,Licores
 24127,Gelatina Tomay Fresa 230 gr,Abarrotes,Repostería
 24130,Gomita Billiken Bull Dog Regaliz Frutilla 500 gr,Abarrotes,Golosinas - Varias
 24131,Gomita Billiken Acido Tutti Frutti 500 gr,Abarrotes,Golosinas - Varias
@@ -1713,6 +1714,7 @@ id_producto,producto,categoria,subcategoria
 25173,GOMITA MOGUL BANANITAS BSA 30G,Abarrotes,Golosinas - Varias
 25174,TWOPACK HIDRATANTE LIFE 500ML,Bebidas,Isotónicos
 25180,NESCAFE ORIGINAL EXT FUERTE DP 40G,Abarrotes,Café y Sucedáneos
+25183,HARINA KANTUTA INTEGRAL 1KG,Abarrotes,Básicos
 25185,ACEITE D OLIVA KRIS EXT VIRGEN 250 ML,Abarrotes,Básicos
 25186,CHUFLAY FLOW HARD ZALZER BOT 275 ML,Bebidas,Licores
 25187,BEBIDA FLOW NENE SUNRISE BOT 275 ML,Bebidas,Licores
@@ -7585,6 +7587,7 @@ id_producto,producto,categoria,subcategoria
 228033,ACONDIC FRUCTISPINA  HAIR FOOD 300 ML,Cuidado Personal,Cuidado del Cabello
 228034,MASCARA FRUCTIS PINA HAIR FOOD  300 ML,Cuidado Personal,Cuidado del Cabello
 228045,BIPACK PANAL MI BEBE XG 2 X 36 UND,Cuidado del Bebé,Pañales
+228046,AGUA SANITARIA  URCA 12X1L,Cuidado del Hogar,Limpieza de Living y Ropero
 228049,PROTECTOR DIARIO NOSOTRAS  NORMAL 48X10,Cuidado Personal,Cuidado Familiar
 228053,BALDE MAX HOGAR C ESCURRIDOR 12 LTS,Cuidado del Hogar,Accesorios del Hogar
 228054,PAPELERO MAX HOGAR 10 LTS,Cuidado del Hogar,Accesorios del Hogar
@@ -7596,6 +7599,7 @@ id_producto,producto,categoria,subcategoria
 228076,TINTE ISSUE EXPRESS 5 MINUTOS RUBIO NATU,Cuidado Personal,Cuidado del Cabello
 228083,PAPEL FINESSE FAMILIA 1 X 32,Cuidado Personal,Cuidado Familiar
 228084,ESPONJA LIMPPANO SUPERWISH MULTIUSO 4UND,Cuidado del Hogar,Accesorios del Hogar
+228088,TALCO PARA BEBE CARISSA  650 GR.,Cuidado del Bebé,Cuidado del Bebé
 228145,Ron Havana Club 3 Años 1 L,Bebidas,Licores
 228725,Galleta Granix Cereal 185 gr,Abarrotes,Galletas
 228771,Endulcorante  Chuker con Stevia 250 ml,Abarrotes,Dietéticos y Saludables
@@ -7766,6 +7770,7 @@ id_producto,producto,categoria,subcategoria
 234042,POLVO MNY SUPERTAY FULL COVERAGE 220,Cuidado Personal,Cuidado de la Piel
 234043,BRILLO LIFTER GLOSS PLUMP MNY HOT CHILI,Cuidado Personal,Cuidado de la Piel
 234044,BRILLO LIFTER GLOSS PLUMP MNY PINK STING,Cuidado Personal,Cuidado de la Piel
+234045,LABIAL VINYL INK STRIKING 150,Cuidado Personal,Cuidado de la Piel
 234046,LABIALVINYL INK UPBEAT 155,Cuidado Personal,Cuidado de la Piel
 234047,LABIALVINYL ROGUE 145,Cuidado Personal,Cuidado de la Piel
 234048,LABIALVINYL SULTRY 160,Cuidado Personal,Cuidado de la Piel
@@ -7984,7 +7989,7 @@ id_producto,producto,categoria,subcategoria
 240755,Cepillo Dental Doctor Dent Masagger Medio 2 Und,Cuidado Personal,Cuidado Bucal
 240756,Cepillo Doctor Dent Protec Clean Medio 2 Und,Cuidado Personal,Cuidado Bucal
 240757,Cepillo Doctor Dent Extra Clean Medio 365 2 Und,Cuidado Personal,Cuidado Bucal
-240758,PACK NUTRISSE 10 + ESMALTE VOGUE,Cuidado Personal,Cuidado del Cabello
+240758,Pack Tinte Nutrisse Tono 10 + Esmalte Uña Vogue,Cuidado Personal,Cuidado del Cabello
 240759,Pack Tinte Nutrisse Tono 30 + Esmalte Uña Vogue,Cuidado Personal,Cuidado del Cabello
 240760,PACK NUTRISSE ULT COBER 50 + ESMALTE VOG,Cuidado Personal,Cuidado del Cabello
 240762,Pack Tinte Nutrisse Tono 71 + Esmalte Uña Vogue,Cuidado Personal,Cuidado del Cabello
@@ -13562,7 +13567,7 @@ id_producto,producto,categoria,subcategoria
 552808,LICOR CITRICUS LIMONCELLO  700 ML,Bebidas,Licores
 552809,Licor Arancello Citricus 700 ml,Bebidas,Licores
 552810,Licor Tunqui Café 700 ml,Bebidas,Licores
-552811,SINGANI NUMINA 750 ML,Bebidas,Licores
+552811,Singani Numina Premium 750 ml,Bebidas,Licores
 552812,Yogurt Delizia Tiki Tito Sabor Platano 50 gr,Lácteos y Derivados,Yogures
 552813,Galleta Princesa Ricositas 700 gr,Abarrotes,Galletas
 552814,Galleta La Suprema Avena Miel Canela,Abarrotes,Galletas
@@ -19273,7 +19278,7 @@ id_producto,producto,categoria,subcategoria
 674156,Helado Delizia Yogurt Durazno 70 ml,Congelados,"Helados, Cassattas y Picoleses"
 674157,Helado Delizia Yogurt Mora 70 ml,Congelados,"Helados, Cassattas y Picoleses"
 674160,Pan Hot Dog Normal Panissimo 14 cm 12 un,Panadería,Panadería Externa
-674161,PAN HOT DOG EXTRA LARGO 21CM PANISSIMO 10UNI,Panadería,Panadería Externa
+674161,PAN HOT DOG EXTRA LARGO 21CM PANISSIMO  8UNI,Panadería,Panadería Externa
 674162,Filete de Paiche Titicaca kg,Congelados,Carnes Congeladas
 674166,Salchicha Viena Haas Medio 14 un,Fiambres,Temporada San Juan Externos
 674167,Salchicha Viena Haas Cuarto 6 un,Fiambres,Temporada San Juan Externos
@@ -20342,6 +20347,7 @@ id_producto,producto,categoria,subcategoria
 764783,Cuñapecitos Mayser Dulcecitos 200 gr,Pastelería y Masas Típicas,Masas Típicas Externas
 764857,Pan Brioche Belen Surtido 340 gr,Panadería,Panadería Externa
 764871,Empanadas Integrales Hipermaxi Con Cereales 4 un,Panadería,Panadería Especialidades Hipermaxi
+764875,PAN CON AJO SANTA ELENA X2 UND.PRECOCIDO,Panadería,Panadería Externa
 765024,Magdalenas Paris 10 un,Panadería,Panadería Externa
 765148,Alfajores de Maicena 6 un,Pastelería y Masas Típicas,Pastelería Hipermaxi
 765328,Rosquillas Abiscochadas Cositas al Horno 300 gr,Pastelería y Masas Típicas,Masas Típicas Externas
