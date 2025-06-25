@@ -1714,6 +1714,7 @@ id_producto,producto,categoria,subcategoria
 25170,NESCAFE CAPPUCCINO CJA 112G,Abarrotes,Café y Sucedáneos
 25173,GOMITA MOGUL BANANITAS BSA 30G,Abarrotes,Golosinas - Varias
 25174,TWOPACK HIDRATANTE LIFE 500ML,Bebidas,Isotónicos
+25179,ISOTONICO AQUALITE CITRUS 500ML,Bebidas,Isotónicos
 25180,NESCAFE ORIGINAL EXT FUERTE DP 40G,Abarrotes,Café y Sucedáneos
 25181,PACK SINGANI DOBLE ORO 750ML 1TAZA,Bebidas,Licores
 25183,HARINA KANTUTA INTEGRAL 1KG,Abarrotes,Básicos
@@ -1723,6 +1724,7 @@ id_producto,producto,categoria,subcategoria
 25190,ENERGIZANTE MOOV BLUE RAZZ LTA 355ML,Bebidas,Energizantes
 25191,ENERGIZANTE MOOV CHERRY LEMON 355ML,Bebidas,Energizantes
 25192,ENERGIZANTE MOOV PINEAP PUNCH 355ML,Bebidas,Energizantes
+25237,SAL ROSADA ESSENCIAL FINA BSA 650G,Abarrotes,Básicos
 25640,Surtido de Mariscos Robinson Crusoe Natural 190 gr,Abarrotes,Comidas en Conserva
 25771,Huevos Caisy 12 un,Lácteos y Derivados,Huevos
 25789,Galleta Rocklets Chocolate 118 gr,Abarrotes,Galletas
@@ -1938,6 +1940,7 @@ id_producto,producto,categoria,subcategoria
 29057,"Galleta Cofler Relleno Cookies 132,8 gr",Abarrotes,Galletas
 29059,Te Brissol de Tilo  20 Sobres,Abarrotes,Dietéticos y Saludables
 29060,PUDIN MIKI DULCE D LECHE CJA 120G,Abarrotes,Repostería
+29062,PUDIN MIKI VAINILLA CJA 120G,Abarrotes,Repostería
 29064,Whisky Monkey Shoulder 700 ml,Bebidas,Licores
 29065,VINO CAMPOS DE SOLANA TANNAT UNICO DARK,Bebidas,Vinos y Champagne
 29066,Piña Colada Celosa Spirits 355 ml,Bebidas,Licores
@@ -7582,12 +7585,14 @@ id_producto,producto,categoria,subcategoria
 227919,Extracto de Tomate Cajamar 140 gr,Abarrotes,Salsas y Extracto de Tomate
 227951,Huevos Aranjuez Medianos 12 un,Lácteos y Derivados,Huevos
 228014,TALCO ALGABO DESODORANTE CELESTE 120GR,Cuidado Personal,Cuidado de la Piel
+228015,TALCO ALGABO DESODORANTE ROSA 120GR,Cuidado Personal,Cuidado de la Piel
 228023,DEO STICK SPEED BARRA CLINICAL MSS 55 G,Cuidado Personal,Cuidado de la Piel
 228024,DEO SPEED STICK   EN BARRA CLINICAL  55,Cuidado Personal,Cuidado de la Piel
 228028,Gaseosa Coca Cola 2 L,Bebidas,Gaseosas
 228032,SHAMPOO  FRUCTIS HAIR FOOD  PINA  300 ML,Cuidado Personal,Cuidado del Cabello
 228033,ACONDIC FRUCTISPINA  HAIR FOOD 300 ML,Cuidado Personal,Cuidado del Cabello
 228034,MASCARA FRUCTIS PINA HAIR FOOD  300 ML,Cuidado Personal,Cuidado del Cabello
+228043,BIPACK PANAL MI BEBE - G 2 X 40 UND,Cuidado del Bebé,Pañales
 228045,BIPACK PANAL MI BEBE XG 2 X 36 UND,Cuidado del Bebé,Pañales
 228046,AGUA SANITARIA  URCA 12X1L,Cuidado del Hogar,Limpieza de Living y Ropero
 228049,PROTECTOR DIARIO NOSOTRAS  NORMAL 48X10,Cuidado Personal,Cuidado Familiar
@@ -7595,6 +7600,7 @@ id_producto,producto,categoria,subcategoria
 228054,PAPELERO MAX HOGAR 10 LTS,Cuidado del Hogar,Accesorios del Hogar
 228055,TRAPEADOR WISARD CON PALO  38 CM,Cuidado del Hogar,Accesorios del Hogar
 228069,GEL DENTAL CONDOR KIDS HW 3511,Cuidado del Bebé,Kids
+228071,GEL DENTAL CONDOR KIDS HW 8211,Cuidado del Bebé,Kids
 228073,NAFTALINA PERDIGON 100 GR,Cuidado del Hogar,Productos Americanos
 228074,NAFTALINA IBERIA 100 GR,Cuidado del Hogar,Productos Americanos
 228075,TINTE ISSUE EXPRESS 5 MINUTOS ROJO,Cuidado Personal,Cuidado del Cabello
@@ -8149,7 +8155,7 @@ id_producto,producto,categoria,subcategoria
 249046,COLONIA PORTUGAL BEBE 120 ML,Cuidado del Bebé,Cuidado del Bebé
 249047,CREMA PORTUGAL BEBE MANZANILLA 120 GR,Cuidado del Bebé,Cuidado del Bebé
 249049,SHAMPOO PORTUGAL BEBE ALOE 120 ML,Cuidado del Bebé,Cuidado del Bebé
-249052,TALCO PORTUGAL BEBE ZINC 250,Cuidado del Bebé,Cuidado del Bebé
+249052,Talco Portugal Bebe Zinc 250 gr,Cuidado del Bebé,Cuidado del Bebé
 249057,Bloqueador Portugal Bahia Sport Spf 50 60 gr,Cuidado Personal,Cuidado de la Piel
 249058,GEL FIJADOR SUPER FIX  275G,Cuidado Personal,Cuidado del Cabello
 249061,Protector Solar Sunbeat 50 + Diario 90 gr,Cuidado Personal,Cuidado de la Piel
@@ -10029,6 +10035,9 @@ id_producto,producto,categoria,subcategoria
 365068,Jugo Bc Campagnola Naranja 1 L,Bebidas,"Jugos, Néctar"
 365076,Jugo Bc Campagnola Multifruta 1 L,Bebidas,"Jugos, Néctar"
 365084,Jugo Bc Campagnola Manzana 1 L,Bebidas,"Jugos, Néctar"
+365087,WAFER GUSTOSSI CHOCOLATE 90 GR,Abarrotes,Galletas
+365088,Galleta Wafer Gustossi Vainilla 90 gr,Abarrotes,Galletas
+365089,WAFER GUSTOSSI FRUTILLA 90 GR,Abarrotes,Galletas
 365090,Detergente Liquido Archer para Maquina 5 L,Cuidado del Hogar,Limpieza de la Ropa
 365114,Jugo Bc Campagnola Manzana 200 ml,Bebidas,"Jugos, Néctar"
 365122,Jugo Bc Campagnola Naranja 200 ml,Bebidas,"Jugos, Néctar"
@@ -13886,6 +13895,7 @@ id_producto,producto,categoria,subcategoria
 553190,MANI CONFRUT PELADO TOSTADO 100 GR,Abarrotes,Frutas en Conserva
 553197,MERMELADA CONFRUT MARACUYA TOMA MOR 500,Abarrotes,"Mermel, Mieles"
 553199,Mermelada Confrut Naranja Yacon 500 gr,Abarrotes,"Mermel, Mieles"
+553200,Mermelada Confrut Piña Yacon 500 gr,Abarrotes,"Mermel, Mieles"
 553201,AJO EN POLVO SANTIAGO 60 GR,Abarrotes,Condimentos y Legumbres
 553202,Curcuma Santiago Polvo 60 gr,Abarrotes,Condimentos y Legumbres
 553203,Locoto en Polvo Santiago 60 gr,Abarrotes,Condimentos y Legumbres
@@ -19010,7 +19020,7 @@ id_producto,producto,categoria,subcategoria
 673632,Concha de Abanico Ostiones Ilomar 450 gr,Congelados,Carnes Congeladas
 673633,Mejillones Enteros Ilomar con Concha,Congelados,Carnes Congeladas
 673634,Mixtura de Mariscos Ilomar 450 gr,Congelados,Carnes Congeladas
-673635,POTA ENTERA Y PELADA ILOMAR 500 GRAMOS,Congelados,Carnes Congeladas
+673635,Pota Entera Pelada Ilomar 500 kg,Congelados,Carnes Congeladas
 673637,Pulpo Entero Ilomar kg,Congelados,Carnes Congeladas
 673638,Filete de Pescado Basa Ilomar kg,Congelados,Carnes Congeladas
 673640,Filete de Pescado Tilapia Ilomar kg,Congelados,Carnes Congeladas
@@ -19444,6 +19454,7 @@ id_producto,producto,categoria,subcategoria
 674387,Pan Molde Miga King Integral 280 gr,Panadería,Panadería Externa
 674388,Pan de Hamburguesa King 10 un,Panadería,Panadería Externa
 674397,Mini Torta Caffe Latte Delizia 850 ml,Congelados,"Helados, Cassattas y Picoleses"
+674398,YOGURT GRIEGO CHEESECAKE DELIZIA 170 GRAMOS,Lácteos y Derivados,Yogures
 674399,Budin Delizia Chocolatin 110 gr,Lácteos y Derivados,Postres
 674400,Postre Helado Delizia Cafe de Altura 850 ml,Congelados,"Helados, Cassattas y Picoleses"
 674401,Pilfrut Manzana 2 lt,Bebidas,"Jugos, Néctar"
@@ -19475,6 +19486,7 @@ id_producto,producto,categoria,subcategoria
 674485,MORTADELA HASS TIPO BOLOGNA  KILOGRAMO,Fiambres,Fiambres Externos
 674487,MORTADELA HASS CERVECERO KILOGRAMO,Fiambres,Fiambres Externos
 674490,MORTADELA HASS PRIMAVERA KILOGRAMO,Fiambres,Fiambres Externos
+674491,PANCHITO BOLSA GRANDE 12 UNIDADES,Panadería,Panadería Externa
 674492,QUESO MUZZARELLA MALLON 450GR,Lácteos y Derivados,Quesos
 674832,MINI TORTA DELIZIA FRUTILLA 850ML,Congelados,"Helados, Cassattas y Picoleses"
 674834,MINI TORTA DELIZIA YOGURT SALSA AMARENA 850 ML,Congelados,"Helados, Cassattas y Picoleses"
@@ -20276,6 +20288,7 @@ id_producto,producto,categoria,subcategoria
 761258,Porotos Hess Conserva 340 gr,Fiambres,Fiambres Externos
 761263,Berenjenas Hess Conserva 330 gr,Fiambres,Fiambres Externos
 761282,YOGURT BEB.PROBOT.DESLACT.MANDARINA H.P.1LT.,Lácteos y Derivados,Yogures
+761291,YOGURT BEB.PROB.DESLACT.FRUT.FRUTOS ROJOS H.P.1LT.,Lácteos y Derivados,Yogures
 761335,Yogurt Bebible Friedland Probiotico Papaya 1 L,Lácteos y Derivados,Yogures
 761419,Tapa de Empanada Criollas Miltipasta 12 un,Congelados,Masas y Comidas Congeladas
 761422,Tapa de Empanada Multiple Multipasta 12 un,Congelados,Masas y Comidas Congeladas
@@ -20343,6 +20356,7 @@ id_producto,producto,categoria,subcategoria
 764235,PULPA Y ZUMO CONG.FRUTAS Y HORTALIZAS X5 UND.CELEBRE,Congelados,Pulpas y Frutas Congeladas
 764312,Pan Danes Rustico 3 Semillas,Panadería,Panadería Externa
 764423,PAN DANES SALVADO DE TRIGO UNID.,Panadería,Panadería Externa
+764523,PIZZA PRECOC.CONG.JAMON Y MUZZARELLA BAHREM UND.,Congelados,Masas y Comidas Congeladas
 764534,Pan Danes Blanco Aceite de Oliva,Panadería,Panadería Externa
 764578,Mix Frutas Congeladas Andeas Berries 400 gr,Congelados,Pulpas y Frutas Congeladas
 764590,Zarzamora Congelada Andean Berries 400 gr,Congelados,Pulpas y Frutas Congeladas
