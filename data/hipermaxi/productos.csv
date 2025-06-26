@@ -1013,6 +1013,7 @@ id_producto,producto,categoria,subcategoria
 17214,Curcuma McCormick Ground Turmeric 53 gr,Abarrotes,Condimentos y Legumbres
 17215,Papa Inka Chips Queso Cebolla 142 gr,Abarrotes,Snack
 17222,Galleta Francesa Salvado Sesamo 500 gr,Abarrotes,Galletas
+17223,Galleta Francesa Dulce Sucrema 500 gr,Abarrotes,Galletas
 17225,Agua Zanna Durazno Frutos del Bosque 700 ml,Bebidas,Aguas
 17226,Agua Zanna Durazno Arandano 700 ml,Bebidas,Aguas
 17227,Agua Zanna Durazno Kiwi Frutilla 700 ml,Bebidas,Aguas
@@ -1675,6 +1676,7 @@ id_producto,producto,categoria,subcategoria
 25117,Galleta Family Farm Arroz Sin Sal 110 gr,Abarrotes,Dietéticos y Saludables
 25120,Vino Kohlberg Cautivo 750 ml,Bebidas,Vinos y Champagne
 25121,MANTEQ MANI MR NUTS CROC SIN AZUC 360G,Abarrotes,Repostería
+25122,MANTEQ MANI MR NUTS CREM ORIGINAL 360G,Abarrotes,Repostería
 25123,MANTEQ MANI MR NUTS CREM SIN AZUC 360G,Abarrotes,Repostería
 25124,Mani Croppers Salado 350 gr,Abarrotes,Snack
 25125,Mani Croppers Salado 105 gr,Abarrotes,Snack
@@ -1724,6 +1726,8 @@ id_producto,producto,categoria,subcategoria
 25190,ENERGIZANTE MOOV BLUE RAZZ LTA 355ML,Bebidas,Energizantes
 25191,ENERGIZANTE MOOV CHERRY LEMON 355ML,Bebidas,Energizantes
 25192,ENERGIZANTE MOOV PINEAP PUNCH 355ML,Bebidas,Energizantes
+25224,AJO MOLIDO DAMABRAVA FCO 100G,Abarrotes,Condimentos y Legumbres
+25226,PAPRIKA AHUMADA DAMABRAVA FCO 65G,Abarrotes,Condimentos y Legumbres
 25237,SAL ROSADA ESSENCIAL FINA BSA 650G,Abarrotes,Básicos
 25640,Surtido de Mariscos Robinson Crusoe Natural 190 gr,Abarrotes,Comidas en Conserva
 25771,Huevos Caisy 12 un,Lácteos y Derivados,Huevos
@@ -1771,6 +1775,7 @@ id_producto,producto,categoria,subcategoria
 26043,Mezcla en Polvo para Panqueques y waffles Chocolate 250 gr Nutrihit,Abarrotes,Dietéticos y Saludables
 26044,Bebida Bella Roma 473 ml,Bebidas,Licores
 26045,Vino Posta Glorieta Pinot Noir 750 ml,Bebidas,Vinos y Champagne
+26046,Vino Luca Malbec Old Vines 750 ml,Bebidas,Vinos y Champagne
 26047,Vino Luca Beso Dante Red Blend 750 ml,Bebidas,Vinos y Champagne
 26049,Te Frutte Diente de Leon 20 Sobres,Abarrotes,Café y Sucedáneos
 26050,Te Frutte Guanabana 20 Sobres,Abarrotes,Café y Sucedáneos
@@ -1779,7 +1784,7 @@ id_producto,producto,categoria,subcategoria
 26055,Vinagre Sakura Manzana Roja Premium 500 ml,Abarrotes,Básicos
 26056,Gin Brighton London 700 ml,Bebidas,Licores
 26057,Vinagre Je de Perejil Moringa 1 L,Abarrotes,Dietéticos y Saludables
-26058,Vinagre Je de Piña 1 L,Abarrotes,Dietéticos y Saludables
+26058,Vinagre de Piña Je 1 L,Abarrotes,Dietéticos y Saludables
 26059,Cafe Aroma Grano 250 gr,Abarrotes,Café y Sucedáneos
 26060,Fernet Buhero Negro 700 ml,Bebidas,Licores
 26061,PACK GALLETA MABEL MULTISEMILLA 3X200G,Abarrotes,Galletas
@@ -3603,7 +3608,7 @@ id_producto,producto,categoria,subcategoria
 100648,Sal McCormick Marina Hiebras 110 gr,Abarrotes,Condimentos y Legumbres
 100654,Sazonador McCormick Completo 45 gr,Abarrotes,Condimentos y Legumbres
 100672,Maizena Miki 200 gr,Abarrotes,Repostería
-100675,Sal McCormick Marina Molinillo 110 gr,Abarrotes,Básicos
+100675,Sal Marina McCormick Grinder 110 g,Abarrotes,Básicos
 100678,Salsa McCormick Picante Buffalo 148 ml,Abarrotes,Aderezos
 100693,Sardina Norte al Tomate Olvalado 425 gr,Abarrotes,Comidas en Conserva
 100697,Api Morado Pisabol 500 gr,Abarrotes,Básicos
@@ -8163,6 +8168,7 @@ id_producto,producto,categoria,subcategoria
 249063,Talco Pie Silka 150 gr,Cuidado Personal,Cuidado de la Piel
 249064,Colonia Algabo Lavanda 500 ml,Cuidado Personal,Cuidado de la Piel
 249070,Lavavajilla Maxibrill 5 L,Cuidado del Hogar,Limpieza de Cocina
+249071,Pack Maxibrill Lavandina Limpiador de Piso Pino 1 L,Cuidado del Hogar,Limpieza de la Ropa
 249072,PACK MAXIBRILL VAJILLERO Y ANTIGRASA 600,Cuidado del Hogar,Limpieza de Cocina
 249077,Cepillo Dental Dentalclean Cars 95,Cuidado del Bebé,Kids
 249078,Cepillo Dental Dentalclean Star Wars,Cuidado del Bebé,Kids
@@ -8977,8 +8983,8 @@ id_producto,producto,categoria,subcategoria
 325023,Jalapeño La Costanera Enteros 220 gr,Abarrotes,Verduras en Conserva
 325115,Vino Catena Chardonay 750 ml,Bebidas,Vinos y Champagne
 325163,Muffins Martha White Mix Cranberry Orange 7 oz,Abarrotes,Repostería
-325187,Edulcorante Rafha con Stevia 80  gr,Abarrotes,Dietéticos y Saludables
-325190,Edulcorante Rafha con Stevia 110  gr,Abarrotes,Dietéticos y Saludables
+325187,Edulcorante Rafha con Stevia 80 g,Abarrotes,Dietéticos y Saludables
+325190,Edulcorante Rafha con Stevia 110 g,Abarrotes,Dietéticos y Saludables
 325295,Syrup Sundae Smuckers Caramelo 20 oz,Abarrotes,Repostería
 325309,Topping Smuckers Chocolate 20 oz,Abarrotes,"Mermel, Mieles"
 325420,Salsa de Soya Aji no Sillao 1 L,Abarrotes,Condimentos y Legumbres
@@ -12432,7 +12438,7 @@ id_producto,producto,categoria,subcategoria
 550667,Refresco Fress de Linaza 400 gr,Bebidas,Refrescos en Polvo
 550668,Achocolatado Choco-mon Rubal 400 gr,Abarrotes,Nutrición Infantil
 550669,Premezcla Panqueques Waffles Valerie 300 gr,Abarrotes,Repostería
-550670,Premezcla Panqueques Waffles Clasicos Valerie 300 gr,Abarrotes,Repostería
+550670,Premezcla Panqueques Waffles Clasicos Valerie 300 g,Abarrotes,Repostería
 550672,Premezcla Pan Multigrano Valerie 300 gr,Abarrotes,Repostería
 550673,Waffles Precocidos Congelados Canela 8 un,Congelados,Masas y Comidas Congeladas
 550674,Waffles Precocidos Congelados Vainilla 8 un,Congelados,Masas y Comidas Congeladas
@@ -13961,6 +13967,7 @@ id_producto,producto,categoria,subcategoria
 553276,ISOTONICO AQUALITE GRANAD FRAMB 500ML,Bebidas,Isotónicos
 553277,CARAMELOS MINIBUM SURTIDO 400G,Abarrotes,Chocolates y Caramelos
 553278,PACK 2 PEPSI BLACK 2 LT,Bebidas,Gaseosas
+553282,BARRA DE QUINOA ANDES TROPICO 144 GR,Abarrotes,Nutrición Infantil
 553283,BARRA ANDES TROPICO AJONJOLI CACAO 156GR,Abarrotes,Nutrición Infantil
 553284,BARRAS DE CEREAL ANDES TROPICO SURT 148,Abarrotes,Nutrición Infantil
 553294,WAFER CARSA DADITOS BROWNIE 300 GR,Abarrotes,Galletas
@@ -17983,7 +17990,7 @@ id_producto,producto,categoria,subcategoria
 670416,Tomate Valenciana Oliva Gourmet 190 gr,Abarrotes,Verduras en Conserva
 670419,Escabeche Valenciana Locoto 200 gr,Abarrotes,Verduras en Conserva
 670420,Pesto de Albahaca Valenciana Gourmet 200 gr,Fiambres,Fiambres Externos
-670421,Hummus de Garbanzo Valenciana Gourmet,Fiambres,Fiambres Externos
+670421,Hummus de Garbanzo Valenciana Gourmet 200 g,Fiambres,Fiambres Externos
 670447,Jamon Selecto Zenteno Feteado 100 gr,Fiambres,Fiambres Externos
 670468,Galleta Gustossi Cracker 500 gr,Abarrotes,Galletas
 670469,Galleta Gustossi Cracker 1 kg,Abarrotes,Galletas
@@ -18850,7 +18857,7 @@ id_producto,producto,categoria,subcategoria
 673235,Jamon York Sofia al Vacio un,Fiambres,Fiambres Externos
 673237,Salchicha Osfim con Piel A Granel kg,Fiambres,Fiambres Externos
 673238,Salchicha Osfim Sin Piel A Granel kg,Fiambres,Fiambres Externos
-673241,Bebida Apego To Go Avellanas 300 ml,Lácteos y Derivados,Leches
+673241,Bebida Apego To Go Avellanas 300 ml Sin Azucar,Lácteos y Derivados,Leches
 673246,Yogurt Pairumani Frutilla 250 ml,Lácteos y Derivados,Yogures
 673247,Yogurt Pairumani Durazno 250 ml,Lácteos y Derivados,Yogures
 673248,Yogurt Pairumani Mora 250 ml,Lácteos y Derivados,Yogures
@@ -19488,6 +19495,7 @@ id_producto,producto,categoria,subcategoria
 674490,MORTADELA HASS PRIMAVERA KILOGRAMO,Fiambres,Fiambres Externos
 674491,PANCHITO BOLSA GRANDE 12 UNIDADES,Panadería,Panadería Externa
 674492,QUESO MUZZARELLA MALLON 450GR,Lácteos y Derivados,Quesos
+674504,KEFIR NATURAL DELIZIA SIN AZUCAR 170GRS,Lácteos y Derivados,Yogures
 674832,MINI TORTA DELIZIA FRUTILLA 850ML,Congelados,"Helados, Cassattas y Picoleses"
 674834,MINI TORTA DELIZIA YOGURT SALSA AMARENA 850 ML,Congelados,"Helados, Cassattas y Picoleses"
 675245,Miel de Abeja Eva Promiel 250 gr,Abarrotes,"Mermel, Mieles"
@@ -23166,6 +23174,7 @@ id_producto,producto,categoria,subcategoria
 863638,Chicle Fini Huevos de Dinosaurio 80 gr,Abarrotes,Golosinas - Varias
 863812,Hervidor de Agua 2 Lts,Bazar,Electrodoméstico/Línea Blanca-Hogar
 863820,Caja de Herramientas Tramontina Master 11 Piezas Incluidas,Bazar,Ferretería
+863886,Vestono Lavanda Aromatizante 1recuentreL,Bazar,Automotriz
 863975,VASO COLORES FRESH HALLOWEN  REY,Bazar,Menaje Plástico
 864323,JAN MUNECO NAVIDAD GRANDE 21,Bazar,Temporada Navidad
 864328,JAN CAJA DE REGALO NAVIDAD 10,Bazar,Temporada Navidad
