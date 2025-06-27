@@ -46,8 +46,11 @@ for departamento in departamentos:
         ]
     ).pivot_table(index="fecha", columns="id_producto", values="precio")
 
-    # fill forward on missing date
-    df = df.reindex(pd.date_range(df.index[0], df.index[-1], freq="D")).ffill()
+    # fill forward on missing dates
+    full_index = pd.date_range(df.index[0], df.index[-1], freq="D")
+    missing_dates = full_index.difference(df.index)
+    df = df.reindex(full_index)
+    df.loc[missing_dates] = df.ffill(limit_area="inside").loc[missing_dates]
 
     # price changes
     pd.concat(
