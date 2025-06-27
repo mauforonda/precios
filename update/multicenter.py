@@ -7,6 +7,7 @@ from time import sleep
 import datetime as dt
 from pytz import timezone
 import pandas as pd
+import re
 
 from utils.general import crearSesion, saveProductos
 
@@ -16,7 +17,7 @@ TIMEOUT = 10
 HOY = dt.datetime.now(timezone("America/La_Paz")).date()
 
 
-def getPagina(sesion, categoryId, offset, pageSize):
+def getPagina(sesion, hash, categoryId, offset, pageSize):
     def parseProduct(p):
         return dict(
             id_producto=p["productId"],
@@ -48,7 +49,7 @@ def getPagina(sesion, categoryId, offset, pageSize):
     extensions = {
         "persistedQuery": {
             "version": 1,
-            "sha256Hash": "e48b7999b5713c9ed7d378bea1bd1cf64c81080be71d91e0f0b427f41e858451",
+            "sha256Hash": hash,
             "sender": "vtex.store-resources@0.x",
             "provider": "vtex.search-graphql@0.x",
         },
@@ -61,7 +62,7 @@ def getPagina(sesion, categoryId, offset, pageSize):
         "workspace": "master",
         "maxAge": "short",
         "appsEtag": "remove",
-        "domain": "store",
+        "domain": "store","c351315ecde7f473587b710ac8b97f147ac0ac0cd3060c27c695843a72fd3903"
         "locale": "es-BO",
         "operationName": "productSearchV3",
         "variables": "{}",
@@ -90,12 +91,12 @@ def getPagina(sesion, categoryId, offset, pageSize):
                 raise Exception("unavailable source")
 
 
-def getCategoria(sesion, categoryId, pageSize=50):
+def getCategoria(sesion, hash, categoryId, pageSize=50):
     offset = 0
     productos = []
 
     while True:
-        page, total = getPagina(sesion, categoryId, offset, pageSize)
+        page, total = getPagina(sesion, hash, categoryId, offset, pageSize)
         productos.extend(page)
         print(f"{len(productos)} / {total} productos")
         if offset >= total:
@@ -105,18 +106,31 @@ def getCategoria(sesion, categoryId, pageSize=50):
 
 
 def getProductos():
-    url = "https://www.multicenter.com/api/catalog_system/pub/category/tree/1"
-    response = requests.get(url)
-    categorias = [
-        dict(categoryId=cat["id"], categoryName=cat["name"]) for cat in response.json()
-    ]
+    def getHash(sesion):
+        url = "https://www.multicenter.com/0/?order=OrderByNameASC&page=1"
+        regex = r'@runtimeMeta\(\{\\"hash\\":\\"([a-f0-9]{64})\\"\}\)\",\"typename\":\"ProductSearch\"'
+        response = sesion.get(url)
+        hash = re.search(regex, response.text).group(1)
+        return hash
 
-    data = []
+    def getCategorias(sesion):
+        url = "https://www.multicenter.com/api/catalog_system/pub/category/tree/1"
+        response = sesion.get(url)
+        categorias = [
+            dict(categoryId=cat["id"], categoryName=cat["name"]) for cat in response.json()
+        ]
+        return categorias
 
     with crearSesion() as sesion:
+
+        hash = getHash(sesion)
+        categorias = getCategorias(sesion)
+
+        data = []
+
         for categoria in categorias:
             print(f"{categoria['categoryName']}")
-            cat = getCategoria(sesion, categoria["categoryId"])
+            cat = getCategoria(sesion, hash, categoria["categoryId"])
             data.extend(cat)
 
     return data
