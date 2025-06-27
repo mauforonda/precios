@@ -50,6 +50,8 @@ id_producto,producto,proveedor,categoria
 7453763600543,Te con Canela Ceylan de 20 Uni,Ceylan,Te
 7453763731615,Cerveza Pilsener PaceÃ±a de 235 ml,PaceÃ±a,Cerveza
 10483734970527,Tai TÃ© Negro Y Frutos Rojos 250 mL,Tai,Te
+7392605601951,Leche Descremada Calcifem 800 ml,Pil,Leche Descremeda
+7392629391519,Yogurt Pil Sabor Durazno 1000 ml,Pil,Yogurt
 7392493142175,Aceite Fino 900 ml,Fino,Aceite
 7392493404319,Agua con Gas Vital 2 L,Vital,Agua con Gas
 7392493568159,Aquarius de Pera 2 L,Aquarius,Jugo de Fruta
@@ -62,7 +64,7 @@ id_producto,producto,proveedor,categoria
 7392495960223,Cerveza Heineken 330 ml,Heineken,Cerveza
 7392496025759,Cerveza Huari Miel 330 ml,Huari,Cerveza
 7392496058527,Cerveza PaceÃ±a Pilsener 473 ml,PaceÃ±a,Cerveza
-7392496189599,Cerveza PaceÃ±a Pilsener 330 ml,PaceÃ±a,Cerveza
+7392496189599,Cerveza Paceña Pilsener 330 ml,Paceña,Cerveza
 7392496484511,Milanesa de Res Sofia 500 gr,Sofia,Milanesa de Res
 7392496582815,Hamburguesa de Res Express Sofia 12 u,Sofia,Hamburguesas
 7392496615583,Hamburguesa de Res Fridosa Express 6 u 330 g,Fridosa,Hamburguesas
@@ -181,7 +183,6 @@ id_producto,producto,proveedor,categoria
 7392605405343,Leche de Soya Original Soy 946 ml,Pil,Leche de Soya
 7392605470879,Leche de Soya de Chocolate Ades 1 l,Ades,Leche de Soya
 7392605536415,Leche de Soya de Vainilla Ades 1 l,Ades,Leche de Soya
-7392605601951,Leche Descremada Calcifem 800 ml,Pil,Leche Descremeda
 7392605634719,Leche Deslactosada En Polvo Pil 760 g,Pil,Leche en Polvo
 7392605765791,Leche Fresca Natural Pil UHT 900 ml,Pil,Leche
 7392605929631,Leche de Frutilla Delizia 946 ml,Delizia,Leche de Frutilla
@@ -238,7 +239,6 @@ id_producto,producto,proveedor,categoria
 7392628899999,Yogurt Frutilla Delizia 2000 ml,Delizia,Yogurt
 7392628965535,Yogurt Frutilla Pil 200 g,Pil,Yogurt
 7392629325983,Yogurt Light Pil 1000 ml,Pil,Yogurt
-7392629391519,Yogurt Pil Sabor Durazno 1000 ml,Pil,Yogurt
 7436941590687,Azucar Guabira de 1000 gr,Guabira,Azucar
 7436941754527,Agua sin Gas Vital de 600 ml,Vital,Agua sin Gas
 7436941787295,Harina Famosa de 1000 gr,Famosa,Harina
@@ -629,7 +629,7 @@ id_producto,producto,proveedor,categoria
 9194484203679,Salsa La CosteÃ±a Serranos Enteros 380 Gr,La CosteÃ±a,Salsa
 9194484334751,Salsa La CosteÃ±a Nachos De JalapeÃ±o 380 Gr,La CosteÃ±a,Salsa
 9194484498591,Salsa La Costeña Nachos De Jalapeño 820 Gr,La CosteÃ±a,Salsa
-9197934510239,Huevo Marron Mediano Sofia 12 u,Sofia,Huevos
+9197934510239,Huevo Marron Mediano Sofia 12 U,Sofia,Huevos
 9197935198367,Huevo Marron Grande Sofia 30 U,Sofia,Huevos
 9197936935071,Leche entera EBA 946 ml,EBA,Leche
 10516854374559,Cerveza Budweiser,Fidalga,
@@ -656,3 +656,24 @@ id_producto,producto,proveedor,categoria
 10717332013215,Lomitos de Atun,Fidalga,Lomitos de AtÃºn
 10717332897951,Atun Desmenuzado Norte,Fidalga,Atun
 10717333291167,Atún en Aceite Girasol,Fidalga,Atun en Aceite
+10824897167519,Gelatina Naranja Kris 250 Gr,Kris,Gelatina
+10824898216095,Gelatina Piña Kris 250 Gr,Kris,Gelatina
+10824898478239,Leche Descramada Pil Calcifem,Pil,Leche
+10824898609311,Leche Descremada Proteplus,Pil,Leche
+10824898969759,Leche Nutrimente Chocolate Pil,Pil,Leche Nutrimente
+10824899100831,Leche Nutrimente Frutilla Pil,Pil,Leche Nutrimente
+10824899330207,Yogurt Bebible Durazno Pil 1 L,Pil,Yogurt
+10824899559583,Yogurt Bebible Mora Pil 1 L,Pil,Yogurt
+10824901558431,Dulce de Leche,Pil,Dulce de Leche
+10824902082719,Nectar Frutts Durazno Tetra 1 L,Pil,Nectar de Frutas
+10824902541471,Nectar Frutts Manzana Pura Vida Tetra,Pil,Nectar de Frutas
+10824903196831,Gatorade Fruto Rojo 400 Ml,CBN,Bebida Hridratante
+10824903262367,Gatorade Mora Azul 400 Ml,CBN,Bebida Hridratante
+10824903884959,Refresco Durazno Kris 20 G,Kris,Refresco
+10824904048799,Refresco Frambuesa Kris 20 G,Kris,Refresco
+10824905130143,Refresco Frutilla Kris 20 G,Kris,Refresco
+10824905293983,Refresco Limon Kris 20 G,Kris,Refresco
+10824905359519,Refresco Mocochinchi Kris 20 G,Kris,Refresco
+10824905457823,Refresco Naranja Kris 20 G,Kris,Refresco
+10824905588895,Refresco Uva Kris 20 G,Kris,Refresco
+10824906047647,Lavandina Mr Cloro 1 L,Mr Cloro,Lavandina
