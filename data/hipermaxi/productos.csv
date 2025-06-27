@@ -779,6 +779,7 @@ id_producto,producto,categoria,subcategoria
 14698,Chocolate Milka Oreo 100 gr,Abarrotes,Chocolates y Caramelos
 14703,Sopa Instantanea Ajinomen Gallina Picante Vaso 51 gr,Abarrotes,Básicos
 14704,Esencia Apego Mix Arandanos 500 ml,Bebidas,Licores
+14705,Mostaza French Dijon Ground 340 gr,Abarrotes,Aderezos
 14709,Pack Mochila Escolar Arcor,Abarrotes,Chocolates y Caramelos
 14710,Panqueque Hungry Jack Buttermilk 7 oz,Abarrotes,Repostería
 14720,Four Loko Blue 473 ml,Bebidas,Licores
@@ -1720,15 +1721,22 @@ id_producto,producto,categoria,subcategoria
 25180,NESCAFE ORIGINAL EXT FUERTE DP 40G,Abarrotes,Café y Sucedáneos
 25181,PACK SINGANI DOBLE ORO 750ML 1TAZA,Bebidas,Licores
 25183,HARINA KANTUTA INTEGRAL 1KG,Abarrotes,Básicos
+25184,HARINA KANTUTA LEUDANTE 1KG,Abarrotes,Básicos
 25185,ACEITE D OLIVA KRIS EXT VIRGEN 250 ML,Abarrotes,Básicos
 25186,CHUFLAY FLOW HARD ZALZER BOT 275 ML,Bebidas,Licores
 25187,BEBIDA FLOW NENE SUNRISE BOT 275 ML,Bebidas,Licores
 25190,ENERGIZANTE MOOV BLUE RAZZ LTA 355ML,Bebidas,Energizantes
 25191,ENERGIZANTE MOOV CHERRY LEMON 355ML,Bebidas,Energizantes
 25192,ENERGIZANTE MOOV PINEAP PUNCH 355ML,Bebidas,Energizantes
+25200,SNAK PICADIX SALADIX PICANTE 120G,Abarrotes,Snack
+25201,SNACK SALADIX CHIZZIDIX QUESO 150G,Abarrotes,Snack
+25202,SNACK SALADIX PICANA 150G,Abarrotes,Snack
+25203,SNACK SALADIX POPS MANTEQ 170G,Abarrotes,Snack
 25224,AJO MOLIDO DAMABRAVA FCO 100G,Abarrotes,Condimentos y Legumbres
 25226,PAPRIKA AHUMADA DAMABRAVA FCO 65G,Abarrotes,Condimentos y Legumbres
 25237,SAL ROSADA ESSENCIAL FINA BSA 650G,Abarrotes,Básicos
+25238,CEREAL CHOCAPIC NESTLE CJA 540G,Abarrotes,Nutrición Infantil
+25239,CHICLE TOPLINE7 ULTRA DOBLE 24G,Abarrotes,Golosinas - Varias
 25640,Surtido de Mariscos Robinson Crusoe Natural 190 gr,Abarrotes,Comidas en Conserva
 25771,Huevos Caisy 12 un,Lácteos y Derivados,Huevos
 25789,Galleta Rocklets Chocolate 118 gr,Abarrotes,Galletas
@@ -6602,6 +6610,7 @@ id_producto,producto,categoria,subcategoria
 209071,PAPEL TOALLA DE COCINA CLIN  200 MTS,Cuidado del Hogar,Limpieza de Cocina
 209072,PASTILLA COLGANTES ALL VALUE AROMA SURTI,Cuidado del Hogar,Limpieza de Baños
 209073,LIPSTICK FRAMBUESA 5.3 GR,Cuidado Personal,Cuidado de la Piel
+209075,LIPSTICK UVA 5.3 GR,Cuidado Personal,Cuidado de la Piel
 209076,LIPSTICK BUBBLEGUM 5.3 GR,Cuidado Personal,Cuidado de la Piel
 209077,Jabon Liquido Farmax Facial Vitamina c 120 gr,Cuidado Personal,Cuidado de la Piel
 209078,Shampoo Tio Nacho Ultra Hidratante 950 ml,Cuidado Personal,Cuidado del Cabello
@@ -7613,6 +7622,7 @@ id_producto,producto,categoria,subcategoria
 228083,PAPEL FINESSE FAMILIA 1 X 32,Cuidado Personal,Cuidado Familiar
 228084,ESPONJA LIMPPANO SUPERWISH MULTIUSO 4UND,Cuidado del Hogar,Accesorios del Hogar
 228088,TALCO PARA BEBE CARISSA  650 GR.,Cuidado del Bebé,Cuidado del Bebé
+228100,PACK PAPEL FINESSE FAMILIS 32+6 UNDS,Cuidado Personal,Cuidado Familiar
 228145,Ron Havana Club 3 Años 1 L,Bebidas,Licores
 228725,Galleta Granix Cereal 185 gr,Abarrotes,Galletas
 228771,Endulcorante  Chuker con Stevia 250 ml,Abarrotes,Dietéticos y Saludables
@@ -7989,7 +7999,7 @@ id_producto,producto,categoria,subcategoria
 240739,Jabon Barra Alma de Flores Intense 130 gr,Cuidado Personal,Cuidado de la Piel
 240741,Toallas Humedas Huggies Limpieza Efectiva 80 un,Cuidado del Bebé,Cuidado del Bebé
 240742,Pañal Adulto Plenitud Protect Nocturno M,Cuidado Personal,Cuidado del Adulto
-240743,PANAL ADULTO PLENITUD PROTECT NOCTURNO G,Cuidado Personal,Cuidado del Adulto
+240743,Pañal Adulto Plenitud Protect Nocturno G,Cuidado Personal,Cuidado del Adulto
 240744,Toallas Humedas Problock Baby Wipes 25 un,Cuidado del Bebé,Cuidado del Bebé
 240746,Toallas Humedas Problock Antibacterial 50 un,Cuidado del Bebé,Cuidado del Bebé
 240747,Toallas Humedas Problock Manzanilla Aloe 10 un,Cuidado del Bebé,Cuidado del Bebé
@@ -8157,6 +8167,7 @@ id_producto,producto,categoria,subcategoria
 249037,CREMA PORTUGAL LECHE LIMPIADORA 210 GR,Cuidado Personal,Cuidado de la Piel
 249043,Talco Portugal Mentol Verde 75 gr,Cuidado Personal,Cuidado de la Piel
 249044,Aceite Portugal Bebe Vitamina E 250 ml,Cuidado del Bebé,Cuidado del Bebé
+249045,Talco Portugal Original Azul 75 gr,Cuidado Personal,Cuidado de la Piel
 249046,COLONIA PORTUGAL BEBE 120 ML,Cuidado del Bebé,Cuidado del Bebé
 249047,CREMA PORTUGAL BEBE MANZANILLA 120 GR,Cuidado del Bebé,Cuidado del Bebé
 249049,SHAMPOO PORTUGAL BEBE ALOE 120 ML,Cuidado del Bebé,Cuidado del Bebé
@@ -9199,6 +9210,7 @@ id_producto,producto,categoria,subcategoria
 333143,Crema Facial Teatrical Humectante 200 gr,Cuidado Personal,Cuidado de la Piel
 333144,Crema Facial Teatrical Aclaradora 200 gr,Cuidado Personal,Cuidado de la Piel
 333145,Crema Facial Teatrical Antiarrugas 200 gr,Cuidado Personal,Cuidado de la Piel
+333160,Guantes Scotch Brite Cocina Rosado Talla G/L,Cuidado del Hogar,Productos Americanos
 333168,Maquina de Afeitar Gillette Prestobarba 3 Ice 2 un,Cuidado Personal,Cuidado de la Piel
 333265,Protectores Diarios Nosotras Largos 15 un,Cuidado Personal,Cuidado Familiar
 333266,Protectores Diarios Nosotras Largos 50 un,Cuidado Personal,Cuidado Familiar
@@ -12064,6 +12076,7 @@ id_producto,producto,categoria,subcategoria
 541079,Fideo Carozzi Tallarin Capellini 400 gr,Abarrotes,Básicos
 541087,Galleta Costa Fiesta Chocolate 140 gr,Abarrotes,Galletas
 541223,Proteina Mama Soja Quinua 250 gr,Abarrotes,Nutrición Infantil
+542112,Cafe Nueva Esperanza Grano 500 gr,Abarrotes,Café y Sucedáneos
 542115,Cafe Yungas Tipo Europeo Molido 400 gr,Abarrotes,Café y Sucedáneos
 542116,Cafe Yungas En Grano 400 gr,Abarrotes,Café y Sucedáneos
 542210,Salsa Tabasco Garlic Pepper 2 oz,Abarrotes,Aderezos
@@ -12864,6 +12877,7 @@ id_producto,producto,categoria,subcategoria
 551573,Chocolate Baure Cafe Latte 70 gr,Abarrotes,Chocolates y Caramelos
 551574,Amaranto Ana Instantanea 250 gr,Abarrotes,Nutrición Infantil
 551578,Barra Ajonjoli Andes Tropico 156 gr,Abarrotes,Nutrición Infantil
+551582,Pito de Linaza Andes Tropico 250 gr,Abarrotes,Nutrición Infantil
 551583,Galleta Cereal Mix Avena Pasas 207 gr,Abarrotes,Galletas
 551584,Pack Jugo Aloe Vera Alovi 2 un 500 ml,Bebidas,Bebidas Varias
 551585,Galleta Wafer Mabel Tripack 3 un 107 gr,Abarrotes,Galletas
@@ -19485,6 +19499,7 @@ id_producto,producto,categoria,subcategoria
 674432,Postre Helado Delizia Veggie Quinua Chocolate 400 ml,Congelados,"Helados, Cassattas y Picoleses"
 674464,MINI TORTA PISTACCIO CHOCOLATE DELIZIA 850ML,Congelados,"Helados, Cassattas y Picoleses"
 674466,CHORIZO CHURRASQUERO SOFIA PICANTE A/V 1KILOGRAMO,Fiambres,Fiambres Externos
+674468,MANTEQUILLA CLARIFICADA GHEE APEGO 12 X,Lácteos y Derivados,Mantequillas y Margarinas
 674470,JAMON COCIDO DE CERDO VILOMA KILOGRAMO,Fiambres,Fiambres Externos
 674471,SALCHICHA SIN PIEL OSFIM VIENIQUESO 1 KILOGRAMO,Fiambres,Fiambres Externos
 674472,YOGURT ENTERO FRUTADO PIL SABOR COCO 700GRS,Lácteos y Derivados,Yogures
@@ -19496,6 +19511,7 @@ id_producto,producto,categoria,subcategoria
 674491,PANCHITO BOLSA GRANDE 12 UNIDADES,Panadería,Panadería Externa
 674492,QUESO MUZZARELLA MALLON 450GR,Lácteos y Derivados,Quesos
 674504,KEFIR NATURAL DELIZIA SIN AZUCAR 170GRS,Lácteos y Derivados,Yogures
+674505,LECHE PIL LIGHT UHT X800ML (BOLSA),Lácteos y Derivados,Leches
 674832,MINI TORTA DELIZIA FRUTILLA 850ML,Congelados,"Helados, Cassattas y Picoleses"
 674834,MINI TORTA DELIZIA YOGURT SALSA AMARENA 850 ML,Congelados,"Helados, Cassattas y Picoleses"
 675245,Miel de Abeja Eva Promiel 250 gr,Abarrotes,"Mermel, Mieles"
@@ -21918,6 +21934,7 @@ id_producto,producto,categoria,subcategoria
 843240,"Tablero De Corte De Bambu 26X36X1,8Cm",Bazar Importación,Churrasquería
 843246,Espatula Alargada de Bambu con Mango,Bazar Importación,Cocina General
 843304,Licuadora Premier 3 en 1,Bazar,Electrodoméstico/Línea Blanca-Hogar
+843309,TERMOVENTILADOR FAN HEATER BR 2204,Bazar,Electrodoméstico/Línea Blanca-Hogar
 843326,Six Pack Cerveza Paceña 269 ml,Bebidas,Cervezas
 843365,Cuchara Betty Crocker Pasta Spaghetti,Bazar Importación,Cocina General
 843366,Colador Betty Crocker,Bazar Importación,Cocina General
@@ -22266,6 +22283,7 @@ id_producto,producto,categoria,subcategoria
 848472,Licuadora Philips Walita,Bazar,Electrodoméstico/Línea Blanca-Hogar
 848531,Trianguloo P/ Auto Auto 2recuentre  D,Bazar,Automotriz
 848661,FOCO LED RAYOVAC 8W 750ML LUZ AMARRILLA,Bazar,Ferretería
+848680,ESTUFA HALOGENA HEATER NSKT 160,Bazar,Electrodoméstico/Línea Blanca-Hogar
 848708,Caramelo Ring Pop Surtido 14 gr,Abarrotes,Productos Americanos
 848712,Grasa en Spray 10 oz,Bazar,Automotriz
 848714,Siliconao Grease  Rtv GrecuentreR,Bazar,Automotriz
@@ -22503,6 +22521,8 @@ id_producto,producto,categoria,subcategoria
 853392,Juego Geometrico Pkeyroad Rigido 4 Piezas,Bazar,Librería
 853776,Termoventilador Briara Br 2350,Bazar,Electrodoméstico/Línea Blanca-Hogar
 853779,Termoventilador Briara Br 2349,Bazar,Electrodoméstico/Línea Blanca-Hogar
+853780,TERMOVENTILADOR BRIARA BR 2348,Bazar,Electrodoméstico/Línea Blanca-Hogar
+853787,TB ESTUFA INFRARROJA ALOGENA BR 2205,Bazar,Electrodoméstico/Línea Blanca-Hogar
 853790,Fideo Famosa Cortado 1 kg,Abarrotes,Básicos
 853809,Pipoca Vida Feliz 100 gr,Abarrotes,Snack
 853894,Mermelada Yacobs Durazno 465 gr,Abarrotes,"Mermel, Mieles"
@@ -24269,6 +24289,7 @@ id_producto,producto,categoria,subcategoria
 983688,Guante de Tela Para Horno,Bazar,Articulos de Cocina
 983709,Pelota Viniball Voley Chibolita,Juguetería,Juguetería Niño/Bebé
 983710,Pelota Viniball Futbol Crakcito,Juguetería,Juguetería Niño/Bebé
+984161,Filtro Para Cafe Loekemeyer,Bazar,Articulos de Cocina
 984248,Ambientador Car Scents Lata 1.5 oz,Bazar,Automotriz
 984367,Soquete,Bazar,Ferretería
 984382,Soquete en Plato,Bazar,Ferretería
