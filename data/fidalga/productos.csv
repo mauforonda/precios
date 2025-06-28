@@ -52,6 +52,10 @@ id_producto,producto,proveedor,categoria
 10483734970527,Tai TÃ© Negro Y Frutos Rojos 250 mL,Tai,Te
 7392605601951,Leche Descremada Calcifem 800 ml,Pil,Leche Descremeda
 7392629391519,Yogurt Pil Sabor Durazno 1000 ml,Pil,Yogurt
+7392626606239,Chocolate en Polvo Toddy 200 g,Toddy,Chocolate en Polvo
+7392626737311,Chocolate en Polvo Toddy 800 g,Toddy,Chocolate en Polvo
+7436954861727,Chocolate en Polvo Toddy de 560 gr,Toddy,Chocolate en Polvo
+7436963119263,Cafe Instantaneo Descafeinado Colcafe de 85 gr,Colcafe,Cafe
 7392493142175,Aceite Fino 900 ml,Fino,Aceite
 7392493404319,Agua con Gas Vital 2 L,Vital,Agua con Gas
 7392493568159,Aquarius de Pera 2 L,Aquarius,Jugo de Fruta
@@ -155,7 +159,7 @@ id_producto,producto,proveedor,categoria
 7392583778463,AtÃºn en Agua Van CampÂ´s 354 g,Van Camps,Atun en Agua
 7392584532127,Jugo Aquarius Pera 500 ml,Aquarius,Jugo de fruta
 7392584695967,Biogurt Pil Sabor Durazno,Pil,Yogurt
-7392585384095,CafÃ© Clasico ColcafÃ© 170 g,Colcafe,Cafe
+7392585384095,Café Clásico Colcafe 170 G,Colcafe,Cafe
 7392585449631,CafÃ© IguacÃº ClÃ¡sico 200 g,IguacÃº,Cafe
 7392586924191,Cerveza Huari Lata 354 ml,Huari,Cerveza
 7392588234911,Choclo en Lata Gustoso de 2.9 kg,Gustoso,Choclo en lata
@@ -227,9 +231,7 @@ id_producto,producto,proveedor,categoria
 7392625066143,Sopa de Gallina Maruchan 85 g,Maruchan,Sopa Instantanea
 7392625164447,Sopa InstantÃ¡nea de Carne Ajinomen 86 g,Ajinomen,Sopa Instantanea
 7392625361055,Gaseosa Sprite Original 500 ml,Sprite,Gaseosa
-7392626606239,Chocolate en Polvo Toddy 200 g,Toddy,Chocolate en Polvo
-7392626639007,Chocolate en Polvo Toddy 400 g,Toddy,Chocolate en Polvo
-7392626737311,Chocolate en Polvo Toddy 800 g,Toddy,Chocolate en Polvo
+7392626639007,Toddy Original 370 G,Toddy,Chocolate en Polvo
 7392627130527,Vinagre de Alcohol Favinco 500 ml,Favinco,Vinagre
 7392627196063,Vinagre de Manzana Favinco 500 ml,Favinco,Vinagre
 7392627916959,Vital Agua Sin Gas 990 ml,Vital,Agua
@@ -414,7 +416,6 @@ id_producto,producto,proveedor,categoria
 7436954763423,Gomitas Tiburoncin Mogul de 30 gr,Mogul,Masticable
 7436954796191,Galleta Clasica Costa Frac de 6 Uni 273 gr,Costa,Galleta
 7436954828959,Galleta de Frutilla Wafer Mabels de 46 gr,Mabels,Galleta
-7436954861727,Chocolate en Polvo Toddy de 560 gr,Toddy,Chocolate en Polvo
 7436954992799,Jugo Del Valle Fresh Citrus de 500 ml,Del Valle,Jugo de Frutas
 7436955025567,Nectar de Manzana Frutts Pura Vida 3000 ml,Pura Vida,Nectar de Frutas
 7436955287711,Nectar de Tumbo Frutts Pura Vida 2000 ml,Pura Vida,Nectar de Frutas
@@ -466,7 +467,7 @@ id_producto,producto,proveedor,categoria
 7436960366751,Nectar de Manzana Pura Vida Frutts de 500 ml,Pura Vida,Nectar de Frutas
 7436960399519,Papel Higienico Doble Hoja Esencias Scott de 4 Uni,Scott,Papel Higienico
 7436960432287,Antigrasa Ola Maximus de 890 ml,Ola,Antigrasa
-7436960694431,Toddy Origina de 800 gr,Toddy,Chocolate en Polvo
+7436960694431,Toddy Original de 800 gr,Toddy,Chocolate en Polvo
 7436960759967,Nachos con Chile y Limon Guadalajara de 150 gr,Guadalajara,Nachos
 7436960792735,Sopa Instantanea sabor Gallina Ajinomen Ajinomoto de 51 gr,Ajinomen,Sopa Instantanea
 7436961218719,Sopa Instantanea sabor Carne Nissin Ramen de 85 gr,Nissin Ramen,Sopa Instantanea
@@ -488,7 +489,6 @@ id_producto,producto,proveedor,categoria
 7436962758815,Doritos Fritos Lays de 110 gr,Frito Lays,Â´Doritos
 7436962922655,Limpia BaÃ±os Ola Maximus de 890 ml,Ola,Limpia BaÃ±os
 7436963053727,Endulzante Liquido Dietetico Si Diet de 600 ml,Si Dietetico,Endulcorante
-7436963119263,Cafe Instantaneo Descafeinado Colcafe de 85 gr,Colcafe,Cafe
 7436963152031,Galleta Waffer sabor Limon Mabels de 110 gr,Mabels,Galleta
 7436963610783,Galletas Cookies Visconti de 60 gr,Visconti,Galletas
 7436963643551,Sal Parrillera Lobos de 750 gr,Lobos,Sal
@@ -677,3 +677,9 @@ id_producto,producto,proveedor,categoria
 10824905457823,Refresco Naranja Kris 20 G,Kris,Refresco
 10824905588895,Refresco Uva Kris 20 G,Kris,Refresco
 10824906047647,Lavandina Mr Cloro 1 L,Mr Cloro,Lavandina
+10825161539743,Leche Polvo Bonle 2 Kg,Bonle,Leche
+10825161867423,Leche Instantánea Pil Light 760 Gr,Pil,Leche
+10825162162335,Leche Polvo Bonle 800 G,Bonle,Leche
+10825164128415,Nescafe Tradicao 160 G,Fidalga,Cafe
+10825164914847,Nescafe Original 160 G,Fidalga,Cafe
+10825165176991,Toddy Frasco 200 G,Nestle,Toddy
