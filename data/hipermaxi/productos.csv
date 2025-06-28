@@ -1696,6 +1696,7 @@ id_producto,producto,categoria,subcategoria
 25139,Gomita Mogul Jelly Beans 50 gr,Abarrotes,Golosinas - Varias
 25140,"MARSHMALLOW OLE OLE FESTIVAL 202,5G",Abarrotes,Chocolates y Caramelos
 25142,MANI CROPPERS SAB PANCETA 85G,Abarrotes,Snack
+25144,Mani Croppers Jamon Serrano 85 gr,Abarrotes,Snack
 25145,Jugo del Valle Fresh Tropical Punch 3 L,Bebidas,"Jugos, Néctar"
 25146,Jugo del Valle Fresh Tropical Punch 2 L,Bebidas,"Jugos, Néctar"
 25149,Mani Croppers Crema Cebolla 85 gr,Abarrotes,Snack
@@ -1732,8 +1733,11 @@ id_producto,producto,categoria,subcategoria
 25201,SNACK SALADIX CHIZZIDIX QUESO 150G,Abarrotes,Snack
 25202,SNACK SALADIX PICANA 150G,Abarrotes,Snack
 25203,SNACK SALADIX POPS MANTEQ 170G,Abarrotes,Snack
+25213,SNACK SALADIX POPS BSA 30G,Abarrotes,Snack
+25214,SNACK SALADIX CHIZZIDIX BSA 27G,Abarrotes,Snack
 25224,AJO MOLIDO DAMABRAVA FCO 100G,Abarrotes,Condimentos y Legumbres
 25226,PAPRIKA AHUMADA DAMABRAVA FCO 65G,Abarrotes,Condimentos y Legumbres
+25236,SAL ROSADA ESSENCIAL FINA DP 800G,Abarrotes,Básicos
 25237,SAL ROSADA ESSENCIAL FINA BSA 650G,Abarrotes,Básicos
 25238,CEREAL CHOCAPIC NESTLE CJA 540G,Abarrotes,Nutrición Infantil
 25239,CHICLE TOPLINE7 ULTRA DOBLE 24G,Abarrotes,Golosinas - Varias
@@ -7613,6 +7617,7 @@ id_producto,producto,categoria,subcategoria
 228053,BALDE MAX HOGAR C ESCURRIDOR 12 LTS,Cuidado del Hogar,Accesorios del Hogar
 228054,PAPELERO MAX HOGAR 10 LTS,Cuidado del Hogar,Accesorios del Hogar
 228055,TRAPEADOR WISARD CON PALO  38 CM,Cuidado del Hogar,Accesorios del Hogar
+228058,SH BALLERINA CARBON FCO 410ML,Cuidado Personal,Cuidado del Cabello
 228069,GEL DENTAL CONDOR KIDS HW 3511,Cuidado del Bebé,Kids
 228071,GEL DENTAL CONDOR KIDS HW 8211,Cuidado del Bebé,Kids
 228073,NAFTALINA PERDIGON 100 GR,Cuidado del Hogar,Productos Americanos
@@ -7622,6 +7627,8 @@ id_producto,producto,categoria,subcategoria
 228083,PAPEL FINESSE FAMILIA 1 X 32,Cuidado Personal,Cuidado Familiar
 228084,ESPONJA LIMPPANO SUPERWISH MULTIUSO 4UND,Cuidado del Hogar,Accesorios del Hogar
 228088,TALCO PARA BEBE CARISSA  650 GR.,Cuidado del Bebé,Cuidado del Bebé
+228089,JABON EN ESPUMA FLORES BLANCAS REVIVE 25,Cuidado Personal,Cuidado de la Piel
+228090,JABON EN ESPUMA HERBAL FRESH REVIVE 250,Cuidado Personal,Cuidado de la Piel
 228100,PACK PAPEL FINESSE FAMILIS 32+6 UNDS,Cuidado Personal,Cuidado Familiar
 228145,Ron Havana Club 3 Años 1 L,Bebidas,Licores
 228725,Galleta Granix Cereal 185 gr,Abarrotes,Galletas
@@ -13988,6 +13995,7 @@ id_producto,producto,categoria,subcategoria
 553295,WAFER CARSA DADITOS CAPUCHINO 300 GR,Abarrotes,Galletas
 553296,GALLETA SUPREMA SALADA CHAPITA 60G,Abarrotes,Galletas
 553297,GALLETA SALADA SUPREMA CHAPITAS 141GR,Abarrotes,Galletas
+553322,PASTA LARGA CORTA SPIGA 400 GR,Abarrotes,Básicos
 554333,Cerveza Paceña Lata Roja 473 Cc,Bebidas,Cervezas
 554466,Detergente Liquido Ola Futuro Limpieza Completa 5 L,Cuidado del Hogar,Limpieza de la Ropa
 554468,Suavizante Ropa Ola Suavecito Original 5 L,Cuidado del Hogar,Limpieza de la Ropa
@@ -20172,7 +20180,7 @@ id_producto,producto,categoria,subcategoria
 701016,Jabon Barra Cavallaro Coco 10 un 40 gr,Cuidado del Hogar,Limpieza de la Ropa
 701139,Limpiador Antihongos Sapolio Gatillo 550 ml,Cuidado del Hogar,Limpieza de Baños
 701317,Lavavajilla Sapolio Crema Limon 360 gr,Cuidado del Hogar,Limpieza de Cocina
-701491,Jabon Liquido Johmsons Antes de Dormir 200 ml,Cuidado del Bebé,Cuidado del Bebé
+701491,Jabon Liquido Johnsons Antes de Dormir 200 ml KNV,Cuidado del Bebé,Cuidado del Bebé
 713614,Papa Baston Pre Frita Punto Verde 1 kg,Congelados,Pulpas y Frutas Congeladas
 713697,Papa Canoa Punto Verde 450 gr,Congelados,Pulpas y Frutas Congeladas
 714232,Choclo Congelado Punto Verde Desgranado 450 gr,Congelados,Pulpas y Frutas Congeladas
@@ -20545,7 +20553,7 @@ id_producto,producto,categoria,subcategoria
 781452,Pan de Hamburguesa Vikinger 8 un,Panadería,Panadería Externa
 781463,Mortadela Ovoplus 200 gr,Fiambres,Fiambres Externos
 781466,Disco de Merengue Davieds 20 Personas,Pastelería y Masas Típicas,Pastelería Externa
-781472,Huevos Avicola Paurito Medianos 20 un,Lácteos y Derivados,Huevos
+781472,Huevos Avicola Paurito Chicos 20 un,Lácteos y Derivados,Huevos
 781475,Queso Criollo San Mateo Menonita kg,Lácteos y Derivados,Quesos
 781489,Queso Criollo San Mateo San Javier kg,Lácteos y Derivados,Quesos
 781496,Pollo Relleno Sofia Congelado,Congelados,Carnes Congeladas
