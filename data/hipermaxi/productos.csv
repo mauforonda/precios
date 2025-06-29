@@ -1733,6 +1733,7 @@ id_producto,producto,categoria,subcategoria
 25201,SNACK SALADIX CHIZZIDIX QUESO 150G,Abarrotes,Snack
 25202,SNACK SALADIX PICANA 150G,Abarrotes,Snack
 25203,SNACK SALADIX POPS MANTEQ 170G,Abarrotes,Snack
+25211,SNACK SALADIX PICANTE BSA 23G,Abarrotes,Snack
 25213,SNACK SALADIX POPS BSA 30G,Abarrotes,Snack
 25214,SNACK SALADIX CHIZZIDIX BSA 27G,Abarrotes,Snack
 25224,AJO MOLIDO DAMABRAVA FCO 100G,Abarrotes,Condimentos y Legumbres
@@ -11336,7 +11337,7 @@ id_producto,producto,categoria,subcategoria
 461207,ESPUMA LIMPIADORA FACIAL FCO X175ML,Cuidado Personal,Cuidado de la Piel
 461208,Agua Micelar Portugal x 280 ml,Cuidado Personal,Cuidado del Adulto
 461238,Vasoo Mascota Avena Procao 500 ml,Bazar,Menaje Vidrio/Cristal
-461274,LIPSMACK BAL.LABIAL VAINILLA DREAM 12.5GR,Farmacia Otc,Varios
+461274,LIPSMACK BAL.LABIAL VAINILLA DREAM 12.5GR,Cuidado Personal,Cuidado de la Piel
 461275,LIPSMACK BAL. LABIAL SWEET BERRY 12.5GR,Cuidado Personal,Cuidado de la Piel
 461276,LIPSMACK BAL.LABIAL MENTA FRESH 12.5GR,Cuidado Personal,Cuidado de la Piel
 461277,LIPSMACK BAL.LABIAL MANGO TROPICAL 12.5GR,Cuidado Personal,Cuidado de la Piel
@@ -11380,6 +11381,7 @@ id_producto,producto,categoria,subcategoria
 462721,Bitter Amargo Centenario 1 L,Bebidas,Bebidas Varias
 462981,Castaña Caju Maya 250 gr,Abarrotes,Snack
 463068,Repelente Floresta Familiar 7.5% Crema 120 gr,Cuidado Personal,Cuidado de la Piel
+463275,LECHE NIDO CRECIM 1 C/PROBIOT X800 GR,Abarrotes,Nutrición Infantil
 463426,Pimienta Dulce Badia Molida 2 oz,Abarrotes,Condimentos y Legumbres
 463442,Pimienta Negra Badia Molida 7 oz,Abarrotes,Condimentos y Legumbres
 463469,Crema Para Cafe Promos 16 oz,Abarrotes,Café y Sucedáneos
@@ -12618,6 +12620,11 @@ id_producto,producto,categoria,subcategoria
 550986,Te Negro Cayubo 200 gr,Abarrotes,Café y Sucedáneos
 550989,Vino Espumeante Series By Salton Demi Sec,Bebidas,Vinos y Champagne
 550991,Vino Espumante Series By Salton Moscatel,Bebidas,Vinos y Champagne
+550993,Fricase Paceño Sabrosito 200 gr,Abarrotes,Básicos
+550994,Chairito Sabrosito 200 gr,Abarrotes,Básicos
+550995,Guiso de Fideo Sabrosito 200 gr,Abarrotes,Básicos
+550996,Sopa Instantanea Sabrosito 200 gr,Abarrotes,Básicos
+550997,Arroz Sabrosito a La Valenciana 200 gr,Abarrotes,Básicos
 550998,Arroz con Leche Sabrosito 200 gr,Abarrotes,Repostería
 550999,Avena Sabrosito con Leche 200 gr,Abarrotes,Nutrición Infantil
 551002,Aji Amarillo Sabrosito Semi Picante 125 gr,Abarrotes,Condimentos y Legumbres
@@ -13995,7 +14002,9 @@ id_producto,producto,categoria,subcategoria
 553295,WAFER CARSA DADITOS CAPUCHINO 300 GR,Abarrotes,Galletas
 553296,GALLETA SUPREMA SALADA CHAPITA 60G,Abarrotes,Galletas
 553297,GALLETA SALADA SUPREMA CHAPITAS 141GR,Abarrotes,Galletas
+553308,GALLETA ANDES TROPICO QUINUA 200 GR,Abarrotes,Galletas
 553322,PASTA LARGA CORTA SPIGA 400 GR,Abarrotes,Básicos
+553325,PASTA LARGA CORTA SPIGA 6 LB,Abarrotes,Básicos
 554333,Cerveza Paceña Lata Roja 473 Cc,Bebidas,Cervezas
 554466,Detergente Liquido Ola Futuro Limpieza Completa 5 L,Cuidado del Hogar,Limpieza de la Ropa
 554468,Suavizante Ropa Ola Suavecito Original 5 L,Cuidado del Hogar,Limpieza de la Ropa
@@ -21942,7 +21951,7 @@ id_producto,producto,categoria,subcategoria
 843240,"Tablero De Corte De Bambu 26X36X1,8Cm",Bazar Importación,Churrasquería
 843246,Espatula Alargada de Bambu con Mango,Bazar Importación,Cocina General
 843304,Licuadora Premier 3 en 1,Bazar,Electrodoméstico/Línea Blanca-Hogar
-843309,TERMOVENTILADOR FAN HEATER BR 2204,Bazar,Electrodoméstico/Línea Blanca-Hogar
+843309,Termoventilador Briara HEATER 2204,Bazar,Electrodoméstico/Línea Blanca-Hogar
 843326,Six Pack Cerveza Paceña 269 ml,Bebidas,Cervezas
 843365,Cuchara Betty Crocker Pasta Spaghetti,Bazar Importación,Cocina General
 843366,Colador Betty Crocker,Bazar Importación,Cocina General
@@ -22528,9 +22537,9 @@ id_producto,producto,categoria,subcategoria
 853338,Bolas De Navidad Rojo Verde Blanco 6 cm,Bazar Importación,Temporada Navidad
 853392,Juego Geometrico Pkeyroad Rigido 4 Piezas,Bazar,Librería
 853776,Termoventilador Briara Br 2350,Bazar,Electrodoméstico/Línea Blanca-Hogar
-853779,Termoventilador Briara Br 2349,Bazar,Electrodoméstico/Línea Blanca-Hogar
-853780,TERMOVENTILADOR BRIARA BR 2348,Bazar,Electrodoméstico/Línea Blanca-Hogar
-853787,TB ESTUFA INFRARROJA ALOGENA BR 2205,Bazar,Electrodoméstico/Línea Blanca-Hogar
+853779,Termoventilador Briara 2349,Bazar,Electrodoméstico/Línea Blanca-Hogar
+853780,Termoventilador Briara 2348,Bazar,Electrodoméstico/Línea Blanca-Hogar
+853787,Estufa Halogena Infrarroja  2205,Bazar,Electrodoméstico/Línea Blanca-Hogar
 853790,Fideo Famosa Cortado 1 kg,Abarrotes,Básicos
 853809,Pipoca Vida Feliz 100 gr,Abarrotes,Snack
 853894,Mermelada Yacobs Durazno 465 gr,Abarrotes,"Mermel, Mieles"
@@ -23247,6 +23256,7 @@ id_producto,producto,categoria,subcategoria
 865645,Neceser Plastico Nadine,Bazar,Menaje Plástico
 865812,Jugo Frutall Manzana Light 1 L,Abarrotes,Dietéticos y Saludables
 865827,Jugo Frutall Durazno Light 1 L,Abarrotes,Dietéticos y Saludables
+865843,ESTUFA HALOGENA BRIARA NSTK-120A5,Bazar,Electrodoméstico/Línea Blanca-Hogar
 866231,Bebida Ice 51 Limon 275 ml,Bebidas,Licores
 866246,Bebida Ice 51 Maracuya 275 ml,Bebidas,Licores
 866553,Chocolate After Eight Menta 300 gr,Abarrotes,Chocolates y Caramelos
