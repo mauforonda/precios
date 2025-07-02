@@ -56,6 +56,13 @@ id_producto,producto,proveedor,categoria
 7392626737311,Chocolate en Polvo Toddy 800 g,Toddy,Chocolate en Polvo
 7436954861727,Chocolate en Polvo Toddy de 560 gr,Toddy,Chocolate en Polvo
 7436963119263,Cafe Instantaneo Descafeinado Colcafe de 85 gr,Colcafe,Cafe
+7392502808735,Gelatina Naranja Kris 230 g,Kris,Gelatina
+7392502939807,Gelatina Piña Kris 230 g,Kris,Gelatina
+7436950405279,Avena Instantanea Princesa de 350 gr,Princesa,Avena Instantanea
+7436951486623,Cerveza Huari de Chocolate de 330 ml,Huari,Huari
+10717330243743,Sardina Aceite Vegetal,Fidalga,Sardina en Lata
+10717330342047,Sardina en Aceite Ramirez,Fidalga,Sardina en Lata
+10717331587231,Pescado en Lata San Lucas,Fidalga,Pescado en Lata
 7392493142175,Aceite Fino 900 ml,Fino,Aceite
 7392493404319,Agua con Gas Vital 2 L,Vital,Agua con Gas
 7392493568159,Aquarius de Pera 2 L,Aquarius,Jugo de Fruta
@@ -63,12 +70,12 @@ id_producto,producto,proveedor,categoria
 7392495108255,Pasta Dental Colgate Triple Accion 180 g,Colgate,Pasta de Dientes
 7392495206559,Azucar Impalpable El Reposterito 200 g,El Reposterito,Azucar Impalpable
 7392495304863,Capuccino Vainilla Colcafe 108 g,Colcafe,Cafe
-7392495829151,Cerveza Stella Artois 335 ml,Stella Artois,Cerveza
-7392495927455,Cerveza Paceña Pilsener Huari 330 ml,PaceÃ±a,Cerveza
-7392495960223,Cerveza Heineken 330 ml,Heineken,Cerveza
-7392496025759,Cerveza Huari Miel 330 ml,Huari,Cerveza
-7392496058527,Cerveza PaceÃ±a Pilsener 473 ml,PaceÃ±a,Cerveza
-7392496189599,Cerveza Paceña Pilsener 330 ml,Paceña,Cerveza
+7392495829151,Cerveza Stella Artois 335 ML,Stella Artois,Cerveza
+7392495927455,Cerveza Paceña Pilsener Huari 330 ML,PaceÃ±a,Cerveza
+7392495960223,Cerveza Heineken 330 ML,Heineken,Cerveza
+7392496025759,Cerveza Huari Miel 330 ML,Huari,Cerveza
+7392496058527,Cerveza Paceña Pilsener 473 ML,PaceÃ±a,Cerveza
+7392496189599,Cerveza Paceña Pilsener 330 ML,Paceña,Cerveza
 7392496484511,Milanesa de Res Sofia 500 gr,Sofia,Milanesa de Res
 7392496582815,Hamburguesa de Res Express Sofia 12 u,Sofia,Hamburguesas
 7392496615583,Hamburguesa de Res Fridosa Express 6 u 330 g,Fridosa,Hamburguesas
@@ -85,17 +92,15 @@ id_producto,producto,proveedor,categoria
 7392501858463,Galleta Serranitas Arcor 115 g,Arcor,Galletas
 7392501923999,Gaseosa Papaya Fanta 2 L,Fanta,Gaseosa
 7392501956767,Gaseosa Pepsi 2 L,Pepsi,Gaseosa
-7392501989535,Gaseosa Coca-Cola 2 L,Coca Cola,Gaseosa
+7392501989535,Gaseosa Coca Cola 2 L,Coca Cola,Gaseosa
 7392502022303,Gaseosa Antarctica Guarana 2 L,Antartica,Gaseosa
 7392502087839,Gaseosa Antarctica Guarana 500 ml,Antartica,Gaseosa
 7392502186143,Aquarius Pera 3000 ml,Aquarius,Jugo de Fruta
-7392502382751,Gaseosa Coca-Cola 3 L,Coca Cola,Gaseosa
+7392502382751,Gaseosa Coca Cola 3 L,Coca Cola,Gaseosa
 7392502448287,Gaseosa Coca-Cola Sin Azucar 3 L,Coca Cola,Gaseosa
 7392502644895,Gaseosa Pepsi 1L,Pepsi,Gaseosa
 7392502775967,Gaseosa Guarana Fanta 2 L,Fanta,Gaseosa
-7392502808735,Gelatina Naranja Kris 230 g,Kris,Gelatina
 7392502874271,Harina Trigo Famosa 1 Kg,Famosa,Harina
-7392502939807,Gelatina Piña Kris 230 g,Kris,Gelatina
 7392503005343,Gelatina Frutilla Kris 230 g,Kris,Gelatina
 7392503038111,Gelatina Light Frutilla Kris 24 g,Kris,Gelatina
 7392503136415,Gelatina Limon Kris 230 g,Kris,Gelatina
@@ -161,7 +166,7 @@ id_producto,producto,proveedor,categoria
 7392584695967,Biogurt Pil Sabor Durazno,Pil,Yogurt
 7392585384095,Café Clásico Colcafe 170 G,Colcafe,Cafe
 7392585449631,CafÃ© IguacÃº ClÃ¡sico 200 g,IguacÃº,Cafe
-7392586924191,Cerveza Huari Lata 354 ml,Huari,Cerveza
+7392586924191,Cerveza Huari Lata 354 ML,Huari,Cerveza
 7392588234911,Choclo en Lata Gustoso de 2.9 kg,Gustoso,Choclo en lata
 7392588333215,Choclo en Lata Cajamar 280 g,Cajamar,Choclo en lata
 7392588398751,Choclo en Lata Gustoso 340 g,Gustoso,Choclo en lata
@@ -269,7 +274,7 @@ id_producto,producto,proveedor,categoria
 7436943065247,Leche Deslactosada Pil de 1000 ml,Pil,Leche Deslactosada
 7436943098015,Powerade Mora Azul de 990 ml,Powerade,Rehidratante
 7436943130783,Papel Higienico Clasico Nacional de 12 Uni,Nacional,Papel Higienico
-7436943163551,Cerveza PaceÃ±a Lata 269 ml,PaceÃ±a,Cerveza
+7436943163551,Cerveza Paceña Lata 269 ML,PaceÃ±a,Cerveza
 7436943294623,Leche Enriquecida Bonle de 900 ml,Bonle,Leche
 7436943327391,Jugo Fresh de Naranja Del Valle de 300 ml,Del Valle,Jugo
 7436943360159,Powerade Mora Azul de 473 ml,Powerade,Rehidratante
@@ -346,7 +351,7 @@ id_producto,producto,proveedor,categoria
 7436948144287,Cheetos Horneados Queso de 29 gr,Frito lay,Cheetos
 7436948177055,Vino Tinto Kohlberg de 750 ml,Kohlberg,Vino
 7436948209823,Agua con Gas Mendocina de 2000 ml,Mnedocina,Agua con Gas
-7436948439199,Cerveza Zero Grau Conti de 269 ml,Conti,Cerveza
+7436948439199,Cerveza Zero Grau Conti de 269 ML,Conti,Cerveza
 7436948471967,Hamburguesa Fridosita de Res Fridosa de 166 gr,Fridosa,Hamburguesa
 7436948635807,Sal Lobos de 125 gr,Lobos,Sal
 7436948668575,Jugo de Manzana Aquarius de 500 ml,Aquarius,Jugos de Frutas
@@ -376,7 +381,6 @@ id_producto,producto,proveedor,categoria
 7436950241439,Detergente en Polvo Hortencia Surf de 800 gr,Surf,Detergente
 7436950306975,Azucar Morena Unagro de 1000 gr,Unagro,Azucar Morena
 7436950339743,Empanadas Integrales con Queso Bread King de 5 Uni,Bread King,Empanada Integral
-7436950405279,Avena Instantanea Princesa de 350 gr,Princesa,Avena Instantanea
 7436950438047,Gelatina de PiÃ±a Light Kris de 24 gr,Kris,Gelatina
 7436950601887,Jabon Antibacterial Bolivar de 210 gr,Bolivar,Jabon
 7436950732959,Jabon Blanco Brillante Uno de 220 gr,Uno,Jabon
@@ -389,7 +393,6 @@ id_producto,producto,proveedor,categoria
 7436951191711,PaÃ±uelo Mentolado Triple Hoja Elite de 6 Uni,Elite,PaÃ±uelo
 7436951322783,Papel Toalla Multiuso Nacional de 2 Uni,Nacional,Papel Toalla
 7436951388319,Cafe Iguazu de 50 gr,Iguazu,Cafe
-7436951486623,Cerveza Huari de Chocolate de 330 ml,Huari,Huari
 7436951519391,Gaseosa de Papaya Mendocina de 1000 ml,Mendocina,Gaseosa
 7436951552159,Super Sal Lobos de 250 gr,Lobos,Sal
 7436951715999,Gaseosa Sprite sin Azucar de 2000 ml,Sprite,Gaseosa
@@ -448,7 +451,7 @@ id_producto,producto,proveedor,categoria
 7436958466207,Bebida Isotonica sabor Frambuesa Activade 1000 ml,Activade,Energizante
 7436958498975,Nectar de Durazno Del Valle de 3000 ml,Del Valle,Nectar de Frutas
 7436958695583,Gaseosa de Papaya Mendocina de 330 ml,Mendocina,Gaseosas
-7436958793887,Cerveza Burguesa de 473 ml,Burguesa,Cerveza
+7436958793887,Cerveza Burguesa 473 ML,Burguesa,Cerveza
 7436958826655,Esponjas Multiuso Bristar de 4 Uni,Bristar,Esponjas
 7436959285407,Galleta sabor Dulce de Leche Wafer Mabels de 46 gr,Mabels,Galletas
 7436959318175,Sopa Instantanea de Pollo Maruchan de 85 gr,Maruchan,Sopa
@@ -510,7 +513,7 @@ id_producto,producto,proveedor,categoria
 7436965445791,Almidon de Maiz Maizena de 500 gr,Maizena,Almidon de Maiz
 7436965478559,Te con Canela y Clavo de Olor Windsor de 130 Uni,Windsor,Te
 7436965642399,Nectar de Guayaba Pura Vida Frutss de 2000 ml,Pura Vida,Nectar de Frutas
-7436965675167,Cerveza Zero Conti de 473 gr,Conti,Cerveza
+7436965675167,Cerveza Zero Conti 473 ML,Conti,Cerveza
 7436965707935,Te Canela y Clavo Windsor de 20 Uni,Windsor,Te
 7436965871775,Galleta Mini Cremosita sabor Vainilla Mabels de 360 gr,Mabels,Galleta
 7436965970079,Milaneza de Pollo Sofia de 4 Uni,Sofia,Milanesa de Pollo
@@ -534,8 +537,8 @@ id_producto,producto,proveedor,categoria
 7436967968927,Galleta Coco Wafer Mabel de 110 gr,Mabels,Galleta
 7436968099999,Sopa de Pollo con Arroz Maggi de 70 gr,Maggi,Sopa de Pollo
 7436968296607,Nectar de Manzana Frut All 1000 ml,Frutt All,Jugo de Frutas
-7436968329375,Cerveza Burguesa en Lata de 350 ml,Burguesa,Cerveza
-7436968362143,Cerveza Pilsener Potosina de 355 ml,Potosina,Cerveza
+7436968329375,Cerveza Burguesa Lata 350 ML,Burguesa,Cerveza
+7436968362143,Cerveza Pilsener Potosina 355 ML,Potosina,Cerveza
 7436968689823,Margarina Reyna Pil de 850 gr,Reyna,Margarina
 7436968984735,Aji Panca Picante Sibarita de 85 gr,Aji Picante,Sibarita
 7436969017503,Trigo Pelado El Cocinero de 400 gr,El Cocinero,Trigo
@@ -609,30 +612,30 @@ id_producto,producto,proveedor,categoria
 7453763371167,Leche Saborizada Frutilla Delizia de 150 ml,Delizia,Leche Saborizada
 7453763436703,Gaseosa Sprite 2 L,Sprite,Gaseosa
 7453763666079,Pan Molde Blanco Grande Fidalga,Fidalga,Pan Molde
-9194463101087,Salsa La CosteÃ±a Picante 140 ML,La CosteÃ±a,Salsa
-9194468475039,Salsa La CosteÃ±a Dip Mild 453 Gr,La CosteÃ±a,Salsa
-9194470965407,Salsa La CosteÃ±a Casera Mexicana 220 Gr,La CosteÃ±a,Salsa
-9194471489695,Salsa La CosteÃ±a Verde 220 Gr,La CosteÃ±a,Salsa
-9194472865951,Salsa La CosteÃ±a Casera Mexicana 450 Gr,La CosteÃ±a,Salsa
-9194472964255,Salsa La CosteÃ±a Verde 450 Gr,La CosteÃ±a,Salsa
-9194473062559,Salsa La CosteÃ±a Ranchera 450 Gr,La CosteÃ±a,Salsa
-9194473357471,Salsa La CosteÃ±a Frijoles Bayos Refritos Con Chorizo 440 Gr,La CosteÃ±a,Salsa
-9194473816223,Salsa La CosteÃ±a Frijoles Bayos Refritos 400 Gr,La CosteÃ±a,Salsa
-9194474930335,Salsa La CosteÃ±a Frijoles Bayos Refritos 580 Gr,La CosteÃ±a,Salsa
-9194476568735,Salsa La CosteÃ±a Frijoles Negros Refritos 400 Gr,La CosteÃ±a,Salsa
-9194477289631,Salsa La CosteÃ±a Frijoles Negros Refritos 580 Gr,La CosteÃ±a,Salsa
-9194480664735,Salsa La CosteÃ±a Rajas De JalapeÃ±o 380 Gr,La CosteÃ±a,Salsa
-9194482499743,Salsa La CosteÃ±a Rajas De JalapeÃ±o 820 Gr,La CosteÃ±a,Salsa
-9194482860191,Salsa La CosteÃ±a JalapeÃ±os Enteros 780 Gr,La CosteÃ±a,Salsa
-9194483351711,Salsa La CosteÃ±a JalapeÃ±os Enteros 380 Gr,La CosteÃ±a,Salsa
-9194483843231,Salsa La CosteÃ±a Frijoles Negros Enteros 400 Gr,La CosteÃ±a,Salsa
-9194484203679,Salsa La CosteÃ±a Serranos Enteros 380 Gr,La CosteÃ±a,Salsa
-9194484334751,Salsa La CosteÃ±a Nachos De JalapeÃ±o 380 Gr,La CosteÃ±a,Salsa
+9194463101087,Salsa La Costeña Picante 140 ML,La Costeña,Salsa
+9194468475039,Salsa La Costeñaa Dip Mild 453 Gr,La Costeña,Salsa
+9194470965407,Salsa La Costeña Casera Mexicana 220 Gr,La CosteÃ±a,Salsa
+9194471489695,Salsa La Costeña Verde 220 Gr,La CosteÃ±a,Salsa
+9194472865951,Salsa La Costeña Casera Mexicana 450 Gr,La CosteÃ±a,Salsa
+9194472964255,Salsa La Costeña Verde 450 Gr,La CosteÃ±a,Salsa
+9194473062559,Salsa La Costeña Ranchera 450 Gr,La Costeña,Salsa
+9194473357471,Salsa La Costeña Frijoles Bayos Refritos Con Chorizo 440 Gr,La CosteÃ±a,Salsa
+9194473816223,Salsa La Costeña Frijoles Bayos Refritos 400 Gr,La CosteÃ±a,Salsa
+9194474930335,Salsa La Costeña Frijoles Bayos Refritos 580 Gr,La Costeña,Salsa
+9194476568735,Salsa La Costeña Frijoles Negros Refritos 400 Gr,La CosteÃ±a,Salsa
+9194477289631,Salsa La Costeña Frijoles Negros Refritos 580 Gr,La CosteÃ±a,Salsa
+9194480664735,Salsa La Costeña Rajas De Jalapeño 380 Gr,La CosteÃ±a,Salsa
+9194482499743,Salsa La Costeña Rajas De Jalapeño 820 Gr,La CosteÃ±a,Salsa
+9194482860191,Salsa La Costeña Jalapeños Enteros 780 Gr,La CosteÃ±a,Salsa
+9194483351711,Salsa La Costeña Jalapeños Enteros 380 Gr,La CosteÃ±a,Salsa
+9194483843231,Salsa La Costeña Frijoles Negros Enteros 400 Gr,La CosteÃ±a,Salsa
+9194484203679,Salsa La Costeña Serranos Enteros 380 Gr,La CosteÃ±a,Salsa
+9194484334751,Salsa La Costeña Nachos De Jalapeños 380 Gr,La CosteÃ±a,Salsa
 9194484498591,Salsa La Costeña Nachos De Jalapeño 820 Gr,La CosteÃ±a,Salsa
 9197934510239,Huevo Marron Mediano Sofia 12 U,Sofia,Huevos
 9197935198367,Huevo Marron Grande Sofia 30 U,Sofia,Huevos
 9197936935071,Leche entera EBA 946 ml,EBA,Leche
-10516854374559,Cerveza Budweiser,Fidalga,
+10516854374559,Cerveza Budweiser 269 ML,Fidalga,
 10628748738719,Durazno La Colina,Fidalga,
 10628750868639,Maicena Paladio,Fidalga,
 10628754636959,Insecticida Baygon Bristar,Fidalga,
@@ -647,11 +650,8 @@ id_producto,producto,proveedor,categoria
 10713747488927,Coca Cola 1.5 Lt,Coca Cola,Gaseosa
 10715386708127,Chorizo Ahumado Gutfleish,Gutfleish,Chorizo
 10717329948831,Mejillones Natural,Fidalga,Mejillones
-10717330243743,Sardina Aceite Vegetal,Fidalga,Sardina en Lata
-10717330342047,Sardina en Aceite Ramirez,Fidalga,Sardina en Lata
 10717330636959,Atun Van Camps,Fidalga,Atun
 10717330964639,Atun Van Camps Agua Lomito,Fidalga,Atun en Agua
-10717331587231,Pescado en Lata San Lucas,Fidalga,Pescado en Lata
 10717331849375,Lomitos de Atun,Fidalga,Lomitos de AtÃºn
 10717332013215,Lomitos de Atun,Fidalga,Lomitos de AtÃºn
 10717332897951,Atun Desmenuzado Norte,Fidalga,Atun
@@ -668,7 +668,7 @@ id_producto,producto,proveedor,categoria
 10824902082719,Nectar Frutts Durazno Tetra 1 L,Pil,Nectar de Frutas
 10824902541471,Nectar Frutts Manzana Pura Vida Tetra,Pil,Nectar de Frutas
 10824903196831,Gatorade Fruto Rojo 400 Ml,CBN,Bebida Hridratante
-10824903262367,Gatorade Mora Azul 400 Ml,CBN,Bebida Hridratante
+10824903262367,Gatorade Mora Azul 400 ML,CBN,Bebida Hridratante
 10824903884959,Refresco Durazno Kris 20 G,Kris,Refresco
 10824904048799,Refresco Frambuesa Kris 20 G,Kris,Refresco
 10824905130143,Refresco Frutilla Kris 20 G,Kris,Refresco
@@ -683,3 +683,8 @@ id_producto,producto,proveedor,categoria
 10825164128415,Nescafe Tradicao 160 G,Fidalga,Cafe
 10825164914847,Nescafe Original 160 G,Fidalga,Cafe
 10825165176991,Toddy Frasco 200 G,Nestle,Toddy
+10831065055391,Cerveza Golden 269 ML,CBN,Cerveza
+10831090548895,Gaseosa Pepsi Black 3 L,CBN,Gaseosa
+10831153463455,Gaseosa Oriental Papaya 3 L,Fidalga,Gaseosa
+10831230730399,Suerox Frutos Rojos Tropicales 630 ML,Fidalga,Suero Hidradante
+10831273820319,Suerox Uva 630 ML,Fidalga,Suero Hidratante
