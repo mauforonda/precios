@@ -1741,6 +1741,8 @@ id_producto,producto,categoria,subcategoria
 25225,CANELA MOLIDA DAMABRAVA FCO 66G,Abarrotes,Condimentos y Legumbres
 25226,PAPRIKA AHUMADA DAMABRAVA FCO 65G,Abarrotes,Condimentos y Legumbres
 25227,JENGIBRE MOLIDO DAMABRAVA FCO 60G,Abarrotes,Condimentos y Legumbres
+25228,COMINO MOLIDO DAMABRAVA FCO 70G,Abarrotes,Condimentos y Legumbres
+25229,PIMIENTA NEGRA DAMABRAVA MOLIDA 75G,Abarrotes,Condimentos y Legumbres
 25236,SAL ROSADA ESSENCIAL FINA DP 800G,Abarrotes,Básicos
 25237,SAL ROSADA ESSENCIAL FINA BSA 650G,Abarrotes,Básicos
 25238,CEREAL CHOCAPIC NESTLE CJA 540G,Abarrotes,Nutrición Infantil
@@ -7617,7 +7619,7 @@ id_producto,producto,categoria,subcategoria
 228033,ACONDIC FRUCTISPINA  HAIR FOOD 300 ML,Cuidado Personal,Cuidado del Cabello
 228034,MASCARA FRUCTIS PINA HAIR FOOD  300 ML,Cuidado Personal,Cuidado del Cabello
 228043,BIPACK PANAL MI BEBE - G 2 X 40 UND,Cuidado del Bebé,Pañales
-228045,BIPACK PANAL MI BEBE XG 2 X 36 UND,Cuidado del Bebé,Pañales
+228045,Pañales Bipack Mi Bebe XG 36 un,Cuidado del Bebé,Pañales
 228046,AGUA SANITARIA  URCA 12X1L,Cuidado del Hogar,Limpieza de Living y Ropero
 228049,PROTECTOR DIARIO NOSOTRAS  NORMAL 48X10,Cuidado Personal,Cuidado Familiar
 228053,BALDE MAX HOGAR C ESCURRIDOR 12 LTS,Cuidado del Hogar,Accesorios del Hogar
@@ -7626,6 +7628,7 @@ id_producto,producto,categoria,subcategoria
 228056,SH BALLERINA ONDAS FCO 410ML 10UN XCJ,Cuidado Personal,Cuidado del Cabello
 228057,SH BALLERINA LARGO INCRE FCO 410ML 10UNX,Cuidado Personal,Cuidado del Cabello
 228058,SH BALLERINA CARBON FCO 410ML,Cuidado Personal,Cuidado del Cabello
+228059,SH BALLERINA GRANADA +AH FCO 410ML,Cuidado Personal,Cuidado del Cabello
 228061,AC BALLERINA LARGO INCRE FCO 410ML,Cuidado Personal,Cuidado del Cabello
 228062,AC BALLERINA ONDAS FCO 410ML,Cuidado Personal,Cuidado del Cabello
 228069,GEL DENTAL CONDOR KIDS HW 3511,Cuidado del Bebé,Kids
@@ -11392,7 +11395,7 @@ id_producto,producto,categoria,subcategoria
 462721,Bitter Amargo Centenario 1 L,Bebidas,Bebidas Varias
 462981,Castaña Caju Maya 250 gr,Abarrotes,Snack
 463068,Repelente Floresta Familiar 7.5% Crema 120 gr,Cuidado Personal,Cuidado de la Piel
-463275,LECHE NIDO CRECIM 1 C/PROBIOT X800 GR,Abarrotes,Nutrición Infantil
+463275,LECHE NIDO CRECIMIENTO 1+ LTA 800G,Abarrotes,Nutrición Infantil
 463426,Pimienta Dulce Badia Molida 2 oz,Abarrotes,Condimentos y Legumbres
 463442,Pimienta Negra Badia Molida 7 oz,Abarrotes,Condimentos y Legumbres
 463469,Crema Para Cafe Promos 16 oz,Abarrotes,Café y Sucedáneos
@@ -12641,6 +12644,7 @@ id_producto,producto,categoria,subcategoria
 550997,Arroz Sabrosito a La Valenciana 200 gr,Abarrotes,Básicos
 550998,Arroz con Leche Sabrosito 200 gr,Abarrotes,Repostería
 550999,Avena Sabrosito con Leche 200 gr,Abarrotes,Nutrición Infantil
+551000,Api Sabrosito de Quinua con Fruta 200 gr,Abarrotes,Café y Sucedáneos
 551001,AJI ROJO SEMI PICANTE SABROSITO 125 GR,Abarrotes,Condimentos y Legumbres
 551002,Aji Amarillo Sabrosito Semi Picante 125 gr,Abarrotes,Condimentos y Legumbres
 551004,Chocolate Valor Stevia Leche Almendra,Abarrotes,Chocolates y Caramelos
@@ -14017,6 +14021,9 @@ id_producto,producto,categoria,subcategoria
 553282,BARRA DE QUINOA ANDES TROPICO 144 GR,Abarrotes,Nutrición Infantil
 553283,BARRA ANDES TROPICO AJONJOLI CACAO 156GR,Abarrotes,Nutrición Infantil
 553284,BARRAS DE CEREAL ANDES TROPICO SURT 148,Abarrotes,Nutrición Infantil
+553289,TOJORI SABROSITO 250 GR,Abarrotes,Básicos
+553290,API SABROSITO QUINUA CON LECHE 200GR,Abarrotes,Básicos
+553291,API SABROSITO AMARANTO CON FRUTA 200GR,Abarrotes,Básicos
 553292,API SABROSITO MAIZ WILKAPARU CON FRUTA 2,Abarrotes,Básicos
 553294,WAFER CARSA DADITOS BROWNIE 300 GR,Abarrotes,Galletas
 553295,WAFER CARSA DADITOS CAPUCHINO 300 GR,Abarrotes,Galletas
@@ -17928,6 +17935,7 @@ id_producto,producto,categoria,subcategoria
 669345,SUPER BOLSA  60X90 50LT,Cuidado del Hogar,Accesorios del Hogar
 669346,SUPER BOLSA 60X63 35LT,Cuidado del Hogar,Accesorios del Hogar
 669347,Papel Higienico Ness 12 un,Cuidado Personal,Cuidado Familiar
+669348,PATO DISCOS ACTIVOS ENCANTO  FLORAL  REF,Cuidado del Hogar,Limpieza de Baños
 669349,TRIPACK ESPOJA TININDO + 6UNID GANCHERAS,Cuidado del Hogar,Accesorios del Hogar
 669350,TRIPACK ESPONJAS SB X4 + 6 UNID GANCHERA,Cuidado del Hogar,Accesorios del Hogar
 669351,TB DETER EN POLVO FLORAL C/SUAV 1X9.5KG,Cuidado del Hogar,Limpieza de la Ropa
@@ -20358,6 +20366,7 @@ id_producto,producto,categoria,subcategoria
 761263,Berenjenas Hess Conserva 330 gr,Fiambres,Fiambres Externos
 761282,YOGURT BEB.PROBOT.DESLACT.MANDARINA H.P.1LT.,Lácteos y Derivados,Yogures
 761291,YOGURT BEB.PROB.DESLACT.FRUT.FRUTOS ROJOS H.P.1LT.,Lácteos y Derivados,Yogures
+761294,YOGURT BEB.PROBIOT.DESLACT.FRUT.FRAMBUESA H.P.1LT.,Lácteos y Derivados,Yogures
 761311,KEFIR SAB.COCO PINA BONTANA 500 ML.,Lácteos y Derivados,Yogures
 761335,Yogurt Bebible Friedland Probiotico Papaya 1 L,Lácteos y Derivados,Yogures
 761337,KEFIR SAB.LIMON VAINILLA BONTANA 500 ML.,Lácteos y Derivados,Yogures
