@@ -64,6 +64,9 @@ id_producto,producto,proveedor,categoria
 10717330342047,Sardina en Aceite Ramirez,Fidalga,Sardina en Lata
 10717331587231,Pescado en Lata San Lucas,Fidalga,Pescado en Lata
 7392612745375,Pan Hamburguesa Fidalga 8 u,Fidalga,Pan para Hamburguesa
+7436944244895,Gaseosa Pepsi de 500 ml,Pepsi,Gaseosa
+7436960039071,Gaseosa sabor Papaya Salvietti de 600 ml,Salvetti,Gaseosa
+7436961710239,Gaseosa sabor Pomelo Mendocina de 330 ml,Mendocina,Gaseosa
 7392493142175,Aceite Fino 900 ml,Fino,Aceite
 7392493404319,Agua con Gas Vital 2 L,Vital,Agua con Gas
 7392493568159,Aquarius de Pera 2 L,Aquarius,Jugo de Fruta
@@ -95,7 +98,7 @@ id_producto,producto,proveedor,categoria
 7392501956767,Gaseosa Pepsi 2 L,Pepsi,Gaseosa
 7392501989535,Gaseosa Coca Cola 2 L,Coca Cola,Gaseosa
 7392502022303,Gaseosa Antarctica Guarana 2 L,Antartica,Gaseosa
-7392502087839,Gaseosa Antarctica Guarana 500 ml,Antartica,Gaseosa
+7392502087839,Gaseosa Antarctica Guarana 500 Ml,Antartica,Gaseosa
 7392502186143,Aquarius Pera 3000 ml,Aquarius,Jugo de Fruta
 7392502382751,Gaseosa Coca Cola 3 L,Coca Cola,Gaseosa
 7392502448287,Gaseosa Coca-Cola Sin Azucar 3 L,Coca Cola,Gaseosa
@@ -146,9 +149,9 @@ id_producto,producto,proveedor,categoria
 7392510083231,Caldo De Carne DoÃ±a Gusta 42 g,DoÃ±a Gusta,Caldo en Cubo
 7392510148767,Mayonesa Regular Kris Doypack 230 g,Kris,Mayonesa
 7392510214303,Mayonesa Kris 380 cc,Kris,Mayonesa
-7392510312607,Ketchup Hellmanns 250 g,Hellmann's,Ketchup
+7392510312607,Ketchup Hellmanns 250 G,Hellmann's,Ketchup
 7392510378143,Ketchup Picante Kris 410 ml,Kris,Ketchup
-7392510509215,Ketchup Kris 200 g,Kris,Ketchup
+7392510509215,Ketchup Kris 200 G,Kris,Ketchup
 7392510673055,Nachos De Maiz Mexican Food 800 g,Mexican Food,Nachos
 7392510738591,Papas Fritas Lays Clasicas 185 g,Frito Lays,Papas Fritas
 7392510836895,Nachos Guadalajara Limon 150 g,Guadalajara,Nachos
@@ -176,12 +179,12 @@ id_producto,producto,proveedor,categoria
 7392590135455,Chocolike Provit 1 kg,Chocolike,Chocolate en polvo
 7392590200991,Chocolike Provit Bote 400 g,Chocolike,Chocolate en polvo
 7392590299295,Chocolike Provit sabor Frutilla 400 g,Chocolike,Chocolate en polvo
-7392590889119,Gaseosa Coca-Cola Peque 300 ml,Coca Cola,Gaseosa
-7392590954655,Gaseosa Coca-Cola Personal 500 ml,Coca Cola,Gaseosa
+7392590889119,Gaseosa Coca Cola 300 Ml,Coca Cola,Gaseosa
+7392590954655,Gaseosa Coca Cola 500 Ml,Coca Cola,Gaseosa
 7392596131999,Dulce de Leche Granja de Oro 250 g,Granja de Oro,Dulce de Leche
 7392596557983,Edulcorante Dulzero ClÃ¡sico 250 ml,Dulzero,Despensa y Conservas
-7392596885663,Gaseosa Fanta Naranja Peque 300 ml,Fanta,Gaseosa
-7392596951199,Gaseosa Fanta Naranja Personal 500 ml,Fanta,Gaseosa
+7392596885663,Gaseosa Fanta Naranja 300 Ml,Fanta,Gaseosa
+7392596951199,Gaseosa Fanta Naranja 500 Ml,Fanta,Gaseosa
 7392597180575,Fernet Branca 750 ml,Branca,Fernet
 7392600621215,Galletas 7 Semillas HogareÃ±as 189 g,HogareÃ±as,Galletas
 7392600981663,Galleta Frac Chocolate 130 g,Costa,Galletas
@@ -202,8 +205,8 @@ id_producto,producto,proveedor,categoria
 7392607436959,Margarina Regia 410 g,Regia,Margarina
 7392607502495,Margarina en Vaso Regia 210 g,Regia,Margarina
 7392607666335,Margarina Reyna 425 g,Pil,Margarina
-7392608452767,Gaseosa Mendocina Papaya 3000 ml,Mendocina,Gaseosa
-7392608485535,Mendocina PiÃ±a 2000 ml,Mendocina,Gaseosa
+7392608452767,Gaseosa Mendocina Papaya 3 Lt,Mendocina,Gaseosa
+7392608485535,Gaseosa Mendocina Papaya 2 L,Mendocina,Gaseosa
 7392608518303,Mermelada de Ciruela Arcor 454 g,Arcor,Mermelada
 7392608616607,Mermelada de Durazno Arcor 454 g,Arcor,Mermelada
 7392610222239,Nachos Doritos 200 g,Doritos,Nachos
@@ -235,7 +238,7 @@ id_producto,producto,proveedor,categoria
 7392624967839,Sopa con Verduras Ajinomen 80 g,Ajinomen,Sopa Instantanea
 7392625066143,Sopa de Gallina Maruchan 85 g,Maruchan,Sopa Instantanea
 7392625164447,Sopa InstantÃ¡nea de Carne Ajinomen 86 g,Ajinomen,Sopa Instantanea
-7392625361055,Gaseosa Sprite Original 500 ml,Sprite,Gaseosa
+7392625361055,Gaseosa Sprite Original 500 Ml,Sprite,Gaseosa
 7392626639007,Toddy Original 370 G,Toddy,Chocolate en Polvo
 7392627130527,Vinagre de Alcohol Favinco 500 ml,Favinco,Vinagre
 7392627196063,Vinagre de Manzana Favinco 500 ml,Favinco,Vinagre
@@ -262,7 +265,7 @@ id_producto,producto,proveedor,categoria
 7436942508191,Powerade Multifrutas de 473 ml,Powerade,Rehidratante
 7436942540959,Azucar Aguai Morena de 1 kg,Aguai,Azucar
 7436942606495,Azucar Morena Guabira de 1 kg,Guabira,Azucar
-7436942672031,Caldo de Gallina DoÃ±a Gusta de 42 gr,DoÃ±a gusta,Caldo de Gallina
+7436942672031,Caldo de Gallina Doña Gusta de 42 G,Doña Gusta,Caldo de Gallina
 7436942704799,Jugo de Pomelo Aquarius de 300 ml,Aquarius,Jugo de Frutas
 7436942737567,Leche Entera Del Campo de 946 ml,Del Campo,Leche
 7436942770335,Azucar Guabira de 5 Kl,Guabira,Azucar
@@ -285,13 +288,12 @@ id_producto,producto,proveedor,categoria
 7436943687839,Leche Deslactosada Delizia de 800 ml,Delizia,Leche Deslactosada
 7436943720607,Leche Bonle de 900 ml,Bonle,Leche
 7436943786143,Antisarro Ola Maximus de 550 ml,Ola,Antisarro
-7436943851679,Gaseosa Pepsi de 3000 ml,Pepsi,Gaseosa
+7436943851679,Gaseosa Pepsi 3 L,Pepsi,Gaseosa
 7436943884447,Gelatina de PiÃ±a Yeli de 110 gr,Yeli,Gelatina
 7436943917215,Nectar de Durazno Del Valle de 300 ml,Del Valle,Nectar de Frutas
 7436944146591,Agua sin Gas Vital de 350 ml,Vital,Agua sin Gas
-7436944179359,Gaseosa Fanta Guarana de 500 ml,Fanta,Gaseosa
+7436944179359,Gaseosa Fanta Guarana 500 Ml,Fanta,Gaseosa
 7436944212127,Leche con Avena Pil de 800 ml,Pil,Leche con Avena
-7436944244895,Gaseosa Pepsi de 500 ml,Pepsi,Gaseosa
 7436944310431,Leche de Vainilla Soy Pil de 946 ml,Pil,Leche de Vainilla
 7436944343199,Caldo de Costilla DoÃ±a Gusta de 42 gr,DoÃ±a Gusta,Caldo de Costilla
 7436944375967,Sal Yodada y Fluorada de 1000 gr,Industria Salinera Boliviana SRL,Sal
@@ -306,10 +308,10 @@ id_producto,producto,proveedor,categoria
 7436945096863,Biogurt Frutilla Pil de 1 L,Pil,Biogurt
 7436945195167,Pate Higado de Pollo Sofia de 200 gr,Sofia,Higado de Pollo
 7436945227935,Enciende Brasa La Guardia,La Guardia,Enciende Brasa
-7436945424543,Gaseosa Fanta Papaya de 500 ml,Fanta,Gaseosa
+7436945424543,Gaseosa Fanta Papaya 500 Ml,Fanta,Gaseosa
 7436945457311,Papel Toalla Multiuso Scott de 3 Uni,Scott,Papel Toalla
 7436945817759,Limonada Cero Azucar La CabaÃ±a de 2000 ml,La CabaÃ±a,Limonada
-7436945948831,Gaseosa Guarana Antartica de 3000 ml,Antartica,Gaseosa
+7436945948831,Gaseosa Guarana Antartica 3 L,Antartica,Gaseosa
 7436945981599,Gatorade Cool Blue de 500 ml,Gatorade,Rehidratante
 7436946014367,Agua con Gas Mendocina de 1000 ml,Mendocina,Agua
 7436946047135,Yerba Mate Buen Dia de 24 Uni,Buen Dia,Yerba Mate
@@ -322,7 +324,7 @@ id_producto,producto,proveedor,categoria
 7436946669727,Nectar de Manzana Frutts Pura Vida de 2000 ml,Pura Vida,Nectar de Frutas
 7436946735263,Galleta HogareÃ±a Salvado Arcor de 200 gr,HogareÃ±a,Galleta
 7436946768031,Pudin de Chocolate Kris de 113 gr,Kris,Pudin
-7436946800799,Gaseosa Sprite de 3000 ml,Sprite,Gaseosa
+7436946800799,Gaseosa Sprite 3 L,Sprite,Gaseosa
 7436946833567,Galleta de Chocolate Wafer MabelS de 46 gr,Mabels,Galleta de Chocolate
 7436946899103,Leche Light Delizia de 946 ml,Delizia,Leche Light
 7436946997407,Limonada con Gas La CabaÃ±a de 500 ml,La CabaÃ±a,Limonada
@@ -336,7 +338,7 @@ id_producto,producto,proveedor,categoria
 7436947259551,Esponja de Acero Bombril de 8 Uni 60 gr,Bombril,Bombril
 7436947292319,Palitos Integrales Bread King,Bread King,Palitos Integrales
 7436947325087,Pilfrut de Frutilla de 200 ml,Pil,Pilfrut
-7436947423391,Gaseosa Fanta Guarana de 3000 ml,Fanta,Gaseosa
+7436947423391,Gaseosa Fanta Guarana 3 L,Fanta,Gaseosa
 7436947488927,Leche Deslactosada de Frutilla Pil de 800 ml,Pil,Leche Deslactosada
 7436947521695,Agua con Gas Mendocina de 600 ml,Mendocina,Agua con Gas
 7436947554463,Jabon Blanco Extremo Bolivar de 210 gr,Bolivar,Jabon
@@ -345,7 +347,7 @@ id_producto,producto,proveedor,categoria
 7436947718303,Mate de Manzanilla Windsor de 20 Uni,Windsor,Mate
 7436947783839,Pate Higado de Cerdo Sofia de 100 gr,Sofia,Higado de Cerdo
 7436947849375,Limonada Cero La CabaÃ±a de 500 ml,La CabaÃ±a,Limonada
-7436947914911,Gaseosa Fanta Mandarina de 500 ml,Fanta,Gaseosa
+7436947914911,Gaseosa Fanta Mandarina 500 Ml,Fanta,Gaseosa
 7436947947679,Carbon La Guardia de 4000 gr,La Guardia,Carbon
 7436947980447,Detergente Patito Limon de 640 gr,Patito,Detergente
 7436948144287,Cheetos Horneados Queso de 29 gr,Frito lay,Cheetos
@@ -355,20 +357,20 @@ id_producto,producto,proveedor,categoria
 7436948471967,Hamburguesa Fridosita de Res Fridosa de 166 gr,Fridosa,Hamburguesa
 7436948635807,Sal Lobos de 125 gr,Lobos,Sal
 7436948668575,Jugo de Manzana Aquarius de 500 ml,Aquarius,Jugos de Frutas
-7436948766879,Gaseosa Coca Cola sin AzÃºcar de 2 L,Coca Cola,Gaseosa
-7436948963487,Gaseosa Guarana Mendocina de 1000 gr,Mendocina,Gaseosa
+7436948766879,Gaseosa Coca Cola Sin  Azúcar 2 L,Coca Cola,Gaseosa
+7436948963487,Gaseosa Guarana Mendocina 1 L,Mendocina,Gaseosa
 7436949029023,Mayonesa Light Hellmanns de 475 gr,Hellmanns,Mayonesa
 7436949094559,Mostaza Kris de 500 gr,Kris,Mostaza
 7436949160095,Servilletas de Papel Nacional de 500 Uni,Nacional,Servilleta
-7436949422239,Gaseosa Fanta Mandarina de 2000 ml,Fanta,Gaseosa
-7436949520543,Gaseosa de PiÃ±a Mendocina de 1000 ml,Mendocina,Gaseosa
+7436949422239,Gaseosa Fanta Mandarina de 2 L,Fanta,Gaseosa
+7436949520543,Gaseosa Piña Mendocina 1 L,Mendocina,Gaseosa
 7436949553311,Papel Higienico Clasico Nacional de 6 Uni,Nacional,Papel Higienico
 7436949586079,Sopa sabor Carne de Res Maruchan Ramen de 85 gr,Maruchan Ramen,Sopa Instantanea
 7436949618847,Te Clasico Windsor de 50 u,Windsor,Te
 7436949651615,Insecticida Mata Moscas y Mosquitos Baygon Azul de 300 ml,Baygon,Insecticida
 7436949717151,Papel Toalla Clasica Megarrollo Nova de 1 Uni,Nova,Papel Toalla
-7436949749919,Gaseosa Fanta Papaya de 3000 ml,Fanta,Gaseosa
-7436949782687,Gaseosa Fanta de 2000 ml,Fanta,Gaseosa
+7436949749919,Gaseosa Fanta Papaya 3 L,Fanta,Gaseosa
+7436949782687,Gaseosa Fanta 2 L,Fanta,Gaseosa
 7436949815455,Ciclon Energy Drink de 500 ml,Ciclon,Rehidratante
 7436949880991,Toallas Femeninas Invisible Nosotras de 10 Uni,Nosotras,Toalla Femenina
 7436949946527,Chocolate Costa Vizzio de 21 gr,Vizzio,Chocolate
@@ -384,18 +386,18 @@ id_producto,producto,proveedor,categoria
 7436950438047,Gelatina de PiÃ±a Light Kris de 24 gr,Kris,Gelatina
 7436950601887,Jabon Antibacterial Bolivar de 210 gr,Bolivar,Jabon
 7436950732959,Jabon Blanco Brillante Uno de 220 gr,Uno,Jabon
-7436950765727,Gaseosa Fanta de 3000 ml,Fanta,Gaseosa
+7436950765727,Gaseosa Fanta de 3 L,Fanta,Gaseosa
 7436950798495,Te con Canela y Clavo de Olor Windsor de 64 Uni,Windsor,Te con Canela
-7436950831263,Ketchup Hellmanns de 500 gr,Hellmanns,Ketchup
-7436950864031,Ketchup Hellmanns de 400 gr,Hellmanns,Ketchup
+7436950831263,Ketchup Hellmanns de 500 G,Hellmanns,Ketchup
+7436950864031,Ketchup Hellmanns de 400 G,Hellmanns,Ketchup
 7436951126175,Doritos sabor Queso Frito Lay de 47 gr,Frito Lay,Doritos
 7436951158943,Papel Higienico Doble Hoja Scott de 6 Uni,Scott,Papel Higienico
 7436951191711,PaÃ±uelo Mentolado Triple Hoja Elite de 6 Uni,Elite,PaÃ±uelo
 7436951322783,Papel Toalla Multiuso Nacional de 2 Uni,Nacional,Papel Toalla
 7436951388319,Cafe Iguazu de 50 gr,Iguazu,Cafe
-7436951519391,Gaseosa de Papaya Mendocina de 1000 ml,Mendocina,Gaseosa
+7436951519391,Gaseosa Papaya Mendocina de 1 L,Mendocina,Gaseosa
 7436951552159,Super Sal Lobos de 250 gr,Lobos,Sal
-7436951715999,Gaseosa Sprite sin Azucar de 2000 ml,Sprite,Gaseosa
+7436951715999,Gaseosa Sprite Sin Azúcar 2 L,Sprite,Gaseosa
 7436951879839,Mayonesa Clasica Hellmanns de 475 gr,Hellmanns,Mayonesa
 7436951945375,Gomitas de Dientes Mogul Arcor de 150 gr,Arcor,Gomitas
 7436952109215,Leche Instantanea Pil de 760 gr,Pil,Leche
@@ -431,7 +433,7 @@ id_producto,producto,proveedor,categoria
 7436956500127,Palito de Sesamo Bread King,Bread King,Palito de Sesamo
 7436956860575,Fideo Instantaneo sabor Mexicano Nissin de 85 gr,Nissin,Fideo
 7436956893343,Sopa Instantanea sabor Pollo Picante Maruchan de 64 gr,Maruchan,Sopa
-7436956926111,Ketchup Kris de 410 gr,Kris,Ketchup
+7436956926111,Ketchup Kris de 400 G,Kris,Ketchup
 7436956958879,Gelatina Light de Naranja Kris de 24 gr,Kris,Gelatina
 7436956991647,Sopa con Fideos Caracolitos Knorr de 1075 gr,Knorr,Sopa
 7436957057183,Super Sal Lobos de 500 gr,Lobos,Sal
@@ -450,7 +452,7 @@ id_producto,producto,proveedor,categoria
 7436958433439,Sopa Instantanea sabor Pollo Ajinomen de 51 gr,Ajinomen,Sopa
 7436958466207,Bebida Isotonica sabor Frambuesa Activade 1000 ml,Activade,Energizante
 7436958498975,Nectar de Durazno Del Valle de 3000 ml,Del Valle,Nectar de Frutas
-7436958695583,Gaseosa de Papaya Mendocina de 330 ml,Mendocina,Gaseosas
+7436958695583,Gaseosa Papaya Mendocina 330 Ml,Mendocina,Gaseosas
 7436958793887,Cerveza Burguesa 473 ML,Burguesa,Cerveza
 7436958826655,Esponjas Multiuso Bristar de 4 Uni,Bristar,Esponjas
 7436959285407,Galleta sabor Dulce de Leche Wafer Mabels de 46 gr,Mabels,Galletas
@@ -464,9 +466,8 @@ id_producto,producto,proveedor,categoria
 7436959776927,Sopa Instantanea Calabresa Hot de 85 gr,Nissin Ramen,Sopa Instantanea
 7436959809695,Galleta rellena de Limon Mana Arcor de 165 gr,Arcor,Galleta
 7436959940767,Saca Grasa Sapolio de 500 ml,Sapolio,Saca Grasa
-7436960006303,Gaseosa sabor Manzana Simba de 2000 ml,Simba,Gaseosa
-7436960039071,Gaseosa sabor Papaya Salvietti de 600 ml,Salvetti,Gaseosa
-7436960268447,Gaseosa sabor Guarana Mendocina de 330 ml,Mendocina,Gaseosa
+7436960006303,Gaseosa Manzana Simba 2 L,Simba,Gaseosa
+7436960268447,Gaseosa Guarana Mendocina de 330 Ml,Mendocina,Gaseosa
 7436960366751,Nectar de Manzana Pura Vida Frutts de 500 ml,Pura Vida,Nectar de Frutas
 7436960399519,Papel Higienico Doble Hoja Esencias Scott de 4 Uni,Scott,Papel Higienico
 7436960432287,Antigrasa Ola Maximus de 890 ml,Ola,Antigrasa
@@ -475,10 +476,9 @@ id_producto,producto,proveedor,categoria
 7436960792735,Sopa Instantanea sabor Gallina Ajinomen Ajinomoto de 51 gr,Ajinomen,Sopa Instantanea
 7436961218719,Sopa Instantanea sabor Carne Nissin Ramen de 85 gr,Nissin Ramen,Sopa Instantanea
 7436961251487,Harina Leudante Princesa 1000 gr,Princesa,Harina
-7436961644703,Gaseosa Cola Mendocina 1000 ml,Mendocina,Gaseosa
+7436961644703,Gaseosa Cola Mendocina 1 L,Mendocina,Gaseosa
 7436961677471,Jugo de Manzana Frut All de 200 ml,Frutt All,Jugo de Frutas
-7436961710239,Gaseosa sabor Pomelo Mendocina de 330 ml,Mendocina,Gaseosa
-7436961743007,Gaseosa sabor PiÃ±a Simba de 2000 ml,Simba,Gaseosa
+7436961743007,Gaseosa Piña Simba 2 L,Simba,Gaseosa
 7436961775775,Mostaza Kris de 400 gr,Kriss,Mostaza
 7436961808543,Te de Canela y Clavo de Olor Ceylan de 20 Uni,Ceylan,Te
 7436961841311,Cocoa Celinda de 160 gr,Celinda,Cocoa
@@ -520,7 +520,7 @@ id_producto,producto,proveedor,categoria
 7436966363295,Dulce de Leche Estilo Colonia La Serenisima,La Serenisima,Dulce de Leche
 7436966494367,Vino Tinto Campo de Solana de 750 ml,Campo de Solana,Vino
 7436966625439,Papas Fritas Congeladas Simplot de 2500 gr,Simplot,Papas Fritas
-7436966658207,Ketchup Heinz de 567 gr,Heinz,Ketchup
+7436966658207,Ketchup Heinz de 567 G,Heinz,Ketchup
 7436966756511,Sopa de Fideo con Pollo Maggi de 70 gr,Maggi,Sopa
 7436966953119,Sopa de Gallina Picante Ajinomen Ajinomoto de 51 gr,Ajinomen,Sopa
 7436966985887,Galleta Cremosita sabor Frutilla Mabels de 360 gr,Mabels,Galleta
@@ -530,7 +530,7 @@ id_producto,producto,proveedor,categoria
 7436967149727,Margarina Regia de 850 gr,Regia,Margarina
 7436967510175,Nectar de Durazno Pura Vida Frutts Pil de 500 ml,Pura Vida,Nectar de Frutas
 7436967674015,Atun al Aceite Van Camps de 354 gr,Van Camps,Atun
-7436967706783,Gaseosa Papaya Salvietti de 3000 ml,Salvietti,Gaseosa
+7436967706783,Gaseosa Papaya Salvietti de 3 L,Salvietti,Gaseosa
 7436967739551,Avena Instantanea La Suprema de 400 gr,La Suprema,Avena Instantanea
 7436967837855,Endulcorante Liquido Dietetico Chuker de 500Cc+100 ml,Ckuker,Endulcorante
 7436967936159,Mayonesa Hellmanns de 950 gr,Hellmanns,Mayonesa
@@ -571,7 +571,7 @@ id_producto,producto,proveedor,categoria
 7450142343327,Mayonesa Regular Kris de 500 gr,Kris,Mayonesa
 7450142539935,Mayonesa sabor Limon Kris de 125 gr,Kris,Mayonesa
 7450143817887,Quinua Real El Cocinero de 400 gr,El Cocinero,Quinua
-7450143916191,Ketchup Kris de 60 gr,Kris,Ketchup
+7450143916191,Ketchup Kris de 60 G,Kris,Ketchup
 7450144047263,Pan Molde Integral con Avena Jenecheru de 500 gr,Jenecheru,Pan Molde
 7450144211103,Servilleta de Papel Nacional de 200 Uni,Nacional,Nacional
 7450144276639,Pan Molde Blanco Chico Victoria de 280 gr,Victoria,Pan Molde
@@ -605,7 +605,7 @@ id_producto,producto,proveedor,categoria
 7450149650591,Polvo de Hornear Royal Kris de 57 gr,Kris,Polvo de Hornear
 7450149748895,Salsa Tomate Lazzaroni de 200 gr,Lazzaroni,Salsa de Tomate
 7450150240415,Mayonesa Picante Kris de 230 gr,Kris,Mayonesa
-7450151747743,Ketchup Kris de 500 gr,Kris,Ketchup
+7450151747743,Ketchup Kris de 500 G,Kris,Ketchup
 7450151878815,Mayonesa Light Kris de 200 gr,Kris,Mayonesa
 7450152009887,Pan Molde Negro Grande Fidalga,Fidalga,Pan Molde
 7450152796319,Pan Molido Fidalga de 500 gr,Fidalga,Pan Molido
@@ -691,3 +691,7 @@ id_producto,producto,proveedor,categoria
 10832967598239,Suerox Mora Azul 630 ML,Fidalga,Suerox Hidratante
 10832971464863,Suerox Fresa Kiwi 630 ML,Fidalga,Suerox Hidratante
 10832973398175,Suerox Naranja Mandarina 630 ML,Fidalga,Suerox Hidratante
+10836801749151,Salsa Barbacoa Kris 430 G,Kris,Salsa
+10836816724127,Salsa Golf Original Kris 380 G,Kris,Salsa
+10836861386911,Yogurt Deslactosado Frutilla 1 L,Pil,Yogurt Deslactosado
+10836862337183,Yogurt Deslactosado Crema Americana 1 L,Pil,Yogurt Deslactosado
