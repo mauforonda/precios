@@ -67,6 +67,9 @@ id_producto,producto,proveedor,categoria
 7436944244895,Gaseosa Pepsi de 500 ml,Pepsi,Gaseosa
 7436960039071,Gaseosa sabor Papaya Salvietti de 600 ml,Salvetti,Gaseosa
 7436961710239,Gaseosa sabor Pomelo Mendocina de 330 ml,Mendocina,Gaseosa
+7436953125023,Nuggets Dinos Sofia de 500 gr,Sofia,Nuggets
+7436983238815,Mortadela Primavera en Barra Sofia de 500 gr,Sofia,Mortadela
+10628754636959,Insecticida Baygon Bristar,Fidalga,
 7392493142175,Aceite Fino 900 ml,Fino,Aceite
 7392493404319,Agua con Gas Vital 2 L,Vital,Agua con Gas
 7392493568159,Aquarius de Pera 2 L,Aquarius,Jugo de Fruta
@@ -83,7 +86,7 @@ id_producto,producto,proveedor,categoria
 7392496484511,Milanesa de Res Sofia 500 gr,Sofia,Milanesa de Res
 7392496582815,Hamburguesa de Res Express Sofia 12 u,Sofia,Hamburguesas
 7392496615583,Hamburguesa de Res Fridosa Express 6 u 330 g,Fridosa,Hamburguesas
-7392496681119,Nuggets Patitas Sofia 350 g,Sofia,Nuggets
+7392496681119,Nuggets Patitas Sofia 350 G,Sofia,Nuggets
 7392496910495,Pan Molde Jenecheru Blanco 700 g,JenecherÃº,Pan Molde
 7392496976031,Pan Molde Integal Jenecheru 700 g,JenecherÃº,Pan Molde
 7392497139871,Gelatina Cereza Yeli 110 g,Yeli,Postres
@@ -285,7 +288,7 @@ id_producto,producto,proveedor,categoria
 7436943491231,Agua sin Gas Vital de 6000 ml,Vital,Agua
 7436943589535,Servilleta de Papel Scott de 50 u,Scott,Servilleta
 7436943655071,Red Bull Energy Drink de 250 ml,Red Bull,Energizante
-7436943687839,Leche Deslactosada Delizia de 800 ml,Delizia,Leche Deslactosada
+7436943687839,Leche Deslactosada Delizia UHT 800 Ml,Delizia,Leche Deslactosada
 7436943720607,Leche Bonle de 900 ml,Bonle,Leche
 7436943786143,Antisarro Ola Maximus de 550 ml,Ola,Antisarro
 7436943851679,Gaseosa Pepsi 3 L,Pepsi,Gaseosa
@@ -408,7 +411,6 @@ id_producto,producto,proveedor,categoria
 7436952436895,Hamburguesa de Res en Tubo Fridosita de 83 gr 12 Uni,Fridosa,Hamburguesa
 7436952502431,Servilleta de Papel Elite de 100 Uni,Elite,Servilleta
 7436952600735,Sopa Instantanea de Carne Picante Ajinomen de 85 gr,Ajinomoto,Sopa
-7436953125023,Nuggets Dinos Sofia de 500 gr,Sofia,Nuggets
 7436953256095,Nectar de PiÃ±a Pura Vida Frutts de 2000 ml,Pura Vida,Nectar de Frutas
 7436953288863,Hamburguesa sabor Picana de Res Sofia de 83 gr,Sofia,Hamburguesa
 7436953452703,Energizante de Frutilla Activade de 600 ml,Activade,Energizante
@@ -549,7 +551,6 @@ id_producto,producto,proveedor,categoria
 7436969771167,Lavavajilla Proteccion Colageno y Pomelo Ola de 1100 ml,Ola,Lavavajilla
 7436969902239,Lavavajilla Limon Sapolio de 1250 ml,Sapolio,Lavavajilla
 7436969935007,Detergente en Polvo Skip de 700 gr,Skip,Detergente
-7436983238815,Mortadela Primavera en Barra Sofia de 500 gr,Sofia,Mortadela
 7436983697567,Pan Molde con Semillas Oroweat de 600 gr,Oroweat,Pan Molde
 7436984516767,Cuernito con Queso Fidalga,Fidalga,Cuernito con Queso
 7450140180639,Agua sin Gas Vital de 2000 ml,Vital,Agua
@@ -638,7 +639,6 @@ id_producto,producto,proveedor,categoria
 10516854374559,Cerveza Budweiser 269 ML,Fidalga,
 10628748738719,Durazno La Colina,Fidalga,
 10628750868639,Maicena Paladio,Fidalga,
-10628754636959,Insecticida Baygon Bristar,Fidalga,
 10713715441823,Mocochinchi Casa del Camba,Casa del Camba,
 10713717145759,Chicha Casa del Camba,Casa del Camba,Bebida
 10713717833887,Pepsi Black,Pepsi,Gaseosa
@@ -695,3 +695,6 @@ id_producto,producto,proveedor,categoria
 10836816724127,Salsa Golf Original Kris 380 G,Kris,Salsa
 10836861386911,Yogurt Deslactosado Frutilla 1 L,Pil,Yogurt Deslactosado
 10836862337183,Yogurt Deslactosado Crema Americana 1 L,Pil,Yogurt Deslactosado
+10837609873567,Yogurt Bebible Frutilla Sachet 1 L,Delizia,Yogurt Bebible
+10837611577503,Yogurt Bebible Durazno Sachet 1 L,Delizia,Yogurt Bebible
+10837630058655,Nugget Safari Pollo Fridosa 500 G,Fridosa,Nuggets De Pollo
