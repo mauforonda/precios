@@ -1177,7 +1177,6 @@ id_producto,producto,proveedor,categoria
 42081,Colchón Básico King Dura - Beam Series,Intex,/Camping/Carpas y sacos de dormir/Colchones inflables/
 42250,Cubierta de espuma nasa supreme 180x200cm,Maxi King,/Dormitorio y Baño/Colchones/King 3 Plazas/
 43787,"Televisor 40"" iffalcon smart android 11 hd pantalla infinita",Iffalcon,/Tecnología/Tv y Video/Televisores/
-44857,Televisor plano 43'' TCL 43S5400A Full HD Android Tv Smart,TCL,/Tecnología/Tv y Video/Televisores/
 45151,Cajonero de 5 niveles crochet café,MQ Plasticos,/Hogar/Organización/Cajas y Canastos/
 46018,Acuarela Faber Castell 12 Colores,Faber Castell,/Oficina/Accesorios de Oficina/
 48780,X90L/X91BL | BRAVIA XR | Full Array LED | 4K Ultra HD | Alto rango dinámico (HDR) | Smart TV (Google TV),Sony,/Tecnología/Tv y Video/Televisores/
@@ -1529,6 +1528,10 @@ id_producto,producto,proveedor,categoria
 47246,Alf anais hojas beige amarillo cafe 160x230cm,Balta,/Decoración/Alfombras/Alfombras medianas/
 47656,Sierra caladora 450w  220v,Gladiator,/Herramientas/Herramientas Eléctricas/Sierras caladoras y circulares/
 48566,Balanza de diagnóstico con pantalla azul BF180,Beurer,/Electrohogar/Electrodomésticos/
+34048,Cocina de Piso 5H magister Style con grill Dako,Dako,/Electrohogar/Cocina/Cocinas/
+37650,Batería de Cocina TURIM 10 piezas,Tramontina,/Hogar/Menaje Cocina/Baterías de Cocina/
+41853,Maceta decorativa carrie copper metalico 12x14 cm,Mica,/Jardineria/Macetas/
+46095,Minifiguras bolsa lego disney 100,Lego,/Juguetería/Lego/
 17,Sarten Profesional Tramontina,Tramontina,/Hogar/Menaje Cocina/Sartenes y Wok/
 18,Juego para Asado POLYWOOD 14pzas,Tramontina,/Exteriores/Churrasco/Accesorios de Parrillas/
 28,Jgo De Tenedores Jumbo 4 Pzas,Tramontina,/Exteriores/Churrasco/Accesorios de Parrillas/
@@ -5452,7 +5455,6 @@ id_producto,producto,proveedor,categoria
 34039,Caja organizadora de huevos para 21 unidades,Brugmann,/Hogar/Menaje Cocina/Utensilios de Cocina/
 34046,Cocina de Piso 5H agile Up Glass negro Dako,Dako,/Electrohogar/Cocina/Cocinas/
 34047,Cocina de Piso 4H agile Up Glass negro Dako,Dako,/Electrohogar/Cocina/Cocinas/
-34048,Cocina de Piso 5H magister Style con grill Dako,Dako,/Electrohogar/Cocina/Cocinas/
 34049,Cocina de Piso 4h magister Style con grill Dako,Dako,/Electrohogar/Cocina/Cocinas/
 34063,Tope vaiven pavonado,Mobile,/Herramientas/Ferreteria/Herraje/
 34064,"Tope de puerta 3"" de zinc",Mobile,/Herramientas/Ferreteria/Herraje/
@@ -6041,7 +6043,6 @@ id_producto,producto,proveedor,categoria
 37644,Wok 28cm LORETO Rojo,Tramontina,/Hogar/Menaje Cocina/Sartenes y Wok/
 37647,Juego de Cuchillos PLENUS 6 piezas,Tramontina,/Hogar/Menaje Cocina/Cuchillos de Cocina/
 37648,Juego para Asado Churrasco 3 piezas,Tramontina,/Exteriores/Churrasco/Accesorios de Parrillas/
-37650,Batería de Cocina TURIM 10 piezas,Tramontina,/Hogar/Menaje Cocina/Baterías de Cocina/
 37652,Anillo de Silicona VANCOUVER 20cm,Tramontina,/Hogar/Menaje Cocina/Utensilios de Cocina/
 37653,Anillo de Silicona VANCOUVER 24cm,Tramontina,/Hogar/Menaje Cocina/Utensilios de Cocina/
 37654,Olla de Presión VANCOUVER 20cm 4.5 litros,Tramontina,/Hogar/Menaje Cocina/Ollas y Cacerolas/
@@ -6798,7 +6799,6 @@ id_producto,producto,proveedor,categoria
 41800,Maceta decorativa pablo café 20x25 cm,Mica,/Jardineria/Macetas/
 41820,Caja de Almacenamiento de Madera 31x15cm Gris,5five,/Hogar/Organización/Cajas y Canastos/
 41821,Caja de Almacenamiento de Madera 31x15cm Natural,5five,/Hogar/Organización/Cajas y Canastos/
-41853,Maceta decorativa carrie copper metalico 12x14 cm,Mica,/Jardineria/Macetas/
 41855,Florero vidrio reciclado silena 27x24 cm,Mica,/Decoración/Complementos decorativos/Floreros/
 41858,Maceta decorativa floyd gris 13x15 cm,Mica,/Jardineria/Macetas/
 41862,Maceta decorativa pablo verde 16x18 cm,Mica,/Jardineria/Macetas/
@@ -7409,6 +7409,7 @@ id_producto,producto,proveedor,categoria
 44852,"Maceta redonda d17"" h13""",KENN,/Jardineria/Macetas/
 44853,Armario multiuso 2 puertas color Blanco,Casa mia,/Muebles/
 44855,Televisor plano 40'' TCL 40S5400A Full HD Android Tv Smart,TCL,/Tecnología/Tv y Video/Televisores/
+44857,Televisor plano 43'' TCL 43S5400A Full HD Android Tv Smart,TCL,/Tecnología/Tv y Video/Televisores/
 44859,Burlete 5-1000 aluminio negro,Amig,/Herramientas/Ferreteria/Herraje/
 44860,"Numero 0-4"" acero inoxidable 18/8",Amig,/Herramientas/Ferreteria/Herraje/
 44861,Burlete 4-1000 pvc roble,Amig,/Herramientas/Ferreteria/Herraje/
@@ -7998,7 +7999,6 @@ id_producto,producto,proveedor,categoria
 46091,Riel doble 100cm blanco,Prat-K,/Muebles/Dormitorio/Estantes y Repisas/
 46092,Lol Sorpresa Fashion Show,LOL,/Juguetería/Niña/Muñecas y Accesorios/
 46093,Hw pista basica de autos,Hot Wheels,/Juguetería/Niño/Pistas de Autos/
-46095,Minifiguras bolsa lego disney 100,Lego,/Juguetería/Lego/
 46097,Riel doble 200cm blanco,Prat-K,/Pinturas/Metal/
 46098,Sombrilla de playa rojo 180 probeach,KPN,/Muebles/Muebles de Jardin/Juegos de jardín/
 46101,Hw multi-loop raceofforgana,Hot Wheels,/Juguetería/Niño/Pistas de Autos/
@@ -12417,22 +12417,86 @@ id_producto,producto,proveedor,categoria
 53962,Bizocho de maiz crocsitos 200gr,Decoris,/Alimentos y Bebidas/Chocolates y Caramelos/
 53963,Calita de maiz crocsitos 200gr,Decoris,/Alimentos y Bebidas/Chocolates y Caramelos/
 54012,Manicura set 9pzas,KPN,/Viaje y regalos/Accesorios/Cuidados y Limpieza/
+54034,Set de peindado para mascotas,KPN,/Mascotas/Paseo y accesorios/
 54040,Etiquetas pizarra 12pzas,Ubl,/Viaje y regalos/Accesorios/
 54041,Papel magico 14x21cm 8pzas,Ubl,/Juguetería/
 54100,Llavero de 3 secciones rojo azul plata,Lucky Line,/Oficina/Accesorios de Oficina/Llaveros/
 54103,Destapador 2en1 clip 2pzas,Ubl,/Hogar/Menaje Comedor/Accesorios para Bar/
 54104,Gel pad para codo o rodilla,Ubl,/Electrohogar/Cuidado Personal/
 54106,Porta pildora triturador,Ubl,/Electrohogar/Cuidado Personal/
+54111,Cabeza de ducha negro 3funciones,KPN,/Dormitorio y Baño/Baño/Accesorios de Baño/
 54123,Papel film 70x500cm,KPN,/Hogar/Menaje Cocina/Utensilios de Cocina/
 54126,Pila duracell aaa x8,Duracell,/Tecnología/Cables y Accesorios/
+54129,Porta rollo de papel inox 60cm,KPN,/Dormitorio y Baño/Baño/Organizadores de baño/
+54130,Porta toalla negro 70x30x80cm.,KPN,/Dormitorio y Baño/Baño/Organizadores de baño/
+54201,Harry potter 2 pzl 500 hqc,Clementoni,/Juguetería/Juegos de Mesa/Rompecabezas/
+54208,Friends viaje de campamento de vacaciones,Lego,/Juguetería/Lego/Lego Friends/
+54210,Friends restaurante en el centro de heartlake,Lego,/Juguetería/Lego/Lego Friends/
+54211,Friends la habitacion de lian,Lego,/Juguetería/Lego/Lego Friends/
+54212,Friends furgoneta de rescate para perros,Lego,/Juguetería/Lego/Lego Friends/
+54229,Llamada Para Pajaros,Toysmith,/Juguetería/Juegos de Mesa/Manualidades/
+54289,set 6 carambano hangdeco 6cm blanco,KPN,/Navidad/Adornos Navideños/
+54291,arbol de navidad madera al 24 cm nogal,KPN,/Navidad/Arboles/
+54292,portavelas madera 11x9cm waln,KPN,/Navidad/Arboles/
+54298,Nite howl sidekick disp/collar p/mascota c/luz sur,Nite Ize,/Mascotas/Paseo y accesorios/
+54308,cookie cutter 4ass/set cortadora d/galletas 3pzs,KPN,/Hogar/Menaje Cocina/Utensilios de Cocina/
+54309,"Piso p/bano 17x36""blanco",Kittrich,/Dormitorio y Baño/Baño/Cortinas y Pisos de Baño/
 54314,ISOTONICO SANTE SPORT UVA 1000 ML,Sante,/Alimentos y Bebidas/Bebidas/
+54324,Cable de acero para atar mascotas alta resistencia 50pies l 100lb,Westminster,/Mascotas/Paseo y accesorios/
+54325,Cadena para atar mascotas de ultra resistencia 15pies l 150lb,Westminster,/Mascotas/Paseo y accesorios/
+54334,Linterna 17x38cm blanco,KPN,/Decoración/Complementos decorativos/Portavelas/
+54335,Gorro navidad calentamanos 90cm,KPN,/Navidad/
+54336,Set de 8 velas blanco,KPN,/Navidad/Velas Navideñas/
+54337,Pin para velas 8cm 4pzs plata,KPN,/Decoración/Complementos decorativos/Portavelas/
+54338,Portavelas copo nieve 10x2,KPN,/Decoración/Complementos decorativos/Portavelas/
+54339,Vela led 70x100mm blanca,KPN,/Navidad/Luces Navideñas/
+54340,Vela led 70x125mm blanca,KPN,/Navidad/Luces Navideñas/
+54341,Vela led 70x150mm blanca,KPN,/Navidad/Luces Navideñas/
+54342,Vela led 70x125mm marfil,KPN,/Navidad/Luces Navideñas/
+54344,Vela led arbol 11cm verde oscuro,KPN,/Navidad/Arboles/
+54345,Vela led 70x200mm marfil,KPN,/Navidad/Luces Navideñas/
+54346,Vela led cono pino 13cm,KPN,/Navidad/Arboles/
+54347,Vela led arbol 11cm verde clr,KPN,/Navidad/Arboles/
+54348,Cuenco arbol navidad 12cm,KPN,/Hogar/Menaje Comedor/Vajillas/
+54353,Portavelas 9x27cm plata,KPN,/Decoración/Complementos decorativos/Portavelas/
+54354,Portavelas 26cm 4 div negro,KPN,/Decoración/Complementos decorativos/Portavelas/
+54355,Portavelas 30cm plata,KPN,/Decoración/Complementos decorativos/Portavelas/
+54357,Portavelas 28cm plata,KPN,/Decoración/Complementos decorativos/Portavelas/
+54358,Individual pv dia 41cm plata cl,KPN,/Navidad/Adornos Navideños/
+54362,Flor de navidad 64cm 3 cabezas,KPN,/Decoración/Complementos decorativos/Flores y Plantas/
 54394,Pilas Energizer AAA2 1.5V,Energizer,/Tecnología/Cables y Accesorios/
+54397,Lavadora Panasonic Blanca 17 Kg Econavi,Panasonic,/Electrohogar/Lavado y Secado/Lavadoras/
+54399,Lavadora carga superior 19kg tecnolog­ia turbo negra,LG,/Electrohogar/Lavado y Secado/Lavadoras/
+54406,Lavadora/Secadora LG 14/8 Kg Gris con Inteligencia Artificial AIDD,LG,/Electrohogar/Lavado y Secado/Lavadoras/
+54407,"Lavadora LG 21kg carga superior AI DD 6 Motion y Smart Diagnosis, Negro plateado",LG,/Electrohogar/Lavado y Secado/Lavadoras/
+54408,"Freezer Horizontal Hitech 330 L Blanco, Puerta interior deslizante de vidrio",Hitech,/Electrohogar/Refrigeración/Freezer/
+54416,Lavadora Panasonic Titanium 17 Kg.,Panasonic,/Electrohogar/Lavado y Secado/Lavadoras/
+54417,Equi blocks,Play With me,/Juguetería/Juegos de Mesa/Juego de Mesa/
+54418,"Refrigerador Hitech Silver Dos Puertas, Hielo Seco 260 Lt",Hitech,/Electrohogar/Refrigeración/Heladeras/
+54419,Tira de 90 led color blanco calido 3mt,KPN,/Navidad/Luces Navideñas/
+54420,Cable de plata 40 led color blanco,KPN,/Navidad/Luces Navideñas/
+54421,Anillo de Luz 480 led blanco calido de 38cm,KPN,/Navidad/Guias y Coronas/
+54428,SECADORA 7KGRS. ELECTRICA ELECTROLUX,Electrolux,/Electrohogar/Lavado y Secado/Secadoras/
+54431,Luz LED collar para mascotas Petlit verde,Nite Ize,/Mascotas/Paseo y accesorios/
 54435,Cunapes crocsitos 100g,Mayser,/Alimentos y Bebidas/Chocolates y Caramelos/
 54443,Gusanos Citricos 12x90g,Fini,/Alimentos y Bebidas/Chocolates y Caramelos/
 54444,Marsh sabor Vainilla - Alvorada 12x80g,Fini,/Alimentos y Bebidas/Chocolates y Caramelos/
 54445,Marsh Camping 12x80g,Fini,/Alimentos y Bebidas/Chocolates y Caramelos/
+54457,Dako Magister Style 5H Mesa Inox C/Grill,Dako,/Electrohogar/Cocina/
+54460,Dako Magister Style 5H Mesa Inox C/Grill GN,Dako,/Electrohogar/Cocina/
+54466,Ui Bolígrafo Pointec Azul,Mhotra,/Oficina/Accesorios de Oficina/Bolígrafos/
+54467,Refrigerador LG Frio Seco Inverter ThinQ 375 L,LG,/Electrohogar/Refrigeración/Heladeras/
 54496,Pila alka energizer a27 12vx48,Energizer,/Tecnología/Cables y Accesorios/
 54497,Pila bateria  a23,Energizer,/Tecnología/Cables y Accesorios/
+54498,Porta rollo negro 54cm,KPN,/Dormitorio y Baño/Baño/Organizadores de baño/
+54551,Jgo. alfombra y cortina de bano aruba-14pc-pac,Kennedy Home Collection,/Dormitorio y Baño/Baño/Cortinas y Pisos de Baño/
+54552,Jgo. alfombra y cortina de bano aruba-14pc-aqa,Kennedy Home Collection,/Dormitorio y Baño/Baño/Cortinas y Pisos de Baño/
+54553,Jgo. alfombra y cortina de bano aruba-14pc-sea,Kennedy Home Collection,/Dormitorio y Baño/Baño/Cortinas y Pisos de Baño/
+54554,Jgo. alfombra y cortina de bano aruba-14pc-slv,Kennedy Home Collection,/Dormitorio y Baño/Baño/Cortinas y Pisos de Baño/
+54569,Horno electrico 60cm 3D Sin Timer Bosch,Bosch,/Electrohogar/Cocina/Hornos Empotrables/
+54600,Refrigerador Hisense 379L Black,Hisense,/Electrohogar/Refrigeración/Heladeras/
+54603,Refrigerador 598 litros INSTAVIEW con Dispensador GS66SXNC LG,LG,/Electrohogar/Refrigeración/Heladeras/
+54604,Refrigerador 638 litros No frost Inverter LG,LG,/Electrohogar/Refrigeración/Heladeras/
 54608,24/70gr trululu oro,Trululu,/Alimentos y Bebidas/Chocolates y Caramelos/
 54609,24/70g trululu feroz mini,Trululu,/Alimentos y Bebidas/Chocolates y Caramelos/
 54610,24/70gr trululu gusanos,Trululu,/Alimentos y Bebidas/Chocolates y Caramelos/
@@ -12446,7 +12510,15 @@ id_producto,producto,proveedor,categoria
 54618,24/48g. bianchi cookies and cream,Trululu,/Alimentos y Bebidas/Chocolates y Caramelos/
 54619,24/50g bianchi choco snacks choco y mani,Trululu,/Alimentos y Bebidas/Chocolates y Caramelos/
 54620,24/40g bianchi choco galletas,Trululu,/Alimentos y Bebidas/Chocolates y Caramelos/
+54692,Cama para mascotas 54cm str azul gris,KPN,/Mascotas/Casas y camas para mascotas/
+54695,Dispensador de agua p mascota 3.5l 36x21x29cm,Animal Planet,/Mascotas/Comederos y bebederos/
+54696,Juguete p gato figura peluda,Animal Planet,/Mascotas/
+54698,Kong xl red dog to,Kong Company,/Mascotas/
+54699,Estaca y cable para atar mascotas media resistencia 15pies m 50lb,Westminster,/Mascotas/Paseo y accesorios/
+54718,Malla Verde Limon 27Cmx10Yds,Miro,/Navidad/Adornos Navideños/
+54723,Campana De Cristal Led Figura Nav 11Cm Surt4,KPN,/Navidad/Luces Navideñas/
 54759,Energizer recargable aa2,Energizer,/Tecnología/Cables y Accesorios/
+54766,Guante de bano p/masaje,KPN,/Dormitorio y Baño/Baño/
 54769,"Anillo de llavero 1"" acero niquelado",Lucky Line,/Oficina/Accesorios de Oficina/Llaveros/
 54770,"Anillo de llavero 1-1/2"" acero niquelado",Lucky Line,/Oficina/Accesorios de Oficina/Llaveros/
 54771,"Anillo de llavero 1-1/4"" acero niquelado",Lucky Line,/Oficina/Accesorios de Oficina/Llaveros/
@@ -12491,3 +12563,4 @@ id_producto,producto,proveedor,categoria
 54836,Espejo de bolsillo sirena dorada,Astra,/Decoración/Complementos decorativos/Espejos/
 54840,Mikado de madera 42 cm,Astra,/Juguetería/
 54847,"Anillo de llavero 1/2"" acero niquelado",Lucky Line,/Oficina/Accesorios de Oficina/Llaveros/
+54860,Figura Deco Arbol Led Surt2,KPN,/Navidad/Luces Navideñas/
