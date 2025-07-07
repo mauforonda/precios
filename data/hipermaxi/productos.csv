@@ -1676,6 +1676,7 @@ id_producto,producto,categoria,subcategoria
 25115,Mani Tostado Claf Chancaca 150 gr,Abarrotes,Snack
 25116,Vinagre Castelo de Alcohol 5 L,Abarrotes,Básicos
 25117,Galleta Family Farm Arroz Sin Sal 110 gr,Abarrotes,Dietéticos y Saludables
+25118,GALLETA FAMILY FARM ARROZ CON SAL 110G,Abarrotes,Dietéticos y Saludables
 25120,Vino Kohlberg Cautivo 750 ml,Bebidas,Vinos y Champagne
 25121,MANTEQ MANI MR NUTS CROC SIN AZUC 360G,Abarrotes,Repostería
 25122,MANTEQ MANI MR NUTS CREM ORIGINAL 360G,Abarrotes,Repostería
@@ -1709,7 +1710,7 @@ id_producto,producto,categoria,subcategoria
 25154,PACK VINO ARANJUEZ ALMA TANNAT 1NECESER,Bebidas,Vinos y Champagne
 25155,Pack Campos de Solana Rose/Marselan + Marca Copas,Bebidas,Vinos y Champagne
 25157,Pack 2 Gaseosa Salvietti Papaya 600 ml,Bebidas,Gaseosas
-25159,HARINA D TRIGO KANTURA 000 1KG,Abarrotes,Básicos
+25159,HARINA D TRIGO KANTUTA 000 1KG,Abarrotes,Básicos
 25161,Semilla Girasol Menobol Limon 225 gr,Abarrotes,Snack
 25162,Semilla Girasol Menobol Queso 225 gr,Abarrotes,Snack
 25165,Chocoalte Vizzio Coco 110 gr,Abarrotes,Chocolates y Caramelos
@@ -1736,6 +1737,7 @@ id_producto,producto,categoria,subcategoria
 25202,SNACK SALADIX PICANA 150G,Abarrotes,Snack
 25203,SNACK SALADIX POPS MANTEQ 170G,Abarrotes,Snack
 25211,SNACK SALADIX PICANTE BSA 23G,Abarrotes,Snack
+25212,SNACK SALADIX PICANA BSA 26G,Abarrotes,Snack
 25213,SNACK SALADIX POPS BSA 30G,Abarrotes,Snack
 25214,SNACK SALADIX CHIZZIDIX BSA 27G,Abarrotes,Snack
 25224,AJO MOLIDO DAMABRAVA FCO 100G,Abarrotes,Condimentos y Legumbres
@@ -2033,6 +2035,7 @@ id_producto,producto,categoria,subcategoria
 29141,Bebida Alcoholica Berries 12%,Bebidas,Licores
 29142,Vinagre Je de Coco 1 L,Abarrotes,Dietéticos y Saludables
 29145,Vino Solaz Berdejo Blanco 750 ml,Bebidas,Vinos y Champagne
+29146,Six Pack Sante Sport 6 un 1 L,Bebidas,Isotónicos
 29148,Gaseosa High Acai 350 ml,Bebidas,Gaseosas
 29150,Masticable Next Sandia 336 gr,Abarrotes,Golosinas - Varias
 29151,Platano Deshidratado Nativa 20 gr,Abarrotes,Frutas en Conserva
@@ -7646,6 +7649,7 @@ id_producto,producto,categoria,subcategoria
 228061,AC BALLERINA LARGO INCRE FCO 410ML,Cuidado Personal,Cuidado del Cabello
 228062,AC BALLERINA ONDAS FCO 410ML,Cuidado Personal,Cuidado del Cabello
 228069,GEL DENTAL CONDOR KIDS HW 3511,Cuidado del Bebé,Kids
+228070,GEL DENTAL CONDOR  KIDS HW 3512,Cuidado del Bebé,Kids
 228071,GEL DENTAL CONDOR KIDS HW 8211,Cuidado del Bebé,Kids
 228073,NAFTALINA PERDIGON 100 GR,Cuidado del Hogar,Productos Americanos
 228074,NAFTALINA IBERIA 100 GR,Cuidado del Hogar,Productos Americanos
@@ -7658,6 +7662,8 @@ id_producto,producto,categoria,subcategoria
 228090,JABON EN ESPUMA HERBAL FRESH REVIVE 250,Cuidado Personal,Cuidado de la Piel
 228091,BOLSA MAGIA VERDE 60X63 35LT,Cuidado del Hogar,Accesorios del Hogar
 228100,PACK PAPEL FINESSE FAMILIS 32+6 UNDS,Cuidado Personal,Cuidado Familiar
+228112,TINTE ISSUE EXPRESS CANTANO CLARO 5 MINU,Cuidado Personal,Cuidado del Cabello
+228113,TOALLA NOSOTRAS BUENAS NOCHES 8UN,Cuidado Personal,Cuidado Familiar
 228114,PANUELO DESCARTABLE FINESSE MENTOL 4 UND,Cuidado Personal,Cuidado Familiar
 228115,PANUELO DESCARTABLE FINESSE MENTOL 4 UND,Cuidado Personal,Cuidado Familiar
 228145,Ron Havana Club 3 Años 1 L,Bebidas,Licores
@@ -13777,6 +13783,7 @@ id_producto,producto,categoria,subcategoria
 552953,VINO DELFIN ROSE 750 ML,Bebidas,Vinos y Champagne
 552954,Cafe Lavazza Descafeinado Molido 250 gr,Abarrotes,Café y Sucedáneos
 552955,Cafe Grano Lavazza Qualita Rosa 500 gr,Abarrotes,Café y Sucedáneos
+552956,GELATINA DELY NEUTRA SIN SABOR  1 KG,Abarrotes,Repostería
 552957,GELATINA DELY FRESA 250GR,Abarrotes,Repostería
 552958,GELATINA DELY NARANJA 250GR,Abarrotes,Repostería
 552959,GELATINA DELY PINA 250GR,Abarrotes,Repostería
@@ -14019,7 +14026,7 @@ id_producto,producto,categoria,subcategoria
 553244,Singani Rupestre Colección Privada 750 ml,Bebidas,Licores
 553245,Pack Vino Luz Luna Rose + burbushh Uva,Bebidas,Vinos y Champagne
 553246,CHOCOLATE TRIANGULO BOM CHOC CONDOR 186,Abarrotes,Chocolates y Caramelos
-553248,RISOFFIATO INSTANTANEO CACAO CJA 250 GR,Abarrotes,Nutrición Infantil
+553248,ACHOCOLATADO RISOFFIATO INSTANT CJA 250G,Abarrotes,Nutrición Infantil
 553249,BOMBITAS CHOCOLATE CONDOR MICRO 120 GR,Abarrotes,Chocolates y Caramelos
 553250,Chocolate Condor Stevia 100 gr,Abarrotes,Chocolates y Caramelos
 553251,Chocolate Condor Selva Cacao 75% 100 gr,Abarrotes,Chocolates y Caramelos
@@ -14055,6 +14062,7 @@ id_producto,producto,categoria,subcategoria
 553303,GALLETAS ANDES TROPICO ALMENDRA 200 GR,Abarrotes,Galletas
 553308,GALLETA ANDES TROPICO QUINUA 200 GR,Abarrotes,Galletas
 553313,PIPOCA GUADIA MANTEQUILLA PACK 6X25GR,Abarrotes,Snack
+553316,CHOCOLATE PAITITI 100P SIN AZUCAR 67 GR,Abarrotes,Dietéticos y Saludables
 553317,CHOCOLATE PAITITI 100P SIN AZUCAR 100 GR,Abarrotes,Dietéticos y Saludables
 553322,PASTA LARGA CORTA SPIGA 400 GR,Abarrotes,Básicos
 553324,PASTA LARGA CORTA SPIGA 3 LB,Abarrotes,Básicos
@@ -14063,6 +14071,7 @@ id_producto,producto,categoria,subcategoria
 553330,BEBIDA CIN TAMARINDO BOT 3 LT,Bebidas,Bebidas Varias
 553331,BEBIDA CIN CANELA BOT 3 LT,Bebidas,Bebidas Varias
 553332,BEBIDA CIN COCO BOT 3 LT,Bebidas,Bebidas Varias
+553333,BEBIDA CIN LINAZA BOT 3 LT,Bebidas,Bebidas Varias
 554333,Cerveza Paceña Lata Roja 473 Cc,Bebidas,Cervezas
 554466,Detergente Liquido Ola Futuro Limpieza Completa 5 L,Cuidado del Hogar,Limpieza de la Ropa
 554468,Suavizante Ropa Ola Suavecito Original 5 L,Cuidado del Hogar,Limpieza de la Ropa
@@ -20364,6 +20373,7 @@ id_producto,producto,categoria,subcategoria
 741234,Pacu Despinado Congelado Pacusito kg,Congelados,Carnes Congeladas
 741236,Sonso Congelado Mil Sabores 5 un,Congelados,Masas y Comidas Congeladas
 741238,Linguica Calabresa Cerdo 3 Quesos La Boteca 500 gr,Fiambres,Fiambres Externos
+741259,QUESO MUZZARELLA LAMINADO LA HOLANDESA 250 GRS.,Lácteos y Derivados,Quesos
 741354,Mortadela Jamonada Primavera La Sierra Premium kg,Fiambres,Fiambres Externos
 741563,QUESO CHEDDAR LAMINADO A/V LA HOLANDESA 250 GRS.,Lácteos y Derivados,Quesos
 741587,Pulpa Congelada Natural Guayaba 230 gr,Congelados,Pulpas y Frutas Congeladas
