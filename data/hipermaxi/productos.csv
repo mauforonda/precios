@@ -1221,6 +1221,7 @@ id_producto,producto,categoria,subcategoria
 17773,Vino Classic Rose 750 ml,Bebidas,Vinos y Champagne
 17774,Ron Presidente Black Edicion Limitada 900 ml,Bebidas,Licores
 17776,Atun Norte Pack 2 un 354 gr,Abarrotes,Comidas en Conserva
+17778,Te Mate Paris de Anis 20 Sobres,Abarrotes,Café y Sucedáneos
 17786,Leche Nido Crecimiento Prebio 800 gr,Abarrotes,Nutrición Infantil
 17788,Cerveza Martens Gold 330 ml,Bebidas,Cervezas
 17791,Bombon Lindt Lindor Surtido 75 gr,Abarrotes,Chocolates y Caramelos
@@ -5539,6 +5540,7 @@ id_producto,producto,categoria,subcategoria
 120534,Suavizante Ropa Cavallaro Exotico 900 ml,Cuidado del Hogar,Limpieza de la Ropa
 120535,Suavizante Ropa Cavallaro Exotico 2 L,Cuidado del Hogar,Limpieza de la Ropa
 120541,LABIAL VOGUE RESIST LINDA,Cuidado Personal,Cuidado de la Piel
+120543,LABIAL VOGUE RESIST SONADORA,Cuidado Personal,Cuidado de la Piel
 120545,Ambientador Little Trees Arbolito Surtido,Bazar,Automotriz
 120546,LABIAL VOGUE RESIST ELEGANTE,Cuidado Personal,Cuidado de la Piel
 120550,Esmalte de Uña Vogue Efecto Gel Acai,Cuidado Personal,Cuidado de la Piel
@@ -7670,6 +7672,8 @@ id_producto,producto,categoria,subcategoria
 228115,PANUELO DESCARTABLE FINESSE MENTOL 4 UND,Cuidado Personal,Cuidado Familiar
 228127,ACOND PANTENE ANTICAIDA 250ML,Cuidado Personal,Cuidado del Cabello
 228130,SHAMPOO PANTENE ANTICAIDA 510ML,Cuidado Personal,Cuidado del Cabello
+228131,SHAMPOO H&S NUTRIMIEL650ML,Cuidado Personal,Cuidado del Cabello
+228132,SHAMPOO H&S NUTRIMIEL375ML,Cuidado Personal,Cuidado del Cabello
 228145,Ron Havana Club 3 Años 1 L,Bebidas,Licores
 228725,Galleta Granix Cereal 185 gr,Abarrotes,Galletas
 228771,Endulcorante  Chuker con Stevia 250 ml,Abarrotes,Dietéticos y Saludables
@@ -8528,7 +8532,7 @@ id_producto,producto,categoria,subcategoria
 293050,Protector Solar Sundown Playa Piscina 70fps 120 ml,Cuidado Personal,Cuidado de la Piel
 293079,Toallas Humedas Pequeñin Antibacterial 40 un,Cuidado del Bebé,Cuidado del Bebé
 293080,Repelente Tyson Crema Kids 50 gr,Cuidado del Bebé,Kids
-293081,Repelente Tyson Kids Crema 200 gr,Cuidado Personal,Cuidado de la Piel
+293081,Repelente Tyson Kids Crema 200 gr,Cuidado del Bebé,Kids
 293082,Crema Repelente Tyson Bebe 50 gr,Cuidado del Bebé,Cuidado del Bebé
 293084,Crema Repelente Tyson Bebe 200 gr,Cuidado del Bebé,Cuidado del Bebé
 293085,Repelente Tyson Mamá Crema 50 gr,Cuidado Personal,Cuidado de la Piel
@@ -10951,6 +10955,7 @@ id_producto,producto,categoria,subcategoria
 430200,Maizena Kris 800 gr,Abarrotes,Básicos
 430210,Cereal con Almendra Honey Bunch 1360 gr,Abarrotes,Productos Americanos
 430220,Crema Facial Sabila Siloe 250 gr,Cuidado Personal,Cuidado de la Piel
+430221,CREMA FACIAL SABILA SILOE 120 GR.,Cuidado Personal,Cuidado de la Piel
 430224,Crema Capilar Siloe Masaje Cebolla 250 gr,Cuidado Personal,Cuidado del Cabello
 430228,Crema Capilar Siloe Masaje Miel Palta 250 gr,Cuidado Personal,Cuidado del Cabello
 430229,Acondicionador Siloe Cebolla 550 ml,Cuidado Personal,Cuidado del Cabello
@@ -13014,7 +13019,7 @@ id_producto,producto,categoria,subcategoria
 551709,Pack Premium Ron Presidente 900 ml,Bebidas,Licores
 551710,Cereal Irupana Nutrichoc Duo 800 gr,Abarrotes,Nutrición Infantil
 551711,Barra Nutri Irupana Coco 240 gr,Abarrotes,Nutrición Infantil
-551712,NUTRI BARRA IRUPANA NUEZ  BANABA  CJA 24,Abarrotes,Nutrición Infantil
+551712,NUTRI BARRA IRUPANA NUEZ BANAN 12UND,Abarrotes,Nutrición Infantil
 551713,Six Pack Cerveza Budweiser 6 un 330 ml,Bebidas,Cervezas
 551714,Cafe Windsor Liofiliz 40 un,Abarrotes,Café y Sucedáneos
 551717,Alfajor Carsa Alfa Chocolate 45 gr,Abarrotes,Golosinas - Varias
@@ -15231,6 +15236,7 @@ id_producto,producto,categoria,subcategoria
 635155,Aceituna Kirkland Spanish Queen 595 gr,Abarrotes,Productos Americanos
 635156,Mostaza Dijon Maille Original 252 gr,Abarrotes,Productos Americanos
 636301,PAN PITA HIPERMAXI KG,Panadería,Panadería Hipermaxi
+636302,BRIGADEIRO HIPERMAXI BANDEJA X 6 UND,Pastelería y Masas Típicas,Pastelería Hipermaxi
 636368,Leche Kream con Avena 120 ml,Lácteos y Derivados,Leches
 637079,Frutilla 1 kg,Frutas y Verduras,Frutas
 637184,Guineo Criollo 1 Kg,Frutas y Verduras,Frutas
@@ -19581,6 +19587,7 @@ id_producto,producto,categoria,subcategoria
 674407,Chorizo Parrillero Pio Rico Ahumado Sachet,Fiambres,Fiambres Externos
 674411,Mortadela con Pepinillo Pio Rico Sachet,Fiambres,Fiambres Externos
 674413,Salchichon Viena Pio Rico Sachet,Fiambres,Fiambres Externos
+674414,Salchicha Viena Pio Rico Sin Piel,Fiambres,Fiambres Externos
 674415,Salchicha Viena Pio Rico Sachet,Fiambres,Fiambres Externos
 674417,Corizo Calabresa Osfim Al Vacio,Fiambres,Fiambres Externos
 674418,Chorizo Churrasquero Picante Sofia,Fiambres,Fiambres Externos
@@ -19602,6 +19609,7 @@ id_producto,producto,categoria,subcategoria
 674470,JAMON COCIDO DE CERDO VILOMA KILOGRAMO,Fiambres,Fiambres Externos
 674471,SALCHICHA SIN PIEL OSFIM VIENIQUESO 1 KILOGRAMO,Fiambres,Fiambres Externos
 674472,YOGURT ENTERO FRUTADO PIL SABOR COCO 700GRS,Lácteos y Derivados,Yogures
+674473,YOGURT ENTERO FRUTADO PIL DURAZNO 700GRS,Lácteos y Derivados,Yogures
 674474,YOGURT ENTERO FRUTADO PIL FRUTILLA 700GRS,Lácteos y Derivados,Yogures
 674484,SALCHICHA FRANKFURT HASS KILOGRAMO,Fiambres,Fiambres Externos
 674485,MORTADELA HASS TIPO BOLOGNA  KILOGRAMO,Fiambres,Fiambres Externos
@@ -20382,6 +20390,7 @@ id_producto,producto,categoria,subcategoria
 741238,Linguica Calabresa Cerdo 3 Quesos La Boteca 500 gr,Fiambres,Fiambres Externos
 741259,QUESO MUZZARELLA LAMINADO LA HOLANDESA 250 GRS.,Lácteos y Derivados,Quesos
 741354,Mortadela Jamonada Primavera La Sierra Premium kg,Fiambres,Fiambres Externos
+741387,REQUESON CULINARIO TIPO MUZZARELLA LA HOLANDESA 400 GRS.,Lácteos y Derivados,Quesos
 741563,QUESO CHEDDAR LAMINADO A/V LA HOLANDESA 250 GRS.,Lácteos y Derivados,Quesos
 741587,Pulpa Congelada Natural Guayaba 230 gr,Congelados,Pulpas y Frutas Congeladas
 742580,Pan de Sesamo Tostado Dulce Hogar 600 gr,Panadería,Panadería Externa
@@ -21190,6 +21199,7 @@ id_producto,producto,categoria,subcategoria
 789401,Chorizo de Cerdo Tipo Chistorra Merida 320 gr,Fiambres,Fiambres Externos
 789403,Salame La Sierra al Vacio 200 gr,Fiambres,Fiambres Externos
 789412,Peperoni La Sierra al Vacio 200 gr,Fiambres,Fiambres Externos
+789413,FRUPA FRUTILLA PICADA DE 1 KG,Congelados,Pulpas y Frutas Congeladas
 789414,Chorizo Merida Carne de Pollo 500 gr,Fiambres,Fiambres Externos
 789421,Morcilla La Sierra Premium al Vacio 500 gr,Fiambres,Fiambres Externos
 789423,Cuñape de Maiz Ingrid Davieds 10 un,Pastelería y Masas Típicas,Masas Típicas Externas
@@ -21786,6 +21796,7 @@ id_producto,producto,categoria,subcategoria
 835439,Cuadril Especial kg,Carnes,Carne de Res
 835445,Pollerita Pura Carne 1 kg,Carnes,Carne de Res
 835450,Punta de Paleta 1 kg,Carnes,Carne de Res
+835455,Pollerita Pura Carne Especial kg,Carnes,Carne de Res
 835465,Keperi kg,Carnes,Carne de Res
 835468,Filete Especial / Lomito kg,Carnes,Carne de Res
 835470,Rapi kg,Carnes,Carne de Res
@@ -23296,7 +23307,7 @@ id_producto,producto,categoria,subcategoria
 862937,Vino Trapiche Roble Malbec 750 ml,Bebidas,Vinos y Champagne
 862946,Regleta Huavi 5 R-37 Power Socket,Bazar,Ferretería
 862957,Vino Don Nicanor Cabernet Sauvignon 750 ml,Bebidas,Vinos y Champagne
-862959,PAT JUGUETES PELUCHES ANIMLES MASCT 55,Bazar,Mascotas General
+862959,Juguete de Mascota Peluche,Bazar,Mascotas General
 862962,Vino Don Nicanor Malbec 750 ml,Bebidas,Vinos y Champagne
 862977,Vino Nieto Senetiner Cabernet Sauvignon 750 ml,Bebidas,Vinos y Champagne
 863018,PEINE DESENREDANTE 18.5 BETER 12068,Bazar,Bijouteria/Cuidado Personal
@@ -24195,6 +24206,7 @@ id_producto,producto,categoria,subcategoria
 931491,Set 6 Vasos Amasadinho Tubo,Bazar,Menaje Vidrio/Cristal
 931510,Copa de Vino Windsor,Bazar,Menaje Vidrio/Cristal
 932021,Porta Mantequillero Plasutil,Bazar,Menaje Plástico
+932060,Bañador Cholita 8 L,Cuidado del Hogar,Accesorios del Hogar
 932080,MAR DISFRACES DE MASCOTAS,Bazar,Mascotas General
 932694,ALED CINTA MASQUIN  10,Bazar,Ferretería
 932704,Cinta Doble Contacto,Bazar,Ferretería
