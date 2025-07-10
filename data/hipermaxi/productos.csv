@@ -1730,6 +1730,7 @@ id_producto,producto,categoria,subcategoria
 25185,ACEITE D OLIVA KRIS EXT VIRGEN 250 ML,Abarrotes,Básicos
 25186,CHUFLAY FLOW HARD ZALZER BOT 275 ML,Bebidas,Licores
 25187,BEBIDA FLOW NENE SUNRISE BOT 275 ML,Bebidas,Licores
+25188,MATE PARIS TRESMATES 20SAQ,Abarrotes,Café y Sucedáneos
 25190,ENERGIZANTE MOOV BLUE RAZZ LTA 355ML,Bebidas,Energizantes
 25191,ENERGIZANTE MOOV CHERRY LEMON 355ML,Bebidas,Energizantes
 25192,ENERGIZANTE MOOV PINEAP PUNCH 355ML,Bebidas,Energizantes
@@ -12945,6 +12946,7 @@ id_producto,producto,categoria,subcategoria
 551573,Chocolate Baure Cafe Latte 70 gr,Abarrotes,Chocolates y Caramelos
 551574,Amaranto Ana Instantanea 250 gr,Abarrotes,Nutrición Infantil
 551578,Barra Ajonjoli Andes Tropico 156 gr,Abarrotes,Nutrición Infantil
+551580,Barra Cereal Andes Tropico Cañahua 138 gr,Abarrotes,Nutrición Infantil
 551581,Barra Cereal Andes Tropico Ajonjoli Chia 156 gr,Abarrotes,Nutrición Infantil
 551582,Pito de Linaza Andes Tropico 250 gr,Abarrotes,Nutrición Infantil
 551583,Galleta Cereal Mix Avena Pasas 207 gr,Abarrotes,Galletas
@@ -14061,6 +14063,7 @@ id_producto,producto,categoria,subcategoria
 553282,BARRA DE QUINOA ANDES TROPICO 144 GR,Abarrotes,Nutrición Infantil
 553283,BARRA ANDES TROPICO AJONJOLI CACAO 156GR,Abarrotes,Nutrición Infantil
 553284,BARRAS DE CEREAL ANDES TROPICO SURT 148,Abarrotes,Nutrición Infantil
+553287,LAGUA DE CHUNO SABROSITO 100GR,Abarrotes,Básicos
 553289,TOJORI SABROSITO 250 GR,Abarrotes,Básicos
 553290,API SABROSITO QUINUA CON LECHE 200GR,Abarrotes,Básicos
 553291,API SABROSITO AMARANTO CON FRUTA 200GR,Abarrotes,Básicos
@@ -14083,6 +14086,7 @@ id_producto,producto,categoria,subcategoria
 553331,BEBIDA CIN CANELA BOT 3 LT,Bebidas,Bebidas Varias
 553332,BEBIDA CIN COCO BOT 3 LT,Bebidas,Bebidas Varias
 553333,BEBIDA CIN LINAZA BOT 3 LT,Bebidas,Bebidas Varias
+553341,GIN INSURGENTE FRUTILLA BOT 1 LT,Bebidas,Licores
 554333,Cerveza Paceña Lata Roja 473 Cc,Bebidas,Cervezas
 554466,Detergente Liquido Ola Futuro Limpieza Completa 5 L,Cuidado del Hogar,Limpieza de la Ropa
 554468,Suavizante Ropa Ola Suavecito Original 5 L,Cuidado del Hogar,Limpieza de la Ropa
@@ -16064,6 +16068,7 @@ id_producto,producto,categoria,subcategoria
 655962,Champagne Anna Codorniu Brut Rose 750 ml,Bebidas,Vinos y Champagne
 655963,Champagne Anna Codorniu Blanc De Blancs 750 ml,Bebidas,Vinos y Champagne
 655972,Jugo Frutall Guinda Exotico 1 L,Bebidas,"Jugos, Néctar"
+655973,QUESO CREMA 1KG PARA PASTELERIA,Lácteos y Derivados,Quesos
 655976,Nacho Doña Susy Picante,Abarrotes,Snack
 655977,Nacho Doña Susy Morado,Abarrotes,Snack
 655979,Pepinillo B&R Rodajas 340 gr,Abarrotes,Verduras en Conserva
@@ -16122,7 +16127,7 @@ id_producto,producto,categoria,subcategoria
 656275,Shampoo Carla Lorena Anticaspa 350 ml,Cuidado Personal,Cuidado del Cabello
 656294,Paño Alklin Piso Azul 60x90 cm,Cuidado del Hogar,Accesorios del Hogar
 656299,Pasta Dental Oral-B Frozen 75 ml,Cuidado Personal,Cuidado Bucal
-656309,Limpiador de Piso Bristar Cedorn Te Verde 1.8 L,Cuidado del Hogar,Limpieza de Baños
+656309,Limpiador de Piso Bristar Cedron Cremoso 1.8 L,Cuidado del Hogar,Limpieza de Baños
 656314,Filtro Para Extractor de Cocina Limppano 1 un,Cuidado del Hogar,Accesorios del Hogar
 656333,Detergente Liquido Omo Matic Poder Acelerador 3 L,Cuidado del Hogar,Limpieza de la Ropa
 656357,Tartaletas Mamina Bocaditos 50 un,Pastelería y Masas Típicas,Pastelería Externa
@@ -17854,7 +17859,7 @@ id_producto,producto,categoria,subcategoria
 669065,PAN HUG ACTSEC G BIGP OP DIA 2X74 THA,Cuidado del Bebé,Pañales
 669067,GEL DE DUCHA LACTOUREA FIRMING 600ML.,Cuidado Personal,Cuidado de la Piel
 669068,GLADE TOQUE FULL LIMON 12ML,Cuidado del Hogar,Limpieza de Living y Ropero
-669069,GLADE TOQUE RP MANANA DE CAMPO 12ML,Cuidado del Hogar,Limpieza de Living y Ropero
+669069,Ambientador Glade Toque Manzana de Campo  12 ml,Cuidado del Hogar,Limpieza de Living y Ropero
 669070,Ambientador Glade Toque Frutos Rojos 12 ml,Cuidado del Hogar,Limpieza de Living y Ropero
 669071,Aromatizante Aerosol Glade Flores Tropicales y Coco 360 ml,Cuidado del Hogar,Limpieza de Living y Ropero
 669089,Shampoo Head Shoulder Oldspice 650 ml,Cuidado Personal,Cuidado del Cabello
