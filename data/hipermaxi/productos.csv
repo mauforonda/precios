@@ -1014,6 +1014,7 @@ id_producto,producto,categoria,subcategoria
 17212,Granola In Nutra 350 gr,Abarrotes,Nutrición Infantil
 17214,Curcuma McCormick Ground Turmeric 53 gr,Abarrotes,Condimentos y Legumbres
 17215,Papa Inka Chips Queso Cebolla 142 gr,Abarrotes,Snack
+17221,Galleta Francesa Salvado 500 gr,Abarrotes,Galletas
 17222,Galleta Francesa Salvado Sesamo 500 gr,Abarrotes,Galletas
 17223,Galleta Francesa Dulce Sucrema 500 gr,Abarrotes,Galletas
 17225,Agua Zanna Durazno Frutos del Bosque 700 ml,Bebidas,Aguas
@@ -1742,6 +1743,7 @@ id_producto,producto,categoria,subcategoria
 25212,SNACK SALADIX PICANA BSA 26G,Abarrotes,Snack
 25213,SNACK SALADIX POPS BSA 30G,Abarrotes,Snack
 25214,SNACK SALADIX CHIZZIDIX BSA 27G,Abarrotes,Snack
+25223,MATE PARIS MANZANILLA 20SAQ,Abarrotes,Café y Sucedáneos
 25224,AJO MOLIDO DAMABRAVA FCO 100G,Abarrotes,Condimentos y Legumbres
 25225,CANELA MOLIDA DAMABRAVA FCO 66G,Abarrotes,Condimentos y Legumbres
 25226,PAPRIKA AHUMADA DAMABRAVA FCO 65G,Abarrotes,Condimentos y Legumbres
@@ -5062,6 +5064,7 @@ id_producto,producto,categoria,subcategoria
 113310,Desinfectante Aerosol Lysoform Aire Montaña 360 ml,Cuidado del Hogar,Limpieza de Baños
 113311,Desinfectante Aerosol Lysoform Original 390 cm,Cuidado del Hogar,Limpieza de Baños
 113316,Ambientador Repuesto Todo Brillo Hawaiian 21 ml,Cuidado del Hogar,Limpieza de Living y Ropero
+113317,Ambientador Repuesto Todo Brillo Lavanda 21 ml,Cuidado del Hogar,Limpieza de Living y Ropero
 113318,Ambientador Repuesto Todo Brillo Bebe 21 ml,Cuidado del Hogar,Limpieza de Living y Ropero
 113320,Ambientador Repuesto Todo Brillo Floral 21 ml,Cuidado del Hogar,Limpieza de Living y Ropero
 113340,Toallas Humedas Mili Baby Aloe 110 un,Cuidado del Bebé,Cuidado del Bebé
@@ -7675,7 +7678,10 @@ id_producto,producto,categoria,subcategoria
 228130,SHAMPOO PANTENE ANTICAIDA 510ML,Cuidado Personal,Cuidado del Cabello
 228131,SHAMPOO H&S NUTRIMIEL650ML,Cuidado Personal,Cuidado del Cabello
 228132,SHAMPOO H&S NUTRIMIEL375ML,Cuidado Personal,Cuidado del Cabello
+228142,SUAVIZANTE BRISA PLUS TODO BRILLO 800ML,Cuidado del Hogar,Limpieza de la Ropa
 228145,Ron Havana Club 3 Años 1 L,Bebidas,Licores
+228148,PASTILLA  BANO MARINO TODOBRILLO 40G,Cuidado del Hogar,Limpieza de Baños
+228156,PANUELO DESCARTABLE FINESSE DIA A DIA X,Cuidado Personal,Cuidado Familiar
 228725,Galleta Granix Cereal 185 gr,Abarrotes,Galletas
 228771,Endulcorante  Chuker con Stevia 250 ml,Abarrotes,Dietéticos y Saludables
 228772,Endulcorante  Chuker con Stevia 500 ml,Abarrotes,Dietéticos y Saludables
@@ -11871,6 +11877,7 @@ id_producto,producto,categoria,subcategoria
 502672,Cepillo Dental Dentalclean Perfect Suave 2 un,Cuidado Personal,Cuidado Bucal
 502673,Cepillo Dental Dentalclean Perfect Medio 2 un,Cuidado Personal,Cuidado Bucal
 502694,PACK CASTING 200 + SH COLORVIVE 370 ML,Cuidado Personal,Cuidado del Cabello
+502695,PACK LOREAL RECARGA DIA NOCHE + SHAMPOO,Cuidado Personal,Cuidado de la Piel
 502740,Paneton Victoria 80 gr,Panadería,Panadería Externa
 502758,Queque de Chocolate Hipermaxi,Pastelería y Masas Típicas,Pastelería Hipermaxi
 502952,Vinagre Castelo Manzana 750 ml,Abarrotes,Básicos
@@ -12271,6 +12278,7 @@ id_producto,producto,categoria,subcategoria
 550171,Aji Rojo Bloch Picante 30 gr,Abarrotes,Condimentos y Legumbres
 550172,Vino Los Haroldos Bonarda 750 ml,Bebidas,Vinos y Champagne
 550180,Pack Gaseosa Coca Cola + Sprite 3 L,Bebidas,Gaseosas
+550181,CHUPETES D MIEL APISBOL POTE 40 UNID,Abarrotes,"Mermel, Mieles"
 550182,Alimento Cat Chow Adulto Pollo 85 gr,Abarrotes,Mascotas
 550185,Bipack Pepsi 2 L,Bebidas,Gaseosas
 550187,Salsa Hellmanns Barbacoa 400 gr,Abarrotes,Aderezos
@@ -12477,6 +12485,7 @@ id_producto,producto,categoria,subcategoria
 550588,Gaseosa Fanta Limon 500 ml,Bebidas,Gaseosas
 550589,Gaseosa Fanta Limon 3 L,Bebidas,Gaseosas
 550590,Alimento Knino Cachorro Mediano Grande 3 kg,Abarrotes,Mascotas
+550593,Vino Marquez DLV Bonarda 750 ml,Bebidas,Vinos y Champagne
 550595,Colageno Defensa Carolina 15 Sobres,Abarrotes,Dietéticos y Saludables
 550596,Colageno Belleza Carolina x Unid,Abarrotes,Dietéticos y Saludables
 550597,Colageno Carolina Articular 15 un,Abarrotes,Dietéticos y Saludables
@@ -12662,6 +12671,7 @@ id_producto,producto,categoria,subcategoria
 550970,Vinagre Doña Filo Frutilla 750 ml,Abarrotes,Básicos
 550971,Avena Instantanea Princesa Caja 300 gr,Abarrotes,Nutrición Infantil
 550972,Sal Ahumada Saborati 220 gr,Abarrotes,Básicos
+550974,SAL CITRICA SABORATI SACHET 220 GR,Abarrotes,Básicos
 550976,Sal Chimichurri Saborati 220 gr,Abarrotes,Básicos
 550977,Alimento Dog Chow Adulto Cordero 100 gr,Abarrotes,Mascotas
 550978,Alimento Dog Chow Extralife Pollo 100 gr,Abarrotes,Mascotas
@@ -12946,6 +12956,7 @@ id_producto,producto,categoria,subcategoria
 551573,Chocolate Baure Cafe Latte 70 gr,Abarrotes,Chocolates y Caramelos
 551574,Amaranto Ana Instantanea 250 gr,Abarrotes,Nutrición Infantil
 551578,Barra Ajonjoli Andes Tropico 156 gr,Abarrotes,Nutrición Infantil
+551579,Barra Cereal Andes Tropico Amaranto 138 gr,Abarrotes,Nutrición Infantil
 551580,Barra Cereal Andes Tropico Cañahua 138 gr,Abarrotes,Nutrición Infantil
 551581,Barra Cereal Andes Tropico Ajonjoli Chia 156 gr,Abarrotes,Nutrición Infantil
 551582,Pito de Linaza Andes Tropico 250 gr,Abarrotes,Nutrición Infantil
@@ -13943,6 +13954,7 @@ id_producto,producto,categoria,subcategoria
 553127,Cafe Orange Cup Geisha Grano 250 gr,Abarrotes,Café y Sucedáneos
 553128,Cafe Orange Cup Geisha Molido 250 gr,Abarrotes,Café y Sucedáneos
 553129,Pack 12 Cerveza Golden 440 ml,Bebidas,Cervezas
+553130,Licor Drambuie 750 ml,Bebidas,Licores
 553131,Pack Windsor Dia Del Padre 35 gr,Abarrotes,Café y Sucedáneos
 553132,Whisky Black Stone 1 L,Bebidas,Licores
 553133,Aloe Vera Otro Mundo Sin Azucar 500 ml,Bebidas,Bebidas Varias
@@ -13955,7 +13967,7 @@ id_producto,producto,categoria,subcategoria
 553140,Pack 12 Cerveza Golden 440 ml,Bebidas,Cervezas
 553141,CHOCOLATE CEIBO CONEJO GUNTER 30GR,Abarrotes,Temporada
 553143,CHOCOLATE CEIBO CONEJO BONNY 250GR,Abarrotes,Temporada
-553144,PACK 2 VINO KOHLBERG SEMIDULCE,Bebidas,Vinos y Champagne
+553144,Pack 2 Vinos Kohlberg Semidulce,Bebidas,Vinos y Champagne
 553145,Huevo Pascua Breick 7 Sorpresa 140 gr,Abarrotes,Temporada
 553146,Frejol Rojo Mi Suco 455 gr,Abarrotes,Condimentos y Legumbres
 553147,Mani Pelado Mi Suco 455 gr,Abarrotes,Condimentos y Legumbres
@@ -15219,6 +15231,7 @@ id_producto,producto,categoria,subcategoria
 632028,Te Chapare Verde con Stevia 20 Sobres,Abarrotes,Café y Sucedáneos
 632029,Te Chapare Verde Granel 50 gr,Abarrotes,Café y Sucedáneos
 632212,Llajua B&R Picante 220 gr,Abarrotes,Aderezos
+632333,LECHE NIDO CRECIMIENTO BSA 325G,Abarrotes,Nutrición Infantil
 632912,Achocolatado Chocolike Frutilla 400 gr,Abarrotes,Nutrición Infantil
 633221,Maracuya 1 kg,Frutas y Verduras,Frutas
 634054,Mostaza Heinz Yellow Mustard 396 gr,Abarrotes,Productos Americanos
@@ -16900,7 +16913,7 @@ id_producto,producto,categoria,subcategoria
 666161,Crema de Mano Bel 60 gr,Cuidado Personal,Cuidado de la Piel
 666162,Crema de Mano Bel 150 gr,Cuidado Personal,Cuidado de la Piel
 666163,Crema de Mano Bel 300 gr,Cuidado Personal,Cuidado de la Piel
-666195,Bañador Redondo Canastones 16 L,Bazar,Menaje Plástico
+666195,Bañador Redondo Canastones 16 L,Cuidado del Hogar,Accesorios del Hogar
 666196,Bañador Redondo Canastones,Cuidado del Hogar,Accesorios del Hogar
 666201,Limpiador de Piso Bristar Cedron Te Verde 5 L,Cuidado del Hogar,Limpieza de Baños
 666245,Pañales Pampers Baby Dry Super Pack M 112 un,Cuidado del Bebé,Pañales
@@ -20398,6 +20411,7 @@ id_producto,producto,categoria,subcategoria
 741387,REQUESON CULINARIO TIPO MUZZARELLA LA HOLANDESA 400 GRS.,Lácteos y Derivados,Quesos
 741563,QUESO CHEDDAR LAMINADO A/V LA HOLANDESA 250 GRS.,Lácteos y Derivados,Quesos
 741587,Pulpa Congelada Natural Guayaba 230 gr,Congelados,Pulpas y Frutas Congeladas
+742345,QUESO PROVOLONE AJI PARR. EL AVILA 250 GRS.,Lácteos y Derivados,Quesos
 742580,Pan de Sesamo Tostado Dulce Hogar 600 gr,Panadería,Panadería Externa
 742631,Pan 5 Semillas Dulce Hogar 1 kg,Panadería,Panadería Externa
 742712,Pan Vollkornbrot Dulce Hogar 500 gr,Panadería,Panadería Externa
@@ -21896,7 +21910,7 @@ id_producto,producto,categoria,subcategoria
 839028,Cuaderno Espiral Pleno Carta 100 Hojas,Bazar,Librería
 839081,Turron Sesamo Tks 150 gr,Abarrotes,Golosinas - Varias
 839126,MIR ANTIFAZ DE ZORRO BS 10,Bazar,Temporada Carnaval
-839159,FRI PLATO DE PERRO DE BS 10,Bazar,Mascotas General
+839159,Plato de Mascota 3,Bazar,Mascotas General
 839239,Libro Infantil Lexus,Bazar,Librería
 839240,Libros Infantiles Lexus,Bazar,Librería
 839241,Libros Lexus Infantiles,Bazar,Librería
@@ -23180,6 +23194,7 @@ id_producto,producto,categoria,subcategoria
 858312,Toma Todo Rosa Claro 750 ml,Bazar Importación,Menaje Plástico
 858313,Toma Todo Verde 750 ml,Bazar Importación,Menaje Plástico
 858319,Galleta La Francesa Paris Surtida 250 gr,Abarrotes,Galletas
+858324,Galleta La Francesa Salvado 500 gr,Abarrotes,Galletas
 858364,Vino Concha y Toro Reservado Merlot 750 Ml,Bebidas,Vinos y Champagne
 858375,Zapallo Picado 1 Kg,Granos y Hortalizas,Hortalizas Delifresh
 858379,Vino Concha y Toro Reservado Carmenere 750 ml,Bebidas,Vinos y Champagne
