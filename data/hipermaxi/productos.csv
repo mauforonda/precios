@@ -1758,6 +1758,7 @@ id_producto,producto,categoria,subcategoria
 25244,GALLETA RELL AVENTURA CHOCOCREMA 120G,Abarrotes,Galletas
 25245,GALLETA D ARROZ F FARM C STEVIA 110G,Abarrotes,Dietéticos y Saludables
 25252,MARSMALLOWS CRISMELOS TWISTER 240G,Abarrotes,Chocolates y Caramelos
+25259,BEBIDA FOUR LOKO WHITE LTA 695ML,Bebidas,Licores
 25640,Surtido de Mariscos Robinson Crusoe Natural 190 gr,Abarrotes,Comidas en Conserva
 25771,Huevos Caisy 12 un,Lácteos y Derivados,Huevos
 25789,Galleta Rocklets Chocolate 118 gr,Abarrotes,Galletas
@@ -5273,6 +5274,7 @@ id_producto,producto,categoria,subcategoria
 115352,Base Maybelline Full Coverage Nude 128,Cuidado Personal,Cuidado de la Piel
 115353,Base Maybelline Full Coverage Beige 130,Cuidado Personal,Cuidado de la Piel
 115357,Base Maybelline Full Coverage Natural Beige,Cuidado Personal,Cuidado de la Piel
+115362,Corrector Maybelline Eraser Sand Sable,Cuidado Personal,Cuidado de la Piel
 115368,Base Maybelline Full Coverage 320,Cuidado Personal,Cuidado de la Piel
 115602,Shampoo Dove Men Sport 400 ml,Cuidado Personal,Cuidado del Cabello
 115603,Desodorante Rexona Odorono 60 gr,Cuidado Personal,Cuidado de la Piel
@@ -7633,6 +7635,7 @@ id_producto,producto,categoria,subcategoria
 227878,Te Indu Verde Jengibre Miel 20 Sobres,Abarrotes,Café y Sucedáneos
 227919,Extracto de Tomate Cajamar 140 gr,Abarrotes,Salsas y Extracto de Tomate
 227951,Huevos Aranjuez Medianos 12 un,Lácteos y Derivados,Huevos
+228004,PACK CASTING 210 + ELVIVE SH COLORVIVE 3,Cuidado Personal,Cuidado del Cabello
 228009,PACK CASTING  535 +  SH COLORVIVE 370 ML,Cuidado Personal,Cuidado del Cabello
 228014,TALCO ALGABO DESODORANTE CELESTE 120GR,Cuidado Personal,Cuidado de la Piel
 228015,TALCO ALGABO DESODORANTE ROSA 120GR,Cuidado Personal,Cuidado de la Piel
@@ -7672,16 +7675,18 @@ id_producto,producto,categoria,subcategoria
 228100,PACK PAPEL FINESSE FAMILIS 32+6 UNDS,Cuidado Personal,Cuidado Familiar
 228112,TINTE ISSUE EXPRESS CANTANO CLARO 5 MINU,Cuidado Personal,Cuidado del Cabello
 228113,TOALLA NOSOTRAS BUENAS NOCHES 8UN,Cuidado Personal,Cuidado Familiar
-228114,PANUELO DESCARTABLE FINESSE MENTOL 4 UND,Cuidado Personal,Cuidado Familiar
-228115,PANUELO DESCARTABLE FINESSE MENTOL 4 UND,Cuidado Personal,Cuidado Familiar
+228114,PANUELO FINESSE MENTOL 4 UNDS,Cuidado Personal,Cuidado Familiar
+228115,PANUELO FINESSE MENTOL 6 UNDS,Cuidado Personal,Cuidado Familiar
 228127,ACOND PANTENE ANTICAIDA 250ML,Cuidado Personal,Cuidado del Cabello
 228130,SHAMPOO PANTENE ANTICAIDA 510ML,Cuidado Personal,Cuidado del Cabello
 228131,SHAMPOO H&S NUTRIMIEL650ML,Cuidado Personal,Cuidado del Cabello
 228132,SHAMPOO H&S NUTRIMIEL375ML,Cuidado Personal,Cuidado del Cabello
+228139,PASTILLA TODO BRILLO  TANQUE 50G,Cuidado del Hogar,Limpieza de Baños
+228140,PASTILLA TODO BRILLO TANQUE 3X50 GR,Cuidado del Hogar,Limpieza de Baños
 228142,SUAVIZANTE BRISA PLUS TODO BRILLO 800ML,Cuidado del Hogar,Limpieza de la Ropa
 228145,Ron Havana Club 3 Años 1 L,Bebidas,Licores
 228148,PASTILLA  BANO MARINO TODOBRILLO 40G,Cuidado del Hogar,Limpieza de Baños
-228156,PANUELO DESCARTABLE FINESSE DIA A DIA X,Cuidado Personal,Cuidado Familiar
+228156,PANUELO FINESSE DIA A DIA 6 UNDS,Cuidado Personal,Cuidado Familiar
 228725,Galleta Granix Cereal 185 gr,Abarrotes,Galletas
 228771,Endulcorante  Chuker con Stevia 250 ml,Abarrotes,Dietéticos y Saludables
 228772,Endulcorante  Chuker con Stevia 500 ml,Abarrotes,Dietéticos y Saludables
@@ -12671,7 +12676,7 @@ id_producto,producto,categoria,subcategoria
 550970,Vinagre Doña Filo Frutilla 750 ml,Abarrotes,Básicos
 550971,Avena Instantanea Princesa Caja 300 gr,Abarrotes,Nutrición Infantil
 550972,Sal Ahumada Saborati 220 gr,Abarrotes,Básicos
-550974,SAL CITRICA SABORATI SACHET 220 GR,Abarrotes,Básicos
+550974,SAL CITRICA SABORATI DP 220G,Abarrotes,Básicos
 550976,Sal Chimichurri Saborati 220 gr,Abarrotes,Básicos
 550977,Alimento Dog Chow Adulto Cordero 100 gr,Abarrotes,Mascotas
 550978,Alimento Dog Chow Extralife Pollo 100 gr,Abarrotes,Mascotas
@@ -14002,6 +14007,7 @@ id_producto,producto,categoria,subcategoria
 553187,Mermelada Confrut Durazno Yacon 50 gr,Abarrotes,"Mermel, Mieles"
 553189,Mermelada Confrut Mora Yacon 500 gr,Abarrotes,"Mermel, Mieles"
 553190,MANI CONFRUT PELADO TOSTADO 100 GR,Abarrotes,Frutas en Conserva
+553192,Mermelada Confrut Naranja Zanahoria Jengibre,Abarrotes,"Mermel, Mieles"
 553197,MERMELADA CONFRUT MARACUYA TOMA MOR 500,Abarrotes,"Mermel, Mieles"
 553199,Mermelada Confrut Naranja Yacon 500 gr,Abarrotes,"Mermel, Mieles"
 553200,Mermelada Confrut Piña Yacon 500 gr,Abarrotes,"Mermel, Mieles"
@@ -14899,7 +14905,7 @@ id_producto,producto,categoria,subcategoria
 618793,Achocolatado Nesquik 400 gr,Abarrotes,Nutrición Infantil
 618794,Achocolatado Nesquik Frutilla 400 gr,Abarrotes,Nutrición Infantil
 618795,Gaseosa Seven Up 3 L CBN,Bebidas,Gaseosas
-618796,Gaseosa Oriental Papaya 3 L,Bebidas,Gaseosas
+618796,Gaseosa Oriental Papaya 3 L CBN,Bebidas,Gaseosas
 618797,Fideo Matarazzo Penne Rigati 500 gr,Abarrotes,Básicos
 618798,Manzana Roja Deshidratada Frups 30 gr,Abarrotes,Frutas en Conserva
 618799,Mix Fruta Deshidratadas Frups 30 gr,Abarrotes,Frutas en Conserva
@@ -17262,7 +17268,7 @@ id_producto,producto,categoria,subcategoria
 667724,Bolsa Basura La Economica 60x90 cm,Cuidado del Hogar,Accesorios del Hogar
 667725,Serum Revitalift Loreal Acido Hialuronico,Cuidado Personal,Cuidado de la Piel
 667740,Lavavajilla Colageno y Aloe Vera 5 L,Cuidado del Hogar,Limpieza de Cocina
-667741,Lavavajilla Aromaterapia Citrussense 5 L,Cuidado del Hogar,Limpieza de Cocina
+667741,Lavavajilla Bristar Aromaterapia Citrussense 5 L,Cuidado del Hogar,Limpieza de Cocina
 667742,Lavavajilla Bristar Neutro 5 L,Cuidado del Hogar,Limpieza de Cocina
 667744,Cepillo Dental Colgate 360 Charcoal Antibacterial 2 un,Cuidado Personal,Cuidado Bucal
 667745,Gel de Baño Lactovit Lactourea 300 ml,Cuidado Personal,Cuidado de la Piel
@@ -19744,6 +19750,7 @@ id_producto,producto,categoria,subcategoria
 677431,Helado Delizia Cono Black,Congelados,"Helados, Cassattas y Picoleses"
 677432,Yogurt Ilva Bebible Varios Sabores 2 L,Lácteos y Derivados,Yogures
 677473,Pre Pizza Mediana Hipermaxi,Panadería,Panadería Hipermaxi
+677527,Cola de Langostino U 15 D Mar 500 gr,Congelados,Carnes Congeladas
 677530,Filete de Pescado Tilapia de Mar kg,Congelados,Carnes Congeladas
 677563,Vino San Rafael Fino Tinto 700 ml,Bebidas,Vinos y Champagne
 677566,Te Paris Canela 200 Sobres,Abarrotes,Café y Sucedáneos
