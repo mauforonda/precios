@@ -1759,6 +1759,7 @@ id_producto,producto,categoria,subcategoria
 25244,GALLETA RELL AVENTURA CHOCOCREMA 120G,Abarrotes,Galletas
 25245,GALLETA D ARROZ F FARM C STEVIA 110G,Abarrotes,Dietéticos y Saludables
 25252,MARSMALLOWS CRISMELOS TWISTER 240G,Abarrotes,Chocolates y Caramelos
+25258,BEBIDA FOUR LOKO WHITE LTA 473ML,Bebidas,Licores
 25259,BEBIDA FOUR LOKO WHITE LTA 695ML,Bebidas,Licores
 25640,Surtido de Mariscos Robinson Crusoe Natural 190 gr,Abarrotes,Comidas en Conserva
 25771,Huevos Caisy 12 un,Lácteos y Derivados,Huevos
@@ -4209,6 +4210,7 @@ id_producto,producto,categoria,subcategoria
 104808,Repelente Off Aerosol Family 170 ml,Cuidado del Hogar,Productos Americanos
 104809,Mascarilla Capilar Babaria Coco 400 ml,Cuidado Personal,Cuidado del Cabello
 104810,Paño Tottes Jumbo Microfibra Gris 1 un,Cuidado del Hogar,Accesorios del Hogar
+104920,Cloracion Saludable Premium 5 L,Cuidado del Hogar,Limpieza de Baños
 104921,Insecticida Titane Ecomadera Termitas 600 ml,Cuidado del Hogar,Insecticidas
 104922,Banda Depiladora Millefiori Axilas,Cuidado Personal,Cuidado de la Piel
 104923,Banda Depiladora Millefiori Corporal,Cuidado Personal,Cuidado de la Piel
@@ -7689,7 +7691,10 @@ id_producto,producto,categoria,subcategoria
 228142,SUAVIZANTE BRISA PLUS TODO BRILLO 800ML,Cuidado del Hogar,Limpieza de la Ropa
 228145,Ron Havana Club 3 Años 1 L,Bebidas,Licores
 228148,PASTILLA  BANO MARINO TODOBRILLO 40G,Cuidado del Hogar,Limpieza de Baños
+228149,SHAMPOO LISO Y SEDOSO REVIVE 850ML DP,Cuidado Personal,Cuidado del Cabello
 228152,SHAMPOO REPARACION INTENSO REVIVE 850ML,Cuidado Personal,Cuidado del Cabello
+228153,TOALLITA HUMEDAS CARISSA BABY 100 UNID,Cuidado del Bebé,Cuidado del Bebé
+228155,ESPONJA SCOTCH BRITE X4 Y CUBIERTA,Cuidado del Hogar,Accesorios del Hogar
 228156,PANUELO FINESSE DIA A DIA 6 UNDS,Cuidado Personal,Cuidado Familiar
 228725,Galleta Granix Cereal 185 gr,Abarrotes,Galletas
 228771,Endulcorante  Chuker con Stevia 250 ml,Abarrotes,Dietéticos y Saludables
@@ -14014,6 +14019,7 @@ id_producto,producto,categoria,subcategoria
 553189,Mermelada Confrut Mora Yacon 500 gr,Abarrotes,"Mermel, Mieles"
 553190,MANI CONFRUT PELADO TOSTADO 100 GR,Abarrotes,Frutas en Conserva
 553192,Mermelada Confrut Naranja Zanahoria Jengibre,Abarrotes,"Mermel, Mieles"
+553195,Mermelada Confrut Papaya Yacon 220 gr,Abarrotes,"Mermel, Mieles"
 553197,MERMELADA CONFRUT MARACUYA TOMA MOR 500,Abarrotes,"Mermel, Mieles"
 553199,Mermelada Confrut Naranja Yacon 500 gr,Abarrotes,"Mermel, Mieles"
 553200,Mermelada Confrut Piña Yacon 500 gr,Abarrotes,"Mermel, Mieles"
@@ -14111,9 +14117,12 @@ id_producto,producto,categoria,subcategoria
 553331,BEBIDA CIN CANELA BOT 3 LT,Bebidas,Bebidas Varias
 553332,BEBIDA CIN COCO BOT 3 LT,Bebidas,Bebidas Varias
 553333,BEBIDA CIN LINAZA BOT 3 LT,Bebidas,Bebidas Varias
+553335,LECHE EN POLVO NIDO 1 DP 2 KG,Abarrotes,Nutrición Infantil
 553341,GIN INSURGENTE FRUTILLA BOT 1 LT,Bebidas,Licores
+553344,GINEBRA INSURGENTE BOT 1 LT,Bebidas,Licores
 553347,LECHE CHOCOMILK LA PURITA 800 ML,Lácteos y Derivados,Leches
 553349,PACK 12 CERVEZA AMSTEL LATA 473ML,Bebidas,Cervezas
+553353,VAPE WAKA SOLO 2GRAPE APPLE 5P 2500P,Bebidas,Cigarrillos
 554333,Cerveza Paceña Lata Roja 473 Cc,Bebidas,Cervezas
 554466,Detergente Liquido Ola Futuro Limpieza Completa 5 L,Cuidado del Hogar,Limpieza de la Ropa
 554468,Suavizante Ropa Ola Suavecito Original 5 L,Cuidado del Hogar,Limpieza de la Ropa
@@ -14440,6 +14449,7 @@ id_producto,producto,categoria,subcategoria
 600123,Pan de Panchito Pan Cris Extra Largos,Panadería,Panadería Externa
 600132,CEREAL FROSTED FLAKES 490 G EN FORMA DE COPOS DE NIEVE,Abarrotes,Productos Americanos
 600133,Aji Amarillo Dulce Cocinero 250 gr,Abarrotes,Condimentos y Legumbres
+600134,CEREAL MULTIGRANOS CON VAINILLA Y ALMENDRAS 354G,Abarrotes,Productos Americanos
 600138,Aji Amarillo Dulce Cocinero 50 gr,Abarrotes,Condimentos y Legumbres
 600143,Aji Colorado Picante Cocinero 50 gr,Abarrotes,Condimentos y Legumbres
 600147,Cepillo Dental Addis Dual Texture,Cuidado Personal,Cuidado Bucal
@@ -14448,6 +14458,7 @@ id_producto,producto,categoria,subcategoria
 600158,LocotoCocinero Molido 50 gr,Abarrotes,Condimentos y Legumbres
 600163,Azucar Cocinero Impalpable 200 gr,Abarrotes,Básicos
 600168,Azucar Cocinero Impalpable 400 gr,Abarrotes,Básicos
+600172,CEREAL MULTIGRANOS CON FRUTAS Y YOGURT  357G,Abarrotes,Productos Americanos
 600173,Tojori Cocinero 250 gr,Abarrotes,Condimentos y Legumbres
 600178,Chicha de Mani Cocinero 250 gr,Bebidas,Refrescos en Polvo
 600180,Pan de Panchito Pan Cris 12 un,Panadería,Panadería Externa
@@ -20814,6 +20825,7 @@ id_producto,producto,categoria,subcategoria
 783134,Cola de Langostino Crudo 36-40 cm Pez y Mar 500 gr,Congelados,Carnes Congeladas
 783162,Cola de Langostino Precocido Pez y Mar 450 gr,Congelados,Carnes Congeladas
 783196,Nuggets Pop Pollo Fridosa 300 gr,Congelados,Carnes Congeladas
+783223,Chorizo Ahumado Stege Al Vacio kg,Fiambres,Fiambres Externos
 783239,Tocineta de Cerdo Sofia 150 gr,Fiambres,Fiambres Externos
 783302,Escabeche de Cebollita Hipermaxi Sandwich kg,Fiambres,Fiambres Hipermaxi
 783317,Calitas de Maiz La Tradicion Cruceña 150 gr,Pastelería y Masas Típicas,Masas Típicas Externas
