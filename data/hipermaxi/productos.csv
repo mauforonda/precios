@@ -1751,6 +1751,7 @@ id_producto,producto,categoria,subcategoria
 25227,JENGIBRE MOLIDO DAMABRAVA FCO 60G,Abarrotes,Condimentos y Legumbres
 25228,COMINO MOLIDO DAMABRAVA FCO 70G,Abarrotes,Condimentos y Legumbres
 25229,PIMIENTA NEGRA DAMABRAVA MOLIDA 75G,Abarrotes,Condimentos y Legumbres
+25235,SAL ROSADA ESSENCIAL GRUESA DP 800G,Abarrotes,Básicos
 25236,SAL ROSADA ESSENCIAL FINA DP 800G,Abarrotes,Básicos
 25237,SAL ROSADA ESSENCIAL FINA BSA 650G,Abarrotes,Básicos
 25238,CEREAL CHOCAPIC NESTLE CJA 540G,Abarrotes,Nutrición Infantil
@@ -3488,7 +3489,7 @@ id_producto,producto,categoria,subcategoria
 93980,Sazonador McCormick Brown Gravy 24 gr,Abarrotes,Condimentos y Legumbres
 94129,Salsa Heinz Carne Chili Sauce 12 oz,Abarrotes,Productos Americanos
 94749,Gaseosa Coca Cola Classica USA 355 ml,Bebidas,Bebidas Usa
-94757,Gaseosa Pepsi USA 355 ml,Bebidas,Bebidas Usa
+94757,Gaseosa Pepsi USA 355 ml CBN,Bebidas,Bebidas Usa
 95060,Comino El Cocinero Molido 100 gr,Abarrotes,Condimentos y Legumbres
 95079,Pimienta El Cocinero Molida 100 gr,Abarrotes,Condimentos y Legumbres
 95087,Colorante El Cocinero Rojo 100 gr,Abarrotes,Condimentos y Legumbres
@@ -7640,6 +7641,7 @@ id_producto,producto,categoria,subcategoria
 227919,Extracto de Tomate Cajamar 140 gr,Abarrotes,Salsas y Extracto de Tomate
 227951,Huevos Aranjuez Medianos 12 un,Lácteos y Derivados,Huevos
 228004,PACK CASTING 210 + ELVIVE SH COLORVIVE 3,Cuidado Personal,Cuidado del Cabello
+228006,PACK CASTING  500 + ELVIVE SH COLORVIVE,Cuidado Personal,Cuidado del Cabello
 228009,PACK CASTING  535 +  SH COLORVIVE 370 ML,Cuidado Personal,Cuidado del Cabello
 228014,TALCO ALGABO DESODORANTE CELESTE 120GR,Cuidado Personal,Cuidado de la Piel
 228015,TALCO ALGABO DESODORANTE ROSA 120GR,Cuidado Personal,Cuidado de la Piel
@@ -7690,6 +7692,7 @@ id_producto,producto,categoria,subcategoria
 228140,PASTILLA TODO BRILLO TANQUE 3X50 GR,Cuidado del Hogar,Limpieza de Baños
 228142,SUAVIZANTE BRISA PLUS TODO BRILLO 800ML,Cuidado del Hogar,Limpieza de la Ropa
 228145,Ron Havana Club 3 Años 1 L,Bebidas,Licores
+228146,PASTILLA BANO TODOBRILLO FLORAL 40G,Cuidado del Hogar,Limpieza de Baños
 228148,PASTILLA  BANO MARINO TODOBRILLO 40G,Cuidado del Hogar,Limpieza de Baños
 228149,SHAMPOO LISO Y SEDOSO REVIVE 850ML DP,Cuidado Personal,Cuidado del Cabello
 228152,SHAMPOO REPARACION INTENSO REVIVE 850ML,Cuidado Personal,Cuidado del Cabello
@@ -11259,6 +11262,7 @@ id_producto,producto,categoria,subcategoria
 453434,Caramelo Gargatan Wira Miel 100 gr,Abarrotes,"Mermel, Mieles"
 453435,Caramelo Garganta Eucalipto Miel 100 gr,Abarrotes,"Mermel, Mieles"
 453436,Caramelo Garganta Limon Miel Prop x 100 gr,Abarrotes,"Mermel, Mieles"
+453443,Refrianex DÍa Con Vit C x 1 sob,Farmacia Éticos,Sistema Respiratorio
 453681,Gel Intimo Clasico Tulipan x 30 ml,Cuidado Personal,Cuidado del Adulto
 453682,Gel Intim Efecto Calor Tulipan x 30 ml,Cuidado Personal,Cuidado de la Piel
 453687,Gel Intimo Tulipan  L-Arginina x 30ml,Cuidado Personal,Cuidado del Adulto
@@ -11913,6 +11917,7 @@ id_producto,producto,categoria,subcategoria
 505560,Paprika El Cocinero 20 gr,Abarrotes,Condimentos y Legumbres
 505579,Trigolin El Cocinero 400 gr,Abarrotes,Condimentos y Legumbres
 505897,Decolorante Blondor Wella 10 gr,Cuidado Personal,Cuidado del Cabello
+506023,PACK CASTING 630+SH COLORVIVE 370ML,Cuidado Personal,Cuidado del Cabello
 506040,Jabon Liquido Aval Tocador Pasion Citrica 400 ml,Cuidado Personal,Cuidado de la Piel
 506061,Cepillo Dental Condor Ortodoncia 1 un,Cuidado Personal,Cuidado Bucal
 506062,Cepillo Dental Condor Antibacterial Medio 1 un,Cuidado Personal,Cuidado Bucal
@@ -13549,6 +13554,7 @@ id_producto,producto,categoria,subcategoria
 552546,PACK PEPSI BLUE 250 ML 12X6,Bebidas,Gaseosas
 552547,PACK CERVEZA  PACENA 269ML 12X6,Bebidas,Cervezas
 552548,PACK CERVEZA BUDWEISER 6X3,Bebidas,Cervezas
+552549,PACK PEPSI BLACK 250 12X6,Bebidas,Gaseosas
 552551,PACK CERVEZA HUARI LAGER OW 300 24 X12,Bebidas,Cervezas
 552552,Pack Seven Up 2 L,Bebidas,Gaseosas
 552553,PACK GATORADE MORA AZUL 6X3,Bebidas,Isotónicos
@@ -14021,6 +14027,7 @@ id_producto,producto,categoria,subcategoria
 553192,Mermelada Confrut Naranja Zanahoria Jengibre,Abarrotes,"Mermel, Mieles"
 553195,Mermelada Confrut Papaya Yacon 220 gr,Abarrotes,"Mermel, Mieles"
 553197,MERMELADA CONFRUT MARACUYA TOMA MOR 500,Abarrotes,"Mermel, Mieles"
+553198,Mermelada Confrut Naranja Jengibre,Abarrotes,"Mermel, Mieles"
 553199,Mermelada Confrut Naranja Yacon 500 gr,Abarrotes,"Mermel, Mieles"
 553200,Mermelada Confrut Piña Yacon 500 gr,Abarrotes,"Mermel, Mieles"
 553201,AJO EN POLVO SANTIAGO 60 GR,Abarrotes,Condimentos y Legumbres
@@ -14098,6 +14105,7 @@ id_producto,producto,categoria,subcategoria
 553290,API SABROSITO QUINUA CON LECHE 200GR,Abarrotes,Básicos
 553291,API SABROSITO AMARANTO CON FRUTA 200GR,Abarrotes,Básicos
 553292,API SABROSITO MAIZ WILKAPARU CON FRUTA 2,Abarrotes,Básicos
+553293,AJI SABROSITO ROJO SEMIPICANTE 50GR,Abarrotes,Condimentos y Legumbres
 553294,WAFER CARSA DADITOS BROWNIE 300 GR,Abarrotes,Galletas
 553295,WAFER CARSA DADITOS CAPUCHINO 300 GR,Abarrotes,Galletas
 553296,GALLETA SUPREMA SALADA CHAPITA 60G,Abarrotes,Galletas
@@ -14111,6 +14119,7 @@ id_producto,producto,categoria,subcategoria
 553322,PASTA LARGA CORTA SPIGA 400 GR,Abarrotes,Básicos
 553324,PASTA LARGA CORTA SPIGA 3 LB,Abarrotes,Básicos
 553325,PASTA LARGA CORTA SPIGA 6 LB,Abarrotes,Básicos
+553326,SURIM DANIFORMA ANGULAS AL AJILLO 110GR,Abarrotes,Comidas en Conserva
 553328,BEBIDA CIN MOCOCHINCHI BOT 3 LT,Bebidas,Bebidas Varias
 553329,BEBIDA CIN CEBADA BOT 3 LT,Bebidas,Bebidas Varias
 553330,BEBIDA CIN TAMARINDO BOT 3 LT,Bebidas,Bebidas Varias
@@ -18039,6 +18048,7 @@ id_producto,producto,categoria,subcategoria
 669354,Pasta Dental Oral B Pack Econo 2 un 100 ml,Cuidado Personal,Cuidado Bucal
 669355,DOWNY AMANECER 1.4L X9U,Cuidado del Hogar,Limpieza de la Ropa
 669356,ORAL B 3DWITHE BRILL PACK X2 67ML,Cuidado Personal,Cuidado Bucal
+669357,ORAL B 3DW BRILLFRSH 67ML,Cuidado Personal,Cuidado Bucal
 669358,DOWNY FLORAL ENJUAGUE 700ML X 12,Cuidado del Hogar,Limpieza de la Ropa
 669359,GILL PREST3 CARBON 4PX36U,Cuidado Personal,Cuidado de la Piel
 669360,ORALB PACK CEPILLOS ADVAN 7 BENEF 3 PZAS,Cuidado Personal,Cuidado Bucal
@@ -18047,6 +18057,8 @@ id_producto,producto,categoria,subcategoria
 669365,PANOS MICROFIBRA TOTES REUTILIZABLE 30 H,Cuidado del Hogar,Accesorios del Hogar
 669366,PAPEL TOALLA SEDA 200 MTS,Cuidado del Hogar,Limpieza de Cocina
 669369,DOWNY EXOTICO 360ML X 12U,Cuidado del Hogar,Limpieza de la Ropa
+669371,BIPACK HUGGIES TRIPLE PROTECCION G 2X32,Cuidado del Bebé,Pañales
+669373,BIPACK HUGGIES TRIPLE PROTECCION XXG 2X2,Cuidado del Bebé,Pañales
 669901,Pizza Hipermaxi Congelada Hawaiana 620 gr,Congelados,Masas y Comidas Congeladas
 669902,Pizza Hipermaxi Congelada Jamon Queso Light Masa Integral,Congelados,Masas y Comidas Congeladas
 669903,Pizza Hipermaxi Congelada Pepperoni 620 gr,Congelados,Masas y Comidas Congeladas
@@ -19306,6 +19318,7 @@ id_producto,producto,categoria,subcategoria
 673858,Tocino Ahumado Cielo Granel,Fiambres,Fiambres Externos
 673859,Lomito Ahumado Cielo de Cerdo A Granel,Fiambres,Fiambres Externos
 673866,Salchicha Cielo Jumbo 8 un,Fiambres,Fiambres Externos
+673867,Salchicha Cielo de Cerdo Viena Ahumada 500 gr,Fiambres,Fiambres Externos
 673868,Salchicha Cielo Tipo Viena de Cerdo 200 gr,Fiambres,Fiambres Externos
 673869,Salchicha Cielo Tipo Viena de Pollo 200 gr,Fiambres,Fiambres Externos
 673870,Salchisalame Salchiqueso Cielo 10 un,Fiambres,Fiambres Externos
