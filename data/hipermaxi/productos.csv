@@ -1630,6 +1630,8 @@ id_producto,producto,categoria,subcategoria
 25035,Chupete Yogueta Kola 360 gr,Abarrotes,Chocolates y Caramelos
 25036,Coctel Coco Blanco 670 ml,Bebidas,Licores
 25037,GIN INSURGENTE POMELO 700 ML,Bebidas,Licores
+25040,MANI PICNIC JAPONES QUESO 350G,Abarrotes,Snack
+25041,MANI PICNIC JAPONES PIZZA 350G,Abarrotes,Snack
 25043,MEZCAL DON RAMON ESPADIN 750 ML,Bebidas,Licores
 25044,Mezcla Don Ramon Joven Salmiana 750 ml,Bebidas,Licores
 25046,CERVEZA DUCAL LTA 269ML,Bebidas,Cervezas
@@ -1900,6 +1902,7 @@ id_producto,producto,categoria,subcategoria
 26162,Sal Rosada Ishima 800 gr,Abarrotes,Básicos
 26163,Chancaca Ishima 800 gr,Abarrotes,Básicos
 26164,Mezcla para Brownies Chocolate Negro Pillsbury 521 gr,Abarrotes,Repostería
+26169,YERBA MATE SELECTA COMP MARACUYA 500G,Abarrotes,Café y Sucedáneos
 26170,YERBA MATE SELECTA TRADIC GRANUL 1KG,Abarrotes,Café y Sucedáneos
 26171,Mani Dori Chips al Horno 200 gr,Abarrotes,Snack
 26172,Mani Dori Chips al Horno 400 gr,Abarrotes,Snack
@@ -3939,6 +3942,7 @@ id_producto,producto,categoria,subcategoria
 101839,Pack Cafe Copacabana Tradicional 250 gr + Cafetera,Abarrotes,Café y Sucedáneos
 101840,Pack Galletas Suprema Surtido Navideño,Abarrotes,Galletas
 101843,Vino Campos de Solana Marselan 750 ml,Bebidas,Vinos y Champagne
+101847,Lustra Mueble Archer 5 L,Cuidado del Hogar,Limpieza de Living y Ropero
 101848,Limpiador Quita Sarro Archer Extra Fuerte 5 L,Cuidado del Hogar,Limpieza de Cocina
 101849,Vino Chakana Atorrante Malbec 750 ml,Bebidas,Vinos y Champagne
 101857,Pack Campos de Solana Cabernet + Malbec 750 ml,Bebidas,Vinos y Champagne
@@ -4008,6 +4012,7 @@ id_producto,producto,categoria,subcategoria
 101999,Mascarilla Hidra Bomb Garnier Matificante Piel,Cuidado Personal,Cuidado de la Piel
 102003,Bebida Keep Cooler Durazno 275 ml,Bebidas,Licores
 102004,Bebida Keep Cooler Frutilla 275 ml,Bebidas,Licores
+102005,ESPUMANTE AURORA MOSCATEL BLANCO 750ML,Bebidas,Vinos y Champagne
 102006,ESPUMANTE AURORA PROCEDENCIA CHARDONNAY,Bebidas,Vinos y Champagne
 102007,Vino Espumoso Aurora Prosecco 750 ml,Bebidas,Vinos y Champagne
 102009,Vino Espumeante Aurora Demi Sec 750 ml,Bebidas,Vinos y Champagne
@@ -5212,6 +5217,7 @@ id_producto,producto,categoria,subcategoria
 114321,Ambientador Aerosol Rocio Lavanda Silvestre 360 ml,Cuidado del Hogar,Limpieza de Living y Ropero
 114350,Swiffer Dusters Extender 3,Cuidado del Hogar,Accesorios del Hogar
 114356,Lavavajilla Gain Original 638 ml,Cuidado del Hogar,Limpieza de Cocina
+114360,Jabon Barra Ivory Aloe Vera 3 un 90 gr,Cuidado Personal,Cuidado de la Piel
 114378,Crema Teatrical Aclaradora 100 gr,Cuidado Personal,Cuidado de la Piel
 114379,Crema Facial Teatrical Humectante 100 gr,Cuidado Personal,Cuidado de la Piel
 114390,Pañales Babysec Recien Nacido Con Corte 20 un,Cuidado del Bebé,Pañales
@@ -5285,6 +5291,7 @@ id_producto,producto,categoria,subcategoria
 115357,Base Maybelline Full Coverage Natural Beige,Cuidado Personal,Cuidado de la Piel
 115362,Corrector Maybelline Eraser Sand Sable,Cuidado Personal,Cuidado de la Piel
 115368,Base Maybelline Full Coverage 320,Cuidado Personal,Cuidado de la Piel
+115415,Fideo Paloma Surtido 400 kg,Abarrotes,Básicos
 115602,Shampoo Dove Men Sport 400 ml,Cuidado Personal,Cuidado del Cabello
 115603,Desodorante Rexona Odorono 60 gr,Cuidado Personal,Cuidado de la Piel
 115707,Jugo Del Valle Fresh 3 L,Bebidas,"Jugos, Néctar"
@@ -7315,6 +7322,7 @@ id_producto,producto,categoria,subcategoria
 223811,Detergente Polvo Uno Frescura Floral 5 Kg,Cuidado del Hogar,Limpieza de la Ropa
 223812,Detergente Polvo Uno Coco 5 en 1 5 kg,Cuidado del Hogar,Limpieza de la Ropa
 223813,Detergente Liquido Uno Floral 1.7 L,Cuidado del Hogar,Limpieza de la Ropa
+223817,SHAMPOO CARISSA ALOE VERA DPAK 900 ML,Cuidado Personal,Cuidado del Cabello
 223819,Jabon Liquido Palmolive Jazmin Cocoa 760 ml,Cuidado Personal,Cuidado de la Piel
 223820,Jabon Liquido Palmolive Sandia Lyche 390 ml,Cuidado Personal,Cuidado de la Piel
 223821,Jabon Liquido Protex Vitamina E 650 ml,Cuidado Personal,Cuidado de la Piel
@@ -7647,6 +7655,7 @@ id_producto,producto,categoria,subcategoria
 228004,PACK CASTING 210 + ELVIVE SH COLORVIVE 3,Cuidado Personal,Cuidado del Cabello
 228006,PACK CASTING  500 + ELVIVE SH COLORVIVE,Cuidado Personal,Cuidado del Cabello
 228009,PACK CASTING  535 +  SH COLORVIVE 370 ML,Cuidado Personal,Cuidado del Cabello
+228011,CREMA GOICOECHEA SERUM PIEL EXTRA SECA 4,Cuidado Personal,Cuidado de la Piel
 228014,TALCO ALGABO DESODORANTE CELESTE 120GR,Cuidado Personal,Cuidado de la Piel
 228015,TALCO ALGABO DESODORANTE ROSA 120GR,Cuidado Personal,Cuidado de la Piel
 228023,DEO STICK SPEED BARRA CLINICAL MSS 55 G,Cuidado Personal,Cuidado de la Piel
@@ -7688,6 +7697,7 @@ id_producto,producto,categoria,subcategoria
 228113,TOALLA NOSOTRAS BUENAS NOCHES 8UN,Cuidado Personal,Cuidado Familiar
 228114,PANUELO FINESSE MENTOL 4 UNDS,Cuidado Personal,Cuidado Familiar
 228115,PANUELO FINESSE MENTOL 6 UNDS,Cuidado Personal,Cuidado Familiar
+228119,PACK AHORRA PROCENEX FLORAL 900 ML,Cuidado del Hogar,Limpieza de Baños
 228127,ACOND PANTENE ANTICAIDA 250ML,Cuidado Personal,Cuidado del Cabello
 228130,SHAMPOO PANTENE ANTICAIDA 510ML,Cuidado Personal,Cuidado del Cabello
 228131,SHAMPOO H&S NUTRIMIEL650ML,Cuidado Personal,Cuidado del Cabello
@@ -7709,6 +7719,7 @@ id_producto,producto,categoria,subcategoria
 228162,OMO PVO LIMON CON BICARBONATO 140G,Cuidado del Hogar,Limpieza de la Ropa
 228163,LUX BOTAN JAB JAZMIN CREMOSO 120G,Cuidado Personal,Cuidado de la Piel
 228164,LUX BOTAN JAB ORQUIDEA NEGRA 120G,Cuidado Personal,Cuidado de la Piel
+228673,TOALLA HUMEDA PROBLOCK MANZANILLA  ALOE,Cuidado del Bebé,Cuidado del Bebé
 228725,Galleta Granix Cereal 185 gr,Abarrotes,Galletas
 228771,Endulcorante  Chuker con Stevia 250 ml,Abarrotes,Dietéticos y Saludables
 228772,Endulcorante  Chuker con Stevia 500 ml,Abarrotes,Dietéticos y Saludables
@@ -8556,6 +8567,7 @@ id_producto,producto,categoria,subcategoria
 293017,Body Wash Olay Fresh Strawberry 650 ml,Cuidado Personal,Cuidado de la Piel
 293018,Body Wash Olay Ultramoist 650 ml,Cuidado Personal,Cuidado de la Piel
 293019,Body Wash Olay Ultramoist 89 ml,Cuidado Personal,Cuidado de la Piel
+293023,JABONCILLO OLAY ULTRAMOIST SHEABOTT 4X90,Cuidado Personal,Cuidado de la Piel
 293025,Detergente Liquido Tide Original 739 ml,Cuidado del Hogar,Limpieza de la Ropa
 293026,Detergente Liquido Tide Original 306 ml,Cuidado del Hogar,Limpieza de la Ropa
 293027,Detergente Liquido Tipe Downy 1.36 L,Cuidado del Hogar,Limpieza de la Ropa
@@ -8834,6 +8846,7 @@ id_producto,producto,categoria,subcategoria
 308048,Galleta Wafer Bauduco Vainilla 140 gr,Abarrotes,Galletas
 308181,Pipoca Johns Pop Caramelo 200 gr,Abarrotes,Snack
 308187,Pipoca Johns Pop Zebra 200 gr,Abarrotes,Snack
+308269,Neceser Foramen Junior,Cuidado Personal,Cuidado Bucal
 308307,Neceser Foramen Adultos,Cuidado Personal,Cuidado Bucal
 308316,Chocolate Sapito Pinta Lengua 270 gr,Abarrotes,Chocolates y Caramelos
 308442,Arroz Tiluchi Familiar 1 kg,Abarrotes,Básicos
@@ -12224,6 +12237,8 @@ id_producto,producto,categoria,subcategoria
 546020,Sardina San Lucas Ovalado 425 gr,Abarrotes,Comidas en Conserva
 547581,Lavandina Cimbol 500 ml,Cuidado del Hogar,Limpieza de la Ropa
 547719,Gel Fijador Algabo Efecto Humedo 475 gr,Cuidado Personal,Cuidado del Cabello
+547743,Colonia Algabo Inglesa 500 ml,Cuidado Personal,Cuidado de la Piel
+547751,Colonia Algabo Ambre 500 ml,Cuidado Personal,Cuidado de la Piel
 547778,Talco Para Pies Algabo Desodorante 200 gr,Cuidado Personal,Cuidado de la Piel
 547999,Brazo Gitano de Chocolate Grande Hipermaxi,Pastelería y Masas Típicas,Pastelería Hipermaxi
 549516,Ambientador Aerosol Glade Mañana de Campo 360 ml,Cuidado del Hogar,Productos Americanos
@@ -14150,6 +14165,7 @@ id_producto,producto,categoria,subcategoria
 553347,LECHE CHOCOMILK LA PURITA 800 ML,Lácteos y Derivados,Leches
 553348,PACK 3X2 HARD SELTZER COLOSSUS,Bebidas,Licores
 553349,PACK 12 CERVEZA AMSTEL LATA 473ML,Bebidas,Cervezas
+553352,VAPE WAKA CREATOR STRAWBE KIWI 5P 12000P,Bebidas,Cigarrillos
 553353,VAPE WAKA SOLO 2GRAPE APPLE 5P 2500P,Bebidas,Cigarrillos
 553361,PACK RAMEN MAXIMO 4X85G,Abarrotes,Básicos
 554333,Cerveza Paceña Lata Roja 473 Cc,Bebidas,Cervezas
@@ -23465,6 +23481,7 @@ id_producto,producto,categoria,subcategoria
 865812,Jugo Frutall Manzana Light 1 L,Abarrotes,Dietéticos y Saludables
 865827,Jugo Frutall Durazno Light 1 L,Abarrotes,Dietéticos y Saludables
 865843,ESTUFA HALOGENA BRIARA NSTK-120A5,Bazar,Electrodoméstico/Línea Blanca-Hogar
+865993,Hervidor Luma Bella Blanco,Bazar,Electrodoméstico/Línea Blanca-Hogar
 866231,Bebida Ice 51 Limon 275 ml,Bebidas,Licores
 866246,Bebida Ice 51 Maracuya 275 ml,Bebidas,Licores
 866553,Chocolate After Eight Menta 300 gr,Abarrotes,Chocolates y Caramelos
@@ -23479,6 +23496,14 @@ id_producto,producto,categoria,subcategoria
 867800,Rabano,Frutas y Verduras,Verduras
 867898,Pack Limones Amarillos 25 un,Frutas y Verduras,Frutas
 867987,Papa Simplot Congeladas 700 gr,Congelados,Masas y Comidas Congeladas
+868270,PACK GILLETTE 2 AT SPRAY SPORT PEAK 150M,Cuidado Personal,Cuidado de la Piel
+868272,PACK OLD SPICE 2AT BARRA OCEANLEGEND 50G,Cuidado Personal,Cuidado de la Piel
+868273,PACK OLD SPICE 2DEO BARRA FRESH 50GR X1U,Cuidado Personal,Cuidado de la Piel
+868274,PACK SECRET 2AT SPRAY WATERLILY 150ML X1,Cuidado Personal,Cuidado de la Piel
+868277,PACK H&S 2SH DERMO SENSITIVE 650ML X1U,Cuidado Personal,Cuidado del Cabello
+868283,PACK H&S 2SH FUERTE DESDE RAIZ 650ML X1U,Cuidado Personal,Cuidado del Cabello
+868300,FIXER GEL SUPER EXTRA FUERTE 12X50G,Cuidado Personal,Cuidado del Cabello
+868301,PACK LYSOFORM 285 X 2,Cuidado del Hogar,Limpieza de Baños
 868523,CH 3009 VASO DE VIDRIO 200ML,Bazar Importación,Menaje Vidrio/Cristal
 868525,Individual de Mesa Rectangular 30x45 cm,Bazar Importación,Cocina General
 868526,Individual de Mesa Franjas de Colores 30x45 cm,Bazar Importación,Cocina General
