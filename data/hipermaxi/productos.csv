@@ -394,6 +394,7 @@ id_producto,producto,categoria,subcategoria
 6778,Palmighetti De La Selva 400 gr,Abarrotes,Verduras en Conserva
 6788,Agua Vital Sin Gas 6 L,Bebidas,Aguas
 6819,Papa Lays Ondas Picantes 150 gr,Abarrotes,Snack
+6875,PACK SODA MENDOCINA 3 LTS X 2,Bebidas,Gaseosas
 6878,Pate de Trucha Titikaka Ahumada 100 gr,Abarrotes,Comidas en Conserva
 7197,Fernet Paolo Lazzaroni Italia 750 ml,Bebidas,Licores
 7678,Aceite de Coco 100 ml,Abarrotes,Básicos
@@ -1759,6 +1760,7 @@ id_producto,producto,categoria,subcategoria
 25238,CEREAL CHOCAPIC NESTLE CJA 540G,Abarrotes,Nutrición Infantil
 25239,CHICLE TOPLINE7 ULTRA DOBLE 24G,Abarrotes,Golosinas - Varias
 25242,MARSMALLOWS CRISMELOS MINI BLANCO 240G,Abarrotes,Chocolates y Caramelos
+25243,GALLETA RELL AVENTURA VAINILLA 120G,Abarrotes,Galletas
 25244,GALLETA RELL AVENTURA CHOCOCREMA 120G,Abarrotes,Galletas
 25245,GALLETA D ARROZ F FARM C STEVIA 110G,Abarrotes,Dietéticos y Saludables
 25252,MARSMALLOWS CRISMELOS TWISTER 240G,Abarrotes,Chocolates y Caramelos
@@ -7680,6 +7682,7 @@ id_producto,producto,categoria,subcategoria
 228069,GEL DENTAL CONDOR KIDS HW 3511,Cuidado del Bebé,Kids
 228070,GEL DENTAL CONDOR  KIDS HW 3512,Cuidado del Bebé,Kids
 228071,GEL DENTAL CONDOR KIDS HW 8211,Cuidado del Bebé,Kids
+228072,DETERGENTE POLVO GIRANDOSOL HIPO 7K,Cuidado del Hogar,Limpieza de la Ropa
 228073,NAFTALINA PERDIGON 100 GR,Cuidado del Hogar,Productos Americanos
 228074,NAFTALINA IBERIA 100 GR,Cuidado del Hogar,Productos Americanos
 228075,TINTE ISSUE EXPRESS 5 MINUTOS ROJO,Cuidado Personal,Cuidado del Cabello
@@ -7698,10 +7701,12 @@ id_producto,producto,categoria,subcategoria
 228114,PANUELO FINESSE MENTOL 4 UNDS,Cuidado Personal,Cuidado Familiar
 228115,PANUELO FINESSE MENTOL 6 UNDS,Cuidado Personal,Cuidado Familiar
 228119,PACK AHORRA PROCENEX FLORAL 900 ML,Cuidado del Hogar,Limpieza de Baños
+228126,CREMA PEINAR PANTENE ANTICAIDA 300ML,Cuidado Personal,Cuidado del Cabello
 228127,ACOND PANTENE ANTICAIDA 250ML,Cuidado Personal,Cuidado del Cabello
 228130,SHAMPOO PANTENE ANTICAIDA 510ML,Cuidado Personal,Cuidado del Cabello
 228131,SHAMPOO H&S NUTRIMIEL650ML,Cuidado Personal,Cuidado del Cabello
 228132,SHAMPOO H&S NUTRIMIEL375ML,Cuidado Personal,Cuidado del Cabello
+228134,SHAMPOO H&S NUTRIMIEL180ML,Cuidado Personal,Cuidado del Cabello
 228139,PASTILLA TODO BRILLO  TANQUE 50G,Cuidado del Hogar,Limpieza de Baños
 228140,PASTILLA TODO BRILLO TANQUE 3X50 GR,Cuidado del Hogar,Limpieza de Baños
 228142,SUAVIZANTE BRISA PLUS TODO BRILLO 800ML,Cuidado del Hogar,Limpieza de la Ropa
@@ -14117,6 +14122,7 @@ id_producto,producto,categoria,subcategoria
 553257,Gomita Fini Regaliz Tubes Tutti Fruti 15 gr,Abarrotes,Golosinas - Varias
 553258,Gomita Regaliz Tubos Colores 15 gr,Abarrotes,Golosinas - Varias
 553259,Gomita Regaliz Tubes Fresa 15 gr,Abarrotes,Golosinas - Varias
+553262,VINO BLANCO CHATEAU GRAULET 750 ML,Bebidas,Vinos y Champagne
 553268,PACK BREICK DIA DE LA MADRE,Abarrotes,Chocolates y Caramelos
 553270,PIPOCA GUADIA SALADA PICANTE 90 GR,Abarrotes,Snack
 553271,Isotonico Aqualife Fruit Punch 500 ml,Bebidas,Isotónicos
@@ -14143,6 +14149,7 @@ id_producto,producto,categoria,subcategoria
 553303,GALLETAS ANDES TROPICO ALMENDRA 200 GR,Abarrotes,Galletas
 553305,GALLETA ANDES TROPICO CHIA 200 GR,Abarrotes,Galletas
 553308,GALLETA ANDES TROPICO QUINUA 200 GR,Abarrotes,Galletas
+553309,CEREAL ORGANICA DEL SUR ARITOS FRUTAS 38,Abarrotes,Nutrición Infantil
 553313,PIPOCA GUADIA MANTEQUILLA PACK 6X25GR,Abarrotes,Snack
 553316,CHOCOLATE PAITITI 100P SIN AZUCAR 67 GR,Abarrotes,Dietéticos y Saludables
 553317,CHOCOLATE PAITITI 100P SIN AZUCAR 100 GR,Abarrotes,Dietéticos y Saludables
@@ -14168,6 +14175,10 @@ id_producto,producto,categoria,subcategoria
 553352,VAPE WAKA CREATOR STRAWBE KIWI 5P 12000P,Bebidas,Cigarrillos
 553353,VAPE WAKA SOLO 2GRAPE APPLE 5P 2500P,Bebidas,Cigarrillos
 553361,PACK RAMEN MAXIMO 4X85G,Abarrotes,Básicos
+553364,PACK GALLETAS COLOMBINA X2,Abarrotes,Galletas
+553365,PACK GALLETAS COLOMBINA BRINKY X2,Abarrotes,Galletas
+553366,GRAGEAS RUAH CAFE CHOCOLATE 75P STEVIA,Abarrotes,Chocolates y Caramelos
+553368,GRAGEA QUINUA RUAH CHOCOLATE STEVIA  50,Abarrotes,Chocolates y Caramelos
 554333,Cerveza Paceña Lata Roja 473 Cc,Bebidas,Cervezas
 554466,Detergente Liquido Ola Futuro Limpieza Completa 5 L,Cuidado del Hogar,Limpieza de la Ropa
 554468,Suavizante Ropa Ola Suavecito Original 5 L,Cuidado del Hogar,Limpieza de la Ropa
@@ -15203,7 +15214,9 @@ id_producto,producto,categoria,subcategoria
 629426,Pretzel Snyders Hot Buffalo Wing 319 gr,Abarrotes,Productos Americanos
 629427,Salsa Click Fil A Scholarships 473 ml,Abarrotes,Productos Americanos
 629428,Salsa Chick Fil A Polynesian 473 ml,Abarrotes,Productos Americanos
-629438,DUNKIN ICED COFEE FRENCH VAINILLA 405ML,Lácteos y Derivados,Leches
+629438,Cafe Helado Dunkin French Vainilla 405 ml,Lácteos y Derivados,Leches
+629439,Cafe Helado Dunkin French Mocha 405 ml,Lácteos y Derivados,Leches
+629440,Cafe Helado Dunkin French Original 405 ml,Lácteos y Derivados,Leches
 629485,Agua de Coco Pulpa Tru Farm 500 ml,Bebidas,Bebidas Usa
 629486,Agua de Coco Trufarm Original 500 ml,Bebidas,Bebidas Usa
 629495,Vinagre Bragg de Manzana 473 ml,Abarrotes,Productos Americanos
@@ -15290,7 +15303,7 @@ id_producto,producto,categoria,subcategoria
 629787,Bebida Happy Vibes Sweet Sunrise 1 L,Bebidas,Bebidas Usa
 629788,Bebida Happy Vibes Mojito 1 L,Bebidas,Bebidas Usa
 629789,Bebida Happy Vibes Piña Colada 1 L,Bebidas,Bebidas Usa
-629791,CEREAL KELLOS CRUMBL CHISPAS CHOCOLATE 357GR,Abarrotes,Productos Americanos
+629791,Cereal Crumbl Chispas Chocolate Kelloggs 357 g,Abarrotes,Productos Americanos
 629794,CEREAL POST OREO PUFFS 283GR,Abarrotes,Productos Americanos
 630010,Alimento Pedigree Cachorro 1.5 kg,Abarrotes,Mascotas
 630011,Gaseosa Crush Piña 355 ml,Bebidas,Bebidas Usa
@@ -18105,6 +18118,7 @@ id_producto,producto,categoria,subcategoria
 669374,PACK NOSOTRAS INV CLASICA 2X10,Cuidado Personal,Cuidado Familiar
 669377,LAVAVAJILLA CITRUS ALOE BRISTAR 1050ML,Cuidado del Hogar,Limpieza de Cocina
 669378,LAVAVAJILLA FLORES Y COLAG BRISTAR 1050M,Cuidado del Hogar,Limpieza de Cocina
+669379,Detergente para Ropa Tide Pods Capsulas Odor + Oxi 826 g,Cuidado del Hogar,Productos Americanos
 669901,Pizza Hipermaxi Congelada Hawaiana 620 gr,Congelados,Masas y Comidas Congeladas
 669902,Pizza Hipermaxi Congelada Jamon Queso Light Masa Integral,Congelados,Masas y Comidas Congeladas
 669903,Pizza Hipermaxi Congelada Pepperoni 620 gr,Congelados,Masas y Comidas Congeladas
@@ -23502,6 +23516,8 @@ id_producto,producto,categoria,subcategoria
 868274,PACK SECRET 2AT SPRAY WATERLILY 150ML X1,Cuidado Personal,Cuidado de la Piel
 868277,PACK H&S 2SH DERMO SENSITIVE 650ML X1U,Cuidado Personal,Cuidado del Cabello
 868283,PACK H&S 2SH FUERTE DESDE RAIZ 650ML X1U,Cuidado Personal,Cuidado del Cabello
+868296,PACK DOWNY FLORAL(1PZ)+EXOTICO(1PZ) 700,Cuidado del Hogar,Limpieza de la Ropa
+868299,PACK PANTENE 1SH CUID 2EN1 400ML 1AC FUERZA400MLX1U,Cuidado Personal,Cuidado del Cabello
 868300,FIXER GEL SUPER EXTRA FUERTE 12X50G,Cuidado Personal,Cuidado del Cabello
 868301,PACK LYSOFORM 285 X 2,Cuidado del Hogar,Limpieza de Baños
 868523,CH 3009 VASO DE VIDRIO 200ML,Bazar Importación,Menaje Vidrio/Cristal
@@ -23714,7 +23730,7 @@ id_producto,producto,categoria,subcategoria
 877730,Collar para Mascota de Cuerina 2,Bazar,Mascotas General
 877830,Set 6 Copas Windsor Agua,Bazar,Menaje Vidrio/Cristal
 877939,Ponchillos Impermeable,Bazar,Camping General
-878068,Vasoo Mascota Avena Procao 500 ml,Bazar,Cotillón
+878068,Vasos Termico 240 ml 25 u,Bazar,Cotillón
 878069,Vasoo Mascota Avena Procao 500 ml,Bazar,Cotillón
 878070,Vasoo Mascota Avena Procao 500 ml,Bazar,Cotillón
 878241,Juego de Domino,Juguetería,Juguetería Didáctica/Temporada
