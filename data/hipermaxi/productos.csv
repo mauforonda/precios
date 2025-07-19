@@ -868,6 +868,7 @@ id_producto,producto,categoria,subcategoria
 15878,Vino Kohlberg Ugni Blanco Stelar 750 ml,Bebidas,Vinos y Champagne
 15977,Galleta Gullon Crackers Sin Gluten 200 gr,Abarrotes,Dietéticos y Saludables
 16001,Snack Multimix Bolivian Fruit Maiz Haba Platano,Abarrotes,Snack
+16005,Gomita Mogul Frutilla Acida 500 gr,Abarrotes,Golosinas - Varias
 16006,Gomita Mogul Frutilla Acida 150 gr,Abarrotes,Golosinas - Varias
 16010,Harina Go Green Pre Mix Protein 250 gr,Abarrotes,Repostería
 16025,Pack 2 Castaña Cayu Maya 117 gr,Abarrotes,Snack
@@ -1764,6 +1765,8 @@ id_producto,producto,categoria,subcategoria
 25244,GALLETA RELL AVENTURA CHOCOCREMA 120G,Abarrotes,Galletas
 25245,GALLETA D ARROZ F FARM C STEVIA 110G,Abarrotes,Dietéticos y Saludables
 25252,MARSMALLOWS CRISMELOS TWISTER 240G,Abarrotes,Chocolates y Caramelos
+25254,GOMITA FINI MORAS 15G,Abarrotes,Golosinas - Varias
+25255,GOMITA FINI BANANAS 15G,Abarrotes,Golosinas - Varias
 25258,BEBIDA FOUR LOKO WHITE LTA 473ML,Bebidas,Licores
 25259,BEBIDA FOUR LOKO WHITE LTA 695ML,Bebidas,Licores
 25640,Surtido de Mariscos Robinson Crusoe Natural 190 gr,Abarrotes,Comidas en Conserva
@@ -4820,6 +4823,7 @@ id_producto,producto,categoria,subcategoria
 110204,Sazonador American Spice Red Fajita 120 gr,Abarrotes,Condimentos y Legumbres
 110205,Canela American Spice Polvo 56 gr,Abarrotes,Condimentos y Legumbres
 110207,Pimienta Roja America Spice Molida 56 gr,Abarrotes,Condimentos y Legumbres
+110208,Cebolla en Polvo American Spice 56 gr,Abarrotes,Condimentos y Legumbres
 110209,Sal Amerixan Spice de Ajo 141 gr,Abarrotes,Condimentos y Legumbres
 110210,Chile American Spice Polvo 56.7 gr,Abarrotes,Condimentos y Legumbres
 110214,Ajo American Spice Polvo 56 gr,Abarrotes,Condimentos y Legumbres
@@ -7701,6 +7705,9 @@ id_producto,producto,categoria,subcategoria
 228114,PANUELO FINESSE MENTOL 4 UNDS,Cuidado Personal,Cuidado Familiar
 228115,PANUELO FINESSE MENTOL 6 UNDS,Cuidado Personal,Cuidado Familiar
 228119,PACK AHORRA PROCENEX FLORAL 900 ML,Cuidado del Hogar,Limpieza de Baños
+228121,TOALLA HUMEDA DULCO FROZEN 100 UNDS,Cuidado del Bebé,Cuidado del Bebé
+228122,TOALLA HUMEDA DULCO PRINCESA 100 UNDS,Cuidado del Bebé,Cuidado del Bebé
+228123,TOALLA HUMEDA DULCO SPIDERMAN 100 UNDS,Cuidado del Bebé,Cuidado del Bebé
 228126,CREMA PEINAR PANTENE ANTICAIDA 300ML,Cuidado Personal,Cuidado del Cabello
 228127,ACOND PANTENE ANTICAIDA 250ML,Cuidado Personal,Cuidado del Cabello
 228130,SHAMPOO PANTENE ANTICAIDA 510ML,Cuidado Personal,Cuidado del Cabello
@@ -7724,6 +7731,10 @@ id_producto,producto,categoria,subcategoria
 228162,OMO PVO LIMON CON BICARBONATO 140G,Cuidado del Hogar,Limpieza de la Ropa
 228163,LUX BOTAN JAB JAZMIN CREMOSO 120G,Cuidado Personal,Cuidado de la Piel
 228164,LUX BOTAN JAB ORQUIDEA NEGRA 120G,Cuidado Personal,Cuidado de la Piel
+228165,PASTA DENTAL TRIPLEACCION CARISSA 180G,Cuidado Personal,Cuidado Bucal
+228166,PASTA DENTAL KIDS FRESA CARISSA 50G,Cuidado del Bebé,Kids
+228167,PASTA DENTAL TRIPLE ACCION CARISSA 50G,Cuidado Personal,Cuidado Bucal
+228169,SHAMPOO CONTRO CAIDA REVIVE 850ML DP,Cuidado Personal,Cuidado del Cabello
 228673,TOALLA HUMEDA PROBLOCK MANZANILLA  ALOE,Cuidado del Bebé,Cuidado del Bebé
 228725,Galleta Granix Cereal 185 gr,Abarrotes,Galletas
 228771,Endulcorante  Chuker con Stevia 250 ml,Abarrotes,Dietéticos y Saludables
@@ -8275,6 +8286,7 @@ id_producto,producto,categoria,subcategoria
 249046,COLONIA PORTUGAL BEBE 120 ML,Cuidado del Bebé,Cuidado del Bebé
 249047,CREMA PORTUGAL BEBE MANZANILLA 120 GR,Cuidado del Bebé,Cuidado del Bebé
 249049,SHAMPOO PORTUGAL BEBE ALOE 120 ML,Cuidado del Bebé,Cuidado del Bebé
+249051,SHAMPOO PORTUGAL BEBE ALOE 250 ML,Cuidado del Bebé,Cuidado del Bebé
 249052,Talco Portugal Bebe Zinc 250 gr,Cuidado del Bebé,Cuidado del Bebé
 249057,Bloqueador Portugal Bahia Sport Spf 50 60 gr,Cuidado Personal,Cuidado de la Piel
 249058,GEL FIJADOR SUPER FIX  275G,Cuidado Personal,Cuidado del Cabello
@@ -14174,6 +14186,7 @@ id_producto,producto,categoria,subcategoria
 553349,PACK 12 CERVEZA AMSTEL LATA 473ML,Bebidas,Cervezas
 553352,VAPE WAKA CREATOR STRAWBE KIWI 5P 12000P,Bebidas,Cigarrillos
 553353,VAPE WAKA SOLO 2GRAPE APPLE 5P 2500P,Bebidas,Cigarrillos
+553360,SNACK DR PICKS PICKESOS 26GR,Abarrotes,Snack
 553361,PACK RAMEN MAXIMO 4X85G,Abarrotes,Básicos
 553364,PACK GALLETAS COLOMBINA X2,Abarrotes,Galletas
 553365,PACK GALLETAS COLOMBINA BRINKY X2,Abarrotes,Galletas
@@ -15304,7 +15317,7 @@ id_producto,producto,categoria,subcategoria
 629788,Bebida Happy Vibes Mojito 1 L,Bebidas,Bebidas Usa
 629789,Bebida Happy Vibes Piña Colada 1 L,Bebidas,Bebidas Usa
 629791,Cereal Crumbl Chispas Chocolate Kelloggs 357 g,Abarrotes,Productos Americanos
-629794,CEREAL POST OREO PUFFS 283GR,Abarrotes,Productos Americanos
+629794,Cereal Oreo Puffs 283 g,Abarrotes,Productos Americanos
 630010,Alimento Pedigree Cachorro 1.5 kg,Abarrotes,Mascotas
 630011,Gaseosa Crush Piña 355 ml,Bebidas,Bebidas Usa
 630012,Cereal Kelloggs Cocoa Krispies 439 gr,Abarrotes,Productos Americanos
@@ -16430,6 +16443,7 @@ id_producto,producto,categoria,subcategoria
 657285,BOMBONES BREICK ESTRELLA NAVIDENA 72 GR,Abarrotes,Temporada
 657306,Pimienta Negra Badia Molida 16 oz,Abarrotes,Condimentos y Legumbres
 657309,Aceite Virgen Kirkland de Coco Organico 84 oz,Abarrotes,Productos Americanos
+657322,KIDSMANIA OOZE TUBE 8/12CT,Abarrotes,Productos Americanos
 657331,Fideo Las Acacias Natural Tirabuzon 400 gr,Abarrotes,Básicos
 657350,Salsa Molho Toscano de Soya 150 gr,Abarrotes,Condimentos y Legumbres
 657352,Salsa Molho Toscano Pimienta 1010 ml,Abarrotes,Aderezos
@@ -16865,6 +16879,7 @@ id_producto,producto,categoria,subcategoria
 660026,Mani Mr.Mad Tostado Sal y Picante 500 gr,Abarrotes,Snack
 660027,Mani Mr Mad Tostado con Sal 500 gr,Abarrotes,Snack
 660028,Mani Tostado Sal Ajo Cebo Hierbas,Abarrotes,Snack
+660031,Miel de Abeja Chiquitano Origen 700 gr,Abarrotes,"Mermel, Mieles"
 660032,Miel de Abeja Origen Chaqueño 450 gr,Abarrotes,"Mermel, Mieles"
 660038,Galleta Wafer Costa Vainilla 105 gr,Abarrotes,Galletas
 660039,Galleta Wafer Costa Chocolate 105 gr,Abarrotes,Galletas
@@ -17980,8 +17995,8 @@ id_producto,producto,categoria,subcategoria
 669103,Perlas Potenciadoras De Aroma Downy Lush 680 gr,Cuidado del Hogar,Productos Americanos
 669104,Perlas Potenciadoras De Aroma Downy Fresh 680 gr,Cuidado del Hogar,Productos Americanos
 669105,Perlas Potenciadoras De Aroma Downy Lush 141 gr,Cuidado del Hogar,Productos Americanos
-669106,FEBREZE FABRIC EXTRASTRENGTH 438ML X8U,Cuidado del Hogar,Productos Americanos
-669107,FEBREZE FABRIC EXTRASTRENGTH 700ML X4U,Cuidado del Hogar,Productos Americanos
+669106,Aromatizante de Tela Febreze Extra Strength 438 ml,Cuidado del Hogar,Productos Americanos
+669107,Aromatizante de Tela Febreze Fabric STrength 700 ml,Cuidado del Hogar,Productos Americanos
 669108,Perlas Potenciadoras De Aroma Downy April Fresh 141 gr,Cuidado del Hogar,Productos Americanos
 669109,Perlas Potenciadoras De Aroma Downy April Fresh 680 gr,Cuidado del Hogar,Productos Americanos
 669110,Perlas Potenciadoras De Aroma Downy Fresh 345 gr,Cuidado del Hogar,Productos Americanos
@@ -18026,6 +18041,7 @@ id_producto,producto,categoria,subcategoria
 669151,AMBIENTADOR TOTES ANTITABACO 360 ML,Cuidado del Hogar,Limpieza de Living y Ropero
 669152,AMBIENTADOR TOTES VAINILLA 360 ML,Cuidado del Hogar,Limpieza de Living y Ropero
 669153,Maquina de Afeitar Bic Soleil Escape Rosas,Cuidado Personal,Cuidado de la Piel
+669154,Maquina de Afeitar Bic Flex 5 + 3 Repuesto,Cuidado Personal,Cuidado de la Piel
 669155,Maquina de Afeitar Bic Soleil Escape Lavanda,Cuidado Personal,Cuidado de la Piel
 669156,Shampoo Dove Nutricion 200 ml,Cuidado Personal,Cuidado del Cabello
 669159,Enjuague Bucal Listerine Anticaries Zero Frescura Suave 250 ml LOGM,Cuidado Personal,Cuidado Bucal
@@ -18114,11 +18130,14 @@ id_producto,producto,categoria,subcategoria
 669369,DOWNY EXOTICO 360ML X 12U,Cuidado del Hogar,Limpieza de la Ropa
 669370,BIPACK HUGGIES TRIPLE PROTECCION M 2X34,Cuidado del Bebé,Pañales
 669371,BIPACK HUGGIES TRIPLE PROTECCION G 2X32,Cuidado del Bebé,Pañales
+669372,BIPACK HUGGIES TRIPLE PROTECCION XG 2X28,Cuidado del Bebé,Pañales
 669373,BIPACK HUGGIES TRIPLE PROTECCION XXG 2X2,Cuidado del Bebé,Pañales
 669374,PACK NOSOTRAS INV CLASICA 2X10,Cuidado Personal,Cuidado Familiar
 669377,LAVAVAJILLA CITRUS ALOE BRISTAR 1050ML,Cuidado del Hogar,Limpieza de Cocina
 669378,LAVAVAJILLA FLORES Y COLAG BRISTAR 1050M,Cuidado del Hogar,Limpieza de Cocina
 669379,Detergente para Ropa Tide Pods Capsulas Odor + Oxi 826 g,Cuidado del Hogar,Productos Americanos
+669383,Ambientador Febreze Fresch 250 ml,Cuidado del Hogar,Productos Americanos
+669384,Ambientador Febreze limon 250 ml,Cuidado del Hogar,Productos Americanos
 669901,Pizza Hipermaxi Congelada Hawaiana 620 gr,Congelados,Masas y Comidas Congeladas
 669902,Pizza Hipermaxi Congelada Jamon Queso Light Masa Integral,Congelados,Masas y Comidas Congeladas
 669903,Pizza Hipermaxi Congelada Pepperoni 620 gr,Congelados,Masas y Comidas Congeladas
@@ -19736,6 +19755,7 @@ id_producto,producto,categoria,subcategoria
 674492,QUESO MUZZARELLA MALLON 450GR,Lácteos y Derivados,Quesos
 674504,KEFIR NATURAL DELIZIA SIN AZUCAR 170GRS,Lácteos y Derivados,Yogures
 674505,LECHE PIL LIGHT UHT X800ML (BOLSA),Lácteos y Derivados,Leches
+674507,PACK MANTEQUILLA DE MANI CREMOSA Y CROCA,Lácteos y Derivados,Mantequillas y Margarinas
 674508,SUPERPIL VARIOS SABORES BOLSA 150ML,Lácteos y Derivados,Leches
 674509,LECHE PIL DESLACTOSADA TARIJA 850ML BOLSA,Lácteos y Derivados,Leches
 674510,DULCE DE LECHE PIL TARIJA 250GRS,Lácteos y Derivados,Dulces de Leche y Manjares
@@ -20350,6 +20370,7 @@ id_producto,producto,categoria,subcategoria
 695822,Protector Solar Facial 2.0 Sunless Fps 60,Cuidado Personal,Cuidado de la Piel
 695823,Protector Solar Facial 3.0 Sunless Fps 60 40 gr,Cuidado Personal,Cuidado de la Piel
 695824,PROT. SOL. FACIAL FPS60 4.0 SUNLESS 40G,Cuidado Personal,Cuidado de la Piel
+695825,PROTECTOR SOLAR FACIAL FPS60 S/COLOR SUN,Cuidado Personal,Cuidado de la Piel
 695856,Limpiador Desinfectante Ola Aromatic Flores 900 ml,Cuidado del Hogar,Limpieza de Baños
 695905,Limpiador Desinfectante Ola Aromatic Brisa Marina 900 ml,Cuidado del Hogar,Limpieza de Baños
 695920,Cerveza Potosina 350 ml,Bebidas,Cervezas
@@ -23510,14 +23531,22 @@ id_producto,producto,categoria,subcategoria
 867800,Rabano,Frutas y Verduras,Verduras
 867898,Pack Limones Amarillos 25 un,Frutas y Verduras,Frutas
 867987,Papa Simplot Congeladas 700 gr,Congelados,Masas y Comidas Congeladas
+868269,PACK DOWNY FLORAL(1PZ)+AMANECER(1PZ) 70,Cuidado del Hogar,Limpieza de la Ropa
 868270,PACK GILLETTE 2 AT SPRAY SPORT PEAK 150M,Cuidado Personal,Cuidado de la Piel
+868271,PACK GILLETTE 2 AT BARRA GEL POWERBEADS,Cuidado Personal,Cuidado de la Piel
 868272,PACK OLD SPICE 2AT BARRA OCEANLEGEND 50G,Cuidado Personal,Cuidado de la Piel
 868273,PACK OLD SPICE 2DEO BARRA FRESH 50GR X1U,Cuidado Personal,Cuidado de la Piel
 868274,PACK SECRET 2AT SPRAY WATERLILY 150ML X1,Cuidado Personal,Cuidado de la Piel
+868276,PACK H&S 2SH DERMO SENSITIVE 375ML X1U,Cuidado Personal,Cuidado del Cabello
 868277,PACK H&S 2SH DERMO SENSITIVE 650ML X1U,Cuidado Personal,Cuidado del Cabello
+868279,PACK H&S 1SH FUERTEDESDERAIZ 375ML+1AC30,Cuidado Personal,Cuidado del Cabello
 868283,PACK H&S 2SH FUERTE DESDE RAIZ 650ML X1U,Cuidado Personal,Cuidado del Cabello
+868286,PACK ORAL B P 2 DUPLO ALIVIO 50ML X1U,Cuidado Personal,Cuidado Bucal
+868288,PACK PANTENE 1SH EXTRALISO 400ML+1AC400M,Cuidado Personal,Cuidado del Cabello
+868294,PACK PANTENE 1SH KERATINA 300ML+1AC 3MM,Cuidado Personal,Cuidado del Cabello
+868295,PACK PANTENE 1SH KERATINA 510ML+1AC FUER,Cuidado Personal,Cuidado del Cabello
 868296,PACK DOWNY FLORAL(1PZ)+EXOTICO(1PZ) 700,Cuidado del Hogar,Limpieza de la Ropa
-868299,PACK PANTENE 1SH CUID 2EN1 400ML 1AC FUERZA400MLX1U,Cuidado Personal,Cuidado del Cabello
+868299,PACK PANTENE 1SH CUID 2EN1 400ML 1AC FUE,Cuidado Personal,Cuidado del Cabello
 868300,FIXER GEL SUPER EXTRA FUERTE 12X50G,Cuidado Personal,Cuidado del Cabello
 868301,PACK LYSOFORM 285 X 2,Cuidado del Hogar,Limpieza de Baños
 868523,CH 3009 VASO DE VIDRIO 200ML,Bazar Importación,Menaje Vidrio/Cristal
