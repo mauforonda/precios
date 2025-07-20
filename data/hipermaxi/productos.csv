@@ -1575,6 +1575,7 @@ id_producto,producto,categoria,subcategoria
 24163,Kit Waka Creator Disp 1 Dark Cherry 12000,Bebidas,Cigarrillos
 24164,Kit Waka Creator Disp 1 Blueberry Ice 12000,Bebidas,Cigarrillos
 24170,Pesto Valenciana Tomate Deshidratado Rosso 200 gr,Abarrotes,Verduras en Conserva
+24171,Escabeche Valenciana Mixto 250 gr,Abarrotes,Verduras en Conserva
 24172,Mani Pinzones Pizza 220 gr,Abarrotes,Snack
 24173,Tomate Deshidratado Valenciana Picante 180 gr,Abarrotes,Verduras en Conserva
 24174,Tomate Deshidratado Valenciana Piña 180 gr,Abarrotes,Verduras en Conserva
@@ -2269,6 +2270,7 @@ id_producto,producto,categoria,subcategoria
 30509,Cafe Roc Espresso Molido 250 gr,Abarrotes,Café y Sucedáneos
 30510,Cafe Roc Espresso Grano 1 kg,Abarrotes,Café y Sucedáneos
 30515,Achocolatado Chocomiki 1 kg,Abarrotes,Nutrición Infantil
+30518,CEREAL PRINCESA CHOCOLEO 0 AZUC 350G,Abarrotes,Nutrición Infantil
 30519,Cigarrillo Winston Fresh Mix 20 un,Bebidas,Cigarrillos
 30520,Cigarrillo Winston Red Mix 20 un,Bebidas,Cigarrillos
 30521,Snacks de Arroz Dos Hermanos Pizza 80 gr,Abarrotes,Snack
@@ -6653,6 +6655,7 @@ id_producto,producto,categoria,subcategoria
 208639,Ambientador Aerosol Glade Campos Lavanda 360 cm,Cuidado del Hogar,Productos Americanos
 208717,Salsa Molho Kenko Pimienta 1 L,Abarrotes,Productos Americanos
 208971,Vino Campos de Solana Trivarietal Blanco 750 ml,Bebidas,Vinos y Champagne
+209051,BASE SUPER STAY LUMI MATTE 125,Cuidado Personal,Cuidado de la Piel
 209060,Jabon Liquido Siempre Melon 1 L,Cuidado Personal,Cuidado de la Piel
 209061,Suavizante Ropa Todo Brillo Floral 1.8 L,Cuidado del Hogar,Limpieza de la Ropa
 209062,Lavavajilla Gallito Limon 900 ml,Cuidado del Hogar,Limpieza de Cocina
@@ -7700,6 +7703,8 @@ id_producto,producto,categoria,subcategoria
 228090,JABON EN ESPUMA HERBAL FRESH REVIVE 250,Cuidado Personal,Cuidado de la Piel
 228091,BOLSA MAGIA VERDE 60X63 35LT,Cuidado del Hogar,Accesorios del Hogar
 228100,PACK PAPEL FINESSE FAMILIS 32+6 UNDS,Cuidado Personal,Cuidado Familiar
+228101,CREMA D PEINAR BELMED BOTOX 320 GR,Cuidado Personal,Cuidado del Cabello
+228102,CREMA D PEINAR BELMED MAXILISO 320 GR,Cuidado Personal,Cuidado del Cabello
 228112,TINTE ISSUE EXPRESS CANTANO CLARO 5 MINU,Cuidado Personal,Cuidado del Cabello
 228113,TOALLA NOSOTRAS BUENAS NOCHES 8UN,Cuidado Personal,Cuidado Familiar
 228114,PANUELO FINESSE MENTOL 4 UNDS,Cuidado Personal,Cuidado Familiar
@@ -13880,6 +13885,7 @@ id_producto,producto,categoria,subcategoria
 552958,GELATINA DELY NARANJA 250GR,Abarrotes,Repostería
 552959,GELATINA DELY PINA 250GR,Abarrotes,Repostería
 552964,GELATINA DELY CHICLE 250GR,Abarrotes,Repostería
+552965,GELATINA DELY UVA 250GR,Abarrotes,Repostería
 552966,Nectar Sol Durazno 200 ml,Bebidas,"Jugos, Néctar"
 552967,Nectar Sol Manzana 200 ml,Bebidas,"Jugos, Néctar"
 552968,PACK 6 NECTAR DEL SOL 200 ML,Bebidas,"Jugos, Néctar"
@@ -14177,6 +14183,7 @@ id_producto,producto,categoria,subcategoria
 553332,BEBIDA CIN COCO BOT 3 LT,Bebidas,Bebidas Varias
 553333,BEBIDA CIN LINAZA BOT 3 LT,Bebidas,Bebidas Varias
 553335,LECHE EN POLVO NIDO 1 DP 2 KG,Abarrotes,Nutrición Infantil
+553340,LECHE DORADA POLVO FIT MIT POTE 500 GR,Abarrotes,Nutrición Infantil
 553341,GIN INSURGENTE FRUTILLA BOT 1 LT,Bebidas,Licores
 553344,GINEBRA INSURGENTE BOT 1 LT,Bebidas,Licores
 553345,PACK 12X6 12 ROCKSTAR,Bebidas,Energizantes
@@ -18083,6 +18090,7 @@ id_producto,producto,categoria,subcategoria
 669312,Talco Zurly Baby Powder Pink 625 gr,Cuidado del Bebé,Cuidado del Bebé
 669313,Talco Baby Powder Blue 625 gr,Cuidado del Bebé,Cuidado del Bebé
 669314,CREMA DE PEINAR BRILLANCE 320 GR,Cuidado Personal,Cuidado del Cabello
+669315,CREMA DE PEINAR PARA HOMBRES 320 GR,Cuidado Personal,Cuidado del Cabello
 669316,Pack Bolsa Basura Domestico 25 L,Cuidado del Hogar,Accesorios del Hogar
 669317,Pack Bolsa Basura Domestico 50 L,Cuidado del Hogar,Accesorios del Hogar
 669318,PACK EMERGENCIA BOLSA BASURERA 75L ROLL,Cuidado del Hogar,Accesorios del Hogar
@@ -19740,13 +19748,14 @@ id_producto,producto,categoria,subcategoria
 674431,Mini Torta Delizia Tres Leche 850 ml,Congelados,"Helados, Cassattas y Picoleses"
 674432,Postre Helado Delizia Veggie Quinua Chocolate 400 ml,Congelados,"Helados, Cassattas y Picoleses"
 674464,MINI TORTA PISTACCIO CHOCOLATE DELIZIA 850ML,Congelados,"Helados, Cassattas y Picoleses"
-674466,CHORIZO CHURRASQUERO SOFIA PICANTE A/V 1KILOGRAMO,Fiambres,Fiambres Externos
+674466,Chorizo Churraquero Sofia Picante Al Vacio,Fiambres,Fiambres Externos
 674468,MANTEQUILLA CLARIFICADA GHEE APEGO 12 X,Lácteos y Derivados,Mantequillas y Margarinas
 674470,JAMON COCIDO DE CERDO VILOMA KILOGRAMO,Fiambres,Fiambres Externos
 674471,SALCHICHA SIN PIEL OSFIM VIENIQUESO 1 KILOGRAMO,Fiambres,Fiambres Externos
 674472,YOGURT ENTERO FRUTADO PIL SABOR COCO 700GRS,Lácteos y Derivados,Yogures
 674473,YOGURT ENTERO FRUTADO PIL DURAZNO 700GRS,Lácteos y Derivados,Yogures
 674474,YOGURT ENTERO FRUTADO PIL FRUTILLA 700GRS,Lácteos y Derivados,Yogures
+674475,FILETE CROCANTE DE POLLO FRIDOSA 2 UNIDADES,Congelados,Carnes Congeladas
 674484,SALCHICHA FRANKFURT HASS KILOGRAMO,Fiambres,Fiambres Externos
 674485,MORTADELA HASS TIPO BOLOGNA  KILOGRAMO,Fiambres,Fiambres Externos
 674487,MORTADELA HASS CERVECERO KILOGRAMO,Fiambres,Fiambres Externos
@@ -19760,6 +19769,7 @@ id_producto,producto,categoria,subcategoria
 674509,LECHE PIL DESLACTOSADA TARIJA 850ML BOLSA,Lácteos y Derivados,Leches
 674510,DULCE DE LECHE PIL TARIJA 250GRS,Lácteos y Derivados,Dulces de Leche y Manjares
 674511,YOGURT ESCOLAR PIL TARIJA VARIOS SABORES 90ML,Lácteos y Derivados,Yogures
+674513,"SURTIDO TORITO AL VACIO PZA (LYONEZA,CAZADOR,QUESO DE CHANCH",Fiambres,Fiambres Externos
 674832,Mini Torta Delizia Frutilla 850 ml,Congelados,"Helados, Cassattas y Picoleses"
 674834,MINI TORTA DELIZIA YOGURT SALSA AMARENA 850 ML,Congelados,"Helados, Cassattas y Picoleses"
 675245,Miel de Abeja Eva Promiel 250 gr,Abarrotes,"Mermel, Mieles"
@@ -20899,7 +20909,7 @@ id_producto,producto,categoria,subcategoria
 782788,Piernas de Pato San Jose Congelado kg,Congelados,Carnes Congeladas
 782796,Crema Ultra Rich de Leche 1 L,Lácteos y Derivados,Crema de Leche
 782799,Mantequilla de Ajo Brasuco con Queso 200 gr,Lácteos y Derivados,Mantequillas y Margarinas
-782838,Queso San German 1.5 kg,Lácteos y Derivados,Quesos
+782838,Queso San German 500 gr,Lácteos y Derivados,Quesos
 782894,Pechuga de Pato Congelado Don Jose kg,Congelados,Carnes Congeladas
 782896,Fideo Famosa Cortado Surtido 4 kg,Abarrotes,Básicos
 782976,Helado Arcor Mogul Li Blue 60 cc,Congelados,"Helados, Cassattas y Picoleses"
@@ -23541,6 +23551,7 @@ id_producto,producto,categoria,subcategoria
 868277,PACK H&S 2SH DERMO SENSITIVE 650ML X1U,Cuidado Personal,Cuidado del Cabello
 868279,PACK H&S 1SH FUERTEDESDERAIZ 375ML+1AC30,Cuidado Personal,Cuidado del Cabello
 868283,PACK H&S 2SH FUERTE DESDE RAIZ 650ML X1U,Cuidado Personal,Cuidado del Cabello
+868285,PACK HERBAL 2SH MORINGA 400ML X1U,Cuidado Personal,Cuidado del Cabello
 868286,PACK ORAL B P 2 DUPLO ALIVIO 50ML X1U,Cuidado Personal,Cuidado Bucal
 868288,PACK PANTENE 1SH EXTRALISO 400ML+1AC400M,Cuidado Personal,Cuidado del Cabello
 868294,PACK PANTENE 1SH KERATINA 300ML+1AC 3MM,Cuidado Personal,Cuidado del Cabello
@@ -23858,6 +23869,7 @@ id_producto,producto,categoria,subcategoria
 883416,Tapetaso Mascota Mascotas PrecuentreM,Bazar,Mascotas General
 883455,Boligrafo Monami Rayadito 6 un,Bazar,Librería
 883517,Marcador Monami Acrilico,Bazar,Librería
+883519,Resaltador Monami Jumbo,Bazar,Librería
 883629,Jabonera Rey Practica,Bazar,Baño General
 883695,FOCO TIPO VELA E14 6W LUZ BLANCA LUNIMAR,Bazar,Ferretería
 883698,FOCO TIPO VELA E27 6W LUZ CALIDA LUNIMAR,Bazar,Ferretería
@@ -23892,7 +23904,7 @@ id_producto,producto,categoria,subcategoria
 885810,Desinfectante Aerosol Lysoform Lavanda 360 ml,Cuidado del Hogar,Limpieza de Baños
 885892,CA JUEGO BINGO .50,Juguetería,Juguetería Didáctica/Temporada
 885970,Bolsa Basura Ola 25 Lts 56x50 10 un,Cuidado del Hogar,Accesorios del Hogar
-885975,MARCADOR CD MONAMI X3.15,Bazar,Librería
+885975,Marcador Monami,Bazar,Librería
 885976,Vaso Con Chupador Carlitos 300 ml,Bazar,Articulos de Bebé
 885985,Bolsa Basura Ola 35 Lts 60x63 10 un,Cuidado del Hogar,Accesorios del Hogar
 886002,Parche Leon Arnica 12x18 cm x 1 und,Farmacia Otc,Sistema Nervioso Central
@@ -24069,6 +24081,7 @@ id_producto,producto,categoria,subcategoria
 900808,Vela Catedral Grande 8 un,Bazar,Cotillón
 901218,Sarten Tramontina 28 cm,Bazar,Articulos de Cocina
 901630,Boligrafo Faber Castell Rojo 0.62,Bazar,Librería
+901633,Boligrafo Faber Castell Negro 0.64,Bazar,Librería
 901973,Bidon de 5 L,Bazar,Automotriz
 901976,Exprimidor de Jugo Rey,Bazar,Articulos de Cocina
 901986,SET COLADORES MEDIANOS X 4 PZAS,Bazar,Articulos de Cocina
