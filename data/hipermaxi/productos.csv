@@ -1770,6 +1770,7 @@ id_producto,producto,categoria,subcategoria
 25255,GOMITA FINI BANANAS 15G,Abarrotes,Golosinas - Varias
 25258,BEBIDA FOUR LOKO WHITE LTA 473ML,Bebidas,Licores
 25259,BEBIDA FOUR LOKO WHITE LTA 695ML,Bebidas,Licores
+25279,CERVEZA PROST WINTERBIER LTA 473 ML,Bebidas,Cervezas
 25640,Surtido de Mariscos Robinson Crusoe Natural 190 gr,Abarrotes,Comidas en Conserva
 25771,Huevos Caisy 12 un,Lácteos y Derivados,Huevos
 25789,Galleta Rocklets Chocolate 118 gr,Abarrotes,Galletas
@@ -2310,6 +2311,7 @@ id_producto,producto,categoria,subcategoria
 30564,Extracto de Tomate Cayetana Picante 280 gr,Abarrotes,Salsas y Extracto de Tomate
 30565,Pulpa de Tomate Cayetana 400 gr,Abarrotes,Salsas y Extracto de Tomate
 30567,Sazonador Badia Lemon Frances 70.9 gr,Abarrotes,Condimentos y Legumbres
+30569,Fideos Bisfru de Garbanzo 400 gr,Abarrotes,Básicos
 30570,Pack 3 Agua del Inca 750 ml,Bebidas,Aguas
 30571,Choclo Fugini Crocante 195 gr,Abarrotes,Verduras en Conserva
 30572,Mayonesa Fugini Original 180 gr,Abarrotes,Aderezos
@@ -2485,6 +2487,7 @@ id_producto,producto,categoria,subcategoria
 30796,Galleta Marilan Relleno Chocolate 91 gr,Abarrotes,Galletas
 30798,Snack Detodito Mix 165 gr,Abarrotes,Snack
 30799,Doritos Frito Lays Mega Queso 185 gr,Abarrotes,Snack
+30800,Fideos Bisfru Garbanzo Hortaliza 400 gr sin gluten,Abarrotes,Básicos
 30801,Vodka Rebel Limon 750 ml,Bebidas,Licores
 30802,Pack Te Hindu + 1 Jengibre + 1 Verde + Taza,Abarrotes,Café y Sucedáneos
 30803,Malvavisco Guandy Choco Napolitano 225 gr,Abarrotes,Chocolates y Caramelos
@@ -7722,6 +7725,7 @@ id_producto,producto,categoria,subcategoria
 228139,PASTILLA TODO BRILLO  TANQUE 50G,Cuidado del Hogar,Limpieza de Baños
 228140,PASTILLA TODO BRILLO TANQUE 3X50 GR,Cuidado del Hogar,Limpieza de Baños
 228142,SUAVIZANTE BRISA PLUS TODO BRILLO 800ML,Cuidado del Hogar,Limpieza de la Ropa
+228143,SUAVIZANTE TODO BRILLO FLORAL PLUS 800ML,Cuidado del Hogar,Limpieza de la Ropa
 228144,DESMAQUILLANTE BIFASICO REVIVE 200ML POT,Cuidado Personal,Cuidado del Adulto
 228145,Ron Havana Club 3 Años 1 L,Bebidas,Licores
 228146,PASTILLA BANO TODOBRILLO FLORAL 40G,Cuidado del Hogar,Limpieza de Baños
@@ -7730,6 +7734,7 @@ id_producto,producto,categoria,subcategoria
 228151,SHAMPOO BIOCERAMIDAS REVIVE 850ML DP,Cuidado Personal,Cuidado del Cabello
 228152,SHAMPOO REPARACION INTENSO REVIVE 850ML,Cuidado Personal,Cuidado del Cabello
 228153,TOALLITA HUMEDAS CARISSA BABY 100 UNID,Cuidado del Bebé,Cuidado del Bebé
+228154,PANUELO FINESSE DIA DIA 4 UDS,Cuidado Personal,Cuidado Familiar
 228155,ESPONJA SCOTCH BRITE X4 Y CUBIERTA,Cuidado del Hogar,Accesorios del Hogar
 228156,PANUELO FINESSE DIA A DIA 6 UNDS,Cuidado Personal,Cuidado Familiar
 228161,DETERGENTE POLVO SURF COCO 150 GR,Cuidado del Hogar,Limpieza de la Ropa
@@ -11920,7 +11925,7 @@ id_producto,producto,categoria,subcategoria
 497800,Cerveza Paceña Pico de Plata 300 ml,Bebidas,Cervezas
 497877,Cereal Granix Copos Azucar 300 gr,Abarrotes,Nutrición Infantil
 498250,Gaseosa Inca Kola 355 ml,Bebidas,Bebidas Usa
-498750,Limpiador de Baño Ola Maximus Antisarro 550 ml,Cuidado del Hogar,Limpieza de Baños
+498750,Limpiador de Baño Ola Maximus Antisarro 500 ml,Cuidado del Hogar,Limpieza de Baños
 499331,JABON SENADOR GLICERINA RED 130 GR,Cuidado Personal,Cuidado de la Piel
 499501,Champagne Chandon Extra Brut 750 ml,Bebidas,Vinos y Champagne
 500364,Cafe Buena Vista Tostado Europeo 250 gr,Abarrotes,Café y Sucedáneos
@@ -12743,6 +12748,7 @@ id_producto,producto,categoria,subcategoria
 550971,Avena Instantanea Princesa Caja 300 gr,Abarrotes,Nutrición Infantil
 550972,Sal Ahumada Saborati 220 gr,Abarrotes,Básicos
 550974,SAL CITRICA SABORATI DP 220G,Abarrotes,Básicos
+550975,SAL AL VINO SABORATI DP 220G,Abarrotes,Básicos
 550976,Sal Chimichurri Saborati 220 gr,Abarrotes,Básicos
 550977,Alimento Dog Chow Adulto Cordero 100 gr,Abarrotes,Mascotas
 550978,Alimento Dog Chow Extralife Pollo 100 gr,Abarrotes,Mascotas
@@ -13983,6 +13989,7 @@ id_producto,producto,categoria,subcategoria
 553075,Chocolate Garoto Chocotrio Prestigio,Abarrotes,Chocolates y Caramelos
 553076,Malvavisco Guandy Rosa Blanco Chocolate 225 gr,Abarrotes,Chocolates y Caramelos
 553077,Galleta Costa Chocodonuts 204 gr,Abarrotes,Galletas
+553079,Alimento Faro Carne Pollo vegetales Raza Mediana,Abarrotes,Mascotas
 553080,Alimento Faro Carne Pollo Vegetales Raza Pequeña,Abarrotes,Mascotas
 553081,Alimento Faro Carne Pollo Vegetales Raza Mediana,Abarrotes,Mascotas
 553082,Alimento Faro Gatito Carne Salsa,Abarrotes,Mascotas
@@ -14193,6 +14200,7 @@ id_producto,producto,categoria,subcategoria
 553349,PACK 12 CERVEZA AMSTEL LATA 473ML,Bebidas,Cervezas
 553352,VAPE WAKA CREATOR STRAWBE KIWI 5P 12000P,Bebidas,Cigarrillos
 553353,VAPE WAKA SOLO 2GRAPE APPLE 5P 2500P,Bebidas,Cigarrillos
+553356,PACK 6 CERVEZA PROST LAGER LTA 310 ML,Bebidas,Cervezas
 553360,SNACK DR PICKS PICKESOS 26GR,Abarrotes,Snack
 553361,PACK RAMEN MAXIMO 4X85G,Abarrotes,Básicos
 553364,PACK GALLETAS COLOMBINA X2,Abarrotes,Galletas
@@ -18132,6 +18140,7 @@ id_producto,producto,categoria,subcategoria
 669359,GILL PREST3 CARBON 4PX36U,Cuidado Personal,Cuidado de la Piel
 669360,ORALB PACK CEPILLOS ADVAN 7 BENEF 3 PZAS,Cuidado Personal,Cuidado Bucal
 669361,GILL PREST3 CARBON 2PX72U,Cuidado Personal,Cuidado de la Piel
+669363,SEDAL MASC TRAT LUMINOSO UV 6X300G,Cuidado Personal,Cuidado del Cabello
 669364,PANOS MICROFIBRA TOTES REUTILIZABLE 30 H,Cuidado del Hogar,Accesorios del Hogar
 669365,PANOS MICROFIBRA TOTES REUTILIZABLE 30 H,Cuidado del Hogar,Accesorios del Hogar
 669366,PAPEL TOALLA SEDA 200 MTS,Cuidado del Hogar,Limpieza de Cocina
@@ -19770,6 +19779,8 @@ id_producto,producto,categoria,subcategoria
 674510,DULCE DE LECHE PIL TARIJA 250GRS,Lácteos y Derivados,Dulces de Leche y Manjares
 674511,YOGURT ESCOLAR PIL TARIJA VARIOS SABORES 90ML,Lácteos y Derivados,Yogures
 674513,"SURTIDO TORITO AL VACIO PZA (LYONEZA,CAZADOR,QUESO DE CHANCH",Fiambres,Fiambres Externos
+674524,DELINARANJA SACHET 170ML DELIZIA,Lácteos y Derivados,Leches
+674525,DELITORONJA SACHET 170ML DELIZIA,Lácteos y Derivados,Leches
 674832,Mini Torta Delizia Frutilla 850 ml,Congelados,"Helados, Cassattas y Picoleses"
 674834,MINI TORTA DELIZIA YOGURT SALSA AMARENA 850 ML,Congelados,"Helados, Cassattas y Picoleses"
 675245,Miel de Abeja Eva Promiel 250 gr,Abarrotes,"Mermel, Mieles"
@@ -23349,6 +23360,7 @@ id_producto,producto,categoria,subcategoria
 858727,Juguete Habitacion Princesa Desarmado 47 pz,Juguetería Importación,Juguetería Niña/Bebé
 858760,Fideo Famosa Tallarin 30 1 kg,Abarrotes,Básicos
 858772,Muñeca Ropa Enfermera,Juguetería Importación,Juguetería Niña/Bebé
+858824,Albahaca badia 4 oz,Abarrotes,Productos Americanos
 858847,Paragua Compacto 53 Cm Varios Colores,Bazar Importación,Bijouteria/Cuidado Personal
 859071,Taza Ceramica,Bazar,Articulos de Cocina
 859088,Cepillo de Cabello Revlon Liso Suavidad,Bazar,Bijouteria/Cuidado Personal
