@@ -1761,6 +1761,8 @@ id_producto,producto,categoria,subcategoria
 25237,SAL ROSADA ESSENCIAL FINA BSA 650G,Abarrotes,Básicos
 25238,CEREAL CHOCAPIC NESTLE CJA 540G,Abarrotes,Nutrición Infantil
 25239,CHICLE TOPLINE7 ULTRA DOBLE 24G,Abarrotes,Golosinas - Varias
+25240,EDULCORANTE HECODULC C STEVIA LIQ 250ML,Abarrotes,Dietéticos y Saludables
+25241,EDULCORANTE HECODULC C STEVIA LIQ 100ML,Abarrotes,Dietéticos y Saludables
 25242,MARSMALLOWS CRISMELOS MINI BLANCO 240G,Abarrotes,Chocolates y Caramelos
 25243,GALLETA RELL AVENTURA VAINILLA 120G,Abarrotes,Galletas
 25244,GALLETA RELL AVENTURA CHOCOCREMA 120G,Abarrotes,Galletas
@@ -4585,7 +4587,7 @@ id_producto,producto,categoria,subcategoria
 108905,Detergente Polvo Bianco Coco 5 kg,Cuidado del Hogar,Limpieza de la Ropa
 108906,Desodorante Barra Axe Antitraspirante Ice Chill 50 gr,Cuidado Personal,Cuidado de la Piel
 108912,Detergente Polvo Patito Floral 640 gr,Cuidado del Hogar,Limpieza de la Ropa
-108915,Insecticida Raid Mata Cucaracha Cebo 6 un,Cuidado del Hogar,Productos Americanos
+108915,Insecticida Raid Mata Cucaracha Cebo 30 gr,Cuidado del Hogar,Productos Americanos
 108936,Bicarbonato El Cocinero 35 gr,Abarrotes,Condimentos y Legumbres
 108940,Cepillo Dental Dentalclean Peppa Suave 2 un,Cuidado del Bebé,Kids
 108944,Cremor Tartaro El Cocinero 25 gr,Abarrotes,Condimentos y Legumbres
@@ -6572,6 +6574,7 @@ id_producto,producto,categoria,subcategoria
 203140,PACK ANT IMPERFECCION SERUM EXFOLIA MASC,Cuidado Personal,Cuidado de la Piel
 203141,LABIAL VOGUE BARRA MAGENTA,Cuidado Personal,Cuidado de la Piel
 203143,LABIAL VOGUE BARRA COCOA,Cuidado Personal,Cuidado de la Piel
+203144,LABIAL VOGUE BARRA CEREZA,Cuidado Personal,Cuidado de la Piel
 203145,LABIAL VOGUE BARRA PASION,Cuidado Personal,Cuidado de la Piel
 203159,Masticable Casal Yogus Surtido 300 gr,Abarrotes,Golosinas - Varias
 203227,Chocolate Arcor Aguila Gota 150 gr,Abarrotes,Repostería
@@ -7061,6 +7064,7 @@ id_producto,producto,categoria,subcategoria
 222204,Paño Todo Brillo De Piso 50x60 cm,Cuidado del Hogar,Accesorios del Hogar
 222205,Lavavajilla Hogar Inteligente Antibacterial,Cuidado del Hogar,Limpieza de Cocina
 222206,Toallas Higienicas Tena Discreet Maxi Night 10 un,Cuidado Personal,Cuidado del Adulto
+222207,GEL P CEJA TATTO MAYBELLINE BROW 3D,Cuidado Personal,Cuidado de la Piel
 222209,Gel de Cejas Maybelline 3D Medium Brown,Cuidado Personal,Cuidado de la Piel
 222210,Gel de Cejas Maybelline Tattoo 3D Warm Brown,Cuidado Personal,Cuidado de la Piel
 222217,Base Fit Me Fresh Tint Fps50 02,Cuidado Personal,Cuidado de la Piel
@@ -14187,6 +14191,7 @@ id_producto,producto,categoria,subcategoria
 553308,GALLETA ANDES TROPICO QUINUA 200 GR,Abarrotes,Galletas
 553309,CEREAL ORGANICA DEL SUR ARITOS FRUTAS 38,Abarrotes,Nutrición Infantil
 553313,PIPOCA GUADIA MANTEQUILLA PACK 6X25GR,Abarrotes,Snack
+553315,CHOCOLATE PAITITI 99P STEVIA 67 GR,Abarrotes,Dietéticos y Saludables
 553316,CHOCOLATE PAITITI 100P SIN AZUCAR 67 GR,Abarrotes,Dietéticos y Saludables
 553317,CHOCOLATE PAITITI 100P SIN AZUCAR 100 GR,Abarrotes,Dietéticos y Saludables
 553320,PACK 12X6 CERVEZA BUDWEISER 269 CC,Bebidas,Cervezas
@@ -14201,6 +14206,7 @@ id_producto,producto,categoria,subcategoria
 553332,BEBIDA CIN COCO BOT 3 LT,Bebidas,Bebidas Varias
 553333,BEBIDA CIN LINAZA BOT 3 LT,Bebidas,Bebidas Varias
 553335,LECHE EN POLVO NIDO 1 DP 2 KG,Abarrotes,Nutrición Infantil
+553338,LECHE COCO POLVO FIT MIT POTE 500 GR,Abarrotes,Nutrición Infantil
 553340,LECHE DORADA POLVO FIT MIT POTE 500 GR,Abarrotes,Nutrición Infantil
 553341,GIN INSURGENTE FRUTILLA BOT 1 LT,Bebidas,Licores
 553344,GINEBRA INSURGENTE BOT 1 LT,Bebidas,Licores
@@ -14211,6 +14217,7 @@ id_producto,producto,categoria,subcategoria
 553349,PACK 12 CERVEZA AMSTEL LATA 473ML,Bebidas,Cervezas
 553352,VAPE WAKA CREATOR STRAWBE KIWI 5P 12000P,Bebidas,Cigarrillos
 553353,VAPE WAKA SOLO 2GRAPE APPLE 5P 2500P,Bebidas,Cigarrillos
+553354,KIT WAKA CREATOR STRAWBERRY WAT 5P 12000,Bebidas,Cigarrillos
 553356,PACK 6 CERVEZA PROST LAGER LTA 310 ML,Bebidas,Cervezas
 553360,SNACK DR PICKS PICKESOS 26GR,Abarrotes,Snack
 553361,PACK RAMEN MAXIMO 4X85G,Abarrotes,Básicos
@@ -18167,6 +18174,7 @@ id_producto,producto,categoria,subcategoria
 669379,Detergente para Ropa Tide Pods Capsulas Odor + Oxi 826 g,Cuidado del Hogar,Productos Americanos
 669383,Ambientador Febreze Fresch 250 ml,Cuidado del Hogar,Productos Americanos
 669384,Ambientador Febreze limon 250 ml,Cuidado del Hogar,Productos Americanos
+669395,DEO BARRA OLD SPICE DRAGONBLAST 50GR,Cuidado Personal,Cuidado de la Piel
 669396,DEO SPRAY OLD SPICE DRAGONBLAST 150ML,Cuidado Personal,Cuidado de la Piel
 669901,Pizza Hipermaxi Congelada Hawaiana 620 gr,Congelados,Masas y Comidas Congeladas
 669902,Pizza Hipermaxi Congelada Jamon Queso Light Masa Integral,Congelados,Masas y Comidas Congeladas
@@ -19141,6 +19149,28 @@ id_producto,producto,categoria,subcategoria
 673246,Yogurt Pairumani Frutilla 250 ml,Lácteos y Derivados,Yogures
 673247,Yogurt Pairumani Durazno 250 ml,Lácteos y Derivados,Yogures
 673248,Yogurt Pairumani Mora 250 ml,Lácteos y Derivados,Yogures
+673249,BIFE ANCHO PARRILLERO HIPERMAXI AL VACIO KILOGRAMO,Carnes,Carne de Res
+673251,KEPERI HIPERMAXI AL VACIO KGR,Carnes,Carne de Res
+673253,CHULETA DE LOMO HIPERMAXI AL VACIO KGR,Carnes,Carne de Res
+673255,TIRA DE RES PRIMER CORTE HIPERMAXI AL VACIO KGR,Carnes,Carne de Res
+673256,CARNE PARA PACUMUTU HIPERMAXI AL VACIO KGR,Carnes,Carne de Res
+673257,COWBOY STEAK HIPERMAXI AL VACIO KGR,Carnes,Carne de Res
+673258,CARNE PARA ASADO EN OLLA HIPERMAXI AL VACIO KGR,Carnes,Carne de Res
+673259,CARNE LAMINADA HIPERMAXI AL VACIO KGR,Carnes,Carne de Res
+673260,CARNE PARA HORNO HIPERMAXI AL VACIO KGR,Carnes,Carne de Res
+673262,CARNE PICADA CORTE FINO HIPERMAXI AL VACIO KGR,Carnes,Carne de Res
+673264,BOLLO CHICO HIPERMAXI AL VACIO KGR,Carnes,Carne de Res
+673265,BOLLO GRANDE HIPERMAXI AL VACIO KGR,Carnes,Carne de Res
+673267,COLITA DE CUADRIL HIPERMAXI AL VACIO KGR,Carnes,Carne de Res
+673269,PUNTA DE S HIPERMAXI AL VACIO KGR,Carnes,Carne de Res
+673270,COSTILLA CHURRASQUERA HIPERMAXI AL VACIO KGR,Carnes,Carne de Res
+673271,LOMO PARRILLERO HIPERMAXI AL VACIO KGR,Carnes,Carne de Res
+673272,CORTE CUADRADA HIPERMAXI AL VACIO KGR,Carnes,Carne de Res
+673273,CORTE CUADRIL HIPERMAXI AL VACIO KGR,Carnes,Carne de Res
+673274,FILETE HIPERMAXI AL VACIO KGR,Carnes,Carne de Res
+673276,TOMAHAWK STEAK HIPERMAXI AL VACIO KGR,Carnes,Carne de Res
+673277,ENTRANA FINA HIPERMAXI AL VACIO KGR,Carnes,Carne de Res
+673278,POLLERITA HIPERMAXI AL VACIO KGR,Carnes,Carne de Res
 673280,Helado Delizia Rocky 1 L,Congelados,"Helados, Cassattas y Picoleses"
 673281,Helado Delizia Ricoco Chocolate 1 L,Congelados,"Helados, Cassattas y Picoleses"
 673289,Fileteitos Pimienta Cayena Sofia 300 gr,Congelados,Carnes Congeladas
@@ -20403,7 +20433,7 @@ id_producto,producto,categoria,subcategoria
 695819,DR. SELBY PROTECTOR LABIAL FPS15,Cuidado Personal,Cuidado de la Piel
 695822,Protector Solar Facial 2.0 Sunless Fps 60,Cuidado Personal,Cuidado de la Piel
 695823,Protector Solar Facial 3.0 Sunless Fps 60 40 gr,Cuidado Personal,Cuidado de la Piel
-695824,PROT. SOL. FACIAL FPS60 4.0 SUNLESS 40G,Cuidado Personal,Cuidado de la Piel
+695824,Protector Solar Facial 4.0 Sunless Fps 60 40 gr,Cuidado Personal,Cuidado de la Piel
 695825,PROTECTOR SOLAR FACIAL FPS60 S/COLOR SUN,Cuidado Personal,Cuidado de la Piel
 695856,Limpiador Desinfectante Ola Aromatic Flores 900 ml,Cuidado del Hogar,Limpieza de Baños
 695905,Limpiador Desinfectante Ola Aromatic Brisa Marina 900 ml,Cuidado del Hogar,Limpieza de Baños
@@ -20554,6 +20584,7 @@ id_producto,producto,categoria,subcategoria
 736178,Ravioles Mendia Ricota Espinaca 5000 gr,Congelados,Masas y Comidas Congeladas
 736181,Ravioles Mendia Pollo Espinacas 500 gr,Congelados,Masas y Comidas Congeladas
 736192,Ravioles Mendia Ricota Jamon 500 gr,Congelados,Masas y Comidas Congeladas
+740123,QUESO PROVOLONE ORIGINAL PARR.EL AVILA 250 GRS.,Lácteos y Derivados,Quesos
 741200,Pan con Ajo Clasico Mil Sabores 5 un,Panadería,Panadería Externa
 741202,Cuñape Congelado Mil Sabores 10 un,Congelados,Masas y Comidas Congeladas
 741213,Linguica Calabresa Pernil Cerdo La Boteca 500 gr,Fiambres,Fiambres Externos
@@ -21640,6 +21671,7 @@ id_producto,producto,categoria,subcategoria
 800142,Cigarrillo L&M Rojo 10 un,Bebidas,Cigarrillos
 800266,Fideo Matarazzo 3 Vegetales Mostachol 500 gr,Abarrotes,Básicos
 800271,Fideo Matarazzo 3 Vegetales Tirabuzon 500 gr,Abarrotes,Básicos
+800278,Bowl de Acero Inoxidable 1.8 lt,Bazar Importación,Menaje Metálico
 800664,CH 235 CEPILLO CILINDRICO PARA CABELLO 23X5X2CM,Bazar Importación,Bijouteria/Cuidado Personal
 800665,CH 236 CEPILLO FONDO CAFE CUADRADO 25X2X9CM,Bazar Importación,Bijouteria/Cuidado Personal
 800669,CH 13 237 CEPILLO FONDO CAFE OVALADO 24X7X2CM,Bazar Importación,Bijouteria/Cuidado Personal
@@ -21987,14 +22019,23 @@ id_producto,producto,categoria,subcategoria
 835623,Corte Español 1 kg,Carnes,Carne de Res
 835645,Posa Olla de Bambu Cuadrado,Bazar Importación,Cocina General
 835658,Bife Chorizo Especial 1 kg,Carnes,Carne de Res
+835690,Bife de Chorizo Especial al Vacio kg,Carnes,Carne de Res
 835691,PUNTA DE S 1KG AL VACIO,Carnes,Carne de Res
+835692,Filete de Lomo al Vacio kg,Carnes,Carne de Res
+835694,Pollerita Pura Carne al Vacio kg,Carnes,Carne de Res
+835695,Cuadril Especial al Vacio kg,Carnes,Carne de Res
+835697,Bollo Chico al Vacio kg,Carnes,Carne de Res
+835700,Bollo Grande Especial al Vacio kg,Carnes,Carne de Res
 835720,Set Bombillas Halloween 6 un,Bazar Importación,Temporada Halloween
 835730,CH N25 16 ADORNO ARANA SET X 2 10X6CM,Bazar Importación,Temporada Halloween
 835737,CH N25 3 BALDE CALABAZA HALLOWEEN 18X12CM,Bazar Importación,Temporada Halloween
 835750,TORTUGUITA 1KG AL VACIO,Carnes,Carne de Res
 835751,TIRA DE RES 1KG A/V,Carnes,Carne de Res
 835755,COSTILLA ESPECIAL 1KG AL VACIO,Carnes,Carne de Res
+835756,CHULETA DE LOMO 1KG A/V,Carnes,Carne de Res
+835757,T BONE STEAK 1 KG A/V,Carnes,Carne de Res
 835758,TOMAHAWK STEAK 1KG A V,Carnes,Carne de Res
+835759,Picaña al Vacio kg,Carnes,Carne de Res
 835763,CH N20 6 BOLAS NAVIDENAS SET X6PZAS 6CM,Bazar Importación,Temporada Navidad
 835764,CH N20 7 BOLAS NAVIDENAS SET X6PZAS 6CM,Bazar Importación,Temporada Navidad
 835765,CH N20 3 CENTRO DE MESA PORTA VELA X4 21X21CM,Bazar Importación,Temporada Navidad
