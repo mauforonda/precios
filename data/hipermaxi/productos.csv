@@ -1777,6 +1777,7 @@ id_producto,producto,categoria,subcategoria
 25267,KETCHUP PICKLES CEPERA PET 350G,Abarrotes,Aderezos
 25272,PURE D PAPA KRIS INSTANT TOCINO 125G,Abarrotes,Básicos
 25279,CERVEZA PROST WINTERBIER LTA 473 ML,Bebidas,Cervezas
+25282,LONCHERA JUGUITO PIL UND,Bebidas,"Jugos, Néctar"
 25640,Surtido de Mariscos Robinson Crusoe Natural 190 gr,Abarrotes,Comidas en Conserva
 25771,Huevos Caisy 12 un,Lácteos y Derivados,Huevos
 25789,Galleta Rocklets Chocolate 118 gr,Abarrotes,Galletas
@@ -6843,6 +6844,8 @@ id_producto,producto,categoria,subcategoria
 220302,Media Lunas Mamina 6 un,Panadería,Panadería Externa
 220365,Crema Hidratante Loreal Age Perfect Noche 50 ml,Cuidado Personal,Cuidado de la Piel
 220370,Chocolate Costa Vizzio 72 gr,Abarrotes,Chocolates y Caramelos
+220373,Pack Tinte Nutrisse Garnier Tono 60 + Estuche,Cuidado Personal,Cuidado del Cabello
+220374,Pack Tinte Nutrisse Garnier Tono 40 + Estuche,Cuidado Personal,Cuidado del Cabello
 220376,Jabon Barra Zote Finas Escamas 500 gr,Cuidado del Hogar,Limpieza de la Ropa
 220377,Papel Higienico Premier Soft Turquesa 12 un,Cuidado Personal,Cuidado Familiar
 220378,Papel Higienico Premier Soft Turquesa 8 un,Cuidado Personal,Cuidado Familiar
@@ -7331,6 +7334,7 @@ id_producto,producto,categoria,subcategoria
 223789,Detergente Liquido Urca Maxx Verde 5 L,Cuidado del Hogar,Limpieza de la Ropa
 223790,Detergente Polvo Urca Maxx 3 kg,Cuidado del Hogar,Limpieza de la Ropa
 223791,Detergente Polvo Urca Maxx 5 kg,Cuidado del Hogar,Limpieza de la Ropa
+223792,Pañal Tena Slip Dermacare L 20 un,Cuidado Personal,Cuidado del Adulto
 223798,Escoba Novica Jumbo Esfrebom Escobillon,Cuidado del Hogar,Accesorios del Hogar
 223800,Alcohol Nostas 70% 1 L,Cuidado Personal,Cuidado de la Piel
 223801,Alcohol Nostas 70% 600 ml,Cuidado Personal,Cuidado de la Piel
@@ -7731,6 +7735,7 @@ id_producto,producto,categoria,subcategoria
 228121,TOALLA HUMEDA DULCO FROZEN 100 UNDS,Cuidado del Bebé,Cuidado del Bebé
 228122,TOALLA HUMEDA DULCO PRINCESA 100 UNDS,Cuidado del Bebé,Cuidado del Bebé
 228123,TOALLA HUMEDA DULCO SPIDERMAN 100 UNDS,Cuidado del Bebé,Cuidado del Bebé
+228124,DEO SPRAY OLD SPICE AT DRAGONBLAST 150ML,Cuidado Personal,Cuidado de la Piel
 228126,CREMA PEINAR PANTENE ANTICAIDA 300ML,Cuidado Personal,Cuidado del Cabello
 228127,ACOND PANTENE ANTICAIDA 250ML,Cuidado Personal,Cuidado del Cabello
 228130,SHAMPOO PANTENE ANTICAIDA 510ML,Cuidado Personal,Cuidado del Cabello
@@ -7763,6 +7768,9 @@ id_producto,producto,categoria,subcategoria
 228166,PASTA DENTAL KIDS FRESA CARISSA 50G,Cuidado del Bebé,Kids
 228167,PASTA DENTAL TRIPLE ACCION CARISSA 50G,Cuidado Personal,Cuidado Bucal
 228169,SHAMPOO CONTRO CAIDA REVIVE 850ML DP,Cuidado Personal,Cuidado del Cabello
+228180,ACONDIC ELVIVE DREAM LONG SLEEK 370 ML,Cuidado Personal,Cuidado del Cabello
+228181,ACONDIC ELVIVE DREAM LONG SLEEK 680 ML,Cuidado Personal,Cuidado del Cabello
+228191,PAPEL FINESSE PREMIUN 4X12,Cuidado Personal,Cuidado Familiar
 228670,DESTAPA CANERIAS EN GEL TODO BRILLO 1LT,Cuidado del Hogar,Limpieza de Baños
 228673,TOALLA HUMEDA PROBLOCK MANZANILLA  ALOE,Cuidado del Bebé,Cuidado del Bebé
 228725,Galleta Granix Cereal 185 gr,Abarrotes,Galletas
@@ -8307,6 +8315,7 @@ id_producto,producto,categoria,subcategoria
 249031,Suavizante Ropa Downy Exotico 2800 ml,Cuidado del Hogar,Limpieza de la Ropa
 249032,Suavizante Ropa Downy Amanecer 700 ml,Cuidado del Hogar,Limpieza de la Ropa
 249034,Esponja Multiuso Todo Brillo,Cuidado del Hogar,Accesorios del Hogar
+249036,EXFOLIANTE PORTUGAL TUBO 110 ML,Cuidado Personal,Cuidado de la Piel
 249037,CREMA PORTUGAL LECHE LIMPIADORA 210 GR,Cuidado Personal,Cuidado de la Piel
 249039,CREMA PORTUGAL ALOE PEPINO 100 GR,Cuidado Personal,Cuidado de la Piel
 249043,Talco Portugal Mentol Verde 75 gr,Cuidado Personal,Cuidado de la Piel
@@ -8871,6 +8880,7 @@ id_producto,producto,categoria,subcategoria
 306781,Salchicha Bordon Aperitivo 150 gr,Abarrotes,Comidas en Conserva
 306835,Shampoo Capilatis Ortiga Concentrado 410ml,Cuidado Personal,Cuidado del Cabello
 307100,Galleta Ferrari Ghezzi Melitas 270 gr,Abarrotes,Galletas
+307101,Cereal Granix Esferas Chocolatadas 190 gr,Abarrotes,Nutrición Infantil
 307107,Cereal Granix Corn Flakes 350 gr,Abarrotes,Nutrición Infantil
 307112,Galleta Mabel Tripack Maria Maizena 270 gr,Abarrotes,Galletas
 307114,Nacho La Mejicana con Sal 224 gr,Abarrotes,Snack
@@ -9857,6 +9867,7 @@ id_producto,producto,categoria,subcategoria
 353030,Espiral Raid 12 Noches 150 gr,Cuidado del Hogar,Productos Americanos
 353031,Paño Mr.Trapo Rejilla 38x40 cm,Cuidado del Hogar,Productos Americanos
 353070,LABIAL LEBLON UNGUENTO X 8GR,Cuidado Personal,Cuidado de la Piel
+353102,DEO.GILLETTE ARTIC ICE GEL 85 GR.,Cuidado del Hogar,Productos Americanos
 353110,Nacho Zacatecas de Maiz 150 gr,Abarrotes,Snack
 353130,Fragancia Corporal Aromasense Intense Kiss 250 ml,Cuidado Personal,Cuidado de la Piel
 353131,Fragancia Corporal Aromasense Intense Life 250 ml,Cuidado Personal,Cuidado de la Piel
@@ -14101,6 +14112,7 @@ id_producto,producto,categoria,subcategoria
 553176,Pack 12 Gaseosa Pepsi Black 250 cc,Bebidas,Gaseosas
 553177,Chocolate MYM Crispy 35 gr,Abarrotes,Golosinas - Varias
 553178,CHOCOLATE TWIX TRIPLE CHOCOLATE 40 GR,Abarrotes,Golosinas - Varias
+553179,CHOCOLATE SNICKER DARK 42 GR,Abarrotes,Golosinas - Varias
 553180,PIPOCA JOHNS POP SWEET SALTY 100 GR,Abarrotes,Snack
 553181,Fruta Deshidratada Confrut Frutilla Trozos 50 gr,Abarrotes,Frutas en Conserva
 553182,Mango Deshidratado Confrut 50 gr,Abarrotes,Frutas en Conserva
@@ -14234,6 +14246,7 @@ id_producto,producto,categoria,subcategoria
 553365,PACK GALLETAS COLOMBINA BRINKY X2,Abarrotes,Galletas
 553366,GRAGEAS RUAH CAFE CHOCOLATE 75P STEVIA,Abarrotes,Chocolates y Caramelos
 553368,GRAGEA QUINUA RUAH CHOCOLATE STEVIA  50,Abarrotes,Chocolates y Caramelos
+553376,CEREAL CHOCAPIC ORIGINAL BSA 90 GR,Abarrotes,Nutrición Infantil
 554333,Cerveza Paceña Lata Roja 473 Cc,Bebidas,Cervezas
 554466,Detergente Liquido Ola Futuro Limpieza Completa 5 L,Cuidado del Hogar,Limpieza de la Ropa
 554468,Suavizante Ropa Ola Suavecito Original 5 L,Cuidado del Hogar,Limpieza de la Ropa
@@ -18425,6 +18438,7 @@ id_producto,producto,categoria,subcategoria
 671003,Pesto Valenciana Gourmet Tomate 200 gr,Abarrotes,Aderezos
 671004,Hummus de Quinua Valenciana Gourmet 200 gr,Fiambres,Fiambres Externos
 671008,Queso Fresco Altiplano 800 gr,Lácteos y Derivados,Quesos
+671010,501606 PIERNA MUSLO DE POLLO SOFIA BANDEJA KILOGRAMO,Carnes,Carne de Pollo
 671011,Pechuga sin Piel Sofia Bandeja kg,Carnes,Carne de Pollo
 671012,Chorizo Parrillero Dillmann Tipo Argentino kg,Fiambres,Fiambres Externos
 671034,Mortadela Primavera de Pollo Dillman kg,Fiambres,Fiambres Externos
@@ -20279,6 +20293,7 @@ id_producto,producto,categoria,subcategoria
 679483,Queso La Merced con Jamon Ahumado,Lácteos y Derivados,Quesos
 679484,Queso La Merced con Paprika,Lácteos y Derivados,Quesos
 679486,Queso La Merced con Sesamo,Lácteos y Derivados,Quesos
+679574,BEBIDA DELIZIA DELIMON 200ML,Lácteos y Derivados,Leches
 679576,Galleta Gustossi Casera Almendra 400 gr,Abarrotes,Galletas
 679583,Mantequilla de Mani Jif Extra Crunchy 16 oz,Abarrotes,Productos Americanos
 679584,Crema de Mani Jif 16 oz,Abarrotes,Productos Americanos
