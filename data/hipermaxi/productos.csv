@@ -1774,6 +1774,7 @@ id_producto,producto,categoria,subcategoria
 25257,SNACK PITA CHIPS CEBOLLA BSA 150G,Abarrotes,Snack
 25258,BEBIDA FOUR LOKO WHITE LTA 473ML,Bebidas,Licores
 25259,BEBIDA FOUR LOKO WHITE LTA 695ML,Bebidas,Licores
+25262,CREMA P CAFE COUNTRY BARN 16 OZ,Abarrotes,Café y Sucedáneos
 25265,CHOCLO CEPERA LTA 170G,Abarrotes,Verduras en Conserva
 25267,KETCHUP PICKLES CEPERA PET 350G,Abarrotes,Aderezos
 25272,PURE D PAPA KRIS INSTANT TOCINO 125G,Abarrotes,Básicos
@@ -2347,7 +2348,7 @@ id_producto,producto,categoria,subcategoria
 30600,SALSA PROMOS LUISIANA HOT 12 OZ,Abarrotes,Aderezos
 30601,Syrup para Pancake Country Barn 355 ml,Abarrotes,Repostería
 30602,Salsa Colgin Hickory Smoke 16 oz,Abarrotes,Aderezos
-30603,"MUFFIN MARTHA WHITE BIRTHDAY CAKE 7,2 OZ",Abarrotes,Repostería
+30603,Muffin Martha White Birthday Cake 7.2 oz,Abarrotes,Repostería
 30604,Caipirinha Dom Tapparo Limon 1 L,Bebidas,Licores
 30605,Coctel Dom Tapparo Mandarina 1 L,Bebidas,Licores
 30606,Vino Escorihuela Sauvignon Blanco 750 ml,Bebidas,Vinos y Champagne
@@ -5586,6 +5587,7 @@ id_producto,producto,categoria,subcategoria
 120543,LABIAL VOGUE RESIST SONADORA,Cuidado Personal,Cuidado de la Piel
 120545,Ambientador Little Trees Arbolito Surtido,Bazar,Automotriz
 120546,LABIAL VOGUE RESIST ELEGANTE,Cuidado Personal,Cuidado de la Piel
+120548,LABIAL VOGUE RESIST SOFISTICADA,Cuidado Personal,Cuidado de la Piel
 120550,Esmalte de Uña Vogue Efecto Gel Acai,Cuidado Personal,Cuidado de la Piel
 120551,Esmalte de Uña Vogue Efecto Gel Flora,Cuidado Personal,Cuidado de la Piel
 120552,Esmalte de Uña Efecto Gel Flamingo,Cuidado Personal,Cuidado de la Piel
@@ -8335,6 +8337,7 @@ id_producto,producto,categoria,subcategoria
 249049,SHAMPOO PORTUGAL BEBE ALOE 120 ML,Cuidado del Bebé,Cuidado del Bebé
 249051,SHAMPOO PORTUGAL BEBE ALOE 250 ML,Cuidado del Bebé,Cuidado del Bebé
 249052,Talco Portugal Bebe Zinc 250 gr,Cuidado del Bebé,Cuidado del Bebé
+249056,BLOQUEADOR PORTUGAL BAHIA KIDS SPF50 60,Cuidado del Bebé,Kids
 249057,Bloqueador Portugal Bahia Sport Spf 50 60 gr,Cuidado Personal,Cuidado de la Piel
 249058,GEL FIJADOR SUPER FIX  275G,Cuidado Personal,Cuidado del Cabello
 249061,Protector Solar Sunbeat 50 + Diario 90 gr,Cuidado Personal,Cuidado de la Piel
@@ -14129,11 +14132,13 @@ id_producto,producto,categoria,subcategoria
 553181,Fruta Deshidratada Confrut Frutilla Trozos 50 gr,Abarrotes,Frutas en Conserva
 553182,Mango Deshidratado Confrut 50 gr,Abarrotes,Frutas en Conserva
 553183,Platano Entero Deshidratado Confrut 100 gr,Abarrotes,Frutas en Conserva
+553186,Mermelada Confrut Frut Rellena Curcuma 500 gr,Abarrotes,"Mermel, Mieles"
 553187,Mermelada Confrut Durazno Yacon 50 gr,Abarrotes,"Mermel, Mieles"
 553189,Mermelada Confrut Mora Yacon 500 gr,Abarrotes,"Mermel, Mieles"
 553190,MANI CONFRUT PELADO TOSTADO 100 GR,Abarrotes,Frutas en Conserva
 553192,Mermelada Confrut Naranja Zanahoria Jengibre,Abarrotes,"Mermel, Mieles"
 553195,Mermelada Confrut Papaya Yacon 220 gr,Abarrotes,"Mermel, Mieles"
+553196,Mermelada Yacon Confrut Piña 220 gr,Abarrotes,"Mermel, Mieles"
 553197,MERMELADA CONFRUT MARACUYA TOMA MOR 500,Abarrotes,"Mermel, Mieles"
 553198,Mermelada Confrut Naranja Jengibre,Abarrotes,"Mermel, Mieles"
 553199,Mermelada Confrut Naranja Yacon 500 gr,Abarrotes,"Mermel, Mieles"
@@ -14242,6 +14247,7 @@ id_producto,producto,categoria,subcategoria
 553332,BEBIDA CIN COCO BOT 3 LT,Bebidas,Bebidas Varias
 553333,BEBIDA CIN LINAZA BOT 3 LT,Bebidas,Bebidas Varias
 553335,LECHE EN POLVO NIDO 1 DP 2 KG,Abarrotes,Nutrición Infantil
+553337,LECHE ALMENDRA POLVO FIT MIT POTE 500 GR,Abarrotes,Nutrición Infantil
 553338,LECHE COCO POLVO FIT MIT POTE 500 GR,Abarrotes,Nutrición Infantil
 553340,LECHE DORADA POLVO FIT MIT POTE 500 GR,Abarrotes,Nutrición Infantil
 553341,GIN INSURGENTE FRUTILLA BOT 1 LT,Bebidas,Licores
@@ -14262,7 +14268,11 @@ id_producto,producto,categoria,subcategoria
 553365,PACK GALLETAS COLOMBINA BRINKY X2,Abarrotes,Galletas
 553366,GRAGEAS RUAH CAFE CHOCOLATE 75P STEVIA,Abarrotes,Chocolates y Caramelos
 553368,GRAGEA QUINUA RUAH CHOCOLATE STEVIA  50,Abarrotes,Chocolates y Caramelos
+553370,CEREAL SPECIAL K TRIPLE BERRY 331 GR,Abarrotes,Productos Americanos
 553376,CEREAL CHOCAPIC ORIGINAL BSA 90 GR,Abarrotes,Nutrición Infantil
+553377,LLAJUA EN POLVO  YA JUA  SUAVE SOBRE 10,Abarrotes,Condimentos y Legumbres
+553378,LLAJUA POLVO YA JUA NORMAL SOBRE 10 GR,Abarrotes,Condimentos y Legumbres
+553379,LLAJUA EN POLVO YA JUA EXTRA PICANTE SOB,Abarrotes,Condimentos y Legumbres
 554333,Cerveza Paceña Lata Roja 473 Cc,Bebidas,Cervezas
 554466,Detergente Liquido Ola Futuro Limpieza Completa 5 L,Cuidado del Hogar,Limpieza de la Ropa
 554468,Suavizante Ropa Ola Suavecito Original 5 L,Cuidado del Hogar,Limpieza de la Ropa
@@ -17691,6 +17701,7 @@ id_producto,producto,categoria,subcategoria
 668211,LIP SMACKER TROPICAL FEVER PARTY PACK X8,Cuidado Personal,Cuidado de la Piel
 668213,Balsamo Labial Lip Smarcker Trio,Cuidado Personal,Cuidado de la Piel
 668214,LIP SMACKER  FRAPPE UNICORNIO CUP,Cuidado Personal,Cuidado de la Piel
+668225,WET N WILD  LABIAL SEMI MATE MARSHMALLOW,Cuidado Personal,Cuidado de la Piel
 668237,Toallas Humedas Ninet Clasica Con Taper 100 un,Cuidado del Bebé,Cuidado del Bebé
 668238,Toallas Humedas Ninet Recien Nacido 48 un,Cuidado del Bebé,Cuidado del Bebé
 668239,Toallas Humedas Ninet Recien Nacido 80 un,Cuidado del Bebé,Cuidado del Bebé
@@ -18215,6 +18226,7 @@ id_producto,producto,categoria,subcategoria
 669379,Detergente para Ropa Tide Pods Capsulas Odor + Oxi 826 g,Cuidado del Hogar,Productos Americanos
 669383,Ambientador Febreze Fresch 250 ml,Cuidado del Hogar,Productos Americanos
 669384,Ambientador Febreze limon 250 ml,Cuidado del Hogar,Productos Americanos
+669388,OLA ANTIGRASA EXPER REC BOT 12X800ML,Cuidado del Hogar,Limpieza de Cocina
 669389,OLA MAX COCINA ESP DES GAT BOT 12X800ML,Cuidado del Hogar,Limpieza de Cocina
 669390,OLA BANOS ESP GAT BOT 12X800ML,Cuidado del Hogar,Limpieza de Baños
 669394,DEO AT BARRA OLD SPICE DRAGONBLAST 50GR,Cuidado Personal,Cuidado de la Piel
@@ -18733,7 +18745,7 @@ id_producto,producto,categoria,subcategoria
 671985,Queso Mozzarella San Mateo 410 gr,Lácteos y Derivados,Quesos
 671992,Budin Arcor Sin Frutas 215 gr,Pastelería y Masas Típicas,Pastelería Externa
 671993,Budin Arcor Marmolado 215 gr,Pastelería y Masas Típicas,Pastelería Externa
-671994,Pina Criolla 1 Kg,Frutas y Verduras,Frutas
+671994,Piña Criolla 1 Kg,Frutas y Verduras,Frutas
 672000,Budin Arcor Trozos de Chocolate 215 gr,Pastelería y Masas Típicas,Pastelería Externa
 672009,Hamburguesa Prosana Quinua Mix 260 gr,Congelados,Carnes Congeladas
 672011,Hamburguesa Prosana Garbanzo 260 gr,Congelados,Carnes Congeladas
