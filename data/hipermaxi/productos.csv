@@ -6730,6 +6730,7 @@ id_producto,producto,categoria,subcategoria
 209530,Pack Kotex Nocturna Discreta 24 Und,Cuidado Personal,Cuidado Familiar
 209531,Pack Toallas Humedas Huggies Caja 640 Und,Cuidado del Bebé,Cuidado del Bebé
 209533,Cotonetes Septona Algodón 100 un,Cuidado del Bebé,Cuidado del Bebé
+209534,AGUA MICELAR MATE HIDRADERM 200ML,Cuidado Personal,Cuidado de la Piel
 209539,TRATAM  CAPILAR FARMAX OLEO ESPETAC 90ML,Cuidado Personal,Cuidado del Cabello
 209541,Duo Pack Toallitas Humedas Ninet Clasica 120 un,Cuidado del Bebé,Cuidado del Bebé
 209542,DUO PACK NINET CLASICA X 200 UNID,Cuidado del Bebé,Cuidado del Bebé
@@ -7767,6 +7768,7 @@ id_producto,producto,categoria,subcategoria
 228155,ESPONJA SCOTCH BRITE X4 Y CUBIERTA,Cuidado del Hogar,Accesorios del Hogar
 228156,PANUELO FINESSE DIA A DIA 6 UNDS,Cuidado Personal,Cuidado Familiar
 228158,PANUELO DESCARTABLE FINESSE LAVANDA X6,Cuidado Personal,Cuidado Familiar
+228159,CREMA NIVEA MILK 250 ML,Cuidado del Hogar,Productos Americanos
 228161,DETERGENTE POLVO SURF COCO 150 GR,Cuidado del Hogar,Limpieza de la Ropa
 228162,OMO PVO LIMON CON BICARBONATO 140G,Cuidado del Hogar,Limpieza de la Ropa
 228163,LUX BOTAN JAB JAZMIN CREMOSO 120G,Cuidado Personal,Cuidado de la Piel
@@ -7779,6 +7781,7 @@ id_producto,producto,categoria,subcategoria
 228179,SHAMPOO ELVIVE  DREAM LONG SLEEK 370 ML,Cuidado Personal,Cuidado del Cabello
 228180,ACONDIC ELVIVE DREAM LONG SLEEK 370 ML,Cuidado Personal,Cuidado del Cabello
 228181,ACONDIC ELVIVE DREAM LONG SLEEK 680 ML,Cuidado Personal,Cuidado del Cabello
+228183,MASCARA TRATAMIENTO ELVIVE DREAM LONG S,Cuidado Personal,Cuidado del Cabello
 228191,PAPEL FINESSE PREMIUN 4X12,Cuidado Personal,Cuidado Familiar
 228193,PAPEL FINESSE PREMIUN 2X24,Cuidado Personal,Cuidado Familiar
 228201,TRAPEADOR PINTO ALGODON NO. 40-450 GR CM,Cuidado del Hogar,Accesorios del Hogar
@@ -11555,6 +11558,7 @@ id_producto,producto,categoria,subcategoria
 462522,Insecticida Killer Mosca Mosquito Azul 360 cm,Cuidado del Hogar,Insecticidas
 462721,Bitter Amargo Centenario 1 L,Bebidas,Bebidas Varias
 462981,Castaña Caju Maya 250 gr,Abarrotes,Snack
+463066,Repelente Floresta Extremo Spray 15% 120 ml,Cuidado Personal,Cuidado de la Piel
 463068,Repelente Floresta Familiar 7.5% Crema 120 gr,Cuidado Personal,Cuidado de la Piel
 463275,LECHE NIDO CRECIMIENTO 1+ LTA 800G,Abarrotes,Nutrición Infantil
 463426,Pimienta Dulce Badia Molida 2 oz,Abarrotes,Condimentos y Legumbres
@@ -14234,6 +14238,7 @@ id_producto,producto,categoria,subcategoria
 553308,GALLETA ANDES TROPICO QUINUA 200 GR,Abarrotes,Galletas
 553309,CEREAL ORGANICA DEL SUR ARITOS FRUTAS 38,Abarrotes,Nutrición Infantil
 553313,PIPOCA GUADIA MANTEQUILLA PACK 6X25GR,Abarrotes,Snack
+553314,CHOCOLATE PAITITI AMARGO 60P 67 GR,Abarrotes,Chocolates y Caramelos
 553315,CHOCOLATE PAITITI 99P STEVIA 67 GR,Abarrotes,Dietéticos y Saludables
 553316,CHOCOLATE PAITITI 100P SIN AZUCAR 67 GR,Abarrotes,Dietéticos y Saludables
 553317,CHOCOLATE PAITITI 100P SIN AZUCAR 100 GR,Abarrotes,Dietéticos y Saludables
@@ -18229,6 +18234,8 @@ id_producto,producto,categoria,subcategoria
 669379,Detergente para Ropa Tide Pods Capsulas Odor + Oxi 826 g,Cuidado del Hogar,Productos Americanos
 669383,Ambientador Febreze Fresch 250 ml,Cuidado del Hogar,Productos Americanos
 669384,Ambientador Febreze limon 250 ml,Cuidado del Hogar,Productos Americanos
+669385,DOWNY PERLASUNSTOP141GX4U,Cuidado del Hogar,Productos Americanos
+669387,OLA ANTIGRASA EXPER GAT BOT 12X800ML,Cuidado del Hogar,Limpieza de Cocina
 669388,OLA ANTIGRASA EXPER REC BOT 12X800ML,Cuidado del Hogar,Limpieza de Cocina
 669389,OLA MAX COCINA ESP DES GAT BOT 12X800ML,Cuidado del Hogar,Limpieza de Cocina
 669390,OLA BANOS ESP GAT BOT 12X800ML,Cuidado del Hogar,Limpieza de Baños
@@ -18799,6 +18806,7 @@ id_producto,producto,categoria,subcategoria
 672219,Pan Molde Ovoplus Blanco 500 gr,Panadería,Panadería Externa
 672220,Pan Molde Ovoplus Integral 500 gr,Panadería,Panadería Externa
 672221,Pan Molde Ovoplus Mix de Cereales 500 gr,Panadería,Panadería Externa
+672222,SALCHICHA SIN PIEL STEGE EXTRA LARGA UNIDAD,Fiambres,Fiambres Externos
 672227,Queso Mozzarella Kayku,Lácteos y Derivados,Quesos
 672228,Queso Mozarella Hilado 1 kg,Lácteos y Derivados,Quesos
 672229,Queso Mozzarella Kayku kg,Lácteos y Derivados,Quesos
@@ -19212,28 +19220,28 @@ id_producto,producto,categoria,subcategoria
 673246,Yogurt Pairumani Frutilla 250 ml,Lácteos y Derivados,Yogures
 673247,Yogurt Pairumani Durazno 250 ml,Lácteos y Derivados,Yogures
 673248,Yogurt Pairumani Mora 250 ml,Lácteos y Derivados,Yogures
-673249,BIFE ANCHO PARRILLERO HIPERMAXI AL VACIO KILOGRAMO,Carnes,Carne de Res
-673251,KEPERI HIPERMAXI AL VACIO KGR,Carnes,Carne de Res
-673253,CHULETA DE LOMO HIPERMAXI AL VACIO KGR,Carnes,Carne de Res
-673255,TIRA DE RES PRIMER CORTE HIPERMAXI AL VACIO KGR,Carnes,Carne de Res
-673256,CARNE PARA PACUMUTU HIPERMAXI AL VACIO KGR,Carnes,Carne de Res
-673257,COWBOY STEAK HIPERMAXI AL VACIO KGR,Carnes,Carne de Res
-673258,CARNE PARA ASADO EN OLLA HIPERMAXI AL VACIO KGR,Carnes,Carne de Res
-673259,CARNE LAMINADA HIPERMAXI AL VACIO KGR,Carnes,Carne de Res
-673260,CARNE PARA HORNO HIPERMAXI AL VACIO KGR,Carnes,Carne de Res
-673262,CARNE PICADA CORTE FINO HIPERMAXI AL VACIO KGR,Carnes,Carne de Res
-673264,BOLLO CHICO HIPERMAXI AL VACIO KGR,Carnes,Carne de Res
-673265,BOLLO GRANDE HIPERMAXI AL VACIO KGR,Carnes,Carne de Res
-673267,COLITA DE CUADRIL HIPERMAXI AL VACIO KGR,Carnes,Carne de Res
+673249,Bife Ancho Parrillero Hipermaxi al vacio kg,Carnes,Carne de Res
+673251,Keperi Hipermaxi al vacio kg,Carnes,Carne de Res
+673253,Chuleta de Lomo Hipermaxi al vacio kg,Carnes,Carne de Res
+673255,Tira de Res Primer Corte Hipermaxi al vacio kg,Carnes,Carne de Res
+673256,Carne para Pacumuto Hipermaxi al vacio kg,Carnes,Carne de Res
+673257,Cowboy Steak Hipermaxi al vacio kg,Carnes,Carne de Res
+673258,Carne para Asado Hipermaxi al vacio kg,Carnes,Carne de Res
+673259,Carne Laminada Hipermaxi al vacio kg,Carnes,Carne de Res
+673260,Carne para Horno Hipermaxi al vacio kg,Carnes,Carne de Res
+673262,Carne Picada Corte Fino Hipermaxi kg,Carnes,Carne de Res
+673264,Bollo Chico Hipermaxi al vacio kg,Carnes,Carne de Res
+673265,Bollo Grande Hipermaxi al vacio kg,Carnes,Carne de Res
+673267,Colita de Cuadril Hipermaxi al vacio kg,Carnes,Carne de Res
 673269,PUNTA DE S HIPERMAXI AL VACIO KGR,Carnes,Carne de Res
-673270,COSTILLA CHURRASQUERA HIPERMAXI AL VACIO KGR,Carnes,Carne de Res
-673271,LOMO PARRILLERO HIPERMAXI AL VACIO KGR,Carnes,Carne de Res
-673272,CORTE CUADRADA HIPERMAXI AL VACIO KGR,Carnes,Carne de Res
-673273,CORTE CUADRIL HIPERMAXI AL VACIO KGR,Carnes,Carne de Res
-673274,FILETE HIPERMAXI AL VACIO KGR,Carnes,Carne de Res
-673276,TOMAHAWK STEAK HIPERMAXI AL VACIO KGR,Carnes,Carne de Res
-673277,ENTRANA FINA HIPERMAXI AL VACIO KGR,Carnes,Carne de Res
-673278,POLLERITA HIPERMAXI AL VACIO KGR,Carnes,Carne de Res
+673270,Costilla Churrasquera Hipermaxi al vacio,Carnes,Carne de Res
+673271,Lomo Parrillero Hipermaxi al vacio kg,Carnes,Carne de Res
+673272,Corte Cuadrada Hipermaxi al vacio kg,Carnes,Carne de Res
+673273,Corte Cuadril Hipermaxi al vacio kg,Carnes,Carne de Res
+673274,Filete Hipermaxi al vacio kg,Carnes,Carne de Res
+673276,Tomahawk Steak Hipermaxi al vacio kg,Carnes,Carne de Res
+673277,Entraña Fina Hipermaxi al vacio kg,Carnes,Carne de Res
+673278,Pollerita Hipermaxi al vacio kg,Carnes,Carne de Res
 673280,Helado Delizia Rocky 1 L,Congelados,"Helados, Cassattas y Picoleses"
 673281,Helado Delizia Ricoco Chocolate 1 L,Congelados,"Helados, Cassattas y Picoleses"
 673289,Fileteitos Pimienta Cayena Sofia 300 gr,Congelados,Carnes Congeladas
@@ -20949,6 +20957,7 @@ id_producto,producto,categoria,subcategoria
 781466,Disco de Merengue Davieds 20 Personas,Pastelería y Masas Típicas,Pastelería Externa
 781472,Huevos Avicola Paurito Chicos 20 un,Lácteos y Derivados,Huevos
 781475,Queso Criollo San Mateo Menonita kg,Lácteos y Derivados,Quesos
+781483,Pan Molido Belen 500 gr,Panadería,Panadería Externa
 781489,Queso Criollo San Mateo San Javier kg,Lácteos y Derivados,Quesos
 781496,Pollo Relleno Sofia Congelado,Congelados,Carnes Congeladas
 781498,Baklawa Davieds 200 gr,Pastelería y Masas Típicas,Pastelería Externa
@@ -21346,7 +21355,7 @@ id_producto,producto,categoria,subcategoria
 786842,Cuñapecitos Pan Hogar 200 gr,Pastelería y Masas Típicas,Masas Típicas Externas
 786847,Queso Guapurutu Saborizado Oregano 500 gr,Lácteos y Derivados,Quesos
 786855,Queso Mozzarella Guapurutu Laminado 150 gr,Lácteos y Derivados,Quesos
-786857,PANQUETES UNICOS 140 GRS.,Pastelería y Masas Típicas,Masas Típicas Externas
+786857,Panqueques Unicos 140 gr,Pastelería y Masas Típicas,Masas Típicas Externas
 786871,Queso Cremon La Serenisima Horma kg,Lácteos y Derivados,Quesos
 786874,Bife de Chorizo Cuarto Al Vacio Frigor kg,Carnes,Carnes al Vacio Externas
 786875,Queso Provolone Melincue Parrillero Libre de Gluten kg,Lácteos y Derivados,Quesos
@@ -23128,6 +23137,7 @@ id_producto,producto,categoria,subcategoria
 855785,Decantador de Vino Forma Ovalada 1430 ml,Bazar Importación,Menaje Vidrio/Cristal
 855793,Colgador Para Ropa Set 3,Bazar Importación,Living y Dormitorio
 855836,SECADORA DE PELO LUMA BELLA LB64003,Bazar,Electrodoméstico Cuidado Personal
+855857,TIDY CATS CONVENTIONAL 6X 3.6KG AR,Bazar,Mascotas General
 855974,Chicle Wrigley Spearmint 5 Stick,Abarrotes,Golosinas - Varias
 856049,Vaso Cervecero 1 L,Bazar Importación,Menaje Vidrio/Cristal
 856058,CH YW43 13 PORTARETRATOS COLLAGE PARA 4 FOTOS 40X26X5CM,Bazar Importación,Living y Dormitorio
@@ -23611,6 +23621,7 @@ id_producto,producto,categoria,subcategoria
 863018,PEINE DESENREDANTE 18.5 BETER 12068,Bazar,Bijouteria/Cuidado Personal
 863029,Vino Trapiche Medalla Cabernet Sauvignon 750 ml,Bebidas,Vinos y Champagne
 863031,ESPONJA DE MAQUILLAJE BETER 22031,Bazar,Bijouteria/Cuidado Personal
+863142,TIDY CATS CONVENCIONAL 6X 1.8KG AR,Bazar,Mascotas General
 863317,Set Panero Azucarera Tazas,Bazar,Menaje Plástico
 863322,JAN AROS METALICOS 12,Bazar,Bijouteria/Cuidado Personal
 863324,JAN MANILLAS DE DAMA 10,Bazar,Bijouteria/Cuidado Personal
@@ -23920,6 +23931,7 @@ id_producto,producto,categoria,subcategoria
 877730,Collar para Mascota de Cuerina 2,Bazar,Mascotas General
 877830,Set 6 Copas Windsor Agua,Bazar,Menaje Vidrio/Cristal
 877939,Ponchillos Impermeable,Bazar,Camping General
+878018,Pulverizador,Bazar,Bijouteria/Cuidado Personal
 878068,Vasos Termico 240 ml 25 u,Bazar,Cotillón
 878069,Vasos Termicos Reciclables 120 ml,Bazar,Cotillón
 878070,Vasoo Mascota Avena Procao 500 ml,Bazar,Cotillón
