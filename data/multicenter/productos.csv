@@ -57,7 +57,6 @@ id_producto,producto,proveedor,categoria
 52707,APLICADOR DE CERA DE ESPUMA,Rheem Usa,/Herramientas/Automotriz/Limpieza automotriz/
 24667,Bidón de gasolina 4l,Midwest Can Company,/Herramientas/Automotriz/Accesorios automotriz/
 15780,Bisagra c/cierre regulable 114mm,Haefele,/Herramientas/Ferreteria/Herraje/
-15208,Bisagra continua de acero 48 pulg.,National Hardware,/Herramientas/Ferreteria/Herraje/
 51847,BLOQUE DE LIJA 80G,Tactix,/Herramientas/Herramientas Manuales/Otras herramientas/
 25108,Bola de enganche 1-7/8'' 2k 900kg Master Mechanic,Varios,/Herramientas/Automotriz/Accesorios automotriz/
 14719,Broca fresa forstner 35mm sb,KWB,/Herramientas/Herramientas Eléctricas/Brocas/
@@ -2535,7 +2534,6 @@ id_producto,producto,proveedor,categoria
 32708,Jabonera de succión Gris ahumado Impress,Better Living,/Dormitorio y Baño/Baño/Organizadores de baño/
 35532,Pulverizador con bombeo 0.75 litros,Gardena,/Jardineria/Mangueras y riego/
 36838,Batidora planetaria 4 litros 500w Blanco Nappo,Nappo,/Electrohogar/Electrodomésticos/Batidoras/
-37148,Sofá 2 puestos NAZAR color Beige,Impulse,/Muebles/Living y sofás/Sofás/
 37149,Sofá 3 puestos NAZAR color Beige,Impulse,/Muebles/Living y sofás/Sofás/
 37772,Parlante inalámbrico portátil XG300 color Negro Sony,Sony,/Tecnología/Audio/Audio Portable/
 39299,Aspiradora Seco y Húmedo WD3 Premium 3 en 1 Karcher,Karcher,/Electrohogar/Electrodomésticos/Aspiradoras/
@@ -2594,7 +2592,6 @@ id_producto,producto,proveedor,categoria
 27067,Little Mommy fiesta de cumpleaños,LITTLE MOMMY,/Juguetería/Niña/Muñecas y Accesorios/
 27112,Nerf ultra paquete de 10 dardos,Nerf,/Juguetería/Juegos de exterior/Pistolas de Juguetes/
 27613,Caja organizadora BRIAN Blanco 12 litros,Harmony,/Hogar/Organización/Cajas y Canastos/
-27999,Soporte para Tv con inclinación 37'' a 70'' Brügmann,Brugmann,/Tecnología/Tv y Video/Soportes/
 28780,Basurero con pedal rectangular 6l Stella Slim,Eko,/Limpieza & Bioseguridad/Utensilios de limpieza/Basureros/
 28868,Faldón 1 1/2plz Petit Poá Ultrawave - Blanco,Altenburg,/Dormitorio y Baño/Ropa de Cama/Juego de Sábanas/
 29345,Barbie princesa 2 en 1,BARBIE,/Juguetería/Niña/Muñecas y Accesorios/
@@ -2694,6 +2691,42 @@ id_producto,producto,proveedor,categoria
 56613,Lotta looks paquete accesorios,LITTLE MOMMY,/Juguetería/Niña/Muñecas y Accesorios/
 56616,Tablero de juego scrabble junior disney,Mattel Games,/Juguetería/Juegos de Mesa/Juego de Mesa/
 56864,Terere acero 200 ml dried pine,Stanley,/Camping/Conservadoras y coolers/Termos y tomatodos/
+2802,Sujetador de billetes 3 en 1 Philippi,Philippi,/Viaje y regalos/Accesorios/Carteras y Billeteras/
+4071,Organizador de piezas de rompecabezas Ravensburger,Ravensburger,/Juguetería/Juegos de Mesa/Rompecabezas/
+5017,Caja de herram 470mm metal,Tactix,/Herramientas/Organizacion y Almacenaje/Cajas de herramientas/
+7892,Caja organizadora 330 doble negro,Rimax,/Herramientas/Organizacion y Almacenaje/Organizadores/
+13794,Portaretrato bono 6 fotos Blanco,Impulse,/Decoración/Complementos decorativos/Portaretratos/
+13796,Porta retrato turquia natural M,Harmony,/Decoración/Complementos decorativos/Portaretratos/
+16247,Broca fresa forstner 16mm sb,KWB,/Herramientas/Herramientas Eléctricas/Brocas/
+17689,Flexometro mediano 5mx169mm,Tactix,/Herramientas/Herramientas Manuales/Otras herramientas/
+27907,Angulo 3-20 acero bicromatado,Amig,/Herramientas/Ferreteria/Herraje/
+28720,"Manguera antitorsion 1/2"" 25m c eng",Tramontina,/Jardineria/Mangueras y riego/
+28787,Colgador de utensilios,Spectrum,/Hogar/Menaje Cocina/Utensilios de Cocina/
+30842,Silla AIDEN color Blanca,Zown,/Muebles/Muebles de Jardin/Muebles de Plástico/
+32175,Escoba eléctrica KB5 EU Karcher,Karcher,/Electrohogar/Electrodomésticos/Aspiradoras/
+35212,Set de copas Crystalline 2 piezas 520ml,KPN,/Hogar/Menaje Comedor/Copas/
+38376,Batidora de Vaso portátil recargable Shakuit,Innovagoods,/Electrohogar/Electrodomésticos/Batidoras/
+40585,Barbie Niñera Set de Juego en Casa,BARBIE,/Juguetería/Niña/Muñecas y Accesorios/
+43437,Mesa de Planchar 122x35cm,Impulse,/Limpieza & Bioseguridad/
+44957,Silla con brazos madeira,MQ Plasticos,/Muebles/Muebles de Jardin/Muebles de Plástico/
+45142,Sarten antiadherente con 4 divisiones,Brugmann,/Hogar/Menaje Cocina/Sartenes y Wok/
+45431,Individual 38cm natural,Concepts,/Hogar/Menaje Cocina/Utensilios de Cocina/
+46681,Tetera cristal 1.5l c/filtro,KPN,/Hogar/Menaje Comedor/Vasos y Jarras/
+46956,Adorno Mujer Yoga Figura Loto Blanco 18X24Cm,Krst,/Decoración/Complementos decorativos/Adornos/
+47956,Cojin 45x45cm teddy white,KPN,/Decoración/Complementos decorativos/Cojines/
+49257,LANZA DE LIMPIEZA MULTICHORRO,Gardena,/Jardineria/Herramientas de jardinería/
+49671,"MANTA TRAMADO CAFÉ 1,27X1,52CM",Acasa,/Dormitorio y Baño/Ropa de Cama/Mantas/
+49733,Set para sushi 7pzas color surtx2,KPN,/Hogar/Menaje Cocina/Utensilios de Cocina/
+54088,PlLANCHA A  VAPOR ELECTROLUX,Electrolux,/Juguetería/Niña/Muñecas y Accesorios/
+54489,BALON VOLEY VQ2000PLUS - rgw bl/az/ama,Mikasa,/Deportes y Ocio/Tiempo Libre/Deportes/
+54787,Hair clips 4pzs,KPN,/Viaje y regalos/Accesorios/Cuidados y Limpieza/
+55329,"Amarre con trinquete 1""x14'",S-LINE,/Herramientas/Automotriz/Accesorios automotriz/
+56695,Toalla de bano extra favo beige 80cmx1.50M,Altenburg,/Dormitorio y Baño/Baño/Toallas/
+56709,CAFETERA OSTER FRAPUCHINO,Oster,/Electrohogar/Electrodomésticos/Cafeteras/
+56803,Mantel paloma 03 - linhares 2m,Dohler,/Hogar/Menaje Comedor/Juegos de Café y Té/
+56946,Fp juguete para morder surtido,Fisher Price,/Juguetería/Bebé/Juguetes Bebés/
+57003,Barbie Sirena Color Reveal surt,BARBIE,/Juguetería/Niña/Muñecas y Accesorios/
+57649,Cocina CookTop Dako Diplomata Negra 5H,Dako,/Electrohogar/Cocina/Cocinas/
 17,Sarten Profesional Tramontina,Tramontina,/Hogar/Menaje Cocina/Sartenes y Wok/
 18,Juego para Asado POLYWOOD 14pzas,Tramontina,/Exteriores/Churrasco/Accesorios de Parrillas/
 28,Jgo De Tenedores Jumbo 4 Pzas,Tramontina,/Exteriores/Churrasco/Accesorios de Parrillas/
@@ -2852,7 +2885,6 @@ id_producto,producto,proveedor,categoria
 2657,Soporte para escobas plástico blanco Rejiplas,Rejiplas,/Limpieza & Bioseguridad/
 2679,Almohada nasasoft alto 48x68cm,Altenburg,/Dormitorio y Baño/Ropa de Cama/Almohadas/
 2724,Almohada Soporte firme 50x70cm.,Altenburg,/Dormitorio y Baño/Ropa de Cama/Almohadas/
-2802,Sujetador de billetes 3 en 1 Philippi,Philippi,/Viaje y regalos/Accesorios/Carteras y Billeteras/
 2929,Bombillo Led Par30  Gris,Lumicentro,/Iluminación/Materiales eléctricos y  focos/Focos/
 2942,Lámpara de Pared Exterior ( Halógeno) Negra,Lumicentro,/Iluminación/Lamparas/Lamparas de Exterior/
 2979,Lámpara Led de Pared Emerg. 110v Acabado Blanco,Lumicentro,/Iluminación/Lamparas/Apliques y Plafones/
@@ -2883,7 +2915,6 @@ id_producto,producto,proveedor,categoria
 3924,Juego para Churrasco 3 piezas Tramontina,Tramontina,/Exteriores/Churrasco/Accesorios de Parrillas/
 3942,Juego para servir 10 piezas acero inoxidable Tramontina,Tramontina,/Hogar/Menaje Comedor/Bandejas y Fuentes/
 3993,Farol de Vidrio con Acero Dorado Grande,Krst,/Decoración/Complementos decorativos/Portavelas/
-4071,Organizador de piezas de rompecabezas Ravensburger,Ravensburger,/Juguetería/Juegos de Mesa/Rompecabezas/
 4117,Set Destornillador De Golpe 6 Pzas,Tactix,/Herramientas/Herramientas Manuales/Destornilladores/
 4118,Set 6U Destornilador C Aislamiento,Tactix,/Herramientas/Herramientas Manuales/Destornilladores/
 4122,Multimetro Digital 2 En 1,Tactix,/Herramientas/Herramientas Manuales/Otras herramientas/
@@ -3004,7 +3035,6 @@ id_producto,producto,proveedor,categoria
 5014,Organizador 39gav,Tactix,/Herramientas/Organizacion y Almacenaje/Organizadores/
 5015,Organizador 12 gav c cubierta,Tactix,/Herramientas/Organizacion y Almacenaje/Organizadores/
 5016,Caja de herram 400mm broche metal,Tactix,/Herramientas/Organizacion y Almacenaje/Cajas de herramientas/
-5017,Caja de herram 470mm metal,Tactix,/Herramientas/Organizacion y Almacenaje/Cajas de herramientas/
 5018,Carro plastico p herramientas,Tactix,/Herramientas/Organizacion y Almacenaje/Cajas de herramientas/
 5045,Alicate De Corte Aislado 1000V 160Mm,Tactix,/Herramientas/Herramientas Manuales/Alicates/
 5046,Set 4U Alicates Mini,Tactix,/Herramientas/Herramientas Manuales/Alicates/
@@ -3198,7 +3228,6 @@ id_producto,producto,proveedor,categoria
 7882,Caja organizadora maleta rosa vanity,Rimax,/Dormitorio y Baño/Baño/Organizadores de baño/
 7890,"Caja negra 16""broche metalico",Rimax,/Herramientas/Organizacion y Almacenaje/Cajas de herramientas/
 7891,"Caja negra 18"" broche plastico",Rimax,/Herramientas/Organizacion y Almacenaje/Cajas de herramientas/
-7892,Caja organizadora 330 doble negro,Rimax,/Herramientas/Organizacion y Almacenaje/Organizadores/
 7901,"Plato-pedestal para torta 32,5 cm. blanco Coza",Coza,/Hogar/Menaje Comedor/Bandejas y Fuentes/
 7915,"Fuente rectangular lasañera 3,7 Marinex",Marinex,/Hogar/Menaje Cocina/Bowls y Fuentes/
 7916,"Fuente rectangular 2,9 L. Marinex",Marinex,/Hogar/Menaje Cocina/Bowls y Fuentes/
@@ -3697,8 +3726,6 @@ id_producto,producto,proveedor,categoria
 13740,Cubo triplo 1.5x80x28x20cm tabaco,Prat-K,/Muebles/Dormitorio/Estantes y Repisas/
 13743,Repisa Zig Zag TENDENZA 4 color Tabaco Prat-k,Prat-K,/Muebles/Dormitorio/Estantes y Repisas/
 13744,Cubo TENDENZA 4 4x25x60x40 color Tabaco Prat-k,Prat-K,/Muebles/Dormitorio/Estantes y Repisas/
-13794,Portaretrato bono 6 fotos Blanco,Impulse,/Decoración/Complementos decorativos/Portaretratos/
-13796,Porta retrato turquia natural M,Harmony,/Decoración/Complementos decorativos/Portaretratos/
 13798,Portaretrato turquia blanco M,Harmony,/Decoración/Complementos decorativos/Portaretratos/
 13799,Portaretrato turquia negro M,Harmony,/Decoración/Complementos decorativos/Portaretratos/
 13801,Portaretrato turquia blanco L,Harmony,/Decoración/Complementos decorativos/Portaretratos/
@@ -3811,6 +3838,7 @@ id_producto,producto,proveedor,categoria
 15198,Jalador p/gabinetes aluminio plateado 2500mm.,Haefele,/Herramientas/Ferreteria/Herraje/
 15205,"Pasador de bisagra doble 7-3/4""",Master Lock,/Herramientas/Ferreteria/Herraje/
 15207,"Perfil para alfombra 2X72""",Thermwell,/Herramientas/Ferreteria/Herraje/
+15208,Bisagra continua de acero 48 pulg.,National Hardware,/Herramientas/Ferreteria/Herraje/
 15210,Perfil p/alfombra H591HG/6 de aluminio,Thermwell,/Herramientas/Ferreteria/Herraje/
 15217,Tornillo 1-1/4 pul. 20pz. walldog Hillman,Hillman,/Herramientas/Ferreteria/Herraje/
 15244,Inflador manual,Intex,/Deportes y Ocio/Tiempo Libre/Deportes/
@@ -3987,7 +4015,6 @@ id_producto,producto,proveedor,categoria
 16239,"Broca SDS max/percusion ø 24.0 mm, 400 x 520 mm",KWB,/Herramientas/Herramientas Eléctricas/Brocas/
 16240,Cincel acanalado sds sb 250mm,KWB,/Herramientas/Accesorios de Herramientas eléctricas/
 16246,Broca fresa forstner 12mm sb,KWB,/Herramientas/Herramientas Eléctricas/Brocas/
-16247,Broca fresa forstner 16mm sb,KWB,/Herramientas/Herramientas Eléctricas/Brocas/
 16251,Hoja d/sierra d/calar p/mad.g/520(2 pzas),KWB,/Herramientas/Accesorios de Herramientas eléctricas/
 16257,Estuche d/puntas de mano dest.,KWB,/Herramientas/Accesorios de Herramientas eléctricas/
 16267,Riel de plástico para Rejilla color Blanco Rejiplas,Rejiplas,/Muebles/Dormitorio/Estantes y Repisas/
@@ -4255,7 +4282,6 @@ id_producto,producto,proveedor,categoria
 17685,Mordaza Esquinera 75Mm,Tactix,/Herramientas/Herramientas Manuales/Otras herramientas/
 17686,Mordaza 75Mm Onsite,Tactix,/Herramientas/Herramientas Manuales/Otras herramientas/
 17687,Mordaza 75Mm,Tactix,/Herramientas/Herramientas Manuales/Otras herramientas/
-17689,Flexometro mediano 5mx169mm,Tactix,/Herramientas/Herramientas Manuales/Otras herramientas/
 17690,Flexometro basico 3mx16mm,Tactix,/Herramientas/Herramientas Manuales/Otras herramientas/
 17691,Flexometro 16mmx3.5m onsite,Tactix,/Herramientas/Herramientas Manuales/Otras herramientas/
 17695,Repuesto Hoja P Estilete 10U,Tactix,/Herramientas/Herramientas Manuales/Sierras y cuchillos/
@@ -5494,7 +5520,6 @@ id_producto,producto,proveedor,categoria
 27904,Soporte 161 plastico blanco,Amig,/Herramientas/Ferreteria/Herraje/
 27905,Soporte 161 plástico Marrón,Amig,/Herramientas/Ferreteria/Herraje/
 27906,Soporte 161 plastico transparente,Amig,/Herramientas/Ferreteria/Herraje/
-27907,Angulo 3-20 acero bicromatado,Amig,/Herramientas/Ferreteria/Herraje/
 27908,Sujetacables 30100-6mm galvanizado-2,Amig,/Herramientas/Ferreteria/Herraje/
 27909,Sujetacables 30100-8mm galvanizado-2,Amig,/Herramientas/Ferreteria/Herraje/
 27911,Tapon pasacables 140-60x72 negro,Amig,/Herramientas/Ferreteria/Herraje/
@@ -5546,6 +5571,7 @@ id_producto,producto,proveedor,categoria
 27985,Cablefix 8x7mm Café,Inofix,/Herramientas/Ferreteria/Herraje/
 27986,Cablefix 10.5x10mm Blanco,Inofix,/Herramientas/Ferreteria/Herraje/
 27991,Accesorios para cablefix 8x7mm rectos Blanco,Inofix,/Herramientas/Ferreteria/Herraje/
+27999,Soporte para Tv con inclinación 37'' a 70'' Brügmann,Brugmann,/Tecnología/Tv y Video/Soportes/
 28000,Soporte para Tv con inclinación 32'' a 55'' Brügmann,Brugmann,/Tecnología/Tv y Video/Soportes/
 28001,Colchón CEDRO 105x190x26cm,Maxi King,/Dormitorio y Baño/Colchones/Soltero 1 a 1.5 Plazas/
 28002,Colchón CEDRO 140x190x26cm,Maxi King,/Dormitorio y Baño/Colchones/Full 2 Plazas/
@@ -5689,7 +5715,6 @@ id_producto,producto,proveedor,categoria
 28717,Set herramientas de jardin plastico multicol,Tramontina,/Jardineria/Herramientas de jardinería/
 28718,Set herramientas de jardin plasticas amarillo 3pz,Tramontina,/Jardineria/Herramientas de jardinería/
 28719,"Union para reparar manguera 5/8"" 3/4""",Tramontina,/Jardineria/Herramientas de jardinería/
-28720,"Manguera antitorsion 1/2"" 25m c eng",Tramontina,/Jardineria/Mangueras y riego/
 28721,Espatula flexible 4cm mango flex,Tramontina,/Jardineria/Herramientas de jardinería/
 28722,Lámpara de exterior pared metal Blanco LED prisca,Lightsource,/Iluminación/Lamparas/Lamparas de Exterior/
 28729,Aplique LED de seguridad 10w 5000k 1000lm,Lightsource,/Iluminación/Lamparas/Apliques y Plafones/
@@ -5701,7 +5726,6 @@ id_producto,producto,proveedor,categoria
 28745,Llavero dual-LED /mosquetón doble,TVM,/Camping/Accesorios Camping/Linternas/
 28756,Ojales de 12.7mm 25 unidades,Vulcan,/Herramientas/Automotriz/Accesorios automotriz/
 28779,Basurero con pedal rectangular 12l Stella,Eko,/Limpieza & Bioseguridad/Utensilios de limpieza/Basureros/
-28787,Colgador de utensilios,Spectrum,/Hogar/Menaje Cocina/Utensilios de Cocina/
 28817,Batería de cocina SICILIA 5pzas Tramontina,Tramontina,/Hogar/Menaje Cocina/Baterías de Cocina/
 28819,Sartén MONACO 24cm Tramontina,Tramontina,/Hogar/Menaje Cocina/Sartenes y Wok/
 28820,Asadera rectangular con rejilla Tramontina,Tramontina,/Hogar/Menaje Cocina/Bowls y Fuentes/
@@ -5995,7 +6019,6 @@ id_producto,producto,proveedor,categoria
 30796,Soporte de pared para ángulos cajax50,Closetmaid,/Hogar/Organización/Accesorios para el closet/
 30797,Tapa para columna cajax800pzas,Closetmaid,/Hogar/Organización/Accesorios para el closet/
 30798,Tarugo 1 4p 6mm cajax3500pzas,Closetmaid,/Hogar/Organización/Accesorios para el closet/
-30842,Silla AIDEN color Blanca,Zown,/Muebles/Muebles de Jardin/Muebles de Plástico/
 30893,Alfombra Re duce rombos gris blanco 160x230 cm,Balta,/Decoración/Alfombras/Alfombras grandes/
 30954,Juguete alimenta al pájaro carpintero,Top Bright,/Juguetería/Bebé/Juguetes Bebés/
 30955,Juego de garaje de estacionamiento,Top Bright,/Juguetería/Bebé/Juguetes Bebés/
@@ -6181,7 +6204,6 @@ id_producto,producto,proveedor,categoria
 32134,Piedras decorativas café en frasco 7.5x16 cm,Edel,/Decoración/Complementos decorativos/Adornos/
 32146,Maceta decorativa redonda ocre 16x18 cm Gabriel,Edel,/Jardineria/Macetas/
 32164,Alcuza para aceite y vinagre 500ml,KPN,/Hogar/Menaje Comedor/Accesorios de Mesa/
-32175,Escoba eléctrica KB5 EU Karcher,Karcher,/Electrohogar/Electrodomésticos/Aspiradoras/
 32184,Almohada antistress 50x70cm,Altenburg,/Dormitorio y Baño/Ropa de Cama/Almohadas/
 32203,Cocina a Gas 4H ARES Plateado horno esmaltado Realce,Realce,/Electrohogar/Cocina/Cocinas/
 32208,Cocina Encimera 5H ATALANTA mesa vidrio templado Realce,Realce,/Electrohogar/Cocina/Encimeras/
@@ -6631,7 +6653,6 @@ id_producto,producto,proveedor,categoria
 35150,Decantador de vidrio 1.5 litros,KPN,/Hogar/Menaje Comedor/Accesorios para Bar/
 35151,Set de decantador + vasos de vidrio 900ml 5 piezas,KPN,/Hogar/Menaje Comedor/Accesorios para Bar/
 35201,Set para vino 4 piezas,KPN,/Hogar/Menaje Comedor/Accesorios para Bar/
-35212,Set de copas Crystalline 2 piezas 520ml,KPN,/Hogar/Menaje Comedor/Copas/
 35214,Set de copas Crystalline 2 piezas 260ml,KPN,/Hogar/Menaje Comedor/Copas/
 35216,Sacacorchos eléctrico 23cm,KPN,/Hogar/Menaje Comedor/Accesorios para Bar/
 35219,Set de tazas espresso 70ml,KPN,/Hogar/Menaje Comedor/Juegos de Café y Té/
@@ -6940,6 +6961,7 @@ id_producto,producto,proveedor,categoria
 37094,Flor de Pascua 21x21x35cm Azul,Santini Christmas,/Navidad/Flores y Picks/
 37104,Flor de Pascua 30x30x55cm Lavanda,Santini Christmas,/Navidad/Flores y Picks/
 37137,Rama decorativa 69cm Rosado,Santini Christmas,/Navidad/Flores y Picks/
+37148,Sofá 2 puestos NAZAR color Beige,Impulse,/Muebles/Living y sofás/Sofás/
 37159,Lámpara Colgante Amarillo Bulbo,BLTZ,/Iluminación/Lamparas/Lamparas de Techo/
 37177,Linterna de exterior solar,Kamgk,/Iluminación/Lamparas/Lamparas de Exterior/
 37178,Vela citronella terracota,Kamgk,/Jardineria/Accesorios de Jardinería/
@@ -7154,7 +7176,6 @@ id_producto,producto,proveedor,categoria
 38364,Algodonero SQUARE color Gris,Coza,/Dormitorio y Baño/Baño/Organizadores de baño/
 38374,Muñequera magnética multiuso,Innovagoods,/Herramientas/Herramientas Manuales/Otras herramientas/
 38375,Recipiente conservador de alimentos Prefo,Innovagoods,/Hogar/Menaje Cocina/Utensilios de Cocina/
-38376,Batidora de Vaso portátil recargable Shakuit,Innovagoods,/Electrohogar/Electrodomésticos/Batidoras/
 38378,Afeitadora plegable de espalda y cuerpo Omniver,Innovagoods,/Electrohogar/Cuidado Personal/Afeitadoras/
 38379,Cepillo secador Moldeador y Rizador de pelo 3 en 1 Dryple 5,Innovagoods,/Electrohogar/Cuidado Personal/Secadores de Pelo/
 38384,Juego de Vajillas MARESIA 20 piezas Oxford,Oxford,/Hogar/Menaje Comedor/Vajillas/
@@ -7631,7 +7652,6 @@ id_producto,producto,proveedor,categoria
 40539,Gancho Perchero 5 Ganchos Garda,Umbra,/Hogar/Organización/Accesorios para el closet/
 40581,Barbie Salón,BARBIE,/Juguetería/Niña/Muñecas y Accesorios/
 40582,Barbie Panadería Mágica,BARBIE,/Juguetería/Niña/Muñecas y Accesorios/
-40585,Barbie Niñera Set de Juego en Casa,BARBIE,/Juguetería/Niña/Muñecas y Accesorios/
 40589,Barbie Hora de Relajarse Set,BARBIE,/Juguetería/Niña/Muñecas y Accesorios/
 40610,Mate de Acero 236ml color Polar,Stanley,/Camping/Conservadoras y coolers/Termos y tomatodos/
 40623,Pinza para Pasta ARIENZO 28cm,Brinox,/Hogar/Menaje Cocina/Utensilios de Cocina/
@@ -8011,7 +8031,6 @@ id_producto,producto,proveedor,categoria
 43397,Mochila para Camping de juguete,My First,/Juguetería/
 43399,Juego de Cuchillos PLENUS 6 piezas,Tramontina,/Hogar/Menaje Cocina/Cuchillos de Cocina/
 43400,Set de sartenes 3pzas linz negro,Tramontina,/Hogar/Menaje Cocina/Sartenes y Wok/
-43437,Mesa de Planchar 122x35cm,Impulse,/Limpieza & Bioseguridad/
 43438,Juego de Vajilla SOPHIE 20 piezas Blanco,Impulse,/Hogar/Menaje Comedor/Vajillas/
 43482,Cocina 1 quemador inducción portátil Ciarra,Ciarra,/Electrohogar/Cocina/Encimeras/
 43483,Cocina Empotrable 4Q Infinity triple llama GLP vidrio Negro,Fischer,/Electrohogar/Cocina/Encimeras/
@@ -8359,7 +8378,6 @@ id_producto,producto,proveedor,categoria
 44952,Jgo de exterior 4pzas wengue ferrara comfort,MQ Plasticos,/Muebles/Muebles de Jardin/Juegos de jardín/
 44954,Mesa cuadrada infinity wengue,MQ Plasticos,/Muebles/Muebles de Jardin/Muebles de Plástico/
 44956,Mesa cooler caramelo capri,MQ Plasticos,/Muebles/Muebles de Jardin/Muebles de Plástico/
-44957,Silla con brazos madeira,MQ Plasticos,/Muebles/Muebles de Jardin/Muebles de Plástico/
 44958,Mesa cooler wengue capri,MQ Plasticos,/Muebles/Muebles de Jardin/Muebles de Plástico/
 44963,Mesa cooler taupe capri,MQ Plasticos,/Muebles/Muebles de Jardin/Muebles de Plástico/
 44983,Tumbler FLIPSTRAW 890ml Plum Stanley,Stanley,/Camping/Conservadoras y coolers/Termos y tomatodos/
@@ -8442,7 +8460,6 @@ id_producto,producto,proveedor,categoria
 45138,Organizadord de alimentos 30x22cm,Brugmann,/Muebles/Modulares/Módulos de cocina/
 45140,Set de tapers de vidrio 3pzas,Brugmann,/Hogar/Organización/Complementos de organización/
 45141,Set de tapers de vidrio 5 pzas,Brugmann,/Hogar/Organización/Complementos de organización/
-45142,Sarten antiadherente con 4 divisiones,Brugmann,/Hogar/Menaje Cocina/Sartenes y Wok/
 45147,Cajonero de 3 niveles crochet gris,MQ Plasticos,/Hogar/Organización/Cajas y Canastos/
 45150,Cajonero de 5 niveles crochet gris,MQ Plasticos,/Hogar/Organización/Cajas y Canastos/
 45166,Reloj Smart Watch HOCO Y21,Hoco,/Tecnología/Smartwatch/
@@ -8551,7 +8568,6 @@ id_producto,producto,proveedor,categoria
 45427,Bandeja de cristal para tarta d30cm,KPN,/Hogar/Menaje Comedor/Bandejas y Fuentes/
 45428,Bandeja redonda d35 cm negro,KPN,/Hogar/Menaje Comedor/Bandejas y Fuentes/
 45430,Caja para te de madera 6 compartimientos 21x16cm,KPN,/Hogar/Menaje Comedor/Juegos de Café y Té/
-45431,Individual 38cm natural,Concepts,/Hogar/Menaje Cocina/Utensilios de Cocina/
 45432,Individual 45x36.5cm,Concepts,/Hogar/Menaje Cocina/Utensilios de Cocina/
 45433,Individual 38cm beige,Concepts,/Hogar/Menaje Cocina/Utensilios de Cocina/
 45435,Individual 45x36.5cm azul,Concepts,/Hogar/Menaje Cocina/Utensilios de Cocina/
@@ -9241,7 +9257,6 @@ id_producto,producto,proveedor,categoria
 46677,Biblioteca 80x200x30cm blanco nathan Material MDP,Impulse,/Muebles/Oficina/Bibliotecas/
 46678,Biblioteca 80x100x30cm amendoia dalian Material MDP,Impulse,/Muebles/Oficina/Bibliotecas/
 46679,Biblioteca 80x100x30cm blanco dalian Material MDP,Impulse,/Muebles/Oficina/Bibliotecas/
-46681,Tetera cristal 1.5l c/filtro,KPN,/Hogar/Menaje Comedor/Vasos y Jarras/
 46682,Florero De Cristal Taupe 20X20 Cm,Concepts,/Decoración/Complementos decorativos/Floreros/
 46684,Reloj de pared blanco borde dorado,KPN,/Decoración/Complementos decorativos/Relojes/
 46686,Infusores Aromaticos En Sobres 15 Cm Surtx3,KPN,/Dormitorio y Baño/
@@ -9382,7 +9397,6 @@ id_producto,producto,proveedor,categoria
 46950,Linterna aluminio impermeable,TVM,/Camping/Accesorios Camping/Linternas/
 46951,Linterna todo en 1 roja 4aa,Energizer,/Camping/Accesorios Camping/Linternas/
 46953,Porta Vela Loza Fina Beige 9X20Cm,Krst,/Decoración/Complementos decorativos/Portavelas/
-46956,Adorno Mujer Yoga Figura Loto Blanco 18X24Cm,Krst,/Decoración/Complementos decorativos/Adornos/
 46958,Terere Acero 200 ml Tigerlily Plum,Stanley,/Camping/Conservadoras y coolers/Termos y tomatodos/
 46959,Cojin redondo azul 40x40cm,Atmosphera,/Decoración/Complementos decorativos/Cojines/
 46960,Jarron Strawberry lata 11cm,Krst,/Decoración/Complementos decorativos/Floreros/
@@ -9896,7 +9910,6 @@ id_producto,producto,proveedor,categoria
 47953,Rose polyester / rosa artificial rojo,Kamgk,/Decoración/Complementos decorativos/Flores y Plantas/
 47954,Cesto metal 20x10x25cm.,KPN,/Hogar/Menaje Cocina/
 47955,Set de toallas p/cocina gris 2pzas 70x50cm,Mica Decorations,/Hogar/Menaje Comedor/Ropa de Mesa/
-47956,Cojin 45x45cm teddy white,KPN,/Decoración/Complementos decorativos/Cojines/
 47957,Tartera red. 24cm.3ass,KPN,/Hogar/Menaje Cocina/Bowls y Fuentes/
 47959,Cortadora de calabaza halloween 14x9x2cm,KPN,/Hogar/Menaje Cocina/Utensilios de Cocina/
 47960,Juego de utensilios de cocina,Core Home,/Hogar/Menaje Cocina/Utensilios de Cocina/
@@ -10554,7 +10567,6 @@ id_producto,producto,proveedor,categoria
 49253,"MANGUERA CLASSIC (1/2"")",Gardena,/Jardineria/Mangueras y riego/
 49255,TIJERA DE CORTE MANUAL,Gardena,/Jardineria/Herramientas de jardinería/
 49256,COMBISYSTEM FLEX,Gardena,/Jardineria/Accesorios de Jardinería/
-49257,LANZA DE LIMPIEZA MULTICHORRO,Gardena,/Jardineria/Herramientas de jardinería/
 49259,Individual de bambu floreado,KPN,/Hogar/Menaje Comedor/Juegos de Café y Té/
 49260,Bombonera,KPN,/Hogar/Menaje Comedor/Accesorios de Mesa/
 49261,Appetizer de vidrio,KPN,/Hogar/Menaje Comedor/Accesorios de Mesa/
@@ -10771,7 +10783,6 @@ id_producto,producto,proveedor,categoria
 49666,Cojín multiuso 45x45cm,Impulse,/Decoración/Complementos decorativos/Cojines/
 49667,Cocktail Glass Lifted Spirits 410 ml  Cream Gloss,Stanley,/Camping/Conservadoras y coolers/Termos y tomatodos/
 49670,Yerbero Classic Stay Fresh 500 gr Black 2.0,Stanley,/Camping/Conservadoras y coolers/Termos y tomatodos/
-49671,"MANTA TRAMADO CAFÉ 1,27X1,52CM",Acasa,/Dormitorio y Baño/Ropa de Cama/Mantas/
 49673,Ola brillante liq melamina botella 900ml,OLA,/Limpieza & Bioseguridad/Productos de limpieza/Limpieza de cocina/
 49674,Ola maximus liq vidrio original botella 900ml,OLA,/Limpieza & Bioseguridad/Productos de limpieza/Limpieza de cocina/
 49678,PAPEL ABRASIVO DELTA BLANCO 100,Makita,/Herramientas/Accesorios de Herramientas eléctricas/
@@ -10800,7 +10811,6 @@ id_producto,producto,proveedor,categoria
 49729,FP Animales luminosos surtido,Fisher Price,/Juguetería/Bebé/Juguetes Bebés/
 49730,HW Batimovil surtido,Hot Wheels,/Juguetería/Niño/Autos de Colección/
 49731,PP muñeca individual 9cm,Polly Pocket,/Juguetería/Niña/Muñecas y Accesorios/
-49733,Set para sushi 7pzas color surtx2,KPN,/Hogar/Menaje Cocina/Utensilios de Cocina/
 49735,Recipiente para cortar vegetales 13cm surtx3,KPN,/Hogar/Menaje Comedor/Accesorios de Mesa/
 49737,Set de vasos leia 310ml 6pzas,Pasabahce,/Hogar/Menaje Comedor/Vasos y Jarras/
 49742,HW lanzador de bolsillo surtido,Hot Wheels,/Juguetería/Niño/Pistas de Autos/
@@ -13373,7 +13383,6 @@ id_producto,producto,proveedor,categoria
 54077,Piso de entrada 17x29 camion de calabaz,Avera home goods,/Decoración/Alfombras/Tapetes/
 54084,AFEITADORA BABYLISS  PRO FX01,Babyliss,/Electrohogar/Electrodomésticos/Microondas y Hornos/
 54086,CAFETERIA PRIMALATTE TOUCH OSTER 19BAR,Oster,/Electrohogar/Electrodomésticos/Microondas y Hornos/
-54088,PlLANCHA A  VAPOR ELECTROLUX,Electrolux,/Juguetería/Niña/Muñecas y Accesorios/
 54094,Refrigerador Hitech Hiecl Seco 370L Inox,Hitech,/Electrohogar/Refrigeración/Heladeras/
 54097,Termoventilador Magefesa 2000W,Magefesa,/Electrohogar/Climatización/Estufas y Calefacción/
 54100,Llavero de 3 secciones rojo azul plata,Lucky Line,/Oficina/Accesorios de Oficina/Llaveros/
@@ -13538,7 +13547,6 @@ id_producto,producto,proveedor,categoria
 54486,BALON FUTBOL  NRO. 5 EUROPE LEAGUR BLANCO NEGRO FRANJAS NARANJA,Mikasa,/Deportes y Ocio/Tiempo Libre/Deportes/
 54487,BALON VOLEY VQ2000PLUS - cnw bl/cel/az,Mikasa,/Deportes y Ocio/Tiempo Libre/Deportes/
 54488,BALON VOLEY VQ2000PLUS  - can bl/rj/az mar,Mikasa,/Deportes y Ocio/Tiempo Libre/Deportes/
-54489,BALON VOLEY VQ2000PLUS - rgw bl/az/ama,Mikasa,/Deportes y Ocio/Tiempo Libre/Deportes/
 54496,PILA ALKA ENERGIZER A27 12vx48,Energizer,/Tecnología/Cables y Accesorios/
 54497,PILA BATERIA A23,Energizer,/Tecnología/Cables y Accesorios/
 54498,Porta rollo negro 54cm,KPN,/Dormitorio y Baño/Baño/Organizadores de baño/
@@ -13671,7 +13679,6 @@ id_producto,producto,proveedor,categoria
 54782,Anillo ovalado anodizado rojo,Lucky Line,/Oficina/Accesorios de Oficina/Llaveros/
 54783,Anillo ovalado anodizado verde,Lucky Line,/Oficina/Accesorios de Oficina/Llaveros/
 54784,Cunapes crocsitos 200gr,Mayser,/Alimentos y Bebidas/Chocolates y Caramelos/
-54787,Hair clips 4pzs,KPN,/Viaje y regalos/Accesorios/Cuidados y Limpieza/
 54790,Pinza para el cabello negra,KPN,/Viaje y regalos/Accesorios/Cuidados y Limpieza/
 54792,"1"" split ring bps",Lucky Line,/Oficina/Accesorios de Oficina/Llaveros/
 54793,617-589 identificador p/maleta,Lucky Line,/Viaje y regalos/Viaje/Maletas/
@@ -13911,7 +13918,6 @@ id_producto,producto,proveedor,categoria
 55322,Amarre de motocicleta 2pk 6',S-LINE,/Herramientas/Automotriz/Accesorios automotriz/
 55326,Cuerdas para asegurar carga,S-LINE,/Herramientas/Automotriz/Accesorios automotriz/
 55328,Mm 2x27 ratch tie down,S-LINE,/Herramientas/Automotriz/Accesorios automotriz/
-55329,"Amarre con trinquete 1""x14'",S-LINE,/Herramientas/Automotriz/Accesorios automotriz/
 55332,Mm10pk rubb strap asstd,S-LINE,/Herramientas/Automotriz/Accesorios automotriz/
 55340,Mm6pc bungee cord asstd,S-LINE,/Herramientas/Automotriz/Accesorios automotriz/
 55341,Cuerda tipo bungee 10pk,S-LINE,/Herramientas/Automotriz/Accesorios automotriz/
@@ -14388,7 +14394,6 @@ id_producto,producto,proveedor,categoria
 56684,LICUADORA OSTER 800W 6 VEL. 2 BOTON DE VID ROJO,Oster,/Electrohogar/Electrodomésticos/Licuadoras/
 56693,Cinta  Floor marking tape Amarilla/negro,Flex Seal,/Herramientas/Ferreteria/Pegamentos y  cintas/
 56694,Toalla de bano extra favo gris 80cmx1.50M,Altenburg,/Dormitorio y Baño/Baño/Toallas/
-56695,Toalla de bano extra favo beige 80cmx1.50M,Altenburg,/Dormitorio y Baño/Baño/Toallas/
 56696,"115Mm  Amoladora 4 - 1/2""  720W  11000Rpm",Makita,/Herramientas/Herramientas Eléctricas/Amoladoras/
 56697,CAFETERA DE 12 TAZAS PROGRAMABLE OSTER,Oster,/Electrohogar/Electrodomésticos/Cafeteras/
 56699,LLAVERO MULTICOLOR,Troika,/Oficina/Accesorios de Oficina/Llaveros/
@@ -14397,7 +14402,6 @@ id_producto,producto,proveedor,categoria
 56705,MICROONDAS OSTER CON GRILL 42 litros,Oster,/Electrohogar/Electrodomésticos/Microondas y Hornos/
 56706,PLANCHA DE VAPOR INALAMBRICA OSTER,Oster,/Electrohogar/Electrodomésticos/Planchas/
 56707,PLANCHA DE VAPOR BASICA OSTER,Oster,/Electrohogar/Electrodomésticos/Planchas/
-56709,CAFETERA OSTER FRAPUCHINO,Oster,/Electrohogar/Electrodomésticos/Cafeteras/
 56710,Protector colchon twin Soho blanco,Soho,/Dormitorio y Baño/Ropa de Cama/Protectores de Colchón/
 56714,BATIDORA INDIVIDUAL DE INMERSION OSTER ROJO,Oster,/Electrohogar/Electrodomésticos/Batidoras/
 56723,Barbie Sirena basica surt,BARBIE,/Juguetería/Niña/Muñecas y Accesorios/
@@ -14445,7 +14449,6 @@ id_producto,producto,proveedor,categoria
 56798,Cinta doble contacto f/alfombras 50mmx5mts,Tesa,/Herramientas/Ferreteria/Pegamentos y  cintas/
 56799,Cinta montaje p/ exteriores 19x1.5mts,Tesa,/Herramientas/Ferreteria/Pegamentos y  cintas/
 56800,Mantel athenas esmeralda 01 1.4x2.1m,Dohler,/Hogar/Menaje Comedor/Juegos de Café y Té/
-56803,Mantel paloma 03 - linhares 2m,Dohler,/Hogar/Menaje Comedor/Juegos de Café y Té/
 56804,Edredon blend fashion 1 1/2plz celeste,Altenburg,/Dormitorio y Baño/Ropa de Cama/Edredones/
 56811,Lavadora Hisense 13 K CS,Hisense,/Electrohogar/Lavado y Secado/Lavadoras/
 56814,Interruptor simple  - plata x - blanco,Veto,/Iluminación/Materiales eléctricos y  focos/Materiales eléctricos/
@@ -14519,7 +14522,6 @@ id_producto,producto,proveedor,categoria
 56938,"Espatula flexible de 3""",Pretul,/Herramientas/Herramientas Manuales/Otras herramientas/
 56942,Lente de seguridad kazbek mc plata brillo lt oscuro,Do It Best,/Limpieza & Bioseguridad/Seguridad personal/Lentes de proteccion/
 56945,Brb bailarina surtido,BARBIE,/Juguetería/Niña/Muñecas y Accesorios/
-56946,Fp juguete para morder surtido,Fisher Price,/Juguetería/Bebé/Juguetes Bebés/
 56955,Fuentes de poder de 12v 1 amper.,Futura,/Iluminación/Materiales eléctricos y  focos/Materiales eléctricos/
 56958,Sop diagonal pata de cabra 16p 40cm cajax100,Closet Maid,/Herramientas/Ferreteria/Herraje/
 56966,CEPILLO PARA ROSTRO DISEÑO BALLENA,Kikkerland,/Viaje y regalos/Accesorios/
@@ -14545,7 +14547,6 @@ id_producto,producto,proveedor,categoria
 57000,Dp princesas surtidas,Disney Princess,/Juguetería/Niña/Muñecas y Accesorios/
 57001,Brb set piscina muneca glam,BARBIE,/Juguetería/Niña/Muñecas y Accesorios/
 57002,Juego mattel uno express,Mattel Games,/Juguetería/Juegos de Mesa/Juego de Mesa/
-57003,Barbie Sirena Color Reveal surt,BARBIE,/Juguetería/Niña/Muñecas y Accesorios/
 57071,"Televisor  65""smart qled Hisense 65A7K",Hisense,/Tecnología/Tv y Video/Televisores/
 57072,"Televisor 85""smart miniled 4k UHD Hisense 85U8N",Hisense,/Tecnología/Tv y Video/Televisores/
 57073,Refrigerador top  mount 246 l Hisense RT-320NV gris,Hisense,/Electrohogar/Refrigeración/Heladeras/
@@ -14575,7 +14576,184 @@ id_producto,producto,proveedor,categoria
 57099,Tumbler Flipstraw 890 ml Twilight,Stanley,/Camping/Conservadoras y coolers/Termos y tomatodos/
 57100,Tumbler Flipstraw 890 ml Dried Pine,Stanley,/Camping/Conservadoras y coolers/Termos y tomatodos/
 57101,"Quencher Protour 1,18 lts Hydrangea",Stanley,/Camping/Conservadoras y coolers/Termos y tomatodos/
-57649,Cocina CookTop Dako Diplomata Negra 5H,Dako,/Electrohogar/Cocina/Cocinas/
+57105,AQUARIUS PERA 300ML,Coca Cola,/Alimentos y Bebidas/Bebidas/Gaseosas/
+57106,CHOCOLATE TABLETA CREMA Y FRUTILLA 85G TALENTO,Garoto,/Alimentos y Bebidas/Chocolates y Caramelos/
+57107,LINDT LINDOR BOMBON SURTIDO CAJADA 75G,Lindor,/Alimentos y Bebidas/Chocolates y Caramelos/
+57108,Mesa de noche metal madera wengue alan,KENN,/Muebles/Dormitorio/Mesas de noche/
+57122,Imanix Pista De Carrera 50 Piezas,Imanix,/Juguetería/Juegos de Mesa/Manualidades/
+57123,Alfabeto Para Colorear,Lexus,/Juguetería/Juegos de Mesa/Manualidades/
+57124,Jungla Para Colorear,Lexus,/Juguetería/Juegos de Mesa/Manualidades/
+57126,Blancanieves,Lexus,/Juguetería/Juegos de Mesa/Manualidades/
+57127,Pinocho,Lexus,/Juguetería/Juegos de Mesa/Manualidades/
+57137,LLAVERO TIPO CAPSULA AZUL,Hy-Ko,/Oficina/Accesorios de Oficina/Llaveros/
+57138,SILICONE STRAP LIGHT,Hy-Ko,/Viaje y regalos/Accesorios/
+57152,Uno party,Mattel Games,/Juguetería/Juegos de Mesa/Juego de Mesa/
+57160,Brb cuarto de los suenos,BARBIE,/Juguetería/Niña/Muñecas y Accesorios/
+57162,Hw monster trucks color shifter,Hot Wheels,/Juguetería/Niño/Pistas de Autos/
+57164,Fr elza canciones magicas,Disney Frozen,/Juguetería/Niña/Muñecas y Accesorios/
+57170,Disney 365 Cuentos Para Ir A Dormir,Lexus,/Juguetería/Juegos de Mesa/Manualidades/
+57171,Emociones Abecedario,Lexus,/Juguetería/Juegos de Mesa/Manualidades/
+57177,PARAGUA JD60,Boss,/Viaje y regalos/Viaje/Accesorios de Viaje/
+57178,SUJETADOR PARA SABANA 4PZAS,Ubl,/Viaje y regalos/Accesorios/
+57179,ANTI SNORING KIT- KIT ANTI RONQUIDOS,Varios,/Viaje y regalos/Accesorios/
+57182,GT DOCK DOCKABLE PUCK 4PK-l,Nite Ize,/Viaje y regalos/Accesorios/
+57183,GT DOCK DOCKABLE PUCK 4PK-s,Nite Ize,/Viaje y regalos/Accesorios/
+57185,NACHOS EXTREMOS 200GR,Dr Picks,/Alimentos y Bebidas/Chocolates y Caramelos/
+57186,NECESER,Honey,/Viaje y regalos/Accesorios/Carteras y Billeteras/
+57187,NECESER,Honey,/Viaje y regalos/Accesorios/Carteras y Billeteras/
+57188,SILVER CAR LIGHT,Hy-Ko,/Oficina/Accesorios de Oficina/Llaveros/
+57189,SPRITE  500 CC,Coca Cola,/Alimentos y Bebidas/Bebidas/Gaseosas/
+57192,"Tira de amarre 1"" x 144"" / 4 pzas",Keeper,/Herramientas/Automotriz/Accesorios automotriz/
+57210,Lol surprise omg city babe,L.O.L.,/Juguetería/Niña/Muñecas y Accesorios/
+57212,Lol surprise omg miss royale,L.O.L.,/Juguetería/Niña/Muñecas y Accesorios/
+57229,Juego de  experimentos para ninos,KPN,/Juguetería/Juegos de Mesa/Manualidades/
+57234,Jw proceratosaurus,Jurassic World,/Juguetería/Niño/Figuras de acción/
+57236,Jw scorpios rex,Jurassic World,/Juguetería/Niño/Figuras de acción/
+57237,Fp Llama Actividades Divertidas,Fisher Price,/Juguetería/Bebé/Juguetes Bebés/
+57238,Hw monster trucks  glow in the dark,Hot Wheels,/Juguetería/Niño/Pistas de Autos/
+57239,Uno lightyear,Mattel Games,/Juguetería/Juegos de Mesa/Juego de Mesa/
+57241,Muneca d/helado/happy baby ice cream,Baby Nice,/Juguetería/Niña/Muñecas y Accesorios/
+57243,Poderes magicos  - la magia esta en tu interior,Lexus,/Juguetería/Juegos de Mesa/Manualidades/
+57244,Alfabeto (tb) con tablet lcd,Lexus,/Juguetería/Juegos de Mesa/Manualidades/
+57245,Set ripados laterales izq/der 15mm beig,Linea Brasil,/Decoración/Complementos decorativos/
+57254,ETIQUETAS DE EQUIPAJE 6CS,Olivia moss,/Oficina/Accesorios de Oficina/Llaveros/
+57256,LLAVERO BRIGHSIDE 8CS,Olivia moss,/Oficina/Accesorios de Oficina/Llaveros/
+57257,LLAVERO OFF THE CHAIN 6CS,Olivia moss,/Oficina/Accesorios de Oficina/Llaveros/
+57276,Rainbow high emi vanada,Rainbow High,/Juguetería/Niña/Muñecas y Accesorios/
+57277,Rainbow high gabriela icely,Rainbow High,/Juguetería/Niña/Muñecas y Accesorios/
+57288,"CARAMELO MENTHOPLUS STRONG 29,4G",Arcor,/Alimentos y Bebidas/Chocolates y Caramelos/
+57291,Amarre de trinquete 1 pulg. x 16 pies.,Keeper,/Herramientas/Automotriz/Accesorios automotriz/
+57292,GAFAD DE SOL 6CS,Smartmax,/Juguetería/Juegos de Mesa/Rompecabezas/
+57293,GAFAS DE SOL 8CS,Smartmax,/Juguetería/Juegos de Mesa/Rompecabezas/
+57294,ISOTONICO SANTE SPORT 1000 ML FRESA,Sante,/Alimentos y Bebidas/Bebidas/Gaseosas/
+57301,Al bano superequipo,Lexus,/Juguetería/Juegos de Mesa/Manualidades/
+57302,Cuentos de Peppa para ir a dormir,Lexus,/Juguetería/Juegos de Mesa/Manualidades/
+57303,Mi primer atlas mundial,Lexus,/Juguetería/Juegos de Mesa/Manualidades/
+57304,Aprendamos a decir la hora,Lexus,/Juguetería/Juegos de Mesa/Manualidades/
+57305,Aprendamos a contar,Lexus,/Juguetería/Juegos de Mesa/Manualidades/
+57327,MONEDERO CON BOLSILLO PARA HOMBRE CAFÉ,Kenneth Cole,/Viaje y regalos/Accesorios/Carteras y Billeteras/
+57331,TARJETERO PARA HOMBRE CAFÉ,Kenneth Cole,/Viaje y regalos/Accesorios/Carteras y Billeteras/
+57346,El ratoncito perez y el ladron de dientes,Lexus,/Juguetería/Juegos de Mesa/Manualidades/
+57348,Blanca nieves y los 7 enanitos,Lexus,/Juguetería/Juegos de Mesa/Manualidades/
+57350,El ratoncito perez tiene un secreto,Lexus,/Juguetería/Juegos de Mesa/Manualidades/
+57351,Mis amigos,Lexus,/Juguetería/Juegos de Mesa/Manualidades/
+57352,El ratoncito perez y su nuevo amigo,Lexus,/Juguetería/Juegos de Mesa/Manualidades/
+57353,El ratoncito perez y el diente especial,Lexus,/Juguetería/Juegos de Mesa/Manualidades/
+57354,Mama y bebe,Lexus,/Juguetería/Juegos de Mesa/Manualidades/
+57357,Teatrillo de el libre de la selva,Lexus,/Juguetería/Juegos de Mesa/Manualidades/
+57358,Eres un hermano mayor,Lexus,/Juguetería/Juegos de Mesa/Manualidades/
+57359,Aquiles el anquilosaurio celoso,Lexus,/Juguetería/Juegos de Mesa/Manualidades/
+57360,Eres una hermana mayor,Lexus,/Juguetería/Juegos de Mesa/Manualidades/
+57361,Gilberto el giaffatitan enojado,Lexus,/Juguetería/Juegos de Mesa/Manualidades/
+57362,Una chica a la moda,Lexus,/Juguetería/Juegos de Mesa/Manualidades/
+57363,Velu la velocirraptor cree que todo es suyo,Lexus,/Juguetería/Juegos de Mesa/Manualidades/
+57364,Un youtuber,Lexus,/Juguetería/Juegos de Mesa/Manualidades/
+57365,Curiosos y divertidos cuentos para ninos,Lexus,/Juguetería/Juegos de Mesa/Manualidades/
+57367,Aprende a dibujar vehiculos,Lexus,/Juguetería/Juegos de Mesa/Manualidades/
+57368,TAKIS FUEGO BOLSA 56GR,Takis,/Alimentos y Bebidas/Chocolates y Caramelos/
+57369,TAKIS FUEGO BOLSA 28GR,Takis,/Alimentos y Bebidas/Chocolates y Caramelos/
+57372,VAPE WAKA SOLO2 2500 PUFF DARK CHERRY,Waka,/Viaje y regalos/Accesorios/
+57375,GALLETA WAFER OPERA 92G,Arcor,/Alimentos y Bebidas/Chocolates y Caramelos/
+57376,Cepillo para limpieza de ruedas,Tramontina,/Herramientas/Automotriz/Limpieza automotriz/
+57377,Esponja de limpieza doble faz de microfibra y gamuza Tramon,Tramontina,/Herramientas/Automotriz/Limpieza automotriz/
+57393,Three Little Piggies - Deluxe,Smart Games,/Juguetería/Juegos de Mesa/Juego de Mesa/
+57409,Televisor plano 50'' Smart Hisense 50A6K VIDA UHD,Hisense,/Tecnología/Tv y Video/Televisores/4k/
+57417,MOSQUETON DOBLE SERT DE 2 NEGRO,Nite Ize,/Oficina/Accesorios de Oficina/Llaveros/
+57418,MOSQUETON CIRCULAR DOBLE PLATEADO,Nite Ize,/Oficina/Accesorios de Oficina/Llaveros/
+57419,MOSQUETON PLATEADO PARA LLAVES,Nite Ize,/Oficina/Accesorios de Oficina/Llaveros/
+57420,MOSQUETON PARA LLAVES SET DE 2 SUT.,Nite Ize,/Oficina/Accesorios de Oficina/Llaveros/
+57421,"ACCESORIO DE IDENTIFICACION DE LLAVE SET DE 6 SURT,",Nite Ize,/Oficina/Accesorios de Oficina/Llaveros/
+57422,ANILLO CON MOSQUETONES PARA LLAVE,Nite Ize,/Oficina/Accesorios de Oficina/Llaveros/
+57423,MOSQUETON PARA LLAVES NEGRO,Nite Ize,/Oficina/Accesorios de Oficina/Llaveros/
+57424,MOSQUETON CIRCULAR DOBLE PLATEADO CON AGARRADOR,Nite Ize,/Oficina/Accesorios de Oficina/Llaveros/
+57425,MOSQUETON ORGANIZADOR DE LLAVES,Nite Ize,/Oficina/Accesorios de Oficina/Llaveros/
+57426,ORGANIZADOR DE LLAVES COLGANTE,Nite Ize,/Oficina/Accesorios de Oficina/Llaveros/
+57427,MOSQUETON ORGANIZADOR DE LLAVES SET DE  4,Nite Ize,/Oficina/Accesorios de Oficina/Llaveros/
+57428,LLAVERO DOBLE NEGRO,Nite Ize,/Oficina/Accesorios de Oficina/Llaveros/
+57429,MOSQUETON DOBLE PARA LLAVES NEGRO,Nite Ize,/Oficina/Accesorios de Oficina/Llaveros/
+57430,MOSQUETON CIRCULAR PARA LLAVES PLETEADO,Nite Ize,/Oficina/Accesorios de Oficina/Llaveros/
+57431,SET DE 2 ANILLOS ORGANIZADORES PARA LLAVES,Nite Ize,/Oficina/Accesorios de Oficina/Llaveros/
+57448,Juego ajedrez damas tres en raya,Pip games,/Juguetería/Juegos de Mesa/Juego de Mesa/
+57450,Juego Torre De Colores Tambaleante,Pip games,/Juguetería/Juegos de Mesa/Juego de Mesa/
+57492,"PINZAS DE COCINA   (12"")",Diamond Visions,/Hogar/Menaje Cocina/Utensilios de Cocina/
+57503,GOMIITA PLAY PULPO,Play,/Alimentos y Bebidas/Chocolates y Caramelos/
+57504,GOMITA PLAY SANDIA,Play,/Alimentos y Bebidas/Chocolates y Caramelos/
+57508,HUEVO SOPRESA SURITDO TRANSFORMER PAW PATROL SONIC ZOMBIES,Nickelodeon,/Alimentos y Bebidas/Chocolates y Caramelos/
+57512,Guia de los adolescentes para chicas,Lexus,/Juguetería/Niña/Muñecas y Accesorios/
+57514,Tarugo herramienta slime 8 pzs,Slime,/Herramientas/Automotriz/Accesorios automotriz/
+57515,SNICKERS ORIGINAL  45GR,Snickers,/Alimentos y Bebidas/Chocolates y Caramelos/
+57516,GALLETA DE ARROZ CON COBERTURA CHOCOLATE,Mrs Taste,/Alimentos y Bebidas/Chocolates y Caramelos/
+57517,VAPE WAKA CREATOR POD 12000 PUFF BLUEBERRY ICE,Waka,/Viaje y regalos/Accesorios/
+57518,VAPE WAKA DIAMOND 1000PUFF BLUEBERRY ICE,Waka,/Viaje y regalos/Accesorios/
+57519,VAPE WAKA DIAMOND 1000 PUFF STRAWBERRY ICE,Waka,/Viaje y regalos/Accesorios/
+57521,VAPE WAKA KIT 12000 PUFF CREATOR DISPOSITIVO + ICY COCONOUT WATER,Waka,/Viaje y regalos/Accesorios/
+57522,VAPE WAKA KIT 12000 PUFF CREATOR DISPOSITIVO+BLUEBERRY ICE,Waka,/Viaje y regalos/Accesorios/
+57523,VAPE WAKA NOVA 16000PUFF ACAI BERRY ICE,Waka,/Viaje y regalos/Accesorios/
+57524,VAPE WAKA NOVA 16000PUFF RASPBERRY ICE,Waka,/Viaje y regalos/Accesorios/
+57525,Llave banda filtro aceite 2-7/8 - 3-1/4,Stanley,/Herramientas/Herramientas Manuales/Otras herramientas/
+57526,Llave banda filtro aceite 3-1/2 - 3-7/8,Stanley,/Herramientas/Herramientas Manuales/Otras herramientas/
+57527,Probador de compresion p/motor,Stanley,/Herramientas/Automotriz/Accesorios automotriz/
+57528,BEBIDA FUNCIONAL SANTE PLUS VITAMINA 1LT,Sante,/Alimentos y Bebidas/Bebidas/Gaseosas/
+57530,"Televisor Hisense 43"" VIDA UHD",Hisense,/Tecnología/Tv y Video/Televisores/4k/
+57531,Ambientador cesare antique feminin blister,Mr And Mrs,/Limpieza & Bioseguridad/Productos de limpieza/Ambientadores/
+57532,Ambientador cesare tiffany masculin pantone,Mr And Mrs,/Limpieza & Bioseguridad/Productos de limpieza/Ambientadores/
+57535,SALES DE REHIDRATACION LIFE FRESA 500ML,Sante,/Alimentos y Bebidas/Bebidas/Gaseosas/
+57536,SALES DE REHIDRATACION LIFE NARANAJA 500ML,Sante,/Alimentos y Bebidas/Bebidas/Gaseosas/
+57537,CANDY AND SPRAY SURTX3  (BARBIE-GARFIELD-TROLLS),Nickelodeon,/Alimentos y Bebidas/Chocolates y Caramelos/
+57538,CEREAL CHOCOLIKE ALMOHADITA RELLLNAS DE CHOCOLATE 200G,Haba,/Alimentos y Bebidas/Chocolates y Caramelos/
+57539,CEREAL CHHOCOLIKE ALMOHADITA RELLENAS DE CHOCOLATE 25G,Haba,/Alimentos y Bebidas/Chocolates y Caramelos/
+57540,REGALIZ UVA ACIDO 15GR,Fini,/Alimentos y Bebidas/Chocolates y Caramelos/
+57541,GOMITAS GUSANO 35GR,Fini,/Alimentos y Bebidas/Chocolates y Caramelos/
+57542,REGALIZ TUTI FRUTI ACIDO 15GR,Fini,/Alimentos y Bebidas/Chocolates y Caramelos/
+57543,GOMITAS DENTADURAS 35GR,Fini,/Alimentos y Bebidas/Chocolates y Caramelos/
+57544,REGALIZ FRESA 15G,Fini,/Alimentos y Bebidas/Chocolates y Caramelos/
+57545,GOMITAS BANANA  35GR,Fini,/Alimentos y Bebidas/Chocolates y Caramelos/
+57546,GOMITAS BESOS 35GR,Fini,/Alimentos y Bebidas/Chocolates y Caramelos/
+57547,BRINKI FRESA 12UNID,Fini,/Alimentos y Bebidas/Chocolates y Caramelos/
+57548,BRINKI VAINILLA 15UNID,Fini,/Alimentos y Bebidas/Chocolates y Caramelos/
+57549,GOMITAS AROS FRESA  80GR,Fini,/Alimentos y Bebidas/Chocolates y Caramelos/
+57550,BRINKI CHOCOLATE 15UNID,Nax,/Alimentos y Bebidas/Chocolates y Caramelos/
+57551,CHOCOMUUU  6x34GR,Nax,/Alimentos y Bebidas/Chocolates y Caramelos/
+57552,CRAKENAS CLUB 8UNID,Nax,/Alimentos y Bebidas/Chocolates y Caramelos/
+57553,CRAKENAS DORADITAS 8UNID,Nax,/Alimentos y Bebidas/Chocolates y Caramelos/
+57555,Kit para parchar slime 22 pzas,Slime,/Herramientas/Automotriz/Accesorios automotriz/
+57562,Lol sorpresamuneca y avion,L.O.L.,/Juguetería/Niña/Muñecas y Accesorios/
+57566,Pistola de agua 59x7cm,KPN,/Juguetería/Juegos de exterior/Pistolas de Juguetes/
+57570,El patito feo audio libro,Lexus,/Juguetería/Juegos de Mesa/Manualidades/
+57571,Gran libro de cuentos de hadas,Lexus,/Juguetería/Juegos de Mesa/Manualidades/
+57574,Imanix classics 60 piezas,Imanix,/Juguetería/Juegos de Mesa/Manualidades/
+57575,Imanix estándar de 32 piezas,Imanix,/Juguetería/Juegos de Mesa/Manualidades/
+57583,BILLETERA LONA RFTD TRI-FOLD NEGRA,Victorinox,/Viaje y regalos/Accesorios/Carteras y Billeteras/
+57585,BILLETERA DFID ZIP AROUND NEGRA,Victorinox,/Viaje y regalos/Accesorios/Carteras y Billeteras/
+57589,RADRIOMETRO SOLAR,Kikkerland,/Mascotas/Paseo y accesorios/
+57592,RE./PARKER DF-F-AZUL,Parker,/Oficina/Accesorios de Oficina/Bolígrafos/
+57600,REP./PARKER RB-F-NEGRO,Parker,/Oficina/Accesorios de Oficina/Bolígrafos/
+57601,AURICULARES INALAMBRICOS BLANCO,DIB,/Tecnología/Cables y Accesorios/
+57602,AURICULARES INALAMBRICOS NEGRO,Get Power,/Tecnología/Cables y Accesorios/
+57603,BiISCOCHO DE MAIZ SAN JAVIER 200GR,San Javier,/Alimentos y Bebidas/Bebidas/Gaseosas/
+57604,"CABLE APPLE MIGI PARA AUTO 3"" BLANCO",DIB,/Tecnología/Cables y Accesorios/
+57605,"CABLE DE AUDIO 3,5MM RETRACTABLE",Get Power,/Tecnología/Cables y Accesorios/
+57607,"CABLE MICRO USB PARA AUTO 3"" NEGRO",DIB,/Tecnología/Cables y Accesorios/
+57608,"CABLE TRENZADO MICRO USB 3""",DIB,/Tecnología/Cables y Accesorios/
+57611,Shampoo con cera carnauba para autos 2,Turtle Wax,/Herramientas/Automotriz/Limpieza automotriz/
+57612,Compresora slime pro power tire 6 min,Slime,/Herramientas/Automotriz/Limpieza automotriz/
+57614,CHICLE T7 MENTA 14G,Arcor,/Alimentos y Bebidas/Chocolates y Caramelos/
+57616,Housing plug,Hopkins,/Herramientas/Automotriz/Accesorios automotriz/
+57617,CHOC. COFLER LECHE CONFITES   55G,Arcor,/Alimentos y Bebidas/Chocolates y Caramelos/
+57620,"CABLE MICRO USB DE CARGA 12""",Get Power,/Tecnología/Cables y Accesorios/
+57621,"CABLE TRENZADO PARA APPLE MIFI 7""",Get Power,/Tecnología/Cables y Accesorios/
+57623,CONITO QUEDO NACHO 230GR,Dr Picks,/Alimentos y Bebidas/Chocolates y Caramelos/
+57625,GOMITAS MOGUL OSITOS 150G,Arcor,/Alimentos y Bebidas/Chocolates y Caramelos/
+57626,POCKEOS PICANTE 14x200GR,Dr Picks,/Alimentos y Bebidas/Chocolates y Caramelos/
+57627,PICKESOS PICANTE LIMON 200GR,Dr Picks,/Alimentos y Bebidas/Chocolates y Caramelos/
+57628,PICKESOS QUESO 14x200GR,Dr Picks,/Alimentos y Bebidas/Chocolates y Caramelos/
+57630,SOLAR LED SAFETY WHISTLE,Hy-Ko,/Tecnología/Cables y Accesorios/
+57632,PIPOCA ACTII MANTE EXTRA 99GR,Act II,/Alimentos y Bebidas/Snack saludable/
+57633,CIGARRO ELECTRICO MINT 5% DE 1000 CALADAS,Chokolike,/Viaje y regalos/Accesorios/
+57634,HUEVO SORPRESA SURTIDO CRY BABIES LOL PEPPA PIG MIRACULOS GABBY DOLL HOUSE,Nickelodeon,/Alimentos y Bebidas/Chocolates y Caramelos/
+57635,PIPOCAS NATURAL 99GR,Act II,/Alimentos y Bebidas/Snack saludable/
+57636,GALLETA OREO ORIGINAL 36GR 6U,Oreo,/Alimentos y Bebidas/Chocolates y Caramelos/
+57637,MOCHILA ROLL-TOP AMARILLA,Troika,/Camping/Mochilas y Bolsos Outdoor/Mochilas/
 57650,Dako Magister Style 4H Mesa Inox C/Grill,Dako,/Electrohogar/Cocina/Cocinas/
 57651,Recipiente traba mas rectangular 1.3l beige,Plasutil,/Hogar/Menaje Cocina/Contenedores de alimento/
 57653,Cafetera Espresso Brugmann,Brugmann,/Electrohogar/Electrodomésticos/Cafeteras/
