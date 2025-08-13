@@ -1782,6 +1782,7 @@ id_producto,producto,categoria,subcategoria
 25259,BEBIDA FOUR LOKO WHITE LTA 695ML,Bebidas,Licores
 25262,CREMA P CAFE COUNTRY BARN 16 OZ,Abarrotes,Café y Sucedáneos
 25265,CHOCLO CEPERA LTA 170G,Abarrotes,Verduras en Conserva
+25266,ARVEJA CEPERA LTA 170G,Abarrotes,Verduras en Conserva
 25267,KETCHUP PICKLES CEPERA PET 350G,Abarrotes,Aderezos
 25272,PURE D PAPA KRIS INSTANT TOCINO 125G,Abarrotes,Básicos
 25273,PURE D PAPA KRIS INSTANT TOCINO 250G,Abarrotes,Básicos
@@ -7630,6 +7631,7 @@ id_producto,producto,categoria,subcategoria
 227109,Bloqueador Solaris Maquillaje Spf 50 50 gr,Cuidado Personal,Cuidado de la Piel
 227112,Shampoo Revive Reparacion Intensa 600 ml,Cuidado Personal,Cuidado del Cabello
 227113,Acondicionador Revive Reparacion Intensa 600 ml,Cuidado Personal,Cuidado del Cabello
+227115,Pañal Sensaty Adulto Talla G 20 un,Cuidado Personal,Cuidado del Adulto
 227118,Limpiador Desinfectante Cif Lavanda 360 ml,Cuidado del Hogar,Productos Americanos
 227119,DESINFECTANTE CIF CITRICO 360 CC,Cuidado del Hogar,Productos Americanos
 227120,Limpiador Desinfectante Cif Original 360 ml,Cuidado del Hogar,Productos Americanos
@@ -7765,6 +7767,7 @@ id_producto,producto,categoria,subcategoria
 228124,DEO SPRAY OLD SPICE AT DRAGONBLAST 150ML,Cuidado Personal,Cuidado de la Piel
 228126,CREMA PEINAR PANTENE ANTICAIDA 300ML,Cuidado Personal,Cuidado del Cabello
 228127,ACOND PANTENE ANTICAIDA 250ML,Cuidado Personal,Cuidado del Cabello
+228129,ACOND PANTENE ANTICAIDA 510ML,Cuidado Personal,Cuidado del Cabello
 228130,SHAMPOO PANTENE ANTICAIDA 510ML,Cuidado Personal,Cuidado del Cabello
 228131,SHAMPOO H&S NUTRIMIEL650ML,Cuidado Personal,Cuidado del Cabello
 228132,SHAMPOO H&S NUTRIMIEL375ML,Cuidado Personal,Cuidado del Cabello
@@ -7820,10 +7823,12 @@ id_producto,producto,categoria,subcategoria
 228205,TRAPO MICROFIBRA  PINTO VERDE 300 GR,Cuidado del Hogar,Accesorios del Hogar
 228221,SERUM OJOS LOREAL ACIDO GLICOLICO,Cuidado Personal,Cuidado de la Piel
 228225,ESPONJA METAL ESPIRAL SCOTCH BRITE PACK,Cuidado del Hogar,Accesorios del Hogar
+228226,ESPONJA METALICA ESPIRAL SCOTCH BRITE 1U,Cuidado del Hogar,Accesorios del Hogar
 228228,LIMPIADOR DE BOTELLAS SCOTCH BRITE 30 CJ,Cuidado del Hogar,Accesorios del Hogar
-228229,LIST SANDIA ZERO FRESC SUAVE 250ML,Cuidado Personal,Cuidado Bucal
-228231,LIST SANDIA ZERO FRESC SUAVE 500 ML,Cuidado Personal,Cuidado Bucal
+228229,Enjuague Bucal Listerine Sandia Zero  250 ml LOGM,Cuidado Personal,Cuidado Bucal
+228231,Enjuague Bucal Listerine Sandia Zero 500 ml LOGM,Cuidado Personal,Cuidado Bucal
 228233,PAPEL FINESSE PREMIUM 4X12 MEGA,Cuidado Personal,Cuidado Familiar
+228337,NEUTROGENA SERUM NIACINAMIDA 30ML,Cuidado Personal,Cuidado de la Piel
 228670,DESTAPA CANERIAS EN GEL TODO BRILLO 1LT,Cuidado del Hogar,Limpieza de Baños
 228671,DESTAPA CANERIAS EN GEL TODO BRILLO 2LT,Cuidado del Hogar,Limpieza de Baños
 228673,TOALLA HUMEDA PROBLOCK MANZANILLA  ALOE,Cuidado del Bebé,Cuidado del Bebé
@@ -8372,6 +8377,7 @@ id_producto,producto,categoria,subcategoria
 249036,EXFOLIANTE PORTUGAL TUBO 110 ML,Cuidado Personal,Cuidado de la Piel
 249037,CREMA PORTUGAL LECHE LIMPIADORA 210 GR,Cuidado Personal,Cuidado de la Piel
 249039,CREMA PORTUGAL ALOE PEPINO 100 GR,Cuidado Personal,Cuidado de la Piel
+249040,CREMA PORTUGAL LECHUGA FLUIDA 100 GR,Cuidado Personal,Cuidado de la Piel
 249043,Talco Portugal Mentol Verde 75 gr,Cuidado Personal,Cuidado de la Piel
 249044,Aceite Portugal Bebe Vitamina E 250 ml,Cuidado del Bebé,Cuidado del Bebé
 249045,Talco Portugal Original Azul 75 gr,Cuidado Personal,Cuidado de la Piel
@@ -11605,6 +11611,7 @@ id_producto,producto,categoria,subcategoria
 463066,Repelente Floresta Extremo Spray 15% 120 ml,Cuidado Personal,Cuidado de la Piel
 463068,Repelente Floresta Familiar 7.5% Crema 120 gr,Cuidado Personal,Cuidado de la Piel
 463275,LECHE NIDO CRECIMIENTO 1+ LTA 800G,Abarrotes,Nutrición Infantil
+463335,MIEL D ABEJA MELIMEL MAYACUYA 85G,Abarrotes,"Mermel, Mieles"
 463426,Pimienta Dulce Badia Molida 2 oz,Abarrotes,Condimentos y Legumbres
 463442,Pimienta Negra Badia Molida 7 oz,Abarrotes,Condimentos y Legumbres
 463469,Crema Para Cafe Promos 16 oz,Abarrotes,Café y Sucedáneos
@@ -14291,6 +14298,7 @@ id_producto,producto,categoria,subcategoria
 553315,CHOCOLATE PAITITI 99P STEVIA 67 GR,Abarrotes,Dietéticos y Saludables
 553316,CHOCOLATE PAITITI 100P SIN AZUCAR 67 GR,Abarrotes,Dietéticos y Saludables
 553317,CHOCOLATE PAITITI 100P SIN AZUCAR 100 GR,Abarrotes,Dietéticos y Saludables
+553319,BRANDY DANS LE VENT 750 ML,Bebidas,Licores
 553320,PACK 12X6 CERVEZA BUDWEISER 269 CC,Bebidas,Cervezas
 553321,PASTA LARGA  CORTA SPIGA 11.34 KG,Abarrotes,Básicos
 553322,PASTA LARGA CORTA SPIGA 400 GR,Abarrotes,Básicos
@@ -14335,6 +14343,7 @@ id_producto,producto,categoria,subcategoria
 553378,LLAJUA POLVO YA JUA NORMAL SOBRE 10 GR,Abarrotes,Condimentos y Legumbres
 553379,LLAJUA EN POLVO YA JUA EXTRA PICANTE SOB,Abarrotes,Condimentos y Legumbres
 553381,SALSA ULUPICAS MANGO RINCON MADERAS FCO,Abarrotes,Aderezos
+553382,SALSA R MADERAS TERIYAKI D ULUPICAS 55ML,Abarrotes,Aderezos
 553386,PACK 3 JUGOS DEL SOL TETRA 1 LT,Bebidas,"Jugos, Néctar"
 553387,Galleta Oreo Selena Tubo 108 g,Abarrotes,Galletas
 553388,Galleta Oreo Selena 216 g,Abarrotes,Galletas
@@ -20760,6 +20769,7 @@ id_producto,producto,categoria,subcategoria
 741387,REQUESON CULINARIO TIPO MUZZARELLA LA HOLANDESA 400 GRS.,Lácteos y Derivados,Quesos
 741563,QUESO CHEDDAR LAMINADO A/V LA HOLANDESA 250 GRS.,Lácteos y Derivados,Quesos
 741587,Pulpa Congelada Natural Guayaba 230 gr,Congelados,Pulpas y Frutas Congeladas
+741693,REQUESON CULINARIO TIPO CHEDDAR LA HOLANDESA 400 GRS.,Lácteos y Derivados,Quesos
 742345,QUESO PROVOLONE AJI PARR. EL AVILA 250 GRS.,Lácteos y Derivados,Quesos
 742580,Pan de Sesamo Tostado Dulce Hogar 600 gr,Panadería,Panadería Externa
 742631,Pan 5 Semillas Dulce Hogar 1 kg,Panadería,Panadería Externa
