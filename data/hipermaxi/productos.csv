@@ -5072,6 +5072,7 @@ id_producto,producto,categoria,subcategoria
 112936,Agua Oxigenada Farmax Volumen 10 90 ml,Cuidado Personal,Cuidado del Cabello
 112938,Quitaesmalte Farmax Uva 100 ml,Cuidado Personal,Cuidado de la Piel
 112941,Shampoo Johnsons Fuerza Vitamina 200 ml KNV,Cuidado del Bebé,Kids
+112952,Fijador Spray Roby Fuerte 180 ml,Cuidado Personal,Cuidado del Cabello
 112953,Fijador Spray Roby Normal 180 ml,Cuidado Personal,Cuidado del Cabello
 112967,Jabon Liquido Ballerina Aceite Coco 1 L,Cuidado Personal,Cuidado de la Piel
 112970,Shampoo Ballerina sin Sal Aceite Coco Doypack 900 ml,Cuidado Personal,Cuidado del Cabello
@@ -5326,6 +5327,7 @@ id_producto,producto,categoria,subcategoria
 115354,Base Maybelline Full Coverage Sun Beige,Cuidado Personal,Cuidado de la Piel
 115357,Base Maybelline Full Coverage Natural Beige,Cuidado Personal,Cuidado de la Piel
 115362,Corrector Maybelline Eraser Sand Sable,Cuidado Personal,Cuidado de la Piel
+115363,Corrector Maybelline Eraser Light Pale 20,Cuidado Personal,Cuidado de la Piel
 115368,Base Maybelline Full Coverage 320,Cuidado Personal,Cuidado de la Piel
 115415,Fideo Paloma Surtido 400 kg,Abarrotes,Básicos
 115602,Shampoo Dove Men Sport 400 ml,Cuidado Personal,Cuidado del Cabello
@@ -6600,6 +6602,9 @@ id_producto,producto,categoria,subcategoria
 203143,LABIAL VOGUE BARRA COCOA,Cuidado Personal,Cuidado de la Piel
 203144,LABIAL VOGUE BARRA CEREZA,Cuidado Personal,Cuidado de la Piel
 203145,LABIAL VOGUE BARRA PASION,Cuidado Personal,Cuidado de la Piel
+203149,Acondicionador Baby Evita Lagrimas 750 ml,Cuidado del Bebé,Cuidado del Bebé
+203150,COLONIA GOLDEN C/ESTUCHE 210 ML,Cuidado del Bebé,Cuidado del Bebé
+203152,COLONIA LILA C/ESTUCHE 210 ML,Cuidado del Bebé,Cuidado del Bebé
 203156,GEL YAMAFIX ACERO 4 300 GR,Cuidado Personal,Cuidado del Cabello
 203159,Masticable Casal Yogus Surtido 300 gr,Abarrotes,Golosinas - Varias
 203227,Chocolate Arcor Aguila Gota 150 gr,Abarrotes,Repostería
@@ -7485,7 +7490,7 @@ id_producto,producto,categoria,subcategoria
 223991,Leche Limpiadora Nivea Rose Care 200 ml,Cuidado Personal,Cuidado de la Piel
 223992,Exfoliante Nivea Gel Facial Purificante Aloe,Cuidado Personal,Cuidado de la Piel
 223993,Limpiador de Baño Todo Brillo Saca Sarro 5 L,Cuidado del Hogar,Limpieza de Baños
-223995,ELVIVE OLEO  EXTRAORDIN UNIVERSO 100 ML,Cuidado Personal,Cuidado del Cabello
+223995,Elvive Oleo Extraordinario Universo 100 ml,Cuidado Personal,Cuidado del Cabello
 223996,SSPLASH AROMASENSE PERFECT SEDUCCION 250,Cuidado Personal,Cuidado de la Piel
 223997,SPLASH AROMASENSE PURE DIAMON 250 ML,Cuidado Personal,Cuidado de la Piel
 223998,Pack 2 Repelente Off Aerosol Ahorra 127 ml,Cuidado Personal,Cuidado de la Piel
@@ -7631,7 +7636,9 @@ id_producto,producto,categoria,subcategoria
 227109,Bloqueador Solaris Maquillaje Spf 50 50 gr,Cuidado Personal,Cuidado de la Piel
 227112,Shampoo Revive Reparacion Intensa 600 ml,Cuidado Personal,Cuidado del Cabello
 227113,Acondicionador Revive Reparacion Intensa 600 ml,Cuidado Personal,Cuidado del Cabello
+227114,Pañal Sensaty Adultos Talla M 20 un,Cuidado Personal,Cuidado del Adulto
 227115,Pañal Sensaty Adulto Talla G 20 un,Cuidado Personal,Cuidado del Adulto
+227116,Pañal Sensaty Adulto Talla EG 18 un,Cuidado Personal,Cuidado del Adulto
 227118,Limpiador Desinfectante Cif Lavanda 360 ml,Cuidado del Hogar,Productos Americanos
 227119,DESINFECTANTE CIF CITRICO 360 CC,Cuidado del Hogar,Productos Americanos
 227120,Limpiador Desinfectante Cif Original 360 ml,Cuidado del Hogar,Productos Americanos
@@ -7737,7 +7744,7 @@ id_producto,producto,categoria,subcategoria
 228069,GEL DENTAL CONDOR KIDS HW 3511,Cuidado del Bebé,Kids
 228070,GEL DENTAL CONDOR  KIDS HW 3512,Cuidado del Bebé,Kids
 228071,GEL DENTAL CONDOR KIDS HW 8211,Cuidado del Bebé,Kids
-228072,DETERGENTE POLVO GIRANDOSOL HIPO 7K,Cuidado del Hogar,Limpieza de la Ropa
+228072,Detergente Polvo Girandosol 7 k,Cuidado del Hogar,Limpieza de la Ropa
 228073,NAFTALINA PERDIGON 100 GR,Cuidado del Hogar,Productos Americanos
 228074,NAFTALINA IBERIA 100 GR,Cuidado del Hogar,Productos Americanos
 228075,TINTE ISSUE EXPRESS 5 MINUTOS ROJO,Cuidado Personal,Cuidado del Cabello
@@ -7760,10 +7767,10 @@ id_producto,producto,categoria,subcategoria
 228115,PANUELO FINESSE MENTOL 6 UNDS,Cuidado Personal,Cuidado Familiar
 228118,PACK AHORRA PROCENEX LAVANDA 900 ML,Cuidado del Hogar,Limpieza de Baños
 228119,PACK AHORRA PROCENEX FLORAL 900 ML,Cuidado del Hogar,Limpieza de Baños
-228120,TOALLA HUMEDA DULCO CARS 100 UNDS,Cuidado del Bebé,Cuidado del Bebé
-228121,TOALLA HUMEDA DULCO FROZEN 100 UNDS,Cuidado del Bebé,Cuidado del Bebé
-228122,TOALLA HUMEDA DULCO PRINCESA 100 UNDS,Cuidado del Bebé,Cuidado del Bebé
-228123,TOALLA HUMEDA DULCO SPIDERMAN 100 UNDS,Cuidado del Bebé,Cuidado del Bebé
+228120,Toalla Humeda Dulco Cars 100 un,Cuidado del Bebé,Cuidado del Bebé
+228121,Toalla Humeda Dulco Frozen 100 un,Cuidado del Bebé,Cuidado del Bebé
+228122,Toalla Humeda Dulco Princesa 100 un,Cuidado del Bebé,Cuidado del Bebé
+228123,Toalla Humeda Dulco Spiderman 100 un,Cuidado del Bebé,Cuidado del Bebé
 228124,DEO SPRAY OLD SPICE AT DRAGONBLAST 150ML,Cuidado Personal,Cuidado de la Piel
 228126,CREMA PEINAR PANTENE ANTICAIDA 300ML,Cuidado Personal,Cuidado del Cabello
 228127,ACOND PANTENE ANTICAIDA 250ML,Cuidado Personal,Cuidado del Cabello
@@ -8286,6 +8293,7 @@ id_producto,producto,categoria,subcategoria
 240860,PACK 3M ESPONJAX4 Y TENEDOR NEGRO,Cuidado del Hogar,Accesorios del Hogar
 240863,NEUTROGENA SUN FRES HB50 COL 2 6X40ML,Cuidado Personal,Cuidado de la Piel
 240864,NEUTROGENA SUN FRES HB50 S COL 6X40ML,Cuidado Personal,Cuidado de la Piel
+240865,Detergente Girandosol Rosa Floral 7 Kg,Cuidado del Hogar,Limpieza de la Ropa
 240867,Detergente Polvo Girandosol Rosa Floral 800 gr,Cuidado del Hogar,Limpieza de la Ropa
 240868,Detergente Polvo Hipoalergenico 800 gr,Cuidado del Hogar,Limpieza de la Ropa
 240870,Detergente Polvo Girandosol Floral 800 gr,Cuidado del Hogar,Limpieza de la Ropa
@@ -8363,8 +8371,8 @@ id_producto,producto,categoria,subcategoria
 249010,Pack Shampoo Sedal Liso 340 ml + Crema,Cuidado Personal,Cuidado del Cabello
 249011,Limpiador Crema Cif Rosa Jazmin 750 gr,Cuidado del Hogar,Limpieza de Living y Ropero
 249012,Cepillo Dental Colgate Carbon 360 Medio 2 Und,Cuidado Personal,Cuidado Bucal
-249013,DESODORANTE SPEDSTICK CLINICAL 70 GR MEN,Cuidado Personal,Cuidado de la Piel
-249014,DESODORANTE CLINICAL SPRRD STICK WOM 70,Cuidado Personal,Cuidado de la Piel
+249013,Desodorante Speed stick Clinical 70 gr Men,Cuidado Personal,Cuidado de la Piel
+249014,Desodorante Clinical Speed Stick women 70 g,Cuidado Personal,Cuidado de la Piel
 249015,Esponja de Baño con Cordon,Cuidado del Hogar,Accesorios del Hogar
 249026,Acido Glicolico Loreal Crema Noche 50 ml,Cuidado Personal,Cuidado de la Piel
 249027,Acido Glicolico Loreal Crema Dia 50 ml,Cuidado Personal,Cuidado de la Piel
@@ -9661,6 +9669,7 @@ id_producto,producto,categoria,subcategoria
 338717,Ciruela Disecadas Maya Semilla 380 gr,Abarrotes,Frutas en Conserva
 338738,ALZA BASURA PINTO S/PALO,Cuidado del Hogar,Accesorios del Hogar
 338744,ESCOBA FULLER GIRASOL DURA 71025,Cuidado del Hogar,Accesorios del Hogar
+338746,ESCOBA FULLER GIRASOL SUAVE FIBERFLEX,Cuidado del Hogar,Accesorios del Hogar
 338752,TRAPEADOR ALGODON NO.20 PINTO,Cuidado del Hogar,Accesorios del Hogar
 338760,Pinza Ropa Indecoel 24 un,Cuidado del Hogar,Accesorios del Hogar
 338771,Jarabe Centenario de Grosella 1000 ml,Abarrotes,Repostería
@@ -11705,6 +11714,7 @@ id_producto,producto,categoria,subcategoria
 475634,Matambre de Cerdo Frigopor kg,Congelados,Carnes Congeladas
 476609,Achocolatado Chocolike 1 kg,Abarrotes,Nutrición Infantil
 477249,Lomito de Cerdo Colonia Pirai kg,Fiambres,Fiambres Externos
+477290,Mortadela Galantina Colonia Pirai 1 kg,Fiambres,Fiambres Externos
 477656,Salsa La Costeña Verde 450 gr,Abarrotes,Aderezos
 477664,Salsa La Costeña Ranchera 450 gr,Abarrotes,Aderezos
 478113,Jamon Linea Caliente Dillman kg,Fiambres,Fiambres Externos
@@ -13194,7 +13204,7 @@ id_producto,producto,categoria,subcategoria
 551672,Pack 2 Vino La Curiosa Malbec Blend + Copa,Bebidas,Vinos y Champagne
 551674,Cereal Lucky Charms Avena Marlv 527 gr,Abarrotes,Productos Americanos
 551675,Cereal Honey Nut Cheeiros Miel 532 gr,Abarrotes,Productos Americanos
-551683,Gaseosa Oriental Pomelo 3 L,Bebidas,Gaseosas
+551683,Gaseosa Oriental Pomelo 3 L CBN,Bebidas,Gaseosas
 551684,Energizante Raptor 500 ml,Bebidas,Energizantes
 551687,Singani Barbacana Single 750 ml,Bebidas,Licores
 551688,Singani Barbacana Doble Destilado 750 ml,Bebidas,Licores
@@ -13512,6 +13522,7 @@ id_producto,producto,categoria,subcategoria
 552301,PLATANO FRITO IL CIBO 200 GR,Abarrotes,Snack
 552302,Nacho Kraks Queso Cheddar 200 gr,Abarrotes,Snack
 552303,Nacho Kraks Clasico 200 gr,Abarrotes,Snack
+552304,Nacho Kraks Picante 200 gr,Abarrotes,Snack
 552306,Nacho Kraks Chile Limon 200 gr,Abarrotes,Snack
 552309,Nacho Kraks Clasico 50 gr,Abarrotes,Snack
 552310,Nacho Kraks Spicy 50 gr,Abarrotes,Snack
@@ -14355,6 +14366,7 @@ id_producto,producto,categoria,subcategoria
 553396,JUGO SANDIA TRUE LIFE LTA 500 ML,Bebidas,Bebidas Usa
 553397,JUGO MANGO TRUE LIFE LTA 500 ML,Bebidas,Bebidas Usa
 553398,AGUA DE COCO CON PULPA TRUE LIFE 500 LTA ML,Bebidas,Bebidas Usa
+553413,SAZONADOR COMPLETO BADIA 70.9 GR,Abarrotes,Productos Americanos
 553415,ISOTONICO POWERADE MANZ VERDE 473ML,Bebidas,Isotónicos
 553416,ISOTONICO POWERADE MANZ VERDE 990ML,Bebidas,Isotónicos
 554333,Cerveza Paceña Lata Roja 473 Cc,Bebidas,Cervezas
@@ -17160,7 +17172,7 @@ id_producto,producto,categoria,subcategoria
 665070,Salsa Arcor Pizza 200 gr,Abarrotes,Salsas y Extracto de Tomate
 665246,Miel de Abeja Eba Promiel 750 gr,Abarrotes,"Mermel, Mieles"
 665541,Chocolate Breick Leche Trozado 100 gr,Abarrotes,Chocolates y Caramelos
-665853,WIPES HUGGIES LIMPIEZA DIARIA X112,Cuidado del Bebé,Cuidado del Bebé
+665853,Toallas Humedas Huggies Limpieza Diaria,Cuidado del Bebé,Cuidado del Bebé
 665876,Helado Delizia Tradicion Chantilly 200 ml,Congelados,"Helados, Cassattas y Picoleses"
 665877,Helado Delizia Tradicion Api 200 ml,Congelados,"Helados, Cassattas y Picoleses"
 665878,Postre Delizia Helado Arroz Leche 200 ml,Congelados,"Helados, Cassattas y Picoleses"
@@ -18144,7 +18156,7 @@ id_producto,producto,categoria,subcategoria
 669062,Acondicionador Byphasse Family Fresh Coco,Cuidado Personal,Cuidado del Cabello
 669063,BYPHASSE PLAISIR NATURE GEL DE DUCHA VER,Cuidado Personal,Cuidado de la Piel
 669064,BYPHASSE PLAISIR GEL DE DUCHA GRANADA RO,Cuidado Personal,Cuidado de la Piel
-669065,PAN HUG ACTSEC G BIGP OP DIA 2X74 THA,Cuidado del Bebé,Pañales
+669065,Pañales Huggies Active Sec G 3  74 un,Cuidado del Bebé,Pañales
 669067,GEL DE DUCHA LACTOUREA FIRMING 600ML.,Cuidado Personal,Cuidado de la Piel
 669068,GLADE TOQUE FULL LIMON 12ML,Cuidado del Hogar,Limpieza de Living y Ropero
 669069,Ambientador Glade Toque Manzana de Campo  12 ml,Cuidado del Hogar,Limpieza de Living y Ropero
@@ -18326,6 +18338,8 @@ id_producto,producto,categoria,subcategoria
 669398,HERBAL C/PEINAR BIO PEQUI AGUACATE 300ML,Cuidado Personal,Cuidado del Cabello
 669399,HERBAL AC BIO PEQUI AGUACATE 250ML X6U,Cuidado Personal,Cuidado del Cabello
 669400,HERBAL SH BIO PEQUI AGUACATE 400ML X6U,Cuidado Personal,Cuidado del Cabello
+669504,CEPILLO ELECTRICO ORAL B DISNEY PRINCESA,Cuidado Personal,Cuidado Bucal
+669505,CEPILLO ELECTRICO ORAL B LIMP PROFUNDA,Cuidado Personal,Cuidado Bucal
 669506,CEPILLO ELECTRICO ORAL B DISNEY CARS,Cuidado Personal,Cuidado Bucal
 669511,PAMPERS CONFORTSEC XXG (56PZA) X2U,Cuidado del Bebé,Pañales
 669901,Pizza Hipermaxi Congelada Hawaiana 620 gr,Congelados,Masas y Comidas Congeladas
@@ -19963,7 +19977,7 @@ id_producto,producto,categoria,subcategoria
 674472,YOGURT ENTERO FRUTADO PIL SABOR COCO 700GRS,Lácteos y Derivados,Yogures
 674473,YOGURT ENTERO FRUTADO PIL DURAZNO 700GRS,Lácteos y Derivados,Yogures
 674474,YOGURT ENTERO FRUTADO PIL FRUTILLA 700GRS,Lácteos y Derivados,Yogures
-674475,FILETE CROCANTE DE POLLO FRIDOSA 2 UNIDADES,Congelados,Carnes Congeladas
+674475,Filete Crocante de Pollo Fridosa 2 un,Congelados,Carnes Congeladas
 674484,SALCHICHA FRANKFURT HASS KILOGRAMO,Fiambres,Fiambres Externos
 674485,MORTADELA HASS TIPO BOLOGNA  KILOGRAMO,Fiambres,Fiambres Externos
 674487,MORTADELA HASS CERVECERO KILOGRAMO,Fiambres,Fiambres Externos
@@ -19971,7 +19985,7 @@ id_producto,producto,categoria,subcategoria
 674491,PANCHITO BOLSA GRANDE 12 UNIDADES,Panadería,Panadería Externa
 674492,QUESO MUZZARELLA MALLON 450GR,Lácteos y Derivados,Quesos
 674504,KEFIR NATURAL DELIZIA SIN AZUCAR 170GRS,Lácteos y Derivados,Yogures
-674505,LECHE PIL LIGHT UHT X800ML (BOLSA),Lácteos y Derivados,Leches
+674505,Leche Pil Light 800 ml,Lácteos y Derivados,Leches
 674507,PACK MANTEQUILLA DE MANI CREMOSA Y CROCA,Lácteos y Derivados,Mantequillas y Margarinas
 674508,SUPERPIL VARIOS SABORES BOLSA 150ML,Lácteos y Derivados,Leches
 674509,LECHE PIL DESLACTOSADA TARIJA 850ML BOLSA,Lácteos y Derivados,Leches
@@ -20828,7 +20842,7 @@ id_producto,producto,categoria,subcategoria
 761538,Yogurt Bebible Friedland Artesanal Coco 1 L,Lácteos y Derivados,Yogures
 761547,CAMOTE PRECOCIDO CONG.POLAR CORTE BASTON 1 KG.,Congelados,Masas y Comidas Congeladas
 761548,CERDO AGRIDULCE CONGELADO SOFIA 500 GRS.,Congelados,Carnes Congeladas
-761587,LECHE IMPOST.FOODS VAINILLA 800 ML.,Lácteos y Derivados,Leches
+761587,Leche Impostor Milk Vainilla 800 ml,Lácteos y Derivados,Leches
 761634,TENDERS DE POLLO SOFIA 1 KG. NUEVA PRESENTACION,Congelados,Carnes Congeladas
 761638,Linguica Queso Azul La Boteca 500 gr,Fiambres,Fiambres Externos
 761659,LINGUIZA PINA CARAMEL LA BOTECA 500 GRS.,Fiambres,Fiambres Externos
@@ -21823,6 +21837,7 @@ id_producto,producto,categoria,subcategoria
 798352,Helado Vaca Fria Crema Vainilla 150 ml,Congelados,"Helados, Cassattas y Picoleses"
 798357,Jamon Sandwichero La Sierra kg,Fiambres,Fiambres Externos
 798362,Helado Vaca Fria Crema Dulce de Leche 150 ml,Congelados,"Helados, Cassattas y Picoleses"
+798364,Jamon Ahumado Fridosa kg,Fiambres,Fiambres Externos
 798365,Porta Jamon Marco Ulloa Con Cuchillo un,Fiambres,Fiambres Externos
 798366,Jamon Premium La Sierra kg,Fiambres,Fiambres Externos
 798368,Queso Mozzarella La Colonia Barra kg,Lácteos y Derivados,Quesos
