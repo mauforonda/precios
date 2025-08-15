@@ -7761,6 +7761,7 @@ id_producto,producto,categoria,subcategoria
 228100,PACK PAPEL FINESSE FAMILIS 32+6 UNDS,Cuidado Personal,Cuidado Familiar
 228101,CREMA D PEINAR BELMED BOTOX 320 GR,Cuidado Personal,Cuidado del Cabello
 228102,CREMA D PEINAR BELMED MAXILISO 320 GR,Cuidado Personal,Cuidado del Cabello
+228107,BASE VOGUE RESIST SENSUAL 11,Cuidado Personal,Cuidado de la Piel
 228112,TINTE ISSUE EXPRESS CANTANO CLARO 5 MINU,Cuidado Personal,Cuidado del Cabello
 228113,TOALLA NOSOTRAS BUENAS NOCHES 8UN,Cuidado Personal,Cuidado Familiar
 228114,PANUELO FINESSE MENTOL 4 UNDS,Cuidado Personal,Cuidado Familiar
@@ -7774,6 +7775,7 @@ id_producto,producto,categoria,subcategoria
 228124,DEO SPRAY OLD SPICE AT DRAGONBLAST 150ML,Cuidado Personal,Cuidado de la Piel
 228126,CREMA PEINAR PANTENE ANTICAIDA 300ML,Cuidado Personal,Cuidado del Cabello
 228127,ACOND PANTENE ANTICAIDA 250ML,Cuidado Personal,Cuidado del Cabello
+228128,SHAMPOO PANTENE ANTICAIDA 300ML,Cuidado Personal,Cuidado del Cabello
 228129,ACOND PANTENE ANTICAIDA 510ML,Cuidado Personal,Cuidado del Cabello
 228130,SHAMPOO PANTENE ANTICAIDA 510ML,Cuidado Personal,Cuidado del Cabello
 228131,SHAMPOO H&S NUTRIMIEL650ML,Cuidado Personal,Cuidado del Cabello
@@ -7824,6 +7826,7 @@ id_producto,producto,categoria,subcategoria
 228193,PAPEL FINESSE PREMIUN 2X24,Cuidado Personal,Cuidado Familiar
 228194,ESCOBA PINTO ESMERALDA SUAVE -CM,Cuidado del Hogar,Accesorios del Hogar
 228196,GUANTES DOMESTICOS PINTO TALLA 8,Cuidado del Hogar,Accesorios del Hogar
+228199,TRAPO MICROFI  BLANCO PINTO 170 GR,Cuidado del Hogar,Accesorios del Hogar
 228200,TRAPEADOR PINTO ALGODON NO. 32-360 GR,Cuidado del Hogar,Accesorios del Hogar
 228201,TRAPEADOR PINTO ALGODON NO. 40-450 GR CM,Cuidado del Hogar,Accesorios del Hogar
 228202,TRAPO MICROFIBRA PINTO BLANCO 300 GR,Cuidado del Hogar,Accesorios del Hogar
@@ -7831,10 +7834,13 @@ id_producto,producto,categoria,subcategoria
 228221,SERUM OJOS LOREAL ACIDO GLICOLICO,Cuidado Personal,Cuidado de la Piel
 228225,ESPONJA METAL ESPIRAL SCOTCH BRITE PACK,Cuidado del Hogar,Accesorios del Hogar
 228226,ESPONJA METALICA ESPIRAL SCOTCH BRITE 1U,Cuidado del Hogar,Accesorios del Hogar
+228227,ESCOBA INTERIOR SCOTCH BRITE  PARACHOQUE,Cuidado del Hogar,Accesorios del Hogar
 228228,LIMPIADOR DE BOTELLAS SCOTCH BRITE 30 CJ,Cuidado del Hogar,Accesorios del Hogar
 228229,Enjuague Bucal Listerine Sandia Zero  250 ml LOGM,Cuidado Personal,Cuidado Bucal
 228231,Enjuague Bucal Listerine Sandia Zero 500 ml LOGM,Cuidado Personal,Cuidado Bucal
 228233,PAPEL FINESSE PREMIUM 4X12 MEGA,Cuidado Personal,Cuidado Familiar
+228239,ROLLO TOALEX PURPURA LIMPPANO PANO 1 UND,Cuidado del Hogar,Accesorios del Hogar
+228240,ROLLO TOALEX ROSA LIMPPANO PANO 1 UND,Cuidado del Hogar,Accesorios del Hogar
 228337,NEUTROGENA SERUM NIACINAMIDA 30ML,Cuidado Personal,Cuidado de la Piel
 228670,DESTAPA CANERIAS EN GEL TODO BRILLO 1LT,Cuidado del Hogar,Limpieza de Baños
 228671,DESTAPA CANERIAS EN GEL TODO BRILLO 2LT,Cuidado del Hogar,Limpieza de Baños
@@ -9670,6 +9676,7 @@ id_producto,producto,categoria,subcategoria
 338738,ALZA BASURA PINTO S/PALO,Cuidado del Hogar,Accesorios del Hogar
 338744,ESCOBA FULLER GIRASOL DURA 71025,Cuidado del Hogar,Accesorios del Hogar
 338746,ESCOBA FULLER GIRASOL SUAVE FIBERFLEX,Cuidado del Hogar,Accesorios del Hogar
+338748,ESCOBA FULLER ORQUIDEA SUAVE FIBERFLEX,Cuidado del Hogar,Accesorios del Hogar
 338752,TRAPEADOR ALGODON NO.20 PINTO,Cuidado del Hogar,Accesorios del Hogar
 338760,Pinza Ropa Indecoel 24 un,Cuidado del Hogar,Accesorios del Hogar
 338771,Jarabe Centenario de Grosella 1000 ml,Abarrotes,Repostería
@@ -14185,6 +14192,7 @@ id_producto,producto,categoria,subcategoria
 553161,Marshmallow Jet Puffed Mini,Abarrotes,Productos Americanos
 553164,GALLETA BRINKY FRESA 300 GR,Abarrotes,Galletas
 553165,Isotonico Sante Sport Fresa Wilsterman,Bebidas,Isotónicos
+553166,CEREAL MALT-O-MEAL TOOTIE FRUITIES 30OZ,Abarrotes,Productos Americanos
 553167,Galleta Carsa Super Doradita Clasica,Abarrotes,Galletas
 553170,Galleta Carsa Mega Chip o Chip Vainilla,Abarrotes,Galletas
 553171,Vino Tinto Semidulce Finca Atamisque 750 ml,Bebidas,Vinos y Champagne
@@ -14362,6 +14370,7 @@ id_producto,producto,categoria,subcategoria
 553390,PAPAS CURVIS FRUTILLITA 90 GR,Abarrotes,Snack
 553391,PAPA GEORGES FRUTILLITA CHUR PIC 200 GR,Abarrotes,Snack
 553392,JUGO GUANABANA TRUE LIFE LTA 500 ML,Bebidas,Bebidas Usa
+553393,JUGO  PASION FRUIT TRUE LIFE LTA 500 ML,Bebidas,Bebidas Usa
 553394,JUGO GUAYABA TRUE LIFE LTA 500 ML,Bebidas,Bebidas Usa
 553396,JUGO SANDIA TRUE LIFE LTA 500 ML,Bebidas,Bebidas Usa
 553397,JUGO MANGO TRUE LIFE LTA 500 ML,Bebidas,Bebidas Usa
@@ -20905,6 +20914,7 @@ id_producto,producto,categoria,subcategoria
 764312,Pan Danes Rustico 3 Semillas,Panadería,Panadería Externa
 764423,PAN DANES SALVADO DE TRIGO UNID.,Panadería,Panadería Externa
 764523,PIZZA PRECOC.CONG.JAMON Y MUZZARELLA BAHREM UND.,Congelados,Masas y Comidas Congeladas
+764528,YOGURT GRIEGO SAB.ACHACHAIRU DELIZIA 170 GR.,Lácteos y Derivados,Yogures
 764534,Pan Danes Blanco Aceite de Oliva,Panadería,Panadería Externa
 764536,PIZZA PRECOC.CONG.MEZCLA DE QUESOS BAHREM UND.,Congelados,Masas y Comidas Congeladas
 764567,PIZZITAS PREC.CONG.JAMMON Y QUESO BAHREM 11CM.,Congelados,Masas y Comidas Congeladas
