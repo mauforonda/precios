@@ -1253,6 +1253,7 @@ id_producto,producto,categoria,subcategoria
 17837,Alimento Pedigree Rodeo Adulto Carne 70 gr,Abarrotes,Mascotas
 17838,Alimento Pedigree Rodeo Adulto Pollo 70 gr,Abarrotes,Mascotas
 17839,Yuca Frita Dorichips Natural 100 gr,Abarrotes,Snack
+17840,Papa Dorochips Picante 100 gr,Abarrotes,Snack
 17845,Papa Ralf con Cascara 150 gr,Abarrotes,Snack
 17847,Vino Chalise Rose Suave 750 ml,Bebidas,Vinos y Champagne
 17848,Licor Amarula Vainilla 750 ml,Bebidas,Licores
@@ -1792,6 +1793,10 @@ id_producto,producto,categoria,subcategoria
 25314,COMIDA RAZA GATO CASTRAD CARNE POLLO 500,Abarrotes,Mascotas
 25317,BEBIDA FOUR LOKO LOVE LTA 695ML,Bebidas,Licores
 25318,VINO KOHLBERG 200A ED LIMIT 1825 750ML,Bebidas,Vinos y Champagne
+25320,TE WINDSOR21 WINLIFE 21SAQ,Abarrotes,Dietéticos y Saludables
+25325,TE WINDSOR21 WINFEM 21G,Abarrotes,Dietéticos y Saludables
+25326,TE WINDSOR21 WINFIT 21G,Abarrotes,Dietéticos y Saludables
+25327,TE WINDSOR21 WINLRELAX 21 G,Abarrotes,Dietéticos y Saludables
 25640,Surtido de Mariscos Robinson Crusoe Natural 190 gr,Abarrotes,Comidas en Conserva
 25771,Huevos Caisy 12 un,Lácteos y Derivados,Huevos
 25789,Galleta Rocklets Chocolate 118 gr,Abarrotes,Galletas
@@ -5024,6 +5029,9 @@ id_producto,producto,categoria,subcategoria
 112424,Four Loko Fruit Punch 695 ml,Bebidas,Licores
 112431,Detergente Polvo Omo Limon 1800 gr,Cuidado del Hogar,Limpieza de la Ropa
 112435,Cepillo Dental Colgate Kids 5 años 1 un,Cuidado del Bebé,Kids
+112438,Pañales Huggies Active Sec G 58 un,Cuidado del Bebé,Pañales
+112439,Pañales Huggies Active Sec XG 48 un,Cuidado del Bebé,Pañales
+112440,Pañales Huggies Active Sec XXG 44 un,Cuidado del Bebé,Pañales
 112500,Protectores Diarios Kotex Antibacterial 150 un,Cuidado Personal,Cuidado Familiar
 112501,Protector Kotex Antibacterial 15 Un,Cuidado Personal,Cuidado Familiar
 112502,Cepillo Dental Colgate Total 12 360 Advance 2 un,Cuidado Personal,Cuidado Bucal
@@ -7841,6 +7849,12 @@ id_producto,producto,categoria,subcategoria
 228233,PAPEL FINESSE PREMIUM 4X12 MEGA,Cuidado Personal,Cuidado Familiar
 228239,ROLLO TOALEX PURPURA LIMPPANO PANO 1 UND,Cuidado del Hogar,Accesorios del Hogar
 228240,ROLLO TOALEX ROSA LIMPPANO PANO 1 UND,Cuidado del Hogar,Accesorios del Hogar
+228241,DESINFECTANTE P/INODORO 110GR,Cuidado del Hogar,Limpieza de Baños
+228244,JABON INTIMO REVIVE 200ML-POTE,Cuidado Personal,Cuidado del Adulto
+228245,DESINFECTANTE TB 500ML LAVANDA-AERO,Cuidado del Hogar,Limpieza de Baños
+228246,DESINFECTANTE TB ORIGINAL 500ML-AERO,Cuidado del Hogar,Limpieza de Baños
+228247,DESINFECTANTE TB BEBE 500ML-AERO,Cuidado del Hogar,Limpieza de Baños
+228336,PANUELO FACIAL DESECHABLE PERLITA 6 UNDS,Cuidado Personal,Cuidado Familiar
 228337,NEUTROGENA SERUM NIACINAMIDA 30ML,Cuidado Personal,Cuidado de la Piel
 228670,DESTAPA CANERIAS EN GEL TODO BRILLO 1LT,Cuidado del Hogar,Limpieza de Baños
 228671,DESTAPA CANERIAS EN GEL TODO BRILLO 2LT,Cuidado del Hogar,Limpieza de Baños
@@ -8023,7 +8037,7 @@ id_producto,producto,categoria,subcategoria
 234054,Base Polvo Vogue Resist Capuccino,Cuidado Personal,Cuidado de la Piel
 234055,Base Polvo Vogue Resist Avellana,Cuidado Personal,Cuidado de la Piel
 234058,Base Polvo Vogue Resist Natural,Cuidado Personal,Cuidado de la Piel
-234060,MASCARA DE TRATAMIENTO ELVIVE 300GR GLY,Cuidado Personal,Cuidado de la Piel
+234060,MASCARA DE TRATAMIENTO ELVIVE 300GR GLY,Cuidado Personal,Cuidado del Cabello
 234061,Shampoo Elvive Glyco Gloss 680 ml,Cuidado Personal,Cuidado del Cabello
 234062,Acondicionador Elvive Glyco Gloss 680 ml,Cuidado Personal,Cuidado del Cabello
 234063,Acondicionador Elvive Glyco Gloss 370 ml,Cuidado Personal,Cuidado del Cabello
@@ -14309,6 +14323,7 @@ id_producto,producto,categoria,subcategoria
 553298,CHOCOL RUAH AMARGO 75P C NARANJA 60G,Abarrotes,Chocolates y Caramelos
 553303,GALLETAS ANDES TROPICO ALMENDRA 200 GR,Abarrotes,Galletas
 553305,GALLETA ANDES TROPICO CHIA 200 GR,Abarrotes,Galletas
+553306,GALLETA ANDES TROPICO SESAMO 200GR,Abarrotes,Galletas
 553307,GALLETA ANDES TROPICO AMARANTO 200 GR,Abarrotes,Galletas
 553308,GALLETA ANDES TROPICO QUINUA 200 GR,Abarrotes,Galletas
 553309,CEREAL ORGANICA DEL SUR ARITOS FRUTAS 38,Abarrotes,Nutrición Infantil
@@ -14346,6 +14361,7 @@ id_producto,producto,categoria,subcategoria
 553352,VAPE WAKA CREATOR STRAWBE KIWI 5P 12000P,Bebidas,Cigarrillos
 553353,VAPE WAKA SOLO 2GRAPE APPLE 5P 2500P,Bebidas,Cigarrillos
 553354,KIT WAKA CREATOR STRAWBERRY WAT 5P 12000,Bebidas,Cigarrillos
+553355,YOGURT BEBIBLE PROBIOTICO 2LT VARIOS SABORES,Lácteos y Derivados,Yogures
 553356,PACK 6 CERVEZA PROST LAGER LTA 310 ML,Bebidas,Cervezas
 553357,VINO GUAJOJO TANAT BASTARDO 750 ML,Bebidas,Vinos y Champagne
 553358,VINO DESCARADA SYRAH 750 ML,Bebidas,Vinos y Champagne
@@ -14356,13 +14372,17 @@ id_producto,producto,categoria,subcategoria
 553366,GRAGEAS RUAH CAFE CHOCOLATE 75P STEVIA,Abarrotes,Chocolates y Caramelos
 553368,GRAGEA QUINUA RUAH CHOCOLATE STEVIA  50,Abarrotes,Chocolates y Caramelos
 553370,CEREAL SPECIAL K TRIPLE BERRY 331 GR,Abarrotes,Productos Americanos
+553372,AGUA CON GAS MAISON PERRIER BLACKBERRY LTA 11.15 OZ,Bebidas,Bebidas Usa
+553374,COMPOTA LITTLE MAMA MANZANA 110G,Abarrotes,Nutrición Infantil
 553375,COMPOTA LITTLE MAMA MANZANA PERA 110 GR,Abarrotes,Nutrición Infantil
 553376,CEREAL CHOCAPIC ORIGINAL BSA 90 GR,Abarrotes,Nutrición Infantil
 553377,LLAJUA EN POLVO  YA JUA  SUAVE SOBRE 10,Abarrotes,Condimentos y Legumbres
 553378,LLAJUA POLVO YA JUA NORMAL SOBRE 10 GR,Abarrotes,Condimentos y Legumbres
 553379,LLAJUA EN POLVO YA JUA EXTRA PICANTE SOB,Abarrotes,Condimentos y Legumbres
+553380,PASTA LLAJWA RINCON MADERAS FCO 210ML,Abarrotes,Aderezos
 553381,SALSA ULUPICAS MANGO RINCON MADERAS FCO,Abarrotes,Aderezos
 553382,SALSA R MADERAS TERIYAKI D ULUPICAS 55ML,Abarrotes,Aderezos
+553383,PASTA DE AJO RINCO MADERAS FCO 210G,Abarrotes,Condimentos y Legumbres
 553386,PACK 3 JUGOS DEL SOL TETRA 1 LT,Bebidas,"Jugos, Néctar"
 553387,Galleta Oreo Selena Tubo 108 g,Abarrotes,Galletas
 553388,Galleta Oreo Selena 216 g,Abarrotes,Galletas
@@ -18869,6 +18889,7 @@ id_producto,producto,categoria,subcategoria
 672013,Leche Pil Natural Ultrapasteurizada Caja 1 L,Lácteos y Derivados,Leches
 672015,Proactive Plus Delizia Manzana Musli Frutal,Lácteos y Derivados,Yogures
 672019,Huevos Criollo Colorado 30 un,Lácteos y Derivados,Huevos
+672039,PAN SIN AZUCAR BLANCO PANADERIA NICO,Panadería,Panadería Externa
 672040,PAN SIN AZUCAR CON SALVADO DE TRIGO PANADERIA NICO,Panadería,Panadería Externa
 672043,Pre Pizza Panaderia Nico,Panadería,Panadería Externa
 672057,Pan Molde Blanco Panaderia Nico,Panadería,Panadería Externa
@@ -19944,6 +19965,9 @@ id_producto,producto,categoria,subcategoria
 674369,Galleta Dulce Tartaleta Mamina 250 gr,Pastelería y Masas Típicas,Pastelería Externa
 674370,PACK CARNAVALERO OSFIM CHORIZO AHUMADO 1KGR,Fiambres,Fiambres Externos
 674371,Chorizo Ahumado Osfim A Granel,Fiambres,Fiambres Externos
+674374,ALFAJOR DE CHOCOLATE SABOR MARACUYA ALFIJORES UNI,Pastelería y Masas Típicas,Pastelería Externa
+674376,ALFAJOR DE CHOCOLATE SABOR MARROC ALFIJORES UNI,Pastelería y Masas Típicas,Pastelería Externa
+674377,CAJA SURTIDA DE ALFAJORES ALFIJORES 7 UNIDADES,Pastelería y Masas Típicas,Pastelería Externa
 674383,Leche de Frutilla Pil 800 ml,Lácteos y Derivados,Leches
 674384,Leche Chocolatada Pil 800 ml,Lácteos y Derivados,Leches
 674385,MUFFIN CON RELLENO ARANDANOS,Pastelería y Masas Típicas,Pastelería Externa
@@ -20809,6 +20833,7 @@ id_producto,producto,categoria,subcategoria
 745632,Crema Congelada Polpanorte Copoazu 600 gr,Congelados,Pulpas y Frutas Congeladas
 745648,Mix Asai Congelado Polpanorte Copoazu 600 gr,Congelados,Pulpas y Frutas Congeladas
 745790,Pan de Arroz Abizcochado Pan Hogar 100 gr,Pastelería y Masas Típicas,Masas Típicas Externas
+746870,QUESO PROVOLONE FINAS HIERBAS PARR.EL AVILA 250 GRS.,Lácteos y Derivados,Quesos
 746982,QUESO RICOTA CON SAL EL AVILA 250 GRS.,Lácteos y Derivados,Quesos
 747447,Huevo de Gallina 1 un,Lácteos y Derivados,Huevos
 747822,Tortillas Bimbo Rapiditas Light 310 gr,Congelados,Masas y Comidas Congeladas
