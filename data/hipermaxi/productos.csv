@@ -77,6 +77,7 @@ id_producto,producto,categoria,subcategoria
 1832,Sal Bragantina con Ajo 500 gr,Abarrotes,Básicos
 1833,Sal Bragantina Chimichurri 500 gr,Abarrotes,Básicos
 1834,Sal Bragantina con Pimienta 500 gr,Abarrotes,Básicos
+1839,Fideo La Suprema Tallarin Nido 200 gr,Abarrotes,Básicos
 1842,Cafe Iguazu Stick 10 un 1.7 Gr,Abarrotes,Café y Sucedáneos
 1843,Cerveza Estrella Galicia 269 ml,Bebidas,Cervezas
 1844,Cerveza Prost Dunkel 355 ml,Bebidas,Cervezas
@@ -1794,9 +1795,11 @@ id_producto,producto,categoria,subcategoria
 25317,BEBIDA FOUR LOKO LOVE LTA 695ML,Bebidas,Licores
 25318,VINO KOHLBERG 200A ED LIMIT 1825 750ML,Bebidas,Vinos y Champagne
 25320,TE WINDSOR21 WINLIFE 21SAQ,Abarrotes,Dietéticos y Saludables
+25324,MASTICABLE MOGUL LADRILLOS 100G,Abarrotes,Golosinas - Varias
 25325,TE WINDSOR21 WINFEM 21G,Abarrotes,Dietéticos y Saludables
 25326,TE WINDSOR21 WINFIT 21G,Abarrotes,Dietéticos y Saludables
 25327,TE WINDSOR21 WINLRELAX 21 G,Abarrotes,Dietéticos y Saludables
+25330,ESPAGUETI LA SUPREMA 400G,Abarrotes,Básicos
 25640,Surtido de Mariscos Robinson Crusoe Natural 190 gr,Abarrotes,Comidas en Conserva
 25771,Huevos Caisy 12 un,Lácteos y Derivados,Huevos
 25789,Galleta Rocklets Chocolate 118 gr,Abarrotes,Galletas
@@ -4552,7 +4555,7 @@ id_producto,producto,categoria,subcategoria
 108600,Jabon Liquido Naturessa Tocador Floral 380 ml,Cuidado Personal,Cuidado de la Piel
 108601,Jabon Liquido Naturessa Tocador Lavanda 380 ml,Cuidado Personal,Cuidado de la Piel
 108602,Jabon Liquido Naturessa Lavanda 380 ml,Cuidado Personal,Cuidado de la Piel
-108604,Lustra mueble Lider Gatillo 900 ml,Cuidado del Hogar,Limpieza de Living y Ropero
+108604,Lustra mueble Lider Gatillo 850 ml,Cuidado del Hogar,Limpieza de Living y Ropero
 108632,Shampoo Dove Oleo Nutricion 750 ml,Cuidado Personal,Cuidado del Cabello
 108634,Limpiador de Piso Todo Brillo Porcelanato 1 L,Cuidado del Hogar,Limpieza de Baños
 108635,Limpiador de Piso Todo Brillo Flotante 1 L,Cuidado del Hogar,Limpieza de Baños
@@ -5277,6 +5280,7 @@ id_producto,producto,categoria,subcategoria
 114670,Paño Profi Verde Con Ojal 60x50cm,Cuidado del Hogar,Accesorios del Hogar
 114671,Paño Profi Naranja Con Ojal 60x50cm,Cuidado del Hogar,Accesorios del Hogar
 114700,Pastilla de Baño Harpic Lavanda,Cuidado del Hogar,Limpieza de Baños
+114712,Leche Nido Crecimiento 2.2 kg,Abarrotes,Nutrición Infantil
 114760,Limpiador de Piso Bristar Pino 5 L,Cuidado del Hogar,Limpieza de Living y Ropero
 114777,Jabon Barra C2 Fresh 130 gr,Cuidado Personal,Cuidado de la Piel
 114778,Jabon Barra C2 Clasico 130 gr,Cuidado Personal,Cuidado de la Piel
@@ -5338,6 +5342,7 @@ id_producto,producto,categoria,subcategoria
 115363,Corrector Maybelline Eraser Light Pale 20,Cuidado Personal,Cuidado de la Piel
 115368,Base Maybelline Full Coverage 320,Cuidado Personal,Cuidado de la Piel
 115415,Fideo Paloma Surtido 400 kg,Abarrotes,Básicos
+115555,Franela Hipertex Naranja Surtido 35X40 Cm,Cuidado del Hogar,Accesorios del Hogar
 115602,Shampoo Dove Men Sport 400 ml,Cuidado Personal,Cuidado del Cabello
 115603,Desodorante Rexona Odorono 60 gr,Cuidado Personal,Cuidado de la Piel
 115707,Jugo Del Valle Fresh 3 L,Bebidas,"Jugos, Néctar"
@@ -6014,7 +6019,7 @@ id_producto,producto,categoria,subcategoria
 141429,Cepillo Dental Dr.Dent The Simpsons Bebe 3 Años,Cuidado Personal,Cuidado Bucal
 141433,Pasta Dental Doctor Dent Multi Efecto 50 gr,Cuidado Personal,Cuidado Bucal
 141510,Pack Choripan 5 un,Fiambres,Fiambres Hipermaxi
-141515,Chorizo Ahumado de Cerdo Hipermaxi 10 un,Fiambres,Fiambres Hipermaxi
+141515,Chorizo Tipo Ahumado de Cerdo Hipermaxi al Vacio,Fiambres,Fiambres Hipermaxi
 141958,Jamon Tradicional Hipermaxi kg,Fiambres,Fiambres Hipermaxi
 141959,Chorizo Churrasquero Surtido kg,Fiambres,Fiambres Hipermaxi
 142233,Yerba Mate Campesino Katuava Ginseng 500 gr,Abarrotes,Café y Sucedáneos
@@ -7910,7 +7915,7 @@ id_producto,producto,categoria,subcategoria
 230483,Pañal Huggies Triple Proteccion Talla XXG 26 Und,Cuidado del Bebé,Pañales
 230484,SUAVIZANTE MAXIBRILL CLASIC PREMIUM 2 LT,Cuidado del Hogar,Limpieza de la Ropa
 230485,SUAVIZANTE MAXIBRILL FLORAL PREMIUM 2 LT,Cuidado del Hogar,Limpieza de la Ropa
-230486,PL PANAL COTIDIAN CLASICO TANGA GX 2X20,Cuidado Personal,Cuidado del Adulto
+230486,Pañal para Adultos Cotidian Clasico G 20 un,Cuidado Personal,Cuidado del Adulto
 230487,SHAMPOO BALLERINA FUERZA NATURAL DPK 750,Cuidado Personal,Cuidado del Cabello
 230488,Jabon Barra Palmolive Mandarina Romero 3 un 110 gr,Cuidado Personal,Cuidado de la Piel
 230489,DR SELBY AFTER SHAVE LAVENDER 100GR,Cuidado Personal,Cuidado de la Piel
@@ -11628,8 +11633,8 @@ id_producto,producto,categoria,subcategoria
 462250,Vinagre Sakura Alcohol 500 ml,Abarrotes,Básicos
 462341,LIPSTICK NATURAL FPS 30 TUBO X 5GR,Cuidado Personal,Cuidado de la Piel
 462382,DR.SELBY PROTECTOR LABIAL NUTRITIVO X5.5,Cuidado Personal,Cuidado de la Piel
-462383,DR.SELBY PROTECTOR LABIAL HIDRATANTE X5.,Cuidado Personal,Cuidado de la Piel
-462385,DR.SELBY PROTECTOR LABIAL ANTI OXIDANTE,Cuidado Personal,Cuidado de la Piel
+462383,Protector Labial Dr Selby Hidratante,Cuidado Personal,Cuidado de la Piel
+462385,Protector Labial Dr Selby Anti Oxidante,Cuidado Personal,Cuidado de la Piel
 462433,Talco Antisudoral Con Alcanfor 75 gr,Cuidado Personal,Cuidado de la Piel
 462435,Repelente Floresta Kids Spray 7.5% 120 ml,Cuidado Personal,Cuidado de la Piel
 462436,Repelente Floresta Familiar Spray 7.5% 120 ml,Cuidado Personal,Cuidado de la Piel
@@ -14065,7 +14070,7 @@ id_producto,producto,categoria,subcategoria
 553005,Hoja de Laurel Carmencita 8 gr,Abarrotes,Condimentos y Legumbres
 553006,Sazonador Carmencita Pollo Teriyaki,Abarrotes,Básicos
 553007,Sazonador Carmencita Curry al Horno,Abarrotes,Básicos
-553008,SAZONADOR SA BBQ AL HORNO CARMENCITA SOB,Abarrotes,Básicos
+553008,Sazonador Carmencita Bbq Horno 57 gr,Abarrotes,Básicos
 553009,Sazonador Carmencita Cheese 13.5 gr,Abarrotes,Básicos
 553010,Sazonador Sour Cream Carmencita 13.5 gr,Abarrotes,Básicos
 553011,Sazonador Bacon  Carmencita 13.5 gr,Abarrotes,Básicos
@@ -14392,12 +14397,17 @@ id_producto,producto,categoria,subcategoria
 553392,JUGO GUANABANA TRUE LIFE LTA 500 ML,Bebidas,Bebidas Usa
 553393,JUGO  PASION FRUIT TRUE LIFE LTA 500 ML,Bebidas,Bebidas Usa
 553394,JUGO GUAYABA TRUE LIFE LTA 500 ML,Bebidas,Bebidas Usa
+553395,JUGO MANZANA TRUE LIFE LTA 500 ML,Bebidas,Bebidas Usa
 553396,JUGO SANDIA TRUE LIFE LTA 500 ML,Bebidas,Bebidas Usa
 553397,JUGO MANGO TRUE LIFE LTA 500 ML,Bebidas,Bebidas Usa
 553398,AGUA DE COCO CON PULPA TRUE LIFE 500 LTA ML,Bebidas,Bebidas Usa
 553413,SAZONADOR COMPLETO BADIA 70.9 GR,Abarrotes,Productos Americanos
 553415,ISOTONICO POWERADE MANZ VERDE 473ML,Bebidas,Isotónicos
 553416,ISOTONICO POWERADE MANZ VERDE 990ML,Bebidas,Isotónicos
+553420,SOPA MAXIMO RAMEN POLLO VASO 51 GR,Abarrotes,Básicos
+553421,SOPA MAXIMO RAMEN CARNE VASO 51 GR,Abarrotes,Básicos
+553422,SOPA MAXIMO RAMEN POLLO PIC VASO 51G,Abarrotes,Básicos
+553423,SOPA MAXIMO RAMEN CARNE PIC VASO 51G,Abarrotes,Básicos
 554333,Cerveza Paceña Lata Roja 473 Cc,Bebidas,Cervezas
 554466,Detergente Liquido Ola Futuro Limpieza Completa 5 L,Cuidado del Hogar,Limpieza de la Ropa
 554468,Suavizante Ropa Ola Suavecito Original 5 L,Cuidado del Hogar,Limpieza de la Ropa
@@ -17190,6 +17200,7 @@ id_producto,producto,categoria,subcategoria
 664825,Paneton Hipermaxi Chips Chocolate 600 gr,Panadería,Panadería Hipermaxi
 664826,Budin de Chocolate con Gotas Hipermaxi 250 gr,Pastelería y Masas Típicas,Pastelería Hipermaxi
 664829,Budin Marmolado Hipermaxi 250 gr,Pastelería y Masas Típicas,Pastelería Hipermaxi
+665023,Chorizo Tipo Argentino Hipermaxi al Vacio +20,Fiambres,Fiambres Hipermaxi
 665026,Pan Hot Dog Hipermaxi 640 gr 16 un,Panadería,Panadería Hipermaxi
 665027,Pan Hot Dog Grande Hipermaxi 480 gr 8 un,Panadería,Panadería Hipermaxi
 665029,Pan Hot Dog Hipermaxi 480 gr 12 un,Panadería,Panadería Hipermaxi
@@ -17791,6 +17802,7 @@ id_producto,producto,categoria,subcategoria
 668146,LIP SMACKER WATERMELON STICK,Cuidado Personal,Cuidado de la Piel
 668150,LIP SMACKER BUNNY LIPPY PAL,Cuidado Personal,Cuidado de la Piel
 668152,LS PINK LEMONADE STICK,Cuidado Personal,Cuidado de la Piel
+668153,LIP SMACKER COKE CUP,Cuidado Personal,Cuidado de la Piel
 668154,LS CHERRY COKE CUP,Cuidado Personal,Cuidado de la Piel
 668155,LIP SMACKER FANTA STRAWBERRY CUP,Cuidado Personal,Cuidado de la Piel
 668164,Lavavajilla Bristar Limon 2 L,Cuidado del Hogar,Limpieza de Cocina
@@ -18371,6 +18383,7 @@ id_producto,producto,categoria,subcategoria
 669505,CEPILLO ELECTRICO ORAL B LIMP PROFUNDA,Cuidado Personal,Cuidado Bucal
 669506,CEPILLO ELECTRICO ORAL B DISNEY CARS,Cuidado Personal,Cuidado Bucal
 669511,PAMPERS CONFORTSEC XXG (56PZA) X2U,Cuidado del Bebé,Pañales
+669578,COMBO LADY DELGADA X 2,Cuidado Personal,Cuidado Familiar
 669901,Pizza Hipermaxi Congelada Hawaiana 620 gr,Congelados,Masas y Comidas Congeladas
 669902,Pizza Hipermaxi Congelada Jamon Queso Light Masa Integral,Congelados,Masas y Comidas Congeladas
 669903,Pizza Hipermaxi Congelada Pepperoni 620 gr,Congelados,Masas y Comidas Congeladas
@@ -19965,7 +19978,10 @@ id_producto,producto,categoria,subcategoria
 674369,Galleta Dulce Tartaleta Mamina 250 gr,Pastelería y Masas Típicas,Pastelería Externa
 674370,PACK CARNAVALERO OSFIM CHORIZO AHUMADO 1KGR,Fiambres,Fiambres Externos
 674371,Chorizo Ahumado Osfim A Granel,Fiambres,Fiambres Externos
+674372,ALFAJOR DE CHOCOLATE SABOR COCO ALFIJORES UNI,Pastelería y Masas Típicas,Pastelería Externa
+674373,ALFAJOR DE CHOCOLATE SABOR CLASICO ALFIJORES UNI,Pastelería y Masas Típicas,Pastelería Externa
 674374,ALFAJOR DE CHOCOLATE SABOR MARACUYA ALFIJORES UNI,Pastelería y Masas Típicas,Pastelería Externa
+674375,ALFAJOR DE CHOCOLATE SABOR FRUTILLA ALFIJORES UNI,Pastelería y Masas Típicas,Pastelería Externa
 674376,ALFAJOR DE CHOCOLATE SABOR MARROC ALFIJORES UNI,Pastelería y Masas Típicas,Pastelería Externa
 674377,CAJA SURTIDA DE ALFAJORES ALFIJORES 7 UNIDADES,Pastelería y Masas Típicas,Pastelería Externa
 674383,Leche de Frutilla Pil 800 ml,Lácteos y Derivados,Leches
@@ -20041,6 +20057,8 @@ id_producto,producto,categoria,subcategoria
 674545,LECHE KREAM CON AVENA 110ML,Lácteos y Derivados,Leches
 674546,LECHE KREAM FRUTILLA 110ML,Lácteos y Derivados,Leches
 674549,CHORIZO BRATWURST STEGE KILOGRAMO,Fiambres,Fiambres Externos
+674552,QUESO MOZZARELLA LAMINADO EL TRIO 160GRS SAN JAVIER,Lácteos y Derivados,Quesos
+674553,QUESO MOZZARELLA LAMINADO SAN ANDRES 160GRS SAN JAVIER,Lácteos y Derivados,Quesos
 674832,Mini Torta Delizia Frutilla 850 ml,Congelados,"Helados, Cassattas y Picoleses"
 674834,MINI TORTA DELIZIA YOGURT SALSA AMARENA 850 ML,Congelados,"Helados, Cassattas y Picoleses"
 675245,Miel de Abeja Eva Promiel 250 gr,Abarrotes,"Mermel, Mieles"
@@ -21967,6 +21985,9 @@ id_producto,producto,categoria,subcategoria
 809203,Toddy Light 380 gr,Abarrotes,Dietéticos y Saludables
 809312,Salsa Carozzi Pomarola Italiana 200 gr,Abarrotes,Salsas y Extracto de Tomate
 809327,Galleta Costa Donuts Naranja 105 gr,Abarrotes,Galletas
+809427,CH 12 1 MESA PLEGABLE COLOR BEIGE 48X38X65CM,Bazar Importación,Mueblería General
+809428,CH 12 2 MESA PLEGABLE COLOR CAFE 48X38X65CM,Bazar Importación,Mueblería General
+809429,CH 23 3 MESA PLEGABLE COLOR GRIS 48X38X65CM,Bazar Importación,Mueblería General
 809590,Alimento Dog Chow Adulto Carne Pollo Mediano Grande 3 kg,Abarrotes,Mascotas
 810053,Crema Ponds Clarante Piel Seca 100 gr,Cuidado Personal,Cuidado de la Piel
 810060,Locion Ponds Dual Biohidratacion 200 ml,Cuidado Personal,Cuidado de la Piel
@@ -23866,6 +23887,7 @@ id_producto,producto,categoria,subcategoria
 868277,PACK H&S 2SH DERMO SENSITIVE 650ML X1U,Cuidado Personal,Cuidado del Cabello
 868278,PACK H&S 2SH FUERTE DESDE LA RAIZ 180ML,Cuidado Personal,Cuidado del Cabello
 868279,PACK H&S 1SH FUERTEDESDERAIZ 375ML+1AC30,Cuidado Personal,Cuidado del Cabello
+868280,PACK H&S 1SH FUERTEDESDERAIZ 375ML+1ACSU,Cuidado Personal,Cuidado del Cabello
 868281,PACK H&S 1SH DERMOSENS375ML+1ACSUAVE300M,Cuidado Personal,Cuidado del Cabello
 868282,PACK H&S 1SH ALIVIO700ML+1SH FUERTEDESDE,Cuidado Personal,Cuidado del Cabello
 868283,PACK H&S 2SH FUERTE DESDE RAIZ 650ML X1U,Cuidado Personal,Cuidado del Cabello
@@ -24381,6 +24403,8 @@ id_producto,producto,categoria,subcategoria
 898595,Espuma de Afeitar Algabo Men Azul 400 gr,Cuidado Personal,Cuidado de la Piel
 898626,Libro Infantil Lexus,Bazar,Librería
 898627,Libro Infantil Lexus,Bazar,Librería
+898631,PLATO MASCOTAS ALUMINIO CHICO,Bazar,Mascotas General
+898633,PLATO MASCOTAS ALUMINIO GRANDE,Bazar,Mascotas General
 898657,Limpiador de Caja Gatos Cat Zone 500 ml,Bazar,Mascotas General
 898660,SHAMPOO MATINHO CAT ZONE 300ML,Bazar,Mascotas General
 898661,SHAMPOO ALOE VERA CAT ZONE 300ML,Bazar,Mascotas General
