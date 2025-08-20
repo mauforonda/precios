@@ -1799,7 +1799,11 @@ id_producto,producto,categoria,subcategoria
 25325,TE WINDSOR21 WINFEM 21G,Abarrotes,Dietéticos y Saludables
 25326,TE WINDSOR21 WINFIT 21G,Abarrotes,Dietéticos y Saludables
 25327,TE WINDSOR21 WINLRELAX 21 G,Abarrotes,Dietéticos y Saludables
+25329,TALLARIN LA SUPREMA 400G,Abarrotes,Básicos
 25330,ESPAGUETI LA SUPREMA 400G,Abarrotes,Básicos
+25335,MANI TOSTADO LOLITA CON SAL 200G,Abarrotes,Snack
+25336,Mani Tostado Lolita con Sal 200 g,Abarrotes,Snack
+25337,TOCINOS LOLITA CHIPS BSA 200G,Abarrotes,Snack
 25640,Surtido de Mariscos Robinson Crusoe Natural 190 gr,Abarrotes,Comidas en Conserva
 25771,Huevos Caisy 12 un,Lácteos y Derivados,Huevos
 25789,Galleta Rocklets Chocolate 118 gr,Abarrotes,Galletas
@@ -2595,6 +2599,7 @@ id_producto,producto,categoria,subcategoria
 30893,Cerveza Huari Lager 269 ml CBN,Bebidas,Cervezas
 30894,Vape Umo Mango Ice 7000 Puffs,Bebidas,Cigarrillos
 30895,Energizante Volt Dark 350 ml,Bebidas,Energizantes
+30896,CAMEL ACTIVATE DOUB MINT Y RED 10 UND,Bebidas,Cigarrillos
 30897,Salsa Pomarola Molitalia Clasica 290 gr,Abarrotes,Salsas y Extracto de Tomate
 30898,Salsa Pomarola Molitalia Clasica 145 gr,Abarrotes,Salsas y Extracto de Tomate
 30899,Traquea de Res Alpha Deshidratada,Abarrotes,Mascotas
@@ -2606,7 +2611,7 @@ id_producto,producto,categoria,subcategoria
 30912,Bebida Contini Ice Acai 275 ml,Bebidas,Licores
 30913,Six Pack Infusion Mandala Wild Berry 6 un 200 ml,Bebidas,Bebidas Varias
 30914,Six Pack Mandala Pink Citrus 6 un 200 ml,Bebidas,Bebidas Varias
-30915,VINO NIETO S VILLA BCA MALBEC 750ML,Bebidas,Vinos y Champagne
+30915,Vino Nietos Villa Blanca Malbec 750 ml,Bebidas,Vinos y Champagne
 30916,Six Pack Bebida Colossus 6 un 335 ml,Bebidas,Licores
 30917,Galleta Cofler Choco Creamy Vain 85 gr,Abarrotes,Galletas
 30918,"Galleta Cofler Relleno Chocolate 105,6 gr",Abarrotes,Galletas
@@ -3232,6 +3237,7 @@ id_producto,producto,categoria,subcategoria
 50035,Tripack Kris San Juancho Especial,Abarrotes,Temporada
 50066,Salsa Mr.Olive Pepinillo Mostaza 355 ml,Abarrotes,Productos Americanos
 50075,Gin Tanqueray Bot 750 ml,Bebidas,Licores
+50096,MASTICABLE FINI TUBES MORANGO ACIDO 20 G,Abarrotes,Golosinas - Varias
 50106,Champiñon Isamar Entero 425 gr,Abarrotes,Verduras en Conserva
 50145,BACALAO A LA VIZCAINA DANI 106 GR,Abarrotes,Comidas en Conserva
 51061,Butter Toffe Chocolate Menta 500 gr,Abarrotes,Chocolates y Caramelos
@@ -4305,7 +4311,7 @@ id_producto,producto,categoria,subcategoria
 105053,GEL SANITIZADOR LAVANDA CARISSA L300 ML,Cuidado Personal,Cuidado de la Piel
 105055,GEL SANITIZADOR FRUTOS DEL BOSQUE CARISS,Cuidado Personal,Cuidado de la Piel
 105060,Paño Alklin Estampado 3 un 38x65 cm,Cuidado del Hogar,Productos Americanos
-105092,Vajillero Bristar Limon Doypack 1 L,Cuidado del Hogar,Limpieza de Cocina
+105092,Lavavajilla Bristar Limon Doypack 1 L,Cuidado del Hogar,Limpieza de Cocina
 105097,Shampoo Fructis Hair Food Aloe Vera 300 ml,Cuidado Personal,Cuidado del Cabello
 105098,Acondicionador Fructis Hair Food Aloe Vera 300 ml,Cuidado Personal,Cuidado del Cabello
 105099,Shampoo Fructis Hair Food Coco 300 ml,Cuidado Personal,Cuidado del Cabello
@@ -7845,6 +7851,7 @@ id_producto,producto,categoria,subcategoria
 228202,TRAPO MICROFIBRA PINTO BLANCO 300 GR,Cuidado del Hogar,Accesorios del Hogar
 228205,TRAPO MICROFIBRA  PINTO VERDE 300 GR,Cuidado del Hogar,Accesorios del Hogar
 228221,SERUM OJOS LOREAL ACIDO GLICOLICO,Cuidado Personal,Cuidado de la Piel
+228224,SCOTCH BRITE FIBRA EXTREM MORADA 1U 36X1,Cuidado del Hogar,Accesorios del Hogar
 228225,ESPONJA METAL ESPIRAL SCOTCH BRITE PACK,Cuidado del Hogar,Accesorios del Hogar
 228226,ESPONJA METALICA ESPIRAL SCOTCH BRITE 1U,Cuidado del Hogar,Accesorios del Hogar
 228227,ESCOBA INTERIOR SCOTCH BRITE  PARACHOQUE,Cuidado del Hogar,Accesorios del Hogar
@@ -10562,7 +10569,7 @@ id_producto,producto,categoria,subcategoria
 380917,Limpiador Porcelanato Mr.Flahs Bouquet Flor 900 ml,Cuidado del Hogar,Limpieza de Living y Ropero
 380918,Limpiador de Porcelanato Mr.Flash Lavanda,Cuidado del Hogar,Limpieza de Living y Ropero
 380919,Limpiador de Porcelanato Mr.Flash Delightful,Cuidado del Hogar,Limpieza de Living y Ropero
-380921,Limpiador Porcelanato Mr.Flahs Bouquet Flor 1800 ml,Cuidado del Hogar,Limpieza de Living y Ropero
+380921,Limpiador Porcelanato Mr.Flash Bouquet Flor 1800 ml,Cuidado del Hogar,Limpieza de Living y Ropero
 380922,Limpiador de Porcelanato Mr.Flash Lavanda,Cuidado del Hogar,Limpieza de Living y Ropero
 380923,Limpiador de Porcelanato Mr.Flash Delightful,Cuidado del Hogar,Limpieza de Living y Ropero
 380924,Limpiador Porcelanato Mr.Flahs Bouquet Flor 5 L,Cuidado del Hogar,Limpieza de Living y Ropero
@@ -11643,6 +11650,7 @@ id_producto,producto,categoria,subcategoria
 462721,Bitter Amargo Centenario 1 L,Bebidas,Bebidas Varias
 462845,Nuez Moscada Molida Badia 2 oz,Abarrotes,Productos Americanos
 462981,Castaña Caju Maya 250 gr,Abarrotes,Snack
+463065,Repelente Floresta Extremo Crema 15% 120 gr,Cuidado Personal,Cuidado de la Piel
 463066,Repelente Floresta Extremo Spray 15% 120 ml,Cuidado Personal,Cuidado de la Piel
 463068,Repelente Floresta Familiar 7.5% Crema 120 gr,Cuidado Personal,Cuidado de la Piel
 463275,LECHE NIDO CRECIMIENTO 1+ LTA 800G,Abarrotes,Nutrición Infantil
@@ -12991,6 +12999,7 @@ id_producto,producto,categoria,subcategoria
 551174,Sopa Instantanea Rapidito Pollo Vaso 65 gr,Abarrotes,Básicos
 551175,Sopa Instantanea Rapidito Pollo Picante Vaso 65 gr,Abarrotes,Básicos
 551176,Sopa Instantanea Rapidito Res Vaso 65 gr,Abarrotes,Básicos
+551177,Granola Jasmine Integral Banana Canela 250 gr,Abarrotes,Nutrición Infantil
 551178,Galleta Jasmine Integral Limon 120 gr,Abarrotes,Dietéticos y Saludables
 551179,Galleta Jasmine Integral Naranja 120 gr,Abarrotes,Dietéticos y Saludables
 551181,Galleta Jasmine Naranja Miel Sin Gluten 120 gr,Abarrotes,Dietéticos y Saludables
@@ -18383,6 +18392,7 @@ id_producto,producto,categoria,subcategoria
 669505,CEPILLO ELECTRICO ORAL B LIMP PROFUNDA,Cuidado Personal,Cuidado Bucal
 669506,CEPILLO ELECTRICO ORAL B DISNEY CARS,Cuidado Personal,Cuidado Bucal
 669511,PAMPERS CONFORTSEC XXG (56PZA) X2U,Cuidado del Bebé,Pañales
+669512,PAMPERS CONFORTSEC XG (58PZA) X2U,Cuidado del Bebé,Pañales
 669578,COMBO LADY DELGADA X 2,Cuidado Personal,Cuidado Familiar
 669901,Pizza Hipermaxi Congelada Hawaiana 620 gr,Congelados,Masas y Comidas Congeladas
 669902,Pizza Hipermaxi Congelada Jamon Queso Light Masa Integral,Congelados,Masas y Comidas Congeladas
@@ -20056,6 +20066,7 @@ id_producto,producto,categoria,subcategoria
 674544,MAPLE CRISTAL DE HUEVO BLANCO ROLON,Lácteos y Derivados,Huevos
 674545,LECHE KREAM CON AVENA 110ML,Lácteos y Derivados,Leches
 674546,LECHE KREAM FRUTILLA 110ML,Lácteos y Derivados,Leches
+674547,LECHE DE SOYA SABOR BANANA NORDLAND 950ML,Lácteos y Derivados,Leches
 674549,CHORIZO BRATWURST STEGE KILOGRAMO,Fiambres,Fiambres Externos
 674552,QUESO MOZZARELLA LAMINADO EL TRIO 160GRS SAN JAVIER,Lácteos y Derivados,Quesos
 674553,QUESO MOZZARELLA LAMINADO SAN ANDRES 160GRS SAN JAVIER,Lácteos y Derivados,Quesos
