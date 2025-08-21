@@ -1792,8 +1792,10 @@ id_producto,producto,categoria,subcategoria
 25282,Lonchera Juguito Pil,Bebidas,"Jugos, Néctar"
 25290,CAFE MESTIZO 21 MOLIDO 250G,Abarrotes,Café y Sucedáneos
 25314,COMIDA RAZA GATO CASTRAD CARNE POLLO 500,Abarrotes,Mascotas
+25316,GALLETA SALTIN TRADICIONAL 200G,Abarrotes,Galletas
 25317,BEBIDA FOUR LOKO LOVE LTA 695ML,Bebidas,Licores
 25318,VINO KOHLBERG 200A ED LIMIT 1825 750ML,Bebidas,Vinos y Champagne
+25319,PACK  1LAZZARONI 1SALSA 1EXTRACTO,Abarrotes,Salsas y Extracto de Tomate
 25320,TE WINDSOR21 WINLIFE 21SAQ,Abarrotes,Dietéticos y Saludables
 25324,MASTICABLE MOGUL LADRILLOS 100G,Abarrotes,Golosinas - Varias
 25325,TE WINDSOR21 WINFEM 21G,Abarrotes,Dietéticos y Saludables
@@ -1804,6 +1806,8 @@ id_producto,producto,categoria,subcategoria
 25335,MANI TOSTADO LOLITA CON SAL 200G,Abarrotes,Snack
 25336,Mani Tostado Lolita con Sal 200 g,Abarrotes,Snack
 25337,TOCINOS LOLITA CHIPS BSA 200G,Abarrotes,Snack
+25339,MAIZ PIPOCA CAMARO GRANO 300G,Abarrotes,Snack
+25340,MAIZ PIPOCA CAMARO GRANO POTE 700G,Abarrotes,Snack
 25640,Surtido de Mariscos Robinson Crusoe Natural 190 gr,Abarrotes,Comidas en Conserva
 25771,Huevos Caisy 12 un,Lácteos y Derivados,Huevos
 25789,Galleta Rocklets Chocolate 118 gr,Abarrotes,Galletas
@@ -3275,6 +3279,7 @@ id_producto,producto,categoria,subcategoria
 58432,Aceite Fino Vegetal 4.5 L,Abarrotes,Básicos
 58718,Vino Gran Patrono Reserve Marselan 750 ml,Bebidas,Vinos y Champagne
 59041,Chicle Topline Atm Strong 16 gr,Abarrotes,Golosinas - Varias
+59056,TALCO GRANADO ANTISEPTICO 100GR,Cuidado Personal,Cuidado de la Piel
 59366,Vela Catedral Chica 8 un,Bazar,Cotillón
 59773,Vinagre Toscano Tinto 750 ml,Abarrotes,Básicos
 59900,Ron Medellin Añejo 2 L,Bebidas,Licores
@@ -5865,6 +5870,7 @@ id_producto,producto,categoria,subcategoria
 126012,Talco Para Pies Rexona Aerosol 153 ml,Cuidado Personal,Cuidado de la Piel
 126013,Detergente Liquido Skip Fibercare 3 L,Cuidado del Hogar,Limpieza de la Ropa
 126015,Talco Para Pies Reexona Efficiente Original 100 gr,Cuidado Personal,Cuidado de la Piel
+126016,REXONA TALCO EFFICIENT ANTIB PRO 6X200G,Cuidado Personal,Cuidado de la Piel
 126017,Desodorante Aerosol Rexona Efficient Original Pies 153 ml,Cuidado Personal,Cuidado de la Piel
 126023,Protectores Diarios Carefree Largos 20 un,Cuidado Personal,Cuidado Familiar
 126024,Protectores Diarios Carefree Largos 60 un,Cuidado Personal,Cuidado Familiar
@@ -7851,6 +7857,7 @@ id_producto,producto,categoria,subcategoria
 228202,TRAPO MICROFIBRA PINTO BLANCO 300 GR,Cuidado del Hogar,Accesorios del Hogar
 228205,TRAPO MICROFIBRA  PINTO VERDE 300 GR,Cuidado del Hogar,Accesorios del Hogar
 228221,SERUM OJOS LOREAL ACIDO GLICOLICO,Cuidado Personal,Cuidado de la Piel
+228223,SCOTCH BRITE FIBRA EXTR MORADA PACK 2U 2,Cuidado del Hogar,Accesorios del Hogar
 228224,SCOTCH BRITE FIBRA EXTREM MORADA 1U 36X1,Cuidado del Hogar,Accesorios del Hogar
 228225,ESPONJA METAL ESPIRAL SCOTCH BRITE PACK,Cuidado del Hogar,Accesorios del Hogar
 228226,ESPONJA METALICA ESPIRAL SCOTCH BRITE 1U,Cuidado del Hogar,Accesorios del Hogar
@@ -7866,6 +7873,7 @@ id_producto,producto,categoria,subcategoria
 228245,DESINFECTANTE TB 500ML LAVANDA-AERO,Cuidado del Hogar,Limpieza de Baños
 228246,DESINFECTANTE TB ORIGINAL 500ML-AERO,Cuidado del Hogar,Limpieza de Baños
 228247,DESINFECTANTE TB BEBE 500ML-AERO,Cuidado del Hogar,Limpieza de Baños
+228248,ALGABO SH AVOCADO Y ARGAN 750 ML,Cuidado Personal,Cuidado del Cabello
 228336,PANUELO FACIAL DESECHABLE PERLITA 6 UNDS,Cuidado Personal,Cuidado Familiar
 228337,NEUTROGENA SERUM NIACINAMIDA 30ML,Cuidado Personal,Cuidado de la Piel
 228670,DESTAPA CANERIAS EN GEL TODO BRILLO 1LT,Cuidado del Hogar,Limpieza de Baños
@@ -8237,6 +8245,7 @@ id_producto,producto,categoria,subcategoria
 240725,Ambientador Aer Power Pocket Placer De Lavanda 10 Gr,Cuidado del Hogar,Limpieza de Living y Ropero
 240726,Servilleta Hogar Navideña 60 un,Cuidado Personal,Cuidado Familiar
 240727,Ambientador Aer Power Pocket Berry Vibrante 6 Und 10 Gr,Cuidado del Hogar,Limpieza de Living y Ropero
+240728,LIMPIADOR DE MAQUINA FINISH 250 ML,Cuidado del Hogar,Productos Americanos
 240730,Ambientador Aer Power Pocket Frescura Citrica Caja 6 Und 10 Gr,Cuidado del Hogar,Limpieza de Living y Ropero
 240731,Ambientador Aer Power Pocket Encanto De Rosas 6 Und 10 Gr,Cuidado del Hogar,Limpieza de Living y Ropero
 240732,Ambientador Aer Power Pocket Delicia De Jazmin Caja 6 Und 10 Gr,Cuidado del Hogar,Limpieza de Living y Ropero
@@ -14236,6 +14245,7 @@ id_producto,producto,categoria,subcategoria
 553181,Fruta Deshidratada Confrut Frutilla Trozos 50 gr,Abarrotes,Frutas en Conserva
 553182,Mango Deshidratado Confrut 50 gr,Abarrotes,Frutas en Conserva
 553183,Platano Entero Deshidratado Confrut 100 gr,Abarrotes,Frutas en Conserva
+553185,Mermelada Confrut Durazno Yacon 220 gr,Abarrotes,"Mermel, Mieles"
 553186,Mermelada Confrut Frut Rellena Curcuma 500 gr,Abarrotes,"Mermel, Mieles"
 553187,Mermelada Confrut Durazno Yacon 50 gr,Abarrotes,"Mermel, Mieles"
 553188,Mermelada Confrut Guayaba Yacon 500 gr,Abarrotes,"Mermel, Mieles"
@@ -14335,6 +14345,7 @@ id_producto,producto,categoria,subcategoria
 553296,GALLETA SUPREMA SALADA CHAPITA 60G,Abarrotes,Galletas
 553297,GALLETA SALADA SUPREMA CHAPITAS 141GR,Abarrotes,Galletas
 553298,CHOCOL RUAH AMARGO 75P C NARANJA 60G,Abarrotes,Chocolates y Caramelos
+553301,CHOCOMILKO NUTREME 960 GR,Abarrotes,Nutrición Infantil
 553303,GALLETAS ANDES TROPICO ALMENDRA 200 GR,Abarrotes,Galletas
 553305,GALLETA ANDES TROPICO CHIA 200 GR,Abarrotes,Galletas
 553306,GALLETA ANDES TROPICO SESAMO 200GR,Abarrotes,Galletas
@@ -14360,7 +14371,7 @@ id_producto,producto,categoria,subcategoria
 553331,BEBIDA CIN CANELA BOT 3 LT,Bebidas,Bebidas Varias
 553332,BEBIDA CIN COCO BOT 3 LT,Bebidas,Bebidas Varias
 553333,BEBIDA CIN LINAZA BOT 3 LT,Bebidas,Bebidas Varias
-553335,LECHE EN POLVO NIDO 1 DP 2 KG,Abarrotes,Nutrición Infantil
+553335,LECHE NIDO CRECIM 1 DP 2KG,Abarrotes,Nutrición Infantil
 553337,LECHE ALMENDRA POLVO FIT MIT POTE 500 GR,Abarrotes,Nutrición Infantil
 553338,LECHE COCO POLVO FIT MIT POTE 500 GR,Abarrotes,Nutrición Infantil
 553340,LECHE DORADA POLVO FIT MIT POTE 500 GR,Abarrotes,Nutrición Infantil
@@ -18161,6 +18172,7 @@ id_producto,producto,categoria,subcategoria
 668998,MAR ANTIBAC KIDS -3PACK 270 GR,Cuidado Personal,Cuidado de la Piel
 668999,Jabon Barra Mar Coco Almendra Vainilla 90 gr,Cuidado Personal,Cuidado de la Piel
 669001,CORRECTOR ESSENTIAL NATURAL,Cuidado Personal,Cuidado de la Piel
+669002,OH QUE BRILLO RESISST,Cuidado Personal,Cuidado de la Piel
 669003,Labial Colorissimo Extra Brillo Cosmopolitan,Cuidado Personal,Cuidado de la Piel
 669004,Labial Colorissimo Extra Brillo Fiesta,Cuidado Personal,Cuidado de la Piel
 669005,Shampoo Elvive Glycolic Gloss 370 ml,Cuidado Personal,Cuidado del Cabello
@@ -18811,6 +18823,7 @@ id_producto,producto,categoria,subcategoria
 671623,Huevos de Codorniz 12 un,Lácteos y Derivados,Huevos
 671635,Queso Mozzarella San Andres,Lácteos y Derivados,Quesos
 671645,Esparragos Congelados Minuto Verde 350 gr,Congelados,Pulpas y Frutas Congeladas
+671657,Jamon Serrano Zenteno 100 gr,Fiambres,Fiambres Externos
 671668,Bebida de Almendra Almond Breeze 946 ml,Lácteos y Derivados,Leches
 671675,Tortillas Don Taco Chica Light 270 gr,Congelados,Masas y Comidas Congeladas
 671676,Tortillas Don Taco Mediana Light 390 gr,Congelados,Masas y Comidas Congeladas
