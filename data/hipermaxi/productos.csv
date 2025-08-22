@@ -484,7 +484,7 @@ id_producto,producto,categoria,subcategoria
 12204,Taza Diamante con Platillo,Bazar,Menaje Vidrio/Cristal
 12331,Alimento Whiskas Carne 1 kg,Abarrotes,Mascotas
 12332,Alimento Whiskas Pollo Leche 1 kg,Abarrotes,Mascotas
-12336,Ron Havana Selección de Maestro 700 ml,Bebidas,Licores
+12336,Ron Havana Seleccion de Maestros Iconica 700 ml,Bebidas,Licores
 12338,Alimento Whiskas Gatitos Carne Leche 1 kg,Abarrotes,Mascotas
 12429,Alimento Whiskas Adulto Salmon Pounch 85 gr,Abarrotes,Mascotas
 12430,Alimento Whiskas Adulto Carne Pounch 85 gr,Abarrotes,Mascotas
@@ -1788,6 +1788,7 @@ id_producto,producto,categoria,subcategoria
 25267,KETCHUP PICKLES CEPERA PET 350G,Abarrotes,Aderezos
 25272,PURE D PAPA KRIS INSTANT TOCINO 125G,Abarrotes,Básicos
 25273,PURE D PAPA KRIS INSTANT TOCINO 250G,Abarrotes,Básicos
+25278,GIN PUERTO D INDIAS BLACK 750ML,Bebidas,Licores
 25279,CERVEZA PROST WINTERBIER LTA 473 ML,Bebidas,Cervezas
 25282,Lonchera Juguito Pil,Bebidas,"Jugos, Néctar"
 25290,CAFE MESTIZO 21 MOLIDO 250G,Abarrotes,Café y Sucedáneos
@@ -1797,12 +1798,14 @@ id_producto,producto,categoria,subcategoria
 25318,VINO KOHLBERG 200A ED LIMIT 1825 750ML,Bebidas,Vinos y Champagne
 25319,PACK  1LAZZARONI 1SALSA 1EXTRACTO,Abarrotes,Salsas y Extracto de Tomate
 25320,TE WINDSOR21 WINLIFE 21SAQ,Abarrotes,Dietéticos y Saludables
+25322,MARSMALLOWS OLE OLE CHOCOLATE BSA 200G,Abarrotes,Chocolates y Caramelos
 25324,MASTICABLE MOGUL LADRILLOS 100G,Abarrotes,Golosinas - Varias
 25325,TE WINDSOR21 WINFEM 21G,Abarrotes,Dietéticos y Saludables
 25326,TE WINDSOR21 WINFIT 21G,Abarrotes,Dietéticos y Saludables
 25327,TE WINDSOR21 WINLRELAX 21 G,Abarrotes,Dietéticos y Saludables
 25329,TALLARIN LA SUPREMA 400G,Abarrotes,Básicos
 25330,ESPAGUETI LA SUPREMA 400G,Abarrotes,Básicos
+25331,MANTEQ MANI MR NUTS CROCANTE SIN AZUC 1K,Abarrotes,Repostería
 25335,MANI TOSTADO LOLITA CON SAL 200G,Abarrotes,Snack
 25336,Mani Tostado Lolita con Sal 200 g,Abarrotes,Snack
 25337,TOCINOS LOLITA CHIPS BSA 200G,Abarrotes,Snack
@@ -3504,7 +3507,7 @@ id_producto,producto,categoria,subcategoria
 88625,Pimenton Verde 1 kg,Frutas y Verduras,Verduras
 89717,Te Matcha Verde Polvo 200 gr,Abarrotes,Café y Sucedáneos
 89966,Ron Havana Club Añejo Reserva 1000 ml,Bebidas,Licores
-90018,Singani Casa Real Etiqueta Negra 750 ml,Bebidas,Licores
+90018,Gran Singani Casa Real Etiqueta Negra 750 ml Edicion Bicentenario,Bebidas,Licores
 90115,Vino Aranjuez Duo Tannat Merlot 750 ml,Bebidas,Vinos y Champagne
 90123,Comino EL Cocinero Molido 30 gr,Abarrotes,Condimentos y Legumbres
 90131,Pimienta El Cocinero Molida 30 gr,Abarrotes,Condimentos y Legumbres
@@ -4508,7 +4511,7 @@ id_producto,producto,categoria,subcategoria
 107035,Acondicionador Fructis Hair Food Aguacate 300 ml,Cuidado Personal,Cuidado del Cabello
 107093,Toallas Higienicas Siempre Libre Nocturna 8 un,Cuidado Personal,Cuidado Familiar
 107118,Galleta Noel Dux Integral 250 gr,Abarrotes,Galletas
-107120,Galleta Noel Ducales 243 gr,Abarrotes,Galletas
+107120,Galleta Noel Ducales 241 gr,Abarrotes,Galletas
 107182,Servilletas Familia Normal 100 un,Cuidado Personal,Cuidado Familiar
 107190,Suavizante Ropa Borita Tradicional Azul Doypack 900 ml,Cuidado del Hogar,Limpieza de la Ropa
 107201,Mix Nutriva Clasico 200 gr,Abarrotes,Snack
@@ -7874,6 +7877,8 @@ id_producto,producto,categoria,subcategoria
 228246,DESINFECTANTE TB ORIGINAL 500ML-AERO,Cuidado del Hogar,Limpieza de Baños
 228247,DESINFECTANTE TB BEBE 500ML-AERO,Cuidado del Hogar,Limpieza de Baños
 228248,ALGABO SH AVOCADO Y ARGAN 750 ML,Cuidado Personal,Cuidado del Cabello
+228291,MASC. PESTANA FIREWORK ELECTRO WATER,Cuidado Personal,Cuidado de la Piel
+228297,ACONDC SUAVELINA MANZANILLA DP 750 ML,Cuidado Personal,Cuidado del Cabello
 228336,PANUELO FACIAL DESECHABLE PERLITA 6 UNDS,Cuidado Personal,Cuidado Familiar
 228337,NEUTROGENA SERUM NIACINAMIDA 30ML,Cuidado Personal,Cuidado de la Piel
 228670,DESTAPA CANERIAS EN GEL TODO BRILLO 1LT,Cuidado del Hogar,Limpieza de Baños
@@ -8438,6 +8443,7 @@ id_producto,producto,categoria,subcategoria
 249056,BLOQUEADOR PORTUGAL BAHIA KIDS SPF50 60,Cuidado del Bebé,Kids
 249057,Bloqueador Portugal Bahia Sport Spf 50 60 gr,Cuidado Personal,Cuidado de la Piel
 249058,GEL FIJADOR SUPER FIX  275G,Cuidado Personal,Cuidado del Cabello
+249060,PROTECTOR SOLAR SUNBEAT FPS50 DIARIO150G,Cuidado Personal,Cuidado de la Piel
 249061,Protector Solar Sunbeat 50 + Diario 90 gr,Cuidado Personal,Cuidado de la Piel
 249062,Protector Solar Sunbeat 50 + Sport 200 gr,Cuidado Personal,Cuidado de la Piel
 249063,Talco Pie Silka 150 gr,Cuidado Personal,Cuidado de la Piel
@@ -14398,6 +14404,7 @@ id_producto,producto,categoria,subcategoria
 553368,GRAGEA QUINUA RUAH CHOCOLATE STEVIA  50,Abarrotes,Chocolates y Caramelos
 553370,CEREAL SPECIAL K TRIPLE BERRY 331 GR,Abarrotes,Productos Americanos
 553372,AGUA CON GAS MAISON PERRIER BLACKBERRY LTA 11.15 OZ,Bebidas,Bebidas Usa
+553373,COMPOTA LITTLE MAMA BANANA CHIA 110 GR,Abarrotes,Nutrición Infantil
 553374,COMPOTA LITTLE MAMA MANZANA 110G,Abarrotes,Nutrición Infantil
 553375,COMPOTA LITTLE MAMA MANZANA PERA 110 GR,Abarrotes,Nutrición Infantil
 553376,CEREAL CHOCAPIC ORIGINAL BSA 90 GR,Abarrotes,Nutrición Infantil
@@ -14408,6 +14415,7 @@ id_producto,producto,categoria,subcategoria
 553381,SALSA ULUPICAS MANGO RINCON MADERAS FCO,Abarrotes,Aderezos
 553382,SALSA R MADERAS TERIYAKI D ULUPICAS 55ML,Abarrotes,Aderezos
 553383,PASTA DE AJO RINCO MADERAS FCO 210G,Abarrotes,Condimentos y Legumbres
+553385,BOMBON PARA TI CJA 250G,Abarrotes,Chocolates y Caramelos
 553386,PACK 3 JUGOS DEL SOL TETRA 1 LT,Bebidas,"Jugos, Néctar"
 553387,Galleta Oreo Selena Tubo 108 g,Abarrotes,Galletas
 553388,Galleta Oreo Selena 216 g,Abarrotes,Galletas
@@ -18405,6 +18413,7 @@ id_producto,producto,categoria,subcategoria
 669506,CEPILLO ELECTRICO ORAL B DISNEY CARS,Cuidado Personal,Cuidado Bucal
 669511,PAMPERS CONFORTSEC XXG (56PZA) X2U,Cuidado del Bebé,Pañales
 669512,PAMPERS CONFORTSEC XG (58PZA) X2U,Cuidado del Bebé,Pañales
+669576,CREMA PARA PEINAR BELMED RIZOS 320 GR.,Cuidado Personal,Cuidado del Cabello
 669578,COMBO LADY DELGADA X 2,Cuidado Personal,Cuidado Familiar
 669901,Pizza Hipermaxi Congelada Hawaiana 620 gr,Congelados,Masas y Comidas Congeladas
 669902,Pizza Hipermaxi Congelada Jamon Queso Light Masa Integral,Congelados,Masas y Comidas Congeladas
@@ -20083,6 +20092,7 @@ id_producto,producto,categoria,subcategoria
 674549,CHORIZO BRATWURST STEGE KILOGRAMO,Fiambres,Fiambres Externos
 674552,QUESO MOZZARELLA LAMINADO EL TRIO 160GRS SAN JAVIER,Lácteos y Derivados,Quesos
 674553,QUESO MOZZARELLA LAMINADO SAN ANDRES 160GRS SAN JAVIER,Lácteos y Derivados,Quesos
+674555,MANTEQUILLA CON SAL APEGO 12 X 200 GRS,Lácteos y Derivados,Mantequillas y Margarinas
 674832,Mini Torta Delizia Frutilla 850 ml,Congelados,"Helados, Cassattas y Picoleses"
 674834,MINI TORTA DELIZIA YOGURT SALSA AMARENA 850 ML,Congelados,"Helados, Cassattas y Picoleses"
 675245,Miel de Abeja Eva Promiel 250 gr,Abarrotes,"Mermel, Mieles"
@@ -20901,6 +20911,7 @@ id_producto,producto,categoria,subcategoria
 761291,YOGURT BEB.PROB.DESLACT.FRUT.FRUTOS ROJOS H.P.1LT.,Lácteos y Derivados,Yogures
 761294,YOGURT BEB.PROBIOT.DESLACT.FRUT.FRAMBUESA H.P.1LT.,Lácteos y Derivados,Yogures
 761311,KEFIR SAB.COCO PINA BONTANA 500 ML.,Lácteos y Derivados,Yogures
+761321,PALITOS INTEGRALES PAN DANES UND.,Panadería,Panadería Externa
 761326,YUCA PRECOCIDA CONG.POLAR CORTE CUBOS 1 KG.,Congelados,Masas y Comidas Congeladas
 761335,Yogurt Bebible Friedland Probiotico Papaya 1 L,Lácteos y Derivados,Yogures
 761337,KEFIR SAB.LIMON VAINILLA BONTANA 500 ML.,Lácteos y Derivados,Yogures
@@ -23920,6 +23931,7 @@ id_producto,producto,categoria,subcategoria
 868286,PACK ORAL B P 2 DUPLO ALIVIO 50ML X1U,Cuidado Personal,Cuidado Bucal
 868287,PACK PANTENE 1SH FUERZA Y RECONS 400ML+1,Cuidado Personal,Cuidado del Cabello
 868288,PACK PANTENE 1SH EXTRALISO 400ML+1AC400M,Cuidado Personal,Cuidado del Cabello
+868289,PACK PANTENE 1SH CUID 2EN1 400ML+1CP CTR,Cuidado Personal,Cuidado del Cabello
 868293,PACK PANTENE 1SH CTRL CAIDA 400ML+1AC 3M,Cuidado Personal,Cuidado del Cabello
 868294,PACK PANTENE 1SH KERATINA 300ML+1AC 3MM,Cuidado Personal,Cuidado del Cabello
 868295,PACK PANTENE 1SH KERATINA 510ML+1AC FUER,Cuidado Personal,Cuidado del Cabello
@@ -24417,6 +24429,7 @@ id_producto,producto,categoria,subcategoria
 897891,Juguete Para Mascota Hueso 15,Bazar,Mascotas General
 898092,ALISADORA FASHION KIT TAURUS,Bazar,Electrodoméstico Cuidado Personal
 898208,Jabon Barra Gigante Azul 200 gr,Cuidado del Hogar,Limpieza de la Ropa
+898225,FRE MOLDE DE QUEQUE ALUMINIO   N18,Bazar,Menaje Metálico
 898228,Queso Philadelphia Kraft Original 150 gr,Lácteos y Derivados,Quesos
 898233,Queso Philadelphia Kraft Light 150 gr,Lácteos y Derivados,Quesos
 898257,Cable Usb Huavi U06 para Celular,Bazar,Telefonía y Accesorios
