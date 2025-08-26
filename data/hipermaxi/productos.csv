@@ -1776,6 +1776,7 @@ id_producto,producto,categoria,subcategoria
 25243,GALLETA RELL AVENTURA VAINILLA 120G,Abarrotes,Galletas
 25244,GALLETA RELL AVENTURA CHOCOCREMA 120G,Abarrotes,Galletas
 25245,GALLETA D ARROZ F FARM C STEVIA 110G,Abarrotes,Dietéticos y Saludables
+25247,CAFE COROICAFE GRANO DP 250G,Abarrotes,Café y Sucedáneos
 25252,MARSMALLOWS CRISMELOS TWISTER 240G,Abarrotes,Chocolates y Caramelos
 25254,GOMITA FINI MORAS 15G,Abarrotes,Golosinas - Varias
 25255,GOMITA FINI BANANAS 15G,Abarrotes,Golosinas - Varias
@@ -1809,6 +1810,7 @@ id_producto,producto,categoria,subcategoria
 25330,ESPAGUETI LA SUPREMA 400G,Abarrotes,Básicos
 25331,MANTEQ MANI MR NUTS CROCANTE SIN AZUC 1K,Abarrotes,Repostería
 25333,CHICLE TOPLINE TURBO MINT 25G,Abarrotes,Golosinas - Varias
+25334,GOMITA MOGUL SANDIA EXTREME 500G,Abarrotes,Golosinas - Varias
 25335,MANI TOSTADO LOLITA CON SAL 200G,Abarrotes,Snack
 25336,Mani Tostado Lolita con Sal 200 g,Abarrotes,Snack
 25337,TOCINOS LOLITA CHIPS BSA 200G,Abarrotes,Snack
@@ -1879,7 +1881,7 @@ id_producto,producto,categoria,subcategoria
 26063,Mermelada Durazno Dfrut frasco 500 gr,Abarrotes,"Mermel, Mieles"
 26064,CUBANITOS BONOBON LECHE 78GR,Abarrotes,Chocolates y Caramelos
 26065,BOTA BON O BON NAVIDENA DP 150G,Abarrotes,Temporada
-26066,PEPINILLO GREENS AGRIDULCE FCO 580G,Abarrotes,Verduras en Conserva
+26066,Pepinillo Greens Agridulce 580 gr,Abarrotes,Verduras en Conserva
 26067,PEPINILLO GREENS AGRIDULCE FCO 350G,Abarrotes,Verduras en Conserva
 26068,Jalapeño Greens Cowboy Candy 580 gr,Abarrotes,Verduras en Conserva
 26069,JALAPENO GREENS COWBOY CANDY 350G,Abarrotes,Verduras en Conserva
@@ -7846,6 +7848,7 @@ id_producto,producto,categoria,subcategoria
 228166,PASTA DENTAL KIDS FRESA CARISSA 50G,Cuidado del Bebé,Kids
 228167,PASTA DENTAL TRIPLE ACCION CARISSA 50G,Cuidado Personal,Cuidado Bucal
 228169,SHAMPOO CONTRO CAIDA REVIVE 850ML DP,Cuidado Personal,Cuidado del Cabello
+228174,CREMA NIVEA MILK 5EN1 250 ML,Cuidado del Hogar,Productos Americanos
 228178,SHAMPOO ELVIVE DREAM LONG SLEEK 680 ML,Cuidado Personal,Cuidado del Cabello
 228179,SHAMPOO ELVIVE  DREAM LONG SLEEK 370 ML,Cuidado Personal,Cuidado del Cabello
 228180,ACONDIC ELVIVE DREAM LONG SLEEK 370 ML,Cuidado Personal,Cuidado del Cabello
@@ -7891,6 +7894,7 @@ id_producto,producto,categoria,subcategoria
 228297,ACONDC SUAVELINA MANZANILLA DP 750 ML,Cuidado Personal,Cuidado del Cabello
 228299,SHAMPOO BALLERINA REPARACION FCO 750ML,Cuidado Personal,Cuidado del Cabello
 228300,BALLERINA SH REPARACION DP 750ML,Cuidado Personal,Cuidado del Cabello
+228301,AC BALLERINA REPARACION FCO 750ML,Cuidado Personal,Cuidado del Cabello
 228304,SHAMPOO SUAVELINA MANZANILLA DP 750 ML,Cuidado Personal,Cuidado del Cabello
 228332,GEL LIMPIADOR GARNIER EXPRESS ACLARA 250,Cuidado Personal,Cuidado de la Piel
 228336,PANUELO FACIAL DESECHABLE PERLITA 6 UNDS,Cuidado Personal,Cuidado Familiar
@@ -14397,6 +14401,7 @@ id_producto,producto,categoria,subcategoria
 553332,BEBIDA CIN COCO BOT 3 LT,Bebidas,Bebidas Varias
 553333,BEBIDA CIN LINAZA BOT 3 LT,Bebidas,Bebidas Varias
 553335,LECHE NIDO CRECIM 1 DP 2KG,Abarrotes,Nutrición Infantil
+553336,LECHE SESAMO FIT MIT POLVO POTE 500 GR,Abarrotes,Nutrición Infantil
 553337,LECHE ALMENDRA POLVO FIT MIT POTE 500 GR,Abarrotes,Nutrición Infantil
 553338,LECHE COCO POLVO FIT MIT POTE 500 GR,Abarrotes,Nutrición Infantil
 553340,LECHE DORADA POLVO FIT MIT POTE 500 GR,Abarrotes,Nutrición Infantil
@@ -14457,6 +14462,8 @@ id_producto,producto,categoria,subcategoria
 553421,SOPA MAXIMO RAMEN CARNE VASO 51 GR,Abarrotes,Básicos
 553422,SOPA MAXIMO RAMEN POLLO PIC VASO 51G,Abarrotes,Básicos
 553423,SOPA MAXIMO RAMEN CARNE PIC VASO 51G,Abarrotes,Básicos
+553425,DURAZNO FRESCO DESHID 250 GR,Abarrotes,Frutas en Conserva
+553427,MANZANA FRESCO DESHID 70 GR,Abarrotes,Frutas en Conserva
 553430,GASEOSA SIMBA PINA NR BOT 3 LT,Bebidas,Gaseosas
 553431,GASEOSA SIMBA MANZANA NR BOT 3 LT,Bebidas,Gaseosas
 554333,Cerveza Paceña Lata Roja 473 Cc,Bebidas,Cervezas
@@ -17150,6 +17157,7 @@ id_producto,producto,categoria,subcategoria
 660026,Mani Mr.Mad Tostado Sal y Picante 500 gr,Abarrotes,Snack
 660027,Mani Mr Mad Tostado con Sal 500 gr,Abarrotes,Snack
 660028,Mani Tostado Sal Ajo Cebo Hierbas,Abarrotes,Snack
+660030,Miel de Abeja Origen Chiquitano 450 gr,Abarrotes,"Mermel, Mieles"
 660031,Miel de Abeja Chiquitano Origen 700 gr,Abarrotes,"Mermel, Mieles"
 660032,Miel de Abeja Origen Chaqueño 450 gr,Abarrotes,"Mermel, Mieles"
 660038,Galleta Wafer Costa Vainilla 105 gr,Abarrotes,Galletas
@@ -20027,7 +20035,9 @@ id_producto,producto,categoria,subcategoria
 674350,Postre Delizia Tentacion Canela Coco 200 ml,Congelados,"Helados, Cassattas y Picoleses"
 674351,Postre Delizia Tentacion Canela Maracuya 200 ml,Congelados,"Helados, Cassattas y Picoleses"
 674354,YOGURT BEBIBLE VIGOR FRUTILLA 2 LITROS,Lácteos y Derivados,Yogures
+674355,YOGURT BEBIBLE VIGOR COCO 2 LITROS,Lácteos y Derivados,Yogures
 674356,YOGURT BEBIBLE VIGOR DURAZNO 2 LITROS,Lácteos y Derivados,Yogures
+674358,YOGUR BEBIBLE VIGOR CHIRIMOYA 2 LITROS,Lácteos y Derivados,Yogures
 674360,MORTADELA CHICHARRON STEGE AL VACIO,Fiambres,Fiambres Externos
 674361,QUESO CRIOLLO TORITO AL VACIO,Fiambres,Fiambres Externos
 674363,Helado Delizia Tentacion Almendra,Congelados,"Helados, Cassattas y Picoleses"
@@ -20955,6 +20965,7 @@ id_producto,producto,categoria,subcategoria
 761422,Tapa de Empanada Multiple Multipasta 12 un,Congelados,Masas y Comidas Congeladas
 761425,Almejas Enteras con Concha Ilomar 1 Docena,Congelados,Carnes Congeladas
 761431,Tapa de Empanada de Freir Multipasta 12 un,Congelados,Masas y Comidas Congeladas
+761434,GALLETAS CRICK CRACK PAN DANES  UNID.,Panadería,Panadería Externa
 761436,Yogurt Bebible Friedland Natural Sin Azucar 1 L,Lácteos y Derivados,Yogures
 761457,FORTUMILK LECHE NATURAL 900 ML. LA PURITA,Lácteos y Derivados,Leches
 761458,YUCAS PRECOCIDAS CONG.POLAR CORTE BASTON 1 KG.,Congelados,Masas y Comidas Congeladas
