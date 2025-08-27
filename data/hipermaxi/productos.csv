@@ -2152,6 +2152,7 @@ id_producto,producto,categoria,subcategoria
 30159,Café 3 Corazones Espresso grano 1 kg,Abarrotes,Café y Sucedáneos
 30160,Café 3 Corazones Mogiana Paulista 250 gr,Abarrotes,Café y Sucedáneos
 30161,Café 3 Corazones Cerrado Mineiro 250 gr,Abarrotes,Café y Sucedáneos
+30162,Mani La Botana Tostado 125 gr,Abarrotes,Snack
 30164,Cebolla McCormick Picada 2 oz,Abarrotes,Condimentos y Legumbres
 30165,Te Paris Gold Canela Clavo 20 Sobres,Abarrotes,Café y Sucedáneos
 30172,Vinagre Castelo de Manzana 500 ml,Abarrotes,Básicos
@@ -5457,6 +5458,7 @@ id_producto,producto,categoria,subcategoria
 117041,Alimento Ricocat Pate Sardina Pollo 330 gr,Abarrotes,Mascotas
 117071,Mani La Botana Garapinado 100 gr,Abarrotes,Snack
 117072,Mani La Botana Sabor Ajo 100 gr,Abarrotes,Snack
+117073,Mani La Botana Sabor Cebolla 100 gr,Abarrotes,Snack
 117074,Mani La Botana Picante 100 gr,Abarrotes,Snack
 117077,Mani La Botana Chocolate 100 gr,Abarrotes,Snack
 117101,Agua Speranza Sin Gas 600 ml,Bebidas,Aguas
@@ -7889,9 +7891,13 @@ id_producto,producto,categoria,subcategoria
 228246,DESINFECTANTE TB ORIGINAL 500ML-AERO,Cuidado del Hogar,Limpieza de Baños
 228247,DESINFECTANTE TB BEBE 500ML-AERO,Cuidado del Hogar,Limpieza de Baños
 228248,ALGABO SH AVOCADO Y ARGAN 750 ML,Cuidado Personal,Cuidado del Cabello
+228250,ALGABO AC AVOCADO Y ARGAN 750ML,Cuidado Personal,Cuidado del Cabello
+228269,DETERGENTE SAPOLIO LIMON 730GR,Cuidado del Hogar,Limpieza de la Ropa
+228270,DETERGENTE SAPOLIO BEBE 730GR,Cuidado del Hogar,Limpieza de la Ropa
 228291,MASC. PESTANA FIREWORK ELECTRO WATER,Cuidado Personal,Cuidado de la Piel
 228296,ACONDIC BALLERINA  REPARACION DP 750ML,Cuidado Personal,Cuidado del Cabello
 228297,ACONDC SUAVELINA MANZANILLA DP 750 ML,Cuidado Personal,Cuidado del Cabello
+228298,SHAMPOO SUAVELINA HIPOALERGENICO DP 750,Cuidado Personal,Cuidado del Cabello
 228299,SHAMPOO BALLERINA REPARACION FCO 750ML,Cuidado Personal,Cuidado del Cabello
 228300,BALLERINA SH REPARACION DP 750ML,Cuidado Personal,Cuidado del Cabello
 228301,AC BALLERINA REPARACION FCO 750ML,Cuidado Personal,Cuidado del Cabello
@@ -20038,6 +20044,7 @@ id_producto,producto,categoria,subcategoria
 674355,YOGURT BEBIBLE VIGOR COCO 2 LITROS,Lácteos y Derivados,Yogures
 674356,YOGURT BEBIBLE VIGOR DURAZNO 2 LITROS,Lácteos y Derivados,Yogures
 674358,YOGUR BEBIBLE VIGOR CHIRIMOYA 2 LITROS,Lácteos y Derivados,Yogures
+674359,YOGURT FRUTADO VIGOR FRUTILLA FRUTADA 2 LITROS,Lácteos y Derivados,Yogures
 674360,MORTADELA CHICHARRON STEGE AL VACIO,Fiambres,Fiambres Externos
 674361,QUESO CRIOLLO TORITO AL VACIO,Fiambres,Fiambres Externos
 674363,Helado Delizia Tentacion Almendra,Congelados,"Helados, Cassattas y Picoleses"
