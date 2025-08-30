@@ -1793,6 +1793,7 @@ id_producto,producto,categoria,subcategoria
 25279,CERVEZA PROST WINTERBIER LTA 473 ML,Bebidas,Cervezas
 25282,Lonchera Juguito Pil,Bebidas,"Jugos, Néctar"
 25290,CAFE MESTIZO 21 MOLIDO 250G,Abarrotes,Café y Sucedáneos
+25295,ACEITE D OLIVA GALLO SUBTIL LTA 1LT,Abarrotes,Básicos
 25304,CHUCRUT RINCON MADERAS FCO  460GR,Abarrotes,Verduras en Conserva
 25314,COMIDA RAZA GATO CASTRAD CARNE POLLO 500,Abarrotes,Mascotas
 25316,GALLETA SALTIN TRADICIONAL 200G,Abarrotes,Galletas
@@ -2621,6 +2622,7 @@ id_producto,producto,categoria,subcategoria
 30900,Snack Alpha Bofe Banana Liofilizado 25 gr,Abarrotes,Mascotas
 30901,Pack 2 Galletas Chip Ahoy + Oreo Tubo,Abarrotes,Galletas
 30902,Pack 2 Galletas Oreo + Sandwichera,Abarrotes,Galletas
+30908,TE CARMENCITA HIERBAS NATURAL 10SAQ,Abarrotes,Café y Sucedáneos
 30909,Bebida Contini Ice Guarana 275 ml,Bebidas,Licores
 30911,Bebida Contini Ice Maracuya 275 ml,Bebidas,Licores
 30912,Bebida Contini Ice Acai 275 ml,Bebidas,Licores
@@ -3882,6 +3884,7 @@ id_producto,producto,categoria,subcategoria
 101427,Gomita Haribo Goldbears 80 gr,Abarrotes,Golosinas - Varias
 101429,Mani Crokissimo Salado Japones 400 gr,Abarrotes,Snack
 101447,DURAPLAST BUZON CLASICO  15 X1U,Cuidado del Hogar,Accesorios del Hogar
+101455,GELATINA IN-NUTRA MANZANA BSA 1 KG,Abarrotes,Repostería
 101459,Ron Diplomatico Reserva Exclusiva 12 Años,Bebidas,Licores
 101464,Confeti Mil Cores Mini 150 gr,Abarrotes,Repostería
 101475,Limpiador Desinfectante Archer Cedron 5 L,Cuidado del Hogar,Limpieza de Living y Ropero
@@ -7632,6 +7635,7 @@ id_producto,producto,categoria,subcategoria
 225530,Insecticida Titane Cucaracha gel 10 gr,Cuidado del Hogar,Insecticidas
 225531,Jabon Liquido Aval Lavanada 5 L,Cuidado Personal,Cuidado de la Piel
 225557,Vino Aranjuez Alma Tannat Rose 750 ml,Bebidas,Vinos y Champagne
+225580,CEPILLO SANITARIO SADIMEX REDONDO,Cuidado del Hogar,Accesorios del Hogar
 225581,CEPILLO LAVA ROPA SADIMEX PLANCHA,Cuidado del Hogar,Accesorios del Hogar
 225582,Crema Lechuga Clasica 150 gr,Cuidado Personal,Cuidado de la Piel
 225583,Crema Lechuga Clasica 28 gr,Cuidado Personal,Cuidado de la Piel
@@ -7901,6 +7905,7 @@ id_producto,producto,categoria,subcategoria
 228299,SHAMPOO BALLERINA REPARACION FCO 750ML,Cuidado Personal,Cuidado del Cabello
 228300,BALLERINA SH REPARACION DP 750ML,Cuidado Personal,Cuidado del Cabello
 228301,AC BALLERINA REPARACION FCO 750ML,Cuidado Personal,Cuidado del Cabello
+228302,SELLADOR BALLERINA REPARACION 150ML,Cuidado Personal,Cuidado del Cabello
 228304,SHAMPOO SUAVELINA MANZANILLA DP 750 ML,Cuidado Personal,Cuidado del Cabello
 228332,GEL LIMPIADOR GARNIER EXPRESS ACLARA 250,Cuidado Personal,Cuidado de la Piel
 228336,PANUELO FACIAL DESECHABLE PERLITA 6 UNDS,Cuidado Personal,Cuidado Familiar
@@ -8466,6 +8471,7 @@ id_producto,producto,categoria,subcategoria
 249049,SHAMPOO PORTUGAL BEBE ALOE 120 ML,Cuidado del Bebé,Cuidado del Bebé
 249051,SHAMPOO PORTUGAL BEBE ALOE 250 ML,Cuidado del Bebé,Cuidado del Bebé
 249052,Talco Portugal Bebe Zinc 250 gr,Cuidado del Bebé,Cuidado del Bebé
+249055,BLOQUADOR PORTUGAL BAHIA SPF 45 60 GR,Cuidado Personal,Cuidado de la Piel
 249056,BLOQUEADOR PORTUGAL BAHIA KIDS SPF50 60,Cuidado del Bebé,Kids
 249057,Bloqueador Portugal Bahia Sport Spf 50 60 gr,Cuidado Personal,Cuidado de la Piel
 249058,GEL FIJADOR SUPER FIX  275G,Cuidado Personal,Cuidado del Cabello
@@ -11098,6 +11104,7 @@ id_producto,producto,categoria,subcategoria
 414410,Nacho Guadalajara Natural 150 gr,Abarrotes,Snack
 414442,Insecticida Mapex Mata Todo 330 ml,Cuidado del Hogar,Insecticidas
 414654,Helado Arcor Cofler Almendra 80 ml,Congelados,"Helados, Cassattas y Picoleses"
+414659,QUEQUE MARMOLADO I.DAVIEDS  UND.,Pastelería y Masas Típicas,Pastelería Externa
 414891,Helado Bon o Bon Cono 135 gr,Congelados,"Helados, Cassattas y Picoleses"
 414930,Helado Arcor Palito Bombon Kids 63 gr,Congelados,"Helados, Cassattas y Picoleses"
 414999,Helado Corazon Bon o Bon 60 gr,Congelados,"Helados, Cassattas y Picoleses"
@@ -14426,7 +14433,7 @@ id_producto,producto,categoria,subcategoria
 553354,KIT WAKA CREATOR STRAWBERRY WAT 5P 12000,Bebidas,Cigarrillos
 553355,YOGURT BEBIBLE PROBIOTICO 2LT VARIOS SABORES,Lácteos y Derivados,Yogures
 553356,PACK 6+1 PROST LAGER LTA 310ML,Bebidas,Cervezas
-553357,VINO GUAJOJO TANAT BASTARDO 750 ML,Bebidas,Vinos y Champagne
+553357,VINO BASTARDO GUAJOJO TANNAT 750ML,Bebidas,Vinos y Champagne
 553358,VINO DESCARADA SYRAH 750 ML,Bebidas,Vinos y Champagne
 553360,SNACK DR PICKS PICKESOS 26GR,Abarrotes,Snack
 553361,PACK RAMEN MAXIMO 4X85G,Abarrotes,Básicos
@@ -18061,6 +18068,7 @@ id_producto,producto,categoria,subcategoria
 668682,Acondicionador Botox Capilar 700 gr,Cuidado Personal,Cuidado del Cabello
 668683,Acondicionador Brillance 700 gr,Cuidado Personal,Cuidado del Cabello
 668684,Acondicionador Detox Gloss 700 gr,Cuidado Personal,Cuidado del Cabello
+668685,CREMA TRAT. BELESTRAL SILVER 1000 GR,Cuidado Personal,Cuidado del Cabello
 668686,CREMA DE ENJUAGUE NIÑAS 700 GR,Cuidado Personal,Cuidado del Cabello
 668687,CESTO DE ROPA BOREAL GRANDE,Cuidado del Hogar,Accesorios del Hogar
 668688,Crema Depiladora Veet Kit Facial 50 ml,Cuidado Personal,Cuidado de la Piel
@@ -18424,6 +18432,7 @@ id_producto,producto,categoria,subcategoria
 669364,PANOS MICROFIBRA TOTES REUTILIZABLE 30 H,Cuidado del Hogar,Accesorios del Hogar
 669365,PANOS MICROFIBRA TOTES REUTILIZABLE 30 H,Cuidado del Hogar,Accesorios del Hogar
 669366,PAPEL TOALLA SEDA 200 MTS,Cuidado del Hogar,Limpieza de Cocina
+669367,ALGABO TALCO DESOD. ROSA 180G,Cuidado Personal,Cuidado de la Piel
 669368,ALGABO TALCO DESOD. CELESTE 180G,Cuidado Personal,Cuidado de la Piel
 669369,DOWNY EXOTICO 360ML X 12U,Cuidado del Hogar,Limpieza de la Ropa
 669370,BIPACK HUGGIES TRIPLE PROTECCION M 2X34,Cuidado del Bebé,Pañales
@@ -18434,6 +18443,7 @@ id_producto,producto,categoria,subcategoria
 669377,LAVAVAJILLA CITRUS ALOE BRISTAR 1050ML,Cuidado del Hogar,Limpieza de Cocina
 669378,LAVAVAJILLA FLORES Y COLAG BRISTAR 1050M,Cuidado del Hogar,Limpieza de Cocina
 669379,Detergente para Ropa Tide Pods Capsulas Odor + Oxi 826 g,Cuidado del Hogar,Productos Americanos
+669381,GAIN DET MOONLGBRZ1.43LX6,Cuidado del Hogar,Productos Americanos
 669382,GAIN DET ISLAFRESH1.43LX6,Cuidado del Hogar,Productos Americanos
 669383,Ambientador Febreze Fresch 250 ml,Cuidado del Hogar,Productos Americanos
 669384,Ambientador Febreze limon 250 ml,Cuidado del Hogar,Productos Americanos
@@ -18697,6 +18707,7 @@ id_producto,producto,categoria,subcategoria
 670985,Yogurt Delizia Bebible Durazno 2 L,Lácteos y Derivados,Yogures
 670986,Manjar Pastelero Real 1 kg,Lácteos y Derivados,Dulces de Leche y Manjares
 670987,Manjar Pastelero Real 300 gr,Lácteos y Derivados,Dulces de Leche y Manjares
+670993,LECHE CLARITA CHOCOLATADA DELIZIA BOLSA 120ML,Lácteos y Derivados,Leches
 671003,Pesto Valenciana Gourmet Tomate 200 gr,Abarrotes,Aderezos
 671004,Hummus de Quinua Valenciana Gourmet 200 gr,Fiambres,Fiambres Externos
 671008,Queso Fresco Altiplano 800 gr,Lácteos y Derivados,Quesos
@@ -20126,6 +20137,7 @@ id_producto,producto,categoria,subcategoria
 674511,YOGURT ESCOLAR PIL TARIJA VARIOS SABORES 90ML,Lácteos y Derivados,Yogures
 674512,CHORIZO DE FREIR TORITO X PIEZA DE 4 UN.,Fiambres,Fiambres Externos
 674513,"SURTIDO TORITO AL VACIO PZA (LYONEZA,CAZADOR,QUESO DE CHANCH",Fiambres,Fiambres Externos
+674514,MINI ROMBITOS CHURQUIS BAKERY BANDEJA 130GRS,Pastelería y Masas Típicas,Pastelería Externa
 674524,DELINARANJA SACHET 170ML DELIZIA,Lácteos y Derivados,Leches
 674525,DELITORONJA SACHET 170ML DELIZIA,Lácteos y Derivados,Leches
 674526,GALLETON CHOCOCHIPS DULCE OHANA UNIDAD.,Pastelería y Masas Típicas,Pastelería Externa
@@ -20142,13 +20154,19 @@ id_producto,producto,categoria,subcategoria
 674546,LECHE KREAM FRUTILLA 110ML,Lácteos y Derivados,Leches
 674547,LECHE DE SOYA SABOR BANANA NORDLAND 950ML,Lácteos y Derivados,Leches
 674549,CHORIZO BRATWURST STEGE KILOGRAMO,Fiambres,Fiambres Externos
+674550,SACHET HAMBURGUESA 56 RES EXPRESS SOFIA 3X56GRS,Congelados,Carnes Congeladas
 674551,QUESO SANDWHICHERO LAMINADO SAN MATEO 400GR,Lácteos y Derivados,Quesos
 674552,QUESO MOZZARELLA LAMINADO EL TRIO 160GRS SAN JAVIER,Lácteos y Derivados,Quesos
 674553,QUESO MOZZARELLA LAMINADO SAN ANDRES 160GRS SAN JAVIER,Lácteos y Derivados,Quesos
 674554,MANTEQUILLA CON SAL CREMOSA 800GRS,Lácteos y Derivados,Mantequillas y Margarinas
 674555,MANTEQUILLA CON SAL APEGO 12 X 200 GRS,Lácteos y Derivados,Mantequillas y Margarinas
 674561,LECHE SABORIZDA NORDLAND FRUTILLA 950ML,Lácteos y Derivados,Leches
+674568,CHOCOMILK LA PURITA UHT 110ML,Lácteos y Derivados,Leches
+674569,PURICHOC LA PURITA 110ML,Lácteos y Derivados,Leches
 674575,PAN MOLIDO CEAB 1000GRS,Panadería,Panadería Externa
+674576,GALLETAS DE COCO CEAB 280GRS,Pastelería y Masas Típicas,Pastelería Externa
+674581,LECHE KREAM ENRIQUECIDA 800ML,Lácteos y Derivados,Leches
+674583,QUEQUE RIKITOS SOALPRO X24 40GRS,Pastelería y Masas Típicas,Pastelería Externa
 674832,Mini Torta Delizia Frutilla 850 ml,Congelados,"Helados, Cassattas y Picoleses"
 674834,MINI TORTA DELIZIA YOGURT SALSA AMARENA 850 ML,Congelados,"Helados, Cassattas y Picoleses"
 675245,Miel de Abeja Eva Promiel 250 gr,Abarrotes,"Mermel, Mieles"
@@ -20791,7 +20809,7 @@ id_producto,producto,categoria,subcategoria
 697258,Pudin Kris Vainilla 85 gr,Abarrotes,Repostería
 697327,Gelatina Kris Sin Sabor 42 gr,Abarrotes,Repostería
 697456,Helado Delizia Familiar Granizado 1 L,Congelados,"Helados, Cassattas y Picoleses"
-697783,Singani Parrales Reserva Aniversario 750 ml,Bebidas,Licores
+697783,Singani Parrales Reserva Doble Oro 750 ml,Bebidas,Licores
 697798,Singani Parrales Selección España 750 ml,Bebidas,Licores
 697807,Singani Parrales Fiesta 750 ml,Bebidas,Licores
 697812,Singani Parrales Clasico 750 ml,Bebidas,Licores
@@ -24003,6 +24021,7 @@ id_producto,producto,categoria,subcategoria
 868295,PACK PANTENE 1SH KERATINA 510ML+1AC FUER,Cuidado Personal,Cuidado del Cabello
 868296,PACK DOWNY FLORAL(1PZ)+EXOTICO(1PZ) 700,Cuidado del Hogar,Limpieza de la Ropa
 868297,PACK GILLETE 2AT BARRA GEL POWERBEADS SPORT PEAK 82GX1U,Cuidado Personal,Cuidado de la Piel
+868298,PACK PANTENE 1SH LISO 2EN1 400ML+1AC EXT,Cuidado Personal,Cuidado del Cabello
 868299,PACK PANTENE 1SH CUID 2EN1 400ML 1AC FUE,Cuidado Personal,Cuidado del Cabello
 868300,FIXER GEL SUPER EXTRA FUERTE 12X50G,Cuidado Personal,Cuidado del Cabello
 868301,PACK LYSOFORM 285 X 2,Cuidado del Hogar,Limpieza de Baños
