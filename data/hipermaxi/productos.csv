@@ -1776,6 +1776,7 @@ id_producto,producto,categoria,subcategoria
 25243,GALLETA RELL AVENTURA VAINILLA 120G,Abarrotes,Galletas
 25244,GALLETA RELL AVENTURA CHOCOCREMA 120G,Abarrotes,Galletas
 25245,GALLETA D ARROZ F FARM C STEVIA 110G,Abarrotes,Dietéticos y Saludables
+25246,CAFE COROICAFE MOLIDO BSA 250G,Abarrotes,Café y Sucedáneos
 25247,CAFE COROICAFE GRANO DP 250G,Abarrotes,Café y Sucedáneos
 25252,MARSMALLOWS CRISMELOS TWISTER 240G,Abarrotes,Chocolates y Caramelos
 25254,GOMITA FINI MORAS 15G,Abarrotes,Golosinas - Varias
@@ -1795,6 +1796,7 @@ id_producto,producto,categoria,subcategoria
 25290,CAFE MESTIZO 21 MOLIDO 250G,Abarrotes,Café y Sucedáneos
 25295,ACEITE D OLIVA GALLO SUBTIL LTA 1LT,Abarrotes,Básicos
 25304,CHUCRUT RINCON MADERAS FCO  460GR,Abarrotes,Verduras en Conserva
+25312,BEBIDA SPARKLY ICE UVA BOT 300ML,Bebidas,Licores
 25314,COMIDA RAZA GATO CASTRAD CARNE POLLO 500,Abarrotes,Mascotas
 25316,GALLETA SALTIN TRADICIONAL 200G,Abarrotes,Galletas
 25317,BEBIDA FOUR LOKO LOVE LTA 695ML,Bebidas,Licores
@@ -7443,7 +7445,9 @@ id_producto,producto,categoria,subcategoria
 223839,Bipack Pañal Huggies Triple Proteccion XG 2x40 un,Cuidado del Bebé,Pañales
 223840,Bipack Pañal Huggies Triple Proteccion XXG 2x36 un,Cuidado del Bebé,Pañales
 223841,Balde Guanda 10 L,Cuidado del Hogar,Accesorios del Hogar
+223853,SERVILLETA OLEBOL COCTEL CARIBE 20 UN,Cuidado Personal,Cuidado Familiar
 223855,SERVILLETA OLEBOL COCTEL FUCSIA 20 UN,Cuidado Personal,Cuidado Familiar
+223857,SERVILLETA PLEBOL COCTEL LIMON 20 UN,Cuidado Personal,Cuidado Familiar
 223858,Servilleta Olebol Coctel Morado 20 un,Cuidado Personal,Cuidado Familiar
 223859,Servilleta Olebol Coctel Naranja 20 un,Cuidado Personal,Cuidado Familiar
 223862,SERVILLETA OLEBOL COCTEL VERDE 20 UN,Cuidado Personal,Cuidado Familiar
@@ -7759,6 +7763,7 @@ id_producto,producto,categoria,subcategoria
 227951,Huevos Aranjuez Medianos 12 un,Lácteos y Derivados,Huevos
 228004,PACK CASTING 210 + ELVIVE SH COLORVIVE 3,Cuidado Personal,Cuidado del Cabello
 228006,PACK CASTING  500 + ELVIVE SH COLORVIVE,Cuidado Personal,Cuidado del Cabello
+228008,PACK CASTING  600 + ELVIVE SH COLORVIVE,Cuidado Personal,Cuidado del Cabello
 228009,PACK CASTING  535 +  SH COLORVIVE 370 ML,Cuidado Personal,Cuidado del Cabello
 228011,CREMA GOICOECHEA SERUM PIEL EXTRA SECA 4,Cuidado Personal,Cuidado de la Piel
 228012,CREMA GOICOECHEA SERUM PIEL DESHID 400ML,Cuidado Personal,Cuidado de la Piel
@@ -7979,6 +7984,7 @@ id_producto,producto,categoria,subcategoria
 230492,DR SELBY SHAVING FOAM SENSITIVE 149GR,Cuidado Personal,Cuidado de la Piel
 230493,DR SELBY SET ESPUMA Y BALSAMO LAVENDER,Cuidado Personal,Cuidado de la Piel
 230494,DR SELBY SET ESPUMA Y BALSAMO SENSITIVE,Cuidado Personal,Cuidado de la Piel
+230495,FARMAX SERUM NIACINAMIDA,Cuidado Personal,Cuidado de la Piel
 230496,GEL DE CEJAS MNY TATTO BUILD SOFT 255,Cuidado Personal,Cuidado de la Piel
 230497,Jabon Barra El Macho Azul 220 gr,Cuidado del Hogar,Limpieza de la Ropa
 230498,GEL DE CEJAS MNY TATTO BUILD MEDIUM  257,Cuidado Personal,Cuidado de la Piel
@@ -11118,6 +11124,7 @@ id_producto,producto,categoria,subcategoria
 415012,Papel Higienico Perlita Super Eco 12 un,Cuidado Personal,Cuidado Familiar
 415235,Helado Arcor Kopa Crema Frutilla 190 ml,Congelados,"Helados, Cassattas y Picoleses"
 415243,Helado Arcor Kopa Dulce de Leche 190 ml,Congelados,"Helados, Cassattas y Picoleses"
+415328,QUEQUE DE NARANJA DAVIEDS UNID.,Pastelería y Masas Típicas,Pastelería Externa
 415450,Alimento Ricocan Multisabor Adulto 3 kg,Abarrotes,Mascotas
 415474,Alimento Ricocan Cachorro Carne Leche 3 kg,Abarrotes,Mascotas
 415740,Pan de Panchito Paris 12 un,Panadería,Panadería Externa
@@ -14144,8 +14151,8 @@ id_producto,producto,categoria,subcategoria
 553011,Sazonador Bacon  Carmencita 13.5 gr,Abarrotes,Básicos
 553012,Sazonador Carmencita Paprika Vinegar,Abarrotes,Básicos
 553013,ENELDO HOJA CARMENCITA FCO 15 GR,Abarrotes,Condimentos y Legumbres
-553014,TOMILLO CARMENCITA FCO 10 GR,Abarrotes,Condimentos y Legumbres
-553015,PEREJIL CARMENCITA FCO 8 GR,Abarrotes,Condimentos y Legumbres
+553014,Tomillo Carmencita 10 gr,Abarrotes,Condimentos y Legumbres
+553015,Perejil Carmencita 8 gr,Abarrotes,Condimentos y Legumbres
 553016,ROMERO CARMENCITA FCO 17 GR,Abarrotes,Condimentos y Legumbres
 553017,Anis Grano Carmencita 20 gr,Abarrotes,Condimentos y Legumbres
 553018,Oregano Carmencita Molido 11 gr,Abarrotes,Condimentos y Legumbres
@@ -14302,6 +14309,7 @@ id_producto,producto,categoria,subcategoria
 553189,Mermelada Confrut Mora Yacon 500 gr,Abarrotes,"Mermel, Mieles"
 553190,MANI CONFRUT PELADO TOSTADO 100 GR,Abarrotes,Frutas en Conserva
 553192,Mermelada Confrut Naranja Zanahoria Jengibre,Abarrotes,"Mermel, Mieles"
+553194,Mermelada Confrut Naranja Yacon 220 gr,Abarrotes,"Mermel, Mieles"
 553195,Mermelada Confrut Papaya Yacon 220 gr,Abarrotes,"Mermel, Mieles"
 553196,Mermelada Yacon Confrut Piña 220 gr,Abarrotes,"Mermel, Mieles"
 553197,MERMELADA CONFRUT MARACUYA TOMA MOR 500,Abarrotes,"Mermel, Mieles"
@@ -20174,6 +20182,7 @@ id_producto,producto,categoria,subcategoria
 674569,PURICHOC LA PURITA 110ML,Lácteos y Derivados,Leches
 674575,PAN MOLIDO CEAB 1000GRS,Panadería,Panadería Externa
 674576,GALLETAS DE COCO CEAB 280GRS,Pastelería y Masas Típicas,Pastelería Externa
+674577,GALLETAS SURTIDAS CEAB 280GRS,Pastelería y Masas Típicas,Pastelería Externa
 674581,LECHE KREAM ENRIQUECIDA 800ML,Lácteos y Derivados,Leches
 674583,QUEQUE RIKITOS SOALPRO X24 40GRS,Pastelería y Masas Típicas,Pastelería Externa
 674832,Mini Torta Delizia Frutilla 850 ml,Congelados,"Helados, Cassattas y Picoleses"
