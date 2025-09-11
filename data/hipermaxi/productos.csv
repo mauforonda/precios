@@ -1,6 +1,6 @@
 id_producto,producto,categoria,subcategoria
 1007,Helado Cabrera Frutilla 1.2 L,Congelados,"Helados, Cassattas y Picoleses"
-1015,Helado Cabrera Granizado 1500 ml,Congelados,"Helados, Cassattas y Picoleses"
+1015,Helado Cabrera Granizado 1/2 ml,Congelados,"Helados, Cassattas y Picoleses"
 1023,Helado Cabrera Vainilla 1.2 L,Congelados,"Helados, Cassattas y Picoleses"
 1031,Helado Cabrera Chocolate 500 ml,Congelados,"Helados, Cassattas y Picoleses"
 1040,Helado Cabrera Coco 1/2 Lt,Congelados,"Helados, Cassattas y Picoleses"
@@ -877,7 +877,7 @@ id_producto,producto,categoria,subcategoria
 16006,Gomita Mogul Frutilla Acida 150 gr,Abarrotes,Golosinas - Varias
 16010,Harina Go Green Pre Mix Protein 250 gr,Abarrotes,Repostería
 16025,Pack 2 Castaña Cayu Maya 117 gr,Abarrotes,Snack
-16033,Tequila Olmeca Chocolate 750 ml,Bebidas,Licores
+16033,Tequila Olmeca Chocolate 700 ml,Bebidas,Licores
 16037,Vino Saint Felicien Malbec 750 ml,Bebidas,Vinos y Champagne
 16040,Vino El Gran Enemigo Gualtallary 750 ml,Bebidas,Vinos y Champagne
 16042,Vino Saint Felicien Cabernet Franc 750 ml,Bebidas,Vinos y Champagne
@@ -1751,6 +1751,9 @@ id_producto,producto,categoria,subcategoria
 25190,ENERGIZANTE MOOV BLUE RAZZ LTA 355ML,Bebidas,Energizantes
 25191,ENERGIZANTE MOOV CHERRY LEMON 355ML,Bebidas,Energizantes
 25192,ENERGIZANTE MOOV PINEAP PUNCH 355ML,Bebidas,Energizantes
+25197,GELATINA AROMA 0 AZUCAR FRESA CJA 20G,Abarrotes,Dietéticos y Saludables
+25198,GELATINA AROMA 0 AZUCAR NARANJA 20G,Abarrotes,Dietéticos y Saludables
+25199,GELATINA AROMA 0 AZUCAR PINA 20G,Abarrotes,Dietéticos y Saludables
 25200,SNAK PICADIX SALADIX PICANTE 120G,Abarrotes,Snack
 25201,SNACK SALADIX CHIZZIDIX QUESO 150G,Abarrotes,Snack
 25202,SNACK SALADIX PICANA 150G,Abarrotes,Snack
@@ -3528,7 +3531,7 @@ id_producto,producto,categoria,subcategoria
 88013,Jengibre 1 kg,Frutas y Verduras,Verduras
 88536,Milanesa de Carne Hipermaxi kg,Carnes,Carnes Procesadas
 88625,Pimenton Verde 1 kg,Frutas y Verduras,Verduras
-89717,Te Matcha Verde Polvo 200 gr,Abarrotes,Café y Sucedáneos
+89717,Te Matcha Verde Polvo 120 g,Abarrotes,Café y Sucedáneos
 89966,Ron Havana Club Añejo Reserva 1000 ml,Bebidas,Licores
 90018,Gran Singani Casa Real Etiqueta Negra 750 ml Edicion Bicentenario,Bebidas,Licores
 90115,Vino Aranjuez Duo Tannat Merlot 750 ml,Bebidas,Vinos y Champagne
@@ -7678,7 +7681,7 @@ id_producto,producto,categoria,subcategoria
 226027,Limpiador de Baño Bristar Saca Sarro 550 ml,Cuidado del Hogar,Limpieza de Baños
 226477,Te Windsor Mate Surtido La Abuela 100 Sobres,Abarrotes,Café y Sucedáneos
 226577,Canaston Cooler,Abarrotes,Temporada
-226700,Mostaza French Spicy Brown 12 oz,Abarrotes,Productos Americanos
+226700,Mostaza French Spicy Brown 12 oz,Abarrotes,Aderezos
 226734,Blondor Revive Yama 10 gr,Cuidado Personal,Cuidado de la Piel
 226872,Fideo Divella Paccheri Napoletani 500 gr,Abarrotes,Básicos
 226873,Fideo Divella Conchiglioni 500 gr,Abarrotes,Básicos
@@ -7950,6 +7953,7 @@ id_producto,producto,categoria,subcategoria
 228352,CREMA SKALA  BOMBA VITAMINAS 1 KG,Cuidado Personal,Cuidado del Cabello
 228353,CREMA SKALA BOMBA BIOTINA 1 KG,Cuidado Personal,Cuidado del Cabello
 228355,HILO DENTAL  CONDOR HW FLOSS PICKS,Cuidado del Bebé,Kids
+228356,PAPEL TOALLA CLIN  INTERFOLIADO 250 HJS,Cuidado del Hogar,Limpieza de Cocina
 228357,PAPEL HIG QUALITE 12 ROLLOS H-SIMPLE,Cuidado Personal,Cuidado Familiar
 228670,DESTAPA CANERIAS EN GEL TODO BRILLO 1LT,Cuidado del Hogar,Limpieza de Baños
 228671,DESTAPA CANERIAS EN GEL TODO BRILLO 2LT,Cuidado del Hogar,Limpieza de Baños
@@ -7999,9 +8003,9 @@ id_producto,producto,categoria,subcategoria
 230430,Salchicha Bock Stege kg,Fiambres,Fiambres Externos
 230464,Mortadela Cervecera Stege kg,Fiambres,Fiambres Externos
 230478,Pañal Huggies Active Sec M 56 und,Cuidado del Bebé,Pañales
-230479,PANAL HUGGIES TRIPLE PRO MINI TALLA M X3,Cuidado del Bebé,Pañales
+230479,Pañal Huggies Triple Pro Mini Talla M,Cuidado del Bebé,Pañales
 230481,Pañal Huggies Triple Proteccion Talla G 32 und,Cuidado del Bebé,Pañales
-230482,PANAL HUGGIES TRIPLE PRO MINI TALLA XG X,Cuidado del Bebé,Pañales
+230482,Pañal Huggies Triple Pro Mini Talla XG,Cuidado del Bebé,Pañales
 230483,Pañal Huggies Triple Proteccion Talla XXG 26 Und,Cuidado del Bebé,Pañales
 230484,SUAVIZANTE MAXIBRILL CLASIC PREMIUM 2 LT,Cuidado del Hogar,Limpieza de la Ropa
 230485,SUAVIZANTE MAXIBRILL FLORAL PREMIUM 2 LT,Cuidado del Hogar,Limpieza de la Ropa
@@ -8505,6 +8509,7 @@ id_producto,producto,categoria,subcategoria
 249037,CREMA PORTUGAL LECHE LIMPIADORA 210 GR,Cuidado Personal,Cuidado de la Piel
 249039,CREMA PORTUGAL ALOE PEPINO 100 GR,Cuidado Personal,Cuidado de la Piel
 249040,CREMA PORTUGAL LECHUGA FLUIDA 100 GR,Cuidado Personal,Cuidado de la Piel
+249042,GEL DE DUCHA PORTUGAL QUINUA AVENA 330 ML,Cuidado Personal,Cuidado de la Piel
 249043,Talco Portugal Mentol Verde 75 gr,Cuidado Personal,Cuidado de la Piel
 249044,Aceite Portugal Bebe Vitamina E 250 ml,Cuidado del Bebé,Cuidado del Bebé
 249045,Talco Portugal Original Azul 75 gr,Cuidado Personal,Cuidado de la Piel
@@ -13663,6 +13668,8 @@ id_producto,producto,categoria,subcategoria
 552303,Nacho Kraks Clasico 200 gr,Abarrotes,Snack
 552304,Nacho Kraks Picante 200 gr,Abarrotes,Snack
 552306,Nacho Kraks Chile Limon 200 gr,Abarrotes,Snack
+552307,Mix Nachos Papas Kraks 200 gr,Abarrotes,Snack
+552308,Snack Tocino Kraks 100 gr,Abarrotes,Snack
 552309,Nacho Kraks Clasico 50 gr,Abarrotes,Snack
 552310,Nacho Kraks Spicy 50 gr,Abarrotes,Snack
 552311,Nacho Kraks Chile Limon 50 gr,Abarrotes,Snack
@@ -14340,12 +14347,14 @@ id_producto,producto,categoria,subcategoria
 553181,Fruta Deshidratada Confrut Frutilla Trozos 50 gr,Abarrotes,Frutas en Conserva
 553182,Mango Deshidratado Confrut 50 gr,Abarrotes,Frutas en Conserva
 553183,Platano Entero Deshidratado Confrut 100 gr,Abarrotes,Frutas en Conserva
+553184,MERMELADA CONFRUT MARACUYA TOM MORINGA 2,Abarrotes,"Mermel, Mieles"
 553185,Mermelada Confrut Durazno Yacon 220 gr,Abarrotes,"Mermel, Mieles"
 553186,Mermelada Confrut Frut Rellena Curcuma 500 gr,Abarrotes,"Mermel, Mieles"
 553187,Mermelada Confrut Durazno Yacon 50 gr,Abarrotes,"Mermel, Mieles"
 553188,Mermelada Confrut Guayaba Yacon 500 gr,Abarrotes,"Mermel, Mieles"
 553189,Mermelada Confrut Mora Yacon 500 gr,Abarrotes,"Mermel, Mieles"
 553190,MANI CONFRUT PELADO TOSTADO 100 GR,Abarrotes,Frutas en Conserva
+553191,Mermelada Confrut Limon Pepino Menta 220 gr,Abarrotes,"Mermel, Mieles"
 553192,Mermelada Confrut Naranja Zanahoria Jengibre,Abarrotes,"Mermel, Mieles"
 553194,Mermelada Confrut Naranja Yacon 220 gr,Abarrotes,"Mermel, Mieles"
 553195,Mermelada Confrut Papaya Yacon 220 gr,Abarrotes,"Mermel, Mieles"
@@ -14525,6 +14534,7 @@ id_producto,producto,categoria,subcategoria
 553398,AGUA DE COCO CON PULPA TRUE LIFE 500 LTA ML,Bebidas,Bebidas Usa
 553399,JUGO PINA TRUE LIFE LTA 500 ML,Bebidas,Bebidas Usa
 553413,SAZONADOR COMPLETO BADIA 70.9 GR,Abarrotes,Productos Americanos
+553414,ADEREZO BADIA COMPLETO 591 ML,Abarrotes,Productos Americanos
 553415,ISOTONICO POWERADE MANZ VERDE 473ML,Bebidas,Isotónicos
 553416,ISOTONICO POWERADE MANZ VERDE 990ML,Bebidas,Isotónicos
 553419,BEBIDA REBEL S ARANDANO LTA 473ML,Bebidas,Licores
@@ -14541,6 +14551,7 @@ id_producto,producto,categoria,subcategoria
 553438,CEREAL POP CANAHUA ANDES TROPICO BSA 170,Abarrotes,Dietéticos y Saludables
 553439,QUINOA INSUFLADA ANDES TROPICO BSA 150 G,Abarrotes,Dietéticos y Saludables
 553441,CEREAL AMARANTO CACAO ANDES TROP BSA 170,Abarrotes,Dietéticos y Saludables
+553444,GOMITAS GRISSLY  DELFIN 73 GR,Abarrotes,Golosinas - Varias
 553445,GOMITAS GRISSLY GUSANOS ACIDOS 70 GR,Abarrotes,Golosinas - Varias
 554333,Cerveza Paceña Lata Roja 473 Cc,Bebidas,Cervezas
 554466,Detergente Liquido Ola Futuro Limpieza Completa 5 L,Cuidado del Hogar,Limpieza de la Ropa
@@ -15299,7 +15310,7 @@ id_producto,producto,categoria,subcategoria
 618258,Stevia Majota Sucralight 50 Sobres,Abarrotes,Dietéticos y Saludables
 618277,Aceituna Cacerena Negra con Hueso 350 gr,Abarrotes,Verduras en Conserva
 618314,Ron Bacardi Añejo 1750 ml,Bebidas,Licores
-618320,Tequila Olmeca Reposado 750 ml,Bebidas,Licores
+618320,Tequila Olmeca Reposado 700 ml,Bebidas,Licores
 618325,Huevo Cofler Block 115 gr,Abarrotes,Chocolates y Caramelos
 618326,Ron Barcelo Imperial 750 ml,Bebidas,Licores
 618354,Harina de Avena Princesa Extra Fina 650 gr,Abarrotes,Nutrición Infantil
@@ -15908,16 +15919,16 @@ id_producto,producto,categoria,subcategoria
 650149,Canela Andes Molida 16 gr,Abarrotes,Condimentos y Legumbres
 650155,Clavo de Olor Andes Entero 25 gr,Abarrotes,Condimentos y Legumbres
 650158,Lino Lada Gold Podravka 350 gr,Abarrotes,Productos Importados
-650162,LINO LADA COCONUT PODRAVKA 350GR,Abarrotes,Productos Importados
+650162,Lino Lada Coconut Podravka 350 g,Abarrotes,Productos Importados
 650165,Coco Rallado Andes 45 gr,Abarrotes,Condimentos y Legumbres
 650166,Lino Lada Duo Leche Cocoa Podravka 350 gr,Abarrotes,Productos Importados
 650168,Lino Lada Milk Leche Podravka 350 gr,Abarrotes,Productos Importados
 650169,Colorante Andes Amarillo 80 gr,Abarrotes,Condimentos y Legumbres
 650175,Colorante Andes Rojo 90 gr,Abarrotes,Condimentos y Legumbres
-650184,Pudin Dolcela Vainilla 37 gr,Abarrotes,Productos Importados
-650190,Pudin Padravka Dolcela Chocolate 45 gr,Abarrotes,Productos Importados
-650192,Pudin Dolcela Fresa 37 gr,Abarrotes,Productos Importados
-650193,Crema de Leche Podravka Dolcela Polvo 42 gr,Abarrotes,Productos Importados
+650184,Pudin Dolcela Vainilla Podravka 37 gr,Abarrotes,Productos Importados
+650190,Pudin Dolcela Chocolate Padravka  45 g,Abarrotes,Productos Importados
+650192,Pudin Dolcela Fresa Podravka 40 g,Abarrotes,Productos Importados
+650193,Cobertura en Polvo Podravka Dolcela 42 g,Abarrotes,Productos Importados
 650199,Curry Andes 30 gr,Abarrotes,Condimentos y Legumbres
 650203,Hoja de Laurel Andes 13 gr,Abarrotes,Condimentos y Legumbres
 650204,Sazonador Podravka Mix Comida 150 gr,Abarrotes,Productos Importados
@@ -15930,7 +15941,7 @@ id_producto,producto,categoria,subcategoria
 650228,Mermelada Podravka Albaricoque 360 gr,Abarrotes,Productos Importados
 650231,Mermelada Podravka Ciruela 350 gr,Abarrotes,Productos Importados
 650234,Mermelada Podravka Extra Frutos del Bosque 320 gr,Abarrotes,Productos Importados
-650235,LINO LADA GOLD CREAMY 350 GR,Abarrotes,Productos Importados
+650235,Lino Lada Gold Creamy 350 g,Abarrotes,Productos Importados
 650243,Nuez Moscada Molida Andes 10 gr,Abarrotes,Condimentos y Legumbres
 650249,Oregano Andes Entero 55 gr,Abarrotes,Condimentos y Legumbres
 650253,Oregano Andes Molido 22 gr,Abarrotes,Condimentos y Legumbres
@@ -20250,6 +20261,8 @@ id_producto,producto,categoria,subcategoria
 674568,CHOCOMILK LA PURITA UHT 110ML,Lácteos y Derivados,Leches
 674569,PURICHOC LA PURITA 110ML,Lácteos y Derivados,Leches
 674571,GALLETA QUINUA NARANJA VALECA 200GRS,Pastelería y Masas Típicas,Pastelería Externa
+674573,CHIPS SESAMO Y ESPINACA VALECA 60GRS,Pastelería y Masas Típicas,Pastelería Externa
+674574,CHIPS SESAMO Y OREGANO VALECA 60GRS,Pastelería y Masas Típicas,Pastelería Externa
 674575,PAN MOLIDO CEAB 1000GRS,Panadería,Panadería Externa
 674576,GALLETAS DE COCO CEAB 280GRS,Pastelería y Masas Típicas,Pastelería Externa
 674577,GALLETAS SURTIDAS CEAB 280GRS,Pastelería y Masas Típicas,Pastelería Externa
@@ -20309,6 +20322,7 @@ id_producto,producto,categoria,subcategoria
 676792,Hamburguesa Sofia Res Clasica 2 un,Congelados,Carnes Congeladas
 676793,Hamburguesa Sofia Pollo Clasica 2 un,Congelados,Carnes Congeladas
 676806,GALLETAS DIETETICAS LINAZA VALECA,Pastelería y Masas Típicas,Pastelería Externa
+676807,GALLETAS DIETETICAS AJONJOLI VALECA,Pastelería y Masas Típicas,Pastelería Externa
 676810,Crema De Leche Delizia 500 ml,Lácteos y Derivados,Crema de Leche
 676812,Yogurt Kefir Natural 1 L,Lácteos y Derivados,Yogures
 676814,Pan Integral Pan Cris 10 un,Panadería,Panadería Externa
@@ -24562,6 +24576,7 @@ id_producto,producto,categoria,subcategoria
 890725,Shampoo Simonds Pineapple Smile Kids 400 ml,Cuidado del Bebé,Cuidado del Bebé
 890819,BRA ORGANIZADOR PLASTICO,Bazar Importación,Temporada Carnaval
 890829,Talco Simonds Manzanilla Baby Relax 200 gr,Cuidado del Bebé,Cuidado del Bebé
+890859,Taper  750Ml  - Jaguar,Bazar Importación,Menaje Plástico
 890863,BRA SANDWICHERA PLASTICO KIDS,Bazar Importación,Temporada Carnaval
 890865,BRA VASO PLASTICO 360ML,Bazar Importación,Temporada Carnaval
 890866,BRA VASO PLASTICO 550ML,Bazar Importación,Temporada Carnaval
@@ -24976,6 +24991,7 @@ id_producto,producto,categoria,subcategoria
 931491,Set 6 Vasos Amasadinho Tubo,Bazar,Menaje Vidrio/Cristal
 931510,Copa de Vino Windsor,Bazar,Menaje Vidrio/Cristal
 932021,Porta Mantequillero Plasutil,Bazar,Menaje Plástico
+932032,FRE SANDWICHERA JAGUAR,Bazar Importación,Menaje Plástico
 932060,Bañador Cholita 8 L,Cuidado del Hogar,Accesorios del Hogar
 932080,MAR DISFRACES DE MASCOTAS,Bazar,Mascotas General
 932694,ALED CINTA MASQUIN  10,Bazar,Ferretería
