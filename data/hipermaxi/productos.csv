@@ -391,7 +391,7 @@ id_producto,producto,categoria,subcategoria
 6748,Energizante Ciclon Berry 500 ml,Bebidas,Energizantes
 6753,Isotonico Activade Frutilla 600 ml,Bebidas,Isotónicos
 6754,Isotonico Activade Frambuesa 600 ml,Bebidas,Isotónicos
-6756,ISOTONICO ACTIVADE MORA 600 ML,Bebidas,Isotónicos
+6756,Isotonico Active Mora 600 ml,Bebidas,Isotónicos
 6778,Palmighetti De La Selva 400 gr,Abarrotes,Verduras en Conserva
 6788,Agua Vital Sin Gas 6 L,Bebidas,Aguas
 6819,Papa Lays Ondas Picantes 150 gr,Abarrotes,Snack
@@ -536,6 +536,7 @@ id_producto,producto,categoria,subcategoria
 14063,Chocolate Lindt Excellence 85 Cacao Francia 100 gr,Abarrotes,Chocolates y Caramelos
 14064,Baño Repostero Aguila Nut Avellana 290 gr,Abarrotes,Repostería
 14065,Cafe Sao Paulo Premiun Molido 250 gr,Abarrotes,Café y Sucedáneos
+14066,Aceite Olvia Española Extra Virgen 2 L,Abarrotes,Básicos
 14069,Maiz de Pipoca Cocinero 1 kg,Abarrotes,Snack
 14070,Frejol Cuarenton Cocinero 1 kg,Abarrotes,Condimentos y Legumbres
 14071,Frejol Carioca Cocinero 1 kg,Abarrotes,Condimentos y Legumbres
@@ -1751,6 +1752,7 @@ id_producto,producto,categoria,subcategoria
 25190,ENERGIZANTE MOOV BLUE RAZZ LTA 355ML,Bebidas,Energizantes
 25191,ENERGIZANTE MOOV CHERRY LEMON 355ML,Bebidas,Energizantes
 25192,ENERGIZANTE MOOV PINEAP PUNCH 355ML,Bebidas,Energizantes
+25195,API MORADO LA MORADITA BSA 380G,Abarrotes,Café y Sucedáneos
 25197,GELATINA AROMA 0 AZUCAR FRESA CJA 20G,Abarrotes,Dietéticos y Saludables
 25198,GELATINA AROMA 0 AZUCAR NARANJA 20G,Abarrotes,Dietéticos y Saludables
 25199,GELATINA AROMA 0 AZUCAR PINA 20G,Abarrotes,Dietéticos y Saludables
@@ -1808,6 +1810,7 @@ id_producto,producto,categoria,subcategoria
 25319,PACK  1LAZZARONI 1SALSA 1EXTRACTO,Abarrotes,Salsas y Extracto de Tomate
 25320,TE WINDSOR21 WINLIFE 21SAQ,Abarrotes,Dietéticos y Saludables
 25322,MARSMALLOWS OLE OLE CHOCOLATE BSA 200G,Abarrotes,Chocolates y Caramelos
+25323,EDULCORANTE LIQ ARTESANO 600 ML,Abarrotes,Dietéticos y Saludables
 25324,MASTICABLE MOGUL LADRILLOS 100G,Abarrotes,Golosinas - Varias
 25325,TE WINDSOR21 WINFEM 21G,Abarrotes,Dietéticos y Saludables
 25326,TE WINDSOR21 WINFIT 21G,Abarrotes,Dietéticos y Saludables
@@ -2117,6 +2120,7 @@ id_producto,producto,categoria,subcategoria
 29140,Bebida Crazy Sunset Gold 473 ml,Bebidas,Licores
 29141,Bebida Alcoholica Berries 12%,Bebidas,Licores
 29142,Vinagre Je de Coco 1 L,Abarrotes,Dietéticos y Saludables
+29144,Vino Montecillo Rioja Singladura 750 ml,Bebidas,Vinos y Champagne
 29145,Vino Solaz Berdejo Blanco 750 ml,Bebidas,Vinos y Champagne
 29146,Six Pack Sante Sport 6 un 1 L,Bebidas,Isotónicos
 29147,Six Pack Sante Zero 6 un 1 L,Bebidas,Isotónicos
@@ -6123,12 +6127,14 @@ id_producto,producto,categoria,subcategoria
 150521,Filete de Trucha de Mar kg,Congelados,Carnes Congeladas
 150534,Filete de Salmon de Mar kg,Congelados,Carnes Congeladas
 150536,Pan de Panchito Hipermaxi 14 un,Panadería,Panadería Especialidades Hipermaxi
+150544,Chorizo Parrillero Ahumado Colonia Pirai kg,Fiambres,Fiambres Externos
 150560,Pan de Leche Hipermaxi 8 un,Panadería,Panadería Especialidades Hipermaxi
 150561,Yogurt Delizia Bebible Mora 2 L,Lácteos y Derivados,Yogures
 150677,Queso Mozzarella Guapurutu 500 gr,Lácteos y Derivados,Quesos
 150681,Cuñape Hipermaxi 1 un,Pastelería y Masas Típicas,Masas Típicas Hipermaxi
 150682,Queso Mozzarella Guapurutu Feteado,Lácteos y Derivados,Quesos
 150695,Queso Mozzarella Guapurutu kg,Lácteos y Derivados,Quesos
+150697,Salchicha Viena Colonia Pirai kg,Fiambres,Fiambres Externos
 150709,Tartaletas Charlotte Pequeñas 30 un,Pastelería y Masas Típicas,Pastelería Externa
 150720,Paneton Victoria 600 gr,Panadería,Panadería Externa
 150753,Mortadela Monserrat Olemburgo kg,Fiambres,Fiambres Externos
@@ -7799,7 +7805,7 @@ id_producto,producto,categoria,subcategoria
 228043,Bipack Pañal Mi Bebe G  2 x 40 un,Cuidado del Bebé,Pañales
 228045,Bipack Pañal Mi Bebe XG 2 x 36 un,Cuidado del Bebé,Pañales
 228046,AGUA SANITARIA  URCA 12X1L,Cuidado del Hogar,Limpieza de Living y Ropero
-228049,PROTECTOR DIARIO NOSOTRAS  NORMAL 48X10,Cuidado Personal,Cuidado Familiar
+228049,Protectores Diarios Nosotras Normal,Cuidado Personal,Cuidado Familiar
 228053,BALDE MAX HOGAR C ESCURRIDOR 12 LTS,Cuidado del Hogar,Accesorios del Hogar
 228054,PAPELERO MAX HOGAR 10 LTS,Cuidado del Hogar,Accesorios del Hogar
 228055,TRAPEADOR WISARD CON PALO  38 CM,Cuidado del Hogar,Accesorios del Hogar
@@ -7816,10 +7822,10 @@ id_producto,producto,categoria,subcategoria
 228072,Detergente Polvo Girandosol 7 k,Cuidado del Hogar,Limpieza de la Ropa
 228073,NAFTALINA PERDIGON 100 GR,Cuidado del Hogar,Productos Americanos
 228074,NAFTALINA IBERIA 100 GR,Cuidado del Hogar,Productos Americanos
-228075,TINTE ISSUE EXPRESS 5 MINUTOS ROJO,Cuidado Personal,Cuidado del Cabello
-228076,TINTE ISSUE EXPRESS 5 MINUTOS RUBIO NATU,Cuidado Personal,Cuidado del Cabello
+228075,Tinte Issue Express 5 Minutos Rojo,Cuidado Personal,Cuidado del Cabello
+228076,Tinte Issue Express 5 Minutos Rubio Natural,Cuidado Personal,Cuidado del Cabello
 228080,LIMPI PISO MAXIBRILL DEO LAVANDA  900 ML,Cuidado del Hogar,Limpieza de Baños
-228083,PAPEL FINESSE FAMILIA 1 X 32,Cuidado Personal,Cuidado Familiar
+228083,Papel Higienico Familia Finesse 32 un,Cuidado Personal,Cuidado Familiar
 228084,ESPONJA LIMPPANO SUPERWISH MULTIUSO 4UND,Cuidado del Hogar,Accesorios del Hogar
 228085,CREMA DE MANOS ALOE VERA REVIVE  90 ML,Cuidado Personal,Cuidado de la Piel
 228086,CREMA CORPORAL ALOE VERA  REVIVE 400 ML,Cuidado Personal,Cuidado de la Piel
@@ -7831,8 +7837,8 @@ id_producto,producto,categoria,subcategoria
 228101,CREMA D PEINAR BELMED BOTOX 320 GR,Cuidado Personal,Cuidado del Cabello
 228102,CREMA D PEINAR BELMED MAXILISO 320 GR,Cuidado Personal,Cuidado del Cabello
 228107,BASE VOGUE RESIST SENSUAL 11,Cuidado Personal,Cuidado de la Piel
-228112,TINTE ISSUE EXPRESS CANTANO CLARO 5 MINU,Cuidado Personal,Cuidado del Cabello
-228113,TOALLA NOSOTRAS BUENAS NOCHES 8UN,Cuidado Personal,Cuidado Familiar
+228112,Tinte Issue Express 5 Minutos Castaño Claro,Cuidado Personal,Cuidado del Cabello
+228113,Toallas Higienicas Nosotras Buenas Noches 8 un,Cuidado Personal,Cuidado Familiar
 228114,PANUELO FINESSE MENTOL 4 UNDS,Cuidado Personal,Cuidado Familiar
 228115,PANUELO FINESSE MENTOL 6 UNDS,Cuidado Personal,Cuidado Familiar
 228118,PACK AHORRA PROCENEX LAVANDA 900 ML,Cuidado del Hogar,Limpieza de Baños
@@ -7942,9 +7948,16 @@ id_producto,producto,categoria,subcategoria
 228324,BOLSAS PARA BASURA TOTES 90X110 CM 140 M,Cuidado del Hogar,Accesorios del Hogar
 228325,BOLLSA TOTRS BASURA CIERRA FACIL 35 LTS,Cuidado del Hogar,Accesorios del Hogar
 228326,BOLSA  BASURA TOTES 70X95CM 75 LT X10UND,Cuidado del Hogar,Accesorios del Hogar
+228330,DESODORANTE NIVEA SPRAY PERLA 150 ML,Cuidado del Hogar,Productos Americanos
 228332,GEL LIMPIADOR GARNIER EXPRESS ACLARA 250,Cuidado Personal,Cuidado de la Piel
+228333,DEO NIVEA AEROSOL COCO 150 ML,Cuidado del Hogar,Productos Americanos
 228336,PANUELO FACIAL DESECHABLE PERLITA 6 UNDS,Cuidado Personal,Cuidado Familiar
 228337,NEUTROGENA SERUM NIACINAMIDA 30ML,Cuidado Personal,Cuidado de la Piel
+228339,DEO NIVEA AEROSOL FRESH 150 ML,Cuidado del Hogar,Productos Americanos
+228340,DEO NIVEA AEROSOL INVISIBLE 150 ML,Cuidado del Hogar,Productos Americanos
+228341,DEO NIVEA AEROSOL DEPP 150 ML,Cuidado del Hogar,Productos Americanos
+228342,DEO NIVEA AEROSOL STRESS 150 ML,Cuidado del Hogar,Productos Americanos
+228344,DEO NIVEA AEROSOL PROTEC MEN 150 ML,Cuidado del Hogar,Productos Americanos
 228345,CREMA SKALA BOTANICA 1 KG,Cuidado Personal,Cuidado del Cabello
 228347,CREMA SKALA DIVINO POTINHO 1 KG,Cuidado Personal,Cuidado del Cabello
 228349,CREMA SKALA DIVINA COR 1 KG,Cuidado Personal,Cuidado del Cabello
@@ -8368,6 +8381,10 @@ id_producto,producto,categoria,subcategoria
 240775,Papel Higienico  Familia Finesse 6 Und,Cuidado Personal,Cuidado Familiar
 240776,Papel Higienico Finesse Aromas 6 un,Cuidado Personal,Cuidado Familiar
 240778,Cereal En Linea Kids 330 gr,Abarrotes,Nutrición Infantil
+240779,Detergente Liquido Urca Maxx Azul 1 L,Cuidado del Hogar,Limpieza de la Ropa
+240780,Suavizante Ropa Urca Concentrado Brisa 1.5 L,Cuidado del Hogar,Limpieza de la Ropa
+240782,Suavizante Ropa Urca Concentrado Floral 1.5 L,Cuidado del Hogar,Limpieza de la Ropa
+240783,Detergente Liquido Urca Maxx Lavanda 1 L,Cuidado del Hogar,Limpieza de la Ropa
 240793,Toallas Higienicas LadySoft Alas 10 un,Cuidado Personal,Cuidado Familiar
 240794,Toalla Higienica LadySoft Ala Nocturna 10 un,Cuidado Personal,Cuidado Familiar
 240797,Paño Esponja Celilose Wipes 3 un,Cuidado del Hogar,Accesorios del Hogar
@@ -8664,6 +8681,7 @@ id_producto,producto,categoria,subcategoria
 263038,Tinte Excellence Tono 6.7 Chocolate Rubio,Cuidado Personal,Cuidado del Cabello
 263346,Tinte Excellence Tono 5.5 Castaño Claro Caoba,Cuidado Personal,Cuidado del Cabello
 263436,Pastilla de Baño Harpic 50 gr,Cuidado del Hogar,Limpieza de Baños
+263572,Vino Castilla Blend Sauvignon Blanco Chardonay 750 ml,Bebidas,Vinos y Champagne
 263577,Vino Parras del Fuerte Cabernet 750 ml,Bebidas,Vinos y Champagne
 263578,Vino Parras del Fuerte Tannat 750 ml,Bebidas,Vinos y Champagne
 263579,Vino Parras del Fuerte Syrah 750 ml,Bebidas,Vinos y Champagne
@@ -10576,6 +10594,7 @@ id_producto,producto,categoria,subcategoria
 373827,Papel Higienico Clasico Celeste 12 un,Cuidado Personal,Cuidado Familiar
 373828,Papel Higienico Clasico Celeste 6 un,Cuidado Personal,Cuidado Familiar
 373860,Vasos Desechable Dispack 150 ml 100 un,Bazar,Cotillón
+373951,ASADERA RECTANGULAR MARINEX 2.7LT ASAS 6535,Bazar,Menaje Vidrio/Cristal
 373955,Bandeja Marinex Asadera Ovalada 4.2 L,Bazar,Menaje Vidrio/Cristal
 373956,Asadera Rectangu.ar Marinex 3.5 L,Bazar,Menaje Vidrio/Cristal
 373963,FRI COOLER FLOTANTE 88 X 77CM 210,Bazar,Temporada Verano
@@ -12395,9 +12414,11 @@ id_producto,producto,categoria,subcategoria
 530831,Galleta San Gabriel Cracker Fibra 250 gr,Abarrotes,Galletas
 530834,Galleta San Gabriel Pepa Coco 450 gr,Abarrotes,Galletas
 530891,Chopped York Colonia Pirai kg,Fiambres,Fiambres Externos
+530905,Mortadela Comun Colonia Pirai kg,Fiambres,Fiambres Externos
 530913,Jamon Cocido Extra Colonia Pirai kg,Fiambres,Fiambres Externos
 530921,Jamon Sandwichero Colonia Pirai kg,Fiambres,Fiambres Externos
 530930,Enrollado de Cerdo Colonia Pirai kg,Fiambres,Fiambres Externos
+530948,Jamon de Pollo Colonia Pirai kg,Fiambres,Fiambres Externos
 532312,Limpiador Desinfectante Pinho Bril Citrus 1 L,Cuidado del Hogar,Limpieza de Baños
 532320,Limpiador Desinfectante Bombril Marino 750 ml,Cuidado del Hogar,Limpieza de Baños
 532339,Limpiador Desinfectante Bombril Bactericida Hierbas 750 ml,Cuidado del Hogar,Limpieza de Baños
@@ -13407,7 +13428,7 @@ id_producto,producto,categoria,subcategoria
 551795,Masticable Zolle Stick Manzana 8 un,Abarrotes,Chocolates y Caramelos
 551796,Masticable Florestal Manzana Verde 350 gr,Abarrotes,Golosinas - Varias
 551799,Gaseosa Coka Quina 3 L,Bebidas,Gaseosas
-551803,POPS BREICK BOLIVAR LECHE 30GR,Abarrotes,Chocolates y Caramelos
+551803,Pops Breick Bolivar Leche 30 gr,Abarrotes,Chocolates y Caramelos
 551806,Manzana Deshidratada Frups 30 gr,Abarrotes,Frutas en Conserva
 551807,Piña Deshidratada Frups 30 gr,Abarrotes,Frutas en Conserva
 551817,Vino Barbacana Querencia Blanco 700 ml,Bebidas,Vinos y Champagne
@@ -18520,6 +18541,7 @@ id_producto,producto,categoria,subcategoria
 669372,BIPACK HUGGIES TRIPLE PROTECCION XG 2X28,Cuidado del Bebé,Pañales
 669373,BIPACK HUGGIES TRIPLE PROTECCION XXG 2X2,Cuidado del Bebé,Pañales
 669374,PACK NOSOTRAS INV CLASICA 2X10,Cuidado Personal,Cuidado Familiar
+669375,DET. OPAL ANTIBACTERIAL 1.8 KG,Cuidado del Hogar,Limpieza de la Ropa
 669377,LAVAVAJILLA CITRUS ALOE BRISTAR 1050ML,Cuidado del Hogar,Limpieza de Cocina
 669378,Lavavajilla Bristar Flores y Colageno 1050 ml,Cuidado del Hogar,Limpieza de Cocina
 669379,Detergente para Ropa Tide Pods Capsulas Odor + Oxi 826 g,Cuidado del Hogar,Productos Americanos
@@ -20529,7 +20551,7 @@ id_producto,producto,categoria,subcategoria
 678673,Pechuga ahumada Pavo Sofia kg,Fiambres,Fiambres Externos
 678683,Yogurt Nordland Drink Frutilla 900 ml,Lácteos y Derivados,Yogures
 678684,Yogurt Nordland Drink Durazno 900 ml,Lácteos y Derivados,Yogures
-678685,QUESO PARRILLERO AHUMADO GUAPURUTU UNI,Lácteos y Derivados,Quesos
+678685,Queso Guapurutu Parrillero Ahumado,Lácteos y Derivados,Quesos
 678709,Leche Descremada Pil Calcifem 800 ml,Lácteos y Derivados,Leches
 678710,Leche Deslactosada Pil Chocolate 800 ml,Lácteos y Derivados,Leches
 678711,Leche Pil Deslactosada Frutilla 800 ml,Lácteos y Derivados,Leches
@@ -21043,6 +21065,7 @@ id_producto,producto,categoria,subcategoria
 736181,Ravioles Mendia Pollo Espinacas 500 gr,Congelados,Masas y Comidas Congeladas
 736192,Ravioles Mendia Ricota Jamon 500 gr,Congelados,Masas y Comidas Congeladas
 740123,QUESO PROVOLONE ORIGINAL PARR.EL AVILA 250 GRS.,Lácteos y Derivados,Quesos
+741001,Pack Promocion Delifruta,Congelados,Pulpas y Frutas Congeladas
 741200,Pan con Ajo Clasico Mil Sabores 5 un,Panadería,Panadería Externa
 741202,Cuñape Congelado Mil Sabores 10 un,Congelados,Masas y Comidas Congeladas
 741213,Linguica Calabresa Pernil Cerdo La Boteca 500 gr,Fiambres,Fiambres Externos
@@ -21834,7 +21857,7 @@ id_producto,producto,categoria,subcategoria
 787692,Mantequilla de Mani Almendrin Dulce Cremosa,Lácteos y Derivados,Mantequillas y Margarinas
 787694,Queso Mozzarella Guaruja 400 gr,Lácteos y Derivados,Quesos
 787715,Huevos Caisy Campeon 12 un,Lácteos y Derivados,Huevos
-787764,PAN MULTIGRANOS BAUDUCCO MASA MADRE 390 GR.,Panadería,Panadería Externa
+787764,Pan Bauducco Multigrano Masa Madre 390 gr,Panadería,Panadería Externa
 787887,Queso Fresco Artesano kg,Lácteos y Derivados,Quesos
 787937,Helado Acai Tradicional Zero Polpa Norte 200 gr,Congelados,Pulpas y Frutas Congeladas
 787963,Pan Molde Paris Integral 280 gr,Panadería,Panadería Externa
@@ -22830,6 +22853,7 @@ id_producto,producto,categoria,subcategoria
 844849,Transportadoro P/Masco Estampado ErecuentreE,Bazar,Mascotas General
 844852,Juguete de Goma Grande 4 Diseños,Bazar,Mascotas General
 844856,Juguete de Mascota Surtido,Bazar,Mascotas General
+844986,CARBON BON-CAR 4KG.,Bazar,Churrasquería
 845216,CH 3618 SETX2 PARA ENSALADAS DE  BAMBU   TAMANO 27CM,Bazar Importación,Cocina General
 845221,Juguete Pistola 12 Balas de Espuma,Juguetería Importación,Juguetería Niño/Bebé
 845232,Pistola de Juguete con 12 Balas de Espumas,Juguetería Importación,Juguetería Niño/Bebé
@@ -23028,6 +23052,7 @@ id_producto,producto,categoria,subcategoria
 846645,Plata Artificial Decoracion Maceta Blanca,Bazar Importación,Regalos/Adornos
 846650,Planta Artificial Para Decoracion 24 cm,Bazar Importación,Regalos/Adornos
 846689,Flores Artificiales Decoracion con Maceta Gris,Bazar Importación,Regalos/Adornos
+846691,CH Y42 2 ORGANIZADOR DE CUBIERTOS 16X10X13 CM,Bazar Importación,Menaje Metálico
 846696,Set 6 Especieros Base Plateada,Bazar Importación,Cocina General
 846698,Set 2 Alcuza Café 340 ml,Bazar Importación,Cocina General
 846700,Set Especieros 2 Niveles 12 un,Bazar Importación,Cocina General
@@ -23061,6 +23086,7 @@ id_producto,producto,categoria,subcategoria
 846934,Espatula Cookstyle Silicona Mango de Madera 29x5,Bazar Importación,Cocina General
 846936,Brocha Cookstyle Silicona Mango de Madera 28x5,Bazar Importación,Cocina General
 846943,Espumadera De Silicona 32 Cm - Cookstyle,Bazar Importación,Cocina General
+846944,CH 27 24 CUCHARA PARA SPAGUETTI 28X5CM COOKSTYLE,Bazar Importación,Cocina General
 846945,CH 27 25 BROCHA DE SILICONA 25X4CM COOKSTYLE,Bazar Importación,Cocina General
 846946,CH 27 26 ESPATULA DE SILICONA 25X4CM COOKSTYLE,Bazar Importación,Cocina General
 846947,CH 27 27 ESPATULA DE SILICONA CON RANURAS 32X8CM COOKSTYLE,Bazar Importación,Cocina General
@@ -23522,6 +23548,7 @@ id_producto,producto,categoria,subcategoria
 855628,CH 11 2 CUCHARA MANGO DELGADO SET X6 PZAS,Bazar Importación,Cocina General
 855629,CH 11 3 CUCHILLO DE MESA MANGO DELGADO SET X6PZAS,Bazar Importación,Cocina General
 855630,CH 11 4 TENEDOR MANGO DELGADO SET X 6 PZAS,Bazar Importación,Cocina General
+855635,CH 11 8 CUCHILLO DE MESA MANGO GRUESO SET X 6PZAS,Bazar Importación,Cocina General
 855641,CH 11 14 SET DE CUBIERTOS X4PZAS CUCHARA TENEDOR CUCHILLO Y,Bazar Importación,Cocina General
 855651,Alfombra Antideslizante Para Baño 52X50Cm,Bazar Importación,Baño General
 855654,CH S28 13 ALFOMBRA P BANO 45X70CM COLORES SURTIDOS,Bazar Importación,Baño General
@@ -23578,6 +23605,7 @@ id_producto,producto,categoria,subcategoria
 856337,Botella De Vidrio Con Lineas Blancas x 1000 ml,Bazar Importación,Menaje Vidrio/Cristal
 856338,Botella De Vidrio Con Diseño x 1000 ml,Bazar Importación,Menaje Vidrio/Cristal
 856339,Botella De Vidrio Con Lineas Verticales x 1000 ml,Bazar Importación,Menaje Vidrio/Cristal
+856341,CH Z10 8 ENVASE DE VIDRIO C TAPA Y CUCHARILLA DE MADERA 470M,Bazar Importación,Menaje Vidrio/Cristal
 856342,Envase De Vidrio Para Miel,Bazar Importación,Menaje Vidrio/Cristal
 856396,Vela Mediana Cilindrica Colores Surtidos 10 Cm,Bazar Importación,Living y Dormitorio
 856399,Taper Redondo De Vidrio Hermetico Pequeño,Bazar Importación,Menaje Vidrio/Cristal
@@ -24077,6 +24105,7 @@ id_producto,producto,categoria,subcategoria
 864510,HSBR PLAY DOH WHEEL CAOMION F1322,Juguetería,Juguetería Marcas
 864600,Lentes Año Nuevo,Bazar,Temporadas Restantes
 864613,FOCO BULBO PHILIPS LED 8W CALIDA,Bazar,Ferretería
+864614,FOCO BULBO PHILIPS LED 8W FRIA,Bazar,Ferretería
 864623,CAFETERA TAURUS NEW COFFE 6  1.8LT,Bazar,Electrodoméstico/Línea Blanca-Hogar
 864670,Mochila de Niño Escolar,Bazar,Librería
 864700,Crema Hidratante Loreal Age Perfect Dia 50 ml,Cuidado Personal,Cuidado de la Piel
