@@ -1753,6 +1753,7 @@ id_producto,producto,categoria,subcategoria
 25191,ENERGIZANTE MOOV CHERRY LEMON 355ML,Bebidas,Energizantes
 25192,ENERGIZANTE MOOV PINEAP PUNCH 355ML,Bebidas,Energizantes
 25195,API MORADO LA MORADITA BSA 380G,Abarrotes,Café y Sucedáneos
+25196,GELATINA AROMA FRESA 1KG,Abarrotes,Repostería
 25197,GELATINA AROMA 0 AZUCAR FRESA CJA 20G,Abarrotes,Dietéticos y Saludables
 25198,GELATINA AROMA 0 AZUCAR NARANJA 20G,Abarrotes,Dietéticos y Saludables
 25199,GELATINA AROMA 0 AZUCAR PINA 20G,Abarrotes,Dietéticos y Saludables
@@ -1835,6 +1836,8 @@ id_producto,producto,categoria,subcategoria
 25369,EVAPORADA PIL CREMOSA TETRA 350G,Abarrotes,Nutrición Infantil
 25373,BEBIDA SPARKLY ICE CEREZA BOT 300ML,Bebidas,Licores
 25374,BEBIDA SPARKLY ICE MARACUYA BOT 300ML,Bebidas,Licores
+25375,SAL MARINA LA AUTENTICA FCO 110G,Abarrotes,Básicos
+25376,SAL MARINA LA AUTENTICA FCO 500 GR,Abarrotes,Básicos
 25640,Surtido de Mariscos Robinson Crusoe Natural 190 gr,Abarrotes,Comidas en Conserva
 25771,Huevos Caisy 12 un,Lácteos y Derivados,Huevos
 25789,Galleta Rocklets Chocolate 118 gr,Abarrotes,Galletas
@@ -2911,6 +2914,7 @@ id_producto,producto,categoria,subcategoria
 31363,Mermelada Bien Hecho Frutilla Sin Azucar 350 gr,Abarrotes,Dietéticos y Saludables
 31364,Mermelada Bien Hecho Durazno Sin Azucar 350 gr,Abarrotes,Dietéticos y Saludables
 31365,Aceituna Verde Gustoso Entera 330 gr,Abarrotes,Verduras en Conserva
+31370,Vino Rio Grande Bordo Tinto Seco 1 L,Bebidas,Vinos y Champagne
 31372,Gin Rocks Sunset 1 L,Bebidas,Licores
 31373,Gin Rocks Sicilian Limon 1 L,Bebidas,Licores
 31374,Marshmallow Docile Blanco 220 gr,Abarrotes,Chocolates y Caramelos
@@ -3439,7 +3443,7 @@ id_producto,producto,categoria,subcategoria
 69230,Fideo Carozzi Tallarin 87 Espinaca 400 gr,Abarrotes,Básicos
 69248,Lasaña Carozzi Tradicional 400 gr,Abarrotes,Básicos
 69256,Fideo Carozzi Caracoquesos 296 gr,Abarrotes,Básicos
-69523,CERVEZA PACENA PILSENER C/BV 620 CC,Bebidas,Cervezas
+69523,Cerveza Paceña Pilsener c/bv 620 cc,Bebidas,Cervezas
 69540,Cerveza Pilsener Ducal 350 ml,Bebidas,Cervezas
 69548,Bicervecina El Inca con Alcohol 620 cc,Bebidas,Bebidas Varias
 69719,Galleta Gullon Lijera Integral Sin Sal 200 gr,Abarrotes,Dietéticos y Saludables
@@ -6785,6 +6789,7 @@ id_producto,producto,categoria,subcategoria
 209080,Jabon Barra Farmax Esfoliante 100 gr,Cuidado Personal,Cuidado de la Piel
 209083,Leche Corporal Babaria Vitamina C 500 ml,Cuidado Personal,Cuidado de la Piel
 209084,Leche Corporal Babaria Vitamina E 500 ml,Cuidado Personal,Cuidado de la Piel
+209085,Crema Facial Babaria Solar Color B3,Cuidado Personal,Cuidado de la Piel
 209086,NECESER LUNARES BTOX BABARIA,Cuidado Personal,Cuidado de la Piel
 209087,Limpiador Todo Brillo Marmol Grano 360 ml,Cuidado del Hogar,Limpieza de Living y Ropero
 209088,Limpiador de Acero Inox Todo Brillo,Cuidado del Hogar,Limpieza de Living y Ropero
@@ -7943,6 +7948,8 @@ id_producto,producto,categoria,subcategoria
 228302,SELLADOR BALLERINA REPARACION 150ML,Cuidado Personal,Cuidado del Cabello
 228304,SHAMPOO SUAVELINA MANZANILLA DP 750 ML,Cuidado Personal,Cuidado del Cabello
 228307,PACK KOTEX 3X2 NORMAL X10,Cuidado Personal,Cuidado Familiar
+228319,DUO PACK NINET RN 2X48 UNS,Cuidado del Bebé,Cuidado del Bebé
+228321,DUO PACK SECOS TOALLA HUMEDA 2X64 UNDS,Cuidado Personal,Cuidado del Adulto
 228322,BOLSAS PARA PASURA TOTES 60X90 CM 50 LT,Cuidado del Hogar,Accesorios del Hogar
 228323,BOLSAS PARA  BASURA TOTES 60X63CM 35 LT,Cuidado del Hogar,Accesorios del Hogar
 228324,BOLSAS PARA BASURA TOTES 90X110 CM 140 M,Cuidado del Hogar,Accesorios del Hogar
@@ -9527,6 +9534,9 @@ id_producto,producto,categoria,subcategoria
 331156,Esponja Scotch Brite Cero Rayas,Cuidado del Hogar,Accesorios del Hogar
 331195,Pañales Huggies Natural Care Recien Nacido P 30 un,Cuidado del Bebé,Pañales
 331221,Toallas Higienicas Siempre Libre Ultrafina 8 un,Cuidado Personal,Cuidado Familiar
+331412,Lavandina Girando Sol Floral 1 L,Cuidado del Hogar,Limpieza de la Ropa
+331413,Lavandina Girando Sol Lavanda 1 L,Cuidado del Hogar,Limpieza de la Ropa
+331415,Lavandina Girando Sol Lemon 1 L,Cuidado del Hogar,Limpieza de la Ropa
 331505,Ambientador Aerosol Jardin Lavanda 360 ml,Cuidado del Hogar,Limpieza de Living y Ropero
 331506,Ambientador Aerosol Jardin Frutos Rojos 360 cm,Cuidado del Hogar,Limpieza de Living y Ropero
 331531,Franela Isi Algodón 40x50 cm,Cuidado del Hogar,Productos Americanos
@@ -14569,6 +14579,7 @@ id_producto,producto,categoria,subcategoria
 553427,MANZANA FRESCO DESHID 70 GR,Abarrotes,Frutas en Conserva
 553430,GASEOSA SIMBA PINA NR BOT 3 LT,Bebidas,Gaseosas
 553431,GASEOSA SIMBA MANZANA NR BOT 3 LT,Bebidas,Gaseosas
+553437,CEREAL POP QUINOA ANDES TROPICO BSA 170,Abarrotes,Dietéticos y Saludables
 553438,CEREAL POP CANAHUA ANDES TROPICO BSA 170,Abarrotes,Dietéticos y Saludables
 553439,QUINOA INSUFLADA ANDES TROPICO BSA 150 G,Abarrotes,Dietéticos y Saludables
 553441,CEREAL AMARANTO CACAO ANDES TROP BSA 170,Abarrotes,Dietéticos y Saludables
@@ -18568,7 +18579,7 @@ id_producto,producto,categoria,subcategoria
 669505,CEPILLO ELECTRICO ORAL B LIMP PROFUNDA,Cuidado Personal,Cuidado Bucal
 669506,CEPILLO ELECTRICO ORAL B DISNEY CARS,Cuidado Personal,Cuidado Bucal
 669507,DET. OPAL ANTIBACTERIAL 650G,Cuidado del Hogar,Limpieza de la Ropa
-669509,DET.OPAL ULTRA FLORAL 1.8KG,Cuidado del Hogar,Limpieza de la Ropa
+669509,Detergente Polvo Opal Floral 1.8 kg,Cuidado del Hogar,Limpieza de la Ropa
 669510,DET. OPAL ULTRA 650 GRS,Cuidado del Hogar,Limpieza de la Ropa
 669511,PAMPERS CONFORTSEC XXG (56PZA) X2U,Cuidado del Bebé,Pañales
 669512,PAMPERS CONFORTSEC XG (58PZA) X2U,Cuidado del Bebé,Pañales
@@ -22266,6 +22277,7 @@ id_producto,producto,categoria,subcategoria
 818730,Tostadora Black Decker,Bazar,Electrodoméstico/Línea Blanca-Hogar
 818731,Plancha Black Decker Quick In Easy,Bazar,Electrodoméstico/Línea Blanca-Hogar
 818732,ALISADOR REMIGTON 41099,Bazar,Electrodoméstico Cuidado Personal
+818827,VASITO DOBLE AGARRADOR-10410,Bazar,Articulos de Bebé
 818849,Arena Para Gato Michi Feliz 1.8 kg,Bazar,Mascotas General
 818850,Arena Para Gato Lager Premium 2 kg,Bazar,Mascotas General
 818854,Arena Para Gato Alta Gama Premium 2 kg,Bazar,Mascotas General
@@ -22598,6 +22610,7 @@ id_producto,producto,categoria,subcategoria
 838081,Toma Todo  X2 Unidades,Bazar,Menaje Plástico
 838104,FRI INFLABLE ARCO DE FUTBOL DE BS 140,Bazar,Temporada Verano
 838120,Pelota Gigante de Piscina,Bazar,Temporada Verano
+838244,Chupon Nuby Tapa de Silicona Lc5794,Bazar,Articulos de Bebé
 838298,Shampoo Mascota Stop Tutty Frutty 500 ml,Bazar,Mascotas General
 838299,Shampoo Mascota Aloe Vera Stop 500 ml,Bazar,Mascotas General
 838300,Arena Para Gato Catsan 4 kg,Bazar,Mascotas General
@@ -24752,6 +24765,7 @@ id_producto,producto,categoria,subcategoria
 905710,Set 6 Copas Windsor Vino Blanco,Bazar,Menaje Vidrio/Cristal
 905711,Set 6 Copas Windsor Cervecera,Bazar,Menaje Vidrio/Cristal
 905766,Pyrex Sempre Rectangular,Bazar,Menaje Vidrio/Cristal
+906023,Juego de 3 Cepillo Dentalm Nuby,Bazar,Articulos de Bebé
 906096,Pure de Papa Kris Instantaneo 125 gr,Abarrotes,Básicos
 906097,Pure de Papa Kris Instantaneo 250 gr,Abarrotes,Básicos
 906403,Papel Encerado Reynolds 75 Sq,Bazar,Articulos de Cocina
@@ -25124,6 +25138,7 @@ id_producto,producto,categoria,subcategoria
 950466,Vasoo 7Oz X10 Plastico 7recuentreP,Bazar,Cotillón
 950475,Inflador de Globos Manual,Bazar,Cotillón
 950520,Auto Hot Wheels 3 un,Juguetería,Juguetería Niño/Bebé
+951167,Tijera Nuby Metalica Baby con Tapa,Bazar,Articulos de Bebé
 951414,Vela Cumpleaños Fuego,Bazar,Cotillón
 951543,Cuaderno Top Empastado Carta 100 Hojas,Bazar,Librería
 951546,Cuaderno Empastado Top Oficio Pleno 100 Hojas,Bazar,Librería
@@ -25134,6 +25149,7 @@ id_producto,producto,categoria,subcategoria
 954205,Film Plastico Wyda 300 m 28 cm,Bazar,Articulos de Cocina
 954997,Taper Good y Good Cuadrado 1.6 L,Bazar,Menaje Plástico
 954998,Taper Good y Good Cuadrado 3.7 L,Bazar,Menaje Plástico
+956514,Biberon Nuby 7 oz 2M Con Agarrador,Bazar,Articulos de Bebé
 956809,Film Plastico Pvc Alpfilm 28 cm 100 m,Bazar,Articulos de Cocina
 957074,Alcancia Hipermaxi Chanchito,Bazar,Regalos/Adornos
 957284,Agenda Perpetua 2025 Elegante,Bazar,Librería
@@ -25263,6 +25279,7 @@ id_producto,producto,categoria,subcategoria
 984993,Protector de Aluminio Theoto 8 un,Bazar,Articulos de Cocina
 986389,Kit Cera Aerosol para Auto 321 gr,Bazar,Automotriz
 986390,Kit Renovador Llanta 321 gr,Bazar,Automotriz
+986406,Biberon Nuby 120 ml,Bazar,Articulos de Bebé
 986524,Pinza Ropa Gigante,Bazar,Living y Dormitorio
 987113,Yol Peluche,Juguetería,Juguetería Didáctica/Temporada
 987731,Papel Sabana Pliego,Bazar,Librería
