@@ -1685,6 +1685,7 @@ id_producto,producto,categoria,subcategoria
 25099,"AVENA CREEK MIX LA ORURENA MIEL,PASAS 50",Abarrotes,Nutrición Infantil
 25100,INSUFLADO D QUINUA LA ORURENA C MIEL 150,Abarrotes,Nutrición Infantil
 25101,Pulpa de Tomate Cayetana Gruesa 400 gr,Abarrotes,Salsas y Extracto de Tomate
+25102,VINO ABRA TORO P XIMENEZ GR BCO 750ML,Bebidas,Vinos y Champagne
 25104,Chupete Bon Bon Bum Uva Fresa 336 gr,Abarrotes,Chocolates y Caramelos
 25108,Isotonico Sante Vitam Naranja Limon 1 L,Bebidas,Isotónicos
 25109,Isotonico Sante Colageno Limon 1 L,Bebidas,Isotónicos
@@ -1803,6 +1804,7 @@ id_producto,producto,categoria,subcategoria
 25290,CAFE MESTIZO 21 MOLIDO 250G,Abarrotes,Café y Sucedáneos
 25295,ACEITE D OLIVA GALLO SUBTIL LTA 1LT,Abarrotes,Básicos
 25304,CHUCRUT RINCON MADERAS FCO  460GR,Abarrotes,Verduras en Conserva
+25307,VINO ROSE P DEL FUERTE SYRAH 750ML,Bebidas,Vinos y Champagne
 25312,BEBIDA SPARKLY ICE UVA BOT 300ML,Bebidas,Licores
 25313,BEBIDA SPARKLY ICE PERA BOT 300ML,Bebidas,Licores
 25314,COMIDA RAZA GATO CASTRAD CARNE POLLO 500,Abarrotes,Mascotas
@@ -1834,12 +1836,18 @@ id_producto,producto,categoria,subcategoria
 25350,GOMITA GRISSLY COLOMBINA MARINO 70G,Abarrotes,Golosinas - Varias
 25351,PACK SINGANI SAN PEDRO ORO 750ML,Bebidas,Licores
 25352,BEBIDA  FOUR LOKO LOVE LTA 473ML,Bebidas,Licores
+25363,VINO ABRA TORO MALBEC RESERV 750ML,Bebidas,Vinos y Champagne
 25365,ENERGIZANTE VOLT CITRUS LTA 473ML,Bebidas,Energizantes
 25369,EVAPORADA PIL CREMOSA TETRA 350G,Abarrotes,Nutrición Infantil
 25373,BEBIDA SPARKLY ICE CEREZA BOT 300ML,Bebidas,Licores
 25374,BEBIDA SPARKLY ICE MARACUYA BOT 300ML,Bebidas,Licores
 25375,SAL MARINA LA AUTENTICA FCO 110G,Abarrotes,Básicos
 25376,SAL MARINA LA AUTENTICA FCO 500 GR,Abarrotes,Básicos
+25379,MANI PINZONES C CHOCOLATE BSA 100G,Abarrotes,Snack
+25401,BEBIDA FLOW NENE SUNRISE BOT 300ML,Bebidas,Licores
+25402,BEBIDA FLOW HARD ZALZER CHUFLAY 300ML,Bebidas,Licores
+25404,HIDRATANTE LIFE INTI UVA 500ML,Bebidas,Isotónicos
+25406,ENERGIZ VOLT PONCHE D FRUTAS LTA 473ML,Bebidas,Energizantes
 25640,Surtido de Mariscos Robinson Crusoe Natural 190 gr,Abarrotes,Comidas en Conserva
 25771,Huevos Caisy 12 un,Lácteos y Derivados,Huevos
 25789,Galleta Rocklets Chocolate 118 gr,Abarrotes,Galletas
@@ -6507,6 +6515,7 @@ id_producto,producto,categoria,subcategoria
 183020,Papel Toalla Cocina Scott Duramax 1 un 120 Toallas,Cuidado del Hogar,Limpieza de Cocina
 187818,Cigarrillo L&M Doble Forward 20 un,Bebidas,Cigarrillos
 187877,Vino Nampe Malbec Rosado 750 ml,Bebidas,Vinos y Champagne
+187925,GASEOSA BIG COLA PET 1035 ML,Bebidas,Gaseosas
 187971,Gaseosa Oro 1035 ml,Bebidas,Gaseosas
 189359,Queso Tilsit Flor de Leche Viejo kg,Lácteos y Derivados,Quesos
 189375,Queso Edam Flor de Leche Joven kg,Lácteos y Derivados,Quesos
@@ -8086,7 +8095,7 @@ id_producto,producto,categoria,subcategoria
 230640,Kit Foramen Pharma Ortodoncia,Cuidado del Bebé,Kids
 230641,Cepillo Interdental Foramen Pharma de Goma,Cuidado Personal,Cuidado Bucal
 230643,TRIPACK ESPONJA TININDO + CUCHARA PASTAS,Cuidado del Hogar,Accesorios del Hogar
-230645,PROTECTOR SOLAR ABOVE FPS 30,Cuidado Personal,Cuidado de la Piel
+230645,Protector Solar Above Fps 30,Cuidado Personal,Cuidado de la Piel
 230646,PROTECTOR SOLAR ABOVE FPS 50,Cuidado Personal,Cuidado de la Piel
 230648,Lavavajilla Ola Limon 900 ml,Cuidado del Hogar,Limpieza de Cocina
 230649,Cepillo Dental Clinic F92 Medio 3 Und,Cuidado Personal,Cuidado Bucal
@@ -14489,7 +14498,7 @@ id_producto,producto,categoria,subcategoria
 553296,GALLETA SUPREMA SALADA CHAPITA 60G,Abarrotes,Galletas
 553297,GALLETA SALADA SUPREMA CHAPITAS 141GR,Abarrotes,Galletas
 553298,CHOCOL RUAH AMARGO 75P C NARANJA 60G,Abarrotes,Chocolates y Caramelos
-553301,CHOCOMILKO NUTREME 960 GR,Abarrotes,Nutrición Infantil
+553301,ACHOCOLATADO CHOCOMILKO BSA 960G,Abarrotes,Nutrición Infantil
 553303,GALLETAS ANDES TROPICO ALMENDRA 200 GR,Abarrotes,Galletas
 553304,GALLETA ANDES TROPICO CANAHUA 200 GR,Abarrotes,Galletas
 553305,GALLETA ANDES TROPICO CHIA 200 GR,Abarrotes,Galletas
@@ -14586,6 +14595,7 @@ id_producto,producto,categoria,subcategoria
 553427,MANZANA FRESCO DESHID 70 GR,Abarrotes,Frutas en Conserva
 553430,GASEOSA SIMBA PINA NR BOT 3 LT,Bebidas,Gaseosas
 553431,GASEOSA SIMBA MANZANA NR BOT 3 LT,Bebidas,Gaseosas
+553434,ISOTONICO IDRATO BLUE BERRY SACHET 200ML,Bebidas,Isotónicos
 553437,CEREAL POP QUINOA ANDES TROPICO BSA 170,Abarrotes,Dietéticos y Saludables
 553438,CEREAL POP CANAHUA ANDES TROPICO BSA 170,Abarrotes,Dietéticos y Saludables
 553439,QUINOA INSUFLADA ANDES TROPICO BSA 150 G,Abarrotes,Dietéticos y Saludables
@@ -16326,6 +16336,8 @@ id_producto,producto,categoria,subcategoria
 654081,Chocolate X6 Cassal con Leche 480 gr,Abarrotes,Chocolates y Caramelos
 654087,Chocolate X6 Cassal con Chocolate 480 gr,Abarrotes,Chocolates y Caramelos
 654116,Papa Frita Clasica Ta Bueno 550 gr,Abarrotes,Snack
+654120,Aceite Oliva Campo Verde Extra Virgen 500 ml,Abarrotes,Básicos
+654121,Aceite Oliva Campo Verde Extra Virgen 250 ml,Abarrotes,Básicos
 654124,Jugo Frutall Exotico Piña 1 L,Bebidas,"Jugos, Néctar"
 654125,Salsa Molho Bravo Habanero Pimienta 60 ml,Abarrotes,Productos Americanos
 654126,Salsa Molho Pimienta Bravo Suave 60 ml,Abarrotes,Aderezos
@@ -18595,12 +18607,15 @@ id_producto,producto,categoria,subcategoria
 669513,PAMPERS CONFORTSEC G (60PZA) X2U,Cuidado del Bebé,Pañales
 669576,CREMA PARA PEINAR BELMED RIZOS 320 GR.,Cuidado Personal,Cuidado del Cabello
 669578,COMBO LADY DELGADA X 2,Cuidado Personal,Cuidado Familiar
+669579,Labial Liquido Vogue Resist Siente 3 ml,Cuidado Personal,Cuidado de la Piel
+669580,Labial Liquido Vogue Resist Disfruta 3 ml,Cuidado Personal,Cuidado de la Piel
 669581,CREMA CORPORAL CON UREA  REVIVE 400 ML,Cuidado Personal,Cuidado de la Piel
 669599,AXE BS CHERRY SPRITZ 12X96G/150ML,Cuidado Personal,Cuidado de la Piel
 669600,AXE BS PEACH INFUSION 12X96G/150ML,Cuidado Personal,Cuidado de la Piel
 669601,REXONA M DEO AP AER XTRACO 12X148G/250ML,Cuidado Personal,Cuidado de la Piel
 669602,AXE DEO AER BS MARINE 12X147G/230ML,Cuidado Personal,Cuidado de la Piel
 669603,DOVE JAB PIEL SENSIBLE 48X90G,Cuidado Personal,Cuidado de la Piel
+669630,PACK 2 NOSOTRAS LARGAX8+ BNX8,Cuidado Personal,Cuidado Familiar
 669901,Pizza Hipermaxi Congelada Hawaiana 620 gr,Congelados,Masas y Comidas Congeladas
 669902,Pizza Hipermaxi Congelada Jamon Queso Light Masa Integral,Congelados,Masas y Comidas Congeladas
 669903,Pizza Hipermaxi Congelada Pepperoni 620 gr,Congelados,Masas y Comidas Congeladas
@@ -21143,8 +21158,10 @@ id_producto,producto,categoria,subcategoria
 761282,YOGURT BEB.PROBOT.DESLACT.MANDARINA H.P.1LT.,Lácteos y Derivados,Yogures
 761291,YOGURT BEB.PROB.DESLACT.FRUT.FRUTOS ROJOS H.P.1LT.,Lácteos y Derivados,Yogures
 761294,YOGURT BEB.PROBIOT.DESLACT.FRUT.FRAMBUESA H.P.1LT.,Lácteos y Derivados,Yogures
+761305,KEFIR NATURAL BONTANA 500 ML.,Lácteos y Derivados,Yogures
 761311,KEFIR SAB.COCO PINA BONTANA 500 ML.,Lácteos y Derivados,Yogures
 761321,PALITOS INTEGRALES PAN DANES UND.,Panadería,Panadería Externa
+761322,KEFIR SAB.BANANA FRUTILLA BONTANA 500 ML.,Lácteos y Derivados,Yogures
 761326,YUCA PRECOCIDA CONG.POLAR CORTE CUBOS 1 KG.,Congelados,Masas y Comidas Congeladas
 761335,Yogurt Bebible Friedland Probiotico Papaya 1 L,Lácteos y Derivados,Yogures
 761337,KEFIR SAB.LIMON VAINILLA BONTANA 500 ML.,Lácteos y Derivados,Yogures
@@ -22015,7 +22032,7 @@ id_producto,producto,categoria,subcategoria
 789922,Salmon Filete South Wind Congelado kg,Congelados,Carnes Congeladas
 790121,Pan Molde Blanco Grande Victoria 560 gr,Panadería,Panadería Externa
 790211,Pan Molde Victoria Blanco Chico 280 gr,Panadería,Panadería Externa
-790222,Pan Molde Integral Grande Victoria 630 gr,Panadería,Panadería Externa
+790222,Pan Molde Integral Grande Victoria 580 gr,Panadería,Panadería Externa
 790233,Pan Molde Victoria Integral Chico 315 gr,Panadería,Panadería Externa
 790277,Pan Salvado Victoria 5 un 160 gr,Panadería,Panadería Externa
 790673,Pacumuto de Ubre Guaruja al Vacio 400 gr,Carnes,Carnes al Vacio Externas
@@ -24149,8 +24166,8 @@ id_producto,producto,categoria,subcategoria
 865189,Huevos Yemita Amarilla 12 un,Lácteos y Derivados,Huevos
 865194,Papa McCain Congelada Smiles 600 gr,Congelados,Masas y Comidas Congeladas
 865223,Pan Molde Integral Belen Avena Azucar 600 gr,Panadería,Panadería Externa
-865238,Pan Molde Integral Belen Zanahoria 600 gr,Panadería,Panadería Externa
-865243,Pan Molde Integral Belen Uvas Pasas 600 gr,Panadería,Panadería Externa
+865238,Pan Molde Integral Belen Zanahoria 550 g,Panadería,Panadería Externa
+865243,Pan Molde Integral Belen Uvas Pasas 550 g,Panadería,Panadería Externa
 865263,Pañuelos Elite Varios Aromas 6 un,Aseo Personal,Cuidado Familiar
 865327,Tortillas Guadalajara Mexicanas de Trigo 18 cm,Congelados,Masas y Comidas Congeladas
 865510,Margarina Reyna 100 gr,Lácteos y Derivados,Mantequillas y Margarinas
@@ -24505,7 +24522,7 @@ id_producto,producto,categoria,subcategoria
 882659,Leche Soy Natural Pil 1 L,Lácteos y Derivados,Leches
 882664,Leche de Soya Vainilla 1 L,Lácteos y Derivados,Leches
 882674,Leche de Soya Chocolate 1 L,Lácteos y Derivados,Leches
-882911,Pan Molde Belen Americano 600 gr,Panadería,Panadería Externa
+882911,Pan Molde Belen Americano 550 g,Panadería,Panadería Externa
 883031,JUEGO MESA MONOPOLIO CLASICO BOLIVIMAR,Juguetería,Juguetería Didáctica/Temporada
 883121,CA JUGUETE METRALLETA +ACCESORIOS 160,Juguetería,Juguetería Niño/Bebé
 883150,Bananero Chico,Bazar,Bolsos/Carteras/Maletas
@@ -24573,7 +24590,7 @@ id_producto,producto,categoria,subcategoria
 886901,Film Plastico Pvc Alpfilm con Corte 27x100,Bazar,Articulos de Cocina
 886902,Film Plastico Pvc Alpfilm Sin Corte 28x50,Bazar,Articulos de Cocina
 886903,Film Pvc Transparente Sin Corte 28X30 - Alpfilm,Bazar,Articulos de Cocina
-886948,Jabon Liquido Ballerina Humectacion 900 ml,Cuidado Personal,Cuidado de la Piel
+886948,Jabon Liquido Ballerina Humectacion 750 ml,Cuidado Personal,Cuidado de la Piel
 886953,Jabon Liquido Ballerina Violeta Silvestre Doypack 900 ml,Cuidado Personal,Cuidado de la Piel
 887045,3M PONJITA DELICADA  CORDON CORPORAL,Cuidado Personal,Cuidado de la Piel
 887050,Esponja Ponjita Espuma Abundante 1 un,Cuidado Personal,Cuidado de la Piel
