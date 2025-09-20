@@ -1803,6 +1803,7 @@ id_producto,producto,categoria,subcategoria
 25282,Lonchera Juguito Pil,Bebidas,"Jugos, Néctar"
 25290,CAFE MESTIZO 21 MOLIDO 250G,Abarrotes,Café y Sucedáneos
 25295,ACEITE D OLIVA GALLO SUBTIL LTA 1LT,Abarrotes,Básicos
+25297,CAMOTE FRITO PREMIUM L FAVORITA 200G,Abarrotes,Snack
 25304,CHUCRUT RINCON MADERAS FCO  460GR,Abarrotes,Verduras en Conserva
 25307,VINO ROSE P DEL FUERTE SYRAH 750ML,Bebidas,Vinos y Champagne
 25312,BEBIDA SPARKLY ICE UVA BOT 300ML,Bebidas,Licores
@@ -1844,11 +1845,17 @@ id_producto,producto,categoria,subcategoria
 25375,SAL MARINA LA AUTENTICA FCO 110G,Abarrotes,Básicos
 25376,SAL MARINA LA AUTENTICA FCO 500 GR,Abarrotes,Básicos
 25379,MANI PINZONES C CHOCOLATE BSA 100G,Abarrotes,Snack
+25384,WHISKY ROYAL LABEL 1LT,Bebidas,Licores
+25385,WHISKY COCKLAND GOLD 1LT,Bebidas,Licores
 25389,BEBIDA FOUR LOKO HALLOWEEN 473ML,Bebidas,Licores
 25401,BEBIDA FLOW NENE SUNRISE BOT 300ML,Bebidas,Licores
 25402,BEBIDA FLOW HARD ZALZER CHUFLAY 300ML,Bebidas,Licores
 25404,HIDRATANTE LIFE INTI UVA 500ML,Bebidas,Isotónicos
 25406,ENERGIZ VOLT PONCHE D FRUTAS LTA 473ML,Bebidas,Energizantes
+25411,MANI TOSTADO PICNIC CON SAL 80G,Abarrotes,Snack
+25413,MANI TOSTADO PICNIC CON SAL 250G,Abarrotes,Snack
+25430,TOCINITOS TOCINAX BSA 120G,Abarrotes,Snack
+25432,SNACK BOOHOO NAX QUESO CHEDDAR 120G,Abarrotes,Snack
 25640,Surtido de Mariscos Robinson Crusoe Natural 190 gr,Abarrotes,Comidas en Conserva
 25771,Huevos Caisy 12 un,Lácteos y Derivados,Huevos
 25789,Galleta Rocklets Chocolate 118 gr,Abarrotes,Galletas
@@ -3091,6 +3098,7 @@ id_producto,producto,categoria,subcategoria
 33775,Semilla de Sesamo Salutary 350 gr,Abarrotes,Nutrición Infantil
 33878,Gaseosa Mendocina Uva 3 L,Bebidas,Gaseosas
 34114,Galleta Gullon Chip Choco Sin Gluten 130 gr,Abarrotes,Galletas
+34115,GALLETA GULLON SANDWICH CHOCO ZERO 250G,Abarrotes,Dietéticos y Saludables
 34717,Yerba Mate Colon Compuesta Liviana 500 gr,Abarrotes,Café y Sucedáneos
 34811,Mermelada La Rinconada Frutilla 1 kg,Abarrotes,"Mermel, Mieles"
 34871,Cerveza Conti Zero 350 ml,Bebidas,Cervezas
@@ -7962,6 +7970,7 @@ id_producto,producto,categoria,subcategoria
 228301,AC BALLERINA REPARACION FCO 750ML,Cuidado Personal,Cuidado del Cabello
 228302,SELLADOR BALLERINA REPARACION 150ML,Cuidado Personal,Cuidado del Cabello
 228304,SHAMPOO SUAVELINA MANZANILLA DP 750 ML,Cuidado Personal,Cuidado del Cabello
+228305,GANTE ASATEX GLOVES M8 S7.5,Cuidado del Hogar,Accesorios del Hogar
 228307,PACK KOTEX 3X2 NORMAL X10,Cuidado Personal,Cuidado Familiar
 228319,DUO PACK NINET RN 2X48 UNS,Cuidado del Bebé,Cuidado del Bebé
 228321,DUO PACK SECOS TOALLA HUMEDA 2X64 UNDS,Cuidado Personal,Cuidado del Adulto
@@ -11325,6 +11334,7 @@ id_producto,producto,categoria,subcategoria
 430224,Crema Capilar Siloe Masaje Cebolla 250 gr,Cuidado Personal,Cuidado del Cabello
 430228,Crema Capilar Siloe Masaje Miel Palta 250 gr,Cuidado Personal,Cuidado del Cabello
 430229,Acondicionador Siloe Cebolla 550 ml,Cuidado Personal,Cuidado del Cabello
+430230,CREMA MASAJE CAPILAR CEBOLLA SILOE 500GR,Cuidado Personal,Cuidado del Cabello
 430231,Shampoo Siloe Coco 550 ml,Cuidado Personal,Cuidado del Cabello
 430232,Shampoo Siloe Cebolla 550 ml,Cuidado Personal,Cuidado del Cabello
 430233,Shampoo Extra Fino Sabila Bebe 550 cc,Cuidado del Bebé,Cuidado del Bebé
@@ -14606,6 +14616,8 @@ id_producto,producto,categoria,subcategoria
 553442,PACK 2 NECTAR DEL SOL 1 LT,Bebidas,"Jugos, Néctar"
 553444,GOMITAS GRISSLY  DELFIN 73 GR,Abarrotes,Golosinas - Varias
 553445,GOMITAS GRISSLY GUSANOS ACIDOS 70 GR,Abarrotes,Golosinas - Varias
+553448,GRANOLA NUTRIGRAIN CLASICA BSA 320GR,Abarrotes,Nutrición Infantil
+553449,GRANOLA NUTRIGRAIN PREMIUN BSA 320 GR,Abarrotes,Nutrición Infantil
 553451,CERVEZA BALTICA CLASICA LTA 440 ML,Bebidas,Cervezas
 554333,Cerveza Paceña Lata Roja 473 Cc,Bebidas,Cervezas
 554466,Detergente Liquido Ola Futuro Limpieza Completa 5 L,Cuidado del Hogar,Limpieza de la Ropa
@@ -18613,6 +18625,7 @@ id_producto,producto,categoria,subcategoria
 669579,Labial Liquido Vogue Resist Siente 3 ml,Cuidado Personal,Cuidado de la Piel
 669580,Labial Liquido Vogue Resist Disfruta 3 ml,Cuidado Personal,Cuidado de la Piel
 669581,CREMA CORPORAL CON UREA  REVIVE 400 ML,Cuidado Personal,Cuidado de la Piel
+669597,TOALLA NOSOTRAS ATG 8 UN,Cuidado Personal,Cuidado Familiar
 669599,AXE BS CHERRY SPRITZ 12X96G/150ML,Cuidado Personal,Cuidado de la Piel
 669600,AXE BS PEACH INFUSION 12X96G/150ML,Cuidado Personal,Cuidado de la Piel
 669601,REXONA M DEO AP AER XTRACO 12X148G/250ML,Cuidado Personal,Cuidado de la Piel
@@ -20323,6 +20336,7 @@ id_producto,producto,categoria,subcategoria
 674568,CHOCOMILK LA PURITA UHT 110ML,Lácteos y Derivados,Leches
 674569,PURICHOC LA PURITA 110ML,Lácteos y Derivados,Leches
 674571,GALLETA QUINUA NARANJA VALECA 200GRS,Pastelería y Masas Típicas,Pastelería Externa
+674572,GALLETA AVENA Y YOGURT VALECA 200GRS,Pastelería y Masas Típicas,Pastelería Externa
 674573,CHIPS SESAMO Y ESPINACA VALECA 60GRS,Pastelería y Masas Típicas,Pastelería Externa
 674574,CHIPS SESAMO Y OREGANO VALECA 60GRS,Pastelería y Masas Típicas,Pastelería Externa
 674575,PAN MOLIDO CEAB 1000GRS,Panadería,Panadería Externa
@@ -20332,6 +20346,7 @@ id_producto,producto,categoria,subcategoria
 674579,PAN KAUKA PANADERIA ZELADA BOLSA 10UN,Panadería,Panadería Externa
 674581,LECHE KREAM ENRIQUECIDA 800ML,Lácteos y Derivados,Leches
 674583,QUEQUE RIKITOS SOALPRO X24 40GRS,Pastelería y Masas Típicas,Pastelería Externa
+674584,MANTEQUILLA CON SAL CREMOSA 400GRS UNIDAD,Lácteos y Derivados,Mantequillas y Margarinas
 674586,Pilfrut Manzana Pil 175 ml,Lácteos y Derivados,Leches
 674587,Pilfrut Durazno Pil 175 ml,Lácteos y Derivados,Leches
 674588,Pilfrut Piña Pil 175 ml,Lácteos y Derivados,Leches
