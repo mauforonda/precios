@@ -1803,6 +1803,7 @@ id_producto,producto,categoria,subcategoria
 25282,Lonchera Juguito Pil,Bebidas,"Jugos, Néctar"
 25290,CAFE MESTIZO 21 MOLIDO 250G,Abarrotes,Café y Sucedáneos
 25295,ACEITE D OLIVA GALLO SUBTIL LTA 1LT,Abarrotes,Básicos
+25296,CAMOTE FRITO L FAVORITA RALLADO 200G,Abarrotes,Snack
 25297,CAMOTE FRITO PREMIUM L FAVORITA 200G,Abarrotes,Snack
 25304,CHUCRUT RINCON MADERAS FCO  460GR,Abarrotes,Verduras en Conserva
 25307,VINO ROSE P DEL FUERTE SYRAH 750ML,Bebidas,Vinos y Champagne
@@ -7964,8 +7965,24 @@ id_producto,producto,categoria,subcategoria
 228247,DESINFECTANTE TB BEBE 500ML-AERO,Cuidado del Hogar,Limpieza de Baños
 228248,ALGABO SH AVOCADO Y ARGAN 750 ML,Cuidado Personal,Cuidado del Cabello
 228250,ALGABO AC AVOCADO Y ARGAN 750ML,Cuidado Personal,Cuidado del Cabello
+228266,RUBOR SUNKISSER 03 SOL SEARCH,Cuidado Personal,Cuidado de la Piel
+228268,RUBOR SUNKISSER 05 BLAZING BLUSH,Cuidado Personal,Cuidado de la Piel
 228269,DETERGENTE SAPOLIO LIMON 730GR,Cuidado del Hogar,Limpieza de la Ropa
 228270,DETERGENTE SAPOLIO BEBE 730GR,Cuidado del Hogar,Limpieza de la Ropa
+228271,RUBOR MNY SUNKISSER 08 SHADES ON,Cuidado Personal,Cuidado de la Piel
+228272,RUBOR SUNKISSER 11 ELECTRIC BRONZE,Cuidado Personal,Cuidado de la Piel
+228273,RUBOR MNY SUNKISSER  31 SUMME,Cuidado Personal,Cuidado de la Piel
+228274,RUBOR MNY SUNKISSER 32 CLOUDS,Cuidado Personal,Cuidado de la Piel
+228275,RUBOR MNY SUNKISSER  33 BERRY,Cuidado Personal,Cuidado de la Piel
+228276,RUBOR MNY SUNKISSER 34 PEACHY,Cuidado Personal,Cuidado de la Piel
+228277,RUBOR MNY SUNKISSER 35 SPRITZ,Cuidado Personal,Cuidado de la Piel
+228280,LABIAL TEDDY TINT  KNEEHIGH,Cuidado Personal,Cuidado de la Piel
+228283,LABIAL TEDDY TINT  PETALCORE,Cuidado Personal,Cuidado de la Piel
+228284,LABIAL TEDDY TINT  JULY FOREVER,Cuidado Personal,Cuidado de la Piel
+228285,LABIAL TEDDY TINT  COQUETTISH,Cuidado Personal,Cuidado de la Piel
+228286,LABIAL TEDDY TINT  SUGAR VENOM,Cuidado Personal,Cuidado de la Piel
+228288,LABIAL TEDDY TINT  SKINNYDIP,Cuidado Personal,Cuidado de la Piel
+228289,LABIAL TEDDY TINT  CURRENT MOOD,Cuidado Personal,Cuidado de la Piel
 228291,MASC. PESTANA FIREWORK ELECTRO WATER,Cuidado Personal,Cuidado de la Piel
 228296,ACONDIC BALLERINA  REPARACION DP 750ML,Cuidado Personal,Cuidado del Cabello
 228297,ACONDC SUAVELINA MANZANILLA DP 750 ML,Cuidado Personal,Cuidado del Cabello
@@ -14613,6 +14630,7 @@ id_producto,producto,categoria,subcategoria
 553427,MANZANA FRESCO DESHID 70 GR,Abarrotes,Frutas en Conserva
 553430,GASEOSA SIMBA PINA NR BOT 3 LT,Bebidas,Gaseosas
 553431,GASEOSA SIMBA MANZANA NR BOT 3 LT,Bebidas,Gaseosas
+553432,CERVEZA HACKER PSCHORR KELLERBIER LTA 50,Bebidas,Cervezas
 553433,CERVAZA PAULANER WEISSBIER FCB LTA 500ML,Bebidas,Cervezas
 553434,ISOTONICO IDRATO BLUE BERRY SACHET 200ML,Bebidas,Isotónicos
 553437,CEREAL POP QUINOA ANDES TROPICO BSA 170,Abarrotes,Dietéticos y Saludables
@@ -20204,7 +20222,7 @@ id_producto,producto,categoria,subcategoria
 674316,Aceitunas Negras en Salmuera kg,Fiambres,Fiambres Externos
 674317,Helado Nordland Sabores Surtido 500 ml,Congelados,"Helados, Cassattas y Picoleses"
 674318,Arañita de Cerdo Congelada Sofia al Vacio,Congelados,Carnes Congeladas
-674319,QUESO CRIOLLO GUARUJA KILOGRAMO,Lácteos y Derivados,Quesos
+674319,Queso Criollo Guaruja kg,Lácteos y Derivados,Quesos
 674321,Helado Delizia Pie de Limon 850 ml,Congelados,"Helados, Cassattas y Picoleses"
 674322,Leche Kream Chocolate 110 ml,Lácteos y Derivados,Leches
 674323,Leche Kream Coco 110 ml,Lácteos y Derivados,Leches
@@ -21296,7 +21314,9 @@ id_producto,producto,categoria,subcategoria
 765559,PANETON DELI-CHOC CHOCOLATE CAJA 750 GR,Panadería,Panadería Externa
 765613,Galleta Crick de Agua 200 gr,Abarrotes,Galletas
 765628,Galleta De Agua Crick 1 kg,Abarrotes,Galletas
+765734,PAN CON CHIA Y SESAMO NASWAY 6 UND.,Panadería,Panadería Externa
 765836,Huevos Avicola Paurito Subsidio 15 un,Lácteos y Derivados,Huevos
+765872,PAN CON LINAZA Y SESAMO NASWAY X6 UND.,Panadería,Panadería Externa
 765874,Huevos Avicola Paurito Subsidio 18 un,Lácteos y Derivados,Huevos
 765876,Mantequilla Repostera Sin Sal Da Gusto 1 kg,Lácteos y Derivados,Mantequillas y Margarinas
 765883,Crema Repostera Platinum Da Gustoso 1 L,Lácteos y Derivados,Crema de Leche
@@ -21304,8 +21324,10 @@ id_producto,producto,categoria,subcategoria
 765893,Cuñape Davieds Almidon Abizcochado 90 gr,Pastelería y Masas Típicas,Masas Típicas Externas
 765896,Tabla de Jamon Serrano Con Queso Sierra,Fiambres,Fiambres Externos
 765947,Mollejas Churiqui de Pollo Sofia Bandeja kg,Carnes,Carne de Pollo
+765963,PAN CON AVENA Y CHIA NASWAY X6 UND.,Panadería,Panadería Externa
 765981,Jamon Ahumado de Pollo Light Monserrat kg,Fiambres,Fiambres Externos
 765983,Queso con Nuez Queseria Suiza 200 gr,Lácteos y Derivados,Quesos
+765985,PAN CON QUINUA Y AMARANTO NASWAY X6 UND.,Panadería,Panadería Externa
 766141,Queso Ricotta San German Yapacani,Lácteos y Derivados,Quesos
 766210,Pasta Dental Colgate Triple Accion 50 gr,Cuidado Personal,Cuidado Bucal
 766225,Cepillo Dental Foramen Ortodoncia 1 un,Cuidado Personal,Cuidado Bucal
@@ -23729,7 +23751,7 @@ id_producto,producto,categoria,subcategoria
 857060,CH 34 38 BRUJA ENJAULADA A PILAS,Bazar Importación,Temporada Halloween
 857061,CH 34 39 ESQUELETO FANTASMA COLGANTE CON LUZ Y SONIDO,Bazar Importación,Temporada Halloween
 857062,CH 34 41 ADORNO HALLOWEEN NEGRO A PILAS,Bazar Importación,Temporada Halloween
-857066,BREICK BOMBONES DE CHOCOLATE BLANCO EN F,Abarrotes,Chocolates y Caramelos
+857066,BOMBON BREICK FORMA SALTENA BCO 82G,Abarrotes,Chocolates y Caramelos
 857070,CH 34 48 PIE SANGRIENTO HALLOWEEN 27X19CM,Bazar Importación,Temporada Halloween
 857075,CH 34 50 PAYASO FANTASMA COLGANTE CON LUZ Y SONIDO 54X44X10C,Bazar Importación,Temporada Halloween
 857076,CH 34 51 MUNECA ESPELUZNANTE COLGANTE CON SONIDO Y LUZ 60X80,Bazar Importación,Temporada Halloween
