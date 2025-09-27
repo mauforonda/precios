@@ -1804,6 +1804,7 @@ id_producto,producto,categoria,subcategoria
 25282,Lonchera Juguito Pil,Bebidas,"Jugos, Néctar"
 25289,ROMERO TIERRA NUESTRA ENTERO FCO 20G,Abarrotes,Condimentos y Legumbres
 25290,CAFE MESTIZO 21 MOLIDO 250G,Abarrotes,Café y Sucedáneos
+25294,VINAGRE GALLO D SIDRA BOT 250ML,Abarrotes,Básicos
 25295,ACEITE D OLIVA GALLO SUBTIL LTA 1LT,Abarrotes,Básicos
 25296,CAMOTE FRITO L FAVORITA RALLADO 200G,Abarrotes,Snack
 25297,CAMOTE FRITO PREMIUM L FAVORITA 200G,Abarrotes,Snack
@@ -1864,9 +1865,18 @@ id_producto,producto,categoria,subcategoria
 25410,SPAGUETTI ANITA NIDO AL HUEVO 400G,Abarrotes,Básicos
 25411,MANI TOSTADO PICNIC CON SAL 80G,Abarrotes,Snack
 25413,MANI TOSTADO PICNIC CON SAL 250G,Abarrotes,Snack
+25420,PACK 3 GALLETAS FESTIVAL UND,Abarrotes,Galletas
 25430,TOCINITOS TOCINAX BSA 120G,Abarrotes,Snack
 25431,SNACK BOOHOO NAX PICANTE 120G,Abarrotes,Snack
 25432,SNACK BOOHOO NAX QUESO CHEDDAR 120G,Abarrotes,Snack
+25433,SNACK BOOHOO NAX QUESO 150G,Abarrotes,Snack
+25441,VINOS KOHLBERG2 SAUV BLANC FRANC 750ML,Bebidas,Vinos y Champagne
+25442,GOMITA RICLAN GO JELLY MORAS 250G,Abarrotes,Golosinas - Varias
+25443,GOMITA RICLAN GO JELLY DIENTES 250G,Abarrotes,Golosinas - Varias
+25444,GOMITA RICLAN GO JELLY BANANA 250G,Abarrotes,Golosinas - Varias
+25445,MASTICABLE ZUNG FRUTA SURTIDA 280G,Abarrotes,Golosinas - Varias
+25446,MASTICABLE ZUNG YOGUR SURTIDO 280G,Abarrotes,Golosinas - Varias
+25447,CHICLE RELLENO TNT ACIDO 180GR,Abarrotes,Golosinas - Varias
 25640,Surtido de Mariscos Robinson Crusoe Natural 190 gr,Abarrotes,Comidas en Conserva
 25771,Huevos Caisy 12 un,Lácteos y Derivados,Huevos
 25789,Galleta Rocklets Chocolate 118 gr,Abarrotes,Galletas
@@ -2262,6 +2272,7 @@ id_producto,producto,categoria,subcategoria
 30246,Alimento Snack Alpha Aleta de Trucha 50 gr,Abarrotes,Mascotas
 30247,Alimento Snack Alpha Bofe con Banana 50 gr,Abarrotes,Mascotas
 30248,Piqueo Snack Frito Lay 48 gr,Abarrotes,Snack
+30251,Galleta Jasmine Rosquinhas Naranja Vegano 120 gr,Abarrotes,Dietéticos y Saludables
 30253,Chocolate Donofrio Triangulo 17 gr,Abarrotes,Golosinas - Varias
 30258,Pack Choclo Etti + Extracto de Tomate,Abarrotes,Verduras en Conserva
 30263,Vape Umo Dual Mesh Mint Ice 8000 Puffs,Bebidas,Cigarrillos
@@ -4004,6 +4015,7 @@ id_producto,producto,categoria,subcategoria
 101643,Vinagre San Lorenzo Manzana 1 L,Abarrotes,Básicos
 101644,Jugo Aloe Vera Alovi Original 500 ml,Bebidas,Bebidas Varias
 101647,Chisnack Inbolcer Queso 170 gr,Abarrotes,Snack
+101648,Gomita Gomutcho Surtido 1 kg,Abarrotes,Golosinas - Varias
 101650,"Edulcorante  Dulzero Sucralosa 100 ml
 ",Abarrotes,Dietéticos y Saludables
 101651,Bebida Apego Café Vainilla Sin Azucar 300 ml,Lácteos y Derivados,Leches
@@ -7663,6 +7675,7 @@ id_producto,producto,categoria,subcategoria
 224084,Teatrical Aclarador Crema Facial x 75 Ml,Cuidado Personal,Cuidado de la Piel
 224085,Shampoo Tio Nacho Aclarante 950 ml,Cuidado Personal,Cuidado del Cabello
 224086,Lavandina Maxibrill Birell 2 L,Cuidado del Hogar,Limpieza de la Ropa
+224088,WHISKY BALLANTINES FINEST BOT 700 ML,Bebidas,Licores
 224089,Pack Desodorante Aerosol Above Clinical Neymar 2 un 150 ml,Cuidado Personal,Cuidado de la Piel
 224091,Esponja Esfrebom Acero Inox,Cuidado del Hogar,Accesorios del Hogar
 224092,Desodorante Barra Nivea Stick Dry Comfort 54 gr,Cuidado Personal,Cuidado de la Piel
@@ -7777,7 +7790,7 @@ id_producto,producto,categoria,subcategoria
 227138,Jabon Barra El Macho Aloe Vera 220 gr,Cuidado del Hogar,Limpieza de la Ropa
 227139,Jabon Barra El Macho Aloe Vera 480 gr,Cuidado del Hogar,Limpieza de la Ropa
 227141,Pack Tinte Excellence Tono 3 + Neceser Loreal,Cuidado Personal,Cuidado del Cabello
-227142,CONRORNO OJO GARNIER EXPRES ACLARA,Cuidado Personal,Cuidado de la Piel
+227142,Contorno de Ojos Garnier Express Aclara,Cuidado Personal,Cuidado de la Piel
 227143,Bloqueador Loreal Defender 40 gr,Cuidado Personal,Cuidado de la Piel
 227144,Pack Tinte Excellence Nudes Tono 5U + Neceser Loreal,Cuidado Personal,Cuidado del Cabello
 227146,PACK LACTOUREA GEL DE DUCHA 300ML + CREM,Cuidado Personal,Cuidado de la Piel
@@ -8038,6 +8051,12 @@ id_producto,producto,categoria,subcategoria
 228355,HILO DENTAL  CONDOR HW FLOSS PICKS,Cuidado del Bebé,Kids
 228356,PAPEL TOALLA CLIN  INTERFOLIADO 250 HJS,Cuidado del Hogar,Limpieza de Cocina
 228357,PAPEL HIG QUALITE 12 ROLLOS H-SIMPLE,Cuidado Personal,Cuidado Familiar
+228360,Esmalte de Uñas Vogue Efecto Gel Grafiti 14 ml,Cuidado Personal,Cuidado de la Piel
+228361,Esmalte de Uñas Vogue Efecto Gel Crew 14 ml,Cuidado Personal,Cuidado de la Piel
+228365,Esmalte de Uñas Vogue Efecto Gel Expresion 14 ml,Cuidado Personal,Cuidado de la Piel
+228366,Esmalte de Uñas Vogue Efecto Gel Urbano 14 ml,Cuidado Personal,Cuidado de la Piel
+228367,Esmalte de Uñas Vogue Efecto Gel Identidad 14 ml,Cuidado Personal,Cuidado de la Piel
+228368,Esmalte de Uñas Vogue Efecto Gel Artista 14 ml,Cuidado Personal,Cuidado de la Piel
 228379,SERVILLETA FINESSE 4X500,Cuidado Personal,Cuidado Familiar
 228670,DESTAPA CANERIAS EN GEL TODO BRILLO 1LT,Cuidado del Hogar,Limpieza de Baños
 228671,DESTAPA CANERIAS EN GEL TODO BRILLO 2LT,Cuidado del Hogar,Limpieza de Baños
@@ -10639,7 +10658,7 @@ id_producto,producto,categoria,subcategoria
 372262,Vela de Cumpleaños Twis,Bazar,Cotillón
 372282,Film Plastico Wyda 100 m 28x5,Bazar,Articulos de Cocina
 372283,Cucharilla Strawplast 50 un,Bazar,Cotillón
-372284,GM VASO TEQUILERO MULTICOLOR STRAWPLAST,Bazar,Cotillón
+372284,Vaso Tequilero Multicolor Strawplast,Bazar,Cotillón
 372560,Cereal Granix Copos Maiz Azucarados 500 gr,Abarrotes,Nutrición Infantil
 372734,Juguete de Mascota,Bazar,Mascotas General
 372760,Carbon Renegro 3 kg,Bazar,Churrasquería
@@ -11372,6 +11391,7 @@ id_producto,producto,categoria,subcategoria
 430220,Crema Facial Sabila Siloe 250 gr,Cuidado Personal,Cuidado de la Piel
 430221,CREMA FACIAL SABILA SILOE 120 GR.,Cuidado Personal,Cuidado de la Piel
 430224,Crema Capilar Siloe Masaje Cebolla 250 gr,Cuidado Personal,Cuidado del Cabello
+430225,CREMA MASAJE CAPILAR SABILA/PENCA 500GR,Cuidado Personal,Cuidado del Cabello
 430227,CREMA MASAJE CAPILAR MIEL/PALTA 500GR.,Cuidado Personal,Cuidado del Cabello
 430228,Crema Capilar Siloe Masaje Miel Palta 250 gr,Cuidado Personal,Cuidado del Cabello
 430229,Acondicionador Siloe Cebolla 550 ml,Cuidado Personal,Cuidado del Cabello
@@ -14652,8 +14672,9 @@ id_producto,producto,categoria,subcategoria
 553430,GASEOSA SIMBA PINA NR BOT 3 LT,Bebidas,Gaseosas
 553431,GASEOSA SIMBA MANZANA NR BOT 3 LT,Bebidas,Gaseosas
 553432,CERVEZA HACKER PSCHORR KELLERBIER LTA 50,Bebidas,Cervezas
-553433,CERVAZA PAULANER WEISSBIER FCB LTA 500ML,Bebidas,Cervezas
+553433,CERVEZA PAULANER FC BAYER LTA 500ML,Bebidas,Cervezas
 553434,ISOTONICO IDRATO BLUE BERRY SACHET 200ML,Bebidas,Isotónicos
+553435,ISOTONICO IDRATO FRUTAL SACHET 200 ML,Bebidas,Isotónicos
 553437,CEREAL POP QUINOA ANDES TROPICO BSA 170,Abarrotes,Dietéticos y Saludables
 553438,CEREAL POP CANAHUA ANDES TROPICO BSA 170,Abarrotes,Dietéticos y Saludables
 553439,QUINOA INSUFLADA ANDES TROPICO BSA 150 G,Abarrotes,Dietéticos y Saludables
@@ -14666,7 +14687,9 @@ id_producto,producto,categoria,subcategoria
 553449,GRANOLA NUTRIGRAIN PREMIUN BSA 320 GR,Abarrotes,Nutrición Infantil
 553450,GRANOLA NUTRIGRAIN COCO BSA 200 GR,Abarrotes,Nutrición Infantil
 553451,CERVEZA BALTICA CLASICA LTA 440 ML,Bebidas,Cervezas
+553452,PACK VINO KOHLBERG UNO DOS,Bebidas,Vinos y Champagne
 553454,JUGO NARANJADA DEL CAMPO BOT 2L,Bebidas,"Jugos, Néctar"
+553463,GALLETA PANCREK LA FRANCESA CJA 1 KG,Abarrotes,Galletas
 554333,Cerveza Paceña Lata Roja 473 Cc,Bebidas,Cervezas
 554466,Detergente Liquido Ola Futuro Limpieza Completa 5 L,Cuidado del Hogar,Limpieza de la Ropa
 554468,Suavizante Ropa Ola Suavecito Original 5 L,Cuidado del Hogar,Limpieza de la Ropa
@@ -18683,6 +18706,8 @@ id_producto,producto,categoria,subcategoria
 669625,CLASSIC SHAMPOO DP ALOE VERA 900 ML,Cuidado Personal,Cuidado del Cabello
 669626,CLASSIC SHAMPOO DP MANZANILLA 900 ML,Cuidado Personal,Cuidado del Cabello
 669630,PACK 2 NOSOTRAS LARGAX8+ BNX8,Cuidado Personal,Cuidado Familiar
+669631,OLA MAXIMUS ANTISARRO EXPER BOT 12X500ML,Cuidado del Hogar,Limpieza de Cocina
+669633,PANO GRIS P/PISO BRISTAR 50X60CM,Cuidado del Hogar,Accesorios del Hogar
 669901,Pizza Hipermaxi Congelada Hawaiana 620 gr,Congelados,Masas y Comidas Congeladas
 669902,Pizza Hipermaxi Congelada Jamon Queso Light Masa Integral,Congelados,Masas y Comidas Congeladas
 669903,Pizza Hipermaxi Congelada Pepperoni 620 gr,Congelados,Masas y Comidas Congeladas
@@ -20409,6 +20434,7 @@ id_producto,producto,categoria,subcategoria
 674596,LECHE CON AVENA DELIZIA 140ML,Lácteos y Derivados,Leches
 674597,LECHE SABOR FRUTILLA DELIZIA 140ML,Lácteos y Derivados,Leches
 674599,YOGURT GALAKTOS TIPO GRIEGO 0 AZUCAR DURAZNO 500GRS,Lácteos y Derivados,Yogures
+674600,YOGURT GALAKTOS TIPO GRIEGO 0 AZUCAR MORA 500GRS,Lácteos y Derivados,Yogures
 674788,LOMITO DE CERDO SOFIA REFRIGERADO A/V KGR,Fiambres,Fiambres Externos
 674832,Mini Torta Delizia Frutilla 850 ml,Congelados,"Helados, Cassattas y Picoleses"
 674834,MINI TORTA DELIZIA YOGURT SALSA AMARENA 850 ML,Congelados,"Helados, Cassattas y Picoleses"
@@ -21243,6 +21269,8 @@ id_producto,producto,categoria,subcategoria
 761335,Yogurt Bebible Friedland Probiotico Papaya 1 L,Lácteos y Derivados,Yogures
 761337,KEFIR SAB.LIMON VAINILLA BONTANA 500 ML.,Lácteos y Derivados,Yogures
 761348,KEFIR NATURAL BONTANA 1 LT.,Lácteos y Derivados,Yogures
+761356,KEFIR SABOR COCO PINA BONTANA 1 LT.,Lácteos y Derivados,Yogures
+761368,KEFIR SABOR BANANA FRUTILLA BONTANA 1 LT.,Lácteos y Derivados,Yogures
 761374,KEFIR SAB.LIMON VAINILLA BONTANA 1 LT.,Lácteos y Derivados,Yogures
 761419,Tapa de Empanada Criollas Miltipasta 12 un,Congelados,Masas y Comidas Congeladas
 761420,YOGURT BEBIBLE DELIZIA DURAZNO 1 LT SACHET,Lácteos y Derivados,Yogures
@@ -23775,6 +23803,7 @@ id_producto,producto,categoria,subcategoria
 857047,CH 34 25 VINCHA BOTELLA HALLOWEEN 33X15,Bazar Importación,Temporada Halloween
 857048,CH 34 26 VINCHA LLAVE STILSON HALLOWEEN 33X15CM,Bazar Importación,Temporada Halloween
 857051,CH 34 28 VINCHA HACHA DE COCINA HALLOWEEN,Bazar Importación,Temporada Halloween
+857054,ALCAPARRA GOYA SPANISH CAPERS 2 OZ,Abarrotes,Verduras en Conserva
 857055,CH 34 31 VINCHA SERRUCHO HALLOWEEN,Bazar Importación,Temporada Halloween
 857057,CH 34 34 PANERO TELARANA HALLOWEEN,Bazar Importación,Temporada Halloween
 857059,CH 34 37 ZOMBI  ENJAULADO A PILAS,Bazar Importación,Temporada Halloween
