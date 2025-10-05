@@ -1702,9 +1702,9 @@ id_producto,producto,categoria,subcategoria
 25117,Galleta Family Farm Arroz Sin Sal 110 gr,Abarrotes,Dietéticos y Saludables
 25118,GALLETA FAMILY FARM ARROZ CON SAL 110G,Abarrotes,Dietéticos y Saludables
 25120,Vino Kohlberg Cautivo 750 ml,Bebidas,Vinos y Champagne
-25121,MANTEQ MANI MR NUTS CROC SIN AZUC 360G,Abarrotes,Repostería
-25122,MANTEQ MANI MR NUTS CREM ORIGINAL 360G,Abarrotes,Repostería
-25123,MANTEQ MANI MR NUTS CREM SIN AZUC 360G,Abarrotes,Repostería
+25121,Mantequilla de Mani Mr Nuts Crocante Sin Azucar 360 g,Abarrotes,Repostería
+25122,Mantequilla de Mani Mr Nuts Cremosa Original 360 g,Abarrotes,Repostería
+25123,Mantequilla de Mani Mr Nuts Cremosa sin azucar 360 g,Abarrotes,Repostería
 25124,Mani Croppers Salado 350 gr,Abarrotes,Snack
 25125,Mani Croppers Salado 105 gr,Abarrotes,Snack
 25126,Mani Croppers Sin Sal 85 gr,Abarrotes,Snack
@@ -1712,7 +1712,7 @@ id_producto,producto,categoria,subcategoria
 25128,Mani Croppers Chocolate 85 gr,Abarrotes,Snack
 25129,Mani Croppers Salado 800 gr,Abarrotes,Snack
 25130,Champiñones Enteros Isamar 425 gr,Abarrotes,Verduras en Conserva
-25131,MANTEQ MANI MR NUTS ORIGINAL POTE 1KG,Abarrotes,Repostería
+25131,Mantequilla Mani Mr Nuts Original 1 kg,Abarrotes,Repostería
 25132,MANTEQ MANI MR NUTS CREM SIN AZUC 1KG,Abarrotes,Repostería
 25133,Pack Fideo Lazzaroni Spaguetto Extracto,Abarrotes,Básicos
 25134,ENERGIZANTE RUSH BONNY LOVY 269 ML,Bebidas,Energizantes
@@ -1796,6 +1796,7 @@ id_producto,producto,categoria,subcategoria
 25257,SNACK PITA CHIPS CEBOLLA BSA 150G,Abarrotes,Snack
 25258,BEBIDA FOUR LOKO WHITE LTA 473ML,Bebidas,Licores
 25259,BEBIDA FOUR LOKO WHITE LTA 695ML,Bebidas,Licores
+25261,MAYONESA CEPERA S CHURRASCO PET 200G,Abarrotes,Aderezos
 25262,CREMA P CAFE COUNTRY BARN 16 OZ,Abarrotes,Café y Sucedáneos
 25265,CHOCLO CEPERA LTA 170G,Abarrotes,Verduras en Conserva
 25266,ARVEJA CEPERA LTA 170G,Abarrotes,Verduras en Conserva
@@ -1858,10 +1859,11 @@ id_producto,producto,categoria,subcategoria
 25379,MANI PINZONES C CHOCOLATE BSA 100G,Abarrotes,Snack
 25384,WHISKY ROYAL LABEL 1LT,Bebidas,Licores
 25385,WHISKY COCKLAND GOLD 1LT,Bebidas,Licores
-25389,BEBIDA FOUR LOKO HALLOWEEN 473ML,Bebidas,Licores
+25389,Four Loko Halloween 473 ml,Bebidas,Licores
 25390,BEBIDA FOUR LOKO HALLOWEEN 695ML,Bebidas,Licores
 25401,BEBIDA FLOW NENE SUNRISE BOT 300ML,Bebidas,Licores
 25402,BEBIDA FLOW HARD ZALZER CHUFLAY 300ML,Bebidas,Licores
+25403,BEBIDA FLOW SANDIA FRESH 473ML,Bebidas,Licores
 25404,HIDRATANTE LIFE INTI UVA 500ML,Bebidas,Isotónicos
 25406,ENERGIZ VOLT PONCHE D FRUTAS LTA 473ML,Bebidas,Energizantes
 25407,CHUPETE BON BON BUM ZOMBIE 336G,Abarrotes,Chocolates y Caramelos
@@ -1875,7 +1877,7 @@ id_producto,producto,categoria,subcategoria
 25431,SNACK BOOHOO NAX PICANTE 120G,Abarrotes,Snack
 25432,SNACK BOOHOO NAX QUESO CHEDDAR 120G,Abarrotes,Snack
 25433,SNACK BOOHOO NAX QUESO 150G,Abarrotes,Snack
-25440,MOGUL MINI GUSANITOS HALLOWEEN 500G,Abarrotes,Temporada
+25440,Gomita Mogul Mini Gusanitos Halloween 500 gr,Abarrotes,Temporada
 25441,VINOS KOHLBERG2 SAUV BLANC FRANC 750ML,Bebidas,Vinos y Champagne
 25442,GOMITA RICLAN GO JELLY MORAS 250G,Abarrotes,Golosinas - Varias
 25443,GOMITA RICLAN GO JELLY DIENTES 250G,Abarrotes,Golosinas - Varias
@@ -6878,6 +6880,7 @@ id_producto,producto,categoria,subcategoria
 209274,Crema Tratamiento Capilar Revive Curly sin Sal 300 gr,Cuidado Personal,Cuidado del Cabello
 209309,Vino La Concepcion Sauvignon Blanco Reserva 750 ml,Bebidas,Vinos y Champagne
 209325,Vino Concepcion Estirpe Tinto 700 ml,Bebidas,Vinos y Champagne
+209455,BASE SUPER STAY LUMI MATTE 230,Cuidado Personal,Cuidado de la Piel
 209456,BASE SUPER STAY LUMI MATTE 310,Cuidado Personal,Cuidado de la Piel
 209464,Suavizante Ropa Gallito Marina 900 ml,Cuidado del Hogar,Limpieza de la Ropa
 209530,Pack Kotex Nocturna Discreta 24 Und,Cuidado Personal,Cuidado Familiar
@@ -7851,6 +7854,7 @@ id_producto,producto,categoria,subcategoria
 227919,Extracto de Tomate Cajamar 140 gr,Abarrotes,Salsas y Extracto de Tomate
 227951,Huevos Aranjuez Medianos 12 un,Lácteos y Derivados,Huevos
 228004,PACK CASTING 210 + ELVIVE SH COLORVIVE 3,Cuidado Personal,Cuidado del Cabello
+228005,PACK CASTING  426 + ELVIVE SH COLORVIVE,Cuidado Personal,Cuidado del Cabello
 228006,PACK CASTING  500 + ELVIVE SH COLORVIVE,Cuidado Personal,Cuidado del Cabello
 228008,PACK CASTING  600 + ELVIVE SH COLORVIVE,Cuidado Personal,Cuidado del Cabello
 228009,PACK CASTING  535 +  SH COLORVIVE 370 ML,Cuidado Personal,Cuidado del Cabello
@@ -7981,6 +7985,7 @@ id_producto,producto,categoria,subcategoria
 228204,TRAPO MICROFIBRA  PINTO FUCSIA 300 GR,Cuidado del Hogar,Accesorios del Hogar
 228205,TRAPO MICROFIBRA  PINTO VERDE 300 GR,Cuidado del Hogar,Accesorios del Hogar
 228211,LABIAL VOGUE RESIST LIQUIDO EXPRESA,Cuidado Personal,Cuidado de la Piel
+228212,LABIAL VOUGE BARRA ROSA AMOROSA,Cuidado Personal,Cuidado de la Piel
 228215,LABIAL VOGUE BARRA FRAMBUESA VIVA,Cuidado Personal,Cuidado de la Piel
 228221,SERUM OJOS LOREAL ACIDO GLICOLICO,Cuidado Personal,Cuidado de la Piel
 228223,SCOTCH BRITE FIBRA EXTR MORADA PACK 2U 2,Cuidado del Hogar,Accesorios del Hogar
@@ -8061,6 +8066,7 @@ id_producto,producto,categoria,subcategoria
 228355,HILO DENTAL  CONDOR HW FLOSS PICKS,Cuidado del Bebé,Kids
 228356,PAPEL TOALLA CLIN  INTERFOLIADO 250 HJS,Cuidado del Hogar,Limpieza de Cocina
 228357,PAPEL HIG QUALITE 12 ROLLOS H-SIMPLE,Cuidado Personal,Cuidado Familiar
+228359,DETERGENTE TODOBRILLO LIMON 9.5 KG,Cuidado del Hogar,Limpieza de la Ropa
 228360,Esmalte de Uñas Vogue Efecto Gel Grafiti 14 ml,Cuidado Personal,Cuidado de la Piel
 228361,Esmalte de Uñas Vogue Efecto Gel Crew 14 ml,Cuidado Personal,Cuidado de la Piel
 228365,Esmalte de Uñas Vogue Efecto Gel Expresion 14 ml,Cuidado Personal,Cuidado de la Piel
@@ -12505,7 +12511,7 @@ id_producto,producto,categoria,subcategoria
 524387,Pasta Dental Foramen Sensible 75 ml,Cuidado Personal,Cuidado Bucal
 524395,Galleta Arcor Sandwich 112 gr,Abarrotes,Galletas
 524441,Chocolate Cofler Leche 100 gr,Abarrotes,Chocolates y Caramelos
-524824,Tomatodo San Remo 500 ml,Bazar,Menaje Plástico
+524824,Tomatodo San Remo 500 ml,Bazar Importación,Menaje Plástico
 525464,Limpiador Horno Archer con Gatillo 860 ml,Cuidado del Hogar,Limpieza de Cocina
 526380,Salame Celofan Santa Fe un,Fiambres,Fiambres Externos
 526398,Mortadela Celofan Grande Santa Fe un,Fiambres,Fiambres Externos
@@ -18481,7 +18487,7 @@ id_producto,producto,categoria,subcategoria
 669005,Shampoo Elvive Glycolic Gloss 370 ml,Cuidado Personal,Cuidado del Cabello
 669006,DELINEADOR OJOS ESSENTIAL,Cuidado Personal,Cuidado de la Piel
 669007,KOCOSTAR MASCARILLA FOOT PEELING PACK,Cuidado Personal,Cuidado de la Piel
-669008,MASCARA PESTANA ESSENTIAL,Cuidado Personal,Cuidado de la Piel
+669008,Rimel Essential,Cuidado Personal,Cuidado de la Piel
 669009,Mascarilla Kocostar Hydrogel Chin,Cuidado Personal,Cuidado de la Piel
 669010,Mascarilla Kocostar Hand Moisture,Cuidado Personal,Cuidado de la Piel
 669011,KOCOSTAR MASCARILLA CAMELLIA HAPPY MASK,Cuidado Personal,Cuidado de la Piel
