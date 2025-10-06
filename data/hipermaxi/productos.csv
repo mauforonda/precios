@@ -1766,6 +1766,7 @@ id_producto,producto,categoria,subcategoria
 25201,SNACK SALADIX CHIZZIDIX QUESO 150G,Abarrotes,Snack
 25202,SNACK SALADIX PICANA 150G,Abarrotes,Snack
 25203,SNACK SALADIX POPS MANTEQ 170G,Abarrotes,Snack
+25210,FIDEO FAMOSA FETTUCCINE 400G,Abarrotes,Básicos
 25211,SNACK SALADIX PICANTE BSA 23G,Abarrotes,Snack
 25212,SNACK SALADIX PICANA BSA 26G,Abarrotes,Snack
 25213,SNACK SALADIX POPS BSA 30G,Abarrotes,Snack
@@ -1803,6 +1804,7 @@ id_producto,producto,categoria,subcategoria
 25267,KETCHUP PICKLES CEPERA PET 350G,Abarrotes,Aderezos
 25272,PURE D PAPA KRIS INSTANT TOCINO 125G,Abarrotes,Básicos
 25273,PURE D PAPA KRIS INSTANT TOCINO 250G,Abarrotes,Básicos
+25276,EXTRACTO D URUCU C MANTECA FCO 430G,Abarrotes,Básicos
 25278,GIN PUERTO D INDIAS BLACK 750ML,Bebidas,Licores
 25279,CERVEZA PROST WINTERBIER LTA 473 ML,Bebidas,Cervezas
 25282,Lonchera Juguito Pil,Bebidas,"Jugos, Néctar"
@@ -1840,6 +1842,9 @@ id_producto,producto,categoria,subcategoria
 25338,ENERGIZANTE ROCKSTAR BERRIES 300ML,Bebidas,Energizantes
 25339,MAIZ PIPOCA CAMARO GRANO 300G,Abarrotes,Snack
 25340,MAIZ PIPOCA CAMARO GRANO POTE 700G,Abarrotes,Snack
+25341,ACHOCOLATADO CHOCO KIDS BSA 1 KG,Abarrotes,Nutrición Infantil
+25342,ACHOCOLATADO CHOCO KIDS BSA 400G,Abarrotes,Nutrición Infantil
+25344,ACHOCOLATADO CHOCO KIDS BSA 200G,Abarrotes,Nutrición Infantil
 25347,CARAMELO COLOMBINA COFFEE DELIGHT 380G,Abarrotes,Chocolates y Caramelos
 25349,GOMITA GRISSLY COLOMBINA CLASIC 72G,Abarrotes,Golosinas - Varias
 25350,GOMITA GRISSLY COLOMBINA MARINO 70G,Abarrotes,Golosinas - Varias
@@ -1857,6 +1862,7 @@ id_producto,producto,categoria,subcategoria
 25376,SAL MARINA LA AUTENTICA FCO 500 GR,Abarrotes,Básicos
 25377,VINO TABERNERO TUYO GRAN ROSE 750ML,Bebidas,Vinos y Champagne
 25379,MANI PINZONES C CHOCOLATE BSA 100G,Abarrotes,Snack
+25383,DULCE DACOLONIA CHOCOLATE BLANCO 120G,Abarrotes,Chocolates y Caramelos
 25384,WHISKY ROYAL LABEL 1LT,Bebidas,Licores
 25385,WHISKY COCKLAND GOLD 1LT,Bebidas,Licores
 25389,Four Loko Halloween 473 ml,Bebidas,Licores
@@ -1885,6 +1891,10 @@ id_producto,producto,categoria,subcategoria
 25445,MASTICABLE ZUNG FRUTA SURTIDA 280G,Abarrotes,Golosinas - Varias
 25446,MASTICABLE ZUNG YOGUR SURTIDO 280G,Abarrotes,Golosinas - Varias
 25447,CHICLE RELLENO TNT ACIDO 180GR,Abarrotes,Golosinas - Varias
+25453,GALLETA GUSTOSSI COCO CHOCOLATE 180G,Abarrotes,Galletas
+25454,GALLETA GUSTOSSI COCO CHOCOLATE 680G,Abarrotes,Galletas
+25461,ISOTONICO ACTIVADE SANDIA ZERO 1LT,Bebidas,Isotónicos
+25462,ISOTONICO ACTIVADE MANGO ZERO 1LT,Bebidas,Isotónicos
 25640,Surtido de Mariscos Robinson Crusoe Natural 190 gr,Abarrotes,Comidas en Conserva
 25771,Huevos Caisy 12 un,Lácteos y Derivados,Huevos
 25789,Galleta Rocklets Chocolate 118 gr,Abarrotes,Galletas
@@ -3135,6 +3145,7 @@ id_producto,producto,categoria,subcategoria
 34871,Cerveza Conti Zero 350 ml,Bebidas,Cervezas
 35070,Alimento Knino Adulto Pequeña 1.5 kg,Abarrotes,Mascotas
 35073,Alimento Knino Cachorro Mediano Grande 1.5 kg,Abarrotes,Mascotas
+35076,Alimento Knino Cachorro Pequeña 3 kg,Abarrotes,Mascotas
 35077,Alimento Knino Adulto Mediano Grande 1.5 kg,Abarrotes,Mascotas
 35115,Cafe Illy Espresso en Grano 250 gr,Abarrotes,Café y Sucedáneos
 35116,Cafe Illy Medium Molido 125 gr,Abarrotes,Café y Sucedáneos
@@ -3433,6 +3444,7 @@ id_producto,producto,categoria,subcategoria
 64459,Aceite Arcor Maiz 900 ml,Abarrotes,Básicos
 64715,Nutella Go Breadsticks 52 gr,Abarrotes,Productos Americanos
 64769,Turron de Mani Arcor Frutas 120 gr,Abarrotes,Golosinas - Varias
+64770,Alimento Sabueso Adulto 3 kg,Abarrotes,Mascotas
 64866,Yogurt Bebible Delizia Durazno 1 L,Lácteos y Derivados,Yogures
 64874,Bizcochuelo Godet Vainilla 480 gr,Abarrotes,Repostería
 64882,Bizcochuelo Godet Chocolate 480 gr,Abarrotes,Repostería
@@ -5979,6 +5991,7 @@ id_producto,producto,categoria,subcategoria
 126051,Labial Maybelline Crayon Matte Ink Make It Happen,Cuidado Personal,Cuidado de la Piel
 126519,Cepillo Dental Foramen V Plus Medio 1 un,Cuidado Personal,Cuidado Bucal
 126587,Cafe Yungas Molido 250 gr,Abarrotes,Café y Sucedáneos
+126758,Pepinillo Mt Olive Kosher 24 oz,Abarrotes,Productos Americanos
 127868,Galleta La Francesa Craker 230 gr,Abarrotes,Galletas
 127878,Cafe Juan Valdez Liofilizado Descafeinado 95 gr,Abarrotes,Café y Sucedáneos
 127880,Bebida Ice 51 Guarana Six Pack 275 ml,Bebidas,Licores
@@ -9748,6 +9761,7 @@ id_producto,producto,categoria,subcategoria
 333644,Detergente Polvo Skip Comfort 2 kg,Cuidado del Hogar,Limpieza de la Ropa
 333645,Detergente Polvo Skip Comfort 3.8 kg,Cuidado del Hogar,Limpieza de la Ropa
 333717,Vino Etchart Privado Torrontes 750 ml,Bebidas,Vinos y Champagne
+333750,ACO BALLERINA GRANADA +AH FCO 410ML,Cuidado Personal,Cuidado del Cabello
 333752,Acondicionador Ballerina Bajopoo Doypack 900 ml,Cuidado Personal,Cuidado del Cabello
 333754,Jabon Liquido Johnsons Recien Nacido 200 ml KNV,Cuidado del Bebé,Cuidado del Bebé
 333755,Crema Hidratante Johnsons Gel Recien nacido 200 ml KNV,Cuidado del Bebé,Cuidado del Bebé
@@ -14473,6 +14487,7 @@ id_producto,producto,categoria,subcategoria
 553159,Pack 3x2 Pipoca Act II Cheddar,Abarrotes,Snack
 553160,Vino Porfiado Cabernet Franc 750 ml,Bebidas,Vinos y Champagne
 553161,Marshmallow Jet Puffed Mini,Abarrotes,Productos Americanos
+553162,CEREAL MALT-O-MEAL SMORES 30OZ,Abarrotes,Productos Americanos
 553164,GALLETA BRINKY FRESA 300 GR,Abarrotes,Galletas
 553165,Isotonico Sante Sport Fresa Wilsterman,Bebidas,Isotónicos
 553166,CEREAL MALT-O-MEAL TOOTIE FRUITIES 30OZ,Abarrotes,Productos Americanos
@@ -14692,6 +14707,7 @@ id_producto,producto,categoria,subcategoria
 553425,DURAZNO FRESCO DESHID 250 GR,Abarrotes,Frutas en Conserva
 553426,PINA FRESCO DESHID 60 GR,Abarrotes,Frutas en Conserva
 553427,MANZANA FRESCO DESHID 70 GR,Abarrotes,Frutas en Conserva
+553428,SINGANI RECONQUISTA PREMIUM 750 ML,Bebidas,Licores
 553430,GASEOSA SIMBA PINA NR BOT 3 LT,Bebidas,Gaseosas
 553431,GASEOSA SIMBA MANZANA NR BOT 3 LT,Bebidas,Gaseosas
 553432,CERVEZA HACKER PSCHORR KELLERBIER LTA 50,Bebidas,Cervezas
@@ -14707,6 +14723,7 @@ id_producto,producto,categoria,subcategoria
 553442,PACK 2 NECTAR DEL SOL 1 LT,Bebidas,"Jugos, Néctar"
 553444,GOMITAS GRISSLY  DELFIN 73 GR,Abarrotes,Golosinas - Varias
 553445,GOMITAS GRISSLY GUSANOS ACIDOS 70 GR,Abarrotes,Golosinas - Varias
+553446,CHOCOLATE BREICK COOKIES AND CREAM 100G,Abarrotes,Chocolates y Caramelos
 553448,GRANOLA NUTRIGRAIN CLASICA BSA 320GR,Abarrotes,Nutrición Infantil
 553449,GRANOLA NUTRIGRAIN PREMIUN BSA 320 GR,Abarrotes,Nutrición Infantil
 553450,GRANOLA NUTRIGRAIN COCO BSA 200 GR,Abarrotes,Nutrición Infantil
@@ -14714,6 +14731,7 @@ id_producto,producto,categoria,subcategoria
 553452,PACK VINO KOHLBERG UNO DOS,Bebidas,Vinos y Champagne
 553454,JUGO NARANJADA DEL CAMPO BOT 2L,Bebidas,"Jugos, Néctar"
 553463,GALLETA PANCREK LA FRANCESA CJA 1 KG,Abarrotes,Galletas
+553464,PACK CHICA MOCOCHINCHI CASA DEL CAMBA 2,Bebidas,"Jugos, Néctar"
 554333,Cerveza Paceña Lata Roja 473 Cc,Bebidas,Cervezas
 554466,Detergente Liquido Ola Futuro Limpieza Completa 5 L,Cuidado del Hogar,Limpieza de la Ropa
 554468,Suavizante Ropa Ola Suavecito Original 5 L,Cuidado del Hogar,Limpieza de la Ropa
@@ -16985,6 +17003,7 @@ id_producto,producto,categoria,subcategoria
 657309,Aceite Virgen Kirkland de Coco Organico 84 oz,Abarrotes,Productos Americanos
 657322,KIDSMANIA OOZE TUBE 8/12CT,Abarrotes,Productos Americanos
 657331,Fideo Las Acacias Natural Tirabuzon 400 gr,Abarrotes,Básicos
+657339,FANTA BERRY LTA 12OZ,Bebidas,Bebidas Usa
 657350,Salsa Molho Toscano de Soya 150 gr,Abarrotes,Condimentos y Legumbres
 657352,Salsa Molho Toscano Pimienta 1010 ml,Abarrotes,Aderezos
 657353,Salsa Molho Toscano de Soya  1010 ml,Abarrotes,Condimentos y Legumbres
@@ -18737,6 +18756,7 @@ id_producto,producto,categoria,subcategoria
 669603,DOVE JAB PIEL SENSIBLE 48X90G,Cuidado Personal,Cuidado de la Piel
 669625,CLASSIC SHAMPOO DP ALOE VERA 900 ML,Cuidado Personal,Cuidado del Cabello
 669626,CLASSIC SHAMPOO DP MANZANILLA 900 ML,Cuidado Personal,Cuidado del Cabello
+669627,CLASSIC SHAMPOO DP ANTICASPA  900 ML,Cuidado Personal,Cuidado del Cabello
 669630,PACK 2 NOSOTRAS LARGAX8+ BNX8,Cuidado Personal,Cuidado Familiar
 669631,OLA MAXIMUS ANTISARRO EXPER BOT 12X500ML,Cuidado del Hogar,Limpieza de Cocina
 669632,PAMPERS CONFORTSEC XXXG (44PZA) X4U,Cuidado del Bebé,Pañales
@@ -20469,6 +20489,7 @@ id_producto,producto,categoria,subcategoria
 674597,LECHE SABOR FRUTILLA DELIZIA 140ML,Lácteos y Derivados,Leches
 674599,YOGURT GALAKTOS TIPO GRIEGO 0 AZUCAR DURAZNO 500GRS,Lácteos y Derivados,Yogures
 674600,YOGURT GALAKTOS TIPO GRIEGO 0 AZUCAR MORA 500GRS,Lácteos y Derivados,Yogures
+674606,HUEVO MARRON MAPLE 20 UNI SOFIA EXTRA GRANDE,Lácteos y Derivados,Huevos
 674786,BONDIOLA DE CERDO SOFIA REFRIGERADA A/V KGR,Fiambres,Fiambres Externos
 674787,LOMO DE CERDO SOFIA REFRIGERADO A/V KGR,Fiambres,Fiambres Externos
 674788,LOMITO DE CERDO SOFIA REFRIGERADO A/V KGR,Fiambres,Fiambres Externos
@@ -22395,6 +22416,7 @@ id_producto,producto,categoria,subcategoria
 805692,Frutilla al Jugo Yacobs 880 gr,Abarrotes,Frutas en Conserva
 805701,Mermelada Yacobs Frutilla 465 gr,Abarrotes,"Mermel, Mieles"
 805776,Sopa Instantanea Ajinomen Pollo 85 gr,Abarrotes,Básicos
+805825,SODA FANTA GRAPE USA LTA 355 ML,Bebidas,Bebidas Usa
 805830,Gaseosa Fanta Orange USA 355 ml,Bebidas,Bebidas Usa
 805845,Gaseosa Fanta Pineapple 355 ml,Bebidas,Bebidas Usa
 806120,Achocolatada Swiss Miss Milk Chocolate 10 oz,Abarrotes,Nutrición Infantil
@@ -25218,6 +25240,7 @@ id_producto,producto,categoria,subcategoria
 925100,Lapiz Rojo,Bazar,Librería
 925101,Lapiz Negro,Bazar,Librería
 925575,Bolsa de Globos Estándar Multicolor 50 un,Bazar,Cotillón
+925591,Cuaderno Espiral Carta 100 Hojas,Bazar,Librería
 925969,Grapa,Bazar,Librería
 926104,Raticida Ratitane Cebo 100 gr,Cuidado del Hogar,Insecticidas
 926106,Espiral Titane Mata Mosquito 150 gr,Cuidado del Hogar,Insecticidas
