@@ -1855,6 +1855,7 @@ id_producto,producto,categoria,subcategoria
 25352,BEBIDA  FOUR LOKO LOVE LTA 473ML,Bebidas,Licores
 25359,VODKA MATRIOSHKA BERRY 750ML,Bebidas,Licores
 25360,RON CAPIGUARA 5A 750ML,Bebidas,Licores
+25362,HARINA PALOMA LEUDANTE 000 1KG,Abarrotes,Básicos
 25363,VINO ABRA TORO MALBEC RESERV 750ML,Bebidas,Vinos y Champagne
 25365,ENERGIZANTE VOLT CITRUS LTA 473ML,Bebidas,Energizantes
 25367,MIEL D CANA PORTACHUELO CANELA C OLOR 75,Abarrotes,"Mermel, Mieles"
@@ -1869,6 +1870,9 @@ id_producto,producto,categoria,subcategoria
 25383,DULCE DACOLONIA CHOCOLATE BLANCO 120G,Abarrotes,Chocolates y Caramelos
 25384,WHISKY ROYAL LABEL 1LT,Bebidas,Licores
 25385,WHISKY COCKLAND GOLD 1LT,Bebidas,Licores
+25386,MANTEQUILLA MANI SKURZTH CLASICA 1KG,Abarrotes,Repostería
+25387,MANTEQUILLA MANI SKURZTH C CANELA 1KG,Abarrotes,Repostería
+25388,MANTEQUILLA MANI SKURZTH CHOCOL 1KG,Abarrotes,Repostería
 25389,Four Loko Halloween 473 ml,Bebidas,Licores
 25390,BEBIDA FOUR LOKO HALLOWEEN 695ML,Bebidas,Licores
 25392,MERMRLADA L RINCONADA UCHUVA 200G,Abarrotes,"Mermel, Mieles"
@@ -1902,6 +1906,8 @@ id_producto,producto,categoria,subcategoria
 25462,ISOTONICO ACTIVADE MANGO ZERO 1LT,Bebidas,Isotónicos
 25463,DURAZNO AL JUGO DEYMAS LTA 820G,Abarrotes,Frutas en Conserva
 25464,Mantequilla de Mani Mr Nuts Halloween 360 gr,Abarrotes,Repostería
+25470,GOMITA FINI HALLOWEEN CALAVERA 80G,Abarrotes,Temporada
+25471,MASTICABLE FINI HALLOWEEN REGALIZ TERROR,Abarrotes,Temporada
 25640,Surtido de Mariscos Robinson Crusoe Natural 190 gr,Abarrotes,Comidas en Conserva
 25771,Huevos Caisy 12 un,Lácteos y Derivados,Huevos
 25789,Galleta Rocklets Chocolate 118 gr,Abarrotes,Galletas
@@ -12369,6 +12375,8 @@ id_producto,producto,categoria,subcategoria
 502620,Ambientador Aerosol Glade Automatico Manzana Canela 270 cm,Cuidado del Hogar,Productos Americanos
 502630,Detergente Polvo Sapolio Floral 2 kg,Cuidado del Hogar,Limpieza de la Ropa
 502638,Antihumedad Limppano Inspira Lavnda 230 gr,Cuidado del Hogar,Limpieza de Cocina
+502640,ANT.HUMEDAD LIMPPANO INSPIRA  NATUR.100,Cuidado del Hogar,Limpieza de Cocina
+502648,ANTI HUMEDADAD LIMPPANO NATURAL 230 GR.,Cuidado del Hogar,Limpieza de Cocina
 502649,Antihumedad Limppano Inspira Lavanda 100 gr,Cuidado del Hogar,Limpieza de Cocina
 502651,Insecticida Killer Cucaracha Araña Verde 360 cm,Cuidado del Hogar,Insecticidas
 502672,Cepillo Dental Dentalclean Perfect Suave 2 un,Cuidado Personal,Cuidado Bucal
@@ -14212,7 +14220,7 @@ id_producto,producto,categoria,subcategoria
 552821,Vino Blanco Apaltagua Reserva Sauvignon,Bebidas,Vinos y Champagne
 552822,Vino Apaltagua Select Sauvignon Blanco 750 ml,Bebidas,Vinos y Champagne
 552823,Vino Puesto Marquez Malbec 750 ml,Bebidas,Vinos y Champagne
-552824,VINO PUESTO D MARQUES CABERNET SAUV 750M,Bebidas,Vinos y Champagne
+552824,Vino Puesto de Marques Cabernet Sauvignon 750 ml,Bebidas,Vinos y Champagne
 552825,Vino Tinto Puente Austral Cabernet Sauvignon 750 ml,Bebidas,Vinos y Champagne
 552826,VINO TINTO PUENTE AUSTRAL CARMENERE 750M,Bebidas,Vinos y Champagne
 552828,VINO APALTAGUA RESERVA SYRAH 750 ML,Bebidas,Vinos y Champagne
@@ -14714,6 +14722,7 @@ id_producto,producto,categoria,subcategoria
 553397,JUGO MANGO TRUE LIFE LTA 500 ML,Bebidas,Bebidas Usa
 553398,AGUA DE COCO CON PULPA TRUE LIFE 500 LTA ML,Bebidas,Bebidas Usa
 553399,JUGO PINA TRUE LIFE LTA 500 ML,Bebidas,Bebidas Usa
+553403,COMPOTA DE CIRUELA GERBER 113 GR,Abarrotes,Productos Americanos
 553410,ADEREZO BADIA CILANTRO LIMA AJO 591 ML,Abarrotes,Productos Americanos
 553412,ACEITE DE OLIVA REFINADO KIRKLAND 3 LT,Abarrotes,Productos Americanos
 553413,SAZONADOR COMPLETO BADIA 70.9 GR,Abarrotes,Productos Americanos
@@ -14747,6 +14756,7 @@ id_producto,producto,categoria,subcategoria
 553444,GOMITAS GRISSLY  DELFIN 73 GR,Abarrotes,Golosinas - Varias
 553445,GOMITAS GRISSLY GUSANOS ACIDOS 70 GR,Abarrotes,Golosinas - Varias
 553446,CHOCOLATE BREICK COOKIES AND CREAM 100G,Abarrotes,Chocolates y Caramelos
+553447,SINGANI INSIGNIA PLATINUM 750ML,Bebidas,Licores
 553448,GRANOLA NUTRIGRAIN CLASICA BSA 320GR,Abarrotes,Nutrición Infantil
 553449,GRANOLA NUTRIGRAIN PREMIUN BSA 320 GR,Abarrotes,Nutrición Infantil
 553450,GRANOLA NUTRIGRAIN COCO BSA 200 GR,Abarrotes,Nutrición Infantil
@@ -14766,6 +14776,10 @@ id_producto,producto,categoria,subcategoria
 553472,COMPOTA GERBER CIRUELAS 2X4OZ,Abarrotes,Productos Americanos
 553480,GOMITAS MIX FRUIT 0.8OZ,Abarrotes,Productos Americanos
 553585,CHICLE BLOOPS HALLOWEEN PINTA 272G,Abarrotes,Temporada
+553588,CHOCOL PARA TI SURTIDO CJA LUJO 560G,Abarrotes,Chocolates y Caramelos
+553593,TE MANDALA TROPICAL PUNCH TETRA 200 ML,Bebidas,Bebidas Varias
+553595,TE MANDALA TROPICAL PUNCH TETRA 1LT,Bebidas,Bebidas Varias
+553596,TE MANDALA PINK LEMON TETRA 1LT,Bebidas,Bebidas Varias
 553603,VINAGRE DE ALCOHOL GUSTOSO 1 LT,Abarrotes,Básicos
 553610,GOMITAS GRISSLY SANDIA 70 GR,Abarrotes,Golosinas - Varias
 554333,Cerveza Paceña Lata Roja 473 Cc,Bebidas,Cervezas
@@ -17127,7 +17141,7 @@ id_producto,producto,categoria,subcategoria
 657617,Pop de Quinua Endulzado 250 gr,Abarrotes,Nutrición Infantil
 657621,Chocolate de Mesa Bollo El Ceibo 1 kg,Abarrotes,Repostería
 657622,Chocolate de Mesa Bollo El Ceibo 500 gr,Abarrotes,Repostería
-657632,Barra Cereal Irupana Frutos Rojos 240 gr,Abarrotes,Dietéticos y Saludables
+657632,Barra Cereal Irupana Frutos Rojos 240 gr,Abarrotes,Nutrición Infantil
 657640,Dr.PICKS Piquesos 200 gr,Abarrotes,Snack
 657642,Dr.Picks Jalapeño 230 gr,Abarrotes,Snack
 657644,Vino Esther Ortiz Campos de Solana 750 ml,Bebidas,Vinos y Champagne
@@ -18818,6 +18832,9 @@ id_producto,producto,categoria,subcategoria
 669631,OLA MAXIMUS ANTISARRO EXPER BOT 12X500ML,Cuidado del Hogar,Limpieza de Cocina
 669632,Pañales Pampers Confort Sec XXG 44 un,Cuidado del Bebé,Pañales
 669633,PANO GRIS P/PISO BRISTAR 50X60CM,Cuidado del Hogar,Accesorios del Hogar
+669670,NEUTROGENA SFRESH 50 OC S COL 6X40ML,Cuidado Personal,Cuidado de la Piel
+669671,NEUTROGENA SFRESH 50 OC COL 2 6X40ML,Cuidado Personal,Cuidado de la Piel
+669672,NEUTROGENA HB GEL CLEAN 6X150ML,Cuidado Personal,Cuidado de la Piel
 669901,Pizza Hipermaxi Congelada Hawaiana 620 gr,Congelados,Masas y Comidas Congeladas
 669902,Pizza Hipermaxi Congelada Jamon Queso Light Masa Integral,Congelados,Masas y Comidas Congeladas
 669903,Pizza Hipermaxi Congelada Pepperoni 620 gr,Congelados,Masas y Comidas Congeladas
