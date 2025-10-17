@@ -1105,7 +1105,7 @@ id_producto,producto,categoria,subcategoria
 17390,Barra Cereal Picnic Chocomani 150 gr,Abarrotes,Nutrición Infantil
 17391,Alimento Primogato Blend Adulto 1 kg,Abarrotes,Mascotas
 17392,Alimento Primogato Castrado Pollo 1 kg,Abarrotes,Mascotas
-17393,Alimento Primogato Gatito Carne Leche 1 kg,Abarrotes,Mascotas
+17393,Alimento Primogato Gatito Pollo Leche 1 kg,Abarrotes,Mascotas
 17394,Gelatina Miki Chicle 250 gr,Abarrotes,Repostería
 17397,Alimento Primocao Cachorro Carne Leche 3 kg,Abarrotes,Mascotas
 17398,Alimento Primocao Adulto Carne Vegetal 3 kg,Abarrotes,Mascotas
@@ -1917,8 +1917,8 @@ id_producto,producto,categoria,subcategoria
 25466,GALLETA DELUXE CHOCOL SIN GLUTEN 115G,Abarrotes,Dietéticos y Saludables
 25467,GALLETA DELUXE CHOCOL BCO SIN GLUTEN 115,Abarrotes,Dietéticos y Saludables
 25468,GALLETA DELUXE YOGURT FRUTILLA S/G 115G,Abarrotes,Dietéticos y Saludables
-25470,GOMITA FINI HALLOWEEN CALAVERA 80G,Abarrotes,Temporada
-25471,MASTICABLE FINI HALLOWEEN REGALIZ TERROR,Abarrotes,Temporada
+25470,Gomita Fini Halloween Calavera 80 gr,Abarrotes,Temporada
+25471,Gomita Fini Halloween Terror 80 gr,Abarrotes,Temporada
 25476,MAIZ DULCE JUMBO POP PORORO 150G,Abarrotes,Snack
 25477,MAIZ DULCE JUMBO POP PORORO T FRUTTI 150,Abarrotes,Snack
 25486,CIGARRILLO BOHEM PEPINO DOUBLE 20UND,Bebidas,Cigarrillos
@@ -1927,6 +1927,8 @@ id_producto,producto,categoria,subcategoria
 25640,Surtido de Mariscos Robinson Crusoe Natural 190 gr,Abarrotes,Comidas en Conserva
 25771,Huevos Caisy 12 un,Lácteos y Derivados,Huevos
 25789,Galleta Rocklets Chocolate 118 gr,Abarrotes,Galletas
+25951,ISOTONICO ACTIVADE ZERO MANGO 600 ML,Bebidas,Isotónicos
+25952,ISOTONICO ACTIVADE ZERO SANDIA 600ML,Bebidas,Isotónicos
 25969,Galleta Gullon Gluten Free Chocolate 200 gr,Abarrotes,Dietéticos y Saludables
 26000,Habas Charito Frita 160 gr,Abarrotes,Snack
 26001,Salsa de Tomate Kris 200 gr,Abarrotes,Salsas y Extracto de Tomate
@@ -5385,7 +5387,7 @@ id_producto,producto,categoria,subcategoria
 114241,Betun Pasta Santiago Rojo 90 ml,Cuidado del Hogar,Limpieza de Zapatos
 114242,Shampoo Head Shoulders Revitalizacion Argan 180 ml,Cuidado Personal,Cuidado del Cabello
 114246,Limpiador Sapolio Limpia Todo Melon 900 ml,Cuidado del Hogar,Limpieza de Living y Ropero
-114247,Repelente Off Kids 100 gr,Cuidado del Hogar,Productos Americanos
+114247,Repelente Off Kids 100 gr,Cuidado del Bebé,Kids
 114251,Tinte Garnier Tono 7.1 Rubio Cenizo,Cuidado Personal,Cuidado del Cabello
 114252,Tinte Garnier Tono 8.1 Rubio Claro Cenizo,Cuidado Personal,Cuidado del Cabello
 114255,Labial Maybelline Matte Ink 05,Cuidado Personal,Cuidado de la Piel
@@ -11503,7 +11505,7 @@ id_producto,producto,categoria,subcategoria
 430991,Pack Fideo Lazzaroni 3x400 gr,Abarrotes,Básicos
 431001,Limpiador de Piso Ola Aromatic Bouquete de Flores 1800 ml,Cuidado del Hogar,Limpieza de Baños
 431028,Tortillas Harina De Trigo Don Taco 12 un 390 gr,Congelados,Masas y Comidas Congeladas
-431036,Tortillas Don Taco Harina de Trigo 300 gr,Congelados,Masas y Comidas Congeladas
+431036,Tortillas Don Taco Harina de Trigo 270 g,Congelados,Masas y Comidas Congeladas
 431126,Tortillas Harina De Trigo Don Taco 12 un 760 gr,Congelados,Masas y Comidas Congeladas
 431354,Oregano Cocinero 35 gr,Abarrotes,Condimentos y Legumbres
 431362,Manzanilla El Cocinero 35 gr,Abarrotes,Condimentos y Legumbres
@@ -14792,6 +14794,7 @@ id_producto,producto,categoria,subcategoria
 553452,PACK VINO KOHLBERG UNO DOS,Bebidas,Vinos y Champagne
 553453,VINO UGNI BLANC KOHLBERG UNO 750 ML,Bebidas,Vinos y Champagne
 553454,JUGO NARANJADA DEL CAMPO BOT 2L,Bebidas,"Jugos, Néctar"
+553455,GALLETAS DULCES MANTEQUILLA ESTILO DANES 340GR,Abarrotes,Productos Americanos
 553456,GOMITAS SORPRESA MIX SABOR SODA 60GR,Abarrotes,Productos Americanos
 553457,GOMITAS SORPRESA MIX SABOR FRUTAS 60GR,Abarrotes,Productos Americanos
 553458,GOMITAS PELABLES SABOR LICHI 75GR,Abarrotes,Productos Americanos
@@ -15979,6 +15982,7 @@ id_producto,producto,categoria,subcategoria
 629821,SODA SPRITE CHERRY LIMA 355ML,Bebidas,Bebidas Usa
 629822,SODA SPRITE SABOR LIMON Y TE 355ML,Bebidas,Bebidas Usa
 629824,CEREAL LIFE COPOS DE MAIZ AMARILLO 510GR,Abarrotes,Productos Americanos
+629827,CEREAL LIFE INTEGRAL TOSTADO 340GR,Abarrotes,Productos Americanos
 630010,Alimento Pedigree Cachorro 1.5 kg,Abarrotes,Mascotas
 630011,Gaseosa Crush Piña 355 ml,Bebidas,Bebidas Usa
 630012,Cereal Kelloggs Cocoa Krispies 439 gr,Abarrotes,Productos Americanos
@@ -16210,7 +16214,7 @@ id_producto,producto,categoria,subcategoria
 650125,Ajo Andes Molido 40 gr,Abarrotes,Condimentos y Legumbres
 650129,Ajonjoli Andes 50 gr,Abarrotes,Condimentos y Legumbres
 650135,Anis Andes 35 gr,Abarrotes,Condimentos y Legumbres
-650142,Leche Delizia Frutilla 140 ml,Lácteos y Derivados,Leches
+650142,Leche Delizia Frutilla 120 ml,Lácteos y Derivados,Leches
 650145,Canela Andes Entera 16 gr,Abarrotes,Condimentos y Legumbres
 650149,Canela Andes Molida 16 gr,Abarrotes,Condimentos y Legumbres
 650155,Clavo de Olor Andes Entero 25 gr,Abarrotes,Condimentos y Legumbres
@@ -17863,7 +17867,7 @@ id_producto,producto,categoria,subcategoria
 667002,Barra Cereal Mix Arcor Yogurt Frutilla 28 gr,Abarrotes,Golosinas - Varias
 667100,Alcohol Jamsa Lavanda 360 ml,Cuidado Personal,Cuidado de la Piel
 667101,Pañuelo Facial Elite Aloe Vera Disney,Cuidado Personal,Cuidado Familiar
-667110,Detergente Polvo Uno Limon 2.1 kg,Cuidado del Hogar,Limpieza de la Ropa
+667110,Detergente Polvo Uno Limon 1.8  kg,Cuidado del Hogar,Limpieza de la Ropa
 667111,Detergente Polvo Uno Floral 2 kg,Cuidado del Hogar,Limpieza de la Ropa
 667112,Detergente Polvo Uno Limon 3.8 kg,Cuidado del Hogar,Limpieza de la Ropa
 667113,Detergente Polvo Uno Floral 3.8 kg,Cuidado del Hogar,Limpieza de la Ropa
@@ -19212,7 +19216,7 @@ id_producto,producto,categoria,subcategoria
 671273,Yogurt Griego Colinas del Sol 180 gr,Lácteos y Derivados,Yogures
 671274,Yogurt Griego Colinas del Sol sin Azucar 450 gr,Lácteos y Derivados,Yogures
 671281,PANETON EXTRA FINO LA FRANCESA BOLSA 610 GRAMOS,Panadería,Panadería Externa
-671282,PANETON EXTRA FINO LA FRANCESA CJA 750 GR,Panadería,Panadería Externa
+671282,PANETON EXTRA FINO LA FRANCESA CJA 750 G,Panadería,Panadería Externa
 671285,Tocino Ahumado Dac Picado Laminado kg,Fiambres,Fiambres Externos
 671292,Chorizo Viena Carne Pio Rico kg,Fiambres,Fiambres Externos
 671315,Huevos Frescos Mrm 24 un,Lácteos y Derivados,Huevos
@@ -20613,7 +20617,7 @@ id_producto,producto,categoria,subcategoria
 674594,Nectar Pura Vida Tamarindo 2 L,Bebidas,"Jugos, Néctar"
 674595,LECHE CON CHOCOLATE DELIZIA 140ML,Lácteos y Derivados,Leches
 674596,LECHE CON AVENA DELIZIA 140ML,Lácteos y Derivados,Leches
-674597,LECHE SABOR FRUTILLA DELIZIA 140ML,Lácteos y Derivados,Leches
+674597,Leche Delizia Frutilla 140 ml,Lácteos y Derivados,Leches
 674598,QUESO MOZZARELLA SAN ANDRES 410GRS,Lácteos y Derivados,Quesos
 674599,YOGURT GALAKTOS TIPO GRIEGO 0 AZUCAR DURAZNO 500GRS,Lácteos y Derivados,Yogures
 674600,YOGURT GALAKTOS TIPO GRIEGO 0 AZUCAR MORA 500GRS,Lácteos y Derivados,Yogures
@@ -22592,6 +22596,8 @@ id_producto,producto,categoria,subcategoria
 809560,Tapper de Vidrio Tapa Hermética 800 ml,Bazar Importación,Menaje Vidrio/Cristal
 809590,Alimento Dog Chow Adulto Carne Pollo Mediano Grande 3 kg,Abarrotes,Mascotas
 809732,Tomatodo Luya de Vidrio 500 cc,Bazar Importación,Menaje Vidrio/Cristal
+809871,Grillete Halloween 57x15 cm,Bazar Importación,Temporada Halloween
+809889,Vincha Halloween Telaraña con Ojos,Bazar Importación,Temporada Halloween
 810053,Crema Ponds Clarante Piel Seca 100 gr,Cuidado Personal,Cuidado de la Piel
 810060,Locion Ponds Dual Biohidratacion 200 ml,Cuidado Personal,Cuidado de la Piel
 810342,Lavandina Super 1 L,Cuidado del Hogar,Limpieza de la Ropa
@@ -22606,7 +22612,7 @@ id_producto,producto,categoria,subcategoria
 813183,Enjuague Bucal Dento Menta Glacial 250 ml,Cuidado Personal,Cuidado Bucal
 813624,Plastico Adherente Diamond 200 ft,Bazar,Articulos de Cocina
 814324,Limpiador Desinfectante Ola Aromatic Bosques Pino 900 ml,Cuidado del Hogar,Limpieza de Baños
-815142,CH 9160 VASOS TEQUILEROS X6 HALLOWEEN,Bazar Importación,Temporada Halloween
+815142,Vasos Tequileros Halloween 6 un,Bazar Importación,Temporada Halloween
 816419,Tempero Zaeli Completo con Pimienta 300 gr,Abarrotes,Condimentos y Legumbres
 816439,La Gotita Negra 2 ml,Bazar,Librería
 816617,Caramelo Wonka Grape Strawberries 46.7 gr,Abarrotes,Golosinas - Varias
@@ -22894,8 +22900,8 @@ id_producto,producto,categoria,subcategoria
 835700,Bollo Grande Especial al Vacio kg,Carnes,Carne de Res
 835716,CH N25 18 ARANA HALLOWEEN SET X2 14X6CM,Bazar Importación,Temporada Halloween
 835720,Set Bombillas Halloween 6 un,Bazar Importación,Temporada Halloween
-835721,CH J30 4 DISFRAZ HALLOWEEN SURTIDO P NINOS,Bazar Importación,Temporada Halloween
-835722,CH N25 9 COPA HALLOWEEN 4 COLORES 18X9CM,Bazar Importación,Temporada Halloween
+835721,Disfraz Halloween Surtido,Bazar Importación,Temporada Halloween
+835722,Copa Halloween 4 Colores 18x9 cm,Bazar Importación,Temporada Halloween
 835730,CH N25 16 ADORNO ARANA SET X 2 10X6CM,Bazar Importación,Temporada Halloween
 835737,CH N25 3 BALDE CALABAZA HALLOWEEN 18X12CM,Bazar Importación,Temporada Halloween
 835750,TORTUGUITA 1KG AL VACIO,Carnes,Carne de Res
@@ -23163,7 +23169,7 @@ id_producto,producto,categoria,subcategoria
 843246,Espatula Alargada de Bambu con Mango,Bazar Importación,Cocina General
 843304,Licuadora Premier 3 en 1,Bazar,Electrodoméstico/Línea Blanca-Hogar
 843309,Termoventilador Briara HEATER 2204,Bazar,Electrodoméstico/Línea Blanca-Hogar
-843315,JAN GLOBOS C/SERIGRAFIA LATEX 17,Bazar,Temporada Halloween
+843315,Globos Halloween,Bazar,Temporada Halloween
 843326,Six Pack Cerveza Paceña 269 ml,Bebidas,Cervezas
 843365,Cuchara Betty Crocker Pasta Spaghetti,Bazar Importación,Cocina General
 843366,Colador Betty Crocker,Bazar Importación,Cocina General
@@ -23251,9 +23257,9 @@ id_producto,producto,categoria,subcategoria
 846178,CH Y582 ADORNO PAPA NOEL MUNECO DE NIEVE CON LUZ 8X7X12CM,Bazar Importación,Temporada Navidad
 846182,Posa Cuchara Navideña Papa Noel 22x7 cm,Bazar Importación,Temporada Navidad
 846184,Galletero Navideño Papa Noel,Bazar Importación,Temporada Navidad
-846190,CH 2521 BALDE HALLOWEEN CON FORMA DE CALABAZA 4 COLORES,Bazar Importación,Temporada Halloween
+846190,Balde Halloween Calabaza Surtido,Bazar Importación,Temporada Halloween
 846200,Adorno Halloween Juego de Dedos Ojos Araña,Bazar Importación,Temporada Halloween
-846205,CH 25 36 BOMBILLA HALLOWEEN CON CALAVERAS SET X 5 PZAS,Bazar Importación,Temporada Halloween
+846205,Bombilla Halloween con Calabazas 5 un,Bazar Importación,Temporada Halloween
 846206,CH 25 37 VINCHA CON CUERNOS ROJOS HALLOWEEN TAMANO 20X13CM,Bazar Importación,Temporada Halloween
 846219,CH Y64 3 ADORNO NAVIDENO RACIMO DE UVAS COLOR DORADO 3 6CM,Bazar Importación,Temporada Navidad
 846220,CH Y64 4 ADORNO NAVIDENO RACIMO DE UVAS COLOR MORADO 3 6CM,Bazar Importación,Temporada Navidad
@@ -23665,7 +23671,7 @@ id_producto,producto,categoria,subcategoria
 852099,Margarina Reyna 215 gr,Lácteos y Derivados,Mantequillas y Margarinas
 852165,JUEGO MESA 4 EN 1  BOLIVMAR,Juguetería,Juguetería Didáctica/Temporada
 852173,Margarina Reyna Valle 850 gr,Lácteos y Derivados,Mantequillas y Margarinas
-852268,CH 34 3 ESCOBA DE BRUJA TAMANO 1 16M,Bazar Importación,Temporada Halloween
+852268,Escoba de Bruja,Bazar Importación,Temporada Halloween
 852269,CH 34 4 MUNECO CALAVERA HALLOWEEN MUSICAL 52CM,Bazar Importación,Temporada Halloween
 852270,Espuma Carnavalera Alegria 500 ml,Bazar,Temporada Carnaval
 852272,CH 34 5 MUNECO CALAVERA HALLOWEEN MUSICAL 52CM A PILAS,Bazar Importación,Temporada Halloween
@@ -23679,7 +23685,7 @@ id_producto,producto,categoria,subcategoria
 852432,Muñeca con Vestido,Juguetería Importación,Juguetería Niña/Bebé
 852437,Juguete Muñeca Bebe con Biberon,Juguetería Importación,Juguetería Niño/Bebé
 852453,Juguete Pistola Electrica,Juguetería Importación,Juguetería Niño/Bebé
-852482,CH 24 6 MASCARA CALABAZA HALLOWEEN TAMANO 25CM,Bazar Importación,Temporada Halloween
+852482,Mascara Halloween Calabaza 25 cm,Bazar Importación,Temporada Halloween
 852483,CH 24 6 MASCARA HALLOWEEN TAMANO 26CM,Bazar Importación,Temporada Halloween
 852485,CH 24 8 MASCARA DIABLO HALLOWEEN 30CM,Bazar Importación,Temporada Halloween
 852486,CH 24 10 MASCARA JUEGO DEL CALAMAR HALLOWEEN 25CM,Bazar Importación,Temporada Halloween
@@ -24021,28 +24027,28 @@ id_producto,producto,categoria,subcategoria
 857026,CH 34 5 MASCARA CALAVERA CON CABELLO NARANJA 23X20CM,Bazar Importación,Temporada Halloween
 857027,CH 34 6 MASCARA CALABAZA HALLOWEEN 34X18,Bazar Importación,Temporada Halloween
 857028,CH 34 7 MASCARA HALLOWEEN 22X22CM,Bazar Importación,Temporada Halloween
-857030,CH 34 9 BALDE CALABAZA NARANJA 16X13CM,Bazar Importación,Temporada Halloween
+857030,Balde Calabaza Naranja 16x13 cm,Bazar Importación,Temporada Halloween
 857031,CH 34 10 SOMBRERO DE BRUJA HALLOWEEN 31X18CM,Bazar Importación,Temporada Halloween
 857032,CH 34 11 SOMBRERO DE BRUJA HALLOWEEN  33X38CM,Bazar Importación,Temporada Halloween
 857033,CH 34 13 COPA HALLOWEEN CON LUZ A PILAS 250ML,Bazar Importación,Temporada Halloween
-857035,CH 34 14 VASO CALAVERA TRANSPARENTE CON LUZ A PILAS 75ML,Bazar Importación,Temporada Halloween
-857036,CH 34 15 VASO CALAVERA COLORES SURTIDOS,Bazar Importación,Temporada Halloween
-857037,CH 34 16 CALABAZA HALLOWEEN BICOLOR CON LUZ A PILAS,Bazar Importación,Temporada Halloween
-857038,CH 34 17 CALABAZA HALLOWEEN COLOR NARANJA CON LUZ A PILAS,Bazar Importación,Temporada Halloween
-857039,CH 34 18 CANDELABRO CALABAZA Y FANTASMA CON LUCES A PILAS,Bazar Importación,Temporada Halloween
+857035,Vaso Calavera Trasparente 75 ml,Bazar Importación,Temporada Halloween
+857036,Vaso Calavera Color Surtido,Bazar Importación,Temporada Halloween
+857037,Calabaza Halloween Bicolor con Luz,Bazar Importación,Temporada Halloween
+857038,Calabaza Halloween Con Luz,Bazar Importación,Temporada Halloween
+857039,Candelabro Calabaza y Fantasma con Luz,Bazar Importación,Temporada Halloween
 857040,GALLETA OREO COCA COLA 216 GR,Abarrotes,Galletas
 857041,CH 34 19 LAMPARA CALABAZA Y FANTASMA CON LUCES A PILAS,Bazar Importación,Temporada Halloween
 857042,CH 34 20 LAMPARA CALABAZA Y TELARANA CON LUCES A PILAS,Bazar Importación,Temporada Halloween
 857043,CH 34 21 CANDELABRO ESQUELETO CON LUCES A PILAS 28X13CM,Bazar Importación,Temporada Halloween
 857044,CH 34 22 ADORNO ARANA CON OJO HALLOWEN A PILAS,Bazar Importación,Temporada Halloween
-857045,CH 34 23 ADORNO MANO ESQUELETO CON LUZ A PILAS,Bazar Importación,Temporada Halloween
+857045,Adorno Halloween Mano Esqueleto,Bazar Importación,Temporada Halloween
 857046,CH 34 24 FANTASMA HALLOWEEN A PILAS 6X3CM,Bazar Importación,Temporada Halloween
 857047,CH 34 25 VINCHA BOTELLA HALLOWEEN 33X15,Bazar Importación,Temporada Halloween
 857048,CH 34 26 VINCHA LLAVE STILSON HALLOWEEN 33X15CM,Bazar Importación,Temporada Halloween
-857050,CH 34 27 VINCHA CUCHILLO DE COCINA HALLOWEEN,Bazar Importación,Temporada Halloween
+857050,Vincha Halloween Cuchillo de Cocina,Bazar Importación,Temporada Halloween
 857051,CH 34 28 VINCHA HACHA DE COCINA HALLOWEEN,Bazar Importación,Temporada Halloween
-857052,CH 34 29 VINCHA LLAVE INGLESA HALLOWEENN,Bazar Importación,Temporada Halloween
-857053,CH 34 30 VINCHA LLAVE STILSON HALLOWEEN GRIS S,Bazar Importación,Temporada Halloween
+857052,Vincha Halloween Llave Inglesa,Bazar Importación,Temporada Halloween
+857053,Vincha Halloween Llave Stilon,Bazar Importación,Temporada Halloween
 857054,ALCAPARRA GOYA SPANISH CAPERS 2 OZ,Abarrotes,Verduras en Conserva
 857055,CH 34 31 VINCHA SERRUCHO HALLOWEEN,Bazar Importación,Temporada Halloween
 857056,CH 34 33 ADORNO ARANA PARA DULCES,Bazar Importación,Temporada Halloween
@@ -24068,21 +24074,21 @@ id_producto,producto,categoria,subcategoria
 857082,CH 34 56 LAMPARA COLGANTE ARANA,Bazar Importación,Temporada Halloween
 857083,CH 34 57 LAMPARA COLGANTE LAPIDA,Bazar Importación,Temporada Halloween
 857084,CH 34 58 ADORNO SURTIDO HALLOWEEN SET X5 PZAS,Bazar Importación,Temporada Halloween
-857085,CH 34 59 ADORNO ESQUELETOS HALLOWEEN  SET X2PZAS,Bazar Importación,Temporada Halloween
+857085,Set Adorno Halloween Esqueletos 2 un,Bazar Importación,Temporada Halloween
 857086,CH 34 60 DEDOS DE BRUJA FLUORESCENTE SET X10PZAS,Bazar Importación,Temporada Halloween
-857087,CH 34 61 ADORNO ARANA HALLOWEEN SET X6PZA,Bazar Importación,Temporada Halloween
+857087,Set Adorno Arañas Halloween 6 un,Bazar Importación,Temporada Halloween
 857088,CH 34 62 GUADANA HALLOWEEN 100X35CM,Bazar Importación,Temporada Halloween
 857090,CH 34 63 HACHA LARGA HALLOWEEN 100X15CM,Bazar Importación,Temporada Halloween
 857091,CH 34 64 MACHETE HALLOWEEN GRANDE 72X8CM,Bazar Importación,Temporada Halloween
-857092,CH 34 66 ARANA PELUDA HALLOWEEN 45CM,Bazar Importación,Temporada Halloween
+857092,Araña Halloween 45 cm,Bazar Importación,Temporada Halloween
 857093,CH 34 67 ADORNO TELARANA HALLOWEEN 150CM,Bazar Importación,Temporada Halloween
 857095,CH 34 68 ESQUELETO HALLOWEEN SET X10PZAS 15X5CM,Bazar Importación,Temporada Halloween
 857096,CH 34 69 VINCHA CALABAZAS CON LUZ A PILAS 25X20CM,Bazar Importación,Temporada Halloween
-857097,CH 34 70 VINCHA CALABAZAS HALLOWEEN CON LUZ A PILAS,Bazar Importación,Temporada Halloween
+857097,Vincha Halloween Calabazas,Bazar Importación,Temporada Halloween
 857098,CH 34 71 VINCHA CALABERAS HALLOWEEN CON LUZ A PILAS,Bazar Importación,Temporada Halloween
 857099,CH S1 3 ESQUELETO FLUORESCENTE HALLOWEEN SET X4PZAS,Bazar Importación,Temporada Halloween
 857100,CH S1 4 ADORNO TELARANA ARANA HALLOWEEN,Bazar Importación,Temporada Halloween
-857101,CH S1 5 MURCIELAGOS HALLOWEEN SET X6PZAS,Bazar Importación,Temporada Halloween
+857101,Set Murcielagos Halloween 6 un,Bazar Importación,Temporada Halloween
 857102,CH J1 46 TAZA MANO ESQUELETO COLOR NEGRO 250ML,Bazar Importación,Temporada Halloween
 857104,CH J1 47 TAZA FANTASMA BOO  NEGRO Y NARANJA 250ML,Bazar Importación,Temporada Halloween
 857105,CH J1 48 TAZA CALDERO CON TELARANA 200ML,Bazar Importación,Temporada Halloween
@@ -24623,7 +24629,7 @@ id_producto,producto,categoria,subcategoria
 869154,Encendedor Ronson Recargable,Bazar,Churrasquería
 869191,CH V4 13 JARRA DE VIDRIO CON TAPA BLANCA 1 1L,Bazar Importación,Menaje Vidrio/Cristal
 869217,JAN CORTINA HALLOWEN  14,Bazar,Temporada Halloween
-869218,JAN ADORNO ESQUELETO HALLOWEN 12,Bazar,Temporada Halloween
+869218,Adorno Halloween,Bazar,Temporada Halloween
 869222,JAN MASCARA HALLOWEN  25,Bazar,Temporada Halloween
 869223,JAN MASCARA HALLOWEN SCARI 20,Bazar,Temporada Halloween
 869304,JAN  PORTA BOTELLA NAVIDAD  23,Bazar,Temporada Navidad
@@ -24982,7 +24988,7 @@ id_producto,producto,categoria,subcategoria
 887400,PAT JUGUTE GATO +PALO  23,Bazar,Mascotas General
 887425,SARTEN MASALA BRINOX 24X5,Bazar,Articulos de Cocina
 887429,TERMO REVOLUTION 1LT TERMOLAR CAFE,Bazar,Articulos de Cocina
-887472,JAN ADORNO BRUJA ESCOBA  20,Bazar,Temporada Halloween
+887472,Adorno Halloween Bruja Escoba,Bazar,Temporada Halloween
 887478,JAN ADORNO FANTASMA PAPEL 25,Bazar,Temporada Halloween
 887555,JAN GLOBO INFLABLE 2025 BS 20,Bazar,Temporada Halloween
 887574,JAN VINCHAS HALLOWEN 25,Bazar,Temporada Halloween
@@ -25405,6 +25411,7 @@ id_producto,producto,categoria,subcategoria
 925969,Grapa,Bazar,Librería
 926104,Raticida Ratitane Cebo 100 gr,Cuidado del Hogar,Insecticidas
 926106,Espiral Titane Mata Mosquito 150 gr,Cuidado del Hogar,Insecticidas
+926860,Taza de Ceramica Halloween,Bazar,Menaje Porcelana/Cerámica
 927057,Mondadiente Fiat Lux 100 un,Bazar,Churrasquería
 927339,Garrafa Infantil,Bazar,Menaje Plástico
 927392,Marcadores Permanente 5 un,Bazar Importación,Librería
@@ -25756,6 +25763,7 @@ id_producto,producto,categoria,subcategoria
 993978,Plato Hondo Diamante Cristalino,Bazar,Menaje Vidrio/Cristal
 993979,Plato Plano Diamante Cristalino,Bazar,Menaje Vidrio/Cristal
 994819,Brintec Par,Cuidado del Hogar,Limpieza de Zapatos
+995047,SUPER TERMO TERMOLAR 5 LT,Bazar,Camping General
 995109,Vasoo Capri X Capri 1recuentre  X,Bazar,Menaje Vidrio/Cristal
 995277,FRE.CAJA P/FREEZER/MICROONDAS 450ML.,Bazar,Menaje Plástico
 995278,FRE.CAJA FREEZER/MICROONDA 1.8LT,Bazar,Menaje Plástico
