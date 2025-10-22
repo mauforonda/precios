@@ -7,7 +7,6 @@ import datetime as dt
 from pytz import timezone
 import os
 from time import time
-import sys
 
 requests.packages.urllib3.disable_warnings()
 
@@ -75,6 +74,8 @@ def construirHeaders():
         "Pragma": "no-cache",
         "Cache-Control": "no-cache",
     }
+
+    return bare_headers
 
     print("preparando sesión ...")
     codigo, token = conseguirToken()
@@ -177,12 +178,7 @@ def consultarPrecios(sesion, sucursal):
                 },
                 timeout=TIMEOUT,
             )
-            try:
-                listado = response.json()["Dato"]
-            except Exception as e:
-                print(e)
-                print(response.text)
-                sys.exit()
+            listado = response.json()["Dato"]
             if listado:
                 categoria_data.extend(
                     [
@@ -267,9 +263,8 @@ def crearSesion(headers={}):
 
 def main():
     inicio = time()
-    # headers = construirHeaders()
-    # with crearSesion(headers) as sesion:
-    with crearSesion() as sesion:
+    headers = construirHeaders()
+    with crearSesion(headers) as sesion:
         # sucursales = actualizarSucursales(sesion)
         for ciudad, sucursal in sucursales_representativas.items():
             print(f"\nconsultando precios en {ciudad} ...\n")
