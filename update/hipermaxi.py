@@ -24,7 +24,10 @@ TIMEOUT = 10
 def construirHeaders():
     def conseguirMain():
         response = requests.get(
-            "https://www.hipermaxi.com", verify=False, timeout=TIMEOUT, headers=bare_headers
+            "https://www.hipermaxi.com",
+            verify=False,
+            timeout=TIMEOUT,
+            headers=bare_headers,
         )
         js = re.findall(r"src=\"\/static\/js\/(main.+\.js)\">", response.text)[0]
         response = requests.get(
@@ -35,7 +38,6 @@ def construirHeaders():
         )
         return response.text
 
-
     def conseguirToken():
         response = requests.put(
             "https://hipermaxi.com/tienda-api/api/v1/CuentasMarket/Anonimo-Por-Token",
@@ -44,7 +46,6 @@ def construirHeaders():
             headers=bare_headers,
         )
         return [response.json()["Dato"][i] for i in ["Codigo", "Token"]]
-
 
     def conseguirAplicacion():
         main = conseguirMain()
@@ -97,7 +98,8 @@ def construirHeaders():
             authorization=f"Bearer {bearer}",
             origin="https://hipermaxi.com",
             referer="https://hipermaxi.com",
-        ), **bare_headers
+        ),
+        **bare_headers,
     }
 
 
@@ -164,7 +166,7 @@ def consultarPrecios(sesion, sucursal):
         pagina = 1
         while True:
             response = sesion.get(
-                "https://hipermaxi.com/tienda-api/api/v1/productos",
+                "https://hipermaxi.com/tienda-api/api/v1/public/productos",
                 params={
                     "IdMarket": sucursal,
                     "IdCategoria": subcategoria["id_categoria"],
@@ -231,7 +233,7 @@ def consolidar(precios, ciudad):
     def consolidarPrecios(precios, ciudad):
         columnas = ["fecha", "id_producto", "precio", "oferta"]
         hoy = dt.datetime.now(timezone("America/La_Paz")).date()
-        path_precios = f"{hipermaxi}/{ciudad}/{hoy.strftime("%Y_%m")}.csv"
+        path_precios = f"{hipermaxi}/{ciudad}/{hoy.strftime('%Y_%m')}.csv"
         precios.insert(0, "fecha", pd.to_datetime(hoy))
         if os.path.exists(path_precios):
             tabla = pd.concat(
@@ -246,9 +248,11 @@ def consolidar(precios, ciudad):
     consolidarProductos(precios)
     consolidarPrecios(precios, ciudad)
 
-def crearSesion(headers):
+
+def crearSesion(headers={}):
     sesion = requests.Session()
-    sesion.headers.update(headers)
+    if headers:
+        sesion.headers.update(headers)
     sesion.mount("http://", requests.adapters.HTTPAdapter(max_retries=3))
     sesion.mount("https://", requests.adapters.HTTPAdapter(max_retries=3))
     sesion.verify = False
@@ -257,9 +261,10 @@ def crearSesion(headers):
 
 def main():
     inicio = time()
-    headers = construirHeaders()
-    with crearSesion(headers) as sesion:
-        sucursales = actualizarSucursales(sesion)
+    # headers = construirHeaders()
+    # with crearSesion(headers) as sesion:
+    with crearSesion() as sesion:
+        # sucursales = actualizarSucursales(sesion)
         for ciudad, sucursal in sucursales_representativas.items():
             print(f"\nconsultando precios en {ciudad} ...\n")
             precios = consultarPrecios(sesion, sucursal)
