@@ -667,7 +667,7 @@ id_producto,producto,categoria,subcategoria
 14351,Aceite de Soya La Patrona 1.9 L,Abarrotes,Básicos
 14353,Gergelim Jasmine Integral 150 gr,Abarrotes,Nutrición Infantil
 14355,Vino Espumante Salton Rose 750 ml,Bebidas,Vinos y Champagne
-14357,Cerveza Skol Golden 300 ml,Bebidas,Cervezas
+14357,Cerveza Skol Golden 300 ml CBN,Bebidas,Cervezas
 14358,Cerveza Skol Golden 269 ml CBN,Bebidas,Cervezas
 14359,Isotonico Sante Sandia Zero 500 ml,Bebidas,Isotónicos
 14361,Gaseosa Schweppes Ginger Ale 990 ml,Bebidas,Gaseosas
@@ -1774,6 +1774,8 @@ id_producto,producto,categoria,subcategoria
 25212,SNACK SALADIX PICANA BSA 26G,Abarrotes,Snack
 25213,SNACK SALADIX POPS BSA 30G,Abarrotes,Snack
 25214,SNACK SALADIX CHIZZIDIX BSA 27G,Abarrotes,Snack
+25221,VINO BOLIVAR MOSCATEL BLUE 750 ML,Bebidas,Vinos y Champagne
+25222,VINO VILTE BLENS MUJERES BCO 750ML,Bebidas,Vinos y Champagne
 25223,MATE PARIS MANZANILLA 20SAQ,Abarrotes,Café y Sucedáneos
 25224,AJO MOLIDO DAMABRAVA FCO 100G,Abarrotes,Condimentos y Legumbres
 25225,CANELA MOLIDA DAMABRAVA FCO 66G,Abarrotes,Condimentos y Legumbres
@@ -1924,11 +1926,17 @@ id_producto,producto,categoria,subcategoria
 25468,GALLETA DELUXE YOGURT FRUTILLA S/G 115G,Abarrotes,Dietéticos y Saludables
 25470,Gomita Fini Halloween Calavera 80 gr,Abarrotes,Temporada
 25471,Gomita Fini Halloween Terror 80 gr,Abarrotes,Temporada
+25472,VINO VILTE CUEVA D ZORRO TTO 700ML,Bebidas,Vinos y Champagne
+25473,VINO VILTE CUEVA D ZORRO BCO 700ML,Bebidas,Vinos y Champagne
+25474,VINO VILTE KARMA TANNAT 750ML,Bebidas,Vinos y Champagne
+25475,VINO VILTE KARMA SYRAH 750ML,Bebidas,Vinos y Champagne
 25476,MAIZ DULCE JUMBO POP PORORO 150G,Abarrotes,Snack
 25477,MAIZ DULCE JUMBO POP PORORO T FRUTTI 150,Abarrotes,Snack
+25483,VODKA VORUS TROPICAL BOT 1LT,Bebidas,Licores
 25486,CIGARRILLO BOHEM PEPINO DOUBLE 20UND,Bebidas,Cigarrillos
 25487,CIGARRILLO BOHEM SANDIA DOUBLE 20UND,Bebidas,Cigarrillos
 25488,CIGARRILLO BOHEM TUNDRA DOUBLE 20UND,Bebidas,Cigarrillos
+25494,CERVEZA BENDITA PILS LTA 310 ML,Bebidas,Cervezas
 25496,SIXPACK MANDALA PINK LEMON 6X200ML,Bebidas,Bebidas Varias
 25640,Surtido de Mariscos Robinson Crusoe Natural 190 gr,Abarrotes,Comidas en Conserva
 25771,Huevos Caisy 12 un,Lácteos y Derivados,Huevos
@@ -7970,6 +7978,7 @@ id_producto,producto,categoria,subcategoria
 228089,JABON EN ESPUMA FLORES BLANCAS REVIVE 25,Cuidado Personal,Cuidado de la Piel
 228090,JABON EN ESPUMA HERBAL FRESH REVIVE 250,Cuidado Personal,Cuidado de la Piel
 228091,BOLSA MAGIA VERDE 60X63 35LT,Cuidado del Hogar,Accesorios del Hogar
+228092,LAPIZ VOGUE EN GEL RESIST,Cuidado Personal,Cuidado de la Piel
 228099,ACONDC CARLA LORENA FRUTILLA 350 ML,Cuidado Personal,Cuidado del Cabello
 228100,PACK PAPEL FINESSE FAMILIS 32+6 UNDS,Cuidado Personal,Cuidado Familiar
 228101,CREMA D PEINAR BELMED BOTOX 320 GR,Cuidado Personal,Cuidado del Cabello
@@ -8571,7 +8580,7 @@ id_producto,producto,categoria,subcategoria
 240783,Detergente Liquido Urca Maxx Lavanda 1 L,Cuidado del Hogar,Limpieza de la Ropa
 240793,Toallas Higienicas LadySoft Alas 10 un,Cuidado Personal,Cuidado Familiar
 240794,Toalla Higienica LadySoft Ala Nocturna 10 un,Cuidado Personal,Cuidado Familiar
-240797,Paño Esponja Celilose Wipes 3 un,Cuidado del Hogar,Accesorios del Hogar
+240797,Paño Esponja Celulosa Magic Bob 3 Un,Cuidado del Hogar,Accesorios del Hogar
 240802,Crema Anti Celulitis Simonds Reductora,Cuidado Personal,Cuidado de la Piel
 240803,PACK DISCO DE ALGODON SEPTONA 70X3PZA,Cuidado Personal,Cuidado de la Piel
 240804,SHAMPOO ALGABO ACAI ROMERO 750 ML,Cuidado Personal,Cuidado del Cabello
@@ -10555,6 +10564,7 @@ id_producto,producto,categoria,subcategoria
 363030,Aceite Oliva Gallo Extra Virgen 500 ml,Abarrotes,Básicos
 363049,Galleta Noel Ducales 312 gr,Abarrotes,Galletas
 363073,Vino Rose Mateus 750 ml,Bebidas,Vinos y Champagne
+363090,VINO PORTO FERREIRA TAWNY 750 ML,Bebidas,Vinos y Champagne
 363103,VINO PORTO FERREIRA RUBY 750 ML,Bebidas,Vinos y Champagne
 363110,Fibra Nutrinat Digestiva 500 gr,Abarrotes,Dietéticos y Saludables
 363111,Vino Gazela Verde 750 ml,Bebidas,Vinos y Champagne
@@ -11492,6 +11502,7 @@ id_producto,producto,categoria,subcategoria
 430210,Cereal con Almendra Honey Bunch 1360 gr,Abarrotes,Productos Americanos
 430220,Crema Facial Sabila Siloe 250 gr,Cuidado Personal,Cuidado de la Piel
 430221,CREMA FACIAL SABILA SILOE 120 GR.,Cuidado Personal,Cuidado de la Piel
+430222,GEL FIJADOR FUERTE SABILA SILOE 500 GR.,Cuidado Personal,Cuidado del Cabello
 430224,Crema Capilar Siloe Masaje Cebolla 250 gr,Cuidado Personal,Cuidado del Cabello
 430225,CREMA MASAJE CAPILAR SABILA/PENCA 500GR,Cuidado Personal,Cuidado del Cabello
 430227,CREMA MASAJE CAPILAR MIEL/PALTA 500GR.,Cuidado Personal,Cuidado del Cabello
@@ -14487,6 +14498,7 @@ id_producto,producto,categoria,subcategoria
 553075,Chocolate Garoto Chocotrio Prestigio,Abarrotes,Chocolates y Caramelos
 553076,Malvavisco Guandy Rosa Blanco Chocolate 225 gr,Abarrotes,Chocolates y Caramelos
 553077,Galleta Costa Chocodonuts 204 gr,Abarrotes,Galletas
+553078,Alimento Faro Carne Pollo Raza Pequeña 2 kg,Abarrotes,Mascotas
 553079,Alimento Faro Carne Pollo vegetales Raza Mediana,Abarrotes,Mascotas
 553080,Alimento Faro Carne Pollo Vegetales Raza Pequeña,Abarrotes,Mascotas
 553081,Alimento Faro Carne Pollo Vegetales Raza Mediana,Abarrotes,Mascotas
@@ -18172,6 +18184,8 @@ id_producto,producto,categoria,subcategoria
 667910,Jabon Liquido Hanbel Tulipan Granada,Cuidado Personal,Cuidado de la Piel
 667911,Shampoo Selfy Bebe 2 en 1 Doypack 900 gr,Cuidado Personal,Cuidado del Cabello
 667912,Shampoo Selfy Bebe Manzanilla 900 gr,Cuidado Personal,Cuidado del Cabello
+667913,Jabon Liquido Han Bel Doy Pack Antibacterial,Cuidado Personal,Cuidado de la Piel
+667914,JABON LIQUIDO HAN BEL DOY PACK DAMASCO Y,Cuidado Personal,Cuidado de la Piel
 667915,Shampoo Selfy Antibacterial 1000 ml,Cuidado Personal,Cuidado del Cabello
 667916,Desodorante Barra Old Spice Pack 3 un 50 gr,Cuidado Personal,Cuidado de la Piel
 667917,Pack Desodorante Aerosol Oldspice Leña 2 un 150 ml,Cuidado Personal,Cuidado de la Piel
@@ -18918,7 +18932,11 @@ id_producto,producto,categoria,subcategoria
 669710,PACK VAJILL LIMON1050+GUANTMULT M BRI,Cuidado del Hogar,Limpieza de Cocina
 669711,LAVAVAJILLASFLORES Y COLAG BRISTAR 600 M,Cuidado del Hogar,Limpieza de Cocina
 669712,PACK 2 TOALEX ROLLO BLANCO,Cuidado del Hogar,Limpieza de Cocina
-669717,PAÑO SECADOR PATY VAJILLA,Cuidado del Hogar,Accesorios del Hogar
+669713,PANO CAROL CUBIERTOS MESA 67CMX40CM,Cuidado del Hogar,Accesorios del Hogar
+669714,PANO GOLD A CUADROS 70X50 CM,Cuidado del Hogar,Accesorios del Hogar
+669715,PANO PLATA A CUADROS 70X45 CM,Cuidado del Hogar,Accesorios del Hogar
+669717,PANO PATY SECADOR VAJILLA 65X45 CM,Cuidado del Hogar,Accesorios del Hogar
+669719,PACK DOWNY AMANECER+EXOTICO 360ML,Cuidado del Hogar,Limpieza de la Ropa
 669720,PACK DOWNY FLORAL+EXOTICO 1400ML,Cuidado del Hogar,Limpieza de la Ropa
 669901,Pizza Hipermaxi Congelada Hawaiana 620 gr,Congelados,Masas y Comidas Congeladas
 669902,Pizza Hipermaxi Congelada Jamon Queso Light Masa Integral,Congelados,Masas y Comidas Congeladas
@@ -23255,7 +23273,7 @@ id_producto,producto,categoria,subcategoria
 844849,Transportadoro P/Masco Estampado ErecuentreE,Bazar,Mascotas General
 844852,Juguete de Goma Grande 4 Diseños,Bazar,Mascotas General
 844856,Juguete de Mascota Surtido,Bazar,Mascotas General
-844986,CARBON BON-CAR 4KG.,Bazar,Churrasquería
+844986,Carbon Bon Car 4 kg,Bazar,Churrasquería
 845216,CH 3618 SETX2 PARA ENSALADAS DE  BAMBU   TAMANO 27CM,Bazar Importación,Cocina General
 845221,Juguete Pistola 12 Balas de Espuma,Juguetería Importación,Juguetería Niño/Bebé
 845232,Pistola de Juguete con 12 Balas de Espumas,Juguetería Importación,Juguetería Niño/Bebé
