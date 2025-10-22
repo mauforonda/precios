@@ -7,6 +7,7 @@ import datetime as dt
 from pytz import timezone
 import os
 from time import time
+import sys
 
 requests.packages.urllib3.disable_warnings()
 
@@ -176,7 +177,12 @@ def consultarPrecios(sesion, sucursal):
                 },
                 timeout=TIMEOUT,
             )
-            listado = response.json()["Dato"]
+            try:
+                listado = response.json()["Dato"]
+            except Exception as e:
+                print(e)
+                print(response.text)
+                sys.exit()
             if listado:
                 categoria_data.extend(
                     [
