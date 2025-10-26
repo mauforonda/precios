@@ -240,11 +240,11 @@ id_producto,producto,proveedor,categoria
 7392501858463,Galleta Serranitas Arcor 115 G,Arcor,Galletas
 7392501923999,Gaseosa Papaya Fanta 2 L,Fanta,Gaseosa
 7392501956767,Gaseosa Pepsi 2 L,Pepsi,Gaseosa
-7392501989535,Gaseosa Coca Cola 2 L,Coca Cola,Gaseosa
+7392501989535,Gaseosa Coca - Cola Original 2 Lt,Embol,Gaseosa Coca - Cola 2 Lt
 7392502022303,Gaseosa Antarctica Guarana 2 L,Antartica,Gaseosa
 7392502087839,Gaseosa Antarctica Guarana 500 Ml,Antartica,Gaseosa
 7392502186143,Aquarius Pera 3 Lt,Aquarius,Jugo de Fruta
-7392502382751,Gaseosa Coca Cola 3 L,Coca Cola,Gaseosa
+7392502382751,Gaseosa Coca - Cola Original 3 Lt,Embol,Gaseosa Coca - Cola 3 Lt
 7392502448287,Gaseosa Coca-Cola Sin Azucar 3 L,Coca Cola,Gaseosa
 7392502644895,Gaseosa Pepsi 1 L,Pepsi,Gaseosa
 7392502775967,Gaseosa Guarana Fanta 2 L,Fanta,Gaseosa
@@ -306,8 +306,8 @@ id_producto,producto,proveedor,categoria
 7392590135455,Chocolike Sachet 1 Kg,Chocolike,Chocolate en polvo
 7392590200991,Chocolike Bote 400 G,Chocolike,Chocolate en polvo
 7392590299295,Chocolike Frutilla 400 G,Chocolike,Chocolate en polvo
-7392590889119,Gaseosa Coca Cola 300 Ml,Coca Cola,Gaseosa
-7392590954655,Gaseosa Coca Cola 500 Ml,Coca Cola,Gaseosa
+7392590889119,Gaseosa Coca - Cola Original 300 Ml,Coca Cola,Gaseosa
+7392590954655,Gaseosa Coca - Cola Original 500 Ml,Embol,Gaseosa Coca - Cola 500 Ml
 7392596557983,Edulcorante Dulcero Clásico 250 Ml,Dulzero,Despensa y Conservas
 7392596885663,Gaseosa Fanta Naranja 300 Ml,Fanta,Gaseosa
 7392596951199,Gaseosa Fanta Naranja 500 Ml,Fanta,Gaseosa
@@ -356,7 +356,7 @@ id_producto,producto,proveedor,categoria
 7436942540959,Azúcar Aguaí Morena de 1 kg,Aguai,Azucar
 7436942606495,Azúcar Morena Guabira  1 kg,Guabira,Azucar
 7436942672031,Caldo de Gallina Doña Gusta 42 G,Doña Gusta,Caldo de Gallina
-7436942704799,Jugo de Pomelo Aquarius 300 Ml,Aquarius,Jugo de Frutas
+7436942704799,Agua Saborizada Aquarius Pomelo 300 Ml,Aquarius,Jugo de Frutas
 7436942770335,Azucar Guabira de 5 Kl,Guabira,Azucar
 7436942835871,Gelatina de Frutilla Yeli 120 G,Yeli,Gelatina
 7436942868639,Cuñape Abizcochado San Javier 200 G,San Javier,CuÃ±ape Abizcochado
@@ -367,7 +367,7 @@ id_producto,producto,proveedor,categoria
 7436943163551,Cerveza Paceña Lata 269 ML,CBN,Cerveza
 7436943327391,Jugo Fresh de Naranja Del Valle 300 Ml,Del Valle,Jugo
 7436943360159,Powerade Mora Azul 473 Ml,Powerade,Rehidratante
-7436943458463,Jugo de Pomelo Aquarius 500 Ml,Aquarius,Jugo de Frutas
+7436943458463,Agua Saborizada Aquarius Pomelo 500 Ml,Aquarius,Jugo de Frutas
 7436943491231,Agua Sin Gas Vital 6 Lt,Vital,Agua
 7436943589535,Servilleta de Papel Scott 50 U,Scott,Servilleta
 7436943655071,Red Bull Energy Drink 250 Ml,Red Bull,Energizante
@@ -649,7 +649,7 @@ id_producto,producto,proveedor,categoria
 10713720160415,Jamon Sandwichero,Fridosa,Jamon
 10713720684703,Jamon Colonia Piray,Colonia Pirai,Jamon
 10713721077919,Avena Instantanea,Princesa,Avena Instantanea
-10713747488927,Coca Cola 1.5 Lt,Coca Cola,Gaseosa
+10713747488927,Gaseosa Coca - Cola Original 1.5 Lt,Embol,Gaseosa Coca Cola 1.5 Lt
 10717329948831,Mejillones Natural,Fidalga,Mejillones
 10717330636959,Atun Van Camps,Fidalga,Atun
 10717330964639,Atun Van Camps Agua Lomito,Fidalga,Atun en Agua
@@ -713,7 +713,7 @@ id_producto,producto,proveedor,categoria
 10849141489823,Tableta Aireado Bon o Bon 67 Gr,Arcor,Barra de Chocolate
 10849141784735,Chocolate Cofler Air Blanco 55 Gr,Arcor,Chocolate Cofler Air Blanco
 10849159643295,Gaseosa Coca - Cola Original Combo x6,Embol,Combo Coca - Cola
-10849159970975,Pack Coca Cola S/Azucar 300 Ml,Embol,Pack Coca Cola Sin Azucar
+10849159970975,Pack Coca Cola Sin Azúcar 300 Ml,Embol,Pack Coca - Cola Sin Azucar
 10849160233119,Pack Naranja 300 Ml,Embol,Pack Naranja
 10849161805983,Gaseosa Sprite Original Combo X6 300 Ml,Embol,Pack Sprite
 10849162133663,Pack Aquarius Pera 300 Ml,Embol,Pack Aquarius Pera
@@ -811,3 +811,9 @@ id_producto,producto,proveedor,categoria
 10869608841375,Del Valle Nectar Durazno 1 Lt,Embol,Del Valle Durazno 1 Lt
 10869609234591,Ades Manzana 1 Lt,Embol,Ades Manzana 1 Lt
 10869609332895,Ades Durazno 1 Lt,Embol,Ades Durazno 1 Lt
+10869745975455,Ades Durazno Combo X6 200 Ml,Embol,Ades Durazno 200 Ml
+10869746040991,Ades Manzana Combo X6 200 Ml,Embol,Ades Manzana 200 Ml
+10869746073759,Ades Manzana 200 Ml,Embol,Ades Manzana 200 Ml
+10869746106527,Ades Durazno 200 Ml,Embol,Ades Durazno 200 Ml
+10869746172063,Agua Vital Con Gas 600 Ml,Embol,Agua Vital Con Gas
+10869746270367,Gaseosa Coca - Cola Original 2.5 Lt,Embol,Gaseosa Coca - Cola 2 Lt
