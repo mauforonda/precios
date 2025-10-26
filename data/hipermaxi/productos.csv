@@ -1652,6 +1652,7 @@ id_producto,producto,categoria,subcategoria
 25041,MANI PICNIC JAPONES PIZZA 350G,Abarrotes,Snack
 25043,MEZCAL DON RAMON ESPADIN 750 ML,Bebidas,Licores
 25044,Mezcla Don Ramon Joven Salmiana 750 ml,Bebidas,Licores
+25045,Mezcal Don Ramon Buen Amigo 750 ml,Bebidas,Licores
 25046,CERVEZA DUCAL LTA 269ML,Bebidas,Cervezas
 25048,Fideo Nido Paloma 400 gr,Abarrotes,Básicos
 25049,Aceite de Coco Santiago 360 gr,Abarrotes,Básicos
@@ -1693,6 +1694,7 @@ id_producto,producto,categoria,subcategoria
 25101,Pulpa de Tomate Cayetana Gruesa 400 gr,Abarrotes,Salsas y Extracto de Tomate
 25102,VINO ABRA TORO P XIMENEZ GR BCO 750ML,Bebidas,Vinos y Champagne
 25104,Chupete Bon Bon Bum Uva Fresa 336 gr,Abarrotes,Chocolates y Caramelos
+25106,SINGANI DAROCA PREMIUM 750 ML,Bebidas,Licores
 25108,Isotonico Sante Vitam Naranja Limon 1 L,Bebidas,Isotónicos
 25109,Isotonico Sante Colageno Limon 1 L,Bebidas,Isotónicos
 25110,Isotonico Sante Biotina Fresa Limon 1 L,Bebidas,Isotónicos
@@ -1803,6 +1805,7 @@ id_producto,producto,categoria,subcategoria
 25257,SNACK PITA CHIPS CEBOLLA BSA 150G,Abarrotes,Snack
 25258,BEBIDA FOUR LOKO WHITE LTA 473ML,Bebidas,Licores
 25259,BEBIDA FOUR LOKO WHITE LTA 695ML,Bebidas,Licores
+25260,MERMELADA DFRUT NARANJA FCO 500G,Abarrotes,"Mermel, Mieles"
 25261,MAYONESA CEPERA S CHURRASCO PET 200G,Abarrotes,Aderezos
 25262,CREMA P CAFE COUNTRY BARN 16 OZ,Abarrotes,Café y Sucedáneos
 25265,CHOCLO CEPERA LTA 170G,Abarrotes,Verduras en Conserva
@@ -1898,6 +1901,7 @@ id_producto,producto,categoria,subcategoria
 25411,MANI TOSTADO PICNIC CON SAL 80G,Abarrotes,Snack
 25413,MANI TOSTADO PICNIC CON SAL 250G,Abarrotes,Snack
 25420,PACK 3 GALLETAS FESTIVAL UND,Abarrotes,Galletas
+25426,CAFE JAQAKU MOLIDO S CARAMELO 250G,Abarrotes,Café y Sucedáneos
 25429,NACHO NAX QUESO 200GR,Abarrotes,Snack
 25430,TOCINITOS TOCINAX BSA 120G,Abarrotes,Snack
 25431,SNACK BOOHOO NAX PICANTE 120G,Abarrotes,Snack
@@ -3199,6 +3203,7 @@ id_producto,producto,categoria,subcategoria
 34811,Mermelada La Rinconada Frutilla 1 kg,Abarrotes,"Mermel, Mieles"
 34871,Cerveza Conti Zero 350 ml,Bebidas,Cervezas
 35070,Alimento Knino Adulto Pequeña 1.5 kg,Abarrotes,Mascotas
+35071,Alimento Knino Adulto Pequeña 3 kg,Abarrotes,Mascotas
 35073,Alimento Knino Cachorro Mediano Grande 1.5 kg,Abarrotes,Mascotas
 35076,Alimento Knino Cachorro Pequeña 3 kg,Abarrotes,Mascotas
 35077,Alimento Knino Adulto Mediano Grande 1.5 kg,Abarrotes,Mascotas
@@ -4893,6 +4898,7 @@ id_producto,producto,categoria,subcategoria
 109291,Pastilla de Baño Pato Adhesivo Marina 38 gr,Cuidado del Hogar,Limpieza de Baños
 109292,Ambientador Minigel Glade Floral Frutos 70 gr,Cuidado del Hogar,Limpieza de Living y Ropero
 109294,Pastilla de Baño Pato Adhesivo Citrus 6 un,Cuidado del Hogar,Limpieza de Baños
+109295,Ambientador Glade Paraiso Azul 270 ml,Cuidado del Hogar,Limpieza de Living y Ropero
 109296,Ambientador Aerosol Repuesto Glade Limon 270 ml,Cuidado del Hogar,Limpieza de Living y Ropero
 109297,Ambientador Repuesto Glade Harmony 12 ml + dispensador,Cuidado del Hogar,Limpieza de Living y Ropero
 109298,Ambientador Repuesto Glade Toque Tropical Floral 1 un,Cuidado del Hogar,Limpieza de Living y Ropero
@@ -8162,6 +8168,7 @@ id_producto,producto,categoria,subcategoria
 228366,Esmalte de Uñas Vogue Efecto Gel Urbano 14 ml,Cuidado Personal,Cuidado de la Piel
 228367,Esmalte de Uñas Vogue Efecto Gel Identidad 14 ml,Cuidado Personal,Cuidado de la Piel
 228368,Esmalte de Uñas Vogue Efecto Gel Artista 14 ml,Cuidado Personal,Cuidado de la Piel
+228377,PACK DISCO SEPTONA 70  Y QUITA ESMALTE 1,Cuidado Personal,Cuidado de la Piel
 228379,SERVILLETA FINESSE 4X500,Cuidado Personal,Cuidado Familiar
 228380,TOALLA  ABSORVENTE FINESSE  MULTIUSO  2,Cuidado del Hogar,Limpieza de Cocina
 228384,TRIPACK KOTEX FITNESS 3X2,Cuidado Personal,Cuidado Familiar
@@ -8175,6 +8182,7 @@ id_producto,producto,categoria,subcategoria
 228398,VAJILLERO TODOBRILLO LIMON 5 LTS,Cuidado del Hogar,Limpieza de Cocina
 228399,PAPEL BLANQUITA ECOPACK X 6 UNDS,Cuidado Personal,Cuidado Familiar
 228401,PAPE BLANQUITA ECOPACK  12 UNDS,Cuidado Personal,Cuidado Familiar
+228403,ACEITE VEGANIS RICINO CEJAS 5 ML,Cuidado Personal,Cuidado de la Piel
 228422,PACK EXCELLENCE 7.1+ GLYCO 200 ML.,Cuidado Personal,Cuidado del Cabello
 228423,PAPEL HIG QUALITE DH 12 UNDS,Cuidado Personal,Cuidado Familiar
 228428,PACK EXCELLENCE N7U+ GLYCO 200 ML.,Cuidado Personal,Cuidado del Cabello
@@ -9789,6 +9797,7 @@ id_producto,producto,categoria,subcategoria
 332283,Champagne Codorniu Brut 750 ml,Bebidas,Vinos y Champagne
 332291,Licor Crema Baileys 750 ml,Bebidas,Licores
 332507,Esponja Ponjita Kids Animals 1 un,Cuidado Personal,Cuidado de la Piel
+332547,Pastilla de Baño Glade Adhesivo Florla 3 un,Cuidado del Hogar,Limpieza de Baños
 332552,Cepillo Dental Foramen Flexitip Medio 1 un,Cuidado Personal,Cuidado Bucal
 332553,Cepillo Dental Foramen Flexible Suave 1 un,Cuidado Personal,Cuidado Bucal
 332554,Cepillo Dental Foramen Baby Con Protector 1 un,Cuidado Personal,Cuidado Bucal
@@ -12010,6 +12019,7 @@ id_producto,producto,categoria,subcategoria
 462241,Vinagre Sakura Alchohol 1 L,Abarrotes,Básicos
 462250,Vinagre Sakura Alcohol 500 ml,Abarrotes,Básicos
 462341,LIPSTICK NATURAL FPS 30 TUBO X 5GR,Cuidado Personal,Cuidado de la Piel
+462368,SERUM VEGANIS MAQUI 30 ML,Cuidado Personal,Cuidado de la Piel
 462382,DR.SELBY PROTECTOR LABIAL NUTRITIVO X5.5,Cuidado Personal,Cuidado de la Piel
 462383,Protector Labial Dr Selby Hidratante,Cuidado Personal,Cuidado de la Piel
 462385,Protector Labial Dr Selby Anti Oxidante,Cuidado Personal,Cuidado de la Piel
@@ -12025,6 +12035,7 @@ id_producto,producto,categoria,subcategoria
 463065,Repelente Floresta Extremo Crema 15% 120 gr,Cuidado Personal,Cuidado de la Piel
 463066,Repelente Floresta Extremo Spray 15% 120 ml,Cuidado Personal,Cuidado de la Piel
 463068,Repelente Floresta Familiar 7.5% Crema 120 gr,Cuidado Personal,Cuidado de la Piel
+463156,VEGANIS AGUA DE ROSAS X120 ML,Cuidado Personal,Cuidado de la Piel
 463199,SUPLEMENTO TERBOFIT VAINILLA 400G,Abarrotes,Dietéticos y Saludables
 463275,LECHE NIDO CRECIMIENTO 1+ LTA 800G,Abarrotes,Nutrición Infantil
 463335,MIEL D ABEJA MELIMEL MAYACUYA 85G,Abarrotes,"Mermel, Mieles"
@@ -13095,6 +13106,7 @@ id_producto,producto,categoria,subcategoria
 550597,Colageno Carolina Articular 15 un,Abarrotes,Dietéticos y Saludables
 550600,Bipack Cerveza Bock 473 ml,Bebidas,Cervezas
 550603,Gaseosa Fanta Naranja Mini Six Pack 300 ml,Bebidas,Gaseosas
+550604,Alimento Knino Adulto Mediano Grande 3 kg,Abarrotes,Mascotas
 550607,Macaroni Kraft Cheese Original 7.25 oz,Abarrotes,Productos Americanos
 550608,Salsa Herdez Guacamole Picante 440 gr,Abarrotes,Aderezos
 550609,Salsa Herdez Guacamole Picante 240 gr,Abarrotes,Aderezos
@@ -14446,6 +14458,7 @@ id_producto,producto,categoria,subcategoria
 552976,GALLETA PROMOS CHRISTMAS LTA 340GR,Abarrotes,Temporada
 552977,Cafe Iguazu Polvo Tradicional Pouch 40 gr,Abarrotes,Café y Sucedáneos
 552978,Sazonador Mc Food Base Fricase 100 gr,Abarrotes,Básicos
+552979,RON DIPLOMATICO RESERVA EXCLUSIVA 375 ML,Bebidas,Licores
 552980,KIT PAELLA CARMENCITA ARROZ NEGRO 265 GR,Abarrotes,Básicos
 552981,KIT PAELLA CARMENCITA VERDURA 266 GR,Abarrotes,Básicos
 552982,Kit Paella Carmencita Marisco 265 gr,Abarrotes,Básicos
@@ -14888,10 +14901,14 @@ id_producto,producto,categoria,subcategoria
 553585,CHICLE BLOOPS HALLOWEEN PINTA 272G,Abarrotes,Temporada
 553588,CHOCOL PARA TI SURTIDO CJA LUJO 560G,Abarrotes,Chocolates y Caramelos
 553589,PACK VINOS HITOS ARANJUEZ 3BOT 750ML,Bebidas,Vinos y Champagne
+553590,BEBIDA LISTA URBANO BLUE FRESA 2 LT,Bebidas,Licores
+553591,BEBIDA LISTA URBANO POMELO 2 LT,Bebidas,Licores
+553592,BEBIDA LISTA URBANO SANDIA 2 LT,Bebidas,Licores
 553593,TE MANDALA TROPICAL PUNCH TETRA 200 ML,Bebidas,Bebidas Varias
 553594,TE MANDALA PINK LEMON TETRA 200 ML,Bebidas,Bebidas Varias
 553595,TE MANDALA TROPICAL PUNCH TETRA 1LT,Bebidas,Bebidas Varias
 553596,TE MANDALA PINK LEMON TETRA 1LT,Bebidas,Bebidas Varias
+553597,TOCIN PIPOSAL FAMILIAR 230 GR,Abarrotes,Snack
 553598,TOCIN PIPOSAL PICANTE FAMILIAR 230 GR,Abarrotes,Snack
 553599,PIPOMIX PIPOSAL FAMILIAR 230 GR,Abarrotes,Snack
 553600,PI POCHEESE PIPOSAL PICANTE 240 GR,Abarrotes,Snack
@@ -14906,6 +14923,7 @@ id_producto,producto,categoria,subcategoria
 553620,AGUA IONICA  ALCALINA  5 LT,Bebidas,Aguas
 553621,AGUA IONICA ALCALINA 2 LT,Bebidas,Aguas
 553622,AGUA IONICA ALCALINA 600CC,Bebidas,Aguas
+553629,TOMATE DESHIDRAT BRIXY FCO 210G,Abarrotes,Verduras en Conserva
 553630,VINAGRE BALSAMICO BRIXY BOT 400ML,Abarrotes,Básicos
 553633,VINO KOHLBERG FUNDADOR TTO 700ML,Bebidas,Vinos y Champagne
 554333,Cerveza Paceña Lata Roja 473 Cc,Bebidas,Cervezas
@@ -15516,6 +15534,7 @@ id_producto,producto,categoria,subcategoria
 615716,Aconcidionador Pantene Reparacion Prov 400 ml,Cuidado Personal,Cuidado del Cabello
 615719,Jabon Liquido Aval Tocador Eucalipto 400 ml,Cuidado Personal,Cuidado de la Piel
 615786,Soda Caustica Liquida Archer 2 L,Cuidado del Hogar,Limpieza de Baños
+615792,Hilo Dental Doctor Dent Blue Mint 50 m,Cuidado Personal,Cuidado Bucal
 615800,Desodorante Roll On Dove Dermo Aclarant 50 ml,Cuidado Personal,Cuidado de la Piel
 615801,Desodorante Barra Dove Dermo Aclarant 50 gr,Cuidado Personal,Cuidado de la Piel
 615812,Cepillo Dental Dentalclean Nuevo 1 un,Cuidado Personal,Cuidado Bucal
@@ -16052,6 +16071,7 @@ id_producto,producto,categoria,subcategoria
 629811,MOREA ENDULZANTE DE MONK FRUIT DORADO 1 KG,Abarrotes,Productos Americanos
 629812,MOREA ENDULZANTE DE MONK FRUIT DORADO 500 GR,Abarrotes,Productos Americanos
 629814,MOREA ENDULZANTE ERITRITOL 500 GR,Abarrotes,Productos Americanos
+629816,CEREAL HOSPITALITY HONEY TOASTED OATS 198GR,Abarrotes,Productos Americanos
 629817,CEREAL HOSPITALITY RAISIN BRAN CEREA 198GR,Abarrotes,Productos Americanos
 629818,CEREAL HOSPITALITY FRUIT WHIRLS SWEETENED 198GR,Abarrotes,Productos Americanos
 629819,CEREAL HOSPITALITY CORN FLAKES 198GR,Abarrotes,Productos Americanos
@@ -18246,6 +18266,7 @@ id_producto,producto,categoria,subcategoria
 667994,Esmalte de Uña Carey Cremoso Liuan 149 9 ml,Cuidado Personal,Cuidado de la Piel
 667995,Esmalte de Uña Carey Tono 147 9 ml,Cuidado Personal,Cuidado de la Piel
 667996,Esmalte de Uña Carey Cordoba 143 9 ml,Cuidado Personal,Cuidado de la Piel
+667997,Esmalte de Uñas Carey 142 9 ml,Cuidado Personal,Cuidado de la Piel
 667998,Esmalte de Uña Carey Tono 141 9 ml,Cuidado Personal,Cuidado de la Piel
 667999,Esmalte de Uña Carey Tono 140 9 ml,Cuidado Personal,Cuidado de la Piel
 668000,Esmalte de Uñas Carey Le Mans 115 9 ml,Cuidado Personal,Cuidado de la Piel
@@ -18254,6 +18275,7 @@ id_producto,producto,categoria,subcategoria
 668004,Esmalte de Uña Carey Izmir 074 9 ml,Cuidado Personal,Cuidado de la Piel
 668005,Esmalte de Uñas Carey Cremoso Sauce 072 9 ml,Cuidado Personal,Cuidado de la Piel
 668006,Esmalte de Uñas Carey Cremoso Floresta 071 9 ml,Cuidado Personal,Cuidado de la Piel
+668007,Esmalte de Uñas Carey Cremoso Pedrera 070 9 ml,Cuidado Personal,Cuidado de la Piel
 668008,Esmalte de Uña Carey Tono 059 9 ml,Cuidado Personal,Cuidado de la Piel
 668009,Esmalte de Uña Carey Tono 058 9 ml,Cuidado Personal,Cuidado de la Piel
 668010,Esmalte de Uña Carey Tono 052 9 ml,Cuidado Personal,Cuidado de la Piel
@@ -19308,7 +19330,7 @@ id_producto,producto,categoria,subcategoria
 671271,Helado Yucatan Crema Chocolate Relleno Dulce de Leche,Congelados,"Helados, Cassattas y Picoleses"
 671273,Yogurt Griego Colinas del Sol 180 gr,Lácteos y Derivados,Yogures
 671274,Yogurt Griego Colinas del Sol sin Azucar 450 gr,Lácteos y Derivados,Yogures
-671281,PANETON EXTRA FINO LA FRANCESA BOLSA 610 GRAMOS,Panadería,Panadería Externa
+671281,PANETON EXTRA FINO LA FRANCESA BOLSA 610,Panadería,Panadería Externa
 671282,PANETON EXTRA FINO LA FRANCESA CJA 750 G,Panadería,Panadería Externa
 671285,Tocino Ahumado Dac Picado Laminado kg,Fiambres,Fiambres Externos
 671292,Chorizo Viena Carne Pio Rico kg,Fiambres,Fiambres Externos
@@ -20519,7 +20541,7 @@ id_producto,producto,categoria,subcategoria
 674282,Yogurt Fatyh Natural 800 gr,Lácteos y Derivados,Yogures
 674283,Yogurt Fatyh Natural 550 gr,Lácteos y Derivados,Yogures
 674284,Yogurt Fatyh Natural 180 gr,Lácteos y Derivados,Yogures
-674285,BUDIN COFLER REMIX 215 GRAMOS,Pastelería y Masas Típicas,Pastelería Externa
+674285,Budin Cofler Remix 215 gr,Pastelería y Masas Típicas,Pastelería Externa
 674286,PANETON COFLER RELL P DARK,Panadería,Panadería Externa
 674287,PACK SALAME/JAMON MAS TABLITA SOFIA UNIDAD,Fiambres,Fiambres Externos
 674288,Postre Helado Delizia Alfredo Canela 850 ml,Congelados,"Helados, Cassattas y Picoleses"
@@ -20717,7 +20739,9 @@ id_producto,producto,categoria,subcategoria
 674606,HUEVO MARRON MAPLE 20 UNI SOFIA EXTRA GRANDE,Lácteos y Derivados,Huevos
 674607,ENVASE SALTENAS SALTUCAS 7 UNIDADES CONG.,Congelados,Masas y Comidas Congeladas
 674613,ZOMBITS NARANJA ARANDANO,Congelados,"Helados, Cassattas y Picoleses"
+674616,QUESO MOZZARELLA SANTA ELENA LAMINADO 160GRS,Lácteos y Derivados,Quesos
 674622,SALSA DE QUESO CHEDDAR TORTITACOS 200GRS,Lácteos y Derivados,Quesos
+674643,PANETON HALLOWEEN BREICK CAJA 360GRS,Panadería,Panadería Externa
 674786,BONDIOLA DE CERDO SOFIA REFRIGERADA A/V KGR,Fiambres,Fiambres Externos
 674787,LOMO DE CERDO SOFIA REFRIGERADO A/V KGR,Fiambres,Fiambres Externos
 674788,LOMITO DE CERDO SOFIA REFRIGERADO A/V KGR,Fiambres,Fiambres Externos
