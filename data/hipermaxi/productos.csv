@@ -1808,6 +1808,7 @@ id_producto,producto,categoria,subcategoria
 25260,MERMELADA DFRUT NARANJA FCO 500G,Abarrotes,"Mermel, Mieles"
 25261,MAYONESA CEPERA S CHURRASCO PET 200G,Abarrotes,Aderezos
 25262,CREMA P CAFE COUNTRY BARN 16 OZ,Abarrotes,Café y Sucedáneos
+25263,CREMA P CAFE COUNTRY BARN 11 OZ,Abarrotes,Café y Sucedáneos
 25265,CHOCLO CEPERA LTA 170G,Abarrotes,Verduras en Conserva
 25266,ARVEJA CEPERA LTA 170G,Abarrotes,Verduras en Conserva
 25267,KETCHUP PICKLES CEPERA PET 350G,Abarrotes,Aderezos
@@ -1887,6 +1888,7 @@ id_producto,producto,categoria,subcategoria
 25388,MANTEQUILLA MANI SKURZTH CHOCOL 1KG,Abarrotes,Repostería
 25389,Four Loko Halloween 473 ml,Bebidas,Licores
 25390,BEBIDA FOUR LOKO HALLOWEEN 695ML,Bebidas,Licores
+25391,CAFE MOLIDO JAQAKU S COCO DP 250G,Abarrotes,Café y Sucedáneos
 25392,MERMRLADA L RINCONADA UCHUVA 200G,Abarrotes,"Mermel, Mieles"
 25395,PIPOCA POP UP CHOCOLATE BSA 50G,Abarrotes,Snack
 25401,BEBIDA FLOW NENE SUNRISE BOT 300ML,Bebidas,Licores
@@ -1949,6 +1951,8 @@ id_producto,producto,categoria,subcategoria
 25771,Huevos Caisy 12 un,Lácteos y Derivados,Huevos
 25789,Galleta Rocklets Chocolate 118 gr,Abarrotes,Galletas
 25945,SIXPACK MANDALA TROPICAL PUNCH 6X200ML,Bebidas,Bebidas Varias
+25947,SAL KOLLITA CHIMICHURRI FCO 800G,Abarrotes,Básicos
+25950,JUGO PROMOS CRANBERRY 500ML,Bebidas,"Jugos, Néctar"
 25951,ISOTONICO ACTIVADE ZERO MANGO 600 ML,Bebidas,Isotónicos
 25952,ISOTONICO ACTIVADE ZERO SANDIA 600ML,Bebidas,Isotónicos
 25954,VINO C SOLANA MALBEC BAD LANDS 750ML,Bebidas,Vinos y Champagne
@@ -8168,6 +8172,7 @@ id_producto,producto,categoria,subcategoria
 228366,Esmalte de Uñas Vogue Efecto Gel Urbano 14 ml,Cuidado Personal,Cuidado de la Piel
 228367,Esmalte de Uñas Vogue Efecto Gel Identidad 14 ml,Cuidado Personal,Cuidado de la Piel
 228368,Esmalte de Uñas Vogue Efecto Gel Artista 14 ml,Cuidado Personal,Cuidado de la Piel
+228372,JABONCILLO ST TROPEZ HIDRATACION 125 GR,Cuidado del Hogar,Productos Americanos
 228377,PACK DISCO SEPTONA 70  Y QUITA ESMALTE 1,Cuidado Personal,Cuidado de la Piel
 228379,SERVILLETA FINESSE 4X500,Cuidado Personal,Cuidado Familiar
 228380,TOALLA  ABSORVENTE FINESSE  MULTIUSO  2,Cuidado del Hogar,Limpieza de Cocina
@@ -8182,10 +8187,23 @@ id_producto,producto,categoria,subcategoria
 228398,VAJILLERO TODOBRILLO LIMON 5 LTS,Cuidado del Hogar,Limpieza de Cocina
 228399,PAPEL BLANQUITA ECOPACK X 6 UNDS,Cuidado Personal,Cuidado Familiar
 228401,PAPE BLANQUITA ECOPACK  12 UNDS,Cuidado Personal,Cuidado Familiar
+228402,COTORNO DE OJO VEGANIS 15 ML,Cuidado Personal,Cuidado de la Piel
 228403,ACEITE VEGANIS RICINO CEJAS 5 ML,Cuidado Personal,Cuidado de la Piel
+228404,EXFOLIANTE VEGANIS NEROLI 500 ML,Cuidado Personal,Cuidado de la Piel
+228405,EXFOLIANTE VEGANIS PERA 500 ML,Cuidado Personal,Cuidado de la Piel
+228406,EXFOLIANTE VEGANIS PALTA 500 ML,Cuidado Personal,Cuidado de la Piel
+228407,CREMA CORPORAL VEGANIS PERA 500 ML,Cuidado Personal,Cuidado de la Piel
+228410,CREMA CORPORAL VEGANIS ROSAS 500 ML,Cuidado Personal,Cuidado de la Piel
+228411,CREMA CORPORAL VEGANIS GINGKO 500 ML,Cuidado Personal,Cuidado de la Piel
+228413,JABON LIQ.VEGANIS MORA 400 ML.,Cuidado Personal,Cuidado de la Piel
+228414,JABON LIQ.VEGANIS GRANADA 400 NL,Cuidado Personal,Cuidado de la Piel
+228416,SHAMPOO VEGANIS COCO 400 ML,Cuidado Personal,Cuidado del Cabello
+228420,MASCARA CAPILAR VEGANIS COCO 250 ML,Cuidado Personal,Cuidado del Cabello
+228421,MASCARA VEGANIS HIALURONICO 250 ML,Cuidado Personal,Cuidado del Cabello
 228422,PACK EXCELLENCE 7.1+ GLYCO 200 ML.,Cuidado Personal,Cuidado del Cabello
 228423,PAPEL HIG QUALITE DH 12 UNDS,Cuidado Personal,Cuidado Familiar
 228428,PACK EXCELLENCE N7U+ GLYCO 200 ML.,Cuidado Personal,Cuidado del Cabello
+228432,PACK EXCELLENCE 7+ GLYCO 200 ML,Cuidado Personal,Cuidado del Cabello
 228438,"PACK EXCELLENCE 8,1+ GLYCO 200 ML.",Cuidado Personal,Cuidado del Cabello
 228441,SERVILLETA PERLITA 300 UN.,Cuidado Personal,Cuidado Familiar
 228442,PAPEL HIGIENICO PERLITA 4X12,Cuidado Personal,Cuidado Familiar
@@ -12019,7 +12037,18 @@ id_producto,producto,categoria,subcategoria
 462241,Vinagre Sakura Alchohol 1 L,Abarrotes,Básicos
 462250,Vinagre Sakura Alcohol 500 ml,Abarrotes,Básicos
 462341,LIPSTICK NATURAL FPS 30 TUBO X 5GR,Cuidado Personal,Cuidado de la Piel
+462363,VEGANIS CREMA FACIAL DIURNA 30 ML,Cuidado Personal,Cuidado de la Piel
+462364,VEGANIS CREMA FACIAL NOCTURNA X30 ML,Cuidado Personal,Cuidado de la Piel
+462366,SERUM VEGANIS HIALURONICO 30 ML,Cuidado Personal,Cuidado de la Piel
+462367,VEGANIS SERUM FACIAL MATCHA 30 ML,Cuidado Personal,Cuidado de la Piel
 462368,SERUM VEGANIS MAQUI 30 ML,Cuidado Personal,Cuidado de la Piel
+462369,VEGANIS TONICO FACIAL BALANCE PH X120ML,Cuidado Personal,Cuidado de la Piel
+462370,VEGANIS TONICO FACIAL NIACINAMIDA 120 ML,Cuidado Personal,Cuidado de la Piel
+462371,VEGANIS AGUA MICELAR DE ROSAS X250 ML.,Cuidado Personal,Cuidado de la Piel
+462372,CREMA VEGANIS PALTA 500 ML,Cuidado Personal,Cuidado de la Piel
+462374,SHAMPOO VEGANIS PALTA 400 ML,Cuidado Personal,Cuidado del Cabello
+462376,SHAMPOO VEGANIS MAQUI 400 ML,Cuidado Personal,Cuidado del Cabello
+462378,MASCARA CAPILAR VEGANIS MAQUI 250 ML,Cuidado Personal,Cuidado del Cabello
 462382,DR.SELBY PROTECTOR LABIAL NUTRITIVO X5.5,Cuidado Personal,Cuidado de la Piel
 462383,Protector Labial Dr Selby Hidratante,Cuidado Personal,Cuidado de la Piel
 462385,Protector Labial Dr Selby Anti Oxidante,Cuidado Personal,Cuidado de la Piel
@@ -12036,6 +12065,10 @@ id_producto,producto,categoria,subcategoria
 463066,Repelente Floresta Extremo Spray 15% 120 ml,Cuidado Personal,Cuidado de la Piel
 463068,Repelente Floresta Familiar 7.5% Crema 120 gr,Cuidado Personal,Cuidado de la Piel
 463156,VEGANIS AGUA DE ROSAS X120 ML,Cuidado Personal,Cuidado de la Piel
+463157,VEGANIS CREMA FACIAL ULTRAVITAL X50 ML,Cuidado Personal,Cuidado de la Piel
+463159,CREMA VEGANIS COCO 500 ML,Cuidado Personal,Cuidado de la Piel
+463161,PROTECTOR SOLAR VEGANIS FPS50 135 ML,Cuidado Personal,Cuidado de la Piel
+463164,VEGANIS SERUM DOUBLE TROUBLE X30 ML,Cuidado Personal,Cuidado de la Piel
 463199,SUPLEMENTO TERBOFIT VAINILLA 400G,Abarrotes,Dietéticos y Saludables
 463275,LECHE NIDO CRECIMIENTO 1+ LTA 800G,Abarrotes,Nutrición Infantil
 463335,MIEL D ABEJA MELIMEL MAYACUYA 85G,Abarrotes,"Mermel, Mieles"
@@ -14734,6 +14767,7 @@ id_producto,producto,categoria,subcategoria
 553282,BARRA DE QUINOA ANDES TROPICO 144 GR,Abarrotes,Nutrición Infantil
 553283,BARRA ANDES TROPICO AJONJOLI CACAO 156GR,Abarrotes,Nutrición Infantil
 553284,BARRAS DE CEREAL ANDES TROPICO SURT 148,Abarrotes,Nutrición Infantil
+553286,JANKAKIPA DE TRIGO SABROSITO 100GR,Abarrotes,Básicos
 553287,LAGUA DE CHUNO SABROSITO 100GR,Abarrotes,Básicos
 553288,JANKAKIPA DE MAIZ SABROSITO 200GR,Abarrotes,Básicos
 553289,TOJORI SABROSITO 250 GR,Abarrotes,Básicos
@@ -14798,6 +14832,7 @@ id_producto,producto,categoria,subcategoria
 553358,VINO BASTARDO DESCARADA SYRAH 750ML,Bebidas,Vinos y Champagne
 553360,SNACK DR PICKS PICKESOS 26GR,Abarrotes,Snack
 553361,PACK RAMEN MAXIMO 4X85G,Abarrotes,Básicos
+553362,ESPUMANTE CHAKANA NUNA BRUT NATURE 750ML,Bebidas,Vinos y Champagne
 553364,PACK 2 GALLETA WAFER COLOMBINA,Abarrotes,Galletas
 553365,PACK GALLETAS COLOMBINA BRINKY X2,Abarrotes,Galletas
 553366,GRAGEAS RUAH CAFE CHOCOLATE 75P STEVIA,Abarrotes,Chocolates y Caramelos
@@ -14925,6 +14960,7 @@ id_producto,producto,categoria,subcategoria
 553622,AGUA IONICA ALCALINA 600CC,Bebidas,Aguas
 553629,TOMATE DESHIDRAT BRIXY FCO 210G,Abarrotes,Verduras en Conserva
 553630,VINAGRE BALSAMICO BRIXY BOT 400ML,Abarrotes,Básicos
+553631,VIANGRE BALSAMICO REDUCCION BRIXY  BOT 4,Abarrotes,Básicos
 553633,VINO KOHLBERG FUNDADOR TTO 700ML,Bebidas,Vinos y Champagne
 554333,Cerveza Paceña Lata Roja 473 Cc,Bebidas,Cervezas
 554466,Detergente Liquido Ola Futuro Limpieza Completa 5 L,Cuidado del Hogar,Limpieza de la Ropa
@@ -15175,6 +15211,7 @@ id_producto,producto,categoria,subcategoria
 589748,MERMELADA CANDY FRUTILLA POTE 1KG,Abarrotes,"Mermel, Mieles"
 589756,Galleta Costa Frac Chocolate 12 Und 132 gr,Abarrotes,Galletas
 589829,Leche Condensada Nestle 397 gr,Abarrotes,Nutrición Infantil
+589900,Vino Navarro Correas Alegoria Gran Reserva Cabernet 750 ml,Bebidas,Vinos y Champagne
 589977,Alcohol Unagro Pvc 96 % 900 ml,Cuidado Personal,Cuidado de la Piel
 589985,Vino Norton Cabernet Sauvignon 750 ml,Bebidas,Vinos y Champagne
 590000,Pañales Huggies Natural Care Recien Nacido P 50 un,Cuidado del Bebé,Pañales
@@ -18937,6 +18974,7 @@ id_producto,producto,categoria,subcategoria
 669377,Lavavajilla Bristar Citrus Aloe 1050 ml,Cuidado del Hogar,Limpieza de Cocina
 669378,Lavavajilla Bristar Flores y Colageno 1050 ml,Cuidado del Hogar,Limpieza de Cocina
 669379,Detergente para Ropa Tide Pods Capsulas Odor + Oxi 826 g,Cuidado del Hogar,Productos Americanos
+669380,OLAYGELDUCHAAGEDEF650MLX4,Cuidado Personal,Cuidado de la Piel
 669381,GAIN DET MOONLGBRZ1.43LX6,Cuidado del Hogar,Productos Americanos
 669382,GAIN DET ISLAFRESH1.43LX6,Cuidado del Hogar,Productos Americanos
 669383,Ambientador Febreze Fresch 250 ml,Cuidado del Hogar,Productos Americanos
@@ -20736,10 +20774,14 @@ id_producto,producto,categoria,subcategoria
 674598,QUESO MOZZARELLA SAN ANDRES 410GRS,Lácteos y Derivados,Quesos
 674599,YOGURT GALAKTOS TIPO GRIEGO 0 AZUCAR DURAZNO 500GRS,Lácteos y Derivados,Yogures
 674600,YOGURT GALAKTOS TIPO GRIEGO 0 AZUCAR MORA 500GRS,Lácteos y Derivados,Yogures
+674602,PAN DE MESA ZELADA BOLSA 18 UNIDADES,Panadería,Panadería Externa
+674603,GRISSINES CHOCOLATE BOLSA 28 UNIDADES,Pastelería y Masas Típicas,Pastelería Externa
 674606,HUEVO MARRON MAPLE 20 UNI SOFIA EXTRA GRANDE,Lácteos y Derivados,Huevos
 674607,ENVASE SALTENAS SALTUCAS 7 UNIDADES CONG.,Congelados,Masas y Comidas Congeladas
 674613,ZOMBITS NARANJA ARANDANO,Congelados,"Helados, Cassattas y Picoleses"
 674616,QUESO MOZZARELLA SANTA ELENA LAMINADO 160GRS,Lácteos y Derivados,Quesos
+674618,PIPOPANETON HALLOWEEN FRANKENSTEIN CAJA UNI,Panadería,Panadería Externa
+674619,PIPOPANETON HALLOWEEN CALABAZA CAJA UNI,Panadería,Panadería Externa
 674622,SALSA DE QUESO CHEDDAR TORTITACOS 200GRS,Lácteos y Derivados,Quesos
 674643,PANETON HALLOWEEN BREICK CAJA 360GRS,Panadería,Panadería Externa
 674786,BONDIOLA DE CERDO SOFIA REFRIGERADA A/V KGR,Fiambres,Fiambres Externos
@@ -20846,6 +20888,7 @@ id_producto,producto,categoria,subcategoria
 677318,Helado Arcor Cono Cofler Duo 135 ml,Congelados,"Helados, Cassattas y Picoleses"
 677338,Queso Tholem Cheddar 190 gr,Lácteos y Derivados,Quesos
 677363,Yogurt Ilva Frutado 1 L,Lácteos y Derivados,Yogures
+677364,Helado Delizia Delizaurio,Congelados,"Helados, Cassattas y Picoleses"
 677385,Costilla de Cerdo Stege Bandeja kg,Congelados,Carnes Congeladas
 677431,Helado Delizia Cono Black,Congelados,"Helados, Cassattas y Picoleses"
 677432,Yogurt Ilva Bebible Varios Sabores 2 L,Lácteos y Derivados,Yogures
@@ -22846,6 +22889,7 @@ id_producto,producto,categoria,subcategoria
 825894,Vino Campos de Solana Trivarietal Reserva 750 ml,Bebidas,Vinos y Champagne
 825903,Vino Campos de Solana Reserva Malbec Cabernet Sauvignon 750 ml,Bebidas,Vinos y Champagne
 826105,20150/618 SARTEN 18CM PARIS NEGRO,Bazar,Articulos de Cocina
+826133,20144/624 SARTEN-CON TAPA- 24 CM PARIS,Bazar,Articulos de Cocina
 826134,20144/724 SARTEN - RECTA CON TAPA -24CM,Bazar,Articulos de Cocina
 826135,Tetera Guinda 1.9 L,Bazar,Articulos de Cocina
 826138,Sarten Tornillero Doble 24 cm,Bazar,Articulos de Cocina
@@ -22938,6 +22982,7 @@ id_producto,producto,categoria,subcategoria
 831804,Resaltador,Bazar,Librería
 831854,Cereal Kelloggs Special Red Berries 43 oz,Abarrotes,Productos Americanos
 831923,Caramelo Nerds Watermelon Cherry 1.65 oz,Abarrotes,Golosinas - Varias
+831970,Galleta La Francesa Savoie Surtida 400 gr,Abarrotes,Galletas
 832248,Gomita Fini Minichcas Gusanos 100 gr,Abarrotes,Golosinas - Varias
 832253,Salsa BBQ Sauce Hot Promos 510 gr,Abarrotes,Salsas y Extracto de Tomate
 832345,Paella 46x4 cm,Bazar Importación,Cocina General
