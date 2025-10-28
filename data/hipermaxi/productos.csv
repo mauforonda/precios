@@ -1918,6 +1918,7 @@ id_producto,producto,categoria,subcategoria
 25445,MASTICABLE ZUNG FRUTA SURTIDA 280G,Abarrotes,Golosinas - Varias
 25446,MASTICABLE ZUNG YOGUR SURTIDO 280G,Abarrotes,Golosinas - Varias
 25447,CHICLE RELLENO TNT ACIDO 180GR,Abarrotes,Golosinas - Varias
+25450,Caramelo Arcor Halloween Hoz de Muerte 66 gr,Abarrotes,Temporada
 25451,Chupete Arcor Halloween Pops Extreme Duo 432 gr,Abarrotes,Temporada
 25452,Caramelo Arcor Halloween Sangrientos Mora 312 gr,Abarrotes,Temporada
 25453,GALLETA GUSTOSSI COCO CHOCOLATE 180G,Abarrotes,Galletas
@@ -1952,6 +1953,7 @@ id_producto,producto,categoria,subcategoria
 25789,Galleta Rocklets Chocolate 118 gr,Abarrotes,Galletas
 25945,SIXPACK MANDALA TROPICAL PUNCH 6X200ML,Bebidas,Bebidas Varias
 25947,SAL KOLLITA CHIMICHURRI FCO 800G,Abarrotes,Básicos
+25948,SAL KOLLITA CHIMICHURRI FCO 460G,Abarrotes,Básicos
 25950,JUGO PROMOS CRANBERRY 500ML,Bebidas,"Jugos, Néctar"
 25951,ISOTONICO ACTIVADE ZERO MANGO 600 ML,Bebidas,Isotónicos
 25952,ISOTONICO ACTIVADE ZERO SANDIA 600ML,Bebidas,Isotónicos
@@ -6216,6 +6218,7 @@ id_producto,producto,categoria,subcategoria
 141515,Chorizo Tipo Ahumado de Cerdo Hipermaxi al Vacio,Fiambres,Fiambres Hipermaxi
 141958,Jamon Tradicional Hipermaxi kg,Fiambres,Fiambres Hipermaxi
 141959,Chorizo Churrasquero Surtido kg,Fiambres,Fiambres Hipermaxi
+141999,PANETON HIPERMAXI CON CHIPS DE CHOCOLATE 90 GRS,Panadería,Panadería Especialidades Hipermaxi
 142233,Yerba Mate Campesino Katuava Ginseng 500 gr,Abarrotes,Café y Sucedáneos
 142542,Maiz de Pipoca Agromix 350 gr,Abarrotes,Condimentos y Legumbres
 142689,Elimina Humedad Mvasec Original 150 gr,Cuidado del Hogar,Productos Americanos
@@ -14955,13 +14958,16 @@ id_producto,producto,categoria,subcategoria
 553608,CHICLE SPLOT SANDIA ACIDA TIRA CJA 324 G,Abarrotes,Chocolates y Caramelos
 553609,GOMITAS GRISSLY OSOS 72 GR,Abarrotes,Golosinas - Varias
 553610,GOMITAS GRISSLY SANDIA 70 GR,Abarrotes,Golosinas - Varias
+553617,CAFE JAQAKU TOSTADO S AVELLANA 10CAPS 55,Abarrotes,Café y Sucedáneos
 553620,AGUA IONICA  ALCALINA  5 LT,Bebidas,Aguas
 553621,AGUA IONICA ALCALINA 2 LT,Bebidas,Aguas
 553622,AGUA IONICA ALCALINA 600CC,Bebidas,Aguas
+553625,PITO CANAHUA ILLA MANKA 250 GR,Abarrotes,Nutrición Infantil
 553629,TOMATE DESHIDRAT BRIXY FCO 210G,Abarrotes,Verduras en Conserva
 553630,VINAGRE BALSAMICO BRIXY BOT 400ML,Abarrotes,Básicos
 553631,VIANGRE BALSAMICO REDUCCION BRIXY  BOT 4,Abarrotes,Básicos
 553633,VINO KOHLBERG FUNDADOR TTO 700ML,Bebidas,Vinos y Champagne
+553635,HARINA FAMOSA 11.5 KG,Abarrotes,Básicos
 554333,Cerveza Paceña Lata Roja 473 Cc,Bebidas,Cervezas
 554466,Detergente Liquido Ola Futuro Limpieza Completa 5 L,Cuidado del Hogar,Limpieza de la Ropa
 554468,Suavizante Ropa Ola Suavecito Original 5 L,Cuidado del Hogar,Limpieza de la Ropa
@@ -19042,6 +19048,7 @@ id_producto,producto,categoria,subcategoria
 669721,TOALLA FEMENINA KOTEX NOCTURNA LARGA X6,Cuidado Personal,Cuidado Familiar
 669722,OLA MAX COCINA ESP DES REC DP 12X800ML,Cuidado del Hogar,Limpieza de Cocina
 669723,OLA MAX L BANOS ESP DES REC DP 12X800ML,Cuidado del Hogar,Limpieza de Baños
+669724,OLA MAX VIDRIOS MULTI REC DOYP 12X800ML,Cuidado del Hogar,Limpieza de Living y Ropero
 669901,Pizza Hipermaxi Congelada Hawaiana 620 gr,Congelados,Masas y Comidas Congeladas
 669902,Pizza Hipermaxi Congelada Jamon Queso Light Masa Integral,Congelados,Masas y Comidas Congeladas
 669903,Pizza Hipermaxi Congelada Pepperoni 620 gr,Congelados,Masas y Comidas Congeladas
@@ -20776,6 +20783,7 @@ id_producto,producto,categoria,subcategoria
 674600,YOGURT GALAKTOS TIPO GRIEGO 0 AZUCAR MORA 500GRS,Lácteos y Derivados,Yogures
 674602,PAN DE MESA ZELADA BOLSA 18 UNIDADES,Panadería,Panadería Externa
 674603,GRISSINES CHOCOLATE BOLSA 28 UNIDADES,Pastelería y Masas Típicas,Pastelería Externa
+674604,GALLETAS CON CHIPS ZELADA 180GRS BOLSA 14 UNI,Pastelería y Masas Típicas,Pastelería Externa
 674606,HUEVO MARRON MAPLE 20 UNI SOFIA EXTRA GRANDE,Lácteos y Derivados,Huevos
 674607,ENVASE SALTENAS SALTUCAS 7 UNIDADES CONG.,Congelados,Masas y Comidas Congeladas
 674613,ZOMBITS NARANJA ARANDANO,Congelados,"Helados, Cassattas y Picoleses"
@@ -22734,6 +22742,7 @@ id_producto,producto,categoria,subcategoria
 806247,Bebedero Para Mascota Portatil,Bazar,Mascotas General
 806388,Papa Pringles Ranch 158 gr,Abarrotes,Snack
 806926,CH 2547 SET PORTATEQUILA HALLOWEN X 5,Bazar Importación,Temporada Halloween
+807497,Vela Envase Diseño religioso 7x9 cm,Bazar Importación,Living y Dormitorio
 807538,Resaltador Stabilo Rosado,Bazar,Librería
 808002,Chocolate Toblerone 35 gr,Abarrotes,Golosinas - Varias
 808077,Crema Para Cafe Promos 11 oz,Abarrotes,Café y Sucedáneos
