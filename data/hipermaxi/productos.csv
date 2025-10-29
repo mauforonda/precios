@@ -1903,6 +1903,7 @@ id_producto,producto,categoria,subcategoria
 25411,MANI TOSTADO PICNIC CON SAL 80G,Abarrotes,Snack
 25413,MANI TOSTADO PICNIC CON SAL 250G,Abarrotes,Snack
 25420,PACK 3 GALLETAS FESTIVAL UND,Abarrotes,Galletas
+25421,CAFE JAQAKU SAN JOSE GRANO 250G,Abarrotes,Café y Sucedáneos
 25426,CAFE JAQAKU MOLIDO S CARAMELO 250G,Abarrotes,Café y Sucedáneos
 25429,NACHO NAX QUESO 200GR,Abarrotes,Snack
 25430,TOCINITOS TOCINAX BSA 120G,Abarrotes,Snack
@@ -1960,6 +1961,7 @@ id_producto,producto,categoria,subcategoria
 25954,VINO C SOLANA MALBEC BAD LANDS 750ML,Bebidas,Vinos y Champagne
 25955,SALSA CAYETANA LISTA P PIZZA LTA 400G,Abarrotes,Salsas y Extracto de Tomate
 25956,TWOPACK ENERGIZANTE VOLT 473 ML,Bebidas,Energizantes
+25960,SAL KOLLITA CON PAPRIKA FCO 460G,Abarrotes,Básicos
 25968,GALLETA GULLON GLUTEN FREE MARIA CJA 400,Abarrotes,Dietéticos y Saludables
 25969,Galleta Gullon Gluten Free Chocolate 200 gr,Abarrotes,Dietéticos y Saludables
 26000,Habas Charito Frita 160 gr,Abarrotes,Snack
@@ -6218,7 +6220,7 @@ id_producto,producto,categoria,subcategoria
 141515,Chorizo Tipo Ahumado de Cerdo Hipermaxi al Vacio,Fiambres,Fiambres Hipermaxi
 141958,Jamon Tradicional Hipermaxi kg,Fiambres,Fiambres Hipermaxi
 141959,Chorizo Churrasquero Surtido kg,Fiambres,Fiambres Hipermaxi
-141999,PANETON HIPERMAXI CON CHIPS DE CHOCOLATE 90 GRS,Panadería,Panadería Especialidades Hipermaxi
+141999,Mini Paneton Hipermaxi Chips de Chocolate 90 gr,Panadería,Panadería Especialidades Hipermaxi
 142233,Yerba Mate Campesino Katuava Ginseng 500 gr,Abarrotes,Café y Sucedáneos
 142542,Maiz de Pipoca Agromix 350 gr,Abarrotes,Condimentos y Legumbres
 142689,Elimina Humedad Mvasec Original 150 gr,Cuidado del Hogar,Productos Americanos
@@ -8030,7 +8032,7 @@ id_producto,producto,categoria,subcategoria
 228139,PASTILLA TODO BRILLO  TANQUE 50G,Cuidado del Hogar,Limpieza de Baños
 228140,PASTILLA TODO BRILLO TANQUE 3X50 GR,Cuidado del Hogar,Limpieza de Baños
 228142,SUAVIZANTE BRISA PLUS TODO BRILLO 800ML,Cuidado del Hogar,Limpieza de la Ropa
-228143,SUAVIZANTE TODO BRILLO FLORAL PLUS 800ML,Cuidado del Hogar,Limpieza de la Ropa
+228143,SUAVIZANTE TODOBRILLO FLORAL PLUS 800ML,Cuidado del Hogar,Limpieza de la Ropa
 228144,DESMAQUILLANTE BIFASICO REVIVE 200ML POT,Cuidado Personal,Cuidado del Adulto
 228145,Ron Havana Club 3 Años 1 L,Bebidas,Licores
 228146,PASTILLA BANO TODOBRILLO FLORAL 40G,Cuidado del Hogar,Limpieza de Baños
@@ -11292,7 +11294,7 @@ id_producto,producto,categoria,subcategoria
 403512,Tripa de Res kg,Carnes,Carne de Res
 403725,Mentitas Ambrosoli Mints 21 gr,Abarrotes,Golosinas - Varias
 403792,Yogurt Clarabella Natural de Cocina 1 L,Lácteos y Derivados,Yogures
-403954,Paneton Pil 750 gr,Panadería,Panadería Externa
+403954,Paneton Pil 700 gr,Panadería,Panadería Externa
 404001,Salsa Tostitos Frito Lays Quesos 15 oz,Abarrotes,Productos Americanos
 404011,Vino 1750 Cabernet Sauvignon 750 ml,Bebidas,Vinos y Champagne
 404013,Vino 1750 Tannat 750 ml,Bebidas,Vinos y Champagne
@@ -14954,6 +14956,7 @@ id_producto,producto,categoria,subcategoria
 553602,PIPOSAL MANTEQUILLA 230 GR,Abarrotes,Snack
 553603,VINAGRE DE ALCOHOL GUSTOSO 1 LT,Abarrotes,Básicos
 553604,VINAGRE DE VINO GUSTOSO 1 LT,Abarrotes,Básicos
+553605,VINAGRE DE MANZANA GUSTOSO 1 LT,Abarrotes,Básicos
 553606,SALSA SOYA GUSTOSO 1 LT,Abarrotes,Condimentos y Legumbres
 553608,CHICLE SPLOT SANDIA ACIDA TIRA CJA 324 G,Abarrotes,Chocolates y Caramelos
 553609,GOMITAS GRISSLY OSOS 72 GR,Abarrotes,Golosinas - Varias
@@ -17373,6 +17376,7 @@ id_producto,producto,categoria,subcategoria
 657795,Sopa Instantanea Mix Quinua Blanca Arroz,Abarrotes,Básicos
 657796,Sopa Instantanea Mix Quinua Negra Arroz,Abarrotes,Básicos
 657797,Sopa Instantanea Mix Quinua Roja Arroz,Abarrotes,Condimentos y Legumbres
+657799,GALLETA SURT LA FRANCESA CHRISTMAS 450 G,Abarrotes,Galletas
 657807,Vino Infinitum Blend Concepcion Tinto 750 ml,Bebidas,Vinos y Champagne
 657809,Fideo Don Vittorio Fettuccini 400 gr,Abarrotes,Básicos
 657811,Whisky Johnnie Walker Blue Label 200 ml,Bebidas,Licores
@@ -19873,7 +19877,7 @@ id_producto,producto,categoria,subcategoria
 672884,Galleta de Avena 9 un,Pastelería y Masas Típicas,Pastelería Externa
 672903,Papa Sofia Pre Fritas Tradiional 400 gr,Congelados,Masas y Comidas Congeladas
 672904,Queso Fundido Untable Kayku 230 gr,Lácteos y Derivados,Quesos
-672905,PANETON CHOCOCHIP 750 G. BOLSA LA FRANCESA (NUEVO),Panadería,Panadería Externa
+672905,PANETON CHOCOCHIP 750 G. BOLSA LA FRANCE,Panadería,Panadería Externa
 672909,Mortadela Jamonada Fridosa 500 gr,Fiambres,Fiambres Externos
 672913,Waffle Go Green Congelado Vainilla 8 un,Congelados,Masas y Comidas Congeladas
 672915,Waffle Go Green Congelado Arandano 8 un,Congelados,Masas y Comidas Congeladas
@@ -20787,6 +20791,7 @@ id_producto,producto,categoria,subcategoria
 674606,HUEVO MARRON MAPLE 20 UNI SOFIA EXTRA GRANDE,Lácteos y Derivados,Huevos
 674607,ENVASE SALTENAS SALTUCAS 7 UNIDADES CONG.,Congelados,Masas y Comidas Congeladas
 674613,ZOMBITS NARANJA ARANDANO,Congelados,"Helados, Cassattas y Picoleses"
+674615,QUESO MOZZARELLA SANTA ELENA 400GRS UNIDAD,Lácteos y Derivados,Quesos
 674616,QUESO MOZZARELLA SANTA ELENA LAMINADO 160GRS,Lácteos y Derivados,Quesos
 674618,PIPOPANETON HALLOWEEN FRANKENSTEIN CAJA UNI,Panadería,Panadería Externa
 674619,PIPOPANETON HALLOWEEN CALABAZA CAJA UNI,Panadería,Panadería Externa
@@ -21955,7 +21960,7 @@ id_producto,producto,categoria,subcategoria
 782630,Huevos Caisy Nutricion 30 un,Lácteos y Derivados,Huevos
 782637,Galleta de Coco Europan,Panadería,Panadería Externa
 782652,Pan de Panchito American King 8 un,Panadería,Panadería Externa
-782655,Mini Paneton Hipermaxi 80 gr,Panadería,Panadería Especialidades Hipermaxi
+782655,Mini Paneton Hipermaxi Tradicional 90 gr,Panadería,Panadería Especialidades Hipermaxi
 782677,Magdalenas 10 un,Panadería,Panadería Especialidades Hipermaxi
 782681,Hamburguesa Sofia Not Burger 95 gr,Congelados,Carnes Congeladas
 782683,Pan Molde American Integral 567 gr,Panadería,Panadería Externa
@@ -24855,6 +24860,7 @@ id_producto,producto,categoria,subcategoria
 868299,PACK PANTENE 1SH CUID 2EN1 400ML 1AC FUE,Cuidado Personal,Cuidado del Cabello
 868300,FIXER GEL SUPER EXTRA FUERTE 12X50G,Cuidado Personal,Cuidado del Cabello
 868301,PACK LYSOFORM 285 X 2,Cuidado del Hogar,Limpieza de Baños
+868457,CH 37 16 LAMPARA LED PEQUENA PARA MESA 38X13CM,Bazar Importación,Ferretería
 868523,CH 3009 VASO DE VIDRIO 200ML,Bazar Importación,Menaje Vidrio/Cristal
 868525,Individual de Mesa Rectangular 30x45 cm,Bazar Importación,Cocina General
 868526,Individual de Mesa Franjas de Colores 30x45 cm,Bazar Importación,Cocina General
