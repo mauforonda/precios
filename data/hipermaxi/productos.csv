@@ -1924,6 +1924,7 @@ id_producto,producto,categoria,subcategoria
 25452,Caramelo Arcor Halloween Sangrientos Mora 312 gr,Abarrotes,Temporada
 25453,GALLETA GUSTOSSI COCO CHOCOLATE 180G,Abarrotes,Galletas
 25454,GALLETA GUSTOSSI COCO CHOCOLATE 680G,Abarrotes,Galletas
+25456,GALLETA GULLON MARIA TOSTADA ZERO 200G,Abarrotes,Dietéticos y Saludables
 25458,BOCADITO D TRIGO EVER TOCINO 200G,Abarrotes,Snack
 25459,BOCADITO D TRIGO EVER PICANTE 200G,Abarrotes,Snack
 25460,PALITOS D MAIZ TRON CHEESE 155G,Abarrotes,Snack
@@ -5061,6 +5062,7 @@ id_producto,producto,categoria,subcategoria
 110510,Gaseosa Crush Uva 12 oz,Bebidas,Bebidas Usa
 110515,Multigranola Granovic 250 gr,Abarrotes,Nutrición Infantil
 110516,Quinua Granovic Con Miel 180 gr,Abarrotes,Nutrición Infantil
+110577,GALLETA GULLON SHARKIES S GLUTEN 250G,Abarrotes,Dietéticos y Saludables
 110701,Piña en Rodajas Campo Verde 820 gr,Abarrotes,Frutas en Conserva
 110861,Salame Pequeño Stege 140 gr,Fiambres,Fiambres Externos
 110867,Queso de Cerdo Stege al Vacio 160 Grs,Fiambres,Fiambres Externos
@@ -5850,7 +5852,7 @@ id_producto,producto,categoria,subcategoria
 121353,Pack Salchicha San Juan 12 un,Fiambres,Fiambres Hipermaxi
 121359,Pan Negro Cochabambino,Panadería,Panadería Hipermaxi
 121375,Empanada de Pollo Hipermaxi kg,Pastelería y Masas Típicas,Masas Típicas Hipermaxi
-121392,Paneton Hipermaxi 750 gr,Panadería,Panadería Especialidades Hipermaxi
+121392,Paneton Hipermaxi Tradicional 750 gr,Panadería,Panadería Especialidades Hipermaxi
 121452,Hoja de Carpeta Lider 500 Hojas,Bazar,Librería
 121480,Porcion de Pie Surtido Hipermaxi,Pastelería y Masas Típicas,Pastelería Hipermaxi
 121537,Paneton Hipermaxi Chips Chocolate 650 gr,Panadería,Panadería Especialidades Hipermaxi
@@ -14539,6 +14541,7 @@ id_producto,producto,categoria,subcategoria
 553027,Te Hindu Superbled,Abarrotes,Café y Sucedáneos
 553028,Te Hindu Superblend Relax 10 Sobres,Abarrotes,Café y Sucedáneos
 553029,BOLSO TELA PARA REGALOS GRANDE,Bazar,Temporada Navidad
+553030,BOLSO TELA PARA REGALOS MEDIANA,Bazar,Temporada Navidad
 553031,SINGANI LEYENDA 750 ML,Bebidas,Licores
 553032,SINGANI INSOLENTE 750 ML,Bebidas,Licores
 553033,Vape Umo Watermelon Ice 18000 Puffs,Bebidas,Cigarrillos
@@ -14856,6 +14859,7 @@ id_producto,producto,categoria,subcategoria
 553381,SALSA ULUPICAS MANGO RINCON MADERAS FCO,Abarrotes,Aderezos
 553382,SALSA R MADERAS TERIYAKI D ULUPICAS 55ML,Abarrotes,Aderezos
 553383,PASTA DE AJO RINCO MADERAS FCO 210G,Abarrotes,Condimentos y Legumbres
+553384,ESCABECHE VERDURAS RINCON MADE 460G,Abarrotes,Verduras en Conserva
 553385,BOMBON TABU BSA 250 GR,Abarrotes,Chocolates y Caramelos
 553386,PACK 3 JUGOS DEL SOL TETRA 1 LT,Bebidas,"Jugos, Néctar"
 553387,Galleta Oreo Selena Tubo 108 g,Abarrotes,Galletas
@@ -22453,7 +22457,7 @@ id_producto,producto,categoria,subcategoria
 789523,Primavera de Verduras Congelada Minuto Verde 500 gr,Congelados,Pulpas y Frutas Congeladas
 789526,Nectar Congelado Delifruta Acerola 500 gr,Congelados,Pulpas y Frutas Congeladas
 789537,Lomo de Cerdo Ahumado Merida Feteado 100 gr,Fiambres,Fiambres Externos
-789538,Cuñape de Arroz Ingrid Davieds 10 un,Pastelería y Masas Típicas,Masas Típicas Externas
+789538,Rosquitas de Arroz Ingrid Davieds 120 g,Pastelería y Masas Típicas,Masas Típicas Externas
 789541,Carne Deshidratada Jerky Original 100 gr,Carnes,Carnes Procesadas
 789546,PALITOS CHIA SALUD 80 GR,Panadería,Panadería Externa
 789572,Carne Deshidratada Jerky Teriyaki 100 gr,Carnes,Carnes Procesadas
@@ -24607,7 +24611,12 @@ id_producto,producto,categoria,subcategoria
 858390,Hierba Buena 1 un,Frutas y Verduras,Verduras
 858392,Wacataya 1 un,Frutas y Verduras,Verduras
 858393,Quirquiña 1 un,Frutas y Verduras,Verduras
+858454,CH 41 2 CABLE USB C DE CARGA RAPIDA 1M,Bazar Importación,Telefonia y Accesorios
+858455,CH 41 3 CABLE USB UNIVERSAL 3 EN 1 X 1M,Bazar Importación,Telefonia y Accesorios
+858458,CH 41 6 ADAPTADOR USB DE CARGA RAPIDA,Bazar Importación,Telefonia y Accesorios
 858540,Bombon Breick Selectos Cuore 190 gr,Abarrotes,Chocolates y Caramelos
+858566,CH K003C TECLADO B7 PARA CELULAR O TABLETA NEGRO BLANCO,Bazar Importación,Computadoras/Camaras/Filma y  Accesorio
+858567,CH HL01 SOPORTE PARA CELULAR 15X11X4,Bazar Importación,Computadoras/Camaras/Filma y  Accesorio
 858660,Pilas Alcalinas Power Blister AAA4,Bazar,Ferretería
 858661,Pilas Alcalinas Power Blister AA 4,Bazar,Ferretería
 858668,FMSA NENUCO BABY TALKS NUEVOS VESTIDOS,Juguetería,Juguetería Marcas
@@ -24860,7 +24869,15 @@ id_producto,producto,categoria,subcategoria
 868299,PACK PANTENE 1SH CUID 2EN1 400ML 1AC FUE,Cuidado Personal,Cuidado del Cabello
 868300,FIXER GEL SUPER EXTRA FUERTE 12X50G,Cuidado Personal,Cuidado del Cabello
 868301,PACK LYSOFORM 285 X 2,Cuidado del Hogar,Limpieza de Baños
+868449,CH W37 3 SOPORTE PARA CELULAR A RAYAS BLANCO NEGRO,Bazar Importación,Computadoras/Camaras/Filma y  Accesorio
+868450,CH 37 4 SOPORTE PARA CELULAR LISO COLORES METALICOS,Bazar Importación,Computadoras/Camaras/Filma y  Accesorio
+868451,CH 37 9 SOPORTE UNIVERSAL MAGNETICO PARA CELULAR 3X4CM,Bazar Importación,Computadoras/Camaras/Filma y  Accesorio
+868454,CH 37 12 POWER BANK CON ADAPTADORES 10X14X3CM,Bazar Importación,Telefonia y Accesorios
+868455,CH 37 13 SOPORTE PARA CELULAR 11X7 5X4 5CM,Bazar Importación,Computadoras/Camaras/Filma y  Accesorio
+868456,CH 37 14 TECLADO INALAMBRICO NEGRO CON CABLE USB Y CONECTOR,Bazar Importación,Computadoras/Camaras/Filma y  Accesorio
 868457,CH 37 16 LAMPARA LED PEQUENA PARA MESA 38X13CM,Bazar Importación,Ferretería
+868459,CH 37 20 CARGADOR INALAMBRICO PLEGABLE 3 EN 1,Bazar Importación,Telefonia y Accesorios
+868461,CH 27 24 CARGADOR INALAMBRICO DE CARGA RAPIDA 3 EN 1,Bazar Importación,Telefonia y Accesorios
 868523,CH 3009 VASO DE VIDRIO 200ML,Bazar Importación,Menaje Vidrio/Cristal
 868525,Individual de Mesa Rectangular 30x45 cm,Bazar Importación,Cocina General
 868526,Individual de Mesa Franjas de Colores 30x45 cm,Bazar Importación,Cocina General
