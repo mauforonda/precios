@@ -1904,6 +1904,7 @@ id_producto,producto,categoria,subcategoria
 25413,MANI TOSTADO PICNIC CON SAL 250G,Abarrotes,Snack
 25420,PACK 3 GALLETAS FESTIVAL UND,Abarrotes,Galletas
 25421,CAFE JAQAKU SAN JOSE GRANO 250G,Abarrotes,Café y Sucedáneos
+25422,CAFE JAQAKU CARANAVI GRANO 250G,Abarrotes,Café y Sucedáneos
 25426,CAFE JAQAKU MOLIDO S CARAMELO 250G,Abarrotes,Café y Sucedáneos
 25429,NACHO NAX QUESO 200GR,Abarrotes,Snack
 25430,TOCINITOS TOCINAX BSA 120G,Abarrotes,Snack
@@ -1949,6 +1950,7 @@ id_producto,producto,categoria,subcategoria
 25487,CIGARRILLO BOHEM SANDIA DOUBLE 20UND,Bebidas,Cigarrillos
 25488,CIGARRILLO BOHEM TUNDRA DOUBLE 20UND,Bebidas,Cigarrillos
 25494,CERVEZA BENDITA PILS LTA 310 ML,Bebidas,Cervezas
+25495,SAL PARRILLERA KOLLITA AHUMADA 440G,Abarrotes,Básicos
 25496,SIXPACK MANDALA PINK LEMON 6X200ML,Bebidas,Bebidas Varias
 25640,Surtido de Mariscos Robinson Crusoe Natural 190 gr,Abarrotes,Comidas en Conserva
 25771,Huevos Caisy 12 un,Lácteos y Derivados,Huevos
@@ -1962,7 +1964,9 @@ id_producto,producto,categoria,subcategoria
 25954,VINO C SOLANA MALBEC BAD LANDS 750ML,Bebidas,Vinos y Champagne
 25955,SALSA CAYETANA LISTA P PIZZA LTA 400G,Abarrotes,Salsas y Extracto de Tomate
 25956,TWOPACK ENERGIZANTE VOLT 473 ML,Bebidas,Energizantes
+25958,SAL KOLLITA CON AJO FCO 460G,Abarrotes,Básicos
 25960,SAL KOLLITA CON PAPRIKA FCO 460G,Abarrotes,Básicos
+25962,SAL KOLLITA CON APIO FCO 460G,Abarrotes,Básicos
 25968,GALLETA GULLON GLUTEN FREE MARIA CJA 400,Abarrotes,Dietéticos y Saludables
 25969,Galleta Gullon Gluten Free Chocolate 200 gr,Abarrotes,Dietéticos y Saludables
 26000,Habas Charito Frita 160 gr,Abarrotes,Snack
@@ -4990,8 +4994,8 @@ id_producto,producto,categoria,subcategoria
 109653,Acondicionador Ballerina sin Sal Palta Almendra 410 ml,Cuidado Personal,Cuidado del Cabello
 109654,Acondicionador Ballerina Manzanilla 410 ml,Cuidado Personal,Cuidado del Cabello
 109655,Shampoo Ballerina Onda Rizo Doypack 900 ml,Cuidado Personal,Cuidado del Cabello
-109656,Acondicionador Ballerina Onda Rizo Doypack 900 ml,Cuidado Personal,Cuidado del Cabello
-109658,Acondicionador Ballerina Largos Increibles Doypack 900 ml,Cuidado Personal,Cuidado del Cabello
+109656,Acondicionador Ballerina Onda Rizo Doypack 750 ml,Cuidado Personal,Cuidado del Cabello
+109658,Acondicionador Ballerina Largos Increibles Doypack 750 ml,Cuidado Personal,Cuidado del Cabello
 109710,Lavavajilla Jamsa Naranja 700 ml,Cuidado del Hogar,Limpieza de Cocina
 109712,Lavavajilla Jamsa Limon 700 ml,Cuidado del Hogar,Limpieza de Cocina
 109713,Jabon Liquido Jamsa Antioxidante 1 L,Cuidado Personal,Cuidado de la Piel
@@ -5279,7 +5283,7 @@ id_producto,producto,categoria,subcategoria
 112953,Fijador Spray Roby Normal 180 ml,Cuidado Personal,Cuidado del Cabello
 112967,Jabon Liquido Ballerina Aceite Coco 1 L,Cuidado Personal,Cuidado de la Piel
 112970,Shampoo Ballerina sin Sal Aceite Coco Doypack 900 ml,Cuidado Personal,Cuidado del Cabello
-112971,Acondicionador Ballerina Sin Sal Aceite coco Doypack 900 ml,Cuidado Personal,Cuidado del Cabello
+112971,Acondicionador Ballerina Sin Sal Aceite coco Doypack 750 ml,Cuidado Personal,Cuidado del Cabello
 112973,Shampoo Ballerina sin Sal Aceite Coco 750 ml,Cuidado Personal,Cuidado del Cabello
 112975,Acondicionador Ballerina Sin Sal Aceite Coco 750 ml,Cuidado Personal,Cuidado del Cabello
 112981,Gel Sanitizador Aval Tender Baby 380 ml,Cuidado Personal,Cuidado de la Piel
@@ -8314,8 +8318,8 @@ id_producto,producto,categoria,subcategoria
 230552,Antihumedad Limppano Inspira Carvao Activado 230 gr,Cuidado del Hogar,Limpieza de Living y Ropero
 230554,Antihumedad Limppano Inspira Carvao Activado 80 gr,Cuidado del Hogar,Limpieza de Living y Ropero
 230555,Shampoo Ballerina Palta sin Sal Doypack 900 ml,Cuidado Personal,Cuidado del Cabello
-230556,Acondicionador Ballerina Suavidad  sin Sal Palta 900 ml,Cuidado Personal,Cuidado del Cabello
-230558,Acondicionador Ballerina Granada sin Sal Doypack 900 ml,Cuidado Personal,Cuidado del Cabello
+230556,Acondicionador Ballerina Suavidad  sin Sal Palta 750 ml,Cuidado Personal,Cuidado del Cabello
+230558,Acondicionador Ballerina Granada sin Sal Doypack 750 ml,Cuidado Personal,Cuidado del Cabello
 230559,Shampoo Ballerina sin Sal Palta 750 ml,Cuidado Personal,Cuidado del Cabello
 230560,Acondicionador Ballerina Palta sin Sal 750 ml,Cuidado Personal,Cuidado del Cabello
 230580,Agua Vital Sport Sin Gas 990 ml,Bebidas,Aguas
@@ -9901,7 +9905,7 @@ id_producto,producto,categoria,subcategoria
 333645,Detergente Polvo Skip Comfort 3.8 kg,Cuidado del Hogar,Limpieza de la Ropa
 333717,Vino Etchart Privado Torrontes 750 ml,Bebidas,Vinos y Champagne
 333750,ACO BALLERINA GRANADA +AH FCO 410ML,Cuidado Personal,Cuidado del Cabello
-333752,Acondicionador Ballerina Bajopoo Doypack 900 ml,Cuidado Personal,Cuidado del Cabello
+333752,Acondicionador Ballerina Bajopoo Doypack 750 ml,Cuidado Personal,Cuidado del Cabello
 333754,Jabon Liquido Johnsons Recien Nacido 200 ml KNV,Cuidado del Bebé,Cuidado del Bebé
 333755,Crema Hidratante Johnsons Gel Recien nacido 200 ml KNV,Cuidado del Bebé,Cuidado del Bebé
 333770,Limpiador de Baño Sapolio Quita Sarro Power Plus 750 ml,Cuidado del Hogar,Limpieza de Baños
@@ -9938,7 +9942,7 @@ id_producto,producto,categoria,subcategoria
 334260,Te Supremo Rendidora 50 Sobres,Abarrotes,Café y Sucedáneos
 334278,Te Supremo Rendidora 100 Sobres,Abarrotes,Café y Sucedáneos
 334338,Acondicionador Ballerina Antioxidante Maqui Acai 750 ml,Cuidado Personal,Cuidado del Cabello
-334342,Acondicionador Ballerina Antioxidante Maqui Acai Doypack 900 ml,Cuidado Personal,Cuidado del Cabello
+334342,Acondicionador Ballerina Antioxidante Maqui Acai Doypack 750 ml,Cuidado Personal,Cuidado del Cabello
 334501,Jabon Liquido Liz Yogurt Frutos Doypack 900 ml,Cuidado Personal,Cuidado de la Piel
 334565,Chocolate Bolivias Fruit Almendra 70 gr,Abarrotes,Chocolates y Caramelos
 334566,Quinua Insuflada Bolivia Fruit 168 gr,Abarrotes,Nutrición Infantil
@@ -14970,6 +14974,7 @@ id_producto,producto,categoria,subcategoria
 553621,AGUA IONICA ALCALINA 2 LT,Bebidas,Aguas
 553622,AGUA IONICA ALCALINA 600CC,Bebidas,Aguas
 553625,PITO CANAHUA ILLA MANKA 250 GR,Abarrotes,Nutrición Infantil
+553628,AMARANTO INSTANTANEO ILLA MANKA 250 GR,Abarrotes,Nutrición Infantil
 553629,TOMATE DESHIDRAT BRIXY FCO 210G,Abarrotes,Verduras en Conserva
 553630,VINAGRE BALSAMICO BRIXY BOT 400ML,Abarrotes,Básicos
 553631,VIANGRE BALSAMICO REDUCCION BRIXY  BOT 4,Abarrotes,Básicos
@@ -15297,6 +15302,7 @@ id_producto,producto,categoria,subcategoria
 597082,Vino Casillero del Diablo Merlot 750 ml,Bebidas,Vinos y Champagne
 597163,Vino Casillero del Diablo Malbec 750 ml,Bebidas,Vinos y Champagne
 597970,COMIDA P/BEBE 2 GERBER CHICKEN 71 GR,Abarrotes,Productos Americanos
+598844,COMIDA P/BEBE GERBER BEEF 2DO.PASO 71 G,Abarrotes,Productos Americanos
 599409,Gaseosa Coca Cola Cherry USA 355 ml,Bebidas,Bebidas Usa
 599412,Aceituna Negras Rebanadas 184 gr,Abarrotes,Productos Americanos
 600040,Paño  para Vajilla,Cuidado del Hogar,Accesorios del Hogar
@@ -15590,7 +15596,7 @@ id_producto,producto,categoria,subcategoria
 615812,Cepillo Dental Dentalclean Nuevo 1 un,Cuidado Personal,Cuidado Bucal
 615904,Shampoo Ballerina Manzanilla Doypack 900 ml,Cuidado Personal,Cuidado del Cabello
 615905,Shampoo Ballerina Hipoalergenico Doypack 900 ml,Cuidado Personal,Cuidado del Cabello
-615907,Acondicionador Ballerina Manzanilla Doypack 900 ml,Cuidado Personal,Cuidado del Cabello
+615907,Acondicionador Ballerina Manzanilla Doypack 750 ml,Cuidado Personal,Cuidado del Cabello
 615923,Crema Ponds Rejuvenes Noches 100 gr,Cuidado Personal,Cuidado de la Piel
 615929,Cafe Monterrey Clasico 170 gr,Abarrotes,Café y Sucedáneos
 615943,Galleta Mana Vainilla Chocolate 152 gr,Abarrotes,Galletas
@@ -20760,6 +20766,7 @@ id_producto,producto,categoria,subcategoria
 674561,Alimento Bebible Soya Nordland Frutilla 950 ml,Lácteos y Derivados,Leches
 674562,QUESO MOZZARELLA NOELIA 400GRS A/V,Lácteos y Derivados,Quesos
 674563,QUESO MOZZARELLA LAS LOMAS 400 GRS,Lácteos y Derivados,Quesos
+674564,QUESO MOZZARELLA NOELIA BARRA KGR,Lácteos y Derivados,Quesos
 674568,CHOCOMILK LA PURITA UHT 110ML,Lácteos y Derivados,Leches
 674569,PURICHOC LA PURITA 110ML,Lácteos y Derivados,Leches
 674571,GALLETA QUINUA NARANJA VALECA 200GRS,Pastelería y Masas Típicas,Pastelería Externa
@@ -22278,7 +22285,7 @@ id_producto,producto,categoria,subcategoria
 786639,Chorizo Ahumado a Granel Sofia kg,Fiambres,Fiambres Externos
 786715,Pan Integral Bread King Multigrano 580 gr,Panadería,Panadería Externa
 786726,Mortadela Jamonada Mixta Hipermaxi kg,Fiambres,Fiambres Hipermaxi
-786727,PANETON CAJA CHOCO CHIP LA FRANCESA 560 GRS.,Panadería,Panadería Externa
+786727,PANETON CAJA CHOCO CHIP LA FRANCESA 560,Panadería,Panadería Externa
 786728,Mortadela Jamonada Mixta al Vacio,Fiambres,Fiambres Hipermaxi
 786748,Arepas de Maiz con Queso Sabor Colombiano 10 un,Congelados,Masas y Comidas Congeladas
 786752,Yogurt Lesama Mix Remolacha Mora 2 L,Lácteos y Derivados,Yogures
@@ -24611,12 +24618,12 @@ id_producto,producto,categoria,subcategoria
 858390,Hierba Buena 1 un,Frutas y Verduras,Verduras
 858392,Wacataya 1 un,Frutas y Verduras,Verduras
 858393,Quirquiña 1 un,Frutas y Verduras,Verduras
-858454,CH 41 2 CABLE USB C DE CARGA RAPIDA 1M,Bazar Importación,Telefonia y Accesorios
-858455,CH 41 3 CABLE USB UNIVERSAL 3 EN 1 X 1M,Bazar Importación,Telefonia y Accesorios
-858458,CH 41 6 ADAPTADOR USB DE CARGA RAPIDA,Bazar Importación,Telefonia y Accesorios
+858454,Cable USB Data Carga Rapida 1 M,Bazar Importación,Telefonia y Accesorios
+858455,Cable USB Universal 3 en 1,Bazar Importación,Telefonia y Accesorios
+858458,Adaptador USB Carga Rapida,Bazar Importación,Telefonia y Accesorios
 858540,Bombon Breick Selectos Cuore 190 gr,Abarrotes,Chocolates y Caramelos
-858566,CH K003C TECLADO B7 PARA CELULAR O TABLETA NEGRO BLANCO,Bazar Importación,Computadoras/Camaras/Filma y  Accesorio
-858567,CH HL01 SOPORTE PARA CELULAR 15X11X4,Bazar Importación,Computadoras/Camaras/Filma y  Accesorio
+858566,Teclado para Celular o Tablet,Bazar Importación,Computadoras/Camaras/Filma y  Accesorio
+858567,Soporte para Celular Holder,Bazar Importación,Computadoras/Camaras/Filma y  Accesorio
 858660,Pilas Alcalinas Power Blister AAA4,Bazar,Ferretería
 858661,Pilas Alcalinas Power Blister AA 4,Bazar,Ferretería
 858668,FMSA NENUCO BABY TALKS NUEVOS VESTIDOS,Juguetería,Juguetería Marcas
@@ -24813,6 +24820,7 @@ id_producto,producto,categoria,subcategoria
 865238,Pan Molde Integral Belen Zanahoria 550 g,Panadería,Panadería Externa
 865243,Pan Molde Integral Belen Uvas Pasas 550 g,Panadería,Panadería Externa
 865263,Pañuelos Elite Varios Aromas 6 un,Aseo Personal,Cuidado Familiar
+865297,PLANCHA VAPOR TAURUS ATALS 2400,Bazar,Electrodoméstico/Línea Blanca-Hogar
 865327,Tortillas Guadalajara Mexicanas de Trigo 18 cm,Congelados,Masas y Comidas Congeladas
 865510,Margarina Reyna 100 gr,Lácteos y Derivados,Mantequillas y Margarinas
 865645,Neceser Plastico Nadine,Bazar,Menaje Plástico
@@ -24869,15 +24877,15 @@ id_producto,producto,categoria,subcategoria
 868299,PACK PANTENE 1SH CUID 2EN1 400ML 1AC FUE,Cuidado Personal,Cuidado del Cabello
 868300,FIXER GEL SUPER EXTRA FUERTE 12X50G,Cuidado Personal,Cuidado del Cabello
 868301,PACK LYSOFORM 285 X 2,Cuidado del Hogar,Limpieza de Baños
-868449,CH W37 3 SOPORTE PARA CELULAR A RAYAS BLANCO NEGRO,Bazar Importación,Computadoras/Camaras/Filma y  Accesorio
-868450,CH 37 4 SOPORTE PARA CELULAR LISO COLORES METALICOS,Bazar Importación,Computadoras/Camaras/Filma y  Accesorio
-868451,CH 37 9 SOPORTE UNIVERSAL MAGNETICO PARA CELULAR 3X4CM,Bazar Importación,Computadoras/Camaras/Filma y  Accesorio
-868454,CH 37 12 POWER BANK CON ADAPTADORES 10X14X3CM,Bazar Importación,Telefonia y Accesorios
-868455,CH 37 13 SOPORTE PARA CELULAR 11X7 5X4 5CM,Bazar Importación,Computadoras/Camaras/Filma y  Accesorio
-868456,CH 37 14 TECLADO INALAMBRICO NEGRO CON CABLE USB Y CONECTOR,Bazar Importación,Computadoras/Camaras/Filma y  Accesorio
+868449,Soporte para Celulares Ezra a Rayas,Bazar Importación,Computadoras/Camaras/Filma y  Accesorio
+868450,Soporte para Celular Ezra Liso Metalicos,Bazar Importación,Computadoras/Camaras/Filma y  Accesorio
+868451,Soporte para Celular Universal Magnetico 3x4 cm,Bazar Importación,Computadoras/Camaras/Filma y  Accesorio
+868454,Kit Cables Adaptador 10x14x3 cm,Bazar Importación,Telefonia y Accesorios
+868455,Soporte para Celular Ezra,Bazar Importación,Computadoras/Camaras/Filma y  Accesorio
+868456,Teclado Inalambrico con Cable USB y Conector,Bazar Importación,Computadoras/Camaras/Filma y  Accesorio
 868457,CH 37 16 LAMPARA LED PEQUENA PARA MESA 38X13CM,Bazar Importación,Ferretería
-868459,CH 37 20 CARGADOR INALAMBRICO PLEGABLE 3 EN 1,Bazar Importación,Telefonia y Accesorios
-868461,CH 27 24 CARGADOR INALAMBRICO DE CARGA RAPIDA 3 EN 1,Bazar Importación,Telefonia y Accesorios
+868459,Cargador Inalambrico Plegable 3 en 1,Bazar Importación,Telefonia y Accesorios
+868461,Cargador Inalambrico Carga Rapida 3 en 1,Bazar Importación,Telefonia y Accesorios
 868523,CH 3009 VASO DE VIDRIO 200ML,Bazar Importación,Menaje Vidrio/Cristal
 868525,Individual de Mesa Rectangular 30x45 cm,Bazar Importación,Cocina General
 868526,Individual de Mesa Franjas de Colores 30x45 cm,Bazar Importación,Cocina General
