@@ -1809,6 +1809,7 @@ id_producto,producto,categoria,subcategoria
 25261,MAYONESA CEPERA S CHURRASCO PET 200G,Abarrotes,Aderezos
 25262,CREMA P CAFE COUNTRY BARN 16 OZ,Abarrotes,Café y Sucedáneos
 25263,CREMA P CAFE COUNTRY BARN 11 OZ,Abarrotes,Café y Sucedáneos
+25264,CREMA P CAFE COUNTRY BARN 6 OZ,Abarrotes,Café y Sucedáneos
 25265,CHOCLO CEPERA LTA 170G,Abarrotes,Verduras en Conserva
 25266,ARVEJA CEPERA LTA 170G,Abarrotes,Verduras en Conserva
 25267,KETCHUP PICKLES CEPERA PET 350G,Abarrotes,Aderezos
@@ -7947,6 +7948,7 @@ id_producto,producto,categoria,subcategoria
 227786,Cafe 3 Corazones Extra Fuerte 250 gr,Abarrotes,Café y Sucedáneos
 227787,Cafe 3 Corazones Premium 500 Gr,Abarrotes,Café y Sucedáneos
 227791,Cafe 3 Corazones Capuccino Clasico 200 gr,Abarrotes,Café y Sucedáneos
+227819,Mermelada Candy Alimenta Piña 200 gr,Abarrotes,"Mermel, Mieles"
 227820,Vino Casillero del Diablo Chardonay 750 ml,Bebidas,Vinos y Champagne
 227830,Bombon Garoto Surtido 128 gr,Abarrotes,Chocolates y Caramelos
 227838,Te Supremo La Rendidora 20 Sobres,Abarrotes,Café y Sucedáneos
@@ -8132,7 +8134,7 @@ id_producto,producto,categoria,subcategoria
 228286,LABIAL TEDDY TINT  SUGAR VENOM,Cuidado Personal,Cuidado de la Piel
 228288,LABIAL TEDDY TINT  SKINNYDIP,Cuidado Personal,Cuidado de la Piel
 228289,LABIAL TEDDY TINT  CURRENT MOOD,Cuidado Personal,Cuidado de la Piel
-228291,MASC. PESTANA FIREWORK ELECTRO WATER,Cuidado Personal,Cuidado de la Piel
+228291,Rímel Maybelline Lash Sensational Firework,Cuidado Personal,Cuidado de la Piel
 228296,ACONDIC BALLERINA  REPARACION DP 750ML,Cuidado Personal,Cuidado del Cabello
 228297,ACONDC SUAVELINA MANZANILLA DP 750 ML,Cuidado Personal,Cuidado del Cabello
 228298,SHAMPOO SUAVELINA HIPOALERGENICO DP 750,Cuidado Personal,Cuidado del Cabello
@@ -19049,6 +19051,7 @@ id_producto,producto,categoria,subcategoria
 669671,NEUTROGENA SFRESH 50 OC COL 2 6X40ML,Cuidado Personal,Cuidado de la Piel
 669672,NEUTROGENA HB GEL CLEAN 6X150ML,Cuidado Personal,Cuidado de la Piel
 669708,TRIPACK DE ESPONJAS TININDO,Cuidado del Hogar,Accesorios del Hogar
+669709,PACK VAJILL LIMON5L+GUANT MUT M BRISTAR,Cuidado del Hogar,Limpieza de Cocina
 669710,PACK VAJILL LIMON1050+GUANTMULT M BRI,Cuidado del Hogar,Limpieza de Cocina
 669711,LAVAVAJILLASFLORES Y COLAG BRISTAR 600 M,Cuidado del Hogar,Limpieza de Cocina
 669712,PACK 2 TOALEX ROLLO BLANCO,Cuidado del Hogar,Limpieza de Cocina
@@ -23865,7 +23868,7 @@ id_producto,producto,categoria,subcategoria
 852099,Margarina Reyna 215 gr,Lácteos y Derivados,Mantequillas y Margarinas
 852165,JUEGO MESA 4 EN 1  BOLIVMAR,Juguetería,Juguetería Didáctica/Temporada
 852173,Margarina Reyna Valle 850 gr,Lácteos y Derivados,Mantequillas y Margarinas
-852210,BATIDORA NEW MIXO PRACTIKA,Bazar,Electrodoméstico/Línea Blanca-Hogar
+852210,Batidora New Mixo Practika Electro,Bazar,Electrodoméstico/Línea Blanca-Hogar
 852268,Escoba de Bruja,Bazar Importación,Temporada Halloween
 852269,CH 34 4 MUNECO CALAVERA HALLOWEEN MUSICAL 52CM,Bazar Importación,Temporada Halloween
 852270,Espuma Carnavalera Alegria 500 ml,Bazar,Temporada Carnaval
@@ -24710,7 +24713,7 @@ id_producto,producto,categoria,subcategoria
 861398,Plato + Juguete Mascota 20,Bazar,Mascotas General
 861403,Salsa Picante Chocula Original 150 ml,Abarrotes,Productos Americanos
 861405,Plato + Juguete Mascota 10,Bazar,Mascotas General
-861424,Hervidor Electrico Inox Taurus 1.8 Litros Zeus,Bazar,Electrodoméstico/Línea Blanca-Hogar
+861424,Hervidor Electrico Inox Taurus 1.8 Litros Zeus Electro,Bazar,Electrodoméstico/Línea Blanca-Hogar
 861486,Audifonos Stereo Huavi E,Bazar,Computadora/Cámara/Filmadora y Accesorio
 861571,Conservador Hermetico Rey 4 L,Bazar,Menaje Plástico
 861598,Mojo Marinade Badia 20 oz,Abarrotes,Aderezos
@@ -24732,8 +24735,8 @@ id_producto,producto,categoria,subcategoria
 862437,Yerba Mate Campesino Menta Limon 500 gr,Abarrotes,Café y Sucedáneos
 862442,Yerba Mate Campesino Fitness 500 gr,Abarrotes,Café y Sucedáneos
 862531,Nacho Mexican Food 800 gr,Abarrotes,Snack
-862698,MIXER ROBOT 250 II NEGRO PRACTIKA,Bazar,Electrodoméstico/Línea Blanca-Hogar
-862699,LICUADORA BLW-450 NEGRO PRACTIKA,Bazar,Electrodoméstico/Línea Blanca-Hogar
+862698,Batidora de Mano Practika Mixer Robot 250 Electro,Bazar,Electrodoméstico/Línea Blanca-Hogar
+862699,Licuadora Practika Negra BLW-450 Electro,Bazar,Electrodoméstico/Línea Blanca-Hogar
 862718,MORRAL PRIMAVERERA 16.5 MARIO BROS 2 GRANDE,Bazar,Librería
 862856,Pintura Spray Plateada 150 ml,Bazar,Cotillón
 862857,ESPUMAS ALEGRIA  AVENGER 380CM,Bazar,Temporada Carnaval
@@ -24766,7 +24769,7 @@ id_producto,producto,categoria,subcategoria
 863430,Te Frutte Tranquilito 20 Sobres,Abarrotes,Café y Sucedáneos
 863445,Te Frutte Duermete 20 Sobres,Abarrotes,Café y Sucedáneos
 863450,Te Frutte No Stress 20 Sobres,Abarrotes,Café y Sucedáneos
-863541,PANINERA TAURUS CRISPY CO,Bazar,Electrodoméstico/Línea Blanca-Hogar
+863541,Paninera Taurus Crispy Co Electro,Bazar,Electrodoméstico/Línea Blanca-Hogar
 863613,Cortador de Cabello Mallory Smart Power,Bazar,Electrodoméstico Cuidado Personal
 863638,Chicle Fini Huevos de Dinosaurio 80 gr,Abarrotes,Golosinas - Varias
 863643,Chicle Fini Ensalada de Frutas 80 gr,Abarrotes,Golosinas - Varias
@@ -24796,10 +24799,10 @@ id_producto,producto,categoria,subcategoria
 864613,FOCO BULBO PHILIPS LED 8W CALIDA,Bazar,Ferretería
 864614,FOCO BULBO PHILIPS LED 8W FRIA,Bazar,Ferretería
 864623,CAFETERA TAURUS NEW COFFE 6  1.8LT,Bazar,Electrodoméstico/Línea Blanca-Hogar
-864625,WAFLERA TAURUS DOFLES 2EN 1 750W,Bazar,Electrodoméstico/Línea Blanca-Hogar
-864627,PLANCHA PRCTIKA NOVA 1600 WATTS,Bazar,Electrodoméstico/Línea Blanca-Hogar
-864628,SANDWICHERA MAX PRACTIKA 2PANES,Bazar,Electrodoméstico/Línea Blanca-Hogar
-864629,PANINERA GRILL PRACTIKA 750WATT,Bazar,Electrodoméstico/Línea Blanca-Hogar
+864625,Waflera Taurus Dofles 2 en 1 Electro,Bazar,Electrodoméstico/Línea Blanca-Hogar
+864627,Plancha Practika Nova Electro,Bazar,Electrodoméstico/Línea Blanca-Hogar
+864628,Sandwichera Max Practika 2 Panes Electro,Bazar,Electrodoméstico/Línea Blanca-Hogar
+864629,Paninera Grill Practika 750 Watts Electro,Bazar,Electrodoméstico/Línea Blanca-Hogar
 864670,Mochila de Niño Escolar,Bazar,Librería
 864700,Crema Hidratante Loreal Age Perfect Dia 50 ml,Cuidado Personal,Cuidado de la Piel
 864757,Vaso con Bombilla Plastico 500 ml,Bazar,Menaje Plástico
@@ -24820,7 +24823,7 @@ id_producto,producto,categoria,subcategoria
 865238,Pan Molde Integral Belen Zanahoria 550 g,Panadería,Panadería Externa
 865243,Pan Molde Integral Belen Uvas Pasas 550 g,Panadería,Panadería Externa
 865263,Pañuelos Elite Varios Aromas 6 un,Aseo Personal,Cuidado Familiar
-865297,PLANCHA VAPOR TAURUS ATALS 2400,Bazar,Electrodoméstico/Línea Blanca-Hogar
+865297,Plancha Taurus Vapor Atlas 2400 Electro,Bazar,Electrodoméstico/Línea Blanca-Hogar
 865327,Tortillas Guadalajara Mexicanas de Trigo 18 cm,Congelados,Masas y Comidas Congeladas
 865510,Margarina Reyna 100 gr,Lácteos y Derivados,Mantequillas y Margarinas
 865645,Neceser Plastico Nadine,Bazar,Menaje Plástico
@@ -24938,7 +24941,7 @@ id_producto,producto,categoria,subcategoria
 869881,Cuaderno Top Empastado Carta 200 Hojas,Bazar,Librería
 870381,COMBO LONCHERA MIKEY 76484,Bazar,Librería
 870385,Lonchera Mediano Frozen,Bazar,Librería
-870449,LICUADORA 500W TJBH-500 TAURUS,Bazar,Electrodoméstico/Línea Blanca-Hogar
+870449,Licuadora Taurus TJBH-500 Electro,Bazar,Electrodoméstico/Línea Blanca-Hogar
 870466,Tapetes Miracle Natures Advanced 10 un,Bazar,Mascotas General
 870467,Tapetes Miracle Natures Entrenaiento 14 un,Bazar,Mascotas General
 870517,Acrilex Opaco Surtido,Bazar,Librería
@@ -25400,7 +25403,7 @@ id_producto,producto,categoria,subcategoria
 897592,Cafe De Altura Molido 250 gr,Abarrotes,Café y Sucedáneos
 897884,Juguete de Mascota,Bazar,Mascotas General
 897891,Juguete Para Mascota Hueso 15,Bazar,Mascotas General
-898091,EXPRIMIDOR 1LT PRACTIKA TC-8,Bazar,Electrodoméstico/Línea Blanca-Hogar
+898091,Exprimidor Practika TC-8 1 L	Electro,Bazar,Electrodoméstico/Línea Blanca-Hogar
 898092,ALISADORA FASHION KIT TAURUS,Bazar,Electrodoméstico Cuidado Personal
 898208,Jabon Barra Gigante Azul 200 gr,Cuidado del Hogar,Limpieza de la Ropa
 898225,FRE MOLDE DE QUEQUE ALUMINIO   N18,Bazar,Menaje Metálico
@@ -25934,6 +25937,7 @@ id_producto,producto,categoria,subcategoria
 976413,Lapiz Bic HBN2,Bazar,Librería
 976416,Boligrafo Bic Verde Cristal,Bazar,Librería
 976418,Boligrafo Bic Fino Rojo,Bazar,Librería
+976922,Bañador Jobsa 15 L,Cuidado del Hogar,Accesorios del Hogar
 977411,Candado,Bazar,Ferretería
 979269,Velao Disenos X 2recuentre  X,Bazar,Cotillón
 979273,Globos Emotion Tuky Surtido,Bazar,Cotillón
