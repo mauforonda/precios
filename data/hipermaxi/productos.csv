@@ -1826,6 +1826,7 @@ id_producto,producto,categoria,subcategoria
 25295,ACEITE D OLIVA GALLO SUBTIL LTA 1LT,Abarrotes,Básicos
 25296,CAMOTE FRITO L FAVORITA RALLADO 200G,Abarrotes,Snack
 25297,CAMOTE FRITO PREMIUM L FAVORITA 200G,Abarrotes,Snack
+25299,VODKA MATRIOSHKA BOT 750ML,Bebidas,Licores
 25304,CHUCRUT RINCON MADERAS FCO  460GR,Abarrotes,Verduras en Conserva
 25307,VINO ROSE P DEL FUERTE SYRAH 750ML,Bebidas,Vinos y Champagne
 25312,BEBIDA SPARKLY ICE UVA BOT 300ML,Bebidas,Licores
@@ -1873,6 +1874,7 @@ id_producto,producto,categoria,subcategoria
 25365,ENERGIZANTE VOLT CITRUS LTA 473ML,Bebidas,Energizantes
 25367,MIEL D CANA PORTACHUELO CANELA C OLOR 75,Abarrotes,"Mermel, Mieles"
 25369,EVAPORADA PIL CREMOSA TETRA 350G,Abarrotes,Nutrición Infantil
+25370,TE NUTRINAT BIO DETOX 14SAQ,Abarrotes,Dietéticos y Saludables
 25371,TE NUTRINAT BIO DIGEST 14SAQ,Abarrotes,Dietéticos y Saludables
 25373,BEBIDA SPARKLY ICE CEREZA BOT 300ML,Bebidas,Licores
 25374,BEBIDA SPARKLY ICE MARACUYA BOT 300ML,Bebidas,Licores
@@ -1906,6 +1908,7 @@ id_producto,producto,categoria,subcategoria
 25420,PACK 3 GALLETAS FESTIVAL UND,Abarrotes,Galletas
 25421,CAFE JAQAKU SAN JOSE GRANO 250G,Abarrotes,Café y Sucedáneos
 25422,CAFE JAQAKU CARANAVI GRANO 250G,Abarrotes,Café y Sucedáneos
+25424,CAFE JAQAKU CARANAVI MOLIDO 250G,Abarrotes,Café y Sucedáneos
 25425,CAFE JAQAKU SAN JOSE MOLIDO 250G,Abarrotes,Café y Sucedáneos
 25426,CAFE JAQAKU MOLIDO S CARAMELO 250G,Abarrotes,Café y Sucedáneos
 25429,NACHO NAX QUESO 200GR,Abarrotes,Snack
@@ -1968,6 +1971,7 @@ id_producto,producto,categoria,subcategoria
 25956,TWOPACK ENERGIZANTE VOLT 473 ML,Bebidas,Energizantes
 25958,SAL KOLLITA CON AJO FCO 460G,Abarrotes,Básicos
 25960,SAL KOLLITA CON PAPRIKA FCO 460G,Abarrotes,Básicos
+25961,SAL KOLLITA CON LIMON FCO 460G,Abarrotes,Básicos
 25962,SAL KOLLITA CON APIO FCO 460G,Abarrotes,Básicos
 25968,GALLETA GULLON GLUTEN FREE MARIA CJA 400,Abarrotes,Dietéticos y Saludables
 25969,Galleta Gullon Gluten Free Chocolate 200 gr,Abarrotes,Dietéticos y Saludables
@@ -2131,6 +2135,7 @@ id_producto,producto,categoria,subcategoria
 26196,Mezcla Leche Condensada Embare 395 gr,Abarrotes,Nutrición Infantil
 26198,TRUFFAS PARA TI NAVIDENA S PANETON 150G,Abarrotes,Chocolates y Caramelos
 26200,Chupete Bon Bon Bum Fresa 336 gr,Abarrotes,Chocolates y Caramelos
+26205,Snack Pico Pico Churrasxo Limon 20 gr,Abarrotes,Snack
 26212,Café Baggio Chocolate Trufado Molido 250 gr,Abarrotes,Café y Sucedáneos
 26213,Café Baggio Chocolate Menta Molido 250 gr,Abarrotes,Café y Sucedáneos
 26214,Café Baggio Chocolate Avellana Molido 250 gr,Abarrotes,Café y Sucedáneos
@@ -7995,6 +8000,8 @@ id_producto,producto,categoria,subcategoria
 228061,AC BALLERINA LARGO INCRE FCO 410ML,Cuidado Personal,Cuidado del Cabello
 228062,AC BALLERINA ONDAS FCO 410ML,Cuidado Personal,Cuidado del Cabello
 228063,AC BALLERINA CARBON FCO 410ML,Cuidado Personal,Cuidado del Cabello
+228066,LOCION BELMED PARA TODO TIPO CABELLO 150,Cuidado Personal,Cuidado del Cabello
+228067,NEUTRALIZANTE BELMED CONCENTR 1+1 150 ML,Cuidado Personal,Cuidado del Cabello
 228069,GEL DENTAL CONDOR KIDS HW 3511,Cuidado del Bebé,Kids
 228070,GEL DENTAL CONDOR  KIDS HW 3512,Cuidado del Bebé,Kids
 228071,GEL DENTAL CONDOR KIDS HW 8211,Cuidado del Bebé,Kids
@@ -8196,6 +8203,8 @@ id_producto,producto,categoria,subcategoria
 228386,ESPONJA 3M BANO DIARIO,Cuidado Personal,Cuidado de la Piel
 228387,ESPONJA 3M ANATOMICA BANO DIARIO,Cuidado Personal,Cuidado de la Piel
 228390,LIMPPANO ANTIMOHO CLOSET LINO 200G,Cuidado del Hogar,Limpieza de Living y Ropero
+228391,LIMPPANO ANTIMOHO ROMERO180G,Cuidado del Hogar,Limpieza de Living y Ropero
+228392,LIMPPANO ANTIMOHO ROMERO 80G,Cuidado del Hogar,Limpieza de Living y Ropero
 228393,VAJILLERO TODOBRILLO LIMON 750ML POTE,Cuidado del Hogar,Limpieza de Cocina
 228394,LAVAVAJILLAS TB LIMON 2000ML POTE,Cuidado del Hogar,Limpieza de Cocina
 228396,AMBIENTADOR TB CONO CHERRY 190G,Cuidado del Hogar,Limpieza de Living y Ropero
@@ -8219,6 +8228,7 @@ id_producto,producto,categoria,subcategoria
 228423,PAPEL HIG QUALITE DH 12 UNDS,Cuidado Personal,Cuidado Familiar
 228428,PACK EXCELLENCE N7U+ GLYCO 200 ML.,Cuidado Personal,Cuidado del Cabello
 228432,PACK EXCELLENCE 7+ GLYCO 200 ML,Cuidado Personal,Cuidado del Cabello
+228437,PACK EXCELLENCE 1+ GLYCO 200 ML.,Cuidado Personal,Cuidado del Cabello
 228438,"PACK EXCELLENCE 8,1+ GLYCO 200 ML.",Cuidado Personal,Cuidado del Cabello
 228441,SERVILLETA PERLITA 300 UN.,Cuidado Personal,Cuidado Familiar
 228442,PAPEL HIGIENICO PERLITA 4X12,Cuidado Personal,Cuidado Familiar
@@ -11437,6 +11447,7 @@ id_producto,producto,categoria,subcategoria
 413224,Pan Cochabambino Hipermaxi kg,Panadería,Panadería Hipermaxi
 413291,Huevos Aranjuez 30 un,Lácteos y Derivados,Huevos
 413305,Leche Con Avena Pil Canela Uht 800 ml,Lácteos y Derivados,Leches
+413326,QUEQUE SAB.COCO I.DAVIEDS UND.,Pastelería y Masas Típicas,Pastelería Externa
 413488,Chiqui Avena pil uht 140 ml,Lácteos y Derivados,Leches
 413496,Queque Davieds Vainilla,Pastelería y Masas Típicas,Pastelería Externa
 413623,Milanesa Nutri Food de Soya 8 un,Congelados,Masas y Comidas Congeladas
@@ -13287,6 +13298,7 @@ id_producto,producto,categoria,subcategoria
 550862,Sal Parmesana Cebolla Curry 250 gr,Abarrotes,Condimentos y Legumbres
 550865,Condimento La Parmesana Para Hamburguesa 20 gr,Abarrotes,Condimentos y Legumbres
 550867,Salsa La Parmesana Picante Cayena 180 ml,Abarrotes,Aderezos
+550869,LAGUA DE CHUNO SABOR ANDINO 230GR,Abarrotes,Básicos
 550871,Lagua Jankaquipa Andino 230 gr,Abarrotes,Básicos
 550872,Lagua de Choclo Sabor Andino 230 gr,Abarrotes,Básicos
 550875,Sopa Instantanea Brunch de Quinua 25 gr,Abarrotes,Básicos
@@ -14975,15 +14987,19 @@ id_producto,producto,categoria,subcategoria
 553608,CHICLE SPLOT SANDIA ACIDA TIRA CJA 324 G,Abarrotes,Chocolates y Caramelos
 553609,GOMITAS GRISSLY OSOS 72 GR,Abarrotes,Golosinas - Varias
 553610,GOMITAS GRISSLY SANDIA 70 GR,Abarrotes,Golosinas - Varias
+553611,CAFE JAQAKU SAN JOSE GRANO 1KG,Abarrotes,Café y Sucedáneos
 553617,CAFE JAQAKU TOSTADO S AVELLANA 10CAPS 55,Abarrotes,Café y Sucedáneos
 553620,AGUA IONICA  ALCALINA  5 LT,Bebidas,Aguas
 553621,AGUA IONICA ALCALINA 2 LT,Bebidas,Aguas
 553622,AGUA IONICA ALCALINA 600CC,Bebidas,Aguas
+553623,LINAZA ILLA MANKA TOSTADA MOLIDA  200 GR,Abarrotes,Condimentos y Legumbres
+553624,MULTIFIBRA POLVO ILLA MANKA 200 GR,Abarrotes,Nutrición Infantil
 553625,PITO CANAHUA ILLA MANKA 250 GR,Abarrotes,Nutrición Infantil
 553628,AMARANTO INSTANTANEO ILLA MANKA 250 GR,Abarrotes,Nutrición Infantil
 553629,TOMATE DESHIDRAT BRIXY FCO 210G,Abarrotes,Verduras en Conserva
 553630,VINAGRE BALSAMICO BRIXY BOT 400ML,Abarrotes,Básicos
 553631,VIANGRE BALSAMICO REDUCCION BRIXY  BOT 4,Abarrotes,Básicos
+553632,PACK 12 CERVEZA SCHNEIDER 473 ML,Bebidas,Cervezas
 553633,VINO KOHLBERG FUNDADOR TTO 700ML,Bebidas,Vinos y Champagne
 553635,HARINA FAMOSA 11.5 KG,Abarrotes,Básicos
 554333,Cerveza Paceña Lata Roja 473 Cc,Bebidas,Cervezas
@@ -15592,6 +15608,7 @@ id_producto,producto,categoria,subcategoria
 615691,Pasta Dental Dento Triple Accion 102 gr,Cuidado Personal,Cuidado Bucal
 615699,Shampoo Loreal Kids Fresa Cremosa,Cuidado del Bebé,Kids
 615701,Shampoo Loreal Kids Manzanilla 265 ml,Cuidado del Bebé,Kids
+615703,SHAMPOO LOREAL KIDS MANGO NAR.2EN1 265ML,Cuidado del Bebé,Kids
 615715,Shampoo Pantene Pro-V Rest. 400 ml,Cuidado Personal,Cuidado del Cabello
 615716,Aconcidionador Pantene Reparacion Prov 400 ml,Cuidado Personal,Cuidado del Cabello
 615719,Jabon Liquido Aval Tocador Eucalipto 400 ml,Cuidado Personal,Cuidado de la Piel
@@ -16141,6 +16158,7 @@ id_producto,producto,categoria,subcategoria
 629821,SODA SPRITE CHERRY LIMA 355ML,Bebidas,Bebidas Usa
 629822,SODA SPRITE SABOR LIMON Y TE 355ML,Bebidas,Bebidas Usa
 629824,CEREAL LIFE COPOS DE MAIZ AMARILLO 510GR,Abarrotes,Productos Americanos
+629826,CEREAL LIFE COPOS DE MAIZ GLASEADO 482GR,Abarrotes,Productos Americanos
 629827,CEREAL LIFE INTEGRAL TOSTADO 340GR,Abarrotes,Productos Americanos
 630010,Alimento Pedigree Cachorro 1.5 kg,Abarrotes,Mascotas
 630011,Gaseosa Crush Piña 355 ml,Bebidas,Bebidas Usa
@@ -16383,6 +16401,7 @@ id_producto,producto,categoria,subcategoria
 650166,Lino Lada Duo Leche Cocoa Podravka 350 gr,Abarrotes,Productos Importados
 650168,Lino Lada Milk Leche Podravka 350 gr,Abarrotes,Productos Importados
 650169,Colorante Andes Amarillo 80 gr,Abarrotes,Condimentos y Legumbres
+650174,HELADO WAFERITO DELIZIA UNI.,Congelados,"Helados, Cassattas y Picoleses"
 650175,Colorante Andes Rojo 90 gr,Abarrotes,Condimentos y Legumbres
 650184,Pudin Dolcela Vainilla Podravka 37 gr,Abarrotes,Productos Importados
 650190,Pudin Dolcela Chocolate Padravka  45 g,Abarrotes,Productos Importados
@@ -18794,7 +18813,7 @@ id_producto,producto,categoria,subcategoria
 669008,Rimel Essential,Cuidado Personal,Cuidado de la Piel
 669009,Mascarilla Kocostar Hydrogel Chin,Cuidado Personal,Cuidado de la Piel
 669010,Mascarilla Kocostar Hand Moisture,Cuidado Personal,Cuidado de la Piel
-669011,KOCOSTAR MASCARILLA CAMELLIA HAPPY MASK,Cuidado Personal,Cuidado de la Piel
+669011,Mascarilla Kocostar Camellia Happy Mask,Cuidado Personal,Cuidado de la Piel
 669012,KOCOSTAR MASCARILLA FOOT MOISTURE PACK,Cuidado Personal,Cuidado de la Piel
 669013,KOCOSTAR MASCARILLA WHITE HAPPY MASK,Cuidado Personal,Cuidado de la Piel
 669014,Mascarilla Kocostar Vitamina Happy Mask,Cuidado Personal,Cuidado de la Piel
@@ -18958,6 +18977,7 @@ id_producto,producto,categoria,subcategoria
 669332,Jabon Intimo Ph Defense 220 ml,Cuidado Personal,Cuidado del Adulto
 669333,SHAMPOO BRILLITO DE ARGAN 750 ML,Cuidado del Bebé,Kids
 669334,Acondicionador Brillitos Argan 750 ml,Cuidado del Bebé,Kids
+669335,CEPILLO DOCTOR DENT VIAJERO,Cuidado Personal,Cuidado Bucal
 669336,Shampoo Sedal Luminous 190 ml,Cuidado Personal,Cuidado del Cabello
 669337,Acondicionador Sedal Luminous 190 ml,Cuidado Personal,Cuidado del Cabello
 669338,Bolsa Basura Super Bolsa 48X55 25 L,Cuidado del Hogar,Accesorios del Hogar
@@ -20637,6 +20657,7 @@ id_producto,producto,categoria,subcategoria
 674317,Helado Nordland Sabores Surtido 500 ml,Congelados,"Helados, Cassattas y Picoleses"
 674318,Arañita de Cerdo Congelada Sofia al Vacio,Congelados,Carnes Congeladas
 674319,Queso Criollo Guaruja kg,Lácteos y Derivados,Quesos
+674320,PANETON CON FRUTAS LA SUISSE 700GRS,Panadería,Panadería Externa
 674321,Helado Delizia Pie de Limon 850 ml,Congelados,"Helados, Cassattas y Picoleses"
 674322,Leche Kream Chocolate 110 ml,Lácteos y Derivados,Leches
 674323,Leche Kream Coco 110 ml,Lácteos y Derivados,Leches
@@ -20809,7 +20830,9 @@ id_producto,producto,categoria,subcategoria
 674604,GALLETAS CON CHIPS ZELADA 180GRS BOLSA 14 UNI,Pastelería y Masas Típicas,Pastelería Externa
 674606,HUEVO MARRON MAPLE 20 UNI SOFIA EXTRA GRANDE,Lácteos y Derivados,Huevos
 674607,ENVASE SALTENAS SALTUCAS 7 UNIDADES CONG.,Congelados,Masas y Comidas Congeladas
+674610,LOMITO DE CERDO CONGELADO AL VACIO SOFIA KGR,Congelados,Carnes Congeladas
 674613,ZOMBITS NARANJA ARANDANO,Congelados,"Helados, Cassattas y Picoleses"
+674614,QUESO MOZZARELLA SANTA ELENA BARRA KILOGRAMO,Lácteos y Derivados,Quesos
 674615,QUESO MOZZARELLA SANTA ELENA 400GRS UNIDAD,Lácteos y Derivados,Quesos
 674616,QUESO MOZZARELLA SANTA ELENA LAMINADO 160GRS,Lácteos y Derivados,Quesos
 674618,PIPOPANETON HALLOWEEN FRANKENSTEIN CAJA UNI,Panadería,Panadería Externa
