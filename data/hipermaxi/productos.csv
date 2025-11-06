@@ -1954,6 +1954,8 @@ id_producto,producto,categoria,subcategoria
 25486,CIGARRILLO BOHEM PEPINO DOUBLE 20UND,Bebidas,Cigarrillos
 25487,CIGARRILLO BOHEM SANDIA DOUBLE 20UND,Bebidas,Cigarrillos
 25488,CIGARRILLO BOHEM TUNDRA DOUBLE 20UND,Bebidas,Cigarrillos
+25490,CAMOTE FRITO LA FAVORITA HOJUELAS 100G,Abarrotes,Snack
+25493,MANI FRITO LA FAVORITA PICANTE 150G,Abarrotes,Snack
 25494,CERVEZA BENDITA PILS LTA 310 ML,Bebidas,Cervezas
 25495,SAL PARRILLERA KOLLITA AHUMADA 440G,Abarrotes,Básicos
 25496,SIXPACK MANDALA PINK LEMON 6X200ML,Bebidas,Bebidas Varias
@@ -1973,6 +1975,8 @@ id_producto,producto,categoria,subcategoria
 25960,SAL KOLLITA CON PAPRIKA FCO 460G,Abarrotes,Básicos
 25961,SAL KOLLITA CON LIMON FCO 460G,Abarrotes,Básicos
 25962,SAL KOLLITA CON APIO FCO 460G,Abarrotes,Básicos
+25964,MEZCLA P PIZZA NUTRIHIT DP 400G,Abarrotes,Dietéticos y Saludables
+25965,MEZCLA P HAMBURGUESA NUTRIHIT DP 330G,Abarrotes,Dietéticos y Saludables
 25968,GALLETA GULLON GLUTEN FREE MARIA CJA 400,Abarrotes,Dietéticos y Saludables
 25969,Galleta Gullon Gluten Free Chocolate 200 gr,Abarrotes,Dietéticos y Saludables
 26000,Habas Charito Frita 160 gr,Abarrotes,Snack
@@ -19090,6 +19094,7 @@ id_producto,producto,categoria,subcategoria
 669722,OLA MAX COCINA ESP DES REC DP 12X800ML,Cuidado del Hogar,Limpieza de Cocina
 669723,OLA MAX L BANOS ESP DES REC DP 12X800ML,Cuidado del Hogar,Limpieza de Baños
 669724,OLA MAX VIDRIOS MULTI REC DOYP 12X800ML,Cuidado del Hogar,Limpieza de Living y Ropero
+669738,DET. UNO ARMONIA FLORAL 9.2KG,Cuidado del Hogar,Limpieza de la Ropa
 669901,Pizza Hipermaxi Congelada Hawaiana 620 gr,Congelados,Masas y Comidas Congeladas
 669902,Pizza Hipermaxi Congelada Jamon Queso Light Masa Integral,Congelados,Masas y Comidas Congeladas
 669903,Pizza Hipermaxi Congelada Pepperoni 620 gr,Congelados,Masas y Comidas Congeladas
@@ -20838,6 +20843,8 @@ id_producto,producto,categoria,subcategoria
 674618,PIPOPANETON HALLOWEEN FRANKENSTEIN CAJA UNI,Panadería,Panadería Externa
 674619,PIPOPANETON HALLOWEEN CALABAZA CAJA UNI,Panadería,Panadería Externa
 674622,SALSA DE QUESO CHEDDAR TORTITACOS 200GRS,Lácteos y Derivados,Quesos
+674638,SALCHICHA HADOQUERA SOFIA XXL A/V 15 UNIDADES,Fiambres,Fiambres Externos
+674639,SALCHICHA HADOQUERA XXL SOFIA A/V 6 UNIDADES,Fiambres,Fiambres Externos
 674643,PANETON HALLOWEEN BREICK CAJA 360GRS,Panadería,Panadería Externa
 674786,BONDIOLA DE CERDO SOFIA REFRIGERADA A/V KGR,Fiambres,Fiambres Externos
 674787,LOMO DE CERDO SOFIA REFRIGERADO A/V KGR,Fiambres,Fiambres Externos
@@ -21742,6 +21749,7 @@ id_producto,producto,categoria,subcategoria
 762813,QUESO MUZZARELLA LAMINADO MALLON 150 GRS.,Lácteos y Derivados,Quesos
 763224,Mantequilla Sabor Brasuco Ajo Gourmet 200 gr,Lácteos y Derivados,Mantequillas y Margarinas
 763240,Galleta Chatitas Blanca La Delicia,Panadería,Panadería Externa
+763245,HELADO DE PULPA DE ASAI BIOFOOD 1 LT.,Congelados,"Helados, Cassattas y Picoleses"
 763256,Huevos Caisy Subsidio 30 un,Lácteos y Derivados,Huevos
 763450,Galleta Chatitas Integrales La Delicia,Panadería,Panadería Externa
 763514,Leche Entera Lolita Purita 800 ml,Lácteos y Derivados,Leches
@@ -21759,6 +21767,7 @@ id_producto,producto,categoria,subcategoria
 764201,Pan Danes Campesino 5 Semillas,Panadería,Panadería Externa
 764235,PULPA Y ZUMO CONG.FRUTAS Y HORTALIZAS X5 UND.CELEBRE,Congelados,Pulpas y Frutas Congeladas
 764312,Pan Danes Rustico 3 Semillas,Panadería,Panadería Externa
+764356,HELADO DE PULPA DE COPOAZU BIOFOOD 1 LT.,Congelados,"Helados, Cassattas y Picoleses"
 764423,PAN DANES SALVADO DE TRIGO UNID.,Panadería,Panadería Externa
 764523,PIZZA PRECOC.CONG.JAMON Y MUZZARELLA BAHREM UND.,Congelados,Masas y Comidas Congeladas
 764528,YOGURT GRIEGO SAB.ACHACHAIRU DELIZIA 170 GR.,Lácteos y Derivados,Yogures
@@ -21776,7 +21785,9 @@ id_producto,producto,categoria,subcategoria
 764871,Empanadas Integrales Hipermaxi Con Cereales 4 un,Panadería,Panadería Especialidades Hipermaxi
 764875,PAN CON AJO SANTA ELENA X2 UND.PRECOCIDO,Panadería,Panadería Externa
 765024,Magdalenas Paris 10 un,Panadería,Panadería Externa
+765136,PALETAS DE ASAI BIOFOOD CAJA X 8 UND.,Congelados,"Helados, Cassattas y Picoleses"
 765148,Alfajores de Maicena 6 un,Pastelería y Masas Típicas,Pastelería Hipermaxi
+765274,NECTAR CON PULPA DE ASAI BIOFOOD BOT.500 ML.,Congelados,Pulpas y Frutas Congeladas
 765328,Rosquillas Abiscochadas Cositas al Horno 300 gr,Pastelería y Masas Típicas,Masas Típicas Externas
 765559,PANETON DELI-CHOC CHOCOLATE CAJA 750 GR,Panadería,Panadería Externa
 765613,Galleta Crick de Agua 200 gr,Abarrotes,Galletas
