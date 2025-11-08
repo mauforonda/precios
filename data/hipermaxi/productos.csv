@@ -1949,6 +1949,7 @@ id_producto,producto,categoria,subcategoria
 25475,VINO VILTE KARMA SYRAH 750ML,Bebidas,Vinos y Champagne
 25476,MAIZ DULCE JUMBO POP PORORO 150G,Abarrotes,Snack
 25477,MAIZ DULCE JUMBO POP PORORO T FRUTTI 150,Abarrotes,Snack
+25482,GALLETA INPASA COOKIE CHIPS CHOCOL 240G,Abarrotes,Galletas
 25483,VODKA VORUS TROPICAL BOT 1LT,Bebidas,Licores
 25485,SINGANI DON LUCHO XO PREMIUM 750ML,Bebidas,Licores
 25486,CIGARRILLO BOHEM PEPINO DOUBLE 20UND,Bebidas,Cigarrillos
@@ -1979,6 +1980,7 @@ id_producto,producto,categoria,subcategoria
 25965,MEZCLA P HAMBURGUESA NUTRIHIT DP 330G,Abarrotes,Dietéticos y Saludables
 25968,GALLETA GULLON GLUTEN FREE MARIA CJA 400,Abarrotes,Dietéticos y Saludables
 25969,Galleta Gullon Gluten Free Chocolate 200 gr,Abarrotes,Dietéticos y Saludables
+25974,GALLETA CAMARO NAVIDENA CHOCOL COCO 300G,Abarrotes,Galletas
 25978,GALLEA AVENTURA RELL FRUTILLA 120G,Abarrotes,Galletas
 25979,GALLETA AVENTURA RELL CHOCOLATE 120G,Abarrotes,Galletas
 25981,HARINA D TRIGO DON GREGORIO 1KG,Abarrotes,Básicos
@@ -8205,6 +8207,7 @@ id_producto,producto,categoria,subcategoria
 228368,Esmalte de Uñas Vogue Efecto Gel Artista 14 ml,Cuidado Personal,Cuidado de la Piel
 228372,JABONCILLO ST TROPEZ HIDRATACION 125 GR,Cuidado del Hogar,Productos Americanos
 228377,PACK DISCO SEPTONA 70  Y QUITA ESMALTE 1,Cuidado Personal,Cuidado de la Piel
+228378,SERVILLETA FINESSE 24X50,Cuidado Personal,Cuidado Familiar
 228379,SERVILLETA FINESSE 4X500,Cuidado Personal,Cuidado Familiar
 228380,TOALLA  ABSORVENTE FINESSE  MULTIUSO  2,Cuidado del Hogar,Limpieza de Cocina
 228384,TRIPACK KOTEX FITNESS 3X2,Cuidado Personal,Cuidado Familiar
@@ -8258,6 +8261,8 @@ id_producto,producto,categoria,subcategoria
 228810,Lavavajilla Todo Brillo Limon Verde 5 L,Cuidado del Hogar,Limpieza de Cocina
 228887,Gaseosa H2Oh Limoneto 500 ml CBN,Bebidas,Gaseosas
 228888,Gaseosa H2Oh Limoneto 2 L CBN,Bebidas,Gaseosas
+228975,CEPILLO COLGATE TOTAL 2 PIEZAS,Cuidado Personal,Cuidado Bucal
+228976,COLGATE MAX FRESH COOL MINT 75ML,Cuidado Personal,Cuidado Bucal
 228991,LIMPPANO ANTIMOHO CLOSET ROMERO 200G,Cuidado del Hogar,Limpieza de Living y Ropero
 229011,Desinfectante Aerosol Whitex,Cuidado del Hogar,Limpieza de Baños
 229073,Cera Fijadora Fixer Efecto Natural 60 gr,Cuidado Personal,Cuidado del Cabello
@@ -10021,6 +10026,7 @@ id_producto,producto,categoria,subcategoria
 336229,Tinte Issue Keratin Tono 5.13 Castaño Claro Chocolate,Cuidado Personal,Cuidado del Cabello
 336234,Tinte Issue Keratin Tono 6.62 Rojo Intenso Nacarado,Cuidado Personal,Cuidado del Cabello
 336235,Tinte Issue Keratin Tono 7.64 Rubio Rojizo,Cuidado Personal,Cuidado del Cabello
+336254,Actimel Danone Original 100 gr,Lácteos y Derivados,Yogures
 336270,Actimel Danone Morango 100 gr,Lácteos y Derivados,Yogures
 336273,Jabon Barra Heno de Pravia Original 150 gr,Cuidado del Hogar,Productos Americanos
 336275,Escoba Condor Grandes Areas 1 un,Cuidado del Hogar,Accesorios del Hogar
@@ -15203,7 +15209,7 @@ id_producto,producto,categoria,subcategoria
 580972,Limpia Vidrio Cabo Pussy 30 mc,Cuidado del Hogar,Productos Americanos
 581044,Jabon Barra Guaira Blanco 250 gr,Cuidado del Hogar,Limpieza de la Ropa
 581059,Jabon Barra Cavallaro Coco 100 gr,Cuidado del Hogar,Limpieza de la Ropa
-581060,Detergente Lavavajilla Polvo Finish 1 kg,Cuidado del Hogar,Limpieza de Cocina
+581060,Detergente Lavavajilla Polvo Finish 1 kg,Cuidado del Hogar,Productos Americanos
 581061,Enjuague de Lavavajilla Finish Maquina 400 ml,Cuidado del Hogar,Limpieza de Cocina
 581071,Limpiador Desinfectante Procenex Blanco 1.8 L,Cuidado del Hogar,Limpieza de Baños
 581072,Quitamanchas Vanish Oxi Activo 500 ml,Cuidado del Hogar,Limpieza de la Ropa
@@ -15245,7 +15251,7 @@ id_producto,producto,categoria,subcategoria
 586145,Queso Provolone San Javier kg,Lácteos y Derivados,Quesos
 586684,Turron Mani Tks 150 gr,Abarrotes,Golosinas - Varias
 586897,Spray Easy Cheese Cheddar Kraft 8 oz,Lácteos y Derivados,Quesos
-587052,Mostaza French Classic Yellow 14 oz,Abarrotes,Productos Americanos
+587052,Mostaza French Classic Yellow 14 oz,Abarrotes,Aderezos
 587095,Cafe Nescafe Descafeinado 100 gr,Abarrotes,Café y Sucedáneos
 587265,Filete de Caballa San Lucas 175 gr,Abarrotes,Comidas en Conserva
 587648,"Edulcorante  Equal 50 un
@@ -16169,7 +16175,9 @@ id_producto,producto,categoria,subcategoria
 629824,CEREAL LIFE COPOS DE MAIZ AMARILLO 510GR,Abarrotes,Productos Americanos
 629826,CEREAL LIFE COPOS DE MAIZ GLASEADO 482GR,Abarrotes,Productos Americanos
 629827,CEREAL LIFE INTEGRAL TOSTADO 340GR,Abarrotes,Productos Americanos
+629832,GALLETA DAFOHA C/MANTEQUILLA PREMIUN 113GR,Abarrotes,Productos Americanos
 629834,GALLETAS AUNT BAKER MANTEQUILLA 114GR,Abarrotes,Productos Americanos
+629835,GALLETA AUNT BAKER MANTEQUILLA NAVIDAD 115GR,Abarrotes,Productos Americanos
 630010,Alimento Pedigree Cachorro 1.5 kg,Abarrotes,Mascotas
 630011,Gaseosa Crush Piña 355 ml,Bebidas,Bebidas Usa
 630012,Cereal Kelloggs Cocoa Krispies 439 gr,Abarrotes,Productos Americanos
@@ -17781,6 +17789,7 @@ id_producto,producto,categoria,subcategoria
 660086,Te Frutte New Age Colageno 20 Sobres,Abarrotes,Café y Sucedáneos
 660088,Grageas Surtido Condor 50 gr,Abarrotes,Chocolates y Caramelos
 660089,Grageas Surtido Condor 200 gr,Abarrotes,Chocolates y Caramelos
+660091,Barra Multicereal Chocolate Mani x12,Abarrotes,Dietéticos y Saludables
 660092,Barra Multicereal Miel Chia x12,Abarrotes,Dietéticos y Saludables
 660093,Barra Multicereal Miel Papaya x12,Abarrotes,Dietéticos y Saludables
 660094,Aceite Coco Becoco Virgen 370 ml,Abarrotes,Dietéticos y Saludables
@@ -18763,6 +18772,7 @@ id_producto,producto,categoria,subcategoria
 668846,Toalla Higienicas Nosotras Natural Invisible Clasica 10 Und,Cuidado Personal,Cuidado Familiar
 668847,Toallitas Humedas Babysec Premium,Cuidado del Bebé,Cuidado del Bebé
 668848,"REVOX B77 JUST CAFFEINE 5%, 30 ML",Cuidado Personal,Cuidado de la Piel
+668851,"REVOX B77 JUST SALICYLIC ACID 2%, 30 ML",Cuidado Personal,Cuidado de la Piel
 668855,Revox Just Hidratante Collagen Amino Acidos + HA x 30 Ml,Cuidado Personal,Cuidado de la Piel
 668856,Revox Protector Solar Just Daily Sun Shield UVA+UVB x 30Ml,Cuidado Personal,Cuidado de la Piel
 668872,PACK HAIR FOOD 3X2 TRAT + ACO + SH REGAL,Cuidado Personal,Cuidado del Cabello
@@ -24736,6 +24746,7 @@ id_producto,producto,categoria,subcategoria
 861066,Brocha Angulada Rubor Beter N20,Bazar,Bijouteria/Cuidado Personal
 861070,Corta Cuticula Beter,Bazar,Bijouteria/Cuidado Personal
 861152,Spaguetti Barilla 454 gr,Abarrotes,Productos Americanos
+861206,JAN SET PRENDEDOR CABELLO  25,Bazar,Bijouteria/Cuidado Personal
 861223,PIEDRA RASPADORA  BETER,Bazar,Bijouteria/Cuidado Personal
 861224,PULIDOR DE UNAS X2 PZ BETER,Bazar,Bijouteria/Cuidado Personal
 861225,ESPONJA DE MAQUILLAJE BETER,Bazar,Bijouteria/Cuidado Personal
@@ -24762,9 +24773,18 @@ id_producto,producto,categoria,subcategoria
 861403,Salsa Picante Chocula Original 150 ml,Abarrotes,Productos Americanos
 861405,Plato + Juguete Mascota 10,Bazar,Mascotas General
 861424,Hervidor Electrico Inox Taurus 1.8 Litros Zeus Electro,Bazar,Electrodoméstico/Línea Blanca-Hogar
+861446,JAN AROS METALICOS 8,Bazar,Bijouteria/Cuidado Personal
 861486,Audifonos Stereo Huavi E,Bazar,Computadora/Cámara/Filmadora y Accesorio
 861571,Conservador Hermetico Rey 4 L,Bazar,Menaje Plástico
 861598,Mojo Marinade Badia 20 oz,Abarrotes,Aderezos
+861614,JAN  VINCHAS DE NINA 12,Bazar,Bijouteria/Cuidado Personal
+861615,JAN VINCHAS DE NINA  15,Bazar,Bijouteria/Cuidado Personal
+861616,JAN VINCHAS DE TELA 15,Bazar,Bijouteria/Cuidado Personal
+861617,JAN VINCHAS DE TELA 14,Bazar,Bijouteria/Cuidado Personal
+861651,JAN MONAS CORBATA  15,Bazar,Bijouteria/Cuidado Personal
+861655,JAN AGARRAPELO X 4    18,Bazar,Bijouteria/Cuidado Personal
+861680,JAN AGARRAPELO CBLISTER  14,Bazar,Bijouteria/Cuidado Personal
+861681,JAN  AGARRAPELO  X3 BLISTER 14,Bazar,Bijouteria/Cuidado Personal
 861799,JAN ADORNO GLOBO HALLOWEN  14,Bazar,Temporada Halloween
 861801,JAN VINCHAS SOMBRERO HALLOWEN 14,Bazar,Temporada Halloween
 861872,CAJA PLASTICA HALLOWEN 14.5,Bazar,Temporada Halloween
@@ -24812,8 +24832,12 @@ id_producto,producto,categoria,subcategoria
 863142,TIDY CATS CONVENCIONAL 6X 1.8KG AR,Bazar,Mascotas General
 863317,Set Panero Azucarera Tazas,Bazar,Menaje Plástico
 863322,JAN AROS METALICOS 12,Bazar,Bijouteria/Cuidado Personal
+863323,JAN AROS  METALICOS 25,Bazar,Bijouteria/Cuidado Personal
 863324,JAN MANILLAS DE DAMA 10,Bazar,Bijouteria/Cuidado Personal
+863325,JAN MANILLA DE DAMA 15,Bazar,Bijouteria/Cuidado Personal
+863326,JAN MANILLA DE DAMA 25,Bazar,Bijouteria/Cuidado Personal
 863327,Manilla de Varones,Bazar,Bijouteria/Cuidado Personal
+863328,JAN COLLAR DE DAMA 25,Bazar,Bijouteria/Cuidado Personal
 863430,Te Frutte Tranquilito 20 Sobres,Abarrotes,Café y Sucedáneos
 863445,Te Frutte Duermete 20 Sobres,Abarrotes,Café y Sucedáneos
 863450,Te Frutte No Stress 20 Sobres,Abarrotes,Café y Sucedáneos
