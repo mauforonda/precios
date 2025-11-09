@@ -214,6 +214,7 @@ id_producto,producto,proveedor,categoria
 10850069676191,Ambientador Sapolio Aroma Vainilla 360 Ml,Alicorp,Ambientador Sapolio
 7436957089951,Ketchup Tomato Heinz 397 G,Heinz,Ketchup
 7436959613087,Yogurt sabor Coco Pil 1 L,Pil,Yogurt
+10869309669535,Papas Pringles Sabor Crema y Cebolla 137 Gr,Madisa,Papas Fritas
 7392493142175,Aceite Fino 900 Ml,Fino,Aceite
 7392493404319,Agua con Gas Vital 2 L,Vital,Agua con Gas
 7392493568159,Aquarius de Pera 2 L,Aquarius,Jugo de Fruta
@@ -225,7 +226,7 @@ id_producto,producto,proveedor,categoria
 7392495927455,Cerveza Paceña Pilsener Huari 330 ML,PaceÃ±a,Cerveza
 7392495960223,Cerveza Heineken 330 ML,Heineken,Cerveza
 7392496025759,Cerveza Huari Miel 330 ML,Huari,Cerveza
-7392496058527,Cerveza Paceña Pilsener 473 ML,PaceÃ±a,Cerveza
+7392496058527,Cerveza Paceña Pilsener 440 Ml,CBN,Cerveza Paceña
 7392496189599,Cerveza Paceña Pilsener 330 ML,Paceña,Cerveza
 7392496484511,Milanesa de Res Sofia 500 G,Sofia,Milanesa de Res
 7392496582815,Hamburguesa de Res Express Sofia 12 U,Sofia,Hamburguesas
@@ -271,7 +272,7 @@ id_producto,producto,proveedor,categoria
 7392505135263,Leche Delizia 946 ml,Delizia,Leche
 7392505200799,Mantequilla Sin Sal Pil 200 Gr,Pil,Mantequilla
 7392505561247,Leche Light Pil 946 Ml,Pil,Leche
-7392505626783,Leche Chocolatada Delizia 150 Ml,Delizia,Leche de Chocolate
+7392505626783,Leche Chocolate Delizia 140 Ml,Delizia,Leche de Chocolate
 7392505856159,Yogurt Coco Pil Bolsa 1 L,Pil,Yogurt
 7392506019999,Yogurt Pil Frutilla Botella 1 L,Pil,Yogurt
 7392506282143,Leche Entera en Polvo Instantánea Pil 120 G,Pil,Leche en Polvo
@@ -312,7 +313,7 @@ id_producto,producto,proveedor,categoria
 7392596557983,Edulcorante Dulcero Clásico 250 Ml,Dulzero,Despensa y Conservas
 7392596885663,Gaseosa Fanta Naranja 300 Ml,Fanta,Gaseosa
 7392596951199,Gaseosa Fanta Naranja 500 Ml,Fanta,Gaseosa
-7392597180575,Fernet Branca 750 Ml,Branca,Fernet
+7392597180575,Fernet Branca 750 Ml,D&M,Fernet Branca
 7392600981663,Galleta Frac Chocolate 130 G,Costa,Galletas
 7392601047199,Galleta Frac Clasica 132 G,Costa,Galleta de chocolate
 7392601112735,Galleta Frac Vainilla 273 G,Costa,Galletas
@@ -780,7 +781,7 @@ id_producto,producto,proveedor,categoria
 10857685811359,Apego Kids Frutilla,Cruzimex,Apego Kids
 10857686007967,Llajua Casera Food B&R,Cruzimex,Llajua en Frasco
 10857687089311,Powerade Citrus Passion Fruit 900 Ml,Embol,Powerade Citrus
-10857958473887,Hamburguesa Friburguer 12 Unidades,Fridosa,Hamburguesa
+10857958473887,Hamburguesa Fridosita Express Bolsa 18 Unid,Fridosa,Hamburguesa
 10857958932639,Cerveza Amstel Lata 269 Ml,BBO,Cerveza Amstel
 10857959456927,Morcilla Parrillera Iglu 1 Kg,Iglú,Morcilla Parrillera
 10857959948447,Chicharrón de Cerdo Sofia 1 Kg,Sofia,Chicharrón de cerdo
@@ -799,7 +800,6 @@ id_producto,producto,proveedor,categoria
 10858176381087,Toddy Original Sachet 700 Gr,Toddy,Toddy Sachet
 10858176643231,Toddy Light 380 Gr,Toddy,Toddy
 10869308555423,Papas Pringles Sabor Crema y Cebolla 40 Gr,Madisa,Papas Friras
-10869309669535,Papas Pringles Sabor Crema y Cebolla 137 Gr,Madisa,Papas Fritas
 10869310423199,Papas Pringles Sabor Original 40 Gr,Madisa,Papas Fritas
 10869311733919,Papas Pringles Sabor Original 124 Gr,Madisa,Papa Fritas
 10869311864991,Papas Pringles Sabor Queso 40 Gr,Madisa,Papa Fritas
@@ -822,3 +822,27 @@ id_producto,producto,proveedor,categoria
 10872278778015,Activa de Función Sandía Zero 1 Lt,Fidalga,Activa Fusion Sandia
 10872284741791,Biogurt LGG Durazno Botella 1 Lt,Pil,Biogurt LGG Durazno
 10872285069471,Biogurt LGG Frutilla 1 Lt,Pil,Biogurt LGG Frutilla
+10872413651103,Bebida Refrescante Chicha Camba 500 Ml,Casa del Camba,Chicha Camba
+10872413683871,Bebida Refrescante Mocochinchi 500 Ml,Casa del Camba,Mocochinchi
+10872414142623,Nectar Durazno Pil Botella 3 Lt,Pil,Nectar Durazno 3Lt
+10872414208159,Nectar Manzana Pil Botella 3 Lt,Pil,Nectar Manzana 3 Lt
+10872414306463,Papas Pringles Crema y Cebolla 124 Gr,Madisa,Papas Pringles
+10872414339231,Papas Pringles Queso 124 Gr,Madisa,Papas Pringles
+10872414896287,Galletas Rosquita Leche Vainilla Artesanas 180 Gr,Camaro,Galletas Rosquitas Vainilla
+10872415322271,Galletas Rosquita Coco Artesanas 180 Gr,Camaro,Galletas Rosquitas Coco
+10872415387807,Galletas Rosquitas Chocolate Artesanas 180 Gr,Camaro,Galletas Rosquitas Chocolate
+10872415584415,Galletas Rosquitas Banana Artesanas 180 Gr,Camaro,Galletas Roquitas Banana
+10872415748255,Yogurt Griego Cero Azúcar Delizia 170 Gr,Delizia,Yogurt Griego
+10872415912095,Crema de Leche Sachet Delizia 500 Ml,Delizia,Crema de Leche
+10872416141471,Detergente Floral Bolívar 700 Gr,Alicorp,Detergente Bolivar Floral
+10872416174239,Detergente Opal Ultra Floral 700 Gr,Alicorp,Detergente Opal Ultra Floral
+10872416305311,Detergente Polvo Uno Armonia Floral 700 Gr,Alicorp,Detergente Polvo Uno Armonia Floral
+10872416403615,Detergente Polvo Uno Armonia Limón 700 Gr,Alicorp,Detergente Polvo Uno Armonia Limón
+10872416600223,Lava Vajilla Liquido Lima Limon Sapolio 500 Ml,Alicorp,Lava vajilla Liquido
+10872417321119,Saca Grasa Limón Sapolio 500 Ml,Alicorp,Saca Grasa Limón Sapolio
+10872417419423,Cerveza Corona 330 Ml,CBN,Cerveza Corona
+10872418140319,Fernet Branca 1 Lt,D&M,Fernet Branca 1 Lt
+10872418271391,Fernet Branca Menta Fratelli 750 Ml,D&M,Fernet Branca Menta Fratelli
+10872418402463,Ron Havana 7 Años 700 Ml,D&M,Ron Havana 7 Años
+10872418795679,Ron Havana Añejo Especial 1 Lt,D&M,Ron Havana Añejo Especial
+10872419090591,Ron Havana Club 3 Años 1 Lt,D&M,Ron Havana Club 3 Años
