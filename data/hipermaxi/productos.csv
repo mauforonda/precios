@@ -1813,6 +1813,7 @@ id_producto,producto,categoria,subcategoria
 25265,CHOCLO CEPERA LTA 170G,Abarrotes,Verduras en Conserva
 25266,ARVEJA CEPERA LTA 170G,Abarrotes,Verduras en Conserva
 25267,KETCHUP PICKLES CEPERA PET 350G,Abarrotes,Aderezos
+25269,MERMELADA DFRUT MANZANA FCO 500G,Abarrotes,"Mermel, Mieles"
 25272,PURE D PAPA KRIS INSTANT TOCINO 125G,Abarrotes,Básicos
 25273,PURE D PAPA KRIS INSTANT TOCINO 250G,Abarrotes,Básicos
 25275,ACEITE D SOYA CON URUCU PET 850ML,Abarrotes,Básicos
@@ -3229,6 +3230,7 @@ id_producto,producto,categoria,subcategoria
 34114,Galleta Gullon Chip Choco Sin Gluten 130 gr,Abarrotes,Galletas
 34115,GALLETA GULLON SANDWICH CHOCO ZERO 250G,Abarrotes,Dietéticos y Saludables
 34717,Yerba Mate Colon Compuesta Liviana 500 gr,Abarrotes,Café y Sucedáneos
+34719,Yerba Mate Colon Compuesta Moringa 500G,Abarrotes,Café y Sucedáneos
 34811,Mermelada La Rinconada Frutilla 1 kg,Abarrotes,"Mermel, Mieles"
 34871,Cerveza Conti Zero 350 ml,Bebidas,Cervezas
 35070,Alimento Knino Adulto Pequeña 1.5 kg,Abarrotes,Mascotas
@@ -4803,6 +4805,7 @@ id_producto,producto,categoria,subcategoria
 108768,Crema Corporal Juicy Passion Flower 100 ml,Cuidado del Bebé,Kids
 108769,Crema Corpotal Juicy Summer Crush 100 ml,Cuidado del Bebé,Kids
 108783,Frutos Secos Cocinero 300 gr,Abarrotes,Snack
+108785,Frutos Secos Cocinero Mix 150 gr,Abarrotes,Snack
 108788,Pack Agua Mendocina Sin Gas 3 L,Bebidas,Aguas
 108801,Lavavajilla Surf Limon Doypack 1 L,Cuidado del Hogar,Limpieza de Cocina
 108820,Ambientador Aerosol Sapolio Coco Tropical 360 ml,Cuidado del Hogar,Limpieza de Living y Ropero
@@ -5065,6 +5068,8 @@ id_producto,producto,categoria,subcategoria
 109964,Repuesto Maquina Afeitar Gillette Mach3 Turbo 4 un,Cuidado del Hogar,Productos Americanos
 110078,Shampoo Carissa para Bebe 900 ml,Cuidado del Bebé,Cuidado del Bebé
 110151,Granola Ceab Con Miel 500 gr,Abarrotes,Nutrición Infantil
+110171,Uva Pasas Cocinero Sin Semilla 290 gr,Abarrotes,Frutas en Conserva
+110172,Uva Pasas Cocinero Sin Semilla 160 gr,Abarrotes,Frutas en Conserva
 110201,Sazonador Purpose Spice 340 gr,Abarrotes,Condimentos y Legumbres
 110202,Sazonador American Spice Purpose 126 gr,Abarrotes,Condimentos y Legumbres
 110203,Sazonador American Spice Salt 125 gr,Abarrotes,Condimentos y Legumbres
@@ -5174,6 +5179,7 @@ id_producto,producto,categoria,subcategoria
 111831,Desodorante Gel Old Spice Antitraspirante Fresh 80 gr,Cuidado Personal,Cuidado de la Piel
 111832,Desodorante Gel Old Spice Antitraspirante Pure Sport 80 gr,Cuidado Personal,Cuidado de la Piel
 111835,Desodorante Aerosol Old Spice Antitraspirante Leña 150 ml,Cuidado Personal,Cuidado de la Piel
+111878,Ciruela Disecadas Cocinero Pereira 180 gr,Abarrotes,Frutas en Conserva
 111912,Shampoo Acondicionador Simonds sin Sal Coco 400 ml,Cuidado del Bebé,Kids
 111913,Shampoo Simonds Kids sin Sal Fresa Berry 400 ml,Cuidado del Bebé,Kids
 111931,Lavandina Cimbol 1 L + Lavandina Perfumada 1 L,Cuidado del Hogar,Limpieza de la Ropa
@@ -5835,6 +5841,7 @@ id_producto,producto,categoria,subcategoria
 120545,Ambientador Little Trees Arbolito Surtido,Bazar,Automotriz
 120546,LABIAL VOGUE RESIST ELEGANTE,Cuidado Personal,Cuidado de la Piel
 120548,LABIAL VOGUE RESIST SOFISTICADA,Cuidado Personal,Cuidado de la Piel
+120549,LABIAL VOGUE RESIST ROMANTICA,Cuidado Personal,Cuidado de la Piel
 120550,Esmalte de Uña Vogue Efecto Gel Acai,Cuidado Personal,Cuidado de la Piel
 120551,Esmalte de Uña Vogue Efecto Gel Flora,Cuidado Personal,Cuidado de la Piel
 120552,Esmalte de Uña Efecto Gel Flamingo,Cuidado Personal,Cuidado de la Piel
@@ -8111,10 +8118,14 @@ id_producto,producto,categoria,subcategoria
 228204,TRAPO MICROFIBRA  PINTO FUCSIA 300 GR,Cuidado del Hogar,Accesorios del Hogar
 228205,TRAPO MICROFIBRA  PINTO VERDE 300 GR,Cuidado del Hogar,Accesorios del Hogar
 228209,LABIAL VOGUE BARRA LYCHEE FRESCO,Cuidado Personal,Cuidado de la Piel
+228210,LABIAL VOGUE RESIST LIQUIDO VIVE,Cuidado Personal,Cuidado de la Piel
 228211,LABIAL VOGUE RESIST LIQUIDO EXPRESA,Cuidado Personal,Cuidado de la Piel
 228212,LABIAL VOUGE BARRA ROSA AMOROSA,Cuidado Personal,Cuidado de la Piel
 228213,LABIAL VOGUE RESIST LIQUIDO BAILA,Cuidado Personal,Cuidado de la Piel
 228215,LABIAL VOGUE BARRA FRAMBUESA VIVA,Cuidado Personal,Cuidado de la Piel
+228216,LABIAL VOGUE  VOLUMEN AGUA DE MAR,Cuidado Personal,Cuidado de la Piel
+228219,LABIAL VOGUE VOLUMEN FUEGO LATINO,Cuidado Personal,Cuidado de la Piel
+228220,LABIAL VOGUE SOL DE VERANO,Cuidado Personal,Cuidado de la Piel
 228221,SERUM OJOS LOREAL ACIDO GLICOLICO,Cuidado Personal,Cuidado de la Piel
 228223,SCOTCH BRITE FIBRA EXTR MORADA PACK 2U 2,Cuidado del Hogar,Accesorios del Hogar
 228224,SCOTCH BRITE FIBRA EXTREM MORADA 1U 36X1,Cuidado del Hogar,Accesorios del Hogar
@@ -8231,6 +8242,7 @@ id_producto,producto,categoria,subcategoria
 228407,CREMA CORPORAL VEGANIS PERA 500 ML,Cuidado Personal,Cuidado de la Piel
 228410,CREMA CORPORAL VEGANIS ROSAS 500 ML,Cuidado Personal,Cuidado de la Piel
 228411,CREMA CORPORAL VEGANIS GINGKO 500 ML,Cuidado Personal,Cuidado de la Piel
+228412,JABON LIQ.VEGANIS LIMA 400 ML,Cuidado Personal,Cuidado de la Piel
 228413,JABON LIQ.VEGANIS MORA 400 ML.,Cuidado Personal,Cuidado de la Piel
 228414,JABON LIQ.VEGANIS GRANADA 400 NL,Cuidado Personal,Cuidado de la Piel
 228416,SHAMPOO VEGANIS COCO 400 ML,Cuidado Personal,Cuidado del Cabello
@@ -8325,6 +8337,8 @@ id_producto,producto,categoria,subcategoria
 230500,CORRECTOR LIQUIDO MATE  AVELLANA,Cuidado Personal,Cuidado de la Piel
 230501,CORRECTOR LIQUIDO  BRONCE,Cuidado Personal,Cuidado de la Piel
 230503,BRILLO VOGUE COLORISSIMO  BRISA,Cuidado Personal,Cuidado de la Piel
+230506,Labial Vogue Brillo Colorissimo Playa,Cuidado Personal,Cuidado de la Piel
+230508,Labial Vogue Brillo Colorissimo Tropical,Cuidado Personal,Cuidado de la Piel
 230511,Acido Nitrico Mr Cloro,Cuidado del Hogar,Limpieza de Baños
 230513,Crema Goicoechea Arnica 1 L,Cuidado Personal,Cuidado de la Piel
 230514,Jabon Barra Asepxia Esponja 80 gr,Cuidado Personal,Cuidado de la Piel
@@ -16175,9 +16189,11 @@ id_producto,producto,categoria,subcategoria
 629824,CEREAL LIFE COPOS DE MAIZ AMARILLO 510GR,Abarrotes,Productos Americanos
 629826,CEREAL LIFE COPOS DE MAIZ GLASEADO 482GR,Abarrotes,Productos Americanos
 629827,CEREAL LIFE INTEGRAL TOSTADO 340GR,Abarrotes,Productos Americanos
+629831,GALLETA BREXONIC MANTEQUILLA S/AZUCAR 310GR,Abarrotes,Productos Americanos
 629832,GALLETA DAFOHA C/MANTEQUILLA PREMIUN 113GR,Abarrotes,Productos Americanos
 629834,GALLETAS AUNT BAKER MANTEQUILLA 114GR,Abarrotes,Productos Americanos
 629835,GALLETA AUNT BAKER MANTEQUILLA NAVIDAD 115GR,Abarrotes,Productos Americanos
+629837,GALLETA DAFOHA MANTEQUILLA NAVIDENA 340GR,Abarrotes,Productos Americanos
 630010,Alimento Pedigree Cachorro 1.5 kg,Abarrotes,Mascotas
 630011,Gaseosa Crush Piña 355 ml,Bebidas,Bebidas Usa
 630012,Cereal Kelloggs Cocoa Krispies 439 gr,Abarrotes,Productos Americanos
@@ -20848,6 +20864,7 @@ id_producto,producto,categoria,subcategoria
 674598,QUESO MOZZARELLA SAN ANDRES 410GRS,Lácteos y Derivados,Quesos
 674599,YOGURT GALAKTOS TIPO GRIEGO 0 AZUCAR DURAZNO 500GRS,Lácteos y Derivados,Yogures
 674600,YOGURT GALAKTOS TIPO GRIEGO 0 AZUCAR MORA 500GRS,Lácteos y Derivados,Yogures
+674601,BABY RIBS (COSTILLA DE CERDO) SAN AGUSTIN VILOMA KGR,Congelados,Carnes Congeladas
 674602,PAN DE MESA ZELADA BOLSA 18 UNIDADES,Panadería,Panadería Externa
 674603,GRISSINES CHOCOLATE BOLSA 28 UNIDADES,Pastelería y Masas Típicas,Pastelería Externa
 674604,GALLETAS CON CHIPS ZELADA 180GRS BOLSA 14 UNI,Pastelería y Masas Típicas,Pastelería Externa
@@ -21789,9 +21806,12 @@ id_producto,producto,categoria,subcategoria
 764356,HELADO DE PULPA DE COPOAZU BIOFOOD 1 LT.,Congelados,"Helados, Cassattas y Picoleses"
 764423,PAN DANES SALVADO DE TRIGO UNID.,Panadería,Panadería Externa
 764523,PIZZA PRECOC.CONG.JAMON Y MUZZARELLA BAHREM UND.,Congelados,Masas y Comidas Congeladas
+764524,BUDIN SABOR VAINILLA VICTORIA 250 GRS.,Pastelería y Masas Típicas,Pastelería Externa
 764528,YOGURT GRIEGO SAB.ACHACHAIRU DELIZIA 170 GR.,Lácteos y Derivados,Yogures
 764534,Pan Danes Blanco Aceite de Oliva,Panadería,Panadería Externa
 764536,PIZZA PRECOC.CONG.MEZCLA DE QUESOS BAHREM UND.,Congelados,Masas y Comidas Congeladas
+764537,BUDIN SABOR MARMOLADO VICTORIA 250 GRS.,Pastelería y Masas Típicas,Pastelería Externa
+764549,BUDIN SABOR NARANJA VICTORIA 250 GRS.,Pastelería y Masas Típicas,Pastelería Externa
 764567,PIZZITAS PREC.CONG.JAMMON Y QUESO BAHREM 11CM.,Congelados,Masas y Comidas Congeladas
 764578,Mix Frutas Congeladas Andeas Berries 400 gr,Congelados,Pulpas y Frutas Congeladas
 764589,PIZZITAS PREC.CONG.PEPPERONI Y QUESO BAHREM 11 CM.,Congelados,Masas y Comidas Congeladas
@@ -23244,7 +23264,7 @@ id_producto,producto,categoria,subcategoria
 838781,JAN FLORES DE NAVIDAD DE BS 12,Bazar,Temporada Navidad
 838785,JAN FLORES DE ARBOL NAVIDAD BS 14,Bazar,Temporada Navidad
 839010,Filtro N2 - Melitta,Bazar,Articulos de Cocina
-839026,CUAD ESPIR DISENO 1/2 OFIC ECON 100HJ 8731,Bazar,Librería
+839026,Cuaderno Espiral Diseño 1/2 Oficio 100 Hojas,Bazar,Librería
 839028,Cuaderno Espiral Pleno Carta 100 Hojas,Bazar,Librería
 839081,Turron Sesamo Tks 150 gr,Abarrotes,Golosinas - Varias
 839126,MIR ANTIFAZ DE ZORRO BS 10,Bazar,Temporada Carnaval
@@ -25747,7 +25767,9 @@ id_producto,producto,categoria,subcategoria
 921887,Cicatricure Gel Tubo 60 gr,Cuidado Personal,Cuidado de la Piel
 922075,Flotador de Bebe Auto Avion,Bazar,Temporada Verano
 922367,CUAD ENG.LIDER C/C 50HJ PLENO 10533,Bazar,Librería
+922370,CUAD.ESPIRAL 1/2 OFIC PLENO LIDER 50HJ 2011,Bazar,Librería
 922382,Archivador Condor Oficio,Bazar,Librería
+922388,Sobre Manila Oficio,Bazar,Librería
 922390,Sobre Manila Carta,Bazar,Librería
 922393,Hoja Papel Bond Report Carta 500 Hojas,Bazar,Librería
 923333,Pegamento Isocola 40 gr,Bazar,Librería
