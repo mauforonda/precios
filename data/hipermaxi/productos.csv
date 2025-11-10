@@ -1957,6 +1957,7 @@ id_producto,producto,categoria,subcategoria
 25487,CIGARRILLO BOHEM SANDIA DOUBLE 20UND,Bebidas,Cigarrillos
 25488,CIGARRILLO BOHEM TUNDRA DOUBLE 20UND,Bebidas,Cigarrillos
 25490,CAMOTE FRITO LA FAVORITA HOJUELAS 100G,Abarrotes,Snack
+25492,CAMOTE FRITO FAVORITA RALLADO 100G,Abarrotes,Snack
 25493,MANI FRITO LA FAVORITA PICANTE 150G,Abarrotes,Snack
 25494,CERVEZA BENDITA PILS LTA 310 ML,Bebidas,Cervezas
 25495,SAL PARRILLERA KOLLITA AHUMADA 440G,Abarrotes,Básicos
@@ -1974,6 +1975,7 @@ id_producto,producto,categoria,subcategoria
 25955,SALSA CAYETANA LISTA P PIZZA LTA 400G,Abarrotes,Salsas y Extracto de Tomate
 25956,TWOPACK ENERGIZANTE VOLT 473 ML,Bebidas,Energizantes
 25958,SAL KOLLITA CON AJO FCO 460G,Abarrotes,Básicos
+25959,SAL PARRILLERA KOLLITA C VINO 460G,Abarrotes,Básicos
 25960,SAL KOLLITA CON PAPRIKA FCO 460G,Abarrotes,Básicos
 25961,SAL KOLLITA CON LIMON FCO 460G,Abarrotes,Básicos
 25962,SAL KOLLITA CON APIO FCO 460G,Abarrotes,Básicos
@@ -15031,6 +15033,8 @@ id_producto,producto,categoria,subcategoria
 553632,PACK 12 CERVEZA SCHNEIDER 473 ML,Bebidas,Cervezas
 553633,VINO KOHLBERG FUNDADOR TTO 700ML,Bebidas,Vinos y Champagne
 553635,HARINA FAMOSA 11.5 KG,Abarrotes,Básicos
+553638,TE HELADO BONGO LIMÒN BOT 2 LT,Bebidas,Bebidas Varias
+553647,PACK GALLETAS BRINKY CHOCO FRESA 300 GR,Abarrotes,Galletas
 554333,Cerveza Paceña Lata Roja 473 Cc,Bebidas,Cervezas
 554466,Detergente Liquido Ola Futuro Limpieza Completa 5 L,Cuidado del Hogar,Limpieza de la Ropa
 554468,Suavizante Ropa Ola Suavecito Original 5 L,Cuidado del Hogar,Limpieza de la Ropa
@@ -16193,6 +16197,7 @@ id_producto,producto,categoria,subcategoria
 629832,GALLETA DAFOHA C/MANTEQUILLA PREMIUN 113GR,Abarrotes,Productos Americanos
 629834,GALLETAS AUNT BAKER MANTEQUILLA 114GR,Abarrotes,Productos Americanos
 629835,GALLETA AUNT BAKER MANTEQUILLA NAVIDAD 115GR,Abarrotes,Productos Americanos
+629836,GALLETA AUNT BAKER MANTEQUILLA NAVIDAD 300GR,Abarrotes,Productos Americanos
 629837,GALLETA DAFOHA MANTEQUILLA NAVIDENA 340GR,Abarrotes,Productos Americanos
 630010,Alimento Pedigree Cachorro 1.5 kg,Abarrotes,Mascotas
 630011,Gaseosa Crush Piña 355 ml,Bebidas,Bebidas Usa
@@ -16751,6 +16756,7 @@ id_producto,producto,categoria,subcategoria
 653614,Vino Concha y Toro Marques Carmenere 750 ml,Bebidas,Vinos y Champagne
 653615,Vino Terrunyo Carmenere 750 ml,Bebidas,Vinos y Champagne
 653651,Vino Catena Cabernet Sauvignon 750 ml,Bebidas,Vinos y Champagne
+653652,Vino Terrazas Alto Chardonay 750 ml,Bebidas,Vinos y Champagne
 653667,Chocolate Hersheys Cookies Creme 113 gr,Abarrotes,Chocolates y Caramelos
 653685,Quinua Princesa En Grano 400 gr,Abarrotes,Nutrición Infantil
 653686,Lenteja Princesa 400 gr,Abarrotes,Condimentos y Legumbres
@@ -20881,6 +20887,7 @@ id_producto,producto,categoria,subcategoria
 674638,SALCHICHA HADOQUERA SOFIA XXL A/V 15 UNIDADES,Fiambres,Fiambres Externos
 674639,SALCHICHA HADOQUERA XXL SOFIA A/V 6 UNIDADES,Fiambres,Fiambres Externos
 674643,PANETON HALLOWEEN BREICK CAJA 360GRS,Panadería,Panadería Externa
+674663,QUESO MOZZARELLA PRADERA SAN MATEO 400GRS,Lácteos y Derivados,Quesos
 674786,BONDIOLA DE CERDO SOFIA REFRIGERADA A/V KGR,Fiambres,Fiambres Externos
 674787,LOMO DE CERDO SOFIA REFRIGERADO A/V KGR,Fiambres,Fiambres Externos
 674788,LOMITO DE CERDO SOFIA REFRIGERADO A/V KGR,Fiambres,Fiambres Externos
@@ -21727,6 +21734,7 @@ id_producto,producto,categoria,subcategoria
 761420,YOGURT BEBIBLE DELIZIA DURAZNO 1 LT SACHET,Lácteos y Derivados,Yogures
 761422,Tapa de Empanada Multiple Multipasta 12 un,Congelados,Masas y Comidas Congeladas
 761425,Almejas Enteras con Concha Ilomar 1 Docena,Congelados,Carnes Congeladas
+761430,REQUESON CREMOSO CON PALTA GUARUJA 220 GRS.,Lácteos y Derivados,Quesos
 761431,Tapa de Empanada de Freir Multipasta 12 un,Congelados,Masas y Comidas Congeladas
 761434,GALLETAS CRICK CRACK PAN DANES  UNID.,Panadería,Panadería Externa
 761436,Yogurt Bebible Friedland Natural Sin Azucar 1 L,Lácteos y Derivados,Yogures
