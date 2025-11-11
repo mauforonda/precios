@@ -1650,6 +1650,7 @@ id_producto,producto,categoria,subcategoria
 25037,GIN INSURGENTE POMELO 700 ML,Bebidas,Licores
 25040,MANI PICNIC JAPONES QUESO 350G,Abarrotes,Snack
 25041,MANI PICNIC JAPONES PIZZA 350G,Abarrotes,Snack
+25042,Cereal Camaro Delipops Aritos 110 gr,Abarrotes,Nutrición Infantil
 25043,MEZCAL DON RAMON ESPADIN 750 ML,Bebidas,Licores
 25044,Mezcla Don Ramon Joven Salmiana 750 ml,Bebidas,Licores
 25045,Mezcal Don Ramon Buen Amigo 750 ml,Bebidas,Licores
@@ -1909,6 +1910,7 @@ id_producto,producto,categoria,subcategoria
 25420,PACK 3 GALLETAS FESTIVAL UND,Abarrotes,Galletas
 25421,CAFE JAQAKU SAN JOSE GRANO 250G,Abarrotes,Café y Sucedáneos
 25422,CAFE JAQAKU CARANAVI GRANO 250G,Abarrotes,Café y Sucedáneos
+25423,CAFE JAQAKU CARANAVI GRANO 1KG,Abarrotes,Café y Sucedáneos
 25424,CAFE JAQAKU CARANAVI MOLIDO 250G,Abarrotes,Café y Sucedáneos
 25425,CAFE JAQAKU SAN JOSE MOLIDO 250G,Abarrotes,Café y Sucedáneos
 25426,CAFE JAQAKU MOLIDO S CARAMELO 250G,Abarrotes,Café y Sucedáneos
@@ -4737,6 +4739,7 @@ id_producto,producto,categoria,subcategoria
 108090,Toallas Incontinencia Tena Discreet Medium 10 un,Cuidado Personal,Cuidado del Adulto
 108091,Toallas Incontinencia Tena Discreet Maxi 10 un,Cuidado Personal,Cuidado del Adulto
 108120,Limpiador de Piso Ola Aromatic Lavanda 900 ml,Cuidado del Hogar,Limpieza de Baños
+108130,Pañales Tena Ultra M 20 un,Cuidado Personal,Cuidado del Adulto
 108131,Pañales Tena Pants Ultra L 20 un,Cuidado Personal,Cuidado del Adulto
 108185,Aceituna Gustoso Rellenas 340 gr,Abarrotes,Verduras en Conserva
 108186,Aceituna Gustoso Verde 830 gr,Abarrotes,Verduras en Conserva
@@ -10660,7 +10663,7 @@ id_producto,producto,categoria,subcategoria
 361247,Huevos Caisy Super Huevos 12 un,Lácteos y Derivados,Huevos
 361250,Alcohol Sanitizador Jamsa Kids 125 ml,Cuidado del Bebé,Kids
 361251,Alcohol Sanitizador Jamsa Lavanda 125 ml,Cuidado Personal,Cuidado de la Piel
-361500,Canasta Plastica con Agarrador Canaston 15 L,Cuidado del Hogar,Accesorios del Hogar
+361500,Canasta Plastica con Agarrador 15 L,Cuidado del Hogar,Accesorios del Hogar
 361510,Limpiador Sacagrasa Bristar 900 ml + Esponja,Cuidado del Hogar,Limpieza de Cocina
 361532,Crema de Peinar Elvive Dream Long Liss 300 ml,Cuidado Personal,Cuidado del Cabello
 361535,Shampoo Elvive Dream Long Liss 680 ml,Cuidado Personal,Cuidado del Cabello
@@ -11832,7 +11835,7 @@ id_producto,producto,categoria,subcategoria
 447668,Gaseosa Pepsi 500 ml CBN,Bebidas,Gaseosas
 447860,Masculan Preservativo Rojo x 10 und,Cuidado Personal,Cuidado de la Piel
 447861,Masculan Preservativo Saborizado x 10 und,Cuidado Personal,Cuidado de la Piel
-447863,Masculan Preservativo Doble Protec Caja x 3 unid,Farmacia Otc,Varios
+447863,Masculan Preservativo Doble Protec Caja x 3 unid,Cuidado Personal,Cuidado de la Piel
 447974,"Edulcorante  D Light 80 gr
 ",Abarrotes,Dietéticos y Saludables
 447975,"Edulcorante  D Light 180 gr
@@ -11863,6 +11866,7 @@ id_producto,producto,categoria,subcategoria
 450405,Aceite Fino Light 900 ml,Abarrotes,Básicos
 450559,Bloqueador Solar Leblon Antioxidante 50Fps 90 gr,Cuidado Personal,Cuidado de la Piel
 450741,Figuvit Masticable x 50 Comp,Farmacia Otc,Tracto Alimentario y Metabolismo
+450908,Masculan Preservativo Puro Caja x 3 unid,Farmacia Otc,Varios
 450962,Granola Roxi Tradicional 350 gr,Abarrotes,Nutrición Infantil
 450964,Granola Roxi Con Estevia 350 gr,Abarrotes,Nutrición Infantil
 451015,"Edulcorante  Equal con Stevia 100 un
@@ -11879,6 +11883,7 @@ id_producto,producto,categoria,subcategoria
 451967,Refresco Zuko Frambuesa 20 gr,Bebidas,Refrescos en Polvo
 451969,Figuvit Memory Masticable x 1  Fco caps,Farmacia Otc,Tracto Alimentario y Metabolismo
 451996,Ciruelax Forte x 1 comp,Farmacia Otc,Tracto Alimentario y Metabolismo
+452049,Retardador Maxmen Spray fco x 10 ml  Lidocaina Prolongador Sexual,Cuidado Personal,Cuidado de la Piel
 452144,Cepillo Dental Foramen Xtreme Junior Medio 1 un,Cuidado Personal,Cuidado Bucal
 452147,Silka Medic Pie Atleta x 15 gr,Farmacia Éticos,Dermatológicos
 452287,Cicatricure Gel 30 gr,Cuidado Personal,Cuidado de la Piel
@@ -11910,8 +11915,10 @@ id_producto,producto,categoria,subcategoria
 453436,Caramelo Garganta Limon Miel Prop x 100 gr,Abarrotes,"Mermel, Mieles"
 453443,Refrianex DÍa Con Vit C x 1 sob,Farmacia Éticos,Sistema Respiratorio
 453592,Pomada Dr.Bell Para Callo 50 ml,Cuidado Personal,Cuidado de la Piel
+453639,Preservativo Tulipan  Neon 1 Caja x  UN,Cuidado Personal,Cuidado de la Piel
 453681,Gel Intimo Clasico Tulipan x 30 ml,Cuidado Personal,Cuidado del Adulto
 453682,Gel Intim Efecto Calor Tulipan x 30 ml,Cuidado Personal,Cuidado de la Piel
+453685,Gel Intim Efecto Frio Tulipan x 30 ml,Cuidado Personal,Cuidado de la Piel
 453687,Gel Intimo Tulipan  L-Arginina x 30ml,Cuidado Personal,Cuidado del Adulto
 453714,Paño Limpion Eterna Absorbente X 1,Cuidado del Hogar,Accesorios del Hogar
 453722,Paño Limpion Eterna Multiuso X 1,Cuidado del Hogar,Accesorios del Hogar
@@ -11962,7 +11969,7 @@ id_producto,producto,categoria,subcategoria
 455830,Servilletas Elite Practica 100 un,Cuidado Personal,Cuidado Familiar
 455848,Prudence Corrugado Preservativo Caja x 3 unid,Cuidado Personal,Cuidado de la Piel
 455849,Servilletas Elite Doblada 100 un,Cuidado Personal,Cuidado Familiar
-455851,Prudence Ultra Sensible Preservativo Caja x 3 unid,Farmacia Otc,Varios
+455851,Prudence Ultra Sensible Preservativo Caja x 3 unid,Cuidado Personal,Cuidado de la Piel
 455863,Alcohol Gel Jamsa Neutro 360 ml,Cuidado Personal,Cuidado de la Piel
 455864,Alcohol Gel Jamsa Neutro 1 L,Cuidado Personal,Cuidado de la Piel
 455880,ALCOHOL ISOPROPILICO ENVAQUIN X1LT,Cuidado Personal,Cuidado de la Piel
@@ -11972,14 +11979,15 @@ id_producto,producto,categoria,subcategoria
 455911,Insecticida Mapex Tableta Mata Mosquito 32 un,Cuidado del Hogar,Insecticidas
 455962,Cafe Irupana Sin Azucar 250 gr,Abarrotes,Café y Sucedáneos
 455970,Cafe Irupana Tradicional Torrado 250 gr,Abarrotes,Café y Sucedáneos
+455975,Lubricante  Maxmen Para Preservativo 1 caja x 5 Un,Farmacia Otc,Varios
 455977,Gel Intimo Azucena x 30ml,Cuidado Personal,Cuidado del Adulto
 455978,Gel Lubricante Azucena Connection Hot x 30ml,Cuidado Personal,Cuidado de la Piel
 455979,Gel Lubircante Azucena Frutilla Chocolate x 30ml,Cuidado Personal,Cuidado de la Piel
-456009,Prudence Preservativo Frutilla Caja x 3 unid,Farmacia Otc,Varios
+456009,Prudence Preservativo Frutilla Caja x 3 unid,Cuidado Personal,Cuidado de la Piel
 456013,Prudence Preservat Texturado Extremo Caja x 3 unid,Cuidado Personal,Cuidado de la Piel
 456014,Prudence Preservativo Retardante Caja x 3 unid,Cuidado Personal,Cuidado de la Piel
-456017,Prudence Preservativo Chocolate Caja x 3 unid,Farmacia Otc,Varios
-456018,Prudence Preservativo Mix Caja x 3 unid,Farmacia Otc,Varios
+456017,Prudence Preservativo Chocolate Caja x 3 unid,Cuidado Personal,Cuidado de la Piel
+456018,Prudence Preservativo Mix Caja x 3 unid,Cuidado Personal,Cuidado de la Piel
 456225,Gaseosa Dr Pepper USA 12 Oz,Bebidas,Bebidas Usa
 456545,Salsa Molho Predilecta Pimienta 150 ml,Abarrotes,Aderezos
 456561,Cera Liquida Ola Brillante Neutro 5 L,Cuidado del Hogar,Limpieza de Living y Ropero
@@ -12024,6 +12032,7 @@ id_producto,producto,categoria,subcategoria
 459569,Oregano El Cocinero Picado 140 gr,Abarrotes,Condimentos y Legumbres
 459604,Prudence Vete a la Versh Caja x 5 unid                                                     .,Farmacia Otc,Varios
 459607,Drastik Limpia Inodoro 500 ml,Cuidado del Hogar,Productos Americanos
+459628,Masculan Gel Lubricante Silk Fco x 75 ml,Farmacia Otc,Varios
 459630,Pañales Desechables Mami Talla G x 40 und,Cuidado del Bebé,Pañales
 459632,Pañales Desechables Mami Talla XG x 36 und,Cuidado del Bebé,Pañales
 459633,PANALES DESECHABLES MAMI T.XXG X32 UND,Cuidado del Bebé,Pañales
@@ -12067,6 +12076,7 @@ id_producto,producto,categoria,subcategoria
 461276,Balsamo Labial Lipsmack Menta Fresh 12.5 g,Cuidado Personal,Cuidado de la Piel
 461277,Lipsmack Balsamo Labial Mango Tropical 12.5gr,Cuidado Personal,Cuidado de la Piel
 461278,Balsamo labial Lipsmack Mango Tropical x 11Gr,Cuidado Personal,Cuidado de la Piel
+461286,Maxmen Preser Inspiral Kraken Caja x 1 Und,Farmacia Otc,Varios
 461297,LIPSTICK SURTIDO DE FRUTAS X 5.3 GR,Cuidado Personal,Cuidado de la Piel
 461393,Sazonador McCormick Mild Mix Taco 28 gr,Abarrotes,Condimentos y Legumbres
 461530,Carbon Ecologico 3 kg,Bazar,Churrasquería
@@ -13966,7 +13976,7 @@ id_producto,producto,categoria,subcategoria
 552146,Maple Grove Farms Sin Azucar 710 ml,Abarrotes,Productos Americanos
 552152,Cerveza Paceña Roja 440 ml CBN,Bebidas,Cervezas
 552153,Pack 2 Cerveza Paceña 440 ml,Bebidas,Cervezas
-552155,PACK CIGAR BOHEM SANDIA SPEAKER WIRELESS,Bebidas,Cigarrillos
+552155,Pack Cigarillos Bohem Sandia Speaker Wireless,Bebidas,Cigarrillos
 552156,Pack Cigarillos Bohem Vino Speaker Wireless,Bebidas,Cigarrillos
 552157,Cereal Kelloggs Froot Loops Spinners 265 gr,Abarrotes,Nutrición Infantil
 552158,Marshmallows Trululu Relleno Caramelo 50 gr,Abarrotes,Golosinas - Varias
@@ -14842,6 +14852,7 @@ id_producto,producto,categoria,subcategoria
 553297,GALLETA SALADA SUPREMA CHAPITAS 141GR,Abarrotes,Galletas
 553298,CHOCOL RUAH AMARGO 75P C NARANJA 60G,Abarrotes,Chocolates y Caramelos
 553301,ACHOCOLATADO CHOCOMILKO BSA 960G,Abarrotes,Nutrición Infantil
+553302,INFUSION PARIS PREMIUM MATE PARIS 120SAQ,Abarrotes,Café y Sucedáneos
 553303,GALLETAS ANDES TROPICO ALMENDRA 200 GR,Abarrotes,Galletas
 553304,GALLETA ANDES TROPICO CANAHUA 200 GR,Abarrotes,Galletas
 553305,GALLETA ANDES TROPICO CHIA 200 GR,Abarrotes,Galletas
@@ -15034,6 +15045,7 @@ id_producto,producto,categoria,subcategoria
 553633,VINO KOHLBERG FUNDADOR TTO 700ML,Bebidas,Vinos y Champagne
 553635,HARINA FAMOSA 11.5 KG,Abarrotes,Básicos
 553638,TE HELADO BONGO LIMÒN BOT 2 LT,Bebidas,Bebidas Varias
+553640,TE HELADO BONGO DURAZNO BOT 2 LT,Bebidas,Bebidas Varias
 553647,PACK GALLETAS BRINKY CHOCO FRESA 300 GR,Abarrotes,Galletas
 554333,Cerveza Paceña Lata Roja 473 Cc,Bebidas,Cervezas
 554466,Detergente Liquido Ola Futuro Limpieza Completa 5 L,Cuidado del Hogar,Limpieza de la Ropa
@@ -16195,10 +16207,12 @@ id_producto,producto,categoria,subcategoria
 629827,CEREAL LIFE INTEGRAL TOSTADO 340GR,Abarrotes,Productos Americanos
 629831,GALLETA BREXONIC MANTEQUILLA S/AZUCAR 310GR,Abarrotes,Productos Americanos
 629832,GALLETA DAFOHA C/MANTEQUILLA PREMIUN 113GR,Abarrotes,Productos Americanos
+629833,GALLETA NOVA SNACK ESTILO DANES 454GR,Abarrotes,Productos Americanos
 629834,GALLETAS AUNT BAKER MANTEQUILLA 114GR,Abarrotes,Productos Americanos
 629835,GALLETA AUNT BAKER MANTEQUILLA NAVIDAD 115GR,Abarrotes,Productos Americanos
 629836,GALLETA AUNT BAKER MANTEQUILLA NAVIDAD 300GR,Abarrotes,Productos Americanos
 629837,GALLETA DAFOHA MANTEQUILLA NAVIDENA 340GR,Abarrotes,Productos Americanos
+629840,GALLETAS JUMAIRH ARANDANO 283 GR,Abarrotes,Productos Americanos
 630010,Alimento Pedigree Cachorro 1.5 kg,Abarrotes,Mascotas
 630011,Gaseosa Crush Piña 355 ml,Bebidas,Bebidas Usa
 630012,Cereal Kelloggs Cocoa Krispies 439 gr,Abarrotes,Productos Americanos
@@ -22877,6 +22891,10 @@ id_producto,producto,categoria,subcategoria
 809560,Tapper de Vidrio Tapa Hermética 800 ml,Bazar Importación,Menaje Vidrio/Cristal
 809590,Alimento Dog Chow Adulto Carne Pollo Mediano Grande 3 kg,Abarrotes,Mascotas
 809732,Tomatodo Luya de Vidrio 500 cc,Bazar Importación,Menaje Vidrio/Cristal
+809814,Sarten Antiadherente Azul 28 cm,Bazar Importación,Cocina General
+809815,Sarten Antiadherente Gris 28 cm,Bazar Importación,Cocina General
+809816,Sarten Antiadherente Gris Oscuro 28 cm,Bazar Importación,Cocina General
+809817,Sarten Antiadherente Negro 28 cm,Bazar Importación,Cocina General
 809871,Grillete Halloween 57x15 cm,Bazar Importación,Temporada Halloween
 809889,Vincha Halloween Telaraña con Ojos,Bazar Importación,Temporada Halloween
 810053,Crema Ponds Clarante Piel Seca 100 gr,Cuidado Personal,Cuidado de la Piel
@@ -26127,10 +26145,11 @@ id_producto,producto,categoria,subcategoria
 990664,Lapices de Colores Faber Castell Acuarelable 12 Colores,Bazar,Librería
 990665,Lapices de Colores Faber Castell Acuarelable 24 Colores,Bazar,Librería
 990967,Basurero Rey Calada Roma,Cuidado del Hogar,Accesorios del Hogar
-991075,Masculan Preservativo Natural x 3 und,Farmacia Otc,Varios
+991075,Masculan Preservativo Natural x 3 und,Cuidado Personal,Cuidado de la Piel
+991078,Masculan Preservativo Sensitivo x 3 unid,Farmacia Otc,Varios
 991079,Masculan Preservativo Extra Sensitivo Caja x 3 unid,Farmacia Otc,Varios
 991080,Masculan Preservativo Anatomico Caja x 3 unid,Farmacia Otc,Varios
-991081,Masculan Preservativo Largo Placer Caja x 3 unid,Farmacia Otc,Varios
+991081,Masculan Preservativo Largo Placer Caja x 3 unid,Cuidado Personal,Cuidado de la Piel
 991082,Masculan Preservativo Saborizado Caja x 3 unid,Cuidado Personal,Cuidado de la Piel
 991288,Boligrafo Bic Cristal Azul,Bazar,Librería
 991289,Boligrafo Bic Rojo Cristal,Bazar,Librería
@@ -26149,6 +26168,7 @@ id_producto,producto,categoria,subcategoria
 993414,Algodon Cremer Disco 37 gr,Cuidado Personal,Cuidado de la Piel
 993460,Taper Mr Microonda Rectangular Salchicha,Bazar,Menaje Plástico
 993519,Vela Café,Bazar,Living y Dormitorio
+993520,Masculan Preservativo Black xxl Caja x 3 unid,Farmacia Otc,Varios
 993675,Jarra Mexico Cristal,Bazar,Menaje Vidrio/Cristal
 993691,TARJETAS GIGANTES SURTIDAS UND.,Bazar,Librería
 993692,Tarjetao Kromas  Especial KrecuentreE,Bazar,Librería
