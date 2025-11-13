@@ -215,6 +215,7 @@ id_producto,producto,proveedor,categoria
 7436957089951,Ketchup Tomato Heinz 397 G,Heinz,Ketchup
 7436959613087,Yogurt sabor Coco Pil 1 L,Pil,Yogurt
 10869309669535,Papas Pringles Sabor Crema y Cebolla 137 Gr,Madisa,Papas Fritas
+10849807990943,Leche Pil Enriquecida 800 Ml,Pil,Leche Pil Enriquecida
 7392493142175,Aceite Fino 900 Ml,Fino,Aceite
 7392493404319,Agua con Gas Vital 2 L,Vital,Agua con Gas
 7392493568159,Aquarius de Pera 2 L,Aquarius,Jugo de Fruta
@@ -366,7 +367,7 @@ id_producto,producto,proveedor,categoria
 7436943032479,Gelatina de Frambuesa Yeli 110 G,Yeli,Gelatina
 7436943098015,Powerade Mora Azul de 990 ml,Powerade,Rehidratante
 7436943130783,Papel Higienico Clasico Nacional 12 Uni,Nacional,Papel Higienico
-7436943163551,Cerveza Paceña Lata 269 ML,CBN,Cerveza
+7436943163551,Cerveza Paceña Pilsener Lata 269 ML,CBN,Cerveza
 7436943327391,Jugo Fresh de Naranja Del Valle 300 Ml,Del Valle,Jugo
 7436943360159,Powerade Mora Azul 473 Ml,Powerade,Rehidratante
 7436943458463,Agua Saborizada Aquarius Pomelo 500 Ml,Aquarius,Jugo de Frutas
@@ -640,7 +641,7 @@ id_producto,producto,proveedor,categoria
 9194484498591,Salsa La Costeña Nachos De Jalapeño 820 Gr,La Costeña,Salsa
 9197934510239,Huevo Marron Mediano Sofia 12 U,Sofia,Huevos
 9197935198367,Huevo Marron Grande Sofia 30 U,Sofia,Huevos
-9197936935071,Leche entera EBA 946 ml,EBA,Leche
+9197936935071,Leche Entera EBA UHT Bolsa 946 Ml,EBA,Leche
 10628748738719,Durazno La Colina,Fidalga,
 10628750868639,Maicena Paladio,Fidalga,
 10713715441823,Mocochinchi Casa del Camba,Casa del Camba,
@@ -725,7 +726,6 @@ id_producto,producto,proveedor,categoria
 10849164099743,Pack Del Valle Fresh Citrus 300 Ml,Embol,Pack del Valle Fresh Citrus
 10849807564959,Cerveza Huari Lata 269 Ml,CBN,Cerveza Huari
 10849807728799,Leche Pil Chiquichoc Bolsa 140Ml,Pil,Leche Pil Chiquichoc
-10849807990943,Leche Pil Enriquecida 800 Ml,Pil,Leche Pil Enriquecida
 10849808089247,Gaseosa Coca Cola Sin Azúcar 300 Ml,Embol,Coca Cola Sin Azucar
 10849808416927,Huevos Caisy 12 Unidades,Caisy,Huevo
 10849882177695,Arroz Grano de Oro Caisy 5 Kg,Caisy,Arroz
@@ -880,3 +880,16 @@ id_producto,producto,proveedor,categoria
 10873215254687,Cerveza Potosina Light 355 Ml,Opal,Cerveza Potosina Light
 10873221054623,Cerveza Potosina Pilsener 355 Ml,Opal,Cerveza Potosina
 10873234227359,Cerveza Potosina Lata 473 Ml,Opal,Cerveza Potosina
+10873449611423,Leche Pil Enriquecida Bolsa 800 Ml,Pil,Leche Pil Enriquecida
+10873449775263,Cerveza Golden 440 Ml,Cerveza Golden,
+10873451217055,Huevon Nutrirolon 30 Unid,Huevo Nutrirolon,
+10873451610271,Agua Vitan Natural Sin Gas 600 Ml,Embol,Agua Vital
+10873451905183,Leche Pil Entera Larga Vida en Caja 1 Lt,Pil,Leche Entera Larga Vida
+10873455116447,Bebida Isotonico Santé Sport Uva 500 Ml,Snate,Bebida Hridratante
+10873456230559,Yogurt Griego Natural Delizia 1 Lt,Delizia,Yogurt Griego
+10873458393247,Papel Higiénico Doble Hoja Ecomax Nacional 6 Unid,Nacional,Papel Higienico
+10873460981919,Agua Villa Santa Sin Gas 600 Ml,Fidalga,Agua Villa Santa
+10873461768351,Leche Chocolate Pil Bolsa 800 Ml,Pil,Leche Chocolate
+10873470091423,Yogurt Griego Fresa Delizia 170 Gr,Delizia,Yogurt Griego
+10873932185759,Arroz Caisy Predilecto 1 Kg,Caisy,Arroz
+10873932251295,Yogurt Griego Pil Greco Natural Bolsa 1 kg,Pil,Yogurt Grieco
