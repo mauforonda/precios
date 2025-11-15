@@ -1833,6 +1833,7 @@ id_producto,producto,categoria,subcategoria
 25296,CAMOTE FRITO L FAVORITA RALLADO 200G,Abarrotes,Snack
 25297,CAMOTE FRITO PREMIUM L FAVORITA 200G,Abarrotes,Snack
 25299,VODKA MATRIOSHKA BOT 750ML,Bebidas,Licores
+25303,TRIGO INSUFLADO FAVORITA BSA 150G,Abarrotes,Nutrición Infantil
 25304,CHUCRUT RINCON MADERAS FCO  460GR,Abarrotes,Verduras en Conserva
 25307,VINO ROSE P DEL FUERTE SYRAH 750ML,Bebidas,Vinos y Champagne
 25312,BEBIDA SPARKLY ICE UVA BOT 300ML,Bebidas,Licores
@@ -8131,6 +8132,7 @@ id_producto,producto,categoria,subcategoria
 228191,PAPEL FINESSE PREMIUN 4X12,Cuidado Personal,Cuidado Familiar
 228193,PAPEL FINESSE PREMIUN 2X24,Cuidado Personal,Cuidado Familiar
 228194,ESCOBA PINTO ESMERALDA SUAVE -CM,Cuidado del Hogar,Accesorios del Hogar
+228195,CEPILLO FULLER FIBRA NYLON,Cuidado del Hogar,Accesorios del Hogar
 228196,GUANTES DOMESTICOS PINTO TALLA 8,Cuidado del Hogar,Accesorios del Hogar
 228197,GUANTE DOMESTICO PINTO TALLA 9,Cuidado del Hogar,Accesorios del Hogar
 228199,TRAPO MICROFI  BLANCO PINTO 170 GR,Cuidado del Hogar,Accesorios del Hogar
@@ -8300,7 +8302,21 @@ id_producto,producto,categoria,subcategoria
 228888,Gaseosa H2Oh Limoneto 2 L CBN,Bebidas,Gaseosas
 228975,CEPILLO COLGATE TOTAL 2 PIEZAS,Cuidado Personal,Cuidado Bucal
 228976,COLGATE MAX FRESH COOL MINT 75ML,Cuidado Personal,Cuidado Bucal
+228987,SUAVIZANTE ASI  ANTIBACTERIAL  2000ML,Cuidado del Hogar,Limpieza de la Ropa
+228989,SUAVIZANTE ASI CLASICO 900ML,Cuidado del Hogar,Limpieza de la Ropa
 228991,LIMPPANO ANTIMOHO CLOSET ROMERO 200G,Cuidado del Hogar,Limpieza de Living y Ropero
+228992,PERFUME ASI  TELA PINK POWER 300ML,Cuidado del Hogar,Limpieza de Living y Ropero
+228993,JABON LIQ INTIMO ASI  300ML,Cuidado Personal,Cuidado del Adulto
+228994,PERFUME ASI TELA  LAVANDA 300ML,Cuidado del Hogar,Limpieza de Living y Ropero
+228995,PERFUME ASI  TELA  ANTIOLOR 300ML,Cuidado del Hogar,Limpieza de Living y Ropero
+228996,PLANCA FACIL ASI GATILLO 500ML,Cuidado del Hogar,Limpieza de la Ropa
+228997,DETERGENTE LIQ ASI FIBER MAX 900ML,Cuidado del Hogar,Limpieza de la Ropa
+228998,SUAVIZANTE ASI FLORIDA 900ML,Cuidado del Hogar,Limpieza de la Ropa
+228999,SUAVIZANTE ASI FLORIDA   2000ML,Cuidado del Hogar,Limpieza de la Ropa
+229000,SUAVIZANTE ASI DELICADO  900ML,Cuidado del Hogar,Limpieza de la Ropa
+229003,SUAVIZANTE ASI  DELICADO  2000ML,Cuidado del Hogar,Limpieza de la Ropa
+229004,SUAVIZANTE ASI CLASICO  2000ML,Cuidado del Hogar,Limpieza de la Ropa
+229005,SUAVIZANTE ASI ANTIBACTERIAL  MX 900ML,Cuidado del Hogar,Limpieza de la Ropa
 229006,PROTECTOR DIARIO TENA XLARGO ADULTO 15 U,Cuidado Personal,Cuidado del Adulto
 229011,Desinfectante Aerosol Whitex,Cuidado del Hogar,Limpieza de Baños
 229073,Cera Fijadora Fixer Efecto Natural 60 gr,Cuidado Personal,Cuidado del Cabello
@@ -8612,7 +8628,7 @@ id_producto,producto,categoria,subcategoria
 240652,SERVILLETA BLANQUITA LARGA  500 UNDS,Cuidado Personal,Cuidado Familiar
 240653,Toallas Humedas Problock Manzanilla Aloe 100 un,Cuidado del Bebé,Cuidado del Bebé
 240654,Toallas Humedas Problock Manzanilla Aloe 50 un,Cuidado del Bebé,Cuidado del Bebé
-240663,OLEO P/CABELLO DOVE BOND INTENSE 110 ML,Cuidado Personal,Cuidado del Cabello
+240663,Oleo para Cabello Dove Repair 110 ml,Cuidado Personal,Cuidado del Cabello
 240665,PACK LOREAL HIALURONICO SERUM + AGUA MIC,Cuidado Personal,Cuidado de la Piel
 240666,PACK LOREAL MATIFICANTE 50 ML+  GEL  EQU,Cuidado Personal,Cuidado de la Piel
 240667,Pack Toallitas Humedas Classic Triple Proteccion 160 un,Cuidado del Bebé,Cuidado del Bebé
@@ -9445,7 +9461,7 @@ id_producto,producto,categoria,subcategoria
 307730,Masticable Super Big Ben 340 gr,Abarrotes,Golosinas - Varias
 307885,Galleta Marilan Pit Stop Pizza 137 gr,Abarrotes,Galletas
 307955,Digestan Compuesto x 1 sobre,Cuidado Personal,Cuidado de la Piel
-308048,Galleta Wafer Bauduco Vainilla 140 gr,Abarrotes,Galletas
+308048,Galleta Wafer Bauducco Vainilla 140 gr,Abarrotes,Galletas
 308181,Pipoca Johns Pop Caramelo 200 gr,Abarrotes,Snack
 308187,Pipoca Johns Pop Zebra 200 gr,Abarrotes,Snack
 308269,Neceser Foramen Junior,Cuidado Personal,Cuidado Bucal
@@ -10385,7 +10401,7 @@ id_producto,producto,categoria,subcategoria
 351235,Galleta Noel Leche 321 gr,Abarrotes,Galletas
 351335,Energizante Ciclon 500 ml,Bebidas,Energizantes
 351501,Desinfectante Aerosol Lysoform Frutal Flores 360 cm,Cuidado del Hogar,Productos Americanos
-351510,Galleta Wafer Bauduco Chocolate 140 gr,Abarrotes,Galletas
+351510,Galleta Wafer Bauducco Chocolate 140 gr,Abarrotes,Galletas
 351555,Salsa Carozzi Toscana Oliva 200 gr,Abarrotes,Salsas y Extracto de Tomate
 351558,Lustra mueble Todo Brillo Doypack 900 ml,Cuidado del Hogar,Limpieza de Living y Ropero
 351563,Salsa Carozzi Toscana Bolognesa 200 gr,Abarrotes,Salsas y Extracto de Tomate
@@ -10781,9 +10797,9 @@ id_producto,producto,categoria,subcategoria
 364355,Cafe Iguazu Soluble 200 g,Abarrotes,Café y Sucedáneos
 364357,Jugo Pil Juguito Piña 150 ml,Bebidas,"Jugos, Néctar"
 364371,Cafe Iguazu Soluble 100 gr,Abarrotes,Café y Sucedáneos
-364541,Galleta Wafer Bauduco Frutilla 140 gr,Abarrotes,Galletas
-364576,Galleta Wafer Bauduco Avellana 140 gr,Abarrotes,Galletas
-364681,Galleta Bauduco Champagne Cristal 150 gr,Abarrotes,Galletas
+364541,Galleta Wafer Bauducco Frutilla 140 gr,Abarrotes,Galletas
+364576,Galleta Wafer Bauducco Avellana 140 gr,Abarrotes,Galletas
+364681,Galleta Bauducco Champagne Cristal 150 gr,Abarrotes,Galletas
 365017,Gelatina Kiko Varios Sabores 1 kg,Abarrotes,Repostería
 365068,Jugo Bc Campagnola Naranja 1 L,Bebidas,"Jugos, Néctar"
 365076,Jugo Bc Campagnola Multifruta 1 L,Bebidas,"Jugos, Néctar"
@@ -11850,8 +11866,8 @@ id_producto,producto,categoria,subcategoria
 446114,Desodorante Aerosol Nivea Pearl Beauty 150 ml,Cuidado Personal,Cuidado de la Piel
 446165,Desodorante Roll On Nivea Pearl Beauty 50 ml,Cuidado Personal,Cuidado de la Piel
 446203,Farofa Zaeli Picanha 500 gr,Abarrotes,Productos Americanos
-446408,Galleta Bauduco Relleno Frutilla 125 gr,Abarrotes,Galletas
-446416,Galleta Bauduco Relleno Chocolate 125 gr,Abarrotes,Galletas
+446408,Galleta Bauducco Relleno Frutilla 125 gr,Abarrotes,Galletas
+446416,Galleta Bauducco Relleno Chocolate 125 gr,Abarrotes,Galletas
 446572,Detergente Liquido Archer Ropa Negra 2 L,Cuidado del Hogar,Limpieza de la Ropa
 446609,Alcohol Desnaturalizado Envaquin 1000 ml,Cuidado Personal,Cuidado de la Piel
 446653,Soya El Cocinero En Grano Entero 400 gr,Abarrotes,Básicos
@@ -14933,7 +14949,7 @@ id_producto,producto,categoria,subcategoria
 553361,PACK RAMEN MAXIMO 4X85G,Abarrotes,Básicos
 553362,ESPUMANTE CHAKANA NUNA BRUT NATURE 750ML,Bebidas,Vinos y Champagne
 553364,PACK 2 GALLETA WAFER COLOMBINA,Abarrotes,Galletas
-553365,PACK GALLETAS COLOMBINA BRINKY X2,Abarrotes,Galletas
+553365,PACK GALLETA BRINKY CHOCOL VAINILLA 300G,Abarrotes,Galletas
 553366,GRAGEAS RUAH CAFE CHOCOLATE 75P STEVIA,Abarrotes,Chocolates y Caramelos
 553368,GRAGEA QUINUA RUAH CHOCOLATE STEVIA  50,Abarrotes,Chocolates y Caramelos
 553370,CEREAL SPECIAL K TRIPLE BERRY 331 GR,Abarrotes,Productos Americanos
@@ -15059,6 +15075,7 @@ id_producto,producto,categoria,subcategoria
 553611,CAFE JAQAKU SAN JOSE GRANO 1KG,Abarrotes,Café y Sucedáneos
 553616,CAFE JAQAKU S DULCE LECHE 10CAPS 55G,Abarrotes,Café y Sucedáneos
 553617,CAFE JAQAKU TOSTADO S AVELLANA 10CAPS 55,Abarrotes,Café y Sucedáneos
+553618,GASEOSA FRISH GUAYABA S AZUC BOT 1 LT,Bebidas,"Jugos, Néctar"
 553620,AGUA IONICA  ALCALINA  5 LT,Bebidas,Aguas
 553621,AGUA IONICA ALCALINA 2 LT,Bebidas,Aguas
 553622,AGUA IONICA ALCALINA 600CC,Bebidas,Aguas
@@ -15078,6 +15095,9 @@ id_producto,producto,categoria,subcategoria
 553644,VAPE WAKA POCKET CHERRY BOMB 2P 6000P,Bebidas,Cigarrillos
 553645,GOMITAS BON BON BUM FRESA 80 GR,Abarrotes,Golosinas - Varias
 553647,PACK GALLETAS BRINKY CHOCO FRESA 300 GR,Abarrotes,Galletas
+553649,GASEOSA CASCADA PAPAYA  BOT 750 ML,Bebidas,Gaseosas
+553651,GASEOSA COKA QUINA BOT 750 ML,Bebidas,Gaseosas
+553652,GASEOSA POMELO NEUS BOT 750 ML,Bebidas,Gaseosas
 554333,Cerveza Paceña Lata Roja 473 Cc,Bebidas,Cervezas
 554466,Detergente Liquido Ola Futuro Limpieza Completa 5 L,Cuidado del Hogar,Limpieza de la Ropa
 554468,Suavizante Ropa Ola Suavecito Original 5 L,Cuidado del Hogar,Limpieza de la Ropa
@@ -15483,7 +15503,7 @@ id_producto,producto,categoria,subcategoria
 600362,Frejol Negro Cocinero 460 gr,Abarrotes,Condimentos y Legumbres
 600440,Paño Virulana Twist Spontex 37X40 cm,Cuidado del Hogar,Accesorios del Hogar
 600471,Manzana Verde 1 kg,Frutas y Verduras,Frutas
-600491,Galleta Bauduco Relleno Vainilla 125 gr,Abarrotes,Galletas
+600491,Galleta Bauducco Relleno Vainilla 125 gr,Abarrotes,Galletas
 600495,"Edulcorante  Sucaryl 400 un
 ",Abarrotes,Dietéticos y Saludables
 600502,Tomate Manzana 1 Kg,Frutas y Verduras,Verduras
@@ -15572,7 +15592,7 @@ id_producto,producto,categoria,subcategoria
 605581,Tapas Pascualinas Mamina 30 cm,Congelados,Masas y Comidas Congeladas
 605603,Ravioles Mamina Carne,Congelados,Masas y Comidas Congeladas
 605621,Canelones Pronta Mamina,Congelados,Masas y Comidas Congeladas
-605671,LASAGNA PRONTO MAMINA,Congelados,Masas y Comidas Congeladas
+605671,Lasaña Pronto Mamina,Congelados,Masas y Comidas Congeladas
 605697,Masa de Hojaldre Mil Hoja,Congelados,Masas y Comidas Congeladas
 606051,Maquina de Afeitar Schick Quattro Titanium 2 un,Cuidado Personal,Cuidado de la Piel
 606055,Maquina de Afeitar Schick Quattro For Women,Cuidado Personal,Cuidado de la Piel
@@ -19303,7 +19323,7 @@ id_producto,producto,categoria,subcategoria
 670484,Chuleta Stege Bandeja kg,Congelados,Carnes Congeladas
 670485,Tocino Stege en Cubo kg,Fiambres,Fiambres Externos
 670488,Paneton Pil Chispas de Chocolate 500 gr,Panadería,Panadería Externa
-670515,GALLETA GUSTOSSI SURTIDO ESPECIAL CJA 80,Abarrotes,Galletas
+670515,Galleta Gustossi Surtido Especial,Abarrotes,Galletas
 670516,Galleta Gustossi Surtido Especial 400 gr,Abarrotes,Galletas
 670522,Hamburguesa Sofia Grill de Res Tubo 12 un,Congelados,Carnes Congeladas
 670537,Bagels Chips Multigrano Pan Amapola 200 gr,Panadería,Panadería Externa
@@ -20940,6 +20960,8 @@ id_producto,producto,categoria,subcategoria
 674638,SALCHICHA HADOQUERA SOFIA XXL A/V 15 UNIDADES,Fiambres,Fiambres Externos
 674639,SALCHICHA HADOQUERA XXL SOFIA A/V 6 UNIDADES,Fiambres,Fiambres Externos
 674643,PANETON HALLOWEEN BREICK CAJA 360GRS,Panadería,Panadería Externa
+674648,PANETON TRADICIONAL PANDORA PREMIUM BOLS,Panadería,Panadería Externa
+674650,GALLETA GUSTOSSI SURTIDA DULCE 680G,Abarrotes,Temporada
 674652,MORTADELA CERVECERA DE POLLO BARRA KGR,Fiambres,Fiambres Externos
 674663,QUESO MOZZARELLA PRADERA SAN MATEO 400GRS,Lácteos y Derivados,Quesos
 674786,BONDIOLA DE CERDO SOFIA REFRIGERADA A/V KGR,Fiambres,Fiambres Externos
@@ -21782,6 +21804,7 @@ id_producto,producto,categoria,subcategoria
 761337,KEFIR SAB.LIMON VAINILLA BONTANA 500 ML.,Lácteos y Derivados,Yogures
 761348,KEFIR NATURAL BONTANA 1 LT.,Lácteos y Derivados,Yogures
 761356,KEFIR SABOR COCO PINA BONTANA 1 LT.,Lácteos y Derivados,Yogures
+761358,PANETON MINI BAUDUCCO G.CH.FINI 80 GRS.,Panadería,Panadería Externa
 761368,KEFIR SABOR BANANA FRUTILLA BONTANA 1 LT.,Lácteos y Derivados,Yogures
 761374,KEFIR SAB.LIMON VAINILLA BONTANA 1 LT.,Lácteos y Derivados,Yogures
 761419,Tapa de Empanada Criollas Miltipasta 12 un,Congelados,Masas y Comidas Congeladas
@@ -22921,7 +22944,7 @@ id_producto,producto,categoria,subcategoria
 808671,Salvado de Trigo Natural 200 gr,Abarrotes,Nutrición Infantil
 808695,BR SARTEN 22CM  FUN VERDE,Bazar Importación,Cocina General
 808702,BR SARTEN 22CM  FUN MOSTAZA,Bazar Importación,Cocina General
-808801,TAJADOR TONIC METAL ORIF,Bazar,Librería
+808801,Tajadoro Metal O Tonic MrecuentreT,Bazar,Librería
 809203,Toddy Light 380 gr,Abarrotes,Dietéticos y Saludables
 809312,Salsa Carozzi Pomarola Italiana 200 gr,Abarrotes,Salsas y Extracto de Tomate
 809327,Galleta Costa Donuts Naranja 105 gr,Abarrotes,Galletas
@@ -23798,6 +23821,7 @@ id_producto,producto,categoria,subcategoria
 846927,Molde para Budin Espiral Silicona Cookstyle 24 cm,Bazar Importación,Cocina General
 846928,Guantes de Silicona con Dedo Cookstyle 27x17 cm,Bazar Importación,Cocina General
 846929,Guantes De Silicona 28X11 Cm - Cookstyle,Bazar Importación,Cocina General
+846931,CH 27 13 ESPATULA DE SILICONA COOKSTYLE 24X5CM,Bazar Importación,Cocina General
 846932,Brocha De Silicona 24Cm - Cookstyle,Bazar Importación,Cocina General
 846933,Espatula Cookstyle Silicona Mango de Madera 29x6,Bazar Importación,Cocina General
 846934,Espatula Cookstyle Silicona Mango de Madera 29x5,Bazar Importación,Cocina General
@@ -24874,6 +24898,7 @@ id_producto,producto,categoria,subcategoria
 861617,JAN VINCHAS DE TELA 14,Bazar,Bijouteria/Cuidado Personal
 861651,JAN MONAS CORBATA  15,Bazar,Bijouteria/Cuidado Personal
 861655,JAN AGARRAPELO X 4    18,Bazar,Bijouteria/Cuidado Personal
+861657,JAN VINCHAS DE NINA 12,Bazar,Bijouteria/Cuidado Personal
 861680,JAN AGARRAPELO CBLISTER  14,Bazar,Bijouteria/Cuidado Personal
 861681,JAN  AGARRAPELO  X3 BLISTER 14,Bazar,Bijouteria/Cuidado Personal
 861799,JAN ADORNO GLOBO HALLOWEN  14,Bazar,Temporada Halloween
@@ -24924,7 +24949,7 @@ id_producto,producto,categoria,subcategoria
 863317,Set Panero Azucarera Tazas,Bazar,Menaje Plástico
 863322,JAN AROS METALICOS 12,Bazar,Bijouteria/Cuidado Personal
 863323,JAN AROS  METALICOS 25,Bazar,Bijouteria/Cuidado Personal
-863324,JAN MANILLAS DE DAMA 10,Bazar,Bijouteria/Cuidado Personal
+863324,Manillas de Dama,Bazar,Bijouteria/Cuidado Personal
 863325,JAN MANILLA DE DAMA 15,Bazar,Bijouteria/Cuidado Personal
 863326,JAN MANILLA DE DAMA 25,Bazar,Bijouteria/Cuidado Personal
 863327,Manilla de Varones,Bazar,Bijouteria/Cuidado Personal
