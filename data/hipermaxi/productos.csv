@@ -1968,6 +1968,7 @@ id_producto,producto,categoria,subcategoria
 25476,MAIZ DULCE JUMBO POP PORORO 150G,Abarrotes,Snack
 25477,MAIZ DULCE JUMBO POP PORORO T FRUTTI 150,Abarrotes,Snack
 25480,GALLETA INPASA SURTIDA BSA 300G,Abarrotes,Galletas
+25481,GALLETA INPASA SURTIDA BSA 500G,Abarrotes,Galletas
 25482,GALLETA INPASA COOKIE CHIPS CHOCOL 240G,Abarrotes,Galletas
 25483,VODKA VORUS TROPICAL BOT 1LT,Bebidas,Licores
 25485,SINGANI DON LUCHO XO PREMIUM 750ML,Bebidas,Licores
@@ -2187,6 +2188,7 @@ id_producto,producto,categoria,subcategoria
 26233,Vape Umo Mint 18000 Puffs,Bebidas,Cigarrillos
 26874,Whisky Johnnie Walker 18 Años 750 ml,Bebidas,Licores
 27001,Energizante Volt Pink Uva 310 ml,Bebidas,Energizantes
+27004,SPAGUETTI LAZZARONI INTEGRAL 400G,Abarrotes,Dietéticos y Saludables
 27005,GALLETA BAUDUCCO FINI PINTA LINGUA 96G,Abarrotes,Galletas
 27008,GALLETA BAUDUCCO FINI DENTADURA 96G,Abarrotes,Galletas
 27012,COLCAFE INSTANT DESCAF FCO 40G,Abarrotes,Café y Sucedáneos
@@ -3161,6 +3163,7 @@ id_producto,producto,categoria,subcategoria
 31467,Atun Robinson Crusoe Aceite 2 un 80 gr,Abarrotes,Comidas en Conserva
 31468,Ensalada Robinson Crusoe con Atun 160 gr,Abarrotes,Comidas en Conserva
 31469,Piña Campo Verde Trozos 650 gr,Abarrotes,Frutas en Conserva
+31470,Alimento Ktito Adulto Salmon 1 kg,Abarrotes,Mascotas
 31472,Four Loko Rose 473 ml,Bebidas,Licores
 31473,Four Loko Rose 695 ml,Bebidas,Licores
 31474,Gaseosa Conti Uva 350 ml,Bebidas,Gaseosas
@@ -3274,6 +3277,7 @@ id_producto,producto,categoria,subcategoria
 35070,Alimento Knino Adulto Pequeña 1.5 kg,Abarrotes,Mascotas
 35071,Alimento Knino Adulto Pequeña 3 kg,Abarrotes,Mascotas
 35073,Alimento Knino Cachorro Mediano Grande 1.5 kg,Abarrotes,Mascotas
+35075,Alimento Knino Cachorro Pequeña 1.5 kg,Abarrotes,Mascotas
 35076,Alimento Knino Cachorro Pequeña 3 kg,Abarrotes,Mascotas
 35077,Alimento Knino Adulto Mediano Grande 1.5 kg,Abarrotes,Mascotas
 35115,Cafe Illy Espresso en Grano 250 gr,Abarrotes,Café y Sucedáneos
@@ -3573,6 +3577,7 @@ id_producto,producto,categoria,subcategoria
 64424,Mermelada Arcor Frutilla 454 gr,Abarrotes,"Mermel, Mieles"
 64440,Mermelada Arcor Naranja 454 gr,Abarrotes,"Mermel, Mieles"
 64459,Aceite Arcor Maiz 900 ml,Abarrotes,Básicos
+64710,Alimento Ktito Carne 1 kg,Abarrotes,Mascotas
 64715,Nutella Go Breadsticks 52 gr,Abarrotes,Productos Americanos
 64769,Turron de Mani Arcor Frutas 120 gr,Abarrotes,Golosinas - Varias
 64770,Alimento Sabueso Adulto 3 kg,Abarrotes,Mascotas
@@ -8304,6 +8309,7 @@ id_producto,producto,categoria,subcategoria
 228436,PACK EXCELLENCE 4+ GLYCO 200 ML.,Cuidado Personal,Cuidado del Cabello
 228437,PACK EXCELLENCE 1+ GLYCO 200 ML.,Cuidado Personal,Cuidado del Cabello
 228438,"PACK EXCELLENCE 8,1+ GLYCO 200 ML.",Cuidado Personal,Cuidado del Cabello
+228439,PACK EXCELLENCE N4U+ GLYCO 200 ML.,Cuidado Personal,Cuidado del Cabello
 228440,"PACK EXCELLENCE MAT. 7,17+ GLYCO 200 ML.",Cuidado Personal,Cuidado del Cabello
 228441,SERVILLETA PERLITA 300 UN.,Cuidado Personal,Cuidado Familiar
 228442,PAPEL HIGIENICO PERLITA 4X12,Cuidado Personal,Cuidado Familiar
@@ -8329,7 +8335,10 @@ id_producto,producto,categoria,subcategoria
 228975,CEPILLO COLGATE TOTAL 2 PIEZAS,Cuidado Personal,Cuidado Bucal
 228976,COLGATE MAX FRESH COOL MINT 75ML,Cuidado Personal,Cuidado Bucal
 228981,VAJILLERO  TODO BRILLO PLUS LIMON DP 900,Cuidado del Hogar,Limpieza de Cocina
+228983,SUAVIZANTE TODO BRILLO PLUS  DULCES  900,Cuidado del Hogar,Limpieza de la Ropa
+228984,SUAVIZANTE TODO BRILLO PLUS  MAGICA 900M,Cuidado del Hogar,Limpieza de la Ropa
 228985,SUAVIZANTE TODO BRILLO PLUS  BEBE 900ML,Cuidado del Hogar,Limpieza de la Ropa
+228986,SUAVIZANTE TODO BRILLO PLUS  ENCANTO 900,Cuidado del Hogar,Limpieza de la Ropa
 228987,SUAVIZANTE ASI  ANTIBACTERIAL  2000ML,Cuidado del Hogar,Limpieza de la Ropa
 228989,SUAVIZANTE ASI CLASICO 900ML,Cuidado del Hogar,Limpieza de la Ropa
 228991,LIMPPANO ANTIMOHO CLOSET ROMERO 200G,Cuidado del Hogar,Limpieza de Living y Ropero
@@ -8811,6 +8820,7 @@ id_producto,producto,categoria,subcategoria
 240867,Detergente Polvo Girandosol Rosa Floral 800 gr,Cuidado del Hogar,Limpieza de la Ropa
 240868,Detergente Polvo Hipoalergenico 800 gr,Cuidado del Hogar,Limpieza de la Ropa
 240870,Detergente Polvo Girandosol Floral 800 gr,Cuidado del Hogar,Limpieza de la Ropa
+240879,CEPILLO STA MARIA TANQUE RECTG 1 UND,Cuidado del Hogar,Accesorios del Hogar
 240890,My Toffee Coco 600 gr,Abarrotes,Chocolates y Caramelos
 240893,Mermelada Candy Alimenta Mora 320 gr,Abarrotes,"Mermel, Mieles"
 240896,Pack Kotex Puro Nocturno 16 Und,Cuidado Personal,Cuidado Familiar
@@ -15133,7 +15143,7 @@ id_producto,producto,categoria,subcategoria
 553633,VINO KOHLBERG FUNDADOR TTO 700ML,Bebidas,Vinos y Champagne
 553634,PACK 3 FIDEO FAMOSA SURTIDO 400 GR,Abarrotes,Básicos
 553635,HARINA FAMOSA 11.5 KG,Abarrotes,Básicos
-553638,TE HELADO BONGO LIMÒN BOT 2 LT,Bebidas,Bebidas Varias
+553638,TE HELADO BONGO LIMON BOT 2 LT,Bebidas,Bebidas Varias
 553639,HOJUELAS ORGANICA  CHOCOLATE 380 GR,Abarrotes,Nutrición Infantil
 553640,TE HELADO BONGO DURAZNO BOT 2 LT,Bebidas,Bebidas Varias
 553643,VAPE WAKA POCKET BLUEB MINT 2P 6000P,Bebidas,Cigarrillos
@@ -15145,6 +15155,7 @@ id_producto,producto,categoria,subcategoria
 553650,GASEOSA CASCADA MANDARINA BOT 750 ML,Bebidas,Gaseosas
 553651,GASEOSA COKA QUINA BOT 750 ML,Bebidas,Gaseosas
 553652,GASEOSA POMELO NEUS BOT 750 ML,Bebidas,Gaseosas
+553654,VINO ZINFANDEL ARANJUEZ 750ML.,Bebidas,Vinos y Champagne
 554333,Cerveza Paceña Lata Roja 473 Cc,Bebidas,Cervezas
 554466,Detergente Liquido Ola Futuro Limpieza Completa 5 L,Cuidado del Hogar,Limpieza de la Ropa
 554468,Suavizante Ropa Ola Suavecito Original 5 L,Cuidado del Hogar,Limpieza de la Ropa
@@ -15806,6 +15817,8 @@ id_producto,producto,categoria,subcategoria
 616459,Enjuague Bucal Colgate Plax Ice 1 L,Cuidado Personal,Cuidado Bucal
 616461,Lavandina Ultra Concentrada 1 L,Cuidado del Hogar,Limpieza de la Ropa
 616490,Esponja Esfrelux Multiuso  4 un,Cuidado del Hogar,Accesorios del Hogar
+616501,CEPILLO OVAL PARA LAVAROPA SM-7512,Cuidado del Hogar,Accesorios del Hogar
+616502,ESCOBILLA PARA LIMIAR INODORO SM-8625,Cuidado del Hogar,Accesorios del Hogar
 616510,Jabon Liquido Supremo Celeste 1 L,Cuidado Personal,Cuidado de la Piel
 616511,Jabon Liquido Supremo Verde 1 L,Cuidado Personal,Cuidado de la Piel
 616512,Jabon Liquido Supremo Naranja 1 L,Cuidado Personal,Cuidado de la Piel
@@ -19247,6 +19260,7 @@ id_producto,producto,categoria,subcategoria
 669631,OLA MAXIMUS ANTISARRO EXPER BOT 12X500ML,Cuidado del Hogar,Limpieza de Cocina
 669632,Pañales Pampers Confort Sec XXG 44 un,Cuidado del Bebé,Pañales
 669633,PANO GRIS P/PISO BRISTAR 50X60CM,Cuidado del Hogar,Accesorios del Hogar
+669649,TALCO BABY POWDER BLUE 200G,Cuidado del Bebé,Cuidado del Bebé
 669650,FOOT POWDER TALCO PARA PIES,Cuidado Personal,Cuidado de la Piel
 669651,ACEITE DE BEBE CLASICO,Cuidado del Bebé,Cuidado del Bebé
 669652,ACEITE DE BEBE ALOE VERA,Cuidado del Bebé,Cuidado del Bebé
