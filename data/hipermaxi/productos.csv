@@ -2000,6 +2000,7 @@ id_producto,producto,categoria,subcategoria
 25960,SAL KOLLITA CON PAPRIKA FCO 460G,Abarrotes,Básicos
 25961,SAL KOLLITA CON LIMON FCO 460G,Abarrotes,Básicos
 25962,SAL KOLLITA CON APIO FCO 460G,Abarrotes,Básicos
+25963,MANTEQ MANI MR MAD HONEY 300G,Abarrotes,Repostería
 25964,MEZCLA P PIZZA NUTRIHIT DP 400G,Abarrotes,Dietéticos y Saludables
 25965,MEZCLA P HAMBURGUESA NUTRIHIT DP 330G,Abarrotes,Dietéticos y Saludables
 25968,GALLETA GULLON GLUTEN FREE MARIA CJA 400,Abarrotes,Dietéticos y Saludables
@@ -2174,6 +2175,7 @@ id_producto,producto,categoria,subcategoria
 26196,Mezcla Leche Condensada Embare 395 gr,Abarrotes,Nutrición Infantil
 26198,TRUFFAS PARA TI NAVIDENA S PANETON 150G,Abarrotes,Chocolates y Caramelos
 26200,Chupete Bon Bon Bum Fresa 336 gr,Abarrotes,Chocolates y Caramelos
+26203,PAQ CUNAPE CAMARO T BRASIL QUESO 10X15G,Abarrotes,Snack
 26204,Snack Pico Pico Pizza 20 gr,Abarrotes,Snack
 26205,Snack Pico Pico Churrasxo Limon 20 gr,Abarrotes,Snack
 26212,Café Baggio Chocolate Trufado Molido 250 gr,Abarrotes,Café y Sucedáneos
@@ -5140,6 +5142,7 @@ id_producto,producto,categoria,subcategoria
 110867,Queso de Cerdo Stege al Vacio 160 Grs,Fiambres,Fiambres Externos
 110877,Chocolate Taboada Blanco 100 gr,Abarrotes,Chocolates y Caramelos
 110879,Chocolate Taboada Semi Amargo 100 gr,Abarrotes,Chocolates y Caramelos
+110888,Ciruela Disecada Cocinero Pereira 500 gr,Abarrotes,Frutas en Conserva
 111001,Acondicionador Dove Fortalecimiento Palta 400 ml,Cuidado Personal,Cuidado del Cabello
 111003,Shampoo Dove Reparacion Coco 400 ml,Cuidado Personal,Cuidado del Cabello
 111004,Acondicionador Dove Reparacion Coco 400 ml,Cuidado Personal,Cuidado del Cabello
@@ -8334,6 +8337,7 @@ id_producto,producto,categoria,subcategoria
 228888,Gaseosa H2Oh Limoneto 2 L CBN,Bebidas,Gaseosas
 228975,CEPILLO COLGATE TOTAL 2 PIEZAS,Cuidado Personal,Cuidado Bucal
 228976,COLGATE MAX FRESH COOL MINT 75ML,Cuidado Personal,Cuidado Bucal
+228977,VAJILLERO TODO BRILLO PLUS LIMON BOT 600,Cuidado del Hogar,Limpieza de Cocina
 228981,VAJILLERO  TODO BRILLO PLUS LIMON DP 900,Cuidado del Hogar,Limpieza de Cocina
 228983,SUAVIZANTE TODO BRILLO PLUS  DULCES  900,Cuidado del Hogar,Limpieza de la Ropa
 228984,SUAVIZANTE TODO BRILLO PLUS  MAGICA 900M,Cuidado del Hogar,Limpieza de la Ropa
@@ -8359,6 +8363,8 @@ id_producto,producto,categoria,subcategoria
 229013,PACK TOALLA COCINA CLIN + MANO,Cuidado del Hogar,Limpieza de Cocina
 229014,PANO MICROFIBRA TOTES 30 X 30 CM,Cuidado del Hogar,Accesorios del Hogar
 229015,PACK DUO  PANOS PACK + BOLSA CIERRA FACI,Cuidado del Hogar,Accesorios del Hogar
+229016,DETERG  TODO BRILLO PLUS MATIC 650G,Cuidado del Hogar,Limpieza de la Ropa
+229025,DETERG TODO BRILLO PLUS FLORAL 1.8KG BOL,Cuidado del Hogar,Limpieza de la Ropa
 229042,JABON LUXO LEITE DE ROSA 90 GR,Cuidado del Hogar,Productos Americanos
 229073,Cera Fijadora Fixer Efecto Natural 60 gr,Cuidado Personal,Cuidado del Cabello
 229074,Cera Fijadora Fixer Efecto Mate 60 gr,Cuidado Personal,Cuidado del Cabello
@@ -21540,6 +21546,7 @@ id_producto,producto,categoria,subcategoria
 679795,ROSCA NAVIDENA PAN CRIS 350GRS,Pastelería y Masas Típicas,Pastelería Externa
 679819,Requeson Altiplano 500 gr,Lácteos y Derivados,Quesos
 679820,Requeson Altiplano 250 gr,Lácteos y Derivados,Quesos
+679846,BUDIN NAVIDEÑO CON CHIP CHOCOLATE 200 G,Pastelería y Masas Típicas,Pastelería Externa
 679868,Paneton La Suprema Chocolate 750 gr,Panadería,Panadería Externa
 679878,Margarina Reyna Taza 215 gr,Lácteos y Derivados,Mantequillas y Margarinas
 679896,Pata de Jamon Julio Ulloa Con Hueso kg,Fiambres,Fiambres Externos
@@ -21977,7 +21984,10 @@ id_producto,producto,categoria,subcategoria
 763543,"Helado Acai Yogurt Griego Cabrera 1 L
 ",Congelados,"Helados, Cassattas y Picoleses"
 763648,Helado Acai Yogurt Griego Cabrera 500 ml,Congelados,"Helados, Cassattas y Picoleses"
+763712,BEBIDA LACTEA PURI FRUTS NARANJA 900 ML.,Lácteos y Derivados,Leches
 763716,JUGOS LACTEOS LA PURITA 210 ML.SABORES SURTIDOS,Lácteos y Derivados,Leches
+763724,BEBIDA LACTEA PURI FRUTS MANZANA 900 ML.,Lácteos y Derivados,Leches
+763747,BEBIDA LACTEA PURI FRUTS DURAZNO 900 ML.,Lácteos y Derivados,Leches
 763762,Galleta Chatitas Saborizada La Delicia,Panadería,Panadería Externa
 763897,Huevos Avicola Paurito Medianos 60 un,Lácteos y Derivados,Huevos
 763981,Bebida Vegetal Serenisima Base de Almendra 1 L,Lácteos y Derivados,Leches
@@ -25489,6 +25499,7 @@ id_producto,producto,categoria,subcategoria
 883088,HIELERA SAN REMO CUADRADO,Bazar Importación,Cocina General
 883089,HILERA PLASTICA LARGA SAN REMO,Bazar Importación,Cocina General
 883092,TAPER FLOR SAN REMO 458ML,Bazar Importación,Menaje Plástico
+883093,TAPER SANREMO FLOR 280ML,Bazar Importación,Menaje Plástico
 883121,CA JUGUETE METRALLETA +ACCESORIOS 160,Juguetería,Juguetería Niño/Bebé
 883150,Bananero Chico,Bazar,Bolsos/Carteras/Maletas
 883151,Bananero Mediano,Bazar,Bolsos/Carteras/Maletas
@@ -25996,6 +26007,7 @@ id_producto,producto,categoria,subcategoria
 925101,Lapiz Negro,Bazar,Librería
 925575,Bolsa de Globos Estándar Multicolor 50 un,Bazar,Cotillón
 925591,Cuaderno Espiral Carta 100 Hojas,Bazar,Librería
+925651,CONTENEDOR RECTANGULAR MEDIANO 719/5,Bazar Importación,Menaje Plástico
 925969,Grapa,Bazar,Librería
 926104,Raticida Ratitane Cebo 100 gr,Cuidado del Hogar,Insecticidas
 926106,Espiral Titane Mata Mosquito 150 gr,Cuidado del Hogar,Insecticidas
