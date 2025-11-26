@@ -1374,6 +1374,7 @@ id_producto,producto,categoria,subcategoria
 18058,Alimento Felix Salmon Carne 85 gr,Abarrotes,Mascotas
 18059,Alimento Felix Fantastic Pavo 85 gr,Abarrotes,Mascotas
 18060,Alimento Dentalife Perro Grande 196 gr,Abarrotes,Mascotas
+18061,Mani Mr Mad Tostado 125 gr,Abarrotes,Snack
 18063,Caramelo Carnival Paleta Pop 120 gr,Abarrotes,Chocolates y Caramelos
 18064,Gin Nordes 700 ml,Bebidas,Licores
 18067,Minibum Surtido Colombina 500 gr,Abarrotes,Chocolates y Caramelos
@@ -2195,6 +2196,14 @@ id_producto,producto,categoria,subcategoria
 27005,GALLETA BAUDUCCO FINI PINTA LINGUA 96G,Abarrotes,Galletas
 27008,GALLETA BAUDUCCO FINI DENTADURA 96G,Abarrotes,Galletas
 27012,COLCAFE INSTANT DESCAF FCO 40G,Abarrotes,Café y Sucedáneos
+27017,ENERGIZANTE ALPHA BERRIES ZERO 355ML,Bebidas,Energizantes
+27020,ENERGIZANTE ALPHA BERRIES ZERO 473ML,Bebidas,Energizantes
+27021,SNACK 2HERMANOS PICANTE C QUINUA 60G,Abarrotes,Snack
+27022,PACK MARIDAJE DE ORO 1VINO 6BOMBONES,Bebidas,Vinos y Champagne
+27023,MARSMALLOWS CRISMELOS MINICOLOR 240G,Abarrotes,Chocolates y Caramelos
+27024,ENERGIZANTE ALPHA BERRIES LTA 695ML,Bebidas,Energizantes
+27034,ACEITUNA ZAELI RELL PIMIENTO FCO 550G,Abarrotes,Verduras en Conserva
+27038,GALLETA DULCE NOEL NAVIDAD BSA 200G,Abarrotes,Temporada
 27100,MASMELOS TRULULU FRANKI BSA 50G,Abarrotes,Golosinas - Varias
 27101,Marshmallow Trululu Choco Vainilla 50 gr,Abarrotes,Golosinas - Varias
 27102,Chocolate Bianchi Choco Mani 50 gr,Abarrotes,Golosinas - Varias
@@ -8133,6 +8142,7 @@ id_producto,producto,categoria,subcategoria
 228154,PANUELO FINESSE DIA DIA 4 UDS,Cuidado Personal,Cuidado Familiar
 228155,ESPONJA SCOTCH BRITE X4 Y CUBIERTA,Cuidado del Hogar,Accesorios del Hogar
 228156,PANUELO FINESSE DIA A DIA 6 UNDS,Cuidado Personal,Cuidado Familiar
+228157,PANUELO DESCARTABLE FINESSE LAVANDA X 4,Cuidado Personal,Cuidado Familiar
 228158,PANUELO DESCARTABLE FINESSE LAVANDA X6,Cuidado Personal,Cuidado Familiar
 228159,CREMA NIVEA MILK 250 ML,Cuidado del Hogar,Productos Americanos
 228160,CREMA CORPORAL NIVEA 250 ML,Cuidado del Hogar,Productos Americanos
@@ -8182,7 +8192,7 @@ id_producto,producto,categoria,subcategoria
 228220,LABIAL VOGUE SOL DE VERANO,Cuidado Personal,Cuidado de la Piel
 228221,SERUM OJOS LOREAL ACIDO GLICOLICO,Cuidado Personal,Cuidado de la Piel
 228223,SCOTCH BRITE FIBRA EXTR MORADA PACK 2U 2,Cuidado del Hogar,Accesorios del Hogar
-228224,SCOTCH BRITE FIBRA EXTREM MORADA 1U 36X1,Cuidado del Hogar,Accesorios del Hogar
+228224,Scoth Brite Fibra Extrema Morada X1,Cuidado del Hogar,Accesorios del Hogar
 228225,ESPONJA METAL ESPIRAL SCOTCH BRITE PACK,Cuidado del Hogar,Accesorios del Hogar
 228226,ESPONJA METALICA ESPIRAL SCOTCH BRITE 1U,Cuidado del Hogar,Accesorios del Hogar
 228227,ESCOBA INTERIOR SCOTCH BRITE  PARACHOQUE,Cuidado del Hogar,Accesorios del Hogar
@@ -8366,9 +8376,11 @@ id_producto,producto,categoria,subcategoria
 229015,PACK DUO  PANOS PACK + BOLSA CIERRA FACI,Cuidado del Hogar,Accesorios del Hogar
 229016,DETERG  TODO BRILLO PLUS MATIC 650G,Cuidado del Hogar,Limpieza de la Ropa
 229025,DETERG TODO BRILLO PLUS FLORAL 1.8KG BOL,Cuidado del Hogar,Limpieza de la Ropa
+229026,DETERG  TODO BRILLO PLUS FLORAL4.5KG BL,Cuidado del Hogar,Limpieza de la Ropa
 229029,DETERG  TODO BRILLO PLUS  LIMON 4.5KG BO,Cuidado del Hogar,Limpieza de la Ropa
 229031,DETERG TODO BRILLO PLUS GOLD 1.8KG,Cuidado del Hogar,Limpieza de la Ropa
 229042,JABON LUXO LEITE DE ROSA 90 GR,Cuidado del Hogar,Productos Americanos
+229043,ESPIRA MOSQUITO DEYMAS 160 GR,Cuidado del Hogar,Insecticidas
 229073,Cera Fijadora Fixer Efecto Natural 60 gr,Cuidado Personal,Cuidado del Cabello
 229074,Cera Fijadora Fixer Efecto Mate 60 gr,Cuidado Personal,Cuidado del Cabello
 229601,Galletas Bagley Mellizas 108 gr,Abarrotes,Galletas
@@ -14320,8 +14332,8 @@ id_producto,producto,categoria,subcategoria
 552495,Galleta Infinita Relleno Chocolate 120 gr,Abarrotes,Galletas
 552496,Galleta Infinita Relleno Vainilla 120 gr,Abarrotes,Galletas
 552497,Galleta Princesa Chocoaritas 250 gr,Abarrotes,Galletas
-552498,Galleta Princesa Cocoaritas 250 gr,Abarrotes,Galletas
-552499,Galleta Princesa Ricositas Surtida 300 gr,Abarrotes,Galletas
+552498,Galleta Princesa Cocoaritas 180 g,Abarrotes,Galletas
+552499,Galleta Princesa Ricositas Surtida 180 gr,Abarrotes,Galletas
 552500,Avena Instantanea Princesa Doy Pack 450 gr,Abarrotes,Nutrición Infantil
 552501,Nacho Dr.Picks Extremo 56 gr,Abarrotes,Snack
 552502,Chocolate Vizzio Cereal Crunch 21 gr,Abarrotes,Golosinas - Varias
@@ -15134,6 +15146,8 @@ id_producto,producto,categoria,subcategoria
 553609,GOMITAS GRISSLY OSOS 72 GR,Abarrotes,Golosinas - Varias
 553610,GOMITAS GRISSLY SANDIA 70 GR,Abarrotes,Golosinas - Varias
 553611,CAFE JAQAKU SAN JOSE GRANO 1KG,Abarrotes,Café y Sucedáneos
+553612,CAFE JAQAKU CARANAVI 10CAPS 55G,Abarrotes,Café y Sucedáneos
+553613,CAFE JAQAKU SAN JOSE 10CAPS 55G,Abarrotes,Café y Sucedáneos
 553614,CAFE JAQAKU TOSTADO S COCO 10CAPS 55G,Abarrotes,Café y Sucedáneos
 553616,CAFE JAQAKU S DULCE LECHE 10CAPS 55G,Abarrotes,Café y Sucedáneos
 553617,CAFE JAQAKU TOSTADO S AVELLANA 10CAPS 55,Abarrotes,Café y Sucedáneos
@@ -19299,6 +19313,7 @@ id_producto,producto,categoria,subcategoria
 669725,OMO PVO BLANCO ABSOLUTO 6X1.8KG,Cuidado del Hogar,Limpieza de la Ropa
 669726,OMO PVO ULTRA POWER 6X1.8KG,Cuidado del Hogar,Limpieza de la Ropa
 669738,DET. UNO ARMONIA FLORAL 9.2KG,Cuidado del Hogar,Limpieza de la Ropa
+669739,OMO PVO BLANCO ABSOLUTO 15X650G,Cuidado del Hogar,Limpieza de la Ropa
 669901,Pizza Hipermaxi Congelada Hawaiana 620 gr,Congelados,Masas y Comidas Congeladas
 669902,Pizza Hipermaxi Congelada Jamon Queso Light Masa Integral,Congelados,Masas y Comidas Congeladas
 669903,Pizza Hipermaxi Congelada Pepperoni 620 gr,Congelados,Masas y Comidas Congeladas
@@ -21060,6 +21075,8 @@ id_producto,producto,categoria,subcategoria
 674650,GALLETA GUSTOSSI SURTIDA DULCE 680G,Abarrotes,Temporada
 674651,GALLETA SURTIDA GUSTOSSI DULCE 180G,Abarrotes,Temporada
 674652,MORTADELA CERVECERA DE POLLO BARRA KGR,Fiambres,Fiambres Externos
+674660,QUESO MOZZARELLA GUSTOSO SAN MATEO KGR,Lácteos y Derivados,Quesos
+674661,QUESO MOZZARELLA GUSTOSO SAN MATEO 390GRS,Lácteos y Derivados,Quesos
 674662,QUESO MOZZARELLA GUSTOSO SAN MATEO LAMINADO 200GRS,Lácteos y Derivados,Quesos
 674663,QUESO MOZZARELLA PRADERA SAN MATEO 400GRS,Lácteos y Derivados,Quesos
 674664,SIX PACK MIX LECHES IMPOSTOR 140 M,Lácteos y Derivados,Leches
@@ -21975,6 +21992,7 @@ id_producto,producto,categoria,subcategoria
 762613,Yogurt San Javier Coco Light 200 ml,Lácteos y Derivados,Yogures
 762635,Yogurt Light San Javier Durazno 200 ml,Lácteos y Derivados,Yogures
 762636,Chorizo Churrasquero Sofia a Granel kg,Fiambres,Fiambres Externos
+762714,RICOTA MALLON 500 GRS.,Lácteos y Derivados,Quesos
 762746,Yogurt San Javier Light Maracuya 850 ml,Lácteos y Derivados,Yogures
 762754,Yogurt Bebible Friedland Artesanal Chirimoya 2 L,Lácteos y Derivados,Yogures
 762813,QUESO MUZZARELLA LAMINADO MALLON 150 GRS.,Lácteos y Derivados,Quesos
