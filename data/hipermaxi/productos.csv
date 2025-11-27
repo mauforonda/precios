@@ -2012,11 +2012,16 @@ id_producto,producto,categoria,subcategoria
 25977,MERMELADA DULCOR ARANDANOS LIGHT 390G,Abarrotes,"Mermel, Mieles"
 25978,GALLEA AVENTURA RELL FRUTILLA 120G,Abarrotes,Galletas
 25979,GALLETA AVENTURA RELL CHOCOLATE 120G,Abarrotes,Galletas
+25980,CHICHA CASA DEL CAMBA PET 3LT,Bebidas,"Jugos, Néctar"
 25981,HARINA D TRIGO DON GREGORIO 1KG,Abarrotes,Básicos
 25982,PACK CAFE COPACABANA DP 45G 1VASO INOX,Abarrotes,Café y Sucedáneos
 25985,TE HELADO BONGO LIMON 500ML,Bebidas,Bebidas Varias
 25986,TE HELADO BONGO DURAZNO 500ML,Bebidas,Bebidas Varias
 25991,TRIPACK ENERG VOLT ED REAL MADRID,Bebidas,Energizantes
+25996,KETCHUP SALSARETTI TRADICIONAL PET 675G,Abarrotes,Aderezos
+25997,MOSTAZA  SALSARETTI PET 350G,Abarrotes,Aderezos
+25998,KETCHUP SALSARETTI TRADICIONAL PET 380G,Abarrotes,Aderezos
+25999,SALSARETTI D TOMATE PIZZA DP 300G,Abarrotes,Salsas y Extracto de Tomate
 26000,Habas Charito Frita 160 gr,Abarrotes,Snack
 26001,Salsa de Tomate Kris 200 gr,Abarrotes,Salsas y Extracto de Tomate
 26002,Salsa Kris Pizza 200 gr,Abarrotes,Salsas y Extracto de Tomate
@@ -2197,6 +2202,7 @@ id_producto,producto,categoria,subcategoria
 27008,GALLETA BAUDUCCO FINI DENTADURA 96G,Abarrotes,Galletas
 27012,COLCAFE INSTANT DESCAF FCO 40G,Abarrotes,Café y Sucedáneos
 27017,ENERGIZANTE ALPHA BERRIES ZERO 355ML,Bebidas,Energizantes
+27019,ENERGIZANTE ALPHA BERRIES LTA 473ML,Bebidas,Energizantes
 27020,ENERGIZANTE ALPHA BERRIES ZERO 473ML,Bebidas,Energizantes
 27021,SNACK 2HERMANOS PICANTE C QUINUA 60G,Abarrotes,Snack
 27022,PACK MARIDAJE DE ORO 1VINO 6BOMBONES,Bebidas,Vinos y Champagne
@@ -4436,10 +4442,16 @@ id_producto,producto,categoria,subcategoria
 104210,Pañal Adulto Plenitud Clasico XG 20 un,Cuidado Personal,Cuidado del Adulto
 104211,Toallas Higienicas Kotex Puro Ultrafina 10 un,Cuidado Personal,Cuidado Familiar
 104212,Toallas Higienicas Kotex Puro Ultrafina 30 un,Cuidado Personal,Cuidado Familiar
+104214,Jabon Barra Nova Pink Rose 100 gr,Cuidado Personal,Cuidado de la Piel
+104215,Jabon Barra Nova White 100 gr,Cuidado Personal,Cuidado de la Piel
 104216,Jabon Barra Lexi Romatic 120 gr,Cuidado Personal,Cuidado de la Piel
 104217,Jabon Barra Lexi Fresh Apple 120 gr,Cuidado Personal,Cuidado de la Piel
 104218,Jabon Barra Lexi Creamy White 120 gr,Cuidado Personal,Cuidado de la Piel
+104219,Jabon Barra Nova Grape 150 gr,Cuidado Personal,Cuidado de la Piel
 104221,Jaboncillo Barra Lexi Milk Cream 70 gr,Cuidado Personal,Cuidado de la Piel
+104225,Jabon Barra Nova Lemon Citrus 150 gr,Cuidado Personal,Cuidado de la Piel
+104226,Jabon Barra Nova Green Apple 150 gr,Cuidado Personal,Cuidado de la Piel
+104227,Jabon Barra Nova Strawberry 150 gr,Cuidado Personal,Cuidado de la Piel
 104228,Jabon Barra Nova Strawberry 75 gr,Cuidado Personal,Cuidado de la Piel
 104229,Jabon Barra Nova Grape 75 gr,Cuidado Personal,Cuidado de la Piel
 104230,Jabon Barra Nova Lemon Citrus 75 gr,Cuidado Personal,Cuidado de la Piel
@@ -6407,6 +6419,7 @@ id_producto,producto,categoria,subcategoria
 151115,Filete Trucha Light Titikaka 500 gr,Congelados,Carnes Congeladas
 151117,Filete Trucha Salmonada Titikaka 500 gr,Congelados,Carnes Congeladas
 151128,Filete Trucha Ahumado Salmonado Titikaka 125 gr,Congelados,Carnes Congeladas
+151131,Filete Trucha Ahumado Titikaka 250 gr,Congelados,Carnes Congeladas
 151140,Leche La Purita Larga Vida Natural 950 ml,Lácteos y Derivados,Leches
 151141,Leche La Purita Larga Vida Chocolatada 950 ml,Lácteos y Derivados,Leches
 151142,Leche La Purita Frutilla 950 ml,Lácteos y Derivados,Leches
@@ -8377,12 +8390,15 @@ id_producto,producto,categoria,subcategoria
 229016,DETERG  TODO BRILLO PLUS MATIC 650G,Cuidado del Hogar,Limpieza de la Ropa
 229025,DETERG TODO BRILLO PLUS FLORAL 1.8KG BOL,Cuidado del Hogar,Limpieza de la Ropa
 229026,DETERG  TODO BRILLO PLUS FLORAL4.5KG BL,Cuidado del Hogar,Limpieza de la Ropa
+229027,DETERG TODO BRILLO PLUS LIMON 650G,Cuidado del Hogar,Limpieza de la Ropa
 229029,DETERG  TODO BRILLO PLUS  LIMON 4.5KG BO,Cuidado del Hogar,Limpieza de la Ropa
 229031,DETERG TODO BRILLO PLUS GOLD 1.8KG,Cuidado del Hogar,Limpieza de la Ropa
 229042,JABON LUXO LEITE DE ROSA 90 GR,Cuidado del Hogar,Productos Americanos
 229043,ESPIRA MOSQUITO DEYMAS 160 GR,Cuidado del Hogar,Insecticidas
 229073,Cera Fijadora Fixer Efecto Natural 60 gr,Cuidado Personal,Cuidado del Cabello
 229074,Cera Fijadora Fixer Efecto Mate 60 gr,Cuidado Personal,Cuidado del Cabello
+229118,PAPEL PERLITA  PREMIUM  MANZANILLA 12 30,Cuidado Personal,Cuidado Familiar
+229119,PAPEL PERLITA PREMIUM DE 50 MTS,Cuidado Personal,Cuidado Familiar
 229601,Galletas Bagley Mellizas 108 gr,Abarrotes,Galletas
 229711,Barra Cereales Quinutrion Clasico 140 gr,Abarrotes,Nutrición Infantil
 229714,Barra Cereal Quinutrion Naranja 140 gr,Abarrotes,Nutrición Infantil
@@ -10620,6 +10636,7 @@ id_producto,producto,categoria,subcategoria
 354931,Galleta Cremosita Rellena Vainilla 228 gr,Abarrotes,Galletas
 354932,Galleta Cremosita Rellena Frutilla 228 gr,Abarrotes,Galletas
 354935,PACK COLCAFE FCO 170G 1TAZA,Abarrotes,Café y Sucedáneos
+355010,DESINFECTANTE JARDIN CITRONELLA 4000 CC.,Cuidado del Hogar,Limpieza de Baños
 355089,Galleta Ferrari Ghezzi Champanera 170 gr,Abarrotes,Galletas
 355110,Salsa Soya San Lorenzo 600 ml,Abarrotes,Condimentos y Legumbres
 355666,Shampoo Head Shoulders Hidratacion Aceite Coco 700 ml,Cuidado Personal,Cuidado del Cabello
@@ -11412,6 +11429,9 @@ id_producto,producto,categoria,subcategoria
 400463,Espuma Carnavalera Fiesta 400 ml,Bazar,Temporada Carnaval
 400475,Hamburguesa Fridosa Fridosita Bolsa 24 un,Congelados,Carnes Congeladas
 400645,Cocoa Pura Taboada 200 gr,Abarrotes,Repostería
+401013,SALSARETTI TOMATE MANJERICAO ALBAH 300G,Abarrotes,Salsas y Extracto de Tomate
+401021,SALSARETTI D TOMATE TRADICIONAL DP 300G,Abarrotes,Salsas y Extracto de Tomate
+401056,SALSARETTI D TOMATE BOLONHESA DP 300G,Abarrotes,Salsas y Extracto de Tomate
 401071,Jabon Liquido Simonds Dermo Avena Doypack 750 ml,Cuidado Personal,Cuidado de la Piel
 401073,Jabon Liquido Simonds Dermo Cremoso Doypack 750 ml,Cuidado Personal,Cuidado de la Piel
 401077,Tripack Brixy San Juan Doypack,Abarrotes,Temporada
@@ -14331,7 +14351,7 @@ id_producto,producto,categoria,subcategoria
 552494,Pack Zaeli Mostaza Ketchup Pimienta,Abarrotes,Temporada
 552495,Galleta Infinita Relleno Chocolate 120 gr,Abarrotes,Galletas
 552496,Galleta Infinita Relleno Vainilla 120 gr,Abarrotes,Galletas
-552497,Galleta Princesa Chocoaritas 250 gr,Abarrotes,Galletas
+552497,Galleta Princesa Chocoaritas 180 g,Abarrotes,Galletas
 552498,Galleta Princesa Cocoaritas 180 g,Abarrotes,Galletas
 552499,Galleta Princesa Ricositas Surtida 180 gr,Abarrotes,Galletas
 552500,Avena Instantanea Princesa Doy Pack 450 gr,Abarrotes,Nutrición Infantil
@@ -15503,6 +15523,7 @@ id_producto,producto,categoria,subcategoria
 597082,Vino Casillero del Diablo Merlot 750 ml,Bebidas,Vinos y Champagne
 597163,Vino Casillero del Diablo Malbec 750 ml,Bebidas,Vinos y Champagne
 597970,COMIDA P/BEBE 2 GERBER CHICKEN 71 GR,Abarrotes,Productos Americanos
+598825,COMIDA GERBER TURKEY GRAVY 71 GR,Abarrotes,Productos Americanos
 598844,COMIDA P/BEBE GERBER BEEF 2DO.PASO 71 G,Abarrotes,Productos Americanos
 599409,Gaseosa Coca Cola Cherry USA 355 ml,Bebidas,Bebidas Usa
 599412,Aceituna Negras Rebanadas 184 gr,Abarrotes,Productos Americanos
@@ -15571,7 +15592,7 @@ id_producto,producto,categoria,subcategoria
 600328,Ajo Cocinero 30 gr,Abarrotes,Condimentos y Legumbres
 600330,Ajo Cocinero 50 gr,Abarrotes,Condimentos y Legumbres
 600331,Anis Cocinero 30 gr,Abarrotes,Condimentos y Legumbres
-600332,Canela Cocinero Rama 30 gr,Abarrotes,Condimentos y Legumbres
+600332,Canela Cocinero Rama 15 gr,Abarrotes,Condimentos y Legumbres
 600334,Canela Cocinero Molida 30 gr,Abarrotes,Condimentos y Legumbres
 600336,Canela El Cocinero Molida 65 gr,Abarrotes,Condimentos y Legumbres
 600337,Clavo de Olor Cocinero 30 gr,Abarrotes,Condimentos y Legumbres
@@ -15866,6 +15887,7 @@ id_producto,producto,categoria,subcategoria
 616807,Cepillo Dental Doctor Dent Massage 1 un,Cuidado Personal,Cuidado Bucal
 616808,Cepillo Dental Doctor Dent Suction Pad 1 un,Cuidado Personal,Cuidado Bucal
 616809,Cepillo Dental Doctor Dent Advance Medium 1 un,Cuidado Personal,Cuidado Bucal
+616880,Limpiador Desinfectante Jardin Cremoso Jazmin 900 ml,Cuidado del Hogar,Limpieza de Baños
 616891,Papel Toalla Cocina Familia Acolchamax Megarollo 1 un 120 Toallas,Cuidado del Hogar,Limpieza de Cocina
 616953,Pegaton Adherente Trampa Ratones,Cuidado del Hogar,Insecticidas
 616961,Goma Secador de Piso Haragan Modelo F,Cuidado del Hogar,Accesorios del Hogar
@@ -19314,6 +19336,7 @@ id_producto,producto,categoria,subcategoria
 669726,OMO PVO ULTRA POWER 6X1.8KG,Cuidado del Hogar,Limpieza de la Ropa
 669738,DET. UNO ARMONIA FLORAL 9.2KG,Cuidado del Hogar,Limpieza de la Ropa
 669739,OMO PVO BLANCO ABSOLUTO 15X650G,Cuidado del Hogar,Limpieza de la Ropa
+669740,OMO PVO ULTRA POWER 15X650G,Cuidado del Hogar,Limpieza de la Ropa
 669901,Pizza Hipermaxi Congelada Hawaiana 620 gr,Congelados,Masas y Comidas Congeladas
 669902,Pizza Hipermaxi Congelada Jamon Queso Light Masa Integral,Congelados,Masas y Comidas Congeladas
 669903,Pizza Hipermaxi Congelada Pepperoni 620 gr,Congelados,Masas y Comidas Congeladas
@@ -21068,6 +21091,7 @@ id_producto,producto,categoria,subcategoria
 674622,SALSA DE QUESO CHEDDAR TORTITACOS 200GRS,Lácteos y Derivados,Quesos
 674638,SALCHICHA HADOQUERA SOFIA XXL A/V 15 UNIDADES,Fiambres,Fiambres Externos
 674639,SALCHICHA HADOQUERA XXL SOFIA A/V 6 UNIDADES,Fiambres,Fiambres Externos
+674642,PANETTONE MASA MADRE CHOCOLATE 650GR CAJA SAN GABRIEL,Panadería,Panadería Externa
 674643,PANETON HALLOWEEN BREICK CAJA 360GRS,Panadería,Panadería Externa
 674646,TAMBAQUI EN MITADES EL SABOR DEL QUINCHO,Congelados,Carnes Congeladas
 674648,PANETON TRADICIONAL PANDORA PREMIUM BOLS,Panadería,Panadería Externa
@@ -21081,6 +21105,7 @@ id_producto,producto,categoria,subcategoria
 674663,QUESO MOZZARELLA PRADERA SAN MATEO 400GRS,Lácteos y Derivados,Quesos
 674664,SIX PACK MIX LECHES IMPOSTOR 140 M,Lácteos y Derivados,Leches
 674665,POSTRE HELADO YOGURT GRIEGO CHEESECAKE X 850 ML,Congelados,"Helados, Cassattas y Picoleses"
+674668,ROSCA NAVIDENA LA COLMENA 550 GRAMOS,Pastelería y Masas Típicas,Pastelería Externa
 674786,BONDIOLA DE CERDO SOFIA REFRIGERADA A/V KGR,Fiambres,Fiambres Externos
 674787,LOMO DE CERDO SOFIA REFRIGERADO A/V KGR,Fiambres,Fiambres Externos
 674788,LOMITO DE CERDO SOFIA REFRIGERADO A/V KGR,Fiambres,Fiambres Externos
@@ -25228,6 +25253,7 @@ id_producto,producto,categoria,subcategoria
 868664,Set Churrasquero Tramontina 3 pz,Bazar,Churrasquería
 868685,Limpiador Desinfectante Jardin Pino 900 ml,Cuidado del Hogar,Limpieza de Baños
 868686,CH 4 12 JARRA LARGA DE VIDRIO CON TAPA BLANCA 1 1L,Bazar Importación,Menaje Vidrio/Cristal
+868687,Limpiador Desinfectante Jardin Floral 4 L,Cuidado del Hogar,Limpieza de Baños
 868688,Limpiador Desinfectante Jardin Pino 4 L,Cuidado del Hogar,Limpieza de Baños
 868690,Smartlifeo Blanco  Calefactor BrecuentreC,Bazar,Electrodoméstico/Línea Blanca-Hogar
 868738,Secador New York Remigton,Bazar,Electrodoméstico Cuidado Personal
@@ -25727,6 +25753,7 @@ id_producto,producto,categoria,subcategoria
 897592,Cafe De Altura Molido 250 gr,Abarrotes,Café y Sucedáneos
 897884,Juguete de Mascota,Bazar,Mascotas General
 897891,Juguete Para Mascota Hueso 15,Bazar,Mascotas General
+897943,Bloqueador Solar Nivea 125 ml,Cuidado Personal,Cuidado de la Piel
 898091,Exprimidor Practika TC-8 1 L	Electro,Bazar,Electrodoméstico/Línea Blanca-Hogar
 898092,ALISADORA FASHION KIT TAURUS,Bazar,Electrodoméstico Cuidado Personal
 898208,Jabon Barra Gigante Azul 200 gr,Cuidado del Hogar,Limpieza de la Ropa
@@ -25842,6 +25869,7 @@ id_producto,producto,categoria,subcategoria
 906954,Vela Chispas un Olego 18 un,Bazar,Cotillón
 906957,Mantel Plastico,Bazar,Cotillón
 906968,Servilletas Olego Coctel 20 un,Cuidado Personal,Cuidado Familiar
+906969,SERVILLETA OLEGO CENA 20UN,Cuidado Personal,Cuidado Familiar
 907138,Molde Brioche Tramontina,Bazar,Articulos de Cocina
 907213,Secador Piso Grande Bettanin No.126,Cuidado del Hogar,Accesorios del Hogar
 907214,Mopa Novica Bettanin Algodón No.1322,Cuidado del Hogar,Accesorios del Hogar
