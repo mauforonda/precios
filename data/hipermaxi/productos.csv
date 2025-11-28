@@ -554,6 +554,7 @@ id_producto,producto,categoria,subcategoria
 14099,Cereal Granix Copos Maiz Azucarados 1000 gr,Abarrotes,Nutrición Infantil
 14100,Jugo Del Valle Fresh Citrus Mini Sixpack 300 ml,Bebidas,"Jugos, Néctar"
 14101,Yerba Mate Selecta Menta Boldo 500 gr,Abarrotes,Café y Sucedáneos
+14102,MAIZ P SOMO COCINERO SUCRE 400 GR,Abarrotes,Condimentos y Legumbres
 14104,Cerveza Huari Miel 310 ml,Bebidas,Cervezas
 14106,Pack Qsitos Crokos 20 gr,Abarrotes,Snack
 14107,Budin Bimbo Pinguinos 40 gr,Abarrotes,Golosinas - Varias
@@ -2197,10 +2198,12 @@ id_producto,producto,categoria,subcategoria
 26233,Vape Umo Mint 18000 Puffs,Bebidas,Cigarrillos
 26874,Whisky Johnnie Walker 18 Años 750 ml,Bebidas,Licores
 27001,Energizante Volt Pink Uva 310 ml,Bebidas,Energizantes
+27003,WAFER MARILAN CHERRY CHRISTMAS 80G,Abarrotes,Galletas
 27004,SPAGUETTI LAZZARONI INTEGRAL 400G,Abarrotes,Dietéticos y Saludables
 27005,GALLETA BAUDUCCO FINI PINTA LINGUA 96G,Abarrotes,Galletas
 27008,GALLETA BAUDUCCO FINI DENTADURA 96G,Abarrotes,Galletas
 27012,COLCAFE INSTANT DESCAF FCO 40G,Abarrotes,Café y Sucedáneos
+27016,ENERGIZANTE ALPHA BERRIES LTA 355ML,Bebidas,Energizantes
 27017,ENERGIZANTE ALPHA BERRIES ZERO 355ML,Bebidas,Energizantes
 27019,ENERGIZANTE ALPHA BERRIES LTA 473ML,Bebidas,Energizantes
 27020,ENERGIZANTE ALPHA BERRIES ZERO 473ML,Bebidas,Energizantes
@@ -2209,6 +2212,7 @@ id_producto,producto,categoria,subcategoria
 27023,MARSMALLOWS CRISMELOS MINICOLOR 240G,Abarrotes,Chocolates y Caramelos
 27024,ENERGIZANTE ALPHA BERRIES LTA 695ML,Bebidas,Energizantes
 27034,ACEITUNA ZAELI RELL PIMIENTO FCO 550G,Abarrotes,Verduras en Conserva
+27035,PACK 2VINO KOHLBERG FUNDADOR 750ML,Bebidas,Vinos y Champagne
 27038,GALLETA DULCE NOEL NAVIDAD BSA 200G,Abarrotes,Temporada
 27100,MASMELOS TRULULU FRANKI BSA 50G,Abarrotes,Golosinas - Varias
 27101,Marshmallow Trululu Choco Vainilla 50 gr,Abarrotes,Golosinas - Varias
@@ -3294,10 +3298,12 @@ id_producto,producto,categoria,subcategoria
 34871,Cerveza Conti Zero 350 ml,Bebidas,Cervezas
 35070,Alimento Knino Adulto Pequeña 1.5 kg,Abarrotes,Mascotas
 35071,Alimento Knino Adulto Pequeña 3 kg,Abarrotes,Mascotas
+35072,Alimento Knino Adulto Pequeña 10 kg,Abarrotes,Mascotas
 35073,Alimento Knino Cachorro Mediano Grande 1.5 kg,Abarrotes,Mascotas
 35075,Alimento Knino Cachorro Pequeña 1.5 kg,Abarrotes,Mascotas
 35076,Alimento Knino Cachorro Pequeña 3 kg,Abarrotes,Mascotas
 35077,Alimento Knino Adulto Mediano Grande 1.5 kg,Abarrotes,Mascotas
+35078,Alimento Knino Cachorro Pequeña 10 kg,Abarrotes,Mascotas
 35115,Cafe Illy Espresso en Grano 250 gr,Abarrotes,Café y Sucedáneos
 35116,Cafe Illy Medium Molido 125 gr,Abarrotes,Café y Sucedáneos
 35133,Salsa de Tomate Goya 8 oz,Abarrotes,Salsas y Extracto de Tomate
@@ -8362,6 +8368,7 @@ id_producto,producto,categoria,subcategoria
 228975,CEPILLO COLGATE TOTAL 2 PIEZAS,Cuidado Personal,Cuidado Bucal
 228976,COLGATE MAX FRESH COOL MINT 75ML,Cuidado Personal,Cuidado Bucal
 228977,VAJILLERO TODO BRILLO PLUS LIMON BOT 600,Cuidado del Hogar,Limpieza de Cocina
+228980,VAJILLERO TODO BRILLO PLUS  LIMON 5LTS G,Cuidado del Hogar,Limpieza de Cocina
 228981,VAJILLERO  TODO BRILLO PLUS LIMON DP 900,Cuidado del Hogar,Limpieza de Cocina
 228983,SUAVIZANTE TODO BRILLO PLUS  DULCES  900,Cuidado del Hogar,Limpieza de la Ropa
 228984,SUAVIZANTE TODO BRILLO PLUS  MAGICA 900M,Cuidado del Hogar,Limpieza de la Ropa
@@ -8388,10 +8395,12 @@ id_producto,producto,categoria,subcategoria
 229014,PANO MICROFIBRA TOTES 30 X 30 CM,Cuidado del Hogar,Accesorios del Hogar
 229015,PACK DUO  PANOS PACK + BOLSA CIERRA FACI,Cuidado del Hogar,Accesorios del Hogar
 229016,DETERG  TODO BRILLO PLUS MATIC 650G,Cuidado del Hogar,Limpieza de la Ropa
+229019,DETERG  TODO BRILLO PLUS FLORAL 650G,Cuidado del Hogar,Limpieza de la Ropa
 229025,DETERG TODO BRILLO PLUS FLORAL 1.8KG BOL,Cuidado del Hogar,Limpieza de la Ropa
 229026,DETERG  TODO BRILLO PLUS FLORAL4.5KG BL,Cuidado del Hogar,Limpieza de la Ropa
 229027,DETERG TODO BRILLO PLUS LIMON 650G,Cuidado del Hogar,Limpieza de la Ropa
 229029,DETERG  TODO BRILLO PLUS  LIMON 4.5KG BO,Cuidado del Hogar,Limpieza de la Ropa
+229030,DETERG TODO BRILLO PLUS GOLD 650GR,Cuidado del Hogar,Limpieza de la Ropa
 229031,DETERG TODO BRILLO PLUS GOLD 1.8KG,Cuidado del Hogar,Limpieza de la Ropa
 229042,JABON LUXO LEITE DE ROSA 90 GR,Cuidado del Hogar,Productos Americanos
 229043,ESPIRA MOSQUITO DEYMAS 160 GR,Cuidado del Hogar,Insecticidas
@@ -13268,6 +13277,7 @@ id_producto,producto,categoria,subcategoria
 550459,Barra Multicereal Roquin 6 un 30 gr,Abarrotes,Nutrición Infantil
 550460,Pisco Tabernero Chicha Morada 700 ml,Bebidas,Licores
 550461,Pisco Tabernero Mango 700 ml,Bebidas,Licores
+550462,PISCO TABERNERO COL  PRIVADA MOSCO VERDE,Bebidas,Licores
 550464,Pisco Tabernero Tres Cepas 500 ml,Bebidas,Licores
 550465,Pisco Tabernero Botija Quebranta 700 ml,Bebidas,Licores
 550466,Nuez Cocinero Moscada 2 un,Abarrotes,Condimentos y Legumbres
@@ -15187,6 +15197,7 @@ id_producto,producto,categoria,subcategoria
 553634,PACK 3 FIDEO FAMOSA SURTIDO 400 GR,Abarrotes,Básicos
 553635,HARINA FAMOSA 11.5 KG,Abarrotes,Básicos
 553636,GELATINA IN NUTRA UVA BOLSA 1 KG,Abarrotes,Repostería
+553637,GELATINA IN NUTRA CHICLE BOLSA 1 KG,Abarrotes,Repostería
 553638,TE HELADO BONGO LIMON BOT 2 LT,Bebidas,Bebidas Varias
 553639,HOJUELAS ORGANICA  CHOCOLATE 380 GR,Abarrotes,Nutrición Infantil
 553640,TE HELADO BONGO DURAZNO BOT 2 LT,Bebidas,Bebidas Varias
@@ -15200,6 +15211,8 @@ id_producto,producto,categoria,subcategoria
 553651,GASEOSA COKA QUINA BOT 750 ML,Bebidas,Gaseosas
 553652,GASEOSA POMELO NEUS BOT 750 ML,Bebidas,Gaseosas
 553654,VINO ZINFANDEL ARANJUEZ 750ML.,Bebidas,Vinos y Champagne
+553659,TE CEYLAN MIX SURTIDO 100SAQ,Abarrotes,Café y Sucedáneos
+553679,WAFER MARILAN CANDY CANE 80 GR,Abarrotes,Galletas
 554333,Cerveza Paceña Lata Roja 473 Cc,Bebidas,Cervezas
 554466,Detergente Liquido Ola Futuro Limpieza Completa 5 L,Cuidado del Hogar,Limpieza de la Ropa
 554468,Suavizante Ropa Ola Suavecito Original 5 L,Cuidado del Hogar,Limpieza de la Ropa
@@ -18913,6 +18926,7 @@ id_producto,producto,categoria,subcategoria
 668735,Acondicionador Elvive Oleo Extraordinario,Cuidado Personal,Cuidado del Cabello
 668737,Tinte Excellence Tono 8U Rubio Claro Cenizo,Cuidado Personal,Cuidado del Cabello
 668738,Shampoo Selfy Cebolla 1000 gr,Cuidado Personal,Cuidado del Cabello
+668739,Servilleta Hogar Navideña,Cuidado Personal,Cuidado Familiar
 668741,Desodorante Santiago Spray 80 ml,Cuidado del Hogar,Limpieza de Zapatos
 668742,Crema Santiago Cuero Mate 100 ml,Cuidado del Hogar,Limpieza de Zapatos
 668743,Esponja Santiago Limpieza de Zapato 7 ml,Cuidado del Hogar,Limpieza de Zapatos
@@ -22036,6 +22050,7 @@ id_producto,producto,categoria,subcategoria
 763724,BEBIDA LACTEA PURI FRUTS MANZANA 900 ML.,Lácteos y Derivados,Leches
 763747,BEBIDA LACTEA PURI FRUTS DURAZNO 900 ML.,Lácteos y Derivados,Leches
 763762,Galleta Chatitas Saborizada La Delicia,Panadería,Panadería Externa
+763855,Alimento Knino Adulto Mediana Grande 10 kg,Abarrotes,Mascotas
 763897,Huevos Avicola Paurito Medianos 60 un,Lácteos y Derivados,Huevos
 763981,Bebida Vegetal Serenisima Base de Almendra 1 L,Lácteos y Derivados,Leches
 764101,Frutos Rojos Enteros Congelados Punto Verde 350 gr,Congelados,Pulpas y Frutas Congeladas
@@ -22995,7 +23010,7 @@ id_producto,producto,categoria,subcategoria
 798326,Escabeche de Verduras Guaruja 400 gr,Fiambres,Fiambres Externos
 798328,Panceta Ahumada La Sierra kg,Fiambres,Fiambres Externos
 798335,Pernil Ahumado La Sierra kg,Fiambres,Fiambres Externos
-798338,Jamon Tipo Serrano Marco Ulloa Cubitos 150 gr,Fiambres,Fiambres Externos
+798338,Jamon Tipo Serrano Marco Ulloa Cubitos 100 gr,Fiambres,Fiambres Externos
 798342,Helado Vaca Fria Crema Chocolate 150 ml,Congelados,"Helados, Cassattas y Picoleses"
 798343,Jamon Ahumado La Sierra A Granel kg,Fiambres,Fiambres Externos
 798346,Yogurt Probiotico La Purita Coco 2 L,Lácteos y Derivados,Yogures
@@ -25913,6 +25928,7 @@ id_producto,producto,categoria,subcategoria
 913226,Nota de Venta Grande,Bazar,Librería
 913227,Recibo Grande,Bazar,Librería
 913229,ALED CARTULINA OFICIO X 10UND BS 10,Bazar,Librería
+913275,Muñeca Surtido,Juguetería,Juguetería Niña/Bebé
 913279,Juguete Muñeca 2,Juguetería,Juguetería Niña/Bebé
 913280,Juguete Muñeca,Juguetería,Juguetería Niña/Bebé
 913281,Muñeca,Juguetería,Juguetería Niña/Bebé
