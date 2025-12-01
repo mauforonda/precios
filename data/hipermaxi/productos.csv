@@ -2214,6 +2214,8 @@ id_producto,producto,categoria,subcategoria
 27024,ENERGIZANTE ALPHA BERRIES LTA 695ML,Bebidas,Energizantes
 27034,ACEITUNA ZAELI RELL PIMIENTO FCO 550G,Abarrotes,Verduras en Conserva
 27035,PACK 2VINO KOHLBERG FUNDADOR 750ML,Bebidas,Vinos y Champagne
+27036,PACK 3VINOS KOHLBERG 1 2 3 750ML,Bebidas,Vinos y Champagne
+27037,PACK 3VINOS KOHLBERG 2 3 FUNDADOR,Bebidas,Vinos y Champagne
 27038,GALLETA DULCE NOEL NAVIDAD BSA 200G,Abarrotes,Temporada
 27100,MASMELOS TRULULU FRANKI BSA 50G,Abarrotes,Golosinas - Varias
 27101,Marshmallow Trululu Choco Vainilla 50 gr,Abarrotes,Golosinas - Varias
@@ -3976,8 +3978,8 @@ id_producto,producto,categoria,subcategoria
 100723,Salsa Molho Kenko Ingles 1000 ml,Abarrotes,Aderezos
 100732,Filetes de Anchoas en Aceite Oliva Roland 120 gr,Abarrotes,Productos Americanos
 100734,Salsa McCormick Cilantro Limon 148 gr,Abarrotes,Condimentos y Legumbres
-100758,Isotonico Pawerade Mora Azul 990 ml,Bebidas,Isotónicos
-100761,Isotonico Pawerade Multi Frutas 990 ml,Bebidas,Isotónicos
+100758,Isotonico Powerade Mora Azul 990 ml,Bebidas,Isotónicos
+100761,Isotonico Powerade Multi Frutas 990 ml,Bebidas,Isotónicos
 100763,Vodka Ice Miks Durazno 275 ml,Bebidas,Licores
 100764,Vodka Ice Miks Frutilla Kiwi 275 ml,Bebidas,Licores
 100765,Vodka Ice Miks Citrus 275 ml,Bebidas,Licores
@@ -8370,6 +8372,7 @@ id_producto,producto,categoria,subcategoria
 228975,CEPILLO COLGATE TOTAL 2 PIEZAS,Cuidado Personal,Cuidado Bucal
 228976,COLGATE MAX FRESH COOL MINT 75ML,Cuidado Personal,Cuidado Bucal
 228977,VAJILLERO TODO BRILLO PLUS LIMON BOT 600,Cuidado del Hogar,Limpieza de Cocina
+228978,VAJILLERO TODO BRILLO PLUS LIMON BOT 105,Cuidado del Hogar,Limpieza de Cocina
 228980,VAJILLERO TODO BRILLO PLUS  LIMON 5LTS G,Cuidado del Hogar,Limpieza de Cocina
 228981,VAJILLERO  TODO BRILLO PLUS LIMON DP 900,Cuidado del Hogar,Limpieza de Cocina
 228983,SUAVIZANTE TODO BRILLO PLUS  DULCES  900,Cuidado del Hogar,Limpieza de la Ropa
@@ -8392,6 +8395,7 @@ id_producto,producto,categoria,subcategoria
 229004,SUAVIZANTE ASI CLASICO  2000ML,Cuidado del Hogar,Limpieza de la Ropa
 229005,SUAVIZANTE ASI ANTIBACTERIAL  MX 900ML,Cuidado del Hogar,Limpieza de la Ropa
 229006,PROTECTOR DIARIO TENA XLARGO ADULTO 15 U,Cuidado Personal,Cuidado del Adulto
+229007,DEO ROLL-ON LEITE DE ROSAS 50 ML,Cuidado del Hogar,Productos Americanos
 229011,Desinfectante Aerosol Whitex,Cuidado del Hogar,Limpieza de Baños
 229013,PACK TOALLA COCINA CLIN + MANO,Cuidado del Hogar,Limpieza de Cocina
 229014,PANO MICROFIBRA TOTES 30 X 30 CM,Cuidado del Hogar,Accesorios del Hogar
@@ -8405,6 +8409,7 @@ id_producto,producto,categoria,subcategoria
 229029,DETERG  TODO BRILLO PLUS  LIMON 4.5KG BO,Cuidado del Hogar,Limpieza de la Ropa
 229030,DETERG TODO BRILLO PLUS GOLD 650GR,Cuidado del Hogar,Limpieza de la Ropa
 229031,DETERG TODO BRILLO PLUS GOLD 1.8KG,Cuidado del Hogar,Limpieza de la Ropa
+229033,DETERG TODO BRILLO GOLD PLUS 4.5KG BL,Cuidado del Hogar,Limpieza de la Ropa
 229034,DESODORANTE EN CREMA  CARISSA 12X60G,Cuidado Personal,Cuidado de la Piel
 229042,JABON LUXO LEITE DE ROSA 90 GR,Cuidado del Hogar,Productos Americanos
 229043,ESPIRA MOSQUITO DEYMAS 160 GR,Cuidado del Hogar,Insecticidas
@@ -14111,6 +14116,7 @@ id_producto,producto,categoria,subcategoria
 552116,CHOC BREICK TRINEO PAPA NOEL 95 GR,Abarrotes,Temporada
 552117,CHOCOLATE BREICK PINGUINO  68 GR,Abarrotes,Temporada
 552118,CHOCOLARE BREICK RENO NAVIDAD 102 GR,Abarrotes,Temporada
+552120,GALLETA GUSTOSSI C JENGIBRE CJA 450G,Abarrotes,Temporada
 552128,Galleta Cory Chocolate Medio Amargo 68 gr,Abarrotes,Galletas
 552130,Plancha Facil Archer 550 ml,Cuidado del Hogar,Limpieza de la Ropa
 552131,Chocolate Costa Rolls Nuts 150 gr,Abarrotes,Chocolates y Caramelos
@@ -14144,8 +14150,8 @@ id_producto,producto,categoria,subcategoria
 552198,Chicha Taquiña 440 ml,Bebidas,Cervezas
 552204,Galleta Juanita Surtida Quinua Canahua,Abarrotes,Galletas
 552212,Tinte Garnier Tono 7.0 Rubio,Cuidado Personal,Cuidado del Cabello
-552219,Isotonico Pawerade Maracuya 990 ml,Bebidas,Isotónicos
-552220,Isotonico Pawerade Maracuya 473 ml,Bebidas,Isotónicos
+552219,Isotonico Powerade Maracuya 990 ml,Bebidas,Isotónicos
+552220,Isotonico Powerade Maracuya 473 ml,Bebidas,Isotónicos
 552222,Jugo Frutall Mandarina 1 L,Bebidas,"Jugos, Néctar"
 552223,Vape Umo Tropical Blast 8000 Puffs,Bebidas,Cigarrillos
 552225,Pack 6 Cerveza Paceña 440 ml,Bebidas,Cervezas
@@ -15217,9 +15223,12 @@ id_producto,producto,categoria,subcategoria
 553651,GASEOSA COKA QUINA BOT 750 ML,Bebidas,Gaseosas
 553652,GASEOSA POMELO NEUS BOT 750 ML,Bebidas,Gaseosas
 553654,VINO ZINFANDEL ARANJUEZ 750ML.,Bebidas,Vinos y Champagne
+553656,GALLETAS SURTIDAS ANDES TROPICO 200 GR,Abarrotes,Dietéticos y Saludables
 553657,TRIMATE CEYLAN 20SAQ,Abarrotes,Café y Sucedáneos
 553658,TE CEYLAN SULTANA 20SAQ,Abarrotes,Café y Sucedáneos
 553659,TE CEYLAN MIX SURTIDO 100SAQ,Abarrotes,Café y Sucedáneos
+553661,ARROZ CON LECHE INST VASO 40 GR,Abarrotes,Repostería
+553662,PAELLA DE QUINUA DON TEO VASO 40 GR,Abarrotes,Básicos
 553679,WAFER MARILAN CANDY CANE 80 GR,Abarrotes,Galletas
 553680,PACK 2 JUGO DE LA GRANJA NRJ DRZ 2 LT,Bebidas,"Jugos, Néctar"
 554333,Cerveza Paceña Lata Roja 473 Cc,Bebidas,Cervezas
@@ -15307,8 +15316,8 @@ id_producto,producto,categoria,subcategoria
 565415,Aceite La Española Extra Virgen 500 ml,Abarrotes,Básicos
 565490,Aceite Oliva La Española 250 ml,Abarrotes,Básicos
 565571,Achocolatado Chocolike 200 gr,Abarrotes,Nutrición Infantil
-565573,Isotonico Pawerade Mora Azul 473 ml,Bebidas,Isotónicos
-565575,Isotonico Pawerade Multi Frutas 473 ml,Bebidas,Isotónicos
+565573,Isotonico Powerade Mora Azul 473 ml,Bebidas,Isotónicos
+565575,Isotonico Powerade Multi Frutas 473 ml,Bebidas,Isotónicos
 565677,Crema Portugal Concha Nacar 55 gr,Cuidado Personal,Cuidado de la Piel
 565687,Cuba Libre Ron y Cola 500 ml,Bebidas,Licores
 565849,Bombon Bon o Bon Blanco 270 gr,Abarrotes,Chocolates y Caramelos
@@ -21995,6 +22004,7 @@ id_producto,producto,categoria,subcategoria
 761434,GALLETAS CRICK CRACK PAN DANES  UNID.,Panadería,Panadería Externa
 761436,Yogurt Bebible Friedland Natural Sin Azucar 1 L,Lácteos y Derivados,Yogures
 761437,Alimento Bebible Soya Nordland Chirimoya 950 ml,Lácteos y Derivados,Leches
+761452,MARGARINA CREMA VEGETAL SOYA 250 GRS.,Lácteos y Derivados,Mantequillas y Margarinas
 761457,FORTUMILK LECHE NATURAL 900 ML. LA PURITA,Lácteos y Derivados,Leches
 761458,YUCAS PRECOCIDAS CONG.POLAR CORTE BASTON 1 KG.,Congelados,Masas y Comidas Congeladas
 761486,Huevos Aranjuez Economico Subsidio 18 un,Lácteos y Derivados,Huevos
