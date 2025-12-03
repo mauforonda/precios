@@ -7565,7 +7565,7 @@ id_producto,producto,categoria,subcategoria
 223035,Esponja Baño Condor Infantil,Cuidado Personal,Cuidado de la Piel
 223036,Esponja Baño Condor Con Cordon,Cuidado Personal,Cuidado de la Piel
 223037,Esponja Condor Baño Basica Individual,Cuidado Personal,Cuidado de la Piel
-223038,Esponja Condor Baño Basic,Cuidado Personal,Cuidado de la Piel
+223038,Esponja Condor Baño Basic 3 un,Cuidado Personal,Cuidado de la Piel
 223044,Esponja Limppano Multiuso Rayum Color 3 un,Cuidado del Hogar,Accesorios del Hogar
 223045,Desodorante Gel Gillette Sport Triumph 82 gr,Cuidado Personal,Cuidado de la Piel
 223046,Desodorante Gel Gillette Cool Wave 82 gr,Cuidado Personal,Cuidado de la Piel
@@ -8845,7 +8845,7 @@ id_producto,producto,categoria,subcategoria
 240811,Insecticida Tyson Matacucaracha 250 cm,Cuidado del Hogar,Insecticidas
 240812,Repelente Off Duracion 196 gr,Cuidado del Hogar,Productos Americanos
 240813,Toallas Higienicas Ladysoft Alas 42 unn,Cuidado Personal,Cuidado Familiar
-240814,Toallas Higienicas Ladysoft Delgada con Ala,Cuidado Personal,Cuidado Familiar
+240814,Toallas Higienicas Ladysoft Delgada con Ala 28 un,Cuidado Personal,Cuidado Familiar
 240817,Tripack Toalla Higienica Kotex Discreta Ultra fina 3x2,Cuidado Personal,Cuidado Familiar
 240819,Jabon Liquido Nostas Manzanilla 600 ml,Cuidado Personal,Cuidado de la Piel
 240820,Enjuague Bucal Nostas Menta 1 L,Cuidado Personal,Cuidado Bucal
@@ -15769,6 +15769,7 @@ id_producto,producto,categoria,subcategoria
 609226,Pimienta Dulce Savoryn Entera 23 gr,Abarrotes,Condimentos y Legumbres
 609242,Pimienta Negra Savoryn Molida 45 gr,Abarrotes,Condimentos y Legumbres
 609277,Elfo Navideño Piernas Roja y Blanca,Bazar Importación,Temporada Navidad
+609278,Vincha de Elfo Navideño,Bazar Importación,Temporada Navidad
 609279,Vestido de Elfo Navideño,Bazar Importación,Temporada Navidad
 609280,Campera de Elfo Navideño Grinch,Bazar Importación,Temporada Navidad
 609281,Chompa de Elfo Navideño,Bazar Importación,Temporada Navidad
@@ -18487,7 +18488,7 @@ id_producto,producto,categoria,subcategoria
 667673,Cicatricure Anti - Manchas Serum Concent,Cuidado Personal,Cuidado de la Piel
 667674,Maquillaje Asepxia Polvo Beige 10 gr,Cuidado Personal,Cuidado de la Piel
 667675,Agua Micelar Hidraderm 100 ml,Cuidado Personal,Cuidado de la Piel
-667684,Bolsa Basura Oxobiodegradable 100% Recicladas,Cuidado del Hogar,Accesorios del Hogar
+667684,Bolsa Basura Oxobiodegradable 100% Recicladas 75 L,Cuidado del Hogar,Accesorios del Hogar
 667686,Protector Bellacotton Lactancia 12 un,Cuidado Personal,Cuidado del Adulto
 667692,Pack Herbal Argan Shampoo + Acondicionador 400 ml,Cuidado Personal,Cuidado del Cabello
 667693,Pack Cotonetes Septa 100 un,Cuidado del Bebé,Cuidado del Bebé
@@ -21131,6 +21132,19 @@ id_producto,producto,categoria,subcategoria
 674618,PIPOPANETON HALLOWEEN FRANKENSTEIN CAJA UNI,Panadería,Panadería Externa
 674619,PIPOPANETON HALLOWEEN CALABAZA CAJA UNI,Panadería,Panadería Externa
 674622,SALSA DE QUESO CHEDDAR TORTITACOS 200GRS,Lácteos y Derivados,Quesos
+674623,KEFFIR MELLOR CHIRIMOYA 200ML,Lácteos y Derivados,Yogures
+674625,KEFFIR MELLOR DURAZNO 200ML,Lácteos y Derivados,Yogures
+674626,KEFFIR MELLOR MORA 200ML,Lácteos y Derivados,Yogures
+674627,KEFFIR MELLOR DURAZNO 1LT,Lácteos y Derivados,Yogures
+674628,KEFFIR MELLOR CHIRIMOYA 1LT,Lácteos y Derivados,Yogures
+674629,KEFFIR MELLOR FRUTILLA 1LT,Lácteos y Derivados,Yogures
+674630,KEFFIR MELLOR COCO 1LT,Lácteos y Derivados,Yogures
+674632,KEFFIR MELLOR VAINILLA 1LT,Lácteos y Derivados,Yogures
+674633,KEFFIR MELLOR DURAZNO 2LTS,Lácteos y Derivados,Yogures
+674634,KEFFIR MELLOR CHIRIMOYA 2LTS,Lácteos y Derivados,Yogures
+674635,KEFFIR MELLOR FRUTILLA 2LTS,Lácteos y Derivados,Yogures
+674636,KEFFIR MELLOR COCO 2LTS,Lácteos y Derivados,Yogures
+674637,KEFFIR MELLOR MORA 2LTS,Lácteos y Derivados,Yogures
 674638,SALCHICHA HADOQUERA SOFIA XXL A/V 15 UNIDADES,Fiambres,Fiambres Externos
 674639,SALCHICHA HADOQUERA XXL SOFIA A/V 6 UNIDADES,Fiambres,Fiambres Externos
 674641,PANETTONE MASA MADRE 650GR SAN GABRIEL CAJA,Panadería,Panadería Externa
@@ -22705,7 +22719,7 @@ id_producto,producto,categoria,subcategoria
 787214,Yogurt Purita Batido Sabores Surtido 2 L,Lácteos y Derivados,Yogures
 787215,Queso Mozzarella La Lechera Charagua 1 kg,Lácteos y Derivados,Quesos
 787230,Tortillas Bimbo Rapiditas Light XXL 420 gr,Congelados,Masas y Comidas Congeladas
-787233,Leche Bonle enriquecido 900 ml,Lácteos y Derivados,Leches
+787233,Leche Bonle enriquecido 800 ml,Lácteos y Derivados,Leches
 787247,Cafe de Manha Activia Amaranto Papaya 170 gr,Lácteos y Derivados,Postres
 787249,Cafe de Manha Activia Linaza Morango 170 gr,Lácteos y Derivados,Postres
 787251,Tortillas Bimbo Rapiditas Integral 310 gr,Congelados,Masas y Comidas Congeladas
