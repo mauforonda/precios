@@ -216,6 +216,7 @@ id_producto,producto,proveedor,categoria
 7436959613087,Yogurt sabor Coco Pil 1 L,Pil,Yogurt
 10869309669535,Papas Pringles Sabor Crema y Cebolla 137 Gr,Madisa,Papas Fritas
 10849807990943,Leche Pil Enriquecida 800 Ml,Pil,Leche Pil Enriquecida
+10871651270815,Hamburguesa Fridosita Express Bolsa 18 Unid,Fridosa,Fridosita Express
 7392493142175,Aceite Fino 900 Ml,Fino,Aceite
 7392493404319,Agua con Gas Vital 2 L,Vital,Agua con Gas
 7392493568159,Aquarius de Pera 2 L,Aquarius,Jugo de Fruta
@@ -743,7 +744,7 @@ id_producto,producto,proveedor,categoria
 10850065350815,Activade Isotónico Frutilla 1 Lt,Activade,Energizante
 10850065383583,Activade Isotónica Mora 1 Lt,Activade,Energizante
 10850065776799,Life Tea Te Negro Durazno 500 Ml,Alca Group,Life Tea Te Negro
-10850065842335,Life Tea Limon Pet 500 Ml,Alca Group,Life Tea Limon
+10850065842335,Life Tea Limon 500 Ml,Alca Group,Life Tea Limon
 10850066563231,Sapolio Aroma Lavanda 360 Ml,Alicorp,Sapolio
 10850066628767,Sapolio Aroma Potporri Flores 360 Ml,Alicorp,Sapolio
 10850066759839,Sapolio Aroma Jardín Rosa 360 Ml,Alicorp,Sapolio
@@ -817,7 +818,6 @@ id_producto,producto,proveedor,categoria
 10869746106527,Ades Durazno 200 Ml,Embol,Ades Durazno 200 Ml
 10869746172063,Agua Vital Con Gas 600 Ml,Embol,Agua Vital Con Gas
 10869746270367,Gaseosa Coca - Cola Original 2.5 Lt,Embol,Gaseosa Coca - Cola 2 Lt
-10871651270815,Hamburguesa Fridosita Express Bolsa 18 Unid,Fridosa,Fridosita Express
 10872278384799,Activa de Fusión Mango Zero 1 Lt,Fidalga,Activa Fusión Mango
 10872278778015,Activa de Función Sandía Zero 1 Lt,Fidalga,Activa Fusion Sandia
 10872284741791,Biogurt LGG Durazno Botella 1 Lt,Pil,Biogurt LGG Durazno
@@ -893,3 +893,16 @@ id_producto,producto,proveedor,categoria
 10873470091423,Yogurt Griego Fresa Delizia 170 Gr,Delizia,Yogurt Griego
 10873932185759,Arroz Caisy Predilecto 1 Kg,Caisy,Arroz
 10873932251295,Yogurt Griego Pil Greco Natural Bolsa 1 kg,Pil,Yogurt Grieco
+10878936318111,Fideo Spaghetti Don Victorio 500 Gr,Don Victorio,Fideo Spaghetti
+10878938054815,Fideo Fettuccini Don Victorio 400 Gr,Don Victorio,Fideo Fettuccini
+10878938677407,Fideo Linguini Don Victorio 1 Kg,Don Victorio,Fideo Linguin
+10878939005087,Fideo Spaguetti Don Victorio 1 Kg,Don Victorio,Fideo Spaguetti
+10878939267231,Sal Lobo Bolsa 1 Kg,Fidalga,Sal Lobo
+10878943854751,Detergente Bolivar Floral 3.8 Kg,Alicorp,Detergente Bolivar
+10878945919135,Lavavajilla Liquida Limon Sapolio 750 Ml,Fidalga,Lava vajilla Liquido
+10878945984671,Insecticida Mata Todo Sapolio 360 Ml,Sapolio,Insecticida Mata Todo
+10878946476191,Insecticida Mata Cucarachas Sapolio 360 Ml,Sapolio,Insecticida Matacucarachas
+10878946836639,Ambientador Aroma Vainilla Sapolio 360 Ml,Sapolio,Ambientador Vainilla
+10878947491999,Detergente Polvo Floral Todo Brillo 1.100 Kg,Todo Brillo,Detergente Polvo Floral
+10878947786911,Detergente Polvo Matic Todo Brillo 1 Kg,Todo Brillo,Detergente Polvo Matic
+10878947950751,Detergente Polvo Limon Todo Brillo 1 Kg,Todo Brillo,Detergente Polvo Limon
