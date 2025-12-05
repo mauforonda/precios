@@ -1835,10 +1835,12 @@ id_producto,producto,categoria,subcategoria
 25282,Lonchera Juguito Pil,Bebidas,"Jugos, Néctar"
 25289,ROMERO TIERRA NUESTRA ENTERO FCO 20G,Abarrotes,Condimentos y Legumbres
 25290,CAFE MESTIZO 21 MOLIDO 250G,Abarrotes,Café y Sucedáneos
-25294,VINAGRE GALLO D SIDRA BOT 250ML,Abarrotes,Básicos
+25292,TE CON CANELA MIKI 50 SAQ,Abarrotes,Café y Sucedáneos
+25294,Vinagre Gallo 250 ml,Abarrotes,Básicos
 25295,ACEITE D OLIVA GALLO SUBTIL LTA 1LT,Abarrotes,Básicos
 25296,CAMOTE FRITO L FAVORITA RALLADO 200G,Abarrotes,Snack
 25297,CAMOTE FRITO PREMIUM L FAVORITA 200G,Abarrotes,Snack
+25298,RON BUCANERO ANEJO 900ML,Bebidas,Licores
 25299,VODKA MATRIOSHKA BOT 750ML,Bebidas,Licores
 25303,TRIGO INSUFLADO FAVORITA BSA 150G,Abarrotes,Nutrición Infantil
 25304,CHUCRUT RINCON MADERAS FCO  460GR,Abarrotes,Verduras en Conserva
@@ -2020,6 +2022,7 @@ id_producto,producto,categoria,subcategoria
 25982,PACK CAFE COPACABANA DP 45G 1VASO INOX,Abarrotes,Café y Sucedáneos
 25985,TE HELADO BONGO LIMON 500ML,Bebidas,Bebidas Varias
 25986,TE HELADO BONGO DURAZNO 500ML,Bebidas,Bebidas Varias
+25989,TRIMATE MIKI 100SAQ,Abarrotes,Café y Sucedáneos
 25991,TRIPACK ENERG VOLT ED REAL MADRID,Bebidas,Energizantes
 25993,GIN BRIGHTON TANGERINE BOT 700ML,Bebidas,Licores
 25996,KETCHUP SALSARETTI TRADICIONAL PET 675G,Abarrotes,Aderezos
@@ -8321,6 +8324,7 @@ id_producto,producto,categoria,subcategoria
 228392,LIMPPANO ANTIMOHO ROMERO 80G,Cuidado del Hogar,Limpieza de Living y Ropero
 228393,VAJILLERO TODOBRILLO LIMON 750ML POTE,Cuidado del Hogar,Limpieza de Cocina
 228394,LAVAVAJILLAS TB LIMON 2000ML POTE,Cuidado del Hogar,Limpieza de Cocina
+228395,BOLSA  MAGIA VERDE 100 X 120 CM DE 200LT,Cuidado del Hogar,Accesorios del Hogar
 228396,AMBIENTADOR TB CONO CHERRY 190G,Cuidado del Hogar,Limpieza de Living y Ropero
 228398,VAJILLERO TODOBRILLO LIMON 5 LTS,Cuidado del Hogar,Limpieza de Cocina
 228399,PAPEL BLANQUITA ECOPACK X 6 UNDS,Cuidado Personal,Cuidado Familiar
@@ -15209,7 +15213,7 @@ id_producto,producto,categoria,subcategoria
 553628,AMARANTO INSTANTANEO ILLA MANKA 250 GR,Abarrotes,Nutrición Infantil
 553629,TOMATE DESHIDRAT BRIXY FCO 210G,Abarrotes,Verduras en Conserva
 553630,VINAGRE BALSAMICO BRIXY BOT 400ML,Abarrotes,Básicos
-553631,VIANGRE BALSAMICO REDUCCION BRIXY  BOT 4,Abarrotes,Básicos
+553631,VIANGRE BRIXY BALSAMICO REDUC  400ML,Abarrotes,Básicos
 553632,PACK 12 CERVEZA SCHNEIDER 473 ML,Bebidas,Cervezas
 553633,VINO KOHLBERG FUNDADOR TTO 700ML,Bebidas,Vinos y Champagne
 553634,PACK 3 FIDEO FAMOSA SURTIDO 400 GR,Abarrotes,Básicos
@@ -15233,8 +15237,10 @@ id_producto,producto,categoria,subcategoria
 553657,TRIMATE CEYLAN 20SAQ,Abarrotes,Café y Sucedáneos
 553658,TE CEYLAN SULTANA 20SAQ,Abarrotes,Café y Sucedáneos
 553659,TE CEYLAN MIX SURTIDO 100SAQ,Abarrotes,Café y Sucedáneos
+553660,API INSTANTANEO DON TEO VASO 40 GR,Abarrotes,Repostería
 553661,ARROZ CON LECHE INST VASO 40 GR,Abarrotes,Repostería
 553662,PAELLA DE QUINUA DON TEO VASO 40 GR,Abarrotes,Básicos
+553678,WAFER MARILAN GINGER BREAD 80 GR,Abarrotes,Galletas
 553679,WAFER MARILAN CANDY CANE 80 GR,Abarrotes,Galletas
 553680,PACK 2 JUGO DE LA GRANJA NRJ DRZ 2 LT,Bebidas,"Jugos, Néctar"
 554333,Cerveza Paceña Lata Roja 473 Cc,Bebidas,Cervezas
@@ -16419,6 +16425,7 @@ id_producto,producto,categoria,subcategoria
 629836,GALLETA AUNT BAKER MANTEQUILLA NAVIDAD 300GR,Abarrotes,Productos Americanos
 629837,GALLETA DAFOHA MANTEQUILLA NAVIDENA 340GR,Abarrotes,Productos Americanos
 629838,GALLETA BREXONIC MANT S/AZUC S/GLUTEN 310GR,Abarrotes,Productos Americanos
+629839,GALLETAS JUMAIRH ALMENDRA 283 GR,Abarrotes,Productos Americanos
 629840,GALLETAS JUMAIRH ARANDANO 283 GR,Abarrotes,Productos Americanos
 630010,Alimento Pedigree Cachorro 1.5 kg,Abarrotes,Mascotas
 630011,Gaseosa Crush Piña 355 ml,Bebidas,Bebidas Usa
@@ -18522,6 +18529,7 @@ id_producto,producto,categoria,subcategoria
 667768,Esponja Scotch Brite Pack Lleve 4 Pague 3,Cuidado del Hogar,Accesorios del Hogar
 667769,Limpiador Desinfectante Prossquimm Quat-5,Cuidado del Hogar,Limpieza de Living y Ropero
 667771,Esponja Cocina Salva Uñas,Cuidado del Hogar,Accesorios del Hogar
+667772,SAPOLIO FIBRA AZUL BANO,Cuidado del Hogar,Accesorios del Hogar
 667774,Limpiador de Piso Bristar Lavanda Nacarado 900 ml,Cuidado del Hogar,Limpieza de Baños
 667775,Limpiador de Piso Bristar Lavanda Nacadaro 1800 ml,Cuidado del Hogar,Limpieza de Baños
 667776,Limpiador de Piso Bristar Lavanda Nacadaro 5 L,Cuidado del Hogar,Limpieza de Baños
@@ -19484,6 +19492,7 @@ id_producto,producto,categoria,subcategoria
 670420,Pesto de Albahaca Valenciana Gourmet 200 gr,Fiambres,Fiambres Externos
 670421,Hummus de Garbanzo Valenciana Gourmet 200 g,Fiambres,Fiambres Externos
 670447,Jamon Selecto Zenteno Feteado 100 gr,Fiambres,Fiambres Externos
+670467,PANETON DE CHOCOLATE GUSTOSSI 750 GRS,Panadería,Panadería Externa
 670468,Galleta Gustossi Cracker 500 gr,Abarrotes,Galletas
 670469,Galleta Gustossi Cracker 1 kg,Abarrotes,Galletas
 670474,Queso Criollo San Javier San Mateo kg,Lácteos y Derivados,Quesos
@@ -24254,7 +24263,7 @@ id_producto,producto,categoria,subcategoria
 852074,Arbol de Navidad 180 cm,Bazar Importación,Temporada Navidad
 852076,Arbol De Navidad 60 cm,Bazar Importación,Temporada Navidad
 852077,Arbol De Navidad 60 cm,Bazar Importación,Temporada Navidad
-852084,Margarina Reyna 425 gr,Lácteos y Derivados,Mantequillas y Margarinas
+852084,Margarina Reyna 410 gr,Lácteos y Derivados,Mantequillas y Margarinas
 852089,Arbol de Navidad 60 cm,Bazar Importación,Temporada Navidad
 852099,Margarina Reyna 215 gr,Lácteos y Derivados,Mantequillas y Margarinas
 852165,JUEGO MESA 4 EN 1  BOLIVMAR,Juguetería,Juguetería Didáctica/Temporada
