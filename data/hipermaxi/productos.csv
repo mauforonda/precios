@@ -2208,7 +2208,10 @@ id_producto,producto,categoria,subcategoria
 27004,SPAGUETTI LAZZARONI INTEGRAL 400G,Abarrotes,Dietéticos y Saludables
 27005,GALLETA BAUDUCCO FINI PINTA LINGUA 96G,Abarrotes,Galletas
 27008,GALLETA BAUDUCCO FINI DENTADURA 96G,Abarrotes,Galletas
+27011,TE HELADO TAMPICO DURAZNO PET 500ML,Bebidas,Bebidas Varias
 27012,COLCAFE INSTANT DESCAF FCO 40G,Abarrotes,Café y Sucedáneos
+27013,VODKA THE JAMES COOK 900ML,Bebidas,Licores
+27014,GIN THE JAMES COOK 900ML,Bebidas,Licores
 27016,ENERGIZANTE ALPHA BERRIES LTA 355ML,Bebidas,Energizantes
 27017,ENERGIZANTE ALPHA BERRIES ZERO 355ML,Bebidas,Energizantes
 27019,ENERGIZANTE ALPHA BERRIES LTA 473ML,Bebidas,Energizantes
@@ -2222,6 +2225,7 @@ id_producto,producto,categoria,subcategoria
 27036,PACK 3VINOS KOHLBERG 1 2 3 750ML,Bebidas,Vinos y Champagne
 27037,PACK 3VINOS KOHLBERG 2 3 FUNDADOR,Bebidas,Vinos y Champagne
 27038,GALLETA DULCE NOEL NAVIDAD BSA 200G,Abarrotes,Temporada
+27052,PACK TUPPER MABEL SURTIDO 9UNID,Abarrotes,Galletas
 27100,MASMELOS TRULULU FRANKI BSA 50G,Abarrotes,Golosinas - Varias
 27101,Marshmallow Trululu Choco Vainilla 50 gr,Abarrotes,Golosinas - Varias
 27102,Chocolate Bianchi Choco Mani 50 gr,Abarrotes,Golosinas - Varias
@@ -2511,6 +2515,7 @@ id_producto,producto,categoria,subcategoria
 30453,Galleta Costa Surtida Azul 237.5 gr,Abarrotes,Galletas
 30454,Salsa La Costeña Roja Taquera 450 gr,Abarrotes,Aderezos
 30455,Tequila Tequilita Silver 900 ml,Bebidas,Licores
+30457,MARULA AFRIKA BOT 900 ML,Bebidas,Licores
 30458,Licor Marula Afrika Vainilla 900 ml,Bebidas,Licores
 30460,Gin Old Bridge Rose 900 ml,Bebidas,Licores
 30461,Cereal En Linea Relleno de Chocolate 360 gr,Abarrotes,Dietéticos y Saludables
@@ -2655,6 +2660,7 @@ id_producto,producto,categoria,subcategoria
 30646,Bebida Flow Bomba Frutal 473 ml,Bebidas,Licores
 30647,Isotonico Sante Mango Zero 1 L,Bebidas,Isotónicos
 30648,Isotonico Sante Sport Sandia Zero 1 L,Bebidas,Isotónicos
+30651,Chupetes Casal chocomania bolsa 900 gr,Abarrotes,Chocolates y Caramelos
 30652,Takis Fuego mex 56 gr,Abarrotes,Snack
 30653,Takis Xplosion Mex 56 gr,Abarrotes,Snack
 30654,Miel de Abeja Amboro Multifloral 500 gr,Abarrotes,"Mermel, Mieles"
@@ -6982,6 +6988,7 @@ id_producto,producto,categoria,subcategoria
 204351,Nacho Guadalajara Surtido 800 gr,Abarrotes,Snack
 204447,Shampoo Head Shoulders Limpieza Renovadora 700 ml,Cuidado Personal,Cuidado del Cabello
 204487,Arroz Cocinero Popular 1 kg,Abarrotes,Básicos
+204549,Cafe Chiriguano Instantaneo 200 gr,Abarrotes,Café y Sucedáneos
 204550,Cafe Chiriguano Instantaneo 50 gr,Abarrotes,Café y Sucedáneos
 204580,Refresco Arcor Naranja 18 gr,Bebidas,Refrescos en Polvo
 204728,Cereal Chocolike Almohaditas 200 gr,Abarrotes,Nutrición Infantil
@@ -8420,6 +8427,7 @@ id_producto,producto,categoria,subcategoria
 229031,DETERG TODO BRILLO PLUS GOLD 1.8KG,Cuidado del Hogar,Limpieza de la Ropa
 229033,DETERG TODO BRILLO GOLD PLUS 4.5KG BL,Cuidado del Hogar,Limpieza de la Ropa
 229034,DESODORANTE EN CREMA  CARISSA 12X60G,Cuidado Personal,Cuidado de la Piel
+229039,ACEITE BABY OIL CARE STUDIO ROSA 192 ML,Cuidado del Bebé,Cuidado del Bebé
 229042,JABON LUXO LEITE DE ROSA 90 GR,Cuidado del Hogar,Productos Americanos
 229043,ESPIRA MOSQUITO DEYMAS 160 GR,Cuidado del Hogar,Insecticidas
 229073,Cera Fijadora Fixer Efecto Natural 60 gr,Cuidado Personal,Cuidado del Cabello
@@ -8428,6 +8436,10 @@ id_producto,producto,categoria,subcategoria
 229115,OLEO CAPILAR LOREAL LISO 100 ML,Cuidado Personal,Cuidado del Cabello
 229118,PAPEL PERLITA  PREMIUM  MANZANILLA 12 30,Cuidado Personal,Cuidado Familiar
 229119,PAPEL PERLITA PREMIUM DE 50 MTS,Cuidado Personal,Cuidado Familiar
+229143,PACK CR LACTOVIT 250ML Y GEL LACTOUT 300,Cuidado Personal,Cuidado de la Piel
+229144,PACK AROM FLOWERS + CREMA DEPILAT BIK  A,Cuidado Personal,Cuidado de la Piel
+229145,PACK AROM PURE Y CREMA DEPILAT BIKINI  A,Cuidado Personal,Cuidado de la Piel
+229146,PACK ECRAN ESCOTE Y AEROS  F50 250ML,Cuidado Personal,Cuidado de la Piel
 229601,Galletas Bagley Mellizas 108 gr,Abarrotes,Galletas
 229711,Barra Cereales Quinutrion Clasico 140 gr,Abarrotes,Nutrición Infantil
 229714,Barra Cereal Quinutrion Naranja 140 gr,Abarrotes,Nutrición Infantil
@@ -19361,6 +19373,7 @@ id_producto,producto,categoria,subcategoria
 669654,SKIN HAIR OIL COCONUT ACEITE 3 EN 1,Cuidado Personal,Cuidado de la Piel
 669655,SKIN HAIR OIL ARGÁN ACEITE 3 EN 1,Cuidado Personal,Cuidado de la Piel
 669657,SKIN HAIR OIL JOJOBA ACEITE 3 EN 1,Cuidado Personal,Cuidado de la Piel
+669660,BALSAMO LABIAL CLASICO,Cuidado Personal,Cuidado de la Piel
 669670,NEUTROGENA SFRESH 50 OC S COL 6X40ML,Cuidado Personal,Cuidado de la Piel
 669671,NEUTROGENA SFRESH 50 OC COL 2 6X40ML,Cuidado Personal,Cuidado de la Piel
 669672,NEUTROGENA HB GEL CLEAN 6X150ML,Cuidado Personal,Cuidado de la Piel
@@ -19387,6 +19400,7 @@ id_producto,producto,categoria,subcategoria
 669739,OMO PVO BLANCO ABSOLUTO 15X650G,Cuidado del Hogar,Limpieza de la Ropa
 669740,OMO PVO ULTRA POWER 15X650G,Cuidado del Hogar,Limpieza de la Ropa
 669747,PACK 3X2 BOLITAS DE ALGODON SEPTONA 100,Cuidado Personal,Cuidado de la Piel
+669748,PACK NOSOTORAS BUENAS NOCHES 2X8 UN 50%,Cuidado Personal,Cuidado Familiar
 669901,Pizza Hipermaxi Congelada Hawaiana 620 gr,Congelados,Masas y Comidas Congeladas
 669902,Pizza Hipermaxi Congelada Jamon Queso Light Masa Integral,Congelados,Masas y Comidas Congeladas
 669903,Pizza Hipermaxi Congelada Pepperoni 620 gr,Congelados,Masas y Comidas Congeladas
@@ -19844,6 +19858,7 @@ id_producto,producto,categoria,subcategoria
 671787,Salsa Rincon M Picante Ulupica 55 ml,Abarrotes,Aderezos
 671788,Vinagreta Ulupica Rincon Madera 55 ml,Abarrotes,Aderezos
 671789,Pate Rinco Madera Aceituna Negra 140 ml,Abarrotes,Aderezos
+671790,PATE DE ACEITUNAS VERDES RINCON MADERAS,Abarrotes,Aderezos
 671791,Queso Lactear Gouda kg,Lácteos y Derivados,Quesos
 671792,Queso Lactear Tybo kg,Lácteos y Derivados,Quesos
 671793,Queso Cheddar Lactear kg,Lácteos y Derivados,Quesos
@@ -21142,12 +21157,14 @@ id_producto,producto,categoria,subcategoria
 674619,PIPOPANETON HALLOWEEN CALABAZA CAJA UNI,Panadería,Panadería Externa
 674622,SALSA DE QUESO CHEDDAR TORTITACOS 200GRS,Lácteos y Derivados,Quesos
 674623,KEFFIR MELLOR CHIRIMOYA 200ML,Lácteos y Derivados,Yogures
+674624,KEFFIR MELLOR FRUTILLA 200ML,Lácteos y Derivados,Yogures
 674625,KEFFIR MELLOR DURAZNO 200ML,Lácteos y Derivados,Yogures
 674626,KEFFIR MELLOR MORA 200ML,Lácteos y Derivados,Yogures
 674627,KEFFIR MELLOR DURAZNO 1LT,Lácteos y Derivados,Yogures
 674628,KEFFIR MELLOR CHIRIMOYA 1LT,Lácteos y Derivados,Yogures
 674629,KEFFIR MELLOR FRUTILLA 1LT,Lácteos y Derivados,Yogures
 674630,KEFFIR MELLOR COCO 1LT,Lácteos y Derivados,Yogures
+674631,KEFFIR MELLOR MORA 1LT,Lácteos y Derivados,Yogures
 674632,KEFFIR MELLOR VAINILLA 1LT,Lácteos y Derivados,Yogures
 674633,KEFFIR MELLOR DURAZNO 2LTS,Lácteos y Derivados,Yogures
 674634,KEFFIR MELLOR CHIRIMOYA 2LTS,Lácteos y Derivados,Yogures
@@ -21174,6 +21191,9 @@ id_producto,producto,categoria,subcategoria
 674668,ROSCA NAVIDENA LA COLMENA 550 GRAMOS,Pastelería y Masas Típicas,Pastelería Externa
 674669,LECHE CON CAFE VAINILLA PIL CAJA 330ML,Lácteos y Derivados,Leches
 674670,LECHE CON CAFE MOCA PIL 330ML,Lácteos y Derivados,Leches
+674671,ALIMENTO BEBIBLE SOY BANANA PIL 180ML,Lácteos y Derivados,Leches
+674672,ALIMENTO BEBIBLE SOY CHOCOLATE PIL 180ML,Lácteos y Derivados,Leches
+674676,HAMBURGUESA SOYA/QUESO/ALBAHACA NUTRISANO CAJA,Congelados,Carnes Congeladas
 674786,BONDIOLA DE CERDO SOFIA REFRIGERADA A/V KGR,Fiambres,Fiambres Externos
 674787,LOMO DE CERDO SOFIA REFRIGERADO A/V KGR,Fiambres,Fiambres Externos
 674788,LOMITO DE CERDO SOFIA REFRIGERADO A/V KGR,Fiambres,Fiambres Externos
@@ -22018,6 +22038,7 @@ id_producto,producto,categoria,subcategoria
 761322,KEFIR SAB.BANANA FRUTILLA BONTANA 500 ML.,Lácteos y Derivados,Yogures
 761326,YUCA PRECOCIDA CONG.POLAR CORTE CUBOS 1 KG.,Congelados,Masas y Comidas Congeladas
 761328,REQUESON CREMOSO GUARUJA 220 GRS.,Lácteos y Derivados,Quesos
+761332,BUDIN SURTIDO OVOPLUS BOLSA 200 GRS.,Pastelería y Masas Típicas,Pastelería Externa
 761335,Yogurt Bebible Friedland Probiotico Papaya 1 L,Lácteos y Derivados,Yogures
 761337,KEFIR SAB.LIMON VAINILLA BONTANA 500 ML.,Lácteos y Derivados,Yogures
 761348,KEFIR NATURAL BONTANA 1 LT.,Lácteos y Derivados,Yogures
@@ -22036,6 +22057,7 @@ id_producto,producto,categoria,subcategoria
 761436,Yogurt Bebible Friedland Natural Sin Azucar 1 L,Lácteos y Derivados,Yogures
 761437,Alimento Bebible Soya Nordland Chirimoya 950 ml,Lácteos y Derivados,Leches
 761452,MARGARINA CREMA VEGETAL SOYA 250 GRS.,Lácteos y Derivados,Mantequillas y Margarinas
+761454,QUESO CHEDDAR RALLADO LA HOLANDESA 500 GRS.,Lácteos y Derivados,Quesos
 761457,FORTUMILK LECHE NATURAL 900 ML. LA PURITA,Lácteos y Derivados,Leches
 761458,YUCAS PRECOCIDAS CONG.POLAR CORTE BASTON 1 KG.,Congelados,Masas y Comidas Congeladas
 761486,Huevos Aranjuez Economico Subsidio 18 un,Lácteos y Derivados,Huevos
