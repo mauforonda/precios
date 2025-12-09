@@ -2225,6 +2225,7 @@ id_producto,producto,categoria,subcategoria
 27036,PACK 3VINOS KOHLBERG 1 2 3 750ML,Bebidas,Vinos y Champagne
 27037,PACK 3VINOS KOHLBERG 2 3 FUNDADOR,Bebidas,Vinos y Champagne
 27038,GALLETA DULCE NOEL NAVIDAD BSA 200G,Abarrotes,Temporada
+27047,MANTEQ MANI MR NUTS CHOCOL SIN AZUC 360G,Abarrotes,Dietéticos y Saludables
 27052,PACK TUPPER MABEL SURTIDO 9UNID,Abarrotes,Galletas
 27100,MASMELOS TRULULU FRANKI BSA 50G,Abarrotes,Golosinas - Varias
 27101,Marshmallow Trululu Choco Vainilla 50 gr,Abarrotes,Golosinas - Varias
@@ -5857,7 +5858,7 @@ id_producto,producto,categoria,subcategoria
 119396,Ambientador Cono Todo Brillo Floral 190 gr,Cuidado del Hogar,Limpieza de Living y Ropero
 119397,Ambientador Cono Todo Brillo Manzana Canela 190 gr,Cuidado del Hogar,Limpieza de Living y Ropero
 119398,Ambientador Cono Todo Brillo Lavanda 190 gr,Cuidado del Hogar,Limpieza de Living y Ropero
-119427,Pasta Dental Colgate Total Clean Mint 3 un 75 gr,Cuidado Personal,Cuidado Bucal
+119427,Pasta Dental Colgate Total Original Mint 3 un 75 ml,Cuidado Personal,Cuidado Bucal
 119436,Limpiador Sacagrasa Todo Brillo Espuma Activa 5 L,Cuidado del Hogar,Limpieza de Cocina
 119437,Papel Higienico Scott Premium Confort 12 un,Cuidado Personal,Cuidado Familiar
 119438,Toallas Humedas Pequeñin Original 110 un,Cuidado del Bebé,Cuidado del Bebé
@@ -8361,6 +8362,7 @@ id_producto,producto,categoria,subcategoria
 228431,PACK EXCELLENCE 6+ GLYCO 200 ML.,Cuidado Personal,Cuidado del Cabello
 228432,PACK EXCELLENCE 7+ GLYCO 200 ML,Cuidado Personal,Cuidado del Cabello
 228433,PACK EXCELLENCE N5U+ GLYCO 200 ML.,Cuidado Personal,Cuidado del Cabello
+228434,PACK EXCELLENCE 5.1+ GLYCO 200 ML.,Cuidado Personal,Cuidado del Cabello
 228436,PACK EXCELLENCE 4+ GLYCO 200 ML.,Cuidado Personal,Cuidado del Cabello
 228437,PACK EXCELLENCE 1+ GLYCO 200 ML.,Cuidado Personal,Cuidado del Cabello
 228438,"PACK EXCELLENCE 8,1+ GLYCO 200 ML.",Cuidado Personal,Cuidado del Cabello
@@ -15980,7 +15982,7 @@ id_producto,producto,categoria,subcategoria
 617050,Toallas Humedas Pequeñin Acolchamax 40 un,Cuidado del Bebé,Cuidado del Bebé
 617051,Toallas Humedas Pequeñin Acolchamax 80 un,Cuidado del Bebé,Cuidado del Bebé
 617052,Toallas Humedas Pequeñin Pure Skin 80 un,Cuidado del Bebé,Cuidado del Bebé
-617053,Pasta Dental Colgate Total Clean Mint 75 ml,Cuidado Personal,Cuidado Bucal
+617053,Pasta Dental Colgate Total Original Mint 75 ml,Cuidado Personal,Cuidado Bucal
 617059,Repelente Aerosol Fexon 130 gr,Cuidado Personal,Cuidado de la Piel
 617072,Libre Enjuague Downy Floral 800Ml,Cuidado del Hogar,Limpieza de la Ropa
 617073,Libre Enjuague Downy Passion 750 ml,Cuidado del Hogar,Limpieza de la Ropa
@@ -18237,7 +18239,7 @@ id_producto,producto,categoria,subcategoria
 666437,Acondicionador Ballerina Granada 750 ml,Cuidado Personal,Cuidado del Cabello
 666447,Detergente Polvo Bianco Jazmin 5 kg,Cuidado del Hogar,Limpieza de la Ropa
 666448,Detergente Polvo Bianco Orquideas 5 kg,Cuidado del Hogar,Limpieza de la Ropa
-666449,Pasta Dental Colgate Total Clean Mint 150 ml,Cuidado Personal,Cuidado Bucal
+666449,Pasta Dental Colgate Total original Mint 150 ml,Cuidado Personal,Cuidado Bucal
 666451,Desodorante Barra Old Spice Leña 50 gr,Cuidado Personal,Cuidado de la Piel
 666468,Shampoo Ballerina Granada Doypack 750 ml,Cuidado Personal,Cuidado del Cabello
 666481,Virutilla Liquida Brisol 1 L,Cuidado del Hogar,Limpieza de Living y Ropero
@@ -21221,6 +21223,8 @@ id_producto,producto,categoria,subcategoria
 674676,HAMBURGUESA SOYA/QUESO/ALBAHACA NUTRISANO CAJA,Congelados,Carnes Congeladas
 674679,HAMBURGUESA LENTEJA/AVENA NURISANO CAJA,Congelados,Carnes Congeladas
 674683,SUPER BITES CAPUCHINO VALERIE AND ME 30GRS,Congelados,"Helados, Cassattas y Picoleses"
+674684,SUPER BITES CHOCOLATE VALERIE AND ME 30GRS,Congelados,"Helados, Cassattas y Picoleses"
+674686,SUPER BITES COCO VALERIE AND ME 30GRS,Congelados,"Helados, Cassattas y Picoleses"
 674786,BONDIOLA DE CERDO SOFIA REFRIGERADA A/V KGR,Fiambres,Fiambres Externos
 674787,LOMO DE CERDO SOFIA REFRIGERADO A/V KGR,Fiambres,Fiambres Externos
 674788,LOMITO DE CERDO SOFIA REFRIGERADO A/V KGR,Fiambres,Fiambres Externos
@@ -22084,6 +22088,7 @@ id_producto,producto,categoria,subcategoria
 761434,GALLETAS CRICK CRACK PAN DANES  UNID.,Panadería,Panadería Externa
 761436,Yogurt Bebible Friedland Natural Sin Azucar 1 L,Lácteos y Derivados,Yogures
 761437,Alimento Bebible Soya Nordland Chirimoya 950 ml,Lácteos y Derivados,Leches
+761438,QUESO MUZZARELLA RALLADO LA HOLANDESA 500 GRS.,Lácteos y Derivados,Quesos
 761452,MARGARINA CREMA VEGETAL SOYA 250 GRS.,Lácteos y Derivados,Mantequillas y Margarinas
 761454,QUESO CHEDDAR RALLADO LA HOLANDESA 500 GRS.,Lácteos y Derivados,Quesos
 761457,FORTUMILK LECHE NATURAL 900 ML. LA PURITA,Lácteos y Derivados,Leches
@@ -23208,6 +23213,7 @@ id_producto,producto,categoria,subcategoria
 806926,CH 2547 SET PORTATEQUILA HALLOWEN X 5,Bazar Importación,Temporada Halloween
 807497,Vela Envase Diseño religioso 7x9 cm,Bazar Importación,Living y Dormitorio
 807538,Resaltador Stabilo Rosado,Bazar,Librería
+807897,Tazas Colores Surtidos 300 ml,Bazar Importación,Menaje Porcelana/Cerámica
 808002,Chocolate Toblerone 35 gr,Abarrotes,Golosinas - Varias
 808077,Crema Para Cafe Promos 11 oz,Abarrotes,Café y Sucedáneos
 808126,Vino Kohlberg Syrah 750 ml,Bebidas,Vinos y Champagne
