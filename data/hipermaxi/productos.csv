@@ -1503,6 +1503,7 @@ id_producto,producto,categoria,subcategoria
 24024,PACK 3PRIMOGATO BLEND 1 KG,Abarrotes,Mascotas
 24025,Pack 3 Alimento Primocao Cachorro 1 kg,Abarrotes,Mascotas
 24026,PACK 3PRIMOGATO CASTRADOS POLLO 1KG,Abarrotes,Mascotas
+24027,NACHO MEXICAN FOOD PICANTE 180G,Abarrotes,Snack
 24028,Nacho Mexican Food Limon 180 gr,Abarrotes,Snack
 24029,Four Loko Mister Mystery 473 ml,Bebidas,Licores
 24030,Four Loko Miss Mystery 473 ml,Bebidas,Licores
@@ -1697,6 +1698,7 @@ id_producto,producto,categoria,subcategoria
 25088,Gelatina Tomay Piña 230 gr,Abarrotes,Repostería
 25089,CREMA D MANI MR MAD 0 AZUCAR 1KG,Abarrotes,Repostería
 25090,CREMA DE MANI MR MAD TRADICIONAL 1KG,Abarrotes,Repostería
+25091,Mani Mr Mad Tostado con Sal 250 gr,Abarrotes,Snack
 25093,Isotonico Reaktorade Mora Zero Sport 1 L,Bebidas,Isotónicos
 25094,Semilla Girasol Menobol Chile 225 gr,Abarrotes,Snack
 25097,Pack 12 Cerveza Budweiser 269 ml CBN,Bebidas,Cervezas
@@ -7940,11 +7942,15 @@ id_producto,producto,categoria,subcategoria
 224904,Guantes Scotch Brite Cocina Rosado Talla S,Cuidado del Hogar,Productos Americanos
 224917,Salsa Tomate Etti Tradicional 300 gr,Abarrotes,Salsas y Extracto de Tomate
 225010,Licor Cinzano Rosso 950 ml,Bebidas,Licores
+225035,DESODORANTE REVIVE NITRO FORCE 150ML,Cuidado Personal,Cuidado de la Piel
 225037,Dulce de Leche Granja de Oro 250 gr,Lácteos y Derivados,Dulces de Leche y Manjares
 225048,PACK 2 DEO SECRET AT GEL VAINILLA 45G,Cuidado Personal,Cuidado de la Piel
 225049,Shampoo Head Shoulder Manzana 650 ml,Cuidado Personal,Cuidado del Cabello
 225120,Shampoo Head Shoulder Anticaida Cafeina 650 ml,Cuidado Personal,Cuidado del Cabello
 225121,PACK 2 DEO OLDSPICE AT SPRAY EXTREME150M,Cuidado Personal,Cuidado de la Piel
+225133,SHAMPOO REVIVE MEN ANTICASPA  340ML,Cuidado Personal,Cuidado del Cabello
+225135,DESODORANTE REVIVE INVISIBLE COOL 150ML,Cuidado Personal,Cuidado de la Piel
+225136,DESODORANTE REVIVE ORIGINAL SOFT 150ML,Cuidado Personal,Cuidado de la Piel
 225142,Te Lupi Trimate 20 Econo 20 Sobres,Abarrotes,Café y Sucedáneos
 225150,Te Lupi Mate Anis 100 Sobres,Abarrotes,Café y Sucedáneos
 225177,Mate Lupi Boldo Economico 20 un,Abarrotes,Café y Sucedáneos
@@ -13612,7 +13618,7 @@ id_producto,producto,categoria,subcategoria
 550998,Arroz con Leche Sabrosito 200 gr,Abarrotes,Repostería
 550999,Avena Sabrosito con Leche 200 gr,Abarrotes,Nutrición Infantil
 551000,Api Sabrosito de Quinua con Fruta 200 gr,Abarrotes,Café y Sucedáneos
-551001,AJI ROJO SEMI PICANTE SABROSITO 125 GR,Abarrotes,Condimentos y Legumbres
+551001,Aji Rojo Sabrosito Semi Picante 125 gr,Abarrotes,Condimentos y Legumbres
 551002,Aji Amarillo Sabrosito Semi Picante 125 gr,Abarrotes,Condimentos y Legumbres
 551004,Chocolate Valor Stevia Leche Almendra,Abarrotes,Chocolates y Caramelos
 551005,Chocolate Valor Intenso 70 Cacao 100 gr,Abarrotes,Chocolates y Caramelos
@@ -15277,9 +15283,11 @@ id_producto,producto,categoria,subcategoria
 553660,API INSTANTANEO DON TEO VASO 40 GR,Abarrotes,Repostería
 553661,ARROZ CON LECHE INST VASO 40 GR,Abarrotes,Repostería
 553662,PAELLA DE QUINUA DON TEO VASO 40 GR,Abarrotes,Básicos
+553663,BARRA CEREAL BOCATO QUIN AMAR CANAH CHOC,Abarrotes,Nutrición Infantil
 553678,WAFER MARILAN GINGER BREAD 80 GR,Abarrotes,Galletas
 553679,WAFER MARILAN CANDY CANE 80 GR,Abarrotes,Galletas
 553680,PACK 2 JUGO DE LA GRANJA NRJ DRZ 2 LT,Bebidas,"Jugos, Néctar"
+553688,NECTAR PIL LIGHT MANZANA BOT 2 LT,Bebidas,"Jugos, Néctar"
 554333,Cerveza Paceña Lata Roja 473 Cc,Bebidas,Cervezas
 554466,Detergente Liquido Ola Futuro Limpieza Completa 5 L,Cuidado del Hogar,Limpieza de la Ropa
 554468,Suavizante Ropa Ola Suavecito Original 5 L,Cuidado del Hogar,Limpieza de la Ropa
@@ -16465,6 +16473,7 @@ id_producto,producto,categoria,subcategoria
 629838,GALLETA BREXONIC MANT S/AZUC S/GLUTEN 310GR,Abarrotes,Productos Americanos
 629839,Galleta Jumairah Almendra 283 gr,Abarrotes,Productos Americanos
 629840,Galleta Jumairah Arandano 283 gr,Abarrotes,Productos Americanos
+629842,GALLETA AUNT BAKER NAVIDENA BARQUILLO 3 VARIEDADES,Abarrotes,Productos Americanos
 629843,GALLETA AUNT BAKER NAVIDAD ROMPE/CABEZA 198GR,Abarrotes,Productos Americanos
 629845,CAJA DE REGALO CON GALLETA AUNT BAKER 189GR,Abarrotes,Productos Americanos
 629846,GALLETA CASA CON GALLETAS AUNT BAKER 180GR,Abarrotes,Productos Americanos
@@ -17137,6 +17146,7 @@ id_producto,producto,categoria,subcategoria
 654399,Suavizante Ropa Archer Fusion Purpura 2 L,Cuidado del Hogar,Limpieza de la Ropa
 654407,Shampoo Head Shoulders Manzana Fresh 375 ml,Cuidado Personal,Cuidado del Cabello
 654530,Enjuague Bucal Colgate Plax Soft Mint 500 ml,Cuidado Personal,Cuidado Bucal
+654536,AGUA CARBONATADA AGUA CON GAS PERRIER,Bebidas,Bebidas Usa
 654545,Maquina de Afeitar Gillette Prestobarba 3 Ice 4 un,Cuidado Personal,Cuidado de la Piel
 654549,Maquina de Afeitar Gillette Venus 3 2 un,Cuidado Personal,Cuidado de la Piel
 654576,Servilletas Seda Hoja Simple Coctel 500 un,Cuidado Personal,Cuidado Familiar
@@ -18156,6 +18166,7 @@ id_producto,producto,categoria,subcategoria
 662141,Alimento Pedigree Cachorro Carne 85 gr,Abarrotes,Mascotas
 662142,Alimento Whiskas Adulto Pavo 85 gr,Abarrotes,Mascotas
 662145,Alimento Pedigree Adulto Pollo 100 gr,Abarrotes,Mascotas
+664527,TARTA RELLENA INDIVIDUAL SIN GLASEADO CON RELLENO SABOR CANE,Abarrotes,Productos Americanos
 664825,Paneton Hipermaxi Chips Chocolate 600 gr,Panadería,Panadería Hipermaxi
 664826,Budin de Chocolate con Gotas Hipermaxi 250 gr,Pastelería y Masas Típicas,Pastelería Hipermaxi
 664829,Budin Marmolado Hipermaxi 250 gr,Pastelería y Masas Típicas,Pastelería Hipermaxi
@@ -21233,6 +21244,7 @@ id_producto,producto,categoria,subcategoria
 674675,HAMBURGUESA DE GARBANZO/CHAMPI¤ONES NUTRISANO CAJA,Congelados,Carnes Congeladas
 674676,HAMBURGUESA SOYA/QUESO/ALBAHACA NUTRISANO CAJA,Congelados,Carnes Congeladas
 674679,HAMBURGUESA LENTEJA/AVENA NURISANO CAJA,Congelados,Carnes Congeladas
+674682,SUPER BITES LECHE CONDENSADA VALERIE AND ME 30GRS,Congelados,"Helados, Cassattas y Picoleses"
 674683,SUPER BITES CAPUCHINO VALERIE AND ME 30GRS,Congelados,"Helados, Cassattas y Picoleses"
 674684,SUPER BITES CHOCOLATE VALERIE AND ME 30GRS,Congelados,"Helados, Cassattas y Picoleses"
 674686,SUPER BITES COCO VALERIE AND ME 30GRS,Congelados,"Helados, Cassattas y Picoleses"
@@ -22174,6 +22186,7 @@ id_producto,producto,categoria,subcategoria
 763716,JUGOS LACTEOS LA PURITA 210 ML.SABORES SURTIDOS,Lácteos y Derivados,Leches
 763724,BEBIDA LACTEA PURI FRUTS MANZANA 900 ML.,Lácteos y Derivados,Leches
 763747,BEBIDA LACTEA PURI FRUTS DURAZNO 900 ML.,Lácteos y Derivados,Leches
+763752,PAN CON AJO CLASICO MIL SABORES X5 UNID.,Panadería,Panadería Externa
 763762,Galleta Chatitas Saborizada La Delicia,Panadería,Panadería Externa
 763855,Alimento Knino Adulto Mediana Grande 10 kg,Abarrotes,Mascotas
 763897,Huevos Avicola Paurito Medianos 60 un,Lácteos y Derivados,Huevos
