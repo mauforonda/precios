@@ -1,0 +1,411 @@
+﻿codigo;bbyss;ponderador
+1;Alimentos y Bebidas No Alcohólicas;27,06
+1110101;Pan corriente;1,94
+1110102;Pan especial;0,23
+1110103;Galletas;0,49
+1110201;Panetón;0,08
+1110203;Torta;0,2
+1110204;Empanada al horno;0,19
+1110213;Queques;0,04
+1110214;Llauchas;0,03
+1110216;Cuñapé;0,06
+1110221;Productos de panadería y pastelería frita;0,1
+1110301;Arroz;0,75
+1110302;Maíz;0,04
+1110306;Quinua;0
+1110401;Harina de trigo;0,14
+1110502;Preparados obtenidos por hinchamiento, tostado o extrusión de cereales;0,23
+1110505;Avena procesada;0,01
+1110601;Fideo;0,49
+1120101;Carne de res con hueso;1,23
+1120102;Carne de res sin hueso;4,12
+1120104;Hueso de res;0,14
+1120201;Carne fresca de ganado porcino entero o cortes especiales;0,18
+1120301;Carne fresca de ganado ovino por piezas (cordero);0,07
+1120501;Carne de llama;0,01
+1120601;Carne de pollo;2,08
+1120801;Hígado/riñón/corazón/pulmón;0,14
+1120803;Panza/libro/tripas;0,02
+1120899;Otros despojos comestibles de animales;0,05
+1120901;Carnes secas/charque/chalona;0,01
+1121001;Carnes frías/mortadela;0,1
+1121004;Chorizos;0,07
+1121007;Salchichas;0,11
+1121010;Picadillo;0
+1121101;Milanesas/ hamburguesas y silpanchos preparados;0,01
+1130101;Pescados frescos;0,23
+1130105;Pescados y alimentos marinos en conserva frescos o procesados;0,08
+1140101;Leche natural;0,05
+1140102;Leche pasteurizada;0,99
+1140103;Leche en polvo;0,35
+1140104;Leche evaporada;0,03
+1140107;Yogur;0,18
+1140108;Otros productos lácteos;0,18
+1140201;Quesos y cuajada;0,57
+1140301;Productos lácteos no de leche de vaca;0,04
+1140401;Huevos y productos derivados preparados íntegramente con huevos;0,53
+1150101;Aceite comestible/aceite a granel;0,36
+1150201;Mantequilla y margarina;0,26
+1160121;Durazno;0
+1160141;Limón;0,01
+1160145;Mandarina;0,07
+1160147;Manzana;0,4
+1160155;Naranja;0,05
+1160162;Palta;0,09
+1160163;Papaya;0,06
+1160164;Pera;0
+1160166;Piña;0,03
+1160169;Plátano/guineo/banano/banana;0,62
+1160170;Sandía;0,12
+1160176;Uva;0,19
+1160185;Plátano/postre para cocinar;0,17
+1170101;Acelga;0,02
+1170102;Achojcha;0,02
+1170103;Ají;0
+1170104;Ajo;0
+1170107;Apio;0,03
+1170110;Betarraga/remolacha;0,01
+1170111;Brócoli;0,02
+1170112;Cebolla;0,44
+1170113;Choclo;0,1
+1170117;Espinaca;0,02
+1170120;Lechuga;0,11
+1170121;Locoto;0,05
+1170122;Nabo;0,03
+1170123;Pepino y pepinillo;0,04
+1170124;Perejil;0,03
+1170125;Pimentón/morrón;0,1
+1170128;Repollo;0,02
+1170129;Tomate;0,53
+1170132;Zanahoria;0,34
+1170133;Zapallo/joco/ancu/iscariote;0,09
+1170134;Arveja verde;0,2
+1170135;Haba verde;0,16
+1170136;Vainita;0,07
+1170137;Conjunto de verduras picadas/surtido de legumbres en bolsa;0,01
+1170201;Papa;0,69
+1170208;Yuca/mandioca;0,04
+1170301;Frejol/poroto;0
+1170303;Lenteja;0
+1170401;Tubérculos secos;0,05
+1170402;Tubérculos en conserva;0,07
+1170404;Otros productos a base de tubérculos;0
+1170502;Maní;0,01
+1180101;Azúcar;0,37
+1180201;Mermeladas y dulces;0,01
+1180401;Chocolates;0,06
+1180402;Caramelos/dulces;0,06
+1180403;Goma de mascar/chicle;0,04
+1180502;Helado;0,35
+1190101;Sal;0,05
+1190102;Especias, salsas, condimentos, aderezos y similares;0,41
+1190202;Extractos de jugos de carne, sopas y caldos;0,21
+1190203;Concentrados artificiales para preparar bebidas saborizadas;0,02
+1199901;Otros productos alimenticios n.e.p.;0,05
+1210101;Café;0,15
+1210201;Té;0,04
+1210203;Hojas de coca para mate;0,04
+1210288;Hierbas naturales (coca, manzanilla, eucalipto, boldo, cedrón, etc.);0,02
+1210302;Polvos a base de chocolate (alimentos achocolatados);0,1
+1220102;Agua natural envasada;0,26
+1220201;Bebidas gaseosas;2,05
+1220301;Jugos de fruta envasados;0,31
+1220401;Polvos para preparar refrescos o jugos;0
+1220501;Bebidas energizantes y deportivas;0,08
+1220601;Otras bebidas no alcohólicas;0,01
+2;Bebidas Alcohólicas y Tabaco ;0,88
+2110102;Singani;0,01
+2110103;Whisky;0,02
+2110113;Aperitivos a base de bebidas destiladas;0,01
+2120101;Vino;0,09
+2120102;Champagne/sidra;0,01
+2130101;Cerveza;0,65
+2200101;Cigarrillos;0,09
+3;Prendas de Vestir y Calzado;7,56
+3110101;Telas para confeccionar prendas de vestir;0,03
+3120101;Chompas/jerseys/suéteres;0,24
+3120102;Poleras y camisetas de vestir;0,44
+3120103;Abrigos/ impermeables/ chaquetones;0,04
+3120104;Trajes y ternos;0,26
+3120105;Conjuntos de piezas;0
+3120106;Sacos/chaqueta (tela, paño);0
+3120107;Pantalones jeans;0,98
+3120108;Vestidos;0,18
+3120109;Faldas/faldas-pantalón;0,05
+3120110;Camisas;0,25
+3120111;Blusas/camisas;0,25
+3120112;Prendas de vestir de cuero;0,04
+3120114;Manta/mantilla de vestir;0,09
+3120116;Uniformes escolares;0,2
+3120119;Chamarra;0,34
+3120122;Calza de vestir;0,08
+3120123;Confección de prendas de vestir a medida;0,04
+3120129;Polleras;0,18
+3120130;Pantalones de tela;0,2
+3120201;Conjunto de buzo deportivo;0,32
+3120202;Buzo o chaqueta deportiva suelta;0,05
+3120203;Pantalón corto (short deportivo);0,02
+3120204;Polera deportiva;0,02
+3120301;Medias;0,01
+3120305;Brasier/sostén;0,14
+3120306;Combinaciones/enaguas;0,03
+3120388;Calzoncillo/calzón  (hombre/mujer);0,25
+3120389;Calzoncillo/calzón  (niño/niña);0,06
+3120390;Calcetines/medias/sockets (hombre/mujer);0,12
+3120391;Calcetines/medias/sockets (niño/niña);0,04
+3120402;Camisones y pijamas;0,02
+3120501;Prendas de vestir para bebé;0,04
+3130101;Accesorios del vestir;0,06
+3130102;Sombreros y gorros de todo tipo;0,07
+3130201;Otros artículos relacionados con la confección de prendas de vestir;0,03
+3140301;Alquiler de prendas de vestir;0,03
+3210101;Calzados y sandalias de vestir para adultos;1,01
+3210102;Calzados y sandalias de vestir para niños y bebés;0,32
+3210103;Calzados deportivos;0,76
+3210104;Otros calzados y artículos análogos;0,25
+3220101;Reparación de calzados;0,01
+4;Vivienda y Servicios Básicos;8,56
+4110101;Alquiler de la vivienda;3,09
+4310104;Cemento gris portland;0,33
+4310106;Vidrio cristal para ventana;0,06
+4310110;Pintura;0,03
+4310114;Cerámica/porcelanato/azulejo;0,04
+4310119;Ladrillo;0,37
+4310188;Cal/estuco;0
+4320101;Servicio de albañilería;0,61
+4410101;Servicio de suministro de agua potable;1,04
+4440301;Gastos de administración y mantenimiento de edificios;0,07
+4510101;Servicio de suministro de energía eléctrica;2,38
+4520101;Servicio de suministro de gas natural por red;0,12
+4520201;Gas Licuado de Petróleo (GLP) en garrafa;0,42
+4520202;Garrafa de gas vacía;0
+5;Muebles, Bienes y Servicios Domésticos;6,08
+5110106;Cama/catre/cuja;0,19
+5110112;Juego de comedor;0,07
+5110113;Juego de dormitorio;0,07
+5110114;Juego de living;0,15
+5110115;Mesa;0,02
+5110120;Ropero;0,28
+5110188;Peinador/cómoda;0
+5110190;Vitrina/estante;0,01
+5110201;Colchón;0,37
+5110408;Velas/cirios;0,01
+5200101;Cortinas;0,03
+5200203;Hamaca;0
+5200204;Juego de sábanas/sábanas;0,08
+5200206;Mantas de viaje/frazadas de viaje;0,07
+5200210;Mosquiteros;0
+5200288;Colcha/cubrecama/edredón;0,12
+5200304;Toallas;0,07
+5310188;Refrigerador/freezer/congeladora;0,38
+5310288;Lavadora y/o secadora de ropa;0,19
+5310304;Cocina a gas;0,23
+5310305;Horno a gas;0,02
+5310306;Horno microondas;0,01
+5310505;Ventilador;0,03
+5320188;Batidora/ licuadora/ sumidora/ exprimidora, etc.;0,09
+5400101;Jarra;0,02
+5400104;Vaso / copa;0,02
+5400105;Vajilla completa (porcelana, cerámica);0
+5400188;Tazas (plástico, porcelana, cerámica, peltre, vidrio);0
+5400288;Platos (plástico, porcelana, cerámica, peltre, vidrio);0
+5400301;Ollas/cacerolas;0,15
+5400303;Olla a presión;0
+5400403;Balde/bañador/bañera;0,03
+5520305;Foco /bombilla tradicional;0,01
+5520306;Focos fluorescentes (tubos, focos ahorradores, focos led);0,08
+5520320;Cargador de celular;0,01
+5520321;Control remoto para TV, DVD y otros;0
+5520323;Audífonos para celular;0,01
+5520388;Pilas (tradicionales, alcalinas, recargables);0,03
+5610102;Ambientador;0,09
+5610109;Desinfectantes;0,02
+5610111;Insecticida;0,06
+5610112;Jabón;0,19
+5610113;Lavandina;0,12
+5610118;Detergente para lavar ropa;0,81
+5610119;Detergente líquido saca grasa;0,08
+5610120;Suavizante de ropa;0,03
+5610188;Detergentes para lavar vidrio/porcelana/vajilla;0,19
+5610201;Cepillos de ropa/de limpieza/de calzado;0,01
+5610202;Escoba;0,07
+5610203;Esponjas para lavar vajilla;0,07
+5610288;Trapeador o goma para arrastrar agua;0,01
+5610303;Servilletas de papel/papel absorbente;0,01
+5610415;Fósforo;0,07
+5610416;Guantes de goma;0,05
+5610488;Bolsas para basura/bolsas plásticas;0,05
+5620101;Empleada doméstica;1,14
+5620108;Niñera;0,1
+5620110;Lavandera;0,05
+6;Salud;3,55
+6110101;Antiinfeccioso/antibiótico/antiséptico y antiviral;0,14
+6110102;Analgésicos/antigripales/antiespasmódicos;0,42
+6110103;Medicamento para el aparato digestivo/estómago;0,09
+6110105;Vitamínico tonificante;0,03
+6110106;Antiinflamatorios;0,12
+6110108;Medicamento para el corazón;0,04
+6110116;Medicamento para la diabetes;0,09
+6110122;Medicamento para el reumatismo y artritis;0
+6110125;Ungüentos/pomadas;0,03
+6110126;Jarabes/brebajes;0,26
+6110145;Bicarbonato de sodio;0,01
+6110164;Medicamentos tradicionales/naturales;0,07
+6110166;Para la presión arterial (antihipertensivos);0,13
+6110167;Para la fiebre (antipiréticos);0,04
+6120104;Botiquín de primeros auxilios;0,09
+6130101;Anteojos de corrección;0,18
+6130107;Dentadura postiza/dientes artificiales;0,04
+6210101;Consulta médica general;0,2
+6210102;Consulta oftalmólogo;0,05
+6210105;Otras consultas especializadas;0,18
+6220101;Servicio de dentista (extracción, curación);0,54
+6230101;Laboratorios clínicos;0,22
+6230102;Diagnóstico por imagen;0,17
+6300101;Servicio completo de hospitalización;0,39
+7;Transporte;9,07
+7110188;Vehículo;0,48
+7120101;Motocicleta;0,15
+7210101;Llanta/ cámara de caucho;0,09
+7220101;Gasolina;1,27
+7220103;Gas Natural Vehicular (GNV);0,1
+7230107;Servicio de cambio de aceite y filtros;0,22
+7230108;Servicio de lavado de vehículos/ engrasado/ fumigado;0,11
+7230109;Servicio de parchado de llantas y aire;0
+7230189;Servicio global de mantenimiento de vehículo (mediano, grande);0,13
+7240188;Servicio de estacionamiento/garaje;0,05
+7320101;Transporte en trufi;0,45
+7320102;Transporte en minibús;2,38
+7320103;Transporte en micro, bus o colectivo;1,55
+7320201;Transporte en taxi;1,31
+7320202;Transporte en mototaxi;0,1
+7320203;Transporte en radiotaxi;0,08
+7320301;Transporte interdepartamental en ómnibus/flota;0,17
+7320302;Transporte interprovincial en ómnibus/flota;0,1
+7320401;Transporte escolar;0,06
+7320601;Transporte terrestre internacional;0,08
+7320801;Transporte de teleférico urbano y suburbano;0,04
+7330101;Transporte en avión interdepartamental;0,08
+7330102;Transporte en avión internacional;0,07
+8;Comunicaciones;5,43
+8200102;Aparato telefónico móvil/celular;0,91
+8300201;Servicio de telefonía fija facturada;0,32
+8300302;Tarjetas para teléfono móvil y fijo;2,73
+8300388;Teléfono móvil (llamadas facturadas, planes de pago - post pago);0,8
+8300402;Servicio de Internet a domicilio;0,4
+8300601;Servicio de Internet público;0,06
+8300801;Paquete integrado de Tecnología de Información y Comunicación  (TIC);0,22
+9;Recreación y Cultura;6,22
+9110101;Televisor;0,84
+9110288;Minicomponente o equipo de sonido;0,08
+9120101;Cámara fotográfica/digital;0
+9130188;Computadora/laptop/tablet/impresora/escáner/impresora  multifuncional;0,25
+9140107;CD/ DVD/ videos/Blue-Ray (pregrabados de música y películas);0,36
+9140188;Pen drive/USB, CD o DVD en blanco;0
+9310103;Triciclos;0,03
+9310188;Juegos y juguetes;0,2
+9320101;Pelotas/balones deportivos;0,02
+9340201;Alimentos para animales domésticos;0,1
+9350101;Servicios de veterinaria;0,07
+9410102;Piscina;0,11
+9410110;Servicio de gimnasios;0,18
+9410111;Entrada a ferias y parques de diversión;0,01
+9410188;Alquiler de canchas (fútbol, fulbito, wally, etc.);0,04
+9420188;Entradas de cine y teatro;0,44
+9420301;Servicio de televisión por cable - satelital;1,15
+9420407;Alquiler de local para fiestas o festejos (sólo el local o con servicio completo);0
+9510101;Libros de instrucción escolar y universitaria;0,59
+9510188;Atlas/diccionarios/enciclopedias;0,01
+9520102;Revistas;0
+9540188;Productos de papelería (hojas resma, papel bond, cuaderno, etc.);1,25
+9540189;Material de escritorio y/o escolar (gomas, lápices, bolígrafos, etc.);0,47
+10;Educación;4,07
+10100102;Educación preescolar/prekínder/kínder;0,18
+10100103;Educación primaria;0,63
+10200101;Educación secundaria;0,81
+10300101;Educación en carreras cortas en institutos;0,12
+10400101;Educación superior universitaria;1,3
+10400103;Educación superior post universitaria/diplomado;0,06
+10400104;Educación superior post universitaria/maestría;0,23
+10400107;Matricula educación superior universitaria;0,19
+10500102;Enseñanza de idiomas;0,18
+10500103;Escuelas deportivas;0,15
+10500116;"Capacitación  en temas de informática, para adquirir habilidades  y técnicas
+(ensamblaje, ofimática)";0,12
+10500188;Cursos de música/canto/baile/danza;0,12
+11;Alimentos y Bebidas Consumidos Fuera del Hogar;13,95
+11110101;Almuerzo;5,73
+11110102;Cena;0,45
+11110201;Plato a base de pescado;0,2
+11110204;Churrasco;0,06
+11110205;Chicharrón;0,47
+11110208;Expendio de otro plato extra/especial;2,17
+11110309;Pollo al espiedo/brasa;1,38
+11110310;Api, tojorí, tujuré con o sin buñuelo, pastel, etc.;0,04
+11110311;Pizza;0,16
+11110312;Salteña;0,5
+11110313;Tucumana/empanada  frita;0,24
+11110314;Sándwich;0,12
+11110315;Hamburguesa;0,29
+11110316;Hot dog/panchos;0,02
+11110317;Salchipapas;0,14
+11110318;Asaditos;0,03
+11110320;Sopa de fideo;0,04
+11110321;Anticuchos;0,01
+11110322;Rellenos;0,08
+11110323;Jugo de quinua, avena con leche, arroz con leche y otros similares;0
+11110401;Desayuno;0,38
+11110502;Humintas/tamales;0
+11110701;Cerveza;0,18
+11110702;Chicha;0,02
+11110801;Gaseosa;0,51
+11110802;Jugo de vegetales/frutas;0,28
+11110803;Chicha no alcohólica;0
+11110806;Batidos;0,02
+11110807;Refrescos hervidos no alcohólicos;0,31
+11110811;Ensalada de frutas;0,05
+11110812;Helado;0,06
+12;Bienes y Servicios Diversos;7,55
+12110101;Corte de cabello y/o peinado;0,66
+12110102;Servicio de salón de belleza;0,09
+12110103;Manicura /pedicura;0,08
+12110201;Sauna;0,07
+12110204;Ducha pública;0,02
+12110205;Baño publico;0,06
+12130106;Máquinas de afeitar/rasurar (metálica o descartable);0,17
+12130110;Cepillo de dientes;0,17
+12130188;Peine, cepillo para cabello;0,01
+12130201;Champú en frasco;0,63
+12130202;Champú en cojines/sachet;0,09
+12130204;Crema de enjuague capilar;0,17
+12130207;Pasta dental;0,38
+12130209;Enjuague bucal;0,04
+12130212;Jabón de tocador/jaboncillo;0,28
+12130301;Fijador de cabello;0,02
+12130303;Crema para la piel (manos y/o cuerpo);0,21
+12130304;Productos de maquillaje para el rostro;0,14
+12130305;Desodorante/antitranspirante;0,42
+12130306;Perfume/colonia/loción;1,08
+12130307;Protector solar/bronceadores;0,15
+12130308;Esmalte para uñas (cutex)/quitaesmalte;0
+12130310;Crema para el rostro;0,16
+12130403;Papel higiénico;0,72
+12130404;Toallas sanitarias/higiénicas;0,24
+12130406;Pañuelos y toallas de papel;0,01
+12130407;Pañales desechables para bebé;0,61
+12130409;Toallitas húmedas;0,07
+12320107;Mochila;0,24
+12320111;Fundas para celular/portacelular;0,01
+12320401;Lentes y/o gafas de sol;0,03
+12320403;Paraguas;0,01
+12320602;Artículos para cultura y costumbres;0,01
+12400107;Servicio de guarderías;0,11
+12530101;Seguro relacionado con la salud;0,07
+12540101;Seguro relacionado con el transporte;0,09
+12700101;Servicios de asesoramiento jurídico;0,05
+12700103;Gastos en pompas fúnebres y en otros servicios de funerales;0,04
+12700105;Pago por fotocopias y otras reproducciones de documentos;0,06
+12700106;Emisión de certificados;0,04
+12700108;Roseta de inspección vehicular;0,01
+12700110;Cédula de Identidad (CI)/pasaporte;0,02
+12700113;Servicios religiosos;0
