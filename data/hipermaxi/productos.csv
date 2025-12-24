@@ -2232,6 +2232,7 @@ id_producto,producto,categoria,subcategoria
 27023,MARSMALLOWS CRISMELOS MINICOLOR 240G,Abarrotes,Chocolates y Caramelos
 27024,Energizante Alpha Berries 695 ml,Bebidas,Energizantes
 27028,"ZYN COOL MINT MINI 1,5MG						 						",Bebidas,Cigarrillos
+27029,ZYN COOL MINT MINI 3MG						 						,Bebidas,Cigarrillos
 27034,ACEITUNA ZAELI RELL PIMIENTO FCO 550G,Abarrotes,Verduras en Conserva
 27035,PACK 2VINO KOHLBERG FUNDADOR 750ML,Bebidas,Vinos y Champagne
 27036,PACK 3VINOS KOHLBERG 1 2 3 750ML,Bebidas,Vinos y Champagne
@@ -2262,6 +2263,7 @@ id_producto,producto,categoria,subcategoria
 27078,ENERGIZANTE BALY SANDIA LTA 250ML,Bebidas,Energizantes
 27079,ENERGIZANTE BALY CHAMPAN LTA 250ML,Bebidas,Energizantes
 27080,ENERGIZANTE BALY FRUTOS TROPICAL 250ML,Bebidas,Energizantes
+27092,CAFE MOLIDO CEYLAN BSA 50G,Abarrotes,Café y Sucedáneos
 27093,CAFE MOLIDO CEYLAN BSA 250G,Abarrotes,Café y Sucedáneos
 27094,CAFE MOLIDO CEYLAN BSA 500G,Abarrotes,Café y Sucedáneos
 27100,MASMELOS TRULULU FRANKI BSA 50G,Abarrotes,Golosinas - Varias
@@ -2291,6 +2293,7 @@ id_producto,producto,categoria,subcategoria
 29022,Edulcorante Splenda Original 25 Sobres,Abarrotes,Dietéticos y Saludables
 29023,Galleta Cofler Relleno Chocolate 85 gr,Abarrotes,Galletas
 29024,Cafe Baggio Gourmet Molido Espresso 250 gr,Abarrotes,Café y Sucedáneos
+29025,Vodka Taiga Platinum 1 L,Bebidas,Licores
 29026,Cafe Baggio Gourmet Molido Bourbon 250 gr,Abarrotes,Café y Sucedáneos
 29029,Pack 30 Sobres Caldo de Costilla Kris + Jarra,Abarrotes,Básicos
 29040,Pack 30 Sobres Caldo de Gallina Kris + Jarra,Abarrotes,Básicos
@@ -8015,6 +8018,11 @@ id_producto,producto,categoria,subcategoria
 225150,Te Lupi Mate Anis 100 Sobres,Abarrotes,Café y Sucedáneos
 225151,DETERGENTE GIRANDO SOL COCO VAINILLA 1.6,Cuidado del Hogar,Limpieza de la Ropa
 225152,DETERGENTE GIRANDO SOL COCO VAINILLA 4 K,Cuidado del Hogar,Limpieza de la Ropa
+225155,ELVIVE SHAMPOO 680ML GLYCO CRYSTAL,Cuidado Personal,Cuidado del Cabello
+225156,ELVIVE ACONDIC 680ML GLYCO CRYSTAL,Cuidado Personal,Cuidado del Cabello
+225157,ELVIVE ACONDIC  370ML GLYCO CRYSTAL,Cuidado Personal,Cuidado del Cabello
+225158,ELVIVE SHAMPOO 370ML GLYCO CRYSTAL,Cuidado Personal,Cuidado del Cabello
+225159,MASCARA ELVIVE TRAT GLYCO CRYSTAL 300GR,Cuidado Personal,Cuidado del Cabello
 225177,Mate Lupi Boldo Economico 20 un,Abarrotes,Café y Sucedáneos
 225185,Te Lupi Mate Manzanilla Economico 20 Sobres,Abarrotes,Café y Sucedáneos
 225193,Mate Lupi Anis Economico 20 un,Abarrotes,Café y Sucedáneos
@@ -8508,6 +8516,7 @@ id_producto,producto,categoria,subcategoria
 229035,TRIPACK LADY FREE NOCT MANZ - ALOE Y GEL,Cuidado Personal,Cuidado Familiar
 229036,TRIPACK LADY FREE NOCT TELA ALOE Y GELX1,Cuidado Personal,Cuidado Familiar
 229037,VASELINA PETROLEUM JELLY ALOE VERA 227GR,Cuidado del Bebé,Cuidado del Bebé
+229038,VASELINA PETROLEUM JELLY COCOA BUTHER 22,Cuidado del Bebé,Cuidado del Bebé
 229039,ACEITE BABY OIL CARE STUDIO ROSA 192 ML,Cuidado del Bebé,Cuidado del Bebé
 229042,JABON LUXO LEITE DE ROSA 90 GR,Cuidado del Hogar,Productos Americanos
 229043,ESPIRA MOSQUITO DEYMAS 160 GR,Cuidado del Hogar,Insecticidas
@@ -12979,6 +12988,7 @@ id_producto,producto,categoria,subcategoria
 500284,TOMATE HELIOS NATURAL  TRITURADO 570 GR,Abarrotes,Productos Importados
 500289,TOMATE HELIOS FRITO  MEDITERRANEO 560 GR,Abarrotes,Productos Importados
 500292,TOMATE HELIOS FRITO  TRADICIONAL 570 GR,Abarrotes,Productos Importados
+500293,TOMATE HELIOS FRITO  MEDITERRANEO 300 GR,Abarrotes,Productos Importados
 500364,Cafe Buena Vista Tostado Europeo 250 gr,Abarrotes,Café y Sucedáneos
 500372,Cafe Buena Vista Tostado Americano 250 gr,Abarrotes,Café y Sucedáneos
 500771,CHICLE BELDENT FUERTE NEGRO 10 G,Abarrotes,Golosinas - Varias
@@ -15533,6 +15543,7 @@ id_producto,producto,categoria,subcategoria
 553682,ESPUMANTE SALENTEIN BRUT NATURE 750 ML,Bebidas,Vinos y Champagne
 553683,ESPUMANTE SALENTEIN EXTRA BRUT 750 ML,Bebidas,Vinos y Champagne
 553684,ESPUMANTE SALENTEIN BLANC DE BLANCS 750,Bebidas,Vinos y Champagne
+553686,CHOCOLATES SURTIDOS PARA TI CJA  360 GR,Abarrotes,Chocolates y Caramelos
 553687,NECTAR PIL LIGHT DURAZNO BOT 2 LT,Bebidas,"Jugos, Néctar"
 553688,NECTAR PIL LIGHT MANZANA BOT 2 LT,Bebidas,"Jugos, Néctar"
 553689,VINO ESPUMANTE BURBUSHH TTO BOT 355ML,Bebidas,Vinos y Champagne
@@ -15542,6 +15553,7 @@ id_producto,producto,categoria,subcategoria
 553693,GALLETAS ARTESANALES BREICK LATA  147 GR,Abarrotes,Temporada
 553703,REGALIZ FRAMBUESA ACIDOS FINI 27 GR,Abarrotes,Golosinas - Varias
 553705,GALLETAS MANTEQUILLA INFINITAS LTA 113 GR,Abarrotes,Productos Americanos
+553707,GALLETAS SANDWICH INFINITAS 130 GR,Abarrotes,Productos Americanos
 553710,CLAVOS DE OLOR MOLIDO BADIA 340 GR,Abarrotes,Productos Americanos
 553712,PIMIENTA ROJA NANCY LEE 42.5 GR,Abarrotes,Productos Americanos
 553714,GASEOSA DR PEPPER CREAM SODA LTA 355 ML,Bebidas,Bebidas Usa
@@ -20362,6 +20374,7 @@ id_producto,producto,categoria,subcategoria
 672115,Salame de Llama Kami 100 gr,Fiambres,Fiambres Externos
 672117,Uva Blanca Criolla 1 Kg,Frutas y Verduras,Frutas
 672118,Embutido de Llama Tipo Salame Kami kg,Fiambres,Fiambres Externos
+672121,503013 COCHINILLO TIPO SEGOVIANO SOFIA KILOGRAMO,Congelados,Carnes Congeladas
 672127,Papa Simplot Congeladas Tradicional 2500 gr,Congelados,Masas y Comidas Congeladas
 672140,Queso Mozzarella La Serenisima 220 gr,Lácteos y Derivados,Quesos
 672155,Jamon Tipo Serrano Sierra Nevada Ahumado 100 gr,Fiambres,Fiambres Externos
