@@ -2236,6 +2236,7 @@ id_producto,producto,categoria,subcategoria
 27025,"ZYN BLACK CHERRY MINI 1,5MG						 					",Bebidas,Cigarrillos
 27028,"ZYN COOL MINT MINI 1,5MG						 						",Bebidas,Cigarrillos
 27029,ZYN COOL MINT MINI 3MG						 						,Bebidas,Cigarrillos
+27030,ZYN COOL MINT MINI 6MG						 						,Bebidas,Cigarrillos
 27034,ACEITUNA ZAELI RELL PIMIENTO FCO 550G,Abarrotes,Verduras en Conserva
 27035,PACK 2VINO KOHLBERG FUNDADOR 750ML,Bebidas,Vinos y Champagne
 27036,PACK 3VINOS KOHLBERG 1 2 3 750ML,Bebidas,Vinos y Champagne
@@ -2269,7 +2270,9 @@ id_producto,producto,categoria,subcategoria
 27092,CAFE MOLIDO CEYLAN BSA 50G,Abarrotes,Café y Sucedáneos
 27093,CAFE MOLIDO CEYLAN BSA 250G,Abarrotes,Café y Sucedáneos
 27094,CAFE MOLIDO CEYLAN BSA 500G,Abarrotes,Café y Sucedáneos
+27096,MOSTAZA DIJON MAGIC TIME ORIGINAL 12 OZ,Abarrotes,Aderezos
 27098,ARROZ GOYA CURRY CJA 7 OZ,Abarrotes,Básicos
+27099,ACEITE MAGIC TIME A OLIVA SPRAY 5 OZ,Abarrotes,Básicos
 27100,MASMELOS TRULULU FRANKI BSA 50G,Abarrotes,Golosinas - Varias
 27101,Marshmallow Trululu Choco Vainilla 50 gr,Abarrotes,Golosinas - Varias
 27102,Chocolate Bianchi Choco Mani 50 gr,Abarrotes,Golosinas - Varias
@@ -14879,7 +14882,7 @@ id_producto,producto,categoria,subcategoria
 552813,Galleta Princesa Ricositas 700 gr,Abarrotes,Galletas
 552814,Galleta La Suprema Avena Miel Canela,Abarrotes,Galletas
 552815,VINO ROSADO APALTAGUA GRAN VERANO ROSADO,Bebidas,Vinos y Champagne
-552816,VINO ROSE APALTAGUA CARMENERE RESERVA 75,Bebidas,Vinos y Champagne
+552816,Vino Rose Apaltagua Carmenere Reserva 750 ml,Bebidas,Vinos y Champagne
 552817,Vino Blanco Apaltagua Reserva Chardonay,Bebidas,Vinos y Champagne
 552818,Vino Blanco Apaltagua Gran Verano Chardonay,Bebidas,Vinos y Champagne
 552819,VINO BCO PUESTO DEL MARQUES  TORRONTES 7,Bebidas,Vinos y Champagne
@@ -15572,6 +15575,7 @@ id_producto,producto,categoria,subcategoria
 553691,RON ABUELO ANEJO BLANCO 1000 ML.,Bebidas,Licores
 553692,RON ABUELO ANEJO BLANCO 750ML.,Bebidas,Licores
 553693,GALLETAS ARTESANALES BREICK LATA  147 GR,Abarrotes,Temporada
+553694,GRANOLA CROCANTE ANA 250 GR,Abarrotes,Nutrición Infantil
 553703,REGALIZ FRAMBUESA ACIDOS FINI 27 GR,Abarrotes,Golosinas - Varias
 553705,GALLETAS MANTEQUILLA INFINITAS LTA 113 GR,Abarrotes,Productos Americanos
 553707,GALLETAS SANDWICH INFINITAS 130 GR,Abarrotes,Productos Americanos
@@ -21670,6 +21674,7 @@ id_producto,producto,categoria,subcategoria
 674690,POSTRE HELADO SANGRIA DELIZIA 200ML,Congelados,"Helados, Cassattas y Picoleses"
 674694,PIERNA DE CERDO SOFIA DESHUESADA C/CUERO 1KGR,Congelados,Carnes Congeladas
 674695,PIERNA DE CERDO SOFIA DESHUESADA C/CUERO 2KGR,Congelados,Carnes Congeladas
+674699,PATE DE FINAS HIERBAS SOFIA PREMIUM 100GRS,Fiambres,Fiambres Externos
 674705,ALIMENTO LACTEO BONLE UHT 800ML,Lácteos y Derivados,Leches
 674706,HELADO DUO CREMA AMERICANA MARACUYA DELIZIA 850ML,Congelados,"Helados, Cassattas y Picoleses"
 674707,HELADO DUO CREMA AMERICANA MANGO DELIZIA 850ML,Congelados,"Helados, Cassattas y Picoleses"
