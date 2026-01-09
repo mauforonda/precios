@@ -1,215 +1,214 @@
-codigo,bbyss,ponderador,bbyss_norm
-1110101,Pan corriente,1.94,pan corriente
-1110102,Pan especial,0.23,pan especial
-1110103,Galletas,0.49,galletas
-1110201,Panetón,0.08,paneton
-1110203,Torta,0.2,torta
-1110204,Empanada al horno,0.19,empanada al horno
-1110213,Queques,0.04,queques
-1110214,Llauchas,0.03,llauchas
-1110216,Cuñapé,0.06,cunape
-1110221,Productos de panadería y pastelería frita,0.1,productos de panaderia y pasteleria frita
-1110301,Arroz,0.75,arroz
-1110302,Maíz,0.04,maiz
-1110401,Harina de trigo,0.14,harina de trigo
-1110502,"Preparados obtenidos por hinchamiento, tostado o extrusión de cereales",0.23,"preparados obtenidos por hinchamiento, tostado o extrusion de cereales"
-1110505,Avena procesada,0.01,avena procesada
-1110601,Fideo,0.49,fideo
-1120101,Carne de res con hueso,1.23,carne de res con hueso
-1120102,Carne de res sin hueso,4.12,carne de res sin hueso
-1120104,Hueso de res,0.14,hueso de res
-1120201,Carne fresca de ganado porcino entero o cortes especiales,0.18,carne fresca de ganado porcino entero o cortes especiales
-1120301,Carne fresca de ganado ovino por piezas (cordero),0.07,carne fresca de ganado ovino por piezas (cordero)
-1120501,Carne de llama,0.01,carne de llama
-1120601,Carne de pollo,2.08,carne de pollo
-1120801,Hígado/riñón/corazón/pulmón,0.14,higado/rinon/corazon/pulmon
-1120803,Panza/libro/tripas,0.02,panza/libro/tripas
-1120899,Otros despojos comestibles de animales,0.05,otros despojos comestibles de animales
-1120901,Carnes secas/charque/chalona,0.01,carnes secas/charque/chalona
-1121001,Carnes frías/mortadela,0.1,carnes frias/mortadela
-1121004,Chorizos,0.07,chorizos
-1121007,Salchichas,0.11,salchichas
-1121101,Milanesas/ hamburguesas y silpanchos preparados,0.01,milanesas/ hamburguesas y silpanchos preparados
-1130101,Pescados frescos,0.23,pescados frescos
-1130105,Pescados y alimentos marinos en conserva frescos o procesados,0.08,pescados y alimentos marinos en conserva frescos o procesados
-1140101,Leche natural,0.05,leche natural
-1140102,Leche pasteurizada,0.99,leche pasteurizada
-1140103,Leche en polvo,0.35,leche en polvo
-1140104,Leche evaporada,0.03,leche evaporada
-1140107,Yogur,0.18,yogur
-1140108,Otros productos lácteos,0.18,otros productos lacteos
-1140201,Quesos y cuajada,0.57,quesos y cuajada
-1140301,Productos lácteos no de leche de vaca,0.04,productos lacteos no de leche de vaca
-1140401,Huevos y productos derivados preparados íntegramente con huevos,0.53,huevos y productos derivados preparados integramente con huevos
-1150101,Aceite comestible/aceite a granel,0.36,aceite comestible/aceite a granel
-1150201,Mantequilla y margarina,0.26,mantequilla y margarina
-1160141,Limón,0.01,limon
-1160145,Mandarina,0.07,mandarina
-1160147,Manzana,0.4,manzana
-1160155,Naranja,0.05,naranja
-1160162,Palta,0.09,palta
-1160163,Papaya,0.06,papaya
-1160166,Piña,0.03,pina
-1160169,Plátano/guineo/banano/banana,0.62,platano/guineo/banano/banana
-1160170,Sandía,0.12,sandia
-1160176,Uva,0.19,uva
-1160185,Plátano/postre para cocinar,0.17,platano/postre para cocinar
-1170101,Acelga,0.02,acelga
-1170102,Achojcha,0.02,achojcha
-1170107,Apio,0.03,apio
-1170110,Betarraga/remolacha,0.01,betarraga/remolacha
-1170111,Brócoli,0.02,brocoli
-1170112,Cebolla,0.44,cebolla
-1170113,Choclo,0.1,choclo
-1170117,Espinaca,0.02,espinaca
-1170120,Lechuga,0.11,lechuga
-1170121,Locoto,0.05,locoto
-1170122,Nabo,0.03,nabo
-1170123,Pepino y pepinillo,0.04,pepino y pepinillo
-1170124,Perejil,0.03,perejil
-1170125,Pimentón/morrón,0.1,pimenton/morron
-1170128,Repollo,0.02,repollo
-1170129,Tomate,0.53,tomate
-1170132,Zanahoria,0.34,zanahoria
-1170133,Zapallo/joco/ancu/iscariote,0.09,zapallo/joco/ancu/iscariote
-1170134,Arveja verde,0.2,arveja verde
-1170135,Haba verde,0.16,haba verde
-1170136,Vainita,0.07,vainita
-1170137,Conjunto de verduras picadas/surtido de legumbres en bolsa,0.01,conjunto de verduras picadas/surtido de legumbres en bolsa
-1170201,Papa,0.69,papa
-1170208,Yuca/mandioca,0.04,yuca/mandioca
-1170401,Tubérculos secos,0.05,tuberculos secos
-1170402,Tubérculos en conserva,0.07,tuberculos en conserva
-1170502,Maní,0.01,mani
-1180101,Azúcar,0.37,azucar
-1180201,Mermeladas y dulces,0.01,mermeladas y dulces
-1180401,Chocolates,0.06,chocolates
-1180402,Caramelos/dulces,0.06,caramelos/dulces
-1180403,Goma de mascar/chicle,0.04,goma de mascar/chicle
-1180502,Helado,0.35,helado
-1190101,Sal,0.05,sal
-1190102,"Especias, salsas, condimentos, aderezos y similares",0.41,"especias, salsas, condimentos, aderezos y similares"
-1190202,"Extractos de jugos de carne, sopas y caldos",0.21,"extractos de jugos de carne, sopas y caldos"
-1190203,Concentrados artificiales para preparar bebidas saborizadas,0.02,concentrados artificiales para preparar bebidas saborizadas
-1199901,Otros productos alimenticios n.e.p.,0.05,otros productos alimenticios n.e.p.
-1210101,Café,0.15,cafe
-1210201,Té,0.04,te
-1210203,Hojas de coca para mate,0.04,hojas de coca para mate
-1210288,"Hierbas naturales (coca, manzanilla, eucalipto, boldo, cedrón, etc.)",0.02,"hierbas naturales (coca, manzanilla, eucalipto, boldo, cedron, etc.)"
-1210302,Polvos a base de chocolate (alimentos achocolatados),0.1,polvos a base de chocolate (alimentos achocolatados)
-1220102,Agua natural envasada,0.26,agua natural envasada
-1220201,Bebidas gaseosas,2.05,bebidas gaseosas
-1220301,Jugos de fruta envasados,0.31,jugos de fruta envasados
-1220501,Bebidas energizantes y deportivas,0.08,bebidas energizantes y deportivas
-1220601,Otras bebidas no alcohólicas,0.01,otras bebidas no alcoholicas
-2110102,Singani,0.01,singani
-2110103,Whisky,0.02,whisky
-2110113,Aperitivos a base de bebidas destiladas,0.01,aperitivos a base de bebidas destiladas
-2120101,Vino,0.09,vino
-2120102,Champagne/sidra,0.01,champagne/sidra
-2130101,Cerveza,0.65,cerveza
-2200101,Cigarrillos,0.09,cigarrillos
-3110101,Telas para confeccionar prendas de vestir,0.03,telas para confeccionar prendas de vestir
-3120101,Chompas/jerseys/suéteres,0.24,chompas/jerseys/sueteres
-3120102,Poleras y camisetas de vestir,0.44,poleras y camisetas de vestir
-3120103,Abrigos/ impermeables/ chaquetones,0.04,abrigos/ impermeables/ chaquetones
-3120104,Trajes y ternos,0.26,trajes y ternos
-3120107,Pantalones jeans,0.98,pantalones jeans
-3120108,Vestidos,0.18,vestidos
-3120109,Faldas/faldas-pantalón,0.05,faldas/faldas-pantalon
-3120110,Camisas,0.25,camisas
-3120111,Blusas/camisas,0.25,blusas/camisas
-3120112,Prendas de vestir de cuero,0.04,prendas de vestir de cuero
-3120114,Manta/mantilla de vestir,0.09,manta/mantilla de vestir
-3120116,Uniformes escolares,0.2,uniformes escolares
-3120119,Chamarra,0.34,chamarra
-3120122,Calza de vestir,0.08,calza de vestir
-3120129,Polleras,0.18,polleras
-3120130,Pantalones de tela,0.2,pantalones de tela
-3120201,Conjunto de buzo deportivo,0.32,conjunto de buzo deportivo
-3120202,Buzo o chaqueta deportiva suelta,0.05,buzo o chaqueta deportiva suelta
-3120203,Pantalón corto (short deportivo),0.02,pantalon corto (short deportivo)
-3120204,Polera deportiva,0.02,polera deportiva
-3120301,Medias,0.01,medias
-3120305,Brasier/sostén,0.14,brasier/sosten
-3120306,Combinaciones/enaguas,0.03,combinaciones/enaguas
-3120388,Calzoncillo/calzón  (hombre/mujer),0.25,calzoncillo/calzon  (hombre/mujer)
-3120389,Calzoncillo/calzón  (niño/niña),0.06,calzoncillo/calzon  (nino/nina)
-3120390,Calcetines/medias/sockets (hombre/mujer),0.12,calcetines/medias/sockets (hombre/mujer)
-3120391,Calcetines/medias/sockets (niño/niña),0.04,calcetines/medias/sockets (nino/nina)
-3120402,Camisones y pijamas,0.02,camisones y pijamas
-3120501,Prendas de vestir para bebé,0.04,prendas de vestir para bebe
-3130101,Accesorios del vestir,0.06,accesorios del vestir
-3130102,Sombreros y gorros de todo tipo,0.07,sombreros y gorros de todo tipo
-3130201,Otros artículos relacionados con la confección de prendas de vestir,0.03,otros articulos relacionados con la confeccion de prendas de vestir
-3140301,Alquiler de prendas de vestir,0.03,alquiler de prendas de vestir
-3210101,Calzados y sandalias de vestir para adultos,1.01,calzados y sandalias de vestir para adultos
-3210102,Calzados y sandalias de vestir para niños y bebés,0.32,calzados y sandalias de vestir para ninos y bebes
-3210103,Calzados deportivos,0.76,calzados deportivos
-3210104,Otros calzados y artículos análogos,0.25,otros calzados y articulos analogos
-5110408,Velas/cirios,0.01,velas/cirios
-5200204,Juego de sábanas/sábanas,0.08,juego de sabanas/sabanas
-5200206,Mantas de viaje/frazadas de viaje,0.07,mantas de viaje/frazadas de viaje
-5200210,Mosquiteros,0.0,mosquiteros
-5200288,Colcha/cubrecama/edredón,0.12,colcha/cubrecama/edredon
-5200304,Toallas,0.07,toallas
-5310188,Refrigerador/freezer/congeladora,0.38,refrigerador/freezer/congeladora
-5310288,Lavadora y/o secadora de ropa,0.19,lavadora y/o secadora de ropa
-5310304,Cocina a gas,0.23,cocina a gas
-5310305,Horno a gas,0.02,horno a gas
-5310306,Horno microondas,0.01,horno microondas
-5310505,Ventilador,0.03,ventilador
-5320188,"Batidora/ licuadora/ sumidora/ exprimidora, etc.",0.09,"batidora/ licuadora/ sumidora/ exprimidora, etc."
-5400101,Jarra,0.02,jarra
-5400104,Vaso / copa,0.02,vaso / copa
-5400301,Ollas/cacerolas,0.15,ollas/cacerolas
-5400403,Balde/bañador/bañera,0.03,balde/banador/banera
-5520305,Foco /bombilla tradicional,0.01,foco /bombilla tradicional
-5520306,"Focos fluorescentes (tubos, focos ahorradores, focos led)",0.08,"focos fluorescentes (tubos, focos ahorradores, focos led)"
-5520320,Cargador de celular,0.01,cargador de celular
-5520323,Audífonos para celular,0.01,audifonos para celular
-5520388,"Pilas (tradicionales, alcalinas, recargables)",0.03,"pilas (tradicionales, alcalinas, recargables)"
-5610102,Ambientador,0.09,ambientador
-5610109,Desinfectantes,0.02,desinfectantes
-5610111,Insecticida,0.06,insecticida
-5610112,Jabón,0.19,jabon
-5610113,Lavandina,0.12,lavandina
-5610118,Detergente para lavar ropa,0.81,detergente para lavar ropa
-5610119,Detergente líquido saca grasa,0.08,detergente liquido saca grasa
-5610120,Suavizante de ropa,0.03,suavizante de ropa
-5610188,Detergentes para lavar vidrio/porcelana/vajilla,0.19,detergentes para lavar vidrio/porcelana/vajilla
-5610201,Cepillos de ropa/de limpieza/de calzado,0.01,cepillos de ropa/de limpieza/de calzado
-5610202,Escoba,0.07,escoba
-5610203,Esponjas para lavar vajilla,0.07,esponjas para lavar vajilla
-5610288,Trapeador o goma para arrastrar agua,0.01,trapeador o goma para arrastrar agua
-5610303,Servilletas de papel/papel absorbente,0.01,servilletas de papel/papel absorbente
-5610415,Fósforo,0.07,fosforo
-5610416,Guantes de goma,0.05,guantes de goma
-5610488,Bolsas para basura/bolsas plásticas,0.05,bolsas para basura/bolsas plasticas
-9110101,Televisor,0.84,televisor
-9110288,Minicomponente o equipo de sonido,0.08,minicomponente o equipo de sonido
-9540188,"Productos de papelería (hojas resma, papel bond, cuaderno, etc.)",1.25,"productos de papeleria (hojas resma, papel bond, cuaderno, etc.)"
-9540189,"Material de escritorio y/o escolar (gomas, lápices, bolígrafos, etc.)",0.47,"material de escritorio y/o escolar (gomas, lapices, boligrafos, etc.)"
-11110101,Almuerzo,5.73,almuerzo
-11110102,Cena,0.45,cena
-11110201,Plato a base de pescado,0.2,plato a base de pescado
-11110204,Churrasco,0.06,churrasco
-11110205,Chicharrón,0.47,chicharron
-11110208,Expendio de otro plato extra/especial,2.17,expendio de otro plato extra/especial
-11110309,Pollo al espiedo/brasa,1.38,pollo al espiedo/brasa
-11110310,"Api, tojorí, tujuré con o sin buñuelo, pastel, etc.",0.04,"api, tojori, tujure con o sin bunuelo, pastel, etc."
-11110311,Pizza,0.16,pizza
-11110312,Salteña,0.5,saltena
-11110313,Tucumana/empanada  frita,0.24,tucumana/empanada  frita
-11110314,Sándwich,0.12,sandwich
-11110315,Hamburguesa,0.29,hamburguesa
-11110316,Hot dog/panchos,0.02,hot dog/panchos
-11110317,Salchipapas,0.14,salchipapas
-11110318,Asaditos,0.03,asaditos
-11110320,Sopa de fideo,0.04,sopa de fideo
-11110321,Anticuchos,0.01,anticuchos
-11110322,Rellenos,0.08,rellenos
-11110806,Batidos,0.02,batidos
-11110807,Refrescos hervidos no alcohólicos,0.31,refrescos hervidos no alcoholicos
-11110811,Ensalada de frutas,0.05,ensalada de frutas
-11110812,Helado,0.06,helado
+codigo,grupo,bb/ss,ponderador
+1110101,alimentos y bebidas no alcoholicas,pan corriente,1.94
+1110102,alimentos y bebidas no alcoholicas,pan especial,0.23
+1110103,alimentos y bebidas no alcoholicas,galletas,0.49
+1110201,alimentos y bebidas no alcoholicas,paneton,0.08
+1110203,alimentos y bebidas no alcoholicas,torta,0.2
+1110204,alimentos y bebidas no alcoholicas,empanada al horno,0.19
+1110213,alimentos y bebidas no alcoholicas,queques,0.04
+1110214,alimentos y bebidas no alcoholicas,llauchas,0.03
+1110216,alimentos y bebidas no alcoholicas,cunape,0.06
+1110221,alimentos y bebidas no alcoholicas,productos de panaderia y pasteleria frita,0.1
+1110301,alimentos y bebidas no alcoholicas,arroz,0.75
+1110302,alimentos y bebidas no alcoholicas,maiz,0.04
+1110401,alimentos y bebidas no alcoholicas,harina de trigo,0.14
+1110502,alimentos y bebidas no alcoholicas,"preparados obtenidos por hinchamiento, tostado o extrusion de cereales",0.23
+1110505,alimentos y bebidas no alcoholicas,avena procesada,0.01
+1110601,alimentos y bebidas no alcoholicas,fideo,0.49
+1120101,alimentos y bebidas no alcoholicas,carne de res con hueso,1.23
+1120102,alimentos y bebidas no alcoholicas,carne de res sin hueso,4.12
+1120104,alimentos y bebidas no alcoholicas,hueso de res,0.14
+1120201,alimentos y bebidas no alcoholicas,carne fresca de ganado porcino entero o cortes especiales,0.18
+1120301,alimentos y bebidas no alcoholicas,carne fresca de ganado ovino por piezas (cordero),0.07
+1120501,alimentos y bebidas no alcoholicas,carne de llama,0.01
+1120601,alimentos y bebidas no alcoholicas,carne de pollo,2.08
+1120801,alimentos y bebidas no alcoholicas,higado/rinon/corazon/pulmon,0.14
+1120803,alimentos y bebidas no alcoholicas,panza/libro/tripas,0.02
+1120899,alimentos y bebidas no alcoholicas,otros despojos comestibles de animales,0.05
+1120901,alimentos y bebidas no alcoholicas,carnes secas/charque/chalona,0.01
+1121001,alimentos y bebidas no alcoholicas,carnes frias/mortadela,0.1
+1121004,alimentos y bebidas no alcoholicas,chorizos,0.07
+1121007,alimentos y bebidas no alcoholicas,salchichas,0.11
+1121101,alimentos y bebidas no alcoholicas,milanesas/ hamburguesas y silpanchos preparados,0.01
+1130101,alimentos y bebidas no alcoholicas,pescados frescos,0.23
+1130105,alimentos y bebidas no alcoholicas,pescados y alimentos marinos en conserva frescos o procesados,0.08
+1140101,alimentos y bebidas no alcoholicas,leche natural,0.05
+1140102,alimentos y bebidas no alcoholicas,leche pasteurizada,0.99
+1140103,alimentos y bebidas no alcoholicas,leche en polvo,0.35
+1140104,alimentos y bebidas no alcoholicas,leche evaporada,0.03
+1140107,alimentos y bebidas no alcoholicas,yogur,0.18
+1140108,alimentos y bebidas no alcoholicas,otros productos lacteos,0.18
+1140201,alimentos y bebidas no alcoholicas,quesos y cuajada,0.57
+1140301,alimentos y bebidas no alcoholicas,productos lacteos no de leche de vaca,0.04
+1140401,alimentos y bebidas no alcoholicas,huevos y productos derivados preparados integramente con huevos,0.53
+1150101,alimentos y bebidas no alcoholicas,aceite comestible/aceite a granel,0.36
+1150201,alimentos y bebidas no alcoholicas,mantequilla y margarina,0.26
+1160141,alimentos y bebidas no alcoholicas,limon,0.01
+1160145,alimentos y bebidas no alcoholicas,mandarina,0.07
+1160147,alimentos y bebidas no alcoholicas,manzana,0.4
+1160155,alimentos y bebidas no alcoholicas,naranja,0.05
+1160162,alimentos y bebidas no alcoholicas,palta,0.09
+1160163,alimentos y bebidas no alcoholicas,papaya,0.06
+1160166,alimentos y bebidas no alcoholicas,pina,0.03
+1160169,alimentos y bebidas no alcoholicas,platano/guineo/banano/banana,0.62
+1160170,alimentos y bebidas no alcoholicas,sandia,0.12
+1160176,alimentos y bebidas no alcoholicas,uva,0.19
+1160185,alimentos y bebidas no alcoholicas,platano/postre para cocinar,0.17
+1170101,alimentos y bebidas no alcoholicas,acelga,0.02
+1170102,alimentos y bebidas no alcoholicas,achojcha,0.02
+1170107,alimentos y bebidas no alcoholicas,apio,0.03
+1170110,alimentos y bebidas no alcoholicas,betarraga/remolacha,0.01
+1170111,alimentos y bebidas no alcoholicas,brocoli,0.02
+1170112,alimentos y bebidas no alcoholicas,cebolla,0.44
+1170113,alimentos y bebidas no alcoholicas,choclo,0.1
+1170117,alimentos y bebidas no alcoholicas,espinaca,0.02
+1170120,alimentos y bebidas no alcoholicas,lechuga,0.11
+1170121,alimentos y bebidas no alcoholicas,locoto,0.05
+1170122,alimentos y bebidas no alcoholicas,nabo,0.03
+1170123,alimentos y bebidas no alcoholicas,pepino y pepinillo,0.04
+1170124,alimentos y bebidas no alcoholicas,perejil,0.03
+1170125,alimentos y bebidas no alcoholicas,pimenton/morron,0.1
+1170128,alimentos y bebidas no alcoholicas,repollo,0.02
+1170129,alimentos y bebidas no alcoholicas,tomate,0.53
+1170132,alimentos y bebidas no alcoholicas,zanahoria,0.34
+1170133,alimentos y bebidas no alcoholicas,zapallo/joco/ancu/iscariote,0.09
+1170134,alimentos y bebidas no alcoholicas,arveja verde,0.2
+1170135,alimentos y bebidas no alcoholicas,haba verde,0.16
+1170136,alimentos y bebidas no alcoholicas,vainita,0.07
+1170137,alimentos y bebidas no alcoholicas,conjunto de verduras picadas/surtido de legumbres en bolsa,0.01
+1170201,alimentos y bebidas no alcoholicas,papa,0.69
+1170208,alimentos y bebidas no alcoholicas,yuca/mandioca,0.04
+1170401,alimentos y bebidas no alcoholicas,tuberculos secos,0.05
+1170402,alimentos y bebidas no alcoholicas,tuberculos en conserva,0.07
+1170502,alimentos y bebidas no alcoholicas,mani,0.01
+1180101,alimentos y bebidas no alcoholicas,azucar,0.37
+1180201,alimentos y bebidas no alcoholicas,mermeladas y dulces,0.01
+1180401,alimentos y bebidas no alcoholicas,chocolates,0.06
+1180402,alimentos y bebidas no alcoholicas,caramelos/dulces,0.06
+1180403,alimentos y bebidas no alcoholicas,goma de mascar/chicle,0.04
+1180502,alimentos y bebidas no alcoholicas,helado,0.35
+1190101,alimentos y bebidas no alcoholicas,sal,0.05
+1190102,alimentos y bebidas no alcoholicas,"especias, salsas, condimentos, aderezos y similares",0.41
+1190202,alimentos y bebidas no alcoholicas,"extractos de jugos de carne, sopas y caldos",0.21
+1190203,alimentos y bebidas no alcoholicas,concentrados artificiales para preparar bebidas saborizadas,0.02
+1199901,alimentos y bebidas no alcoholicas,otros productos alimenticios n.e.p.,0.05
+1210101,alimentos y bebidas no alcoholicas,cafe,0.15
+1210201,alimentos y bebidas no alcoholicas,te,0.04
+1210203,alimentos y bebidas no alcoholicas,hojas de coca para mate,0.04
+1210288,alimentos y bebidas no alcoholicas,"hierbas naturales (coca, manzanilla, eucalipto, boldo, cedron, etc.)",0.02
+1210302,alimentos y bebidas no alcoholicas,polvos a base de chocolate (alimentos achocolatados),0.1
+1220102,alimentos y bebidas no alcoholicas,agua natural envasada,0.26
+1220201,alimentos y bebidas no alcoholicas,bebidas gaseosas,2.05
+1220301,alimentos y bebidas no alcoholicas,jugos de fruta envasados,0.31
+1220501,alimentos y bebidas no alcoholicas,bebidas energizantes y deportivas,0.08
+1220601,alimentos y bebidas no alcoholicas,otras bebidas no alcoholicas,0.01
+2110102,bebidas alcoholicas y tabaco,singani,0.01
+2110103,bebidas alcoholicas y tabaco,whisky,0.02
+2110113,bebidas alcoholicas y tabaco,aperitivos a base de bebidas destiladas,0.01
+2120101,bebidas alcoholicas y tabaco,vino,0.09
+2120102,bebidas alcoholicas y tabaco,champagne/sidra,0.01
+2130101,bebidas alcoholicas y tabaco,cerveza,0.65
+2200101,bebidas alcoholicas y tabaco,cigarrillos,0.09
+3110101,prendas de vestir y calzado,telas para confeccionar prendas de vestir,0.03
+3120101,prendas de vestir y calzado,chompas/jerseys/sueteres,0.24
+3120102,prendas de vestir y calzado,poleras y camisetas de vestir,0.44
+3120103,prendas de vestir y calzado,abrigos/ impermeables/ chaquetones,0.04
+3120104,prendas de vestir y calzado,trajes y ternos,0.26
+3120107,prendas de vestir y calzado,pantalones jeans,0.98
+3120108,prendas de vestir y calzado,vestidos,0.18
+3120109,prendas de vestir y calzado,faldas/faldas-pantalon,0.05
+3120110,prendas de vestir y calzado,camisas,0.25
+3120111,prendas de vestir y calzado,blusas/camisas,0.25
+3120112,prendas de vestir y calzado,prendas de vestir de cuero,0.04
+3120114,prendas de vestir y calzado,manta/mantilla de vestir,0.09
+3120116,prendas de vestir y calzado,uniformes escolares,0.2
+3120119,prendas de vestir y calzado,chamarra,0.34
+3120122,prendas de vestir y calzado,calza de vestir,0.08
+3120129,prendas de vestir y calzado,polleras,0.18
+3120130,prendas de vestir y calzado,pantalones de tela,0.2
+3120201,prendas de vestir y calzado,conjunto de buzo deportivo,0.32
+3120202,prendas de vestir y calzado,buzo o chaqueta deportiva suelta,0.05
+3120203,prendas de vestir y calzado,pantalon corto (short deportivo),0.02
+3120204,prendas de vestir y calzado,polera deportiva,0.02
+3120301,prendas de vestir y calzado,medias,0.01
+3120305,prendas de vestir y calzado,brasier/sosten,0.14
+3120306,prendas de vestir y calzado,combinaciones/enaguas,0.03
+3120388,prendas de vestir y calzado,calzoncillo/calzon  (hombre/mujer),0.25
+3120389,prendas de vestir y calzado,calzoncillo/calzon  (nino/nina),0.06
+3120390,prendas de vestir y calzado,calcetines/medias/sockets (hombre/mujer),0.12
+3120391,prendas de vestir y calzado,calcetines/medias/sockets (nino/nina),0.04
+3120402,prendas de vestir y calzado,camisones y pijamas,0.02
+3120501,prendas de vestir y calzado,prendas de vestir para bebe,0.04
+3130101,prendas de vestir y calzado,accesorios del vestir,0.06
+3130102,prendas de vestir y calzado,sombreros y gorros de todo tipo,0.07
+3130201,prendas de vestir y calzado,otros articulos relacionados con la confeccion de prendas de vestir,0.03
+3140301,prendas de vestir y calzado,alquiler de prendas de vestir,0.03
+3210101,prendas de vestir y calzado,calzados y sandalias de vestir para adultos,1.01
+3210102,prendas de vestir y calzado,calzados y sandalias de vestir para ninos y bebes,0.32
+3210103,prendas de vestir y calzado,calzados deportivos,0.76
+3210104,prendas de vestir y calzado,otros calzados y articulos analogos,0.25
+5110408,"muebles, bienes y servicios domesticos",velas/cirios,0.01
+5200204,"muebles, bienes y servicios domesticos",juego de sabanas/sabanas,0.08
+5200206,"muebles, bienes y servicios domesticos",mantas de viaje/frazadas de viaje,0.07
+5200288,"muebles, bienes y servicios domesticos",colcha/cubrecama/edredon,0.12
+5200304,"muebles, bienes y servicios domesticos",toallas,0.07
+5310188,"muebles, bienes y servicios domesticos",refrigerador/freezer/congeladora,0.38
+5310288,"muebles, bienes y servicios domesticos",lavadora y/o secadora de ropa,0.19
+5310304,"muebles, bienes y servicios domesticos",cocina a gas,0.23
+5310305,"muebles, bienes y servicios domesticos",horno a gas,0.02
+5310306,"muebles, bienes y servicios domesticos",horno microondas,0.01
+5310505,"muebles, bienes y servicios domesticos",ventilador,0.03
+5320188,"muebles, bienes y servicios domesticos","batidora/ licuadora/ sumidora/ exprimidora, etc.",0.09
+5400101,"muebles, bienes y servicios domesticos",jarra,0.02
+5400104,"muebles, bienes y servicios domesticos",vaso / copa,0.02
+5400301,"muebles, bienes y servicios domesticos",ollas/cacerolas,0.15
+5400403,"muebles, bienes y servicios domesticos",balde/banador/banera,0.03
+5520305,"muebles, bienes y servicios domesticos",foco /bombilla tradicional,0.01
+5520306,"muebles, bienes y servicios domesticos","focos fluorescentes (tubos, focos ahorradores, focos led)",0.08
+5520320,"muebles, bienes y servicios domesticos",cargador de celular,0.01
+5520323,"muebles, bienes y servicios domesticos",audifonos para celular,0.01
+5520388,"muebles, bienes y servicios domesticos","pilas (tradicionales, alcalinas, recargables)",0.03
+5610102,"muebles, bienes y servicios domesticos",ambientador,0.09
+5610109,"muebles, bienes y servicios domesticos",desinfectantes,0.02
+5610111,"muebles, bienes y servicios domesticos",insecticida,0.06
+5610112,"muebles, bienes y servicios domesticos",jabon,0.19
+5610113,"muebles, bienes y servicios domesticos",lavandina,0.12
+5610118,"muebles, bienes y servicios domesticos",detergente para lavar ropa,0.81
+5610119,"muebles, bienes y servicios domesticos",detergente liquido saca grasa,0.08
+5610120,"muebles, bienes y servicios domesticos",suavizante de ropa,0.03
+5610188,"muebles, bienes y servicios domesticos",detergentes para lavar vidrio/porcelana/vajilla,0.19
+5610201,"muebles, bienes y servicios domesticos",cepillos de ropa/de limpieza/de calzado,0.01
+5610202,"muebles, bienes y servicios domesticos",escoba,0.07
+5610203,"muebles, bienes y servicios domesticos",esponjas para lavar vajilla,0.07
+5610288,"muebles, bienes y servicios domesticos",trapeador o goma para arrastrar agua,0.01
+5610303,"muebles, bienes y servicios domesticos",servilletas de papel/papel absorbente,0.01
+5610415,"muebles, bienes y servicios domesticos",fosforo,0.07
+5610416,"muebles, bienes y servicios domesticos",guantes de goma,0.05
+5610488,"muebles, bienes y servicios domesticos",bolsas para basura/bolsas plasticas,0.05
+9110101,recreacion y cultura,televisor,0.84
+9110288,recreacion y cultura,minicomponente o equipo de sonido,0.08
+9540188,recreacion y cultura,"productos de papeleria (hojas resma, papel bond, cuaderno, etc.)",1.25
+9540189,recreacion y cultura,"material de escritorio y/o escolar (gomas, lapices, boligrafos, etc.)",0.47
+11110101,alimentos y bebidas consumidos fuera del hogar,almuerzo,5.73
+11110102,alimentos y bebidas consumidos fuera del hogar,cena,0.45
+11110201,alimentos y bebidas consumidos fuera del hogar,plato a base de pescado,0.2
+11110204,alimentos y bebidas consumidos fuera del hogar,churrasco,0.06
+11110205,alimentos y bebidas consumidos fuera del hogar,chicharron,0.47
+11110208,alimentos y bebidas consumidos fuera del hogar,expendio de otro plato extra/especial,2.17
+11110309,alimentos y bebidas consumidos fuera del hogar,pollo al espiedo/brasa,1.38
+11110310,alimentos y bebidas consumidos fuera del hogar,"api, tojori, tujure con o sin bunuelo, pastel, etc.",0.04
+11110311,alimentos y bebidas consumidos fuera del hogar,pizza,0.16
+11110312,alimentos y bebidas consumidos fuera del hogar,saltena,0.5
+11110313,alimentos y bebidas consumidos fuera del hogar,tucumana/empanada  frita,0.24
+11110314,alimentos y bebidas consumidos fuera del hogar,sandwich,0.12
+11110315,alimentos y bebidas consumidos fuera del hogar,hamburguesa,0.29
+11110316,alimentos y bebidas consumidos fuera del hogar,hot dog/panchos,0.02
+11110317,alimentos y bebidas consumidos fuera del hogar,salchipapas,0.14
+11110318,alimentos y bebidas consumidos fuera del hogar,asaditos,0.03
+11110320,alimentos y bebidas consumidos fuera del hogar,sopa de fideo,0.04
+11110321,alimentos y bebidas consumidos fuera del hogar,anticuchos,0.01
+11110322,alimentos y bebidas consumidos fuera del hogar,rellenos,0.08
+11110806,alimentos y bebidas consumidos fuera del hogar,batidos,0.02
+11110807,alimentos y bebidas consumidos fuera del hogar,refrescos hervidos no alcoholicos,0.31
+11110811,alimentos y bebidas consumidos fuera del hogar,ensalada de frutas,0.05
+11110812,alimentos y bebidas consumidos fuera del hogar,helado,0.06
