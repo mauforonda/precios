@@ -4911,6 +4911,7 @@ id_producto,producto,categoria,subcategoria
 108536,Papel Higienico Scott Basico Plancha 24 un,Cuidado Personal,Cuidado Familiar
 108539,Colonia Heno de Pravia Original 500 ml,Cuidado del Hogar,Productos Americanos
 108548,Pasta Dental Daily Caristop Sensitive 80 gr,Cuidado Personal,Cuidado Bucal
+108553,Bronceador Leblon Autobronceante 190 gr,Cuidado Personal,Cuidado de la Piel
 108554,Bronceador Leblon Autobronceado 90 gr,Cuidado Personal,Cuidado de la Piel
 108561,Shampoo Tio Nacho Celula Madre 415 ml,Cuidado Personal,Cuidado del Cabello
 108565,Shampoo Dove Regeneracion 750 ml,Cuidado Personal,Cuidado del Cabello
@@ -10678,6 +10679,7 @@ id_producto,producto,categoria,subcategoria
 351873,Cafe Molido Bolivia Fruit 75 gr,Abarrotes,Café y Sucedáneos
 351878,Aceituna Nucete Negra Entera 200 gr,Abarrotes,Verduras en Conserva
 351890,Quinua Super Mix B Fruit 200 gr,Abarrotes,Nutrición Infantil
+351939,Leche Nan 3 Optipro HM-O Lata x 800 gr,Abarrotes,Nutrición Infantil
 352008,Shampoo Dove Recontruccion 750 ml,Cuidado Personal,Cuidado del Cabello
 352010,Acondicionador Dove Reconstruccion 750 ml,Cuidado Personal,Cuidado del Cabello
 352047,Galleta Saldix Calabresa 100 gr,Abarrotes,Galletas
@@ -11886,6 +11888,8 @@ id_producto,producto,categoria,subcategoria
 423333,Chicle Topline Sandiamania 14 gr,Abarrotes,Golosinas - Varias
 423491,Bloqueador Solar Leblon Extreme 50 ml,Cuidado Personal,Cuidado de la Piel
 423542,Cigarrillo Derby Cool 20 un,Bebidas,Cigarrillos
+423564,LEBLON FACIAL FPS50 X 50 GR,Cuidado Personal,Cuidado de la Piel
+423580,Leblon Protector Solar Baby FPS50 x 90G,Cuidado del Bebé,Kids
 423734,Cafe Ideal En Grano 1 kg,Abarrotes,Café y Sucedáneos
 423750,Bloqueador Solar Leblon Extreme 50Fps 190 gr,Cuidado Personal,Cuidado de la Piel
 423769,Empanada de Queso Fritas kg,Pastelería y Masas Típicas,Masas Típicas Hipermaxi
@@ -12187,12 +12191,16 @@ id_producto,producto,categoria,subcategoria
 450192,Repelente crema Fexon 100 gr,Cuidado Personal,Cuidado de la Piel
 450405,Aceite Fino Light 900 ml,Abarrotes,Básicos
 450559,Bloqueador Solar Leblon Antioxidante 50Fps 90 gr,Cuidado Personal,Cuidado de la Piel
+450629,Leti AT4 Intensive Crema x 100 ml,Farmacia Otc,Dermatológicos
 450741,Figuvit Masticable x 50 Comp,Farmacia Otc,Tracto Alimentario y Metabolismo
 450908,Masculan Preservativo Puro Caja x 3 unid,Farmacia Otc,Varios
 450962,Granola Roxi Tradicional 350 gr,Abarrotes,Nutrición Infantil
 450964,Granola Roxi Con Estevia 350 gr,Abarrotes,Nutrición Infantil
 451015,"Edulcorante  Equal con Stevia 100 un
 ",Abarrotes,Dietéticos y Saludables
+451039,Leti AT4 Crema Corporal x 200ml,Farmacia Otc,Dermatológicos
+451040,Leti AT4 Leche Corporal x 250ml,Farmacia Otc,Dermatológicos
+451042,Leti AT4 Crema Facial x 50 ml,Farmacia Otc,Dermatológicos
 451133,Helado Aguila Barrita,Congelados,"Helados, Cassattas y Picoleses"
 451221,Capullo Disco Algodon x 70 und,Cuidado Personal,Cuidado de la Piel
 451395,CUREBAND VENDITAS X CJA 10 *COD.SUP*,Cuidado Personal,Cuidado de la Piel
@@ -12324,6 +12332,7 @@ id_producto,producto,categoria,subcategoria
 457094,Yogurt Pil Bebible Durazno 1 L,Lácteos y Derivados,Yogures
 457345,Cepillo Dental Foramen Infantil 4 año + Reloj Surtido,Cuidado Personal,Cuidado Bucal
 457701,Yogurt Mi Primer Danoninho Morango,Lácteos y Derivados,Yogures
+457716,Leche Nan 3 Supreme  800 Gr,Abarrotes,Nutrición Infantil
 457762,Aceite Capilar Corporal Farmax Cenoura Zanahoria 100 ml,Cuidado Personal,Cuidado de la Piel
 457807,Prudence  Preservativo Clasico Caja x 3 unid,Farmacia Otc,Varios
 457834,Jabon Barra Harmony Fruity Naranja 150 gr,Cuidado Personal,Cuidado de la Piel
@@ -15595,7 +15604,10 @@ id_producto,producto,categoria,subcategoria
 553728,AGUA DE COCO TRUE LIFE LTA 500 ML,Bebidas,Bebidas Usa
 553731,CARAMELOS SOUR PATH KIDS WELCH 27.5 GR,Abarrotes,Productos Americanos
 553732,VINO TELLUS TANNAT SYRAH ALAYA 750ML,Bebidas,Vinos y Champagne
+553733,VINO TELLUS TANNAT MEMENTO MORI 750ML,Bebidas,Vinos y Champagne
+553734,VINO TELLUS WINES AMOR FATI 750ML,Bebidas,Vinos y Champagne
 553737,CHOCOLATE SUBLIME CLASICO NAVID 4X26GR,Abarrotes,Chocolates y Caramelos
+553738,SINGANI SAN PEDRO E.L ILLIMANI 700ML,Bebidas,Licores
 554333,Cerveza Paceña Lata Roja 473 Cc,Bebidas,Cervezas
 554466,Detergente Liquido Ola Futuro Limpieza Completa 5 L,Cuidado del Hogar,Limpieza de la Ropa
 554468,Suavizante Ropa Ola Suavecito Original 5 L,Cuidado del Hogar,Limpieza de la Ropa
@@ -24651,6 +24663,7 @@ id_producto,producto,categoria,subcategoria
 846791,CH Y69 10 ESPONJAS PARA MAQUILLAJE SET X 2 INCLUYE BASE,Bazar Importación,Bijouteria/Cuidado Personal
 846792,CH Y69 11 FRASCO CON ESPONJAS PARA MAQUILLAJE X15,Bazar Importación,Bijouteria/Cuidado Personal
 846794,Cepillo Limpieza Facial Electrico,Bazar Importación,Electrodomésticos Cuidado Personal
+846797,Leche Nan 1 Optipro Lata  x 400 gr,Abarrotes,Nutrición Infantil
 846804,CH Y69 23 PINCEL Y ESPONJA PARA MAQUILLAJE SET X3 PZAS,Bazar Importación,Bijouteria/Cuidado Personal
 846808,CH Y69 26 ESPONJAS PARA LIMPIEZA FACIAL SET X4 PZAS,Bazar Importación,Bijouteria/Cuidado Personal
 846811,Condimento El Cocinero Paprika 65 gr,Abarrotes,Condimentos y Legumbres
@@ -25865,6 +25878,7 @@ id_producto,producto,categoria,subcategoria
 864857,Lonchera Kendy Plastica,Bazar,Menaje Plástico
 864862,LONCHERA KENDY 3PZ,Bazar,Librería
 864874,LAPIZ COLOR ARTESCO X12,Bazar,Librería
+864875,LAPIZ COLOR ARTESCO TRIANAGULAR X12,Bazar,Librería
 864988,Papel Higienico Scott Cuidado Completo 12 un,Cuidado Personal,Cuidado Familiar
 864995,Juego Herramientas Garantool 12 piezas,Bazar,Ferretería
 865116,Porta Celular Carnaval,Bazar,Temporada Carnaval
@@ -26003,6 +26017,7 @@ id_producto,producto,categoria,subcategoria
 869557,Cuaderno Oficio Colores 100 Hojas,Bazar,Librería
 869605,Caja de Regalo Madre,Bazar,Regalos/Adornos
 869776,Resaltador Monami Narnaja,Bazar,Librería
+869788,TEMPERA LAVABLE C/PINCEL X6 FABER CASTELL,Bazar,Librería
 869790,Paño Cocina 100% Algodón,Cuidado del Hogar,Productos Americanos
 869826,Cinta Embalaje Izy Trasparente,Bazar,Librería
 869840,Palitos de Bambu Churrasquero Fiat Lux,Bazar,Churrasquería
@@ -26247,6 +26262,7 @@ id_producto,producto,categoria,subcategoria
 879923,JAN VELAS NAVIDAD C/VIDRIO 22,Bazar,Temporada Navidad
 879985,Salsa La Costeña Casera Mexicana 250 gr,Abarrotes,Aderezos
 879990,Salsa La Costeña Verde 250 gr,Abarrotes,Aderezos
+879992,RESLATDOR STABILO PASTEL X6 UND,Bazar,Librería
 880795,PAN ALFOMBRA DE ENTRADA 40X60,Bazar Importación,Living y Dormitorio
 881124,Arena Para Gato Super Cat 4 kg,Bazar,Mascotas General
 881889,Cepillo Dental Foramen Expert 3 Suave 1 un,Cuidado Personal,Cuidado Bucal
@@ -27118,6 +27134,9 @@ id_producto,producto,categoria,subcategoria
 990548,Pyrex Cuadrado con Tapa,Bazar,Menaje Vidrio/Cristal
 990664,Lapices de Colores Faber Castell Acuarelable 12 Colores,Bazar,Librería
 990665,Lapices de Colores Faber Castell Acuarelable 24 Colores,Bazar,Librería
+990881,CRAYONS GRUESOS ARTESCO X 12UND.,Bazar,Librería
+990889,LAPICES COLORES CORTOS ARTESCO X 12,Bazar,Librería
+990896,PLASTILINA JUMBO X 12 UND. ARTESCO,Bazar,Librería
 990967,Basurero Rey Calada Roma,Cuidado del Hogar,Accesorios del Hogar
 991075,Masculan Preservativo Natural x 3 und,Cuidado Personal,Cuidado de la Piel
 991078,Masculan Preservativo Sensitivo x 3 unid,Farmacia Otc,Varios
