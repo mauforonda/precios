@@ -219,6 +219,8 @@ id_producto,producto,proveedor,categoria
 10871651270815,Hamburguesa Fridosita Express Bolsa 18 Unid,Fridosa,Fridosita Express
 7392510312607,Ketchup Hellmanns 250 G,Hellmann's,Ketchup
 10837630058655,Nugget Safari Pollo Fridosa 500 G,Fridosa,Nuggets De Pollo
+7436944408735,Galleta de Chocolate Wafer Mabels,Mabels,Galleta de Chocolate
+7436967968927,Galleta Coco Wafer Mabel 110 G,Mabels,Galleta
 7392493142175,Aceite Fino 900 Ml,Fino,Aceite
 7392493404319,Agua con Gas Vital 2 L,Vital,Agua con Gas
 7392493568159,Aquarius de Pera 2 L,Aquarius,Jugo de Fruta
@@ -242,7 +244,7 @@ id_producto,producto,proveedor,categoria
 7392498581663,Mentitas Ambrosoli 21 G,Ambrosoli,Mentitas
 7392500318367,Pate Higado de Pollo Sofia 100 G,Sofia,Pate de Higado
 7392500514975,Galletas Wafs Frutilla 110 G,La Suprema,Galletas
-7392500646047,Galleta de Frutilla Wafer Mabels 110 G,Mabels,Galleta
+7392500646047,Galleta de Frutilla Wafer Mabels 100 G,Nestlé,Galleta Mabels
 7392501858463,Galleta Serranitas Arcor 115 G,Arcor,Galletas
 7392501923999,Gaseosa Papaya Fanta 2 L,Fanta,Gaseosa
 7392501956767,Gaseosa Pepsi 2 L,Pepsi,Gaseosa
@@ -387,7 +389,6 @@ id_producto,producto,proveedor,categoria
 7436944212127,Leche con Avena Pil 800 Ml,Pil,Leche con Avena
 7436944310431,Leche de Vainilla Soy Pil 946 Ml,Pil,Leche de Vainilla
 7436944343199,Caldo de Costilla Doña Gusta 42 G,DoÃ±a Gusta,Caldo de Costilla
-7436944408735,Galleta de Chocolate Wafer Mabels,Mabels,Galleta de Chocolate
 7436944441503,Jugo de Pomelo Aquarius 3 Lt,Aquarius,Jugo de Frutas
 7436944801951,Gelatina de Cereza Light Kris 24 G,Kris,Gelatina
 7436944834719,Limonada con Gas La Cabaña de 2 Lt,La cabaÃ±a,Limonada
@@ -473,7 +474,7 @@ id_producto,producto,proveedor,categoria
 7436954108063,Hamburguesa Clásica de Pollo Sofia de 83 G 2 Uni,Sofia,Hamburguesa
 7436954599583,Energizante de Frambuesa Activade  600 Ml,Activade,Energizante
 7436954632351,Te Clasico Windsor de 20 Uni,Windsor,Te
-7436954665119,Galleta de Dulce de Leche Wafer Mabels 110 G,Mabels,Galleta
+7436954665119,Galleta Wafer Mabels Dulce de Leche 100 Gr,Nestlé,Galleta Wafer
 7436954796191,Galleta Clásica Costa Frac 273 Gr,Costa,Galleta
 7436954828959,Galleta de Frutilla Wafer Mabels 46 G,Mabels,Galleta
 7436954992799,Jugo Del Valle Fresh Citrus de 500 Ml,Del Valle,Jugo de Frutas
@@ -530,7 +531,7 @@ id_producto,producto,proveedor,categoria
 7436962758815,Doritos Fritos Lays 110 G,Frito Lays,Doritos
 7436962922655,Limpia Baños Ola Maximus 890 Ml,Ola,Limpia BaÃ±os
 7436963053727,Endulzante Liquido Dietetico Si Diet 600 Ml,Si Dietetico,Endulcorante
-7436963152031,Galleta Waffer Limon Mabels 110 G,Mabels,Galleta
+7436963152031,Galleta Wafer Mabels Limón 100 Gr,Nestle,Galleta Wafer
 7436963643551,Sal Parrillera Lobos 750 G,Lobos,Sal
 7436963807391,Avena Instantanea Princesa 800 G,Princesa,Avena Instantanea
 7436963872927,Pasta Dental Xtra Whitening Pepsodent 130 G,Pepsodent,Pasta Dental
@@ -547,11 +548,11 @@ id_producto,producto,proveedor,categoria
 7436965642399,Nectar de Guayaba Pura Vida Frutss 2 Lt,Pura Vida,Nectar de Frutas
 7436965675167,Cerveza Zero Conti 473 ML,Conti,Cerveza
 7436965707935,Te Canela y Clavo Windsor 20 Uni,Windsor,Te
-7436965871775,Galleta Mini Cremosita sabor Vainilla Mabels 360 G,Mabels,Galleta
+7436965871775,Galleta Cremosita Relleno Vainilla 360 Gr,Nestlé,Galleta Wafer
 7436965970079,Milanesa de Pollo Sofia  4 Uni,Sofia,Milanesa de Pollo
 7436966494367,Vino Tinto Campo de Solana 750 Ml,Campo de Solana,Vino
 7436966756511,Sopa de Fideo con Pollo Maggi 70 G,Maggi,Sopa
-7436966985887,Galleta Cremosita sabor Frutilla Mabels 360 G,Mabels,Galleta
+7436966985887,Galleta Cremosita Relleno Frutilla 360 Gr,Nestlé,Galleta Wafer
 7436967018655,Azúcar La Belgica 5 K,La Belgica,Azucar
 7436967051423,Lasaña Precocida Carozzi 360 G,Carozzi,LasaÃ±a
 7436967149727,Margarina Regia de 850 G,Regia,Margarina
@@ -559,7 +560,6 @@ id_producto,producto,proveedor,categoria
 7436967674015,Atun al Aceite Van Camps 354 G,Van Camps,Atun
 7436967706783,Gaseosa Papaya Salvietti de 3 L,Salvietti,Gaseosa
 7436967739551,Avena Instantanea La Suprema 400 G,La Suprema,Avena Instantanea
-7436967968927,Galleta Coco Wafer Mabel 110 G,Mabels,Galleta
 7436968099999,Sopa de Pollo con Arroz Maggi 70 Gr,Maggi,Sopa de Pollo
 7436968296607,Nectar de Manzana Frut All 1 Lt,Frutt All,Jugo de Frutas
 7436968329375,Cerveza Burguesa Lata 350 ML,Burguesa,Cerveza
@@ -942,3 +942,6 @@ id_producto,producto,proveedor,categoria
 10884174971039,Papa Simplot Corte Fino 2.25 Kg,Fidalga,Papa Simplot Corte Fino
 10884281925791,Mermelada Damasco Norte 454 Gr,Norte,Mermelada
 10884282253471,Avena Instantánea La Suprema 700 Gr,La Suprema,Avena Instantanea
+10884848418975,Galleta Wafer Mabels Chocolate 100 Gr,Nestlé,Galleta Wafer
+10884848550047,Galleta Wafer Mabels Vainilla 100 Gr,Nestlé,Galleta Wafer
+10884848648351,Galleta Wafer Mabels Coco 100 Gr,Nestle,Galleta Mabels
