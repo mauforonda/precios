@@ -384,6 +384,7 @@ id_producto,producto,categoria,subcategoria
 6716,Mayonesa Taste Zero 335 gr,Abarrotes,Aderezos
 6717,Ketchup Taste Zero 350 gr,Abarrotes,Aderezos
 6720,Salsa Taste Barbecue Zero 350 gr,Abarrotes,Aderezos
+6728,Salsa Taste Postre Chocolate Zero 335 gr,Abarrotes,Repostería
 6729,Salsa Taste Postre Chocolate Avellana 335 gr,Abarrotes,Repostería
 6735,Aceite De Soya Selecto 900 ml,Abarrotes,Básicos
 6736,Aceite De Soya Selecto 1800 ml,Abarrotes,Básicos
@@ -1053,6 +1054,7 @@ id_producto,producto,categoria,subcategoria
 17250,Vino Cruce del Zorro Blend 750 ml,Bebidas,Vinos y Champagne
 17251,Vino Cruce Zorro Pettit Verdot 750 ml,Bebidas,Vinos y Champagne
 17256,Chocolate La Iberica 70 Cacao 150 gr,Abarrotes,Chocolates y Caramelos
+17263,Miel Taste Free Zero Azucar 280 gr,Abarrotes,"Mermel, Mieles"
 17265,Cafe Segafredo Capsula Selection 10 un,Abarrotes,Café y Sucedáneos
 17269,Cafe Segafredo Descafeinado Capusula 10 un,Abarrotes,Café y Sucedáneos
 17270,Four Loko Green 473 ml,Bebidas,Licores
@@ -2242,6 +2244,7 @@ id_producto,producto,categoria,subcategoria
 27030,ZYN COOL MINT MINI 6MG						 						,Bebidas,Cigarrillos
 27031,"ZYN SPEARMINT MINI 1,5MG						 						",Bebidas,Cigarrillos
 27032,ZYN SPEARMINT MINI 3MG						 						,Bebidas,Cigarrillos
+27033,ZYN SPEARMINT MINI 6MG						 						,Bebidas,Cigarrillos
 27034,ACEITUNA ZAELI RELL PIMIENTO FCO 550G,Abarrotes,Verduras en Conserva
 27035,PACK 2VINO KOHLBERG FUNDADOR 750ML,Bebidas,Vinos y Champagne
 27036,PACK 3VINOS KOHLBERG 1 2 3 750ML,Bebidas,Vinos y Champagne
@@ -2276,6 +2279,7 @@ id_producto,producto,categoria,subcategoria
 27092,CAFE MOLIDO CEYLAN BSA 50G,Abarrotes,Café y Sucedáneos
 27093,CAFE MOLIDO CEYLAN BSA 250G,Abarrotes,Café y Sucedáneos
 27094,CAFE MOLIDO CEYLAN BSA 500G,Abarrotes,Café y Sucedáneos
+27095,MALVAVISCOS WANDY SURTIDO BSA 170G,Abarrotes,Chocolates y Caramelos
 27096,MOSTAZA DIJON MAGIC TIME ORIGINAL 12 OZ,Abarrotes,Aderezos
 27098,ARROZ GOYA CURRY CJA 7 OZ,Abarrotes,Básicos
 27099,ACEITE MAGIC TIME A OLIVA SPRAY 5 OZ,Abarrotes,Básicos
@@ -3557,7 +3561,7 @@ id_producto,producto,categoria,subcategoria
 48658,Mostaza Kris 184 gr,Abarrotes,Aderezos
 48666,Mostaza Kris 400 gr,Abarrotes,Aderezos
 48674,Mostaza Kris 4 kg,Abarrotes,Aderezos
-48704,Ketchup Kris 410 gr,Abarrotes,Aderezos
+48704,Ketchup Kris 400 gr,Abarrotes,Aderezos
 48720,Ketchup Kris 4 kg,Abarrotes,Aderezos
 48778,Marshmallow Fini Vainilla Alvorada 250 gr,Abarrotes,Chocolates y Caramelos
 49069,Aceite Crisol Vegetal 900 ml,Abarrotes,Básicos
@@ -4371,7 +4375,7 @@ id_producto,producto,categoria,subcategoria
 101906,Singani Viña Alta Premium 750 ml,Bebidas,Licores
 101907,Singani Viña Alta 750 ml,Bebidas,Licores
 101911,Paño Tottes Microfibra Azul Naranja 2 un,Cuidado del Hogar,Accesorios del Hogar
-101913,Jugo Cifrut Durazno 1035 ml,Bebidas,"Jugos, Néctar"
+101913,Jugo Cifrut Durazno 1 L,Bebidas,"Jugos, Néctar"
 101914,Cerveza Conti Zero Grau Lata 473 ml,Bebidas,Cervezas
 101915,Cerveza Burguesa 330 ml,Bebidas,Cervezas
 101916,Jugo Cifrut Naranja 1035 ml,Bebidas,"Jugos, Néctar"
@@ -7846,6 +7850,7 @@ id_producto,producto,categoria,subcategoria
 223839,Bipack Pañal Huggies Triple Proteccion XG 2x40 un,Cuidado del Bebé,Pañales
 223840,Bipack Pañal Huggies Triple Proteccion XXG 2x36 un,Cuidado del Bebé,Pañales
 223841,Balde Guanda 10 L,Cuidado del Hogar,Accesorios del Hogar
+223852,Servilleta Olebol Coctel Borgoña 20 un,Cuidado Personal,Cuidado Familiar
 223853,SERVILLETA OLEBOL COCTEL CARIBE 20 UN,Cuidado Personal,Cuidado Familiar
 223855,SERVILLETA OLEBOL COCTEL FUCSIA 20 UN,Cuidado Personal,Cuidado Familiar
 223857,SERVILLETA PLEBOL COCTEL LIMON 20 UN,Cuidado Personal,Cuidado Familiar
@@ -8589,6 +8594,7 @@ id_producto,producto,categoria,subcategoria
 229128,ACEITE FARMAX ALMENDRA Y AVELLANA CORPO,Cuidado Personal,Cuidado de la Piel
 229131,JABON NOVA TRIPACK ROSA 100G,Cuidado Personal,Cuidado de la Piel
 229133,CEPILLO DENTALCLEAN 0A2 ANOS BABY STOPP,Cuidado del Bebé,Kids
+229134,PACK  PANITOS POMPIGLOS 2X75 UNDS,Cuidado del Bebé,Cuidado del Bebé
 229135,CREMA SKALA POTAO DESMAIADO 1KG,Cuidado Personal,Cuidado del Cabello
 229136,DESODORANTE ABOVE CREMA SPORT 50 GR,Cuidado del Hogar,Productos Americanos
 229137,DESODORANTE ABOVE CREMA WOMEN 50 GR,Cuidado del Hogar,Productos Americanos
@@ -9976,6 +9982,8 @@ id_producto,producto,categoria,subcategoria
 321176,Salsa Brixy Barbecue 300 gr,Abarrotes,Aderezos
 321276,Maltita Potosina 355 ml,Bebidas,Bebidas Varias
 321358,VINO CYT RESERVADO FRUTAL MELON 750ML,Bebidas,Vinos y Champagne
+321361,VINAGRE CASTELO ALCOHOL 6P CITRICO 2LT,Abarrotes,Básicos
+321363,VINAGRE CASTELO ALCOHOL 6P MZ VERDE 2LT,Abarrotes,Básicos
 321440,ACEITE MAGIC TIME ORIGINAL SPRAY 5 OZ,Abarrotes,Básicos
 321444,ARROZ GOYA MEXICAN RICE CJA 6 OZ,Abarrotes,Básicos
 321445,ARROZ GOYA COCONUT CJA 7 OZ,Abarrotes,Básicos
@@ -10212,7 +10220,7 @@ id_producto,producto,categoria,subcategoria
 332101,Marsmallow Docile Rosa Blanco 250 gr,Abarrotes,Chocolates y Caramelos
 332107,Marsmallow Docile Azul Blanco 250 gr,Abarrotes,Chocolates y Caramelos
 332117,Galleta Ferrari Ghezzi Leche 170 gr,Abarrotes,Galletas
-332151,Mayonesa Kriss 380 ml,Abarrotes,Aderezos
+332151,Mayonesa Kriss 360 ml,Abarrotes,Aderezos
 332171,Mermelada Yacobs Frutilla 250 gr,Abarrotes,"Mermel, Mieles"
 332172,Mermelada Yacobs Durazno 250 gr,Abarrotes,"Mermel, Mieles"
 332201,Harina Paloma de Trigo 1 kg,Abarrotes,Básicos
@@ -17302,7 +17310,7 @@ id_producto,producto,categoria,subcategoria
 651451,Salsa LKK Hoisin 397 gr,Abarrotes,Condimentos y Legumbres
 651453,Salsa Lkk Barbacoa Estilo Coreano 297 ml,Abarrotes,Condimentos y Legumbres
 651457,Salsa LKK Dulce Tailandesa Chile 510 gr,Abarrotes,Condimentos y Legumbres
-651503,Mayonesa Kris 2900 ml,Abarrotes,Aderezos
+651503,Mayonesa Kris 2860 ml,Abarrotes,Aderezos
 651538,Sopa de Mani El Cocinero 200 gr,Abarrotes,Básicos
 651611,Mostaza Kris 2860 gr,Abarrotes,Aderezos
 651617,Galleta Breick Chocolate Sin Azucar 50 gr,Abarrotes,Chocolates y Caramelos
@@ -17357,7 +17365,7 @@ id_producto,producto,categoria,subcategoria
 652227,Gomita Mogul Dientes 500 gr,Abarrotes,Golosinas - Varias
 652299,Mermelada BC Campagnola Arandano 390 gr,Abarrotes,Dietéticos y Saludables
 652304,Vinagre San Lorenzo De Alcohol 600 ml,Abarrotes,Básicos
-652332,Mayonesa Kris 230 Cm,Abarrotes,Aderezos
+652332,Mayonesa Kris 225 Cm,Abarrotes,Aderezos
 652343,Mayonesa Kraft Squeegee 650 ml,Abarrotes,Productos Americanos
 652344,Mayonesa Kraft Real Squeegee 354 ml,Abarrotes,Productos Americanos
 652354,Cerelum Alma Nutrients 400 gr,Abarrotes,Nutrición Infantil
@@ -22717,6 +22725,7 @@ id_producto,producto,categoria,subcategoria
 761368,KEFIR SABOR BANANA FRUTILLA BONTANA 1 LT.,Lácteos y Derivados,Yogures
 761374,KEFIR SAB.LIMON VAINILLA BONTANA 1 LT.,Lácteos y Derivados,Yogures
 761386,HELADO CONO COFLER BLOCK 18X95 GRS.,Congelados,"Helados, Cassattas y Picoleses"
+761394,HELADO CONO COFLER FRUTILLA AMERICANA UNID.,Congelados,"Helados, Cassattas y Picoleses"
 761419,Tapa de Empanada Criollas Miltipasta 12 un,Congelados,Masas y Comidas Congeladas
 761420,YOGURT BEBIBLE DELIZIA DURAZNO 1 LT SACHET,Lácteos y Derivados,Yogures
 761422,Tapa de Empanada Multiple Multipasta 12 un,Congelados,Masas y Comidas Congeladas
@@ -24518,7 +24527,7 @@ id_producto,producto,categoria,subcategoria
 843371,Cucharon Betty Crocker de Silicona,Bazar Importación,Cocina General
 843373,Espatula Betty Crocker Ranurada,Bazar Importación,Cocina General
 843374,Espatula de Cocina,Bazar Importación,Cocina General
-843375,Cucharon Betty Crocker para Sopa,Bazar Importación,Ropa Niño/Adolescente
+843375,Cucharon Betty Crocker para Sopa,Bazar Importación,Cocina General
 843407,"PAN.8123 CUCHILLOS 8PZAS 8"", 8"", 8"", 5"", 3.5""",Bazar Importación,Cocina General
 843444,PAN 5124 BOTELLA 1200ML TRANSPARENTE NEGRO VIDRIO SODALIME,Bazar Importación,Menaje Vidrio/Cristal
 843466,Cooler 4 QT,Bazar Importación,Camping General
@@ -25249,7 +25258,7 @@ id_producto,producto,categoria,subcategoria
 855133,Colador Plegable con Mango 43x24x3 cm,Bazar Importación,Cocina General
 855135,Molde para 6 Helado,Bazar Importación,Cocina General
 855136,Inyector de Adobo 2en1,Bazar Importación,Cocina General
-855140,Abrelatas 17Cm - Danny Home,Bazar Importación,Ropa Niño/Adolescente
+855140,Abrelatas 17Cm - Danny Home,Bazar Importación,Cocina General
 855145,Set 3 Tabla de Corte Cuchillo Y Pelador,Bazar Importación,Churrasquería
 855147,Palmito Campo Verde Rodaja 400 gr,Abarrotes,Verduras en Conserva
 855150,Set Cuchillo de Cocina 4 pz,Bazar Importación,Cocina General
@@ -26071,6 +26080,8 @@ id_producto,producto,categoria,subcategoria
 867431,Kit de Vuelta a Clases Madepa,Bazar,Librería
 867437,COLA BLANCA WHITE 120GR KEYROAD,Bazar,Librería
 867438,ALED ESTUCHERA  ESCOLAR 49,Bazar,Librería
+867440,Colores Tres A 12 Unidades,Bazar,Librería
+867441,SET TAPER +BOTELLA PLASUTIL,Bazar,Menaje Plástico
 867475,TAJADOR 2HUECOS DEPO-IRIDESCENT KEYROAD,Bazar,Librería
 867477,BORRADOR TEC IRIDESCENT X2 KEYROAD,Bazar,Librería
 867478,BORRADOR GOLDFISH X2 KEYROAD,Bazar,Librería
@@ -26657,7 +26668,7 @@ id_producto,producto,categoria,subcategoria
 896806,Caramelo Arcor Relleno Miel 140 gr,Abarrotes,Chocolates y Caramelos
 896984,Quitamanchas Vanish 400 ml,Cuidado del Hogar,Limpieza de la Ropa
 897116,Postre Para Bebe Alpina Banano 113 gr,Abarrotes,Nutrición Infantil
-897394,Mayonesa Kris Original 125 ml,Abarrotes,Aderezos
+897394,Mayonesa Kris Original 120 ml,Abarrotes,Aderezos
 897478,Alfajpr Havanna Chocolate 300 gr,Abarrotes,Chocolates y Caramelos
 897522,Cafe De Altura en Grano 250 gr,Abarrotes,Café y Sucedáneos
 897592,Cafe De Altura Molido 250 gr,Abarrotes,Café y Sucedáneos
@@ -27366,6 +27377,7 @@ id_producto,producto,categoria,subcategoria
 996470,Jarra Rey Bonita 2.5 L,Bazar,Menaje Plástico
 996471,Jarra Rey Refrijarra 4 L,Bazar,Menaje Plástico
 996472,Pulverizador Rey,Bazar,Menaje Plástico
+996624,ALE.CUADERNO ESPIRAL 1/2 OFICIO 100HJ,Bazar,Librería
 996628,Archivador Fox,Bazar,Librería
 996664,Paquete Hojas Bond Carta 50 Hojas,Bazar,Librería
 996665,Paquete Hojas Bond Oficio 50 Hojas,Bazar,Librería
