@@ -1759,6 +1759,7 @@ id_producto,producto,categoria,subcategoria
 25155,Pack Campos de Solana Rose/Marselan + Marca Copas,Bebidas,Vinos y Champagne
 25157,Pack 2 Gaseosa Salvietti Papaya 600 ml,Bebidas,Gaseosas
 25159,HARINA D TRIGO KANTUTA 000 1KG,Abarrotes,Básicos
+25160,VINO EL PORTILLO CHARDONNAY 750ML,Bebidas,Vinos y Champagne
 25161,Semilla Girasol Menobol Limon 225 gr,Abarrotes,Snack
 25162,Semilla Girasol Menobol Queso 225 gr,Abarrotes,Snack
 25165,Chocoalte Vizzio Coco 110 gr,Abarrotes,Chocolates y Caramelos
@@ -1961,7 +1962,7 @@ id_producto,producto,categoria,subcategoria
 25451,Chupete Arcor Halloween Pops Extreme Duo 432 gr,Abarrotes,Temporada
 25452,Caramelo Arcor Halloween Sangrientos Mora 312 gr,Abarrotes,Temporada
 25453,Galleta Gustossi Coco Chocolate 180 gr,Abarrotes,Galletas
-25454,GALLETA GUSTOSSI COCO CHOCOLATE 680G,Abarrotes,Galletas
+25454,Galleta Gustossi Coco Chocolate 680 gr,Abarrotes,Galletas
 25455,Galleta Gullon Naranja Sin Gluten 180 gr,Abarrotes,Dietéticos y Saludables
 25456,Galleta Gullon Maria Tostada Zero 200 gr,Abarrotes,Dietéticos y Saludables
 25457,Galleta Gullon Sandwich Crema Zero 147 gr,Abarrotes,Dietéticos y Saludables
@@ -12184,6 +12185,7 @@ id_producto,producto,categoria,subcategoria
 438716,Limpiador de Baño Harpic Saca Sarro Plus Floral 500 ml,Cuidado del Hogar,Limpieza de Baños
 438790,Caldo De Carne Kris 456 gr,Abarrotes,Básicos
 439020,Limpiador Bristar Multiuso Citrus Gatillo 930 ml,Cuidado del Hogar,Limpieza de Living y Ropero
+439026,Cepillo Hogar Limpia Baño Base Redondo,Cuidado del Hogar,Limpieza de Baños
 439105,Crema para Peinar Herbal Essences Desnudo Hidratante 300 ml,Cuidado Personal,Cuidado del Cabello
 439106,Maquina de Afeitar Gillette Prestobarba 3 Sensitive 2 un,Cuidado Personal,Cuidado de la Piel
 439107,Maquina de Afeitar Gillette Prestobarba 3 Sensitive 4 un,Cuidado Personal,Cuidado de la Piel
@@ -13103,6 +13105,7 @@ id_producto,producto,categoria,subcategoria
 500266,MERMELADA HELIOS HIGO NEGRO 340G,Abarrotes,Productos Importados
 500268,MERMELADA HELIOS FRESA ARANDANO 340 GR,Abarrotes,Productos Importados
 500270,MERMELADA HELIOS  DIET ARANDANOS 280 GR,Abarrotes,Productos Importados
+500271,MERMELADA HELIOS FRAMBUESA DIET 280G,Abarrotes,Productos Importados
 500272,MERMELADA HELIOS F DEL BOSTQ DIET 280G,Abarrotes,Productos Importados
 500273,MERMELADA HELIOS CIRUELA KIWI DIET 280G,Abarrotes,Productos Importados
 500276,CONFITURA HELIOS ARANDANO 330 GR,Abarrotes,Productos Importados
@@ -14756,6 +14759,7 @@ id_producto,producto,categoria,subcategoria
 552459,Vino Terra Ancestral Tannat Cosecha 750 ml,Bebidas,Vinos y Champagne
 552460,Vino Terra Ancestral Tannat 750 ml,Bebidas,Vinos y Champagne
 552461,Vino Tinto Terra Ancestral 700 ml,Bebidas,Vinos y Champagne
+552462,AVENA INSTANT IRUPANA DP 500G,Abarrotes,Nutrición Infantil
 552463,Chicha Morada Delizia 2 L,Bebidas,Bebidas Varias
 552464,Chocolate Ceibo Tacon Cenicienta 200 gr,Abarrotes,Chocolates y Caramelos
 552465,Pack Galletas Oreo + Chip Ahoy Regalo,Abarrotes,Galletas
@@ -15716,6 +15720,7 @@ id_producto,producto,categoria,subcategoria
 553752,LECHE SABOR FRUTILLA 10+1 120ML,Lácteos y Derivados,Leches
 553753,LECHE SABOR AVENA 10+1 120ML,Lácteos y Derivados,Leches
 553754,PALMITO DESPENSA RODAJAS LTA 400G,Abarrotes,Verduras en Conserva
+553755,PALMITO LA DESPENSA RODAJAS 800 GR,Abarrotes,Verduras en Conserva
 553757,VAPE WAKA CREATOR POD WATERMELON 20K PUP,Bebidas,Cigarrillos
 553759,ATUN SAN LUCAS BONITO GRATED AGUA 170G,Abarrotes,Comidas en Conserva
 553760,ATUN SAN LUCAS BONITO FILETE ACEITE 170G,Abarrotes,Comidas en Conserva
@@ -20009,6 +20014,11 @@ id_producto,producto,categoria,subcategoria
 669817,PACK H&S 1SH ANTICOMEZON 375ML +1SH180ML,Cuidado Personal,Cuidado del Cabello
 669818,H&S SH ANTICOMEZON 1LT X9U,Cuidado Personal,Cuidado del Cabello
 669819,H&S SH NUTRICION DIARIA/MIEL 1LT X9U,Cuidado Personal,Cuidado del Cabello
+669820,PACK ORAL B 1CEPILLO SPID FROZEN +1PASTA,Cuidado del Bebé,Kids
+669821,PACK ORAL B 3 PASTA KIDS MICKEY-MINNIE 3,Cuidado del Bebé,Kids
+669822,PACK ORA B 3 PASTA KIDS PRINCESAS 37ML X,Cuidado del Bebé,Kids
+669823,PACK ORAL B 1CEPILLO+1PASTA FROZEN-SPIDE,Cuidado del Bebé,Kids
+669824,PACK ORAL B 3 PASTA COMPLETE FRESH 100ML,Cuidado del Bebé,Kids
 669901,Pizza Hipermaxi Congelada Hawaiana 620 gr,Congelados,Masas y Comidas Congeladas
 669902,Pizza Hipermaxi Congelada Jamon Queso Light Masa Integral,Congelados,Masas y Comidas Congeladas
 669903,Pizza Hipermaxi Congelada Pepperoni 620 gr,Congelados,Masas y Comidas Congeladas
@@ -20149,6 +20159,7 @@ id_producto,producto,categoria,subcategoria
 670570,Chorizo Parrillero Sofia al Vacio kg,Fiambres,Fiambres Externos
 670580,Bandeja Nevaditos La Orurena 10 un,Pastelería y Masas Típicas,Pastelería Externa
 670581,Leche Descremada Pil Proteplus 800 ml,Lácteos y Derivados,Leches
+670592,ARANDANO CONGELADO DE TARIJA B/PLASTICA 250 GR,Congelados,Pulpas y Frutas Congeladas
 670593,Frambuesa Congelada de Tarija 250 gr,Congelados,Pulpas y Frutas Congeladas
 670594,Zarzamora Congelada de Tarija 250 Gr,Congelados,Pulpas y Frutas Congeladas
 670595,Milanesa Sofia Americana 2 un,Congelados,Carnes Congeladas
@@ -24179,7 +24190,7 @@ id_producto,producto,categoria,subcategoria
 831640,JAN GORRO DE NAVIDAD DE BS 10,Bazar,Temporada Navidad
 831644,Vela Cirio Yander Maciel 12 cm,Bazar,Living y Dormitorio
 831658,Sombrero Año Nuevo Plastico,Bazar,Temporadas Restantes
-831660,MIR CORNETA GRANDE .10,Bazar,Temporadas Restantes
+831660,MIR CORNETA GRANDE .13,Bazar,Temporadas Restantes
 831674,Cesto Handy Rey 78,Cuidado del Hogar,Accesorios del Hogar
 831681,Couscous Roland 100% Natural 500 gr,Abarrotes,Productos Americanos
 831790,Caramelo Kidsmania Dubble Bubble Machine 40 gr,Abarrotes,Productos Americanos
@@ -24376,6 +24387,7 @@ id_producto,producto,categoria,subcategoria
 839028,Cuaderno Espiral Pleno Carta 100 Hojas,Bazar,Librería
 839081,Turron Sesamo Tks 150 gr,Abarrotes,Golosinas - Varias
 839126,MIR ANTIFAZ DE ZORRO BS 10,Bazar,Temporada Carnaval
+839127,Vinchas Carnavaleras,Bazar,Temporada Carnaval
 839159,Plato de Mascota 3,Bazar,Mascotas General
 839239,Libro Infantil Lexus,Bazar,Librería
 839240,Libros Infantiles Lexus,Bazar,Librería
@@ -26633,6 +26645,7 @@ id_producto,producto,categoria,subcategoria
 889396,Juegute Muñeca Didactica,Juguetería,Juguetería Niña/Bebé
 889445,Trempera Acri Guache 250 ml,Bazar,Librería
 889471,BOL DIVERTY BLOCKS  SURTIDOS,Juguetería,Juguetería Didáctica/Temporada
+889519,Collar Hawaiano,Bazar,Temporadas Restantes
 890260,Aceite de Maiz Mazola Spray 142 gr,Abarrotes,Básicos
 890261,Aceite Mazola Spray 142 gr,Abarrotes,Básicos
 890353,Jabon Barra Oso Ropa 200 gr,Cuidado del Hogar,Limpieza de la Ropa
@@ -27093,6 +27106,8 @@ id_producto,producto,categoria,subcategoria
 936485,Mochila Juvenil Escolar,Bazar,Librería
 936600,TER PISO DE ENTRADAA .35,Bazar,Living y Dormitorio
 936609,Barra de Silicona,Bazar,Ferretería
+937440,ELS CHISGUETES P/R BOTELLA 35,Bazar,Temporada Carnaval
+937441,ELS CHISGUETE P/R BOTELLA 25,Bazar,Temporada Carnaval
 937579,Mochila Escolar Juvenil + Estuche,Bazar,Librería
 937832,Cepillo de Cabello Condor Lara,Bazar,Bijouteria/Cuidado Personal
 937834,PEINE  CONDOR 9890 -,Bazar,Bijouteria/Cuidado Personal
@@ -27159,6 +27174,7 @@ id_producto,producto,categoria,subcategoria
 947386,Olla Baja 18 cm 2 L,Bazar,Articulos de Cocina
 947387,Sarten Tramontina con Tapa 26 cm,Bazar,Articulos de Cocina
 947475,Exprimidor de Naranja Mgf 3445,Bazar,Electrodoméstico/Línea Blanca-Hogar
+947509,ELS CHISQUETES BOLSA 25,Bazar,Temporada Carnaval
 947531,Panero Plaza Opaline,Bazar,Menaje Porcelana/Cerámica
 947532,Plato Hondo Opaline Plaza,Bazar,Menaje Porcelana/Cerámica
 947533,Plato Plano Opaline Plaza,Bazar,Menaje Porcelana/Cerámica
@@ -27172,6 +27188,8 @@ id_producto,producto,categoria,subcategoria
 947632,Globos Liso Redondo,Bazar,Cotillón
 947633,Globos Metalizados,Bazar,Cotillón
 947636,Mascara Saw,Bazar,Temporada Halloween
+947655,MIR MASCARAS DE HEROES .14,Bazar,Temporada Carnaval
+947656,MIR PITOS X 6  BS  9,Bazar,Temporada Carnaval
 947906,Olla Tramontina Alta 16 cm,Bazar,Articulos de Cocina
 948326,Taper Good y Good Cuadrado con Divisores 1.10 ml,Bazar,Menaje Plástico
 948327,Taper Basa Cuadrado 2.3 L,Bazar,Menaje Plástico
