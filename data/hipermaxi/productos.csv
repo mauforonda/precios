@@ -1603,7 +1603,7 @@ id_producto,producto,categoria,subcategoria
 24162,Vape Waka Creator Dark Cherry 5% 12000 Puffs,Bebidas,Cigarrillos
 24163,Kit Waka Creator Disp 1 Dark Cherry 12000,Bebidas,Cigarrillos
 24164,Kit Waka Creator Disp 1 Blueberry Ice 12000,Bebidas,Cigarrillos
-24170,Pesto Valenciana Tomate Deshidratado Rosso 200 gr,Abarrotes,Verduras en Conserva
+24170,Pesto Valenciana Tomate Deshidratado Rosso 200 gr,Fiambres,Fiambres Externos
 24171,Escabeche Valenciana Mixto 250 gr,Abarrotes,Verduras en Conserva
 24172,Mani Pinzones Pizza 220 gr,Abarrotes,Snack
 24173,Tomate Deshidratado Valenciana Picante 180 gr,Abarrotes,Verduras en Conserva
@@ -1637,6 +1637,8 @@ id_producto,producto,categoria,subcategoria
 25004,Six Pack Cerveza Potosina 473 ml,Bebidas,Cervezas
 25005,Almidon Yuca Zaeli 1 kg,Abarrotes,Básicos
 25006,Ecco Nestle 170 gr,Abarrotes,Café y Sucedáneos
+25007,Cereal Camaro Delipops Chocolate 110 gr,Abarrotes,Nutrición Infantil
+25008,Cereal Camaro Delipops Hojuela Chocolate 110 gr,Abarrotes,Nutrición Infantil
 25009,Pack 2 Vino Campo de Solana Trivarietal + Exhibidor,Bebidas,Vinos y Champagne
 25010,Chips Natureza Piña Deshidratada 50 gr,Abarrotes,Frutas en Conserva
 25011,Chips Natureza Manzana Verde Deshidratada 50 gr,Abarrotes,Frutas en Conserva
@@ -1669,6 +1671,7 @@ id_producto,producto,categoria,subcategoria
 25044,Mezcla Don Ramon Joven Salmiana 750 ml,Bebidas,Licores
 25045,Mezcal Don Ramon Buen Amigo 750 ml,Bebidas,Licores
 25046,CERVEZA DUCAL LTA 269ML,Bebidas,Cervezas
+25047,Cereal Camaro Delipops Bolitas 110 gr,Abarrotes,Nutrición Infantil
 25048,Fideo Nido Paloma 400 gr,Abarrotes,Básicos
 25049,Aceite de Coco Santiago 360 gr,Abarrotes,Básicos
 25050,Cafe Nescafe Tradicional Tapa Roja 160 gr,Abarrotes,Café y Sucedáneos
@@ -1807,6 +1810,11 @@ id_producto,producto,categoria,subcategoria
 25227,JENGIBRE MOLIDO DAMABRAVA FCO 60G,Abarrotes,Condimentos y Legumbres
 25228,COMINO MOLIDO DAMABRAVA FCO 70G,Abarrotes,Condimentos y Legumbres
 25229,PIMIENTA NEGRA DAMABRAVA MOLIDA 75G,Abarrotes,Condimentos y Legumbres
+25230,OREGANO NUTRIVA ENTERO DESHID BSA 13G,Abarrotes,Condimentos y Legumbres
+25231,PAPRIKA NUTRIVA ROJO DESHID 15G,Abarrotes,Condimentos y Legumbres
+25232,COMINO MOLIDO NUTRIVA BSA 20G,Abarrotes,Condimentos y Legumbres
+25233,COLORANTE NUTRIVA MOLIDO BSA 30G,Abarrotes,Condimentos y Legumbres
+25234,OREGANO NUTRIVA MOLIDO DESHID 13G,Abarrotes,Condimentos y Legumbres
 25235,SAL ROSADA ESSENCIAL GRUESA DP 800G,Abarrotes,Básicos
 25236,SAL ROSADA ESSENCIAL FINA DP 800G,Abarrotes,Básicos
 25237,SAL ROSADA ESSENCIAL FINA BSA 650G,Abarrotes,Básicos
@@ -1840,6 +1848,7 @@ id_producto,producto,categoria,subcategoria
 25273,PURE D PAPA KRIS INSTANT TOCINO 250G,Abarrotes,Básicos
 25275,Aceite de Soya con Urucu 850 ml,Abarrotes,Básicos
 25276,EXTRACTO D URUCU C MANTECA FCO 430G,Abarrotes,Básicos
+25277,JENGIBRE DESHID NUTRIVA BSA 15G,Abarrotes,Condimentos y Legumbres
 25278,Gin Puerto de Indias Black 750 ml,Bebidas,Licores
 25279,CERVEZA PROST WINTERBIER LTA 473 ML,Bebidas,Cervezas
 25282,Lonchera Juguito Pil,Bebidas,"Jugos, Néctar"
@@ -4470,6 +4479,7 @@ id_producto,producto,categoria,subcategoria
 ",Abarrotes,Dietéticos y Saludables
 102160,Cerveza Judas 473 ml,Bebidas,Cervezas
 102161,Cerveza Autentica Original 473 ml,Bebidas,Cervezas
+102162,Trimalta Quinua 300 ml,Bebidas,Bebidas Varias
 102163,Suavizante Ropa Bolivar 2.8 L,Cuidado del Hogar,Limpieza de la Ropa
 102165,Suavizante Ropa Bolivar 5 L,Cuidado del Hogar,Limpieza de la Ropa
 102167,Galleta La Suprema Ligera Sin Sal 100 gr,Abarrotes,Galletas
@@ -5342,7 +5352,7 @@ id_producto,producto,categoria,subcategoria
 111685,Protector Solar Sunless 60Fps 120 gr,Cuidado Personal,Cuidado de la Piel
 111686,Bloqueador Solar Sunless 50fps 120 gr,Cuidado Personal,Cuidado de la Piel
 111687,Bloqueador Solar Sunless Kids 120 gr,Cuidado del Bebé,Kids
-111690,Protector Solar Sunlees Fps 50 Base Facial 60,Cuidado Personal,Cuidado de la Piel
+111690,Protector Solar Sunless Fps 50 Base Facial 60,Cuidado Personal,Cuidado de la Piel
 111691,Bloqueador Solar Sunless Fps 50 sin Base,Cuidado Personal,Cuidado de la Piel
 111692,Bronceador Sunless Zanahoria 120 ml,Cuidado Personal,Cuidado de la Piel
 111693,Bronceador Sunless Urucu 120 ml,Cuidado Personal,Cuidado de la Piel
@@ -8045,6 +8055,7 @@ id_producto,producto,categoria,subcategoria
 225031,AROMASENSE POWER SEDUCTION X230ML,Cuidado Personal,Cuidado de la Piel
 225032,AROMASENSE PURE DIAMONDS X230ML,Cuidado Personal,Cuidado de la Piel
 225035,DESODORANTE REVIVE NITRO FORCE 150ML,Cuidado Personal,Cuidado de la Piel
+225036,PACK MENT ELITE VUELTA CLASES,Cuidado Personal,Cuidado Familiar
 225037,Dulce de Leche Granja de Oro 250 gr,Lácteos y Derivados,Dulces de Leche y Manjares
 225048,PACK 2 DEO SECRET AT GEL VAINILLA 45G,Cuidado Personal,Cuidado de la Piel
 225049,Shampoo Head Shoulder Manzana 650 ml,Cuidado Personal,Cuidado del Cabello
@@ -10017,6 +10028,7 @@ id_producto,producto,categoria,subcategoria
 321361,VINAGRE CASTELO ALCOHOL 6P CITRICO 2LT,Abarrotes,Básicos
 321363,VINAGRE CASTELO ALCOHOL 6P MZ VERDE 2LT,Abarrotes,Básicos
 321366,CERVEZA HEINEKEN LTA 710ML,Bebidas,Cervezas
+321375,JUGO PILFRUT PINA PET 2LT,Bebidas,"Jugos, Néctar"
 321440,ACEITE MAGIC TIME ORIGINAL SPRAY 5 OZ,Abarrotes,Básicos
 321444,ARROZ GOYA MEXICAN RICE CJA 6 OZ,Abarrotes,Básicos
 321445,ARROZ GOYA COCONUT CJA 7 OZ,Abarrotes,Básicos
@@ -13652,6 +13664,7 @@ id_producto,producto,categoria,subcategoria
 550316,Vino Marques De Viana Tannat Bonarda 700 ml,Bebidas,Vinos y Champagne
 550317,Singani El Marquez 750 ml,Bebidas,Vinos y Champagne
 550318,Licor Anisado Monos Refinado 750 ml,Bebidas,Licores
+550320,Pack Cerveza Judas 8 un,Bebidas,Cervezas
 550324,MIX FRUTOS ROJOS PAO POZO 70GR,Abarrotes,Snack
 550331,Ron Viejo de Caldas Carta Oro 8 Años 750 ml,Bebidas,Licores
 550341,Gin Bombay Sapphire 750 ml,Bebidas,Licores
@@ -18197,6 +18210,7 @@ id_producto,producto,categoria,subcategoria
 657686,Pudin Bio XXI Quinua Chocolate 96 gr,Abarrotes,Repostería
 657687,Harina Bio XXI Premezcla Panaderia 500 gr,Abarrotes,Repostería
 657688,Premezcla Reposteria Bio XXI 500 gr,Abarrotes,Repostería
+657690,Energizante Trimalta Autentica Quinua 350 ml,Bebidas,Bebidas Varias
 657705,Galleta La Suprema Surtida Ula Ula 300 gr,Abarrotes,Galletas
 657725,Salsa BBQ Hunts Noney Mustard 510 gr,Abarrotes,Aderezos
 657758,Quinuavena Irupana 300 rg,Abarrotes,Nutrición Infantil
@@ -18504,6 +18518,7 @@ id_producto,producto,categoria,subcategoria
 659042,Fideo Delverde Spaguetto Quadrato 111 500 gr,Abarrotes,Básicos
 659043,Fideo Delverde Festonati 500 gr,Abarrotes,Básicos
 659044,Fideo Delverde Conchiglioni 500 gr,Abarrotes,Básicos
+659048,Cerveza Autentica Judas 300 ml,Bebidas,Cervezas
 659051,Cereal Kelloggs Choco Krispis 520 gr,Abarrotes,Nutrición Infantil
 659052,Cereal Kelloggs Froot Loops 350 gr,Abarrotes,Nutrición Infantil
 659062,Aceituna Carbonell Verde Deshuesada 170 gr,Abarrotes,Verduras en Conserva
@@ -19596,7 +19611,7 @@ id_producto,producto,categoria,subcategoria
 668827,Repuesto Maquina de Afeitar Gillette Mach3 Carbon 2 un,Cuidado Personal,Cuidado de la Piel
 668828,Cepillo Dental Oral B Sensitive Carbon 3 un,Cuidado Personal,Cuidado Bucal
 668829,Cicatricure Porcelana Crema Gel Antimanchas 50 gr,Cuidado Personal,Cuidado de la Piel
-668830,Protector Solar Sunlees Bebe Fps 60 120 gr,Cuidado Personal,Cuidado de la Piel
+668830,Protector Solar Sunless Bebe Fps 60 120 gr,Cuidado Personal,Cuidado de la Piel
 668832,Cicatricure Porcelana Fps 50 40 gr,Cuidado Personal,Cuidado de la Piel
 668833,Agua Micelar Hialuronico Hidraderm 200 ml,Cuidado Personal,Cuidado de la Piel
 668834,Acondicionador Elvive Aminexil 680 ml,Cuidado Personal,Cuidado del Cabello
@@ -20281,7 +20296,7 @@ id_producto,producto,categoria,subcategoria
 670986,Manjar Pastelero Real 1 kg,Lácteos y Derivados,Dulces de Leche y Manjares
 670987,Manjar Pastelero Real 300 gr,Lácteos y Derivados,Dulces de Leche y Manjares
 670993,LECHE CLARITA CHOCOLATADA DELIZIA BOLSA 120ML,Lácteos y Derivados,Leches
-671003,Pesto Valenciana Gourmet Tomate 200 gr,Abarrotes,Aderezos
+671003,Pesto Valenciana Gourmet Tomate 200 gr,Fiambres,Fiambres Externos
 671004,Hummus de Quinua Valenciana Gourmet 200 gr,Fiambres,Fiambres Externos
 671007,Chorizo Parrillero Tradicional Pio Rico kg,Fiambres,Fiambres Externos
 671008,Queso Fresco Altiplano 800 gr,Lácteos y Derivados,Quesos
@@ -21880,6 +21895,8 @@ id_producto,producto,categoria,subcategoria
 674707,HELADO DUO CREMA AMERICANA MANGO DELIZIA 850ML,Congelados,"Helados, Cassattas y Picoleses"
 674712,PACK ALASITAS OSFIM UNIDAD,Fiambres,Fiambres Externos
 674713,BOLITA MOZZARELLA ESTANCIA NESKRAFT UN,Lácteos y Derivados,Quesos
+674720,REQUESON JOLDEN 400GRS,Lácteos y Derivados,Quesos
+674723,CASSATTA GOLD ASAI NORDLAND 1000ML,Congelados,"Helados, Cassattas y Picoleses"
 674786,BONDIOLA DE CERDO SOFIA REFRIGERADA A/V KGR,Fiambres,Fiambres Externos
 674787,LOMO DE CERDO SOFIA REFRIGERADO A/V KGR,Fiambres,Fiambres Externos
 674788,LOMITO DE CERDO SOFIA REFRIGERADO A/V KGR,Fiambres,Fiambres Externos
@@ -26107,7 +26124,7 @@ id_producto,producto,categoria,subcategoria
 864862,LONCHERA KENDY 3PZ,Bazar,Librería
 864874,Lapices de Colores Artesco 12 Colores,Bazar,Librería
 864875,Lapices de Colores Artesco Triangular 12 Colores,Bazar,Librería
-864904,JI SET DE LIGAS DE CABELLO 15,Bazar,Bijouteria/Cuidado Personal
+864904,Set Ligas de Cabello,Bazar,Bijouteria/Cuidado Personal
 864988,Papel Higienico Scott Cuidado Completo 12 un,Cuidado Personal,Cuidado Familiar
 864995,Juego Herramientas Garantool 12 piezas,Bazar,Ferretería
 865116,Porta Celular Carnaval,Bazar,Temporada Carnaval
@@ -27215,7 +27232,7 @@ id_producto,producto,categoria,subcategoria
 947386,Olla Baja 18 cm 2 L,Bazar,Articulos de Cocina
 947387,Sarten Tramontina con Tapa 26 cm,Bazar,Articulos de Cocina
 947475,Exprimidor de Naranja Mgf 3445,Bazar,Electrodoméstico/Línea Blanca-Hogar
-947509,ELS CHISQUETES BOLSA 25,Bazar,Temporada Carnaval
+947509,Pistola de Agua,Bazar,Temporada Carnaval
 947531,Panero Plaza Opaline,Bazar,Menaje Porcelana/Cerámica
 947532,Plato Hondo Opaline Plaza,Bazar,Menaje Porcelana/Cerámica
 947533,Plato Plano Opaline Plaza,Bazar,Menaje Porcelana/Cerámica
