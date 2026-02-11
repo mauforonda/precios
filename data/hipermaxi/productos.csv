@@ -2248,15 +2248,15 @@ id_producto,producto,categoria,subcategoria
 27022,PACK MARIDAJE DE ORO 1VINO 6BOMBONES,Bebidas,Vinos y Champagne
 27023,MARSMALLOWS CRISMELOS MINICOLOR 240G,Abarrotes,Chocolates y Caramelos
 27024,Energizante Alpha Berries 695 ml,Bebidas,Energizantes
-27025,"ZYN BLACK CHERRY MINI 1,5MG						 					",Bebidas,Cigarrillos
-27026,ZYN BLACK CHERRY MINI 3MG						 						,Bebidas,Cigarrillos
-27027,ZYN BLACK CHERRY MINI 6MG						 						,Bebidas,Cigarrillos
-27028,"ZYN COOL MINT MINI 1,5MG						 						",Bebidas,Cigarrillos
-27029,ZYN COOL MINT MINI 3MG						 						,Bebidas,Cigarrillos
-27030,ZYN COOL MINT MINI 6MG						 						,Bebidas,Cigarrillos
-27031,"ZYN SPEARMINT MINI 1,5MG						 						",Bebidas,Cigarrillos
-27032,ZYN SPEARMINT MINI 3MG						 						,Bebidas,Cigarrillos
-27033,ZYN SPEARMINT MINI 6MG						 						,Bebidas,Cigarrillos
+27025,"ZYN BLACK CHERRY MINI 1,5MG",Bebidas,Cigarrillos
+27026,ZYN BLACK CHERRY MINI 3MG,Bebidas,Cigarrillos
+27027,ZYN BLACK CHERRY MINI 6MG,Bebidas,Cigarrillos
+27028,"ZYN COOL MINT MINI 1,5MG",Bebidas,Cigarrillos
+27029,ZYN COOL MINT MINI 3MG,Bebidas,Cigarrillos
+27030,ZYN COOL MINT MINI 6MG,Bebidas,Cigarrillos
+27031,"ZYN SPEARMINT MINI 1,5MG",Bebidas,Cigarrillos
+27032,ZYN SPEARMINT MINI 3MG,Bebidas,Cigarrillos
+27033,ZYN SPEARMINT MINI 6MG,Bebidas,Cigarrillos
 27034,ACEITUNA ZAELI RELL PIMIENTO FCO 550G,Abarrotes,Verduras en Conserva
 27035,PACK 2VINO KOHLBERG FUNDADOR 750ML,Bebidas,Vinos y Champagne
 27036,PACK 3VINOS KOHLBERG 1 2 3 750ML,Bebidas,Vinos y Champagne
@@ -8063,6 +8063,7 @@ id_producto,producto,categoria,subcategoria
 225037,Dulce de Leche Granja de Oro 250 gr,Lácteos y Derivados,Dulces de Leche y Manjares
 225048,PACK 2 DEO SECRET AT GEL VAINILLA 45G,Cuidado Personal,Cuidado de la Piel
 225049,Shampoo Head Shoulder Manzana 650 ml,Cuidado Personal,Cuidado del Cabello
+225080,PACK NINET CLASICA X100 + RN 80,Cuidado del Bebé,Cuidado del Bebé
 225120,Shampoo Head Shoulder Anticaida Cafeina 650 ml,Cuidado Personal,Cuidado del Cabello
 225121,PACK 2 DEO OLDSPICE AT SPRAY EXTREME150M,Cuidado Personal,Cuidado de la Piel
 225130,PACK TALCO PIE CILKA 250+170GR,Cuidado Personal,Cuidado de la Piel
@@ -10046,6 +10047,7 @@ id_producto,producto,categoria,subcategoria
 321366,CERVEZA HEINEKEN LTA 710ML,Bebidas,Cervezas
 321373,PACK 6CERVEZAS BENDITA PILS LTA 310ML,Bebidas,Cervezas
 321375,JUGO PILFRUT PINA PET 2LT,Bebidas,"Jugos, Néctar"
+321376,MANTEQ MR NUTS CHOCOL CROCANTE SIN AZUC,Abarrotes,Repostería
 321440,ACEITE MAGIC TIME ORIGINAL SPRAY 5 OZ,Abarrotes,Básicos
 321444,ARROZ GOYA MEXICAN RICE CJA 6 OZ,Abarrotes,Básicos
 321445,ARROZ GOYA COCONUT CJA 7 OZ,Abarrotes,Básicos
@@ -11393,7 +11395,7 @@ id_producto,producto,categoria,subcategoria
 377588,Corrector Magico Acricolor Doble Punta,Bazar,Librería
 377631,Cuchillo Churrasquero Tramontina,Bazar,Churrasquería
 377673,Toma Todo Plasutil Mikey 800 ml,Bazar,Menaje Plástico
-377678,FRE POTE MIKEY 170M PLASUTIL,Bazar,Menaje Plástico
+377678,Pote Mikey Plasutil 170 ml,Bazar,Menaje Plástico
 377685,FRE LONCHERA MINNIE PLASUTIL,Bazar,Librería
 377688,Lochera Sanwichera + Botella,Bazar,Librería
 377852,PAT PORTA CELULAR CARNAVALERO 5,Bazar,Temporada Carnaval
@@ -15780,10 +15782,10 @@ id_producto,producto,categoria,subcategoria
 553774,PACK 3 CERVEZA PAULANER POSA VASOS,Bebidas,Cervezas
 553777,CHOCOLATE EL CEIBO MI UNIVERSO CJA 70 GR,Abarrotes,Chocolates y Caramelos
 553782,SALSA SOYA ALTA VIDA SUPERIOR DARK 500ML,Abarrotes,Condimentos y Legumbres
-553783,SALSA SOYA ALTA VIDA LIBRE DE GLUTEN 500,Abarrotes,Condimentos y Legumbres
-553784,SALSA HOISIN ALTA VIDA 510 GR,Abarrotes,Condimentos y Legumbres
-553785,SALSA SOYA ALTA VIDA REDUCIDA EN SODIO 5,Abarrotes,Condimentos y Legumbres
-553787,SALSA TERIYAKI ALTA VIDA 500 ML,Abarrotes,Condimentos y Legumbres
+553783,SALSA SOYA ALTA VIDA S GLUTEN 500ML,Abarrotes,Condimentos y Legumbres
+553784,ALTA VIDA SALSA HOISIN 510 GR,Abarrotes,Condimentos y Legumbres
+553785,SALSA SOYA ALTA VIDA REDUC SODIO 500ML,Abarrotes,Condimentos y Legumbres
+553787,ALTA VIDA SALSA SOYA TERIYAKI 500 ML,Abarrotes,Condimentos y Legumbres
 553854,SANGRIA BURBUSHHH BOT 355 ML,Bebidas,Vinos y Champagne
 554333,Cerveza Paceña Lata Roja 473 Cc,Bebidas,Cervezas
 554466,Detergente Liquido Ola Futuro Limpieza Completa 5 L,Cuidado del Hogar,Limpieza de la Ropa
@@ -15918,6 +15920,7 @@ id_producto,producto,categoria,subcategoria
 568651,Ajo McCormick Molido 82 gr,Abarrotes,Condimentos y Legumbres
 568767,Farofa Pinduca Pronta de Mandioca 500 gr,Abarrotes,Productos Americanos
 568783,GALLETA NABISCO CUA CUA X 9 UNDS,Abarrotes,Galletas
+568899,Pimenton Ahumado Badia 2 oz,Abarrotes,Condimentos y Legumbres
 568970,Pimienta Negra McCormick 57 gr,Abarrotes,Condimentos y Legumbres
 569011,Galleta Tostitas 100 gr,Abarrotes,Galletas
 569186,Galleta Choco Soda 240 gr,Abarrotes,Galletas
@@ -21739,6 +21742,7 @@ id_producto,producto,categoria,subcategoria
 674389,Galleta de Naranja Nayra Wara 250 gr,Pastelería y Masas Típicas,Pastelería Externa
 674390,Galletas de Almendra Nayra Wara 250 gr,Pastelería y Masas Típicas,Pastelería Externa
 674391,Galleta de Coco Nayra Wara 250 gr,Pastelería y Masas Típicas,Pastelería Externa
+674392,Galleta de Chia Nayra Wara 250 gr,Pastelería y Masas Típicas,Pastelería Externa
 674393,Galleta de Chispas de Chocolate Nayra Wara 250 gr,Pastelería y Masas Típicas,Pastelería Externa
 674396,Galleta de Jengibre Nayra Wara 250 gr,Pastelería y Masas Típicas,Pastelería Externa
 674397,Mini Torta Caffe Latte Delizia 850 ml,Congelados,"Helados, Cassattas y Picoleses"
@@ -21940,10 +21944,13 @@ id_producto,producto,categoria,subcategoria
 674707,HELADO DUO CREMA AMERICANA MANGO DELIZIA 850ML,Congelados,"Helados, Cassattas y Picoleses"
 674712,PACK ALASITAS OSFIM UNIDAD,Fiambres,Fiambres Externos
 674713,BOLITA MOZZARELLA ESTANCIA NESKRAFT UN,Lácteos y Derivados,Quesos
+674719,REQUESON JOLDEN 200GRS,Lácteos y Derivados,Quesos
 674720,REQUESON JOLDEN 400GRS,Lácteos y Derivados,Quesos
 674721,LECHE DELIZIA FORTIFICADA 800ML,Lácteos y Derivados,Leches
 674722,CASSATTA GOLD MENTA NORDLAND 1000ML,Congelados,"Helados, Cassattas y Picoleses"
 674723,CASSATTA GOLD ASAI NORDLAND 1000ML,Congelados,"Helados, Cassattas y Picoleses"
+674724,CASSATTA GOLD COCO NORDLAND 1000ML,Congelados,"Helados, Cassattas y Picoleses"
+674731,YOGURT NORDLAND BIO DRINK FRUTILLA 1000ML,Lácteos y Derivados,Yogures
 674786,BONDIOLA DE CERDO SOFIA REFRIGERADA A/V KGR,Fiambres,Fiambres Externos
 674787,LOMO DE CERDO SOFIA REFRIGERADO A/V KGR,Fiambres,Fiambres Externos
 674788,LOMITO DE CERDO SOFIA REFRIGERADO A/V KGR,Fiambres,Fiambres Externos
@@ -23176,6 +23183,7 @@ id_producto,producto,categoria,subcategoria
 781657,Yogurt Danoninho Ice Sorvetinho 70 gr,Lácteos y Derivados,Yogures
 781658,Cuñape Bolita de Almidon Davieds 140 gr,Pastelería y Masas Típicas,Masas Típicas Externas
 781678,Queso Mozzarella Sabor Chiquitano 450 gr,Lácteos y Derivados,Quesos
+781679,ESP. CROISSANT DE JAMON Y QUESO UND.,Panadería,Panadería Especialidades Hipermaxi
 781730,Mantequilla La Serenisima 200 gr,Lácteos y Derivados,Mantequillas y Margarinas
 781738,Nuggets de Pescado Tambaqui kg,Congelados,Carnes Congeladas
 781743,Filete de Salmon Trozado Mar de Limon kg,Congelados,Carnes Congeladas
@@ -24702,6 +24710,7 @@ id_producto,producto,categoria,subcategoria
 844573,Papa McCain Corte Casero 12 Mm 2500 gr,Congelados,Masas y Comidas Congeladas
 844588,Papa McCain Finitas 7 Mm 1 kg,Congelados,Masas y Comidas Congeladas
 844612,Kit Para Galletas Navideño 7 pz,Bazar,Articulos de Cocina
+844613,61229/000 JUEGO DE CUBIERTOS 4PZAS. INDI,Bazar,Articulos de Cocina
 844619,63809/420 CUCHARA PARA HELADO,Bazar,Articulos de Cocina
 844620,Juego de Utensilios 5 pz,Bazar,Articulos de Cocina
 844623,Olla a Presion Vancouver 4.5 L,Bazar,Articulos de Cocina
