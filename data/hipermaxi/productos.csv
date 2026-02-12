@@ -1405,6 +1405,7 @@ id_producto,producto,categoria,subcategoria
 18113,Salsa La Costeña Dip Picante 453 gr,Abarrotes,Aderezos
 18143,Frijoles La Costeña Bayo Chorizo 440 gr,Abarrotes,Comidas en Conserva
 18619,Maizena Duryea 200 gr,Abarrotes,Básicos
+18710,Pack Fernet Branca 1 L + Vaso,Bebidas,Licores
 18717,Aceite Carbonell Clasico 500 ml,Abarrotes,Básicos
 18799,Agua Villa Santa Full Body 330 ml,Bebidas,Aguas
 19004,Galleta Cory Palito Brigadeiro 90 gr,Abarrotes,Galletas
@@ -10048,6 +10049,8 @@ id_producto,producto,categoria,subcategoria
 321373,PACK 6CERVEZAS BENDITA PILS LTA 310ML,Bebidas,Cervezas
 321375,JUGO PILFRUT PINA PET 2LT,Bebidas,"Jugos, Néctar"
 321376,MANTEQ MR NUTS CHOCOL CROCANTE SIN AZUC,Abarrotes,Repostería
+321387,LECHE CONDENSADA PIL BSA 1KG,Abarrotes,Nutrición Infantil
+321398,RUSH ENERGY CARNAVAL LTA 269ML,Bebidas,Energizantes
 321440,ACEITE MAGIC TIME ORIGINAL SPRAY 5 OZ,Abarrotes,Básicos
 321444,ARROZ GOYA MEXICAN RICE CJA 6 OZ,Abarrotes,Básicos
 321445,ARROZ GOYA COCONUT CJA 7 OZ,Abarrotes,Básicos
@@ -15781,11 +15784,14 @@ id_producto,producto,categoria,subcategoria
 553769,PACKS ESTUCHE FINI ESCOLAR UND,Abarrotes,Golosinas - Varias
 553774,PACK 3 CERVEZA PAULANER POSA VASOS,Bebidas,Cervezas
 553777,CHOCOLATE EL CEIBO MI UNIVERSO CJA 70 GR,Abarrotes,Chocolates y Caramelos
+553778,CHOCOLATE EL CEIBO AMOR CJA 84 GR,Abarrotes,Chocolates y Caramelos
 553782,SALSA SOYA ALTA VIDA SUPERIOR DARK 500ML,Abarrotes,Condimentos y Legumbres
 553783,SALSA SOYA ALTA VIDA S GLUTEN 500ML,Abarrotes,Condimentos y Legumbres
 553784,ALTA VIDA SALSA HOISIN 510 GR,Abarrotes,Condimentos y Legumbres
 553785,SALSA SOYA ALTA VIDA REDUC SODIO 500ML,Abarrotes,Condimentos y Legumbres
+553786,VINAGRE ALTA VIDA PARA SUSHI 625 ML,Abarrotes,Básicos
 553787,ALTA VIDA SALSA SOYA TERIYAKI 500 ML,Abarrotes,Condimentos y Legumbres
+553789,PACK 2 BEBIDA REBEL 473 ML,Bebidas,Licores
 553854,SANGRIA BURBUSHHH BOT 355 ML,Bebidas,Vinos y Champagne
 554333,Cerveza Paceña Lata Roja 473 Cc,Bebidas,Cervezas
 554466,Detergente Liquido Ola Futuro Limpieza Completa 5 L,Cuidado del Hogar,Limpieza de la Ropa
@@ -21951,6 +21957,7 @@ id_producto,producto,categoria,subcategoria
 674723,CASSATTA GOLD ASAI NORDLAND 1000ML,Congelados,"Helados, Cassattas y Picoleses"
 674724,CASSATTA GOLD COCO NORDLAND 1000ML,Congelados,"Helados, Cassattas y Picoleses"
 674731,YOGURT NORDLAND BIO DRINK FRUTILLA 1000ML,Lácteos y Derivados,Yogures
+674732,YOGURT NORDLAND BIO DRINK MORA 1000ML,Lácteos y Derivados,Yogures
 674786,BONDIOLA DE CERDO SOFIA REFRIGERADA A/V KGR,Fiambres,Fiambres Externos
 674787,LOMO DE CERDO SOFIA REFRIGERADO A/V KGR,Fiambres,Fiambres Externos
 674788,LOMITO DE CERDO SOFIA REFRIGERADO A/V KGR,Fiambres,Fiambres Externos
@@ -23993,6 +24000,7 @@ id_producto,producto,categoria,subcategoria
 802648,Basurero San Remo Tapa Vaiven Pequeño,Bazar Importación,Cocina General
 802653,Basurero Media Tapa Vaiven San Remo 270,Bazar Importación,Cocina General
 802693,Quita Pelusa Scoth Brite Rodillo,Cuidado del Hogar,Accesorios del Hogar
+803053,Porta Huevo San Remo,Bazar,Menaje Plástico
 803054,Porta Sandwichera San Remo,Bazar Importación,Menaje Plástico
 803190,Te Frutte Mate Surtido 50 Sobres,Abarrotes,Café y Sucedáneos
 803403,Papa McCain Tradicional 9 Mm 2500 gr,Congelados,Masas y Comidas Congeladas
@@ -24119,6 +24127,7 @@ id_producto,producto,categoria,subcategoria
 818730,Tostadora Black Decker,Bazar,Electrodoméstico/Línea Blanca-Hogar
 818731,Plancha Black Decker Quick In Easy,Bazar,Electrodoméstico/Línea Blanca-Hogar
 818732,Alisador Remigton,Bazar,Electrodoméstico Cuidado Personal
+818734,Kit de Corte Remigton 5en1,Bazar,Electrodoméstico Cuidado Personal
 818827,VASITO DOBLE AGARRADOR-10410,Bazar,Articulos de Bebé
 818849,Arena Para Gato Michi Feliz 1.8 kg,Bazar,Mascotas General
 818850,Arena Para Gato Lager Premium 2 kg,Bazar,Mascotas General
@@ -26664,6 +26673,7 @@ id_producto,producto,categoria,subcategoria
 883723,Audifono Huavi F2 para Celular,Bazar,Telefonía y Accesorios
 883726,Audifono Bluetooh Huavi  FH13,Bazar,Telefonía y Accesorios
 883756,VASOS 4 PIEZAS SAN REMO 0.27L 787/2C,Bazar Importación,Menaje Plástico
+883761,TAPERS SAN REMO 360/2,Bazar,Menaje Plástico
 883903,Hervidor Premier de Agua,Bazar,Electrodoméstico/Línea Blanca-Hogar
 883905,Batidora Premier Ed 3307,Bazar,Electrodoméstico/Línea Blanca-Hogar
 883908,Juguete de Mesa Bingo,Juguetería,Juguetería Didáctica/Temporada
@@ -27096,12 +27106,14 @@ id_producto,producto,categoria,subcategoria
 921343,FRE.CLIC POTE CUADRADO X 3 PZS,Bazar,Menaje Plástico
 921346,Pote Clic 2 un,Bazar,Menaje Plástico
 921400,Señaladores Banderitas Color 50 un,Bazar,Librería
+921407,Cinta Delgada de Colores,Bazar,Librería
 921408,Clip N78 50 pz,Bazar,Librería
 921409,Clip N33 100 pz,Bazar,Librería
 921413,Corrector Tipo Boligrafo,Bazar,Librería
 921425,Engrampadora Starpler,Bazar,Librería
 921434,Clip 100 pz,Bazar,Librería
 921435,Hoja Trapper 200 Hojas,Bazar,Librería
+921443,Nepaco Metalico 50 un,Bazar,Librería
 921450,Hojas de Papel Bond Hp Oficio 500 Hojas,Bazar,Librería
 921451,Paquete Papel Bond Colores 50 Hojas,Bazar,Librería
 921517,Pala Basura Rey Practico,Cuidado del Hogar,Accesorios del Hogar
@@ -27148,6 +27160,7 @@ id_producto,producto,categoria,subcategoria
 924196,Goma Eva Pliego,Bazar,Librería
 924198,Marcador Permanente Azul,Bazar,Librería
 924679,Papel Madera,Bazar,Librería
+924682,Plancheta Carta,Bazar,Librería
 924808,LAPICERO BIC ROUND STIC VERDE 8226,Bazar,Librería
 924809,Boligrafo Bic Rojo,Bazar,Librería
 924810,Boligrafo Bic Azul,Bazar,Librería
@@ -27159,6 +27172,7 @@ id_producto,producto,categoria,subcategoria
 925060,Alcohol Desnaturalizado Envaquin 125 ml,Cuidado Personal,Cuidado de la Piel
 925100,Lapiz Rojo,Bazar,Librería
 925101,Lapiz Negro,Bazar,Librería
+925174,Papel Bong Pliego,Bazar,Librería
 925575,Bolsa de Globos Estándar Multicolor 50 un,Bazar,Cotillón
 925591,Cuaderno Espiral Carta 100 Hojas,Bazar,Librería
 925651,CONTENEDOR RECTANGULAR MEDIANO 719/5,Bazar Importación,Menaje Plástico
@@ -27277,6 +27291,9 @@ id_producto,producto,categoria,subcategoria
 947095,CA.JUG JUEGO DE MESA CAJA 135,Juguetería,Juguetería Didáctica/Temporada
 947238,Plato de Mascota San Remo,Bazar,Mascotas General
 947239,TAZON PERRO PLASTICO SANREMO 300ML REMO,Bazar,Mascotas General
+947243,SAN PLATO DE MASCOTAS SR641/70,Bazar,Mascotas General
+947245,Bebedero Para Mascota San,Bazar,Mascotas General
+947248,SAN BEBEDERO DE MASCOTAS SR651/71,Bazar,Mascotas General
 947270,Cama de Mascota Economica 4,Bazar,Mascotas General
 947280,Cama de Mascota Estandar 3,Bazar,Mascotas General
 947354,Sarten Plancha Tramontina,Bazar,Articulos de Cocina
@@ -27497,6 +27514,7 @@ id_producto,producto,categoria,subcategoria
 990548,Pyrex Cuadrado con Tapa,Bazar,Menaje Vidrio/Cristal
 990664,Lapices de Colores Faber Castell Acuarelable 12 Colores,Bazar,Librería
 990665,Lapices de Colores Faber Castell Acuarelable 24 Colores,Bazar,Librería
+990685,BOTELLA DEPOR/500ML SAN REMO 756/30E,Bazar,Menaje Plástico
 990880,CRAYONES DELGADO ARTESCO X 12UND.,Bazar,Librería
 990881,CRAYONS GRUESOS ARTESCO X 12UND.,Bazar,Librería
 990889,Lapices de Colores Artesco Corto 12 Colores,Bazar,Librería
