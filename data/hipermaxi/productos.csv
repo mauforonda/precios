@@ -8062,9 +8062,13 @@ id_producto,producto,categoria,subcategoria
 225035,DESODORANTE REVIVE NITRO FORCE 150ML,Cuidado Personal,Cuidado de la Piel
 225036,PACK MENT ELITE VUELTA CLASES,Cuidado Personal,Cuidado Familiar
 225037,Dulce de Leche Granja de Oro 250 gr,Lácteos y Derivados,Dulces de Leche y Manjares
+225041,PACK DEO DOVE PROT TOTAL+INVISIBLE 150 M,Cuidado Personal,Cuidado de la Piel
+225042,CREMA DENTAL PEPSODENT X WHITENING 130 G,Cuidado Personal,Cuidado Bucal
 225048,PACK 2 DEO SECRET AT GEL VAINILLA 45G,Cuidado Personal,Cuidado de la Piel
 225049,Shampoo Head Shoulder Manzana 650 ml,Cuidado Personal,Cuidado del Cabello
 225080,PACK NINET CLASICA X100 + RN 80,Cuidado del Bebé,Cuidado del Bebé
+225086,PASTILLA INODOROS LAVANDA 3X34GR,Cuidado del Hogar,Limpieza de Baños
+225091,3M ROLO QUITAPELUSA DE MASCOTAS,Cuidado del Hogar,Accesorios del Hogar
 225120,Shampoo Head Shoulder Anticaida Cafeina 650 ml,Cuidado Personal,Cuidado del Cabello
 225121,PACK 2 DEO OLDSPICE AT SPRAY EXTREME150M,Cuidado Personal,Cuidado de la Piel
 225130,PACK TALCO PIE CILKA 250+170GR,Cuidado Personal,Cuidado de la Piel
@@ -10040,12 +10044,15 @@ id_producto,producto,categoria,subcategoria
 321176,Salsa Brixy Barbecue 300 gr,Abarrotes,Aderezos
 321276,Maltita Potosina 355 ml,Bebidas,Bebidas Varias
 321342,ALIMENTO RAZA P GATOS CASTRADOS 1KG,Abarrotes,Mascotas
+321347,CHOCOL TABOADA FELICIDADES CJA NEGRA 200,Abarrotes,Chocolates y Caramelos
 321350,VAPE WAKA CREATOR POD STRAWB GRAPE 20K P,Bebidas,Cigarrillos
 321358,VINO CYT RESERVADO FRUTAL MELON 750ML,Bebidas,Vinos y Champagne
 321361,VINAGRE CASTELO ALCOHOL 6P CITRICO 2LT,Abarrotes,Básicos
 321363,VINAGRE CASTELO ALCOHOL 6P MZ VERDE 2LT,Abarrotes,Básicos
 321364,Jugo Cifrut Citrus Punch 1 Lt,Bebidas,"Jugos, Néctar"
 321366,CERVEZA HEINEKEN LTA 710ML,Bebidas,Cervezas
+321368,PAPA LUKA CHURRASCO BSA 175G,Abarrotes,Snack
+321369,PAPA LUKA QUESO BSA 175G,Abarrotes,Snack
 321373,PACK 6CERVEZAS BENDITA PILS LTA 310ML,Bebidas,Cervezas
 321375,JUGO PILFRUT PINA PET 2LT,Bebidas,"Jugos, Néctar"
 321376,MANTEQ MR NUTS CHOCOL CROCANTE SIN AZUC,Abarrotes,Repostería
@@ -11416,7 +11423,7 @@ id_producto,producto,categoria,subcategoria
 380110,Pañales Huggies Natural Care M 60 un,Cuidado del Bebé,Pañales
 380122,Pasta Dental Foramen Kids Fresa 75 ml,Cuidado Personal,Cuidado Bucal
 380123,Hilo Dental Foramen Con Arco 30 un,Cuidado Personal,Cuidado Bucal
-380180,Cepillo Condor Limpia Baño Con Base,Cuidado del Hogar,Accesorios del Hogar
+380180,Cepillo Sanitario Cóndor,Cuidado del Hogar,Accesorios del Hogar
 380187,Alimento Whiskas Adulto Pescado 3 kg,Abarrotes,Mascotas
 380221,Toallas Humedas Huggies Limpieza Total 80 un,Cuidado del Bebé,Cuidado del Bebé
 380222,Toallas Humedas Huggies Limpieza Total 48 un,Cuidado del Bebé,Cuidado del Bebé
@@ -12063,6 +12070,7 @@ id_producto,producto,categoria,subcategoria
 428221,Salsa Ragu Tradicional 1.27 kg,Abarrotes,Productos Americanos
 428718,Vinagre Doña Filo Sushi Arroz 750 ml,Abarrotes,Básicos
 429420,Gelatina Frutigel Fresa 250 gr,Abarrotes,Repostería
+429538,Guantes Eterna Trabajo Pesado Talla M,Cuidado del Hogar,Accesorios del Hogar
 429546,Guantes Eterna Trabajo Pesado Talla L,Cuidado del Hogar,Accesorios del Hogar
 429589,Esponja Eterna Fibra Limpiadora Abrasiva 3 un,Cuidado del Hogar,Accesorios del Hogar
 429597,Esponja Eterna Fibra Limpiadora Abrasiva 6 un,Cuidado del Hogar,Accesorios del Hogar
@@ -21956,8 +21964,11 @@ id_producto,producto,categoria,subcategoria
 674722,CASSATTA GOLD MENTA NORDLAND 1000ML,Congelados,"Helados, Cassattas y Picoleses"
 674723,CASSATTA GOLD ASAI NORDLAND 1000ML,Congelados,"Helados, Cassattas y Picoleses"
 674724,CASSATTA GOLD COCO NORDLAND 1000ML,Congelados,"Helados, Cassattas y Picoleses"
+674729,YOGURT BEBIBLE DESCREMADO PROBIOTICO MARACUYA 1LT,Lácteos y Derivados,Yogures
+674730,YOGURT BEBIBLE DESCREMADO PROBIOTICO MARACUYA 250ML,Lácteos y Derivados,Yogures
 674731,YOGURT NORDLAND BIO DRINK FRUTILLA 1000ML,Lácteos y Derivados,Yogures
 674732,YOGURT NORDLAND BIO DRINK MORA 1000ML,Lácteos y Derivados,Yogures
+674738,PACK PIQUEO CARNAVALERO LA PREVIA OSFIM UNI,Fiambres,Fiambres Externos
 674786,BONDIOLA DE CERDO SOFIA REFRIGERADA A/V KGR,Fiambres,Fiambres Externos
 674787,LOMO DE CERDO SOFIA REFRIGERADO A/V KGR,Fiambres,Fiambres Externos
 674788,LOMITO DE CERDO SOFIA REFRIGERADO A/V KGR,Fiambres,Fiambres Externos
