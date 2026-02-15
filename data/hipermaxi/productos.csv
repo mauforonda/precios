@@ -2023,6 +2023,7 @@ id_producto,producto,categoria,subcategoria
 25950,JUGO PROMOS CRANBERRY 500ML,Bebidas,"Jugos, Néctar"
 25951,Isotonico Active Mango Zero 600 ml,Bebidas,Isotónicos
 25952,Isotonico Active Sandia Zero 600 ml,Bebidas,Isotónicos
+25953,AGUARDIENTE CRISTAL SIN AZUC 750ML,Bebidas,Licores
 25954,Vino Campo de Solana Malbec Bad Lands 750 ml,Bebidas,Vinos y Champagne
 25955,SALSA CAYETANA LISTA P PIZZA LTA 400G,Abarrotes,Salsas y Extracto de Tomate
 25956,TWOPACK ENERGIZANTE VOLT 473 ML,Bebidas,Energizantes
@@ -3988,6 +3989,7 @@ id_producto,producto,categoria,subcategoria
 100224,Champiñones en Rodajas Roland 227 gr,Abarrotes,Productos Americanos
 100225,Sal Marina Gruesa Roland 750 gr,Abarrotes,Productos Americanos
 100244,Leche De Coco Roland 414 ml,Abarrotes,Productos Americanos
+100264,PASTA DON MAXIMO MACARRON 400 GR,Abarrotes,Básicos
 100265,Mostaza Cepera Amarilla 870 gr,Abarrotes,Aderezos
 100267,Salsa Celina Chocolate 1300 gr,Abarrotes,Repostería
 100271,Chocolate Georgalos con Mani Sin Azucar 35 gr,Abarrotes,Golosinas - Varias
@@ -4043,7 +4045,9 @@ id_producto,producto,categoria,subcategoria
 100596,Dulce La Rinconada Higo 470 gr,Abarrotes,"Mermel, Mieles"
 100600,Chia Benexia Blanca Omega 3 250 gr,Abarrotes,Nutrición Infantil
 100602,Avena Kris Instantanea 400 gr,Abarrotes,Nutrición Infantil
+100603,SPAGUETTI DON MAXIMO 400 GR,Abarrotes,Básicos
 100604,Masticable Super Next Fresa 336 gr,Abarrotes,Golosinas - Varias
+100606,TALLARIN DON MAXIMO 400 GR,Abarrotes,Básicos
 100615,Cotonetes Septona Bolsa 200 un +100,Cuidado del Bebé,Cuidado del Bebé
 100616,Cepillo Dental Doctor Dent Tabaco Café Extra Duro Fumador,Cuidado Personal,Cuidado Bucal
 100617,Jaboncillo Barra Heno de Pravia Natural 150 gr,Cuidado del Hogar,Productos Americanos
@@ -4054,6 +4058,8 @@ id_producto,producto,categoria,subcategoria
 100624,Cepillo Dental Doctor Dent Mordillo Angry Bird,Cuidado del Bebé,Kids
 100625,Gomita Haribo Happy Cola 80 gr,Abarrotes,Golosinas - Varias
 100626,Cepillo Dental Doctor Dent Mordillo Pocoyo,Cuidado del Bebé,Kids
+100628,PASTA DON MAXIMO CODITO FINO 400 GR,Abarrotes,Básicos
+100629,PASTA DON MAXIMO TRIPITA BSA 400 GR,Abarrotes,Básicos
 100630,Sopa Instantanea Nissin Costilla 85 gr,Abarrotes,Básicos
 100631,Te Verde Carmencita 10 Sobres,Abarrotes,Café y Sucedáneos
 100638,Salsa Celina Frutilla 400 gr,Abarrotes,Repostería
@@ -4119,6 +4125,7 @@ id_producto,producto,categoria,subcategoria
 101011,Ketchup Heinz 3.23 kg,Abarrotes,Productos Americanos
 101028,Gaseosa Coka Quina Libre 750 ml,Bebidas,Gaseosas
 101029,Gaseosa Coka Quina Libre 2 L,Bebidas,Gaseosas
+101045,FIDEO DON MAXIMO CARACOL 400G,Abarrotes,Básicos
 101061,Dorito Frito Lays Queso 110 gr,Abarrotes,Snack
 101063,Toallas Humedas Huggies Limpieza Efectiva 6x192 un,Cuidado del Bebé,Cuidado del Bebé
 101064,Barra Cereal Natuser Miel Chia 25 gr,Abarrotes,Nutrición Infantil
@@ -4292,6 +4299,7 @@ id_producto,producto,categoria,subcategoria
 101621,Galleta Wafer Isabela Frutilla 100 gr,Abarrotes,Galletas
 101622,Galleta Wafer Isabela Chocolate Suizo 100 gr,Abarrotes,Galletas
 101623,Galleta Wafer Isabela Chocolate Blanco 100 gr,Abarrotes,Galletas
+101625,Ron Kraken Black 750 ml,Bebidas,Licores
 101626,Harina In Nutra Quinua Real 400 gr,Abarrotes,Básicos
 101631,Hojuelas de Quinua In Nutra 350 gr,Abarrotes,Nutrición Infantil
 101635,Bombon Garoto Surtido 250 gr,Abarrotes,Chocolates y Caramelos
@@ -6580,6 +6588,7 @@ id_producto,producto,categoria,subcategoria
 152816,Gaseosa Big Cola 3 L,Bebidas,Gaseosas
 152817,Nectar Pulp Durazno 315 ml,Bebidas,"Jugos, Néctar"
 152820,Atun Van Camps al Aceite 320 gr,Abarrotes,Comidas en Conserva
+152821,GASEOSA ORO TRADICIONAL PET 600ML,Bebidas,Gaseosas
 152824,Gaseosa Sabor Oro 3 L,Bebidas,Gaseosas
 152994,Hamburguesa Hipermaxi kg,Carnes,Carnes Procesadas
 153017,Cepillo Dental Doctor Dent Peques Sirenita,Cuidado del Bebé,Kids
@@ -8064,11 +8073,20 @@ id_producto,producto,categoria,subcategoria
 225037,Dulce de Leche Granja de Oro 250 gr,Lácteos y Derivados,Dulces de Leche y Manjares
 225041,PACK DEO DOVE PROT TOTAL+INVISIBLE 150 M,Cuidado Personal,Cuidado de la Piel
 225042,CREMA DENTAL PEPSODENT X WHITENING 130 G,Cuidado Personal,Cuidado Bucal
+225043,LABIAL OH Q BRILLO  BACANA,Cuidado Personal,Cuidado de la Piel
+225044,LABIAL VOGUE OH Q BRILLO  CHULA,Cuidado Personal,Cuidado de la Piel
+225046,LABIAL OH Q BRILLO  BUENAZA,Cuidado Personal,Cuidado de la Piel
+225047,LABIAL OH Q BRILLO  GUAPA,Cuidado Personal,Cuidado de la Piel
 225048,PACK 2 DEO SECRET AT GEL VAINILLA 45G,Cuidado Personal,Cuidado de la Piel
 225049,Shampoo Head Shoulder Manzana 650 ml,Cuidado Personal,Cuidado del Cabello
+225060,LABIAL OH Q BRILLO BOMBA LATINA,Cuidado Personal,Cuidado de la Piel
+225062,LABIAL OH Q BRILLO IMPARABLE,Cuidado Personal,Cuidado de la Piel
+225075,LIMPIAPISO  BRISTAR NEUTRALIZ DE OLORE 9,Cuidado del Hogar,Limpieza de Living y Ropero
+225076,LIMPIA PISO BRISTAR NEUTRALIZ  OLORES  1,Cuidado del Hogar,Limpieza de Living y Ropero
 225079,PACK NINET CLASICA X100 + TAPER X100,Cuidado del Bebé,Cuidado del Bebé
 225080,PACK NINET CLASICA X100 + RN 80,Cuidado del Bebé,Cuidado del Bebé
 225086,PASTILLA INODOROS LAVANDA 3X34GR,Cuidado del Hogar,Limpieza de Baños
+225087,PASTILLAS  INODORO ARCHER  FLORAL 3 X34,Cuidado del Hogar,Limpieza de Baños
 225091,3M ROLO QUITAPELUSA DE MASCOTAS,Cuidado del Hogar,Accesorios del Hogar
 225093,BIPACK HUGGIES ACTIVE SEC G 2X58,Cuidado del Bebé,Pañales
 225094,BIPACK HUGGIES ACTIVE SEC XG 2X48,Cuidado del Bebé,Pañales
@@ -8119,6 +8137,28 @@ id_producto,producto,categoria,subcategoria
 225192,SUAVIZANTE MAXIBRILL CLASICO 5 LT,Cuidado del Hogar,Limpieza de la Ropa
 225193,Mate Lupi Anis Economico 20 un,Abarrotes,Café y Sucedáneos
 225194,Mate Lupi Coca Economico 20 un,Abarrotes,Café y Sucedáneos
+225196,ESMALTE VOGUE S RAPIDO BRISA TROPICAL,Cuidado Personal,Cuidado de la Piel
+225198,ESMALTE VOGUE S RAPIDO LATIN FIESTA,Cuidado Personal,Cuidado de la Piel
+225199,ESMALTE VOGUE ENA MORADA,Cuidado Personal,Cuidado de la Piel
+225200,ESMALTE VOGUE SRAP ATARDECER CALIDO,Cuidado Personal,Cuidado de la Piel
+225201,ESMALTE VOGUE GEL S RAPIDO AMO ROSA,Cuidado Personal,Cuidado de la Piel
+225202,ESMALTE VOGUE GEL S RAPIDO DULZURA REAL,Cuidado Personal,Cuidado de la Piel
+225203,ESMALTE VOGUE S RAPIDO ROJO ANTOJO,Cuidado Personal,Cuidado de la Piel
+225204,ESMALTE VOGUE S RAPIDO BESO PICANTE,Cuidado Personal,Cuidado de la Piel
+225205,ESMALTE VOGUE S RAPIDO NOCHE ESTRELLADA,Cuidado Personal,Cuidado de la Piel
+225206,ESMALTE VOGUE S RAPIDO RITMO CARNAVAL,Cuidado Personal,Cuidado de la Piel
+225208,ESMALTE VOGUE S RAPIDO SELVA PROFUNDA,Cuidado Personal,Cuidado de la Piel
+225209,ESMALTE GEL SECADO RAPIDO IGU AZUL,Cuidado Personal,Cuidado de la Piel
+225210,ESMALTE VOGUE S RAPIDO CARIBE SAZÓN,Cuidado Personal,Cuidado de la Piel
+225211,ESMALTE GEL VOGUE S RAPIDO VERANO FELIZ,Cuidado Personal,Cuidado de la Piel
+225212,ESAMALTE GEL VOGUE S RAPIDO SOL PLAYERO,Cuidado Personal,Cuidado de la Piel
+225214,ESMALTE S RAPIDO BAILE INTENSO,Cuidado Personal,Cuidado de la Piel
+225216,ESMALTE VOGUE SECADO RAPIDO AMOR LATINO,Cuidado Personal,Cuidado de la Piel
+225217,ESMALTE VOGUE SRAPIDO VINO ARGENTINO,Cuidado Personal,Cuidado de la Piel
+225218,ESMALTE VOGUE GEL S.RAPIDO FUEGO PURO,Cuidado Personal,Cuidado de la Piel
+225219,ESMALTE VOGUE S RAPIDO CORAZON FUERTE,Cuidado Personal,Cuidado de la Piel
+225220,ESMALTE VOGUE S RAPIDO GLACIAR INMENSO,Cuidado Personal,Cuidado de la Piel
+225221,ESMALTE VOGUE S RAPIDO PASION PROFUNDA,Cuidado Personal,Cuidado de la Piel
 225222,AROMASENSE MAGIC NIGHT X230ML,Cuidado Personal,Cuidado de la Piel
 225225,Gel Fijador Fixer Incoloro 1 kg,Cuidado Personal,Cuidado del Cabello
 225226,AROMASENSE VANILLA SUNRISE X230ML,Cuidado Personal,Cuidado de la Piel
@@ -9870,6 +9910,10 @@ id_producto,producto,categoria,subcategoria
 312050,Shampoo Head Shoulders Men 3en1 Control Caspa 375 ml,Cuidado Personal,Cuidado del Cabello
 312051,Shampoo Head Shoulders Men 3en1 Anticaspa 700 ml,Cuidado Personal,Cuidado del Cabello
 312052,Shampoo Head Shoulders Men 3en1 Anticaspa 200 ml,Cuidado Personal,Cuidado del Cabello
+312102,WHISKY CHANCELLER S MIEL BOT 1LT,Bebidas,Licores
+312103,WHISKY CHANCELLER MANZ VERDE 1LT,Bebidas,Licores
+312104,BEBIDA MOYI MOJITO LIMON LTA 300ML,Bebidas,Licores
+312105,BEBIDA MOYI MOJITO MARACUYA LTA 355ML,Bebidas,Licores
 312176,Set Churrasquero Tramontina Grande 2 un,Bazar,Churrasquería
 312290,Huevo Bon o Bon Leche 110 gr,Abarrotes,Temporada
 312711,Lustra mueble Archer Recarga 860 ml,Cuidado del Hogar,Limpieza de Living y Ropero
@@ -10052,7 +10096,10 @@ id_producto,producto,categoria,subcategoria
 321342,ALIMENTO RAZA P GATOS CASTRADOS 1KG,Abarrotes,Mascotas
 321347,CHOCOL TABOADA FELICIDADES CJA NEGRA 200,Abarrotes,Chocolates y Caramelos
 321350,VAPE WAKA CREATOR POD STRAWB GRAPE 20K P,Bebidas,Cigarrillos
+321352,CHOCOLATE TABOADA FRUTILLA TAB 100G,Abarrotes,Chocolates y Caramelos
+321357,VODKA RAJSKA TRIDESTIL 1LT,Bebidas,Licores
 321358,VINO CYT RESERVADO FRUTAL MELON 750ML,Bebidas,Vinos y Champagne
+321359,PACK RON V CALDAS CRUZ 5A 750ML 2VASO,Bebidas,Licores
 321361,VINAGRE CASTELO ALCOHOL 6P CITRICO 2LT,Abarrotes,Básicos
 321363,VINAGRE CASTELO ALCOHOL 6P MZ VERDE 2LT,Abarrotes,Básicos
 321364,Jugo Cifrut Citrus Punch 1 Lt,Bebidas,"Jugos, Néctar"
@@ -10062,9 +10109,14 @@ id_producto,producto,categoria,subcategoria
 321373,PACK 6CERVEZAS BENDITA PILS LTA 310ML,Bebidas,Cervezas
 321375,JUGO PILFRUT PINA PET 2LT,Bebidas,"Jugos, Néctar"
 321376,MANTEQ MR NUTS CHOCOL CROCANTE SIN AZUC,Abarrotes,Repostería
+321378,COCTEL OLD TRADI LIMON 750ML,Bebidas,Licores
+321379,COCTEL OLD TRADI FRUTOS ROJOS 750ML,Bebidas,Licores
 321381,LONCHERA CREMOSITAS SUBLIME 3UNID,Abarrotes,Galletas
+321383,COCTEL OLD TRADI COCO 750ML,Bebidas,Licores
 321387,LECHE CONDENSADA PIL BSA 1KG,Abarrotes,Nutrición Infantil
+321388,HIDRATANTE SUEROX COCO 630ML,Bebidas,Isotónicos
 321398,RUSH ENERGY CARNAVAL LTA 269ML,Bebidas,Energizantes
+321399,WHISKY CHANCELLER S CANELA BOT 1LT,Bebidas,Licores
 321440,ACEITE MAGIC TIME ORIGINAL SPRAY 5 OZ,Abarrotes,Básicos
 321444,ARROZ GOYA MEXICAN RICE CJA 6 OZ,Abarrotes,Básicos
 321445,ARROZ GOYA COCONUT CJA 7 OZ,Abarrotes,Básicos
@@ -13572,6 +13624,7 @@ id_producto,producto,categoria,subcategoria
 550101,Toffe Ambrosoli England Mint 550 gr,Abarrotes,Chocolates y Caramelos
 550102,Gomita Ambrosoli Sandia 100 gr,Abarrotes,Golosinas - Varias
 550104,Pipoca Frutillita con Mantequilla,Abarrotes,Snack
+550105,Papa Georges Frita Miel Mostaza,Abarrotes,Snack
 550109,Gaseosa Coca Cola Fanta Two Pack 2 L,Bebidas,Gaseosas
 550110,Two Pack Gaseosa Coca Cola + Fanta 3 L,Bebidas,Gaseosas
 550111,Gaseosa Coca Cola Sprite Two Pack 2 L,Bebidas,Gaseosas
@@ -15802,6 +15855,7 @@ id_producto,producto,categoria,subcategoria
 553768,GASEOSA HIGH SODA MOCOCHINCHI BOT 2L,Bebidas,Gaseosas
 553769,PACKS ESTUCHE FINI ESCOLAR UND,Abarrotes,Golosinas - Varias
 553770,PIPOCAS CHOCO POP CHOCOLATE LECHE 35 GR,Abarrotes,Snack
+553773,CERVEZA OCCIDENTAL PILSEN LTA 473 CC,Bebidas,Cervezas
 553774,PACK 3 CERVEZA PAULANER POSA VASOS,Bebidas,Cervezas
 553776,BON O BON LATA CUADRADA 530G,Abarrotes,Chocolates y Caramelos
 553777,CHOCOLATE EL CEIBO MI UNIVERSO CJA 70 GR,Abarrotes,Chocolates y Caramelos
@@ -15814,7 +15868,9 @@ id_producto,producto,categoria,subcategoria
 553787,ALTA VIDA SALSA SOYA TERIYAKI 500 ML,Abarrotes,Condimentos y Legumbres
 553788,PACK 6 SANGRIA BY BURBUSH 355ML,Bebidas,Vinos y Champagne
 553789,PACK 2 BEBIDA REBEL 473 ML,Bebidas,Licores
+553794,NECTAR DURAZNO DEL SOL LIGHT BOT 300ML,Bebidas,"Jugos, Néctar"
 553796,NECTAR GUAYABA DEL SOL LIGHT BOT 300 ML,Bebidas,"Jugos, Néctar"
+553797,NECTAR MARACUYA DEL SOL LIGHT BOT 300 ML,Bebidas,"Jugos, Néctar"
 553854,SANGRIA BURBUSHHH BOT 355 ML,Bebidas,Vinos y Champagne
 554333,Cerveza Paceña Lata Roja 473 Cc,Bebidas,Cervezas
 554466,Detergente Liquido Ola Futuro Limpieza Completa 5 L,Cuidado del Hogar,Limpieza de la Ropa
@@ -21979,6 +22035,9 @@ id_producto,producto,categoria,subcategoria
 674705,ALIMENTO LACTEO BONLE UHT 800ML,Lácteos y Derivados,Leches
 674706,HELADO DUO CREMA AMERICANA MARACUYA DELIZIA 850ML,Congelados,"Helados, Cassattas y Picoleses"
 674707,HELADO DUO CREMA AMERICANA MANGO DELIZIA 850ML,Congelados,"Helados, Cassattas y Picoleses"
+674708,YOGURT BEBIBLE PURITA COCO 2LTS,Lácteos y Derivados,Yogures
+674709,YOGURT BEBIBLE PURITA DURAZNO 2LTS,Lácteos y Derivados,Yogures
+674710,YOGURT BEBIBLE PURITA FRUTILLA 2LTS,Lácteos y Derivados,Yogures
 674712,PACK ALASITAS OSFIM UNIDAD,Fiambres,Fiambres Externos
 674713,BOLITA MOZZARELLA ESTANCIA NESKRAFT UN,Lácteos y Derivados,Quesos
 674719,REQUESON JOLDEN 200GRS,Lácteos y Derivados,Quesos
@@ -21991,6 +22050,7 @@ id_producto,producto,categoria,subcategoria
 674730,YOGURT BEBIBLE DESCREMADO PROBIOTICO MARACUYA 250ML,Lácteos y Derivados,Yogures
 674731,YOGURT NORDLAND BIO DRINK FRUTILLA 1000ML,Lácteos y Derivados,Yogures
 674732,YOGURT NORDLAND BIO DRINK MORA 1000ML,Lácteos y Derivados,Yogures
+674737,PACK CARNAVALERO A LA BRASA OSFIM UNI,Fiambres,Fiambres Externos
 674738,PACK PIQUEO CARNAVALERO LA PREVIA OSFIM UNI,Fiambres,Fiambres Externos
 674786,BONDIOLA DE CERDO SOFIA REFRIGERADA A/V KGR,Fiambres,Fiambres Externos
 674787,LOMO DE CERDO SOFIA REFRIGERADO A/V KGR,Fiambres,Fiambres Externos
@@ -23633,6 +23693,7 @@ id_producto,producto,categoria,subcategoria
 787215,Queso Mozzarella La Lechera Charagua 1 kg,Lácteos y Derivados,Quesos
 787230,Tortillas Bimbo Rapiditas Light XXL 420 gr,Congelados,Masas y Comidas Congeladas
 787233,Leche Bonle enriquecido 800 ml,Lácteos y Derivados,Leches
+787235,Lomito Premium Fridosa Al Vacio kg,Carnes,Carnes al Vacio Externas
 787247,Cafe de Manha Activia Amaranto Papaya 170 gr,Lácteos y Derivados,Postres
 787249,Cafe de Manha Activia Linaza Morango 170 gr,Lácteos y Derivados,Postres
 787251,Tortillas Bimbo Rapiditas Integral 310 gr,Congelados,Masas y Comidas Congeladas
@@ -26251,7 +26312,7 @@ id_producto,producto,categoria,subcategoria
 865659,OLLA PREMIUN N20 C/T VIDRIO 3LT,Bazar,Articulos de Cocina
 865660,OLLA PREMIUN N 18 C/T VIDRIO 2.2LT,Bazar,Articulos de Cocina
 865661,OLLA PREMIUN  N18 C/T VIDRIO 1.2LT,Bazar,Articulos de Cocina
-865748,DA FLORES ARTIFICIALES 15,Bazar,Regalos/Adornos
+865748,Flores Artificiales,Bazar,Regalos/Adornos
 865812,Jugo Frutall Manzana Light 1 L,Abarrotes,Dietéticos y Saludables
 865827,Jugo Frutall Durazno Light 1 L,Abarrotes,Dietéticos y Saludables
 865843,ESTUFA HALOGENA BRIARA NSTK-120A5,Bazar,Electrodoméstico/Línea Blanca-Hogar
@@ -26300,8 +26361,8 @@ id_producto,producto,categoria,subcategoria
 867478,BORRADOR GOLDFISH X2 KEYROAD,Bazar,Librería
 867490,CORRECTOR SECO 5MM GEL,Bazar,Librería
 867528,SET CUCHILLO +CAHIRA TRAMONTINA,Bazar,Churrasquería
-867543,BOLSA REGALO SAN VALENTIN 7.5,Bazar,Regalos/Adornos
-867544,JAN BOLSA REGALO SAN VALENTIN 12,Bazar,Regalos/Adornos
+867543,Bolsa de Regalo San Valentin,Bazar,Regalos/Adornos
+867544,Bolsa de Regalo San Valentin,Bazar,Regalos/Adornos
 867800,Rabano,Frutas y Verduras,Verduras
 867898,Pack Limones Amarillos 25 un,Frutas y Verduras,Frutas
 867987,Papas Congeladas Tradicional Simplot  700 g,Congelados,Masas y Comidas Congeladas
