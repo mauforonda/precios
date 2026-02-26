@@ -1831,6 +1831,7 @@ id_producto,producto,categoria,subcategoria
 25247,Cafe Coroicafe Grano 250 gr,Abarrotes,Café y Sucedáneos
 25249,Vino Chakana Nuna Blnaco Blend 750 ml,Bebidas,Vinos y Champagne
 25252,MARSMALLOWS CRISMELOS TWISTER 240G,Abarrotes,Chocolates y Caramelos
+25253,CURCUMA DAMABRAVA MOLIDA FCO 66G,Abarrotes,Condimentos y Legumbres
 25254,GOMITA FINI MORAS 15G,Abarrotes,Golosinas - Varias
 25255,GOMITA FINI BANANAS 15G,Abarrotes,Golosinas - Varias
 25257,SNACK PITA CHIPS CEBOLLA BSA 150G,Abarrotes,Snack
@@ -1866,6 +1867,7 @@ id_producto,producto,categoria,subcategoria
 25299,Vodka Matrioshka 750 ml,Bebidas,Licores
 25303,TRIGO INSUFLADO FAVORITA BSA 150G,Abarrotes,Nutrición Infantil
 25304,CHUCRUT RINCON MADERAS FCO  460GR,Abarrotes,Verduras en Conserva
+25306,SALSA PICANTE INF VERDE EXT FUERTE 55ML,Abarrotes,Aderezos
 25307,VINO ROSE P DEL FUERTE SYRAH 750ML,Bebidas,Vinos y Champagne
 25312,BEBIDA SPARKLY ICE UVA BOT 300ML,Bebidas,Licores
 25313,Bebida Sparkly Ice Pera 300 ml,Bebidas,Licores
@@ -3218,6 +3220,7 @@ id_producto,producto,categoria,subcategoria
 31363,Mermelada Bien Hecho Frutilla Sin Azucar 350 gr,Abarrotes,Dietéticos y Saludables
 31364,Mermelada Bien Hecho Durazno Sin Azucar 350 gr,Abarrotes,Dietéticos y Saludables
 31365,Aceituna Verde Gustoso Entera 330 gr,Abarrotes,Verduras en Conserva
+31368,Vino Chalisse Blanco Suave 750 ml,Bebidas,Vinos y Champagne
 31370,Vino Rio Grande Bordo Tinto Seco 1 L,Bebidas,Vinos y Champagne
 31372,Gin Rocks Sunset 1 L,Bebidas,Licores
 31373,Gin Rocks Sicilian Limon 1 L,Bebidas,Licores
@@ -4353,6 +4356,7 @@ id_producto,producto,categoria,subcategoria
 101722,Sopa Instantanea Nissin Camaron 85 gr,Abarrotes,Básicos
 101729,Choclo Dez 280 gr,Abarrotes,Verduras en Conserva
 101734,Achocolatado Choco Miki 400 gr,Abarrotes,Nutrición Infantil
+101735,Achocolatado Choco Miki 200 gr,Abarrotes,Nutrición Infantil
 101739,Cigarrillo Camel Compact 20 un,Bebidas,Cigarrillos
 101741,Jugo Del Valle Manzana 2 L,Bebidas,"Jugos, Néctar"
 101742,Jugo Del Valle Durazno 2 L,Bebidas,"Jugos, Néctar"
@@ -6560,6 +6564,7 @@ id_producto,producto,categoria,subcategoria
 151140,Leche La Purita Larga Vida Natural 950 ml,Lácteos y Derivados,Leches
 151141,Leche La Purita Larga Vida Chocolatada 950 ml,Lácteos y Derivados,Leches
 151142,Leche La Purita Frutilla 950 ml,Lácteos y Derivados,Leches
+151178,JAMON AHUMADO DON PIOTR 200 GRS.,Fiambres,Fiambres Externos
 151199,Mortadela de Pollo Familiar Hipermaxi kg,Fiambres,Fiambres Hipermaxi
 151212,Tortillas Tortitacos de Trigo Integral 360 gr,Congelados,Masas y Comidas Congeladas
 151223,Cuñape Abiscochado Hipermaxi 100 gr,Panadería,Panadería Especialidades Hipermaxi
@@ -8077,6 +8082,8 @@ id_producto,producto,categoria,subcategoria
 225010,Licor Cinzano Rosso 950 ml,Bebidas,Licores
 225031,AROMASENSE POWER SEDUCTION X230ML,Cuidado Personal,Cuidado de la Piel
 225032,AROMASENSE PURE DIAMONDS X230ML,Cuidado Personal,Cuidado de la Piel
+225033,BABY VALE TOALLA HUMEDA X50,Cuidado del Bebé,Cuidado del Bebé
+225034,BABY VALE TOALLA HUMEDA X100,Cuidado del Bebé,Cuidado del Bebé
 225035,DESODORANTE REVIVE NITRO FORCE 150ML,Cuidado Personal,Cuidado de la Piel
 225036,PACK MENT ELITE VUELTA CLASES,Cuidado Personal,Cuidado Familiar
 225037,Dulce de Leche Granja de Oro 250 gr,Lácteos y Derivados,Dulces de Leche y Manjares
@@ -8091,6 +8098,7 @@ id_producto,producto,categoria,subcategoria
 225049,Shampoo Head Shoulder Manzana 650 ml,Cuidado Personal,Cuidado del Cabello
 225060,LABIAL OH Q BRILLO BOMBA LATINA,Cuidado Personal,Cuidado de la Piel
 225062,LABIAL OH Q BRILLO IMPARABLE,Cuidado Personal,Cuidado de la Piel
+225066,JABONCILLO NOVA FRUTAL PACKX6 150GR,Cuidado Personal,Cuidado de la Piel
 225067,PACK DEO SPORT MEN + RASURADORA  ELGIN,Cuidado Personal,Cuidado de la Piel
 225075,LIMPIAPISO  BRISTAR NEUTRALIZ DE OLORE 9,Cuidado del Hogar,Limpieza de Living y Ropero
 225076,LIMPIA PISO BRISTAR NEUTRALIZ  OLORES  1,Cuidado del Hogar,Limpieza de Living y Ropero
@@ -8140,6 +8148,10 @@ id_producto,producto,categoria,subcategoria
 225163,JB SH ORIGINAL GOLD 6X1000ML,Cuidado del Bebé,Cuidado del Bebé
 225164,3M PACK ESPONJA SB MAS SANDWICHERA,Cuidado del Hogar,Accesorios del Hogar
 225165,3M PONJITA ANATOMICA + ESPONJA FACIAL,Cuidado del Hogar,Accesorios del Hogar
+225166,CAREY REP. PUNTAS PROT SEDA 30ML,Cuidado Personal,Cuidado de la Piel
+225167,CAREY REP. PUNTAS SEMI LINO 30ML,Cuidado Personal,Cuidado de la Piel
+225168,CAREY REP. PUNTAS PROT SEDA 60ML,Cuidado Personal,Cuidado de la Piel
+225170,CAREY REP. PUNTAS SEMI LINO 60ML,Cuidado Personal,Cuidado de la Piel
 225171,PANTS HIGIFRAL ROU INT  P M 16 UNDS,Cuidado Personal,Cuidado del Adulto
 225172,PANTS HIGIFRAL ROU INT G XG 16 UNDS,Cuidado Personal,Cuidado del Adulto
 225173,SUAVIZANTE MAXIBRILL FLORAL 5 LTS,Cuidado del Hogar,Limpieza de la Ropa
@@ -8158,6 +8170,7 @@ id_producto,producto,categoria,subcategoria
 225192,SUAVIZANTE MAXIBRILL CLASICO 5 LT,Cuidado del Hogar,Limpieza de la Ropa
 225193,Mate Lupi Anis Economico 20 un,Abarrotes,Café y Sucedáneos
 225194,Mate Lupi Coca Economico 20 un,Abarrotes,Café y Sucedáneos
+225195,PROTECTOR SOLAR SUNLESS FPS70 200GR,Cuidado Personal,Cuidado de la Piel
 225196,ESMALTE VOGUE S RAPIDO BRISA TROPICAL,Cuidado Personal,Cuidado de la Piel
 225197,ESMALTE VOGUE S RAPIDO ARENITA PLAYITA,Cuidado Personal,Cuidado de la Piel
 225198,ESMALTE VOGUE S RAPIDO LATIN FIESTA,Cuidado Personal,Cuidado de la Piel
@@ -10125,6 +10138,7 @@ id_producto,producto,categoria,subcategoria
 321347,CHOCOL TABOADA FELICIDADES CJA NEGRA 200,Abarrotes,Chocolates y Caramelos
 321348,CHOCOL TABOADA FELICIDADES CJA LILA 200G,Abarrotes,Chocolates y Caramelos
 321350,VAPE WAKA CREATOR POD STRAWB GRAPE 20K P,Bebidas,Cigarrillos
+321351,CHOCOLATE TABOACA C AMARANTO TAB 100G,Abarrotes,Chocolates y Caramelos
 321352,CHOCOLATE TABOADA FRUTILLA TAB 100G,Abarrotes,Chocolates y Caramelos
 321355,CHOCOLATE TABOADA C NARANJA TAB 100G,Abarrotes,Chocolates y Caramelos
 321357,VODKA RAJSKA TRIDESTIL 1LT,Bebidas,Licores
@@ -11206,6 +11220,7 @@ id_producto,producto,categoria,subcategoria
 361500,Canasta Plastica con Agarrador 15 L,Cuidado del Hogar,Accesorios del Hogar
 361510,Limpiador Sacagrasa Bristar 900 ml + Esponja,Cuidado del Hogar,Limpieza de Cocina
 361511,Limpiador de Piso Bristar Floral 1800 ml + 900 ml,Cuidado del Hogar,Limpieza de Living y Ropero
+361512,Limpiador de Piso Bristar Lavanda 1800 ml + 900 ml,Cuidado del Hogar,Limpieza de Living y Ropero
 361532,Crema de Peinar Elvive Dream Long Liss 300 ml,Cuidado Personal,Cuidado del Cabello
 361535,Shampoo Elvive Dream Long Liss 680 ml,Cuidado Personal,Cuidado del Cabello
 361536,Acondicionador Elvive Dream Long Liss 680 ml,Cuidado Personal,Cuidado del Cabello
@@ -12853,6 +12868,7 @@ id_producto,producto,categoria,subcategoria
 465542,Almendra Maya Entera 147 gr,Abarrotes,Snack
 465712,Aperitivo Dubonnet France 750 ml,Bebidas,Licores
 466365,BLOQUEADOR SOLAR LEBLON SPORT FPS50 X90G,Cuidado Personal,Cuidado de la Piel
+466474,CARLA LORENA SHAMPOO ANTICASPA X 700ML,Cuidado Personal,Cuidado del Cabello
 467270,Bacon Chips A&M 200 gr,Abarrotes,Snack
 467278,Cheezitos A&M Bacon 50 gr,Abarrotes,Snack
 467324,Pañal Adulto Plenitud Practipañal Multiuso 10 un,Cuidado Personal,Cuidado del Adulto
@@ -20276,6 +20292,7 @@ id_producto,producto,categoria,subcategoria
 669853,PONDS GEL VS MANCHAS VITAMINA C 110G,Cuidado Personal,Cuidado de la Piel
 669856,PONDS SERUM FACIAL VS MANCHAS 30G,Cuidado Personal,Cuidado de la Piel
 669857,PONDS SERUM FACIAL HYDRA ACTIVE 30G,Cuidado Personal,Cuidado de la Piel
+669862,PACK PANTENE 1SH KERATINA 300ML + 1CC KE,Cuidado Personal,Cuidado del Cabello
 669901,Pizza Hipermaxi Congelada Hawaiana 620 gr,Congelados,Masas y Comidas Congeladas
 669902,Pizza Hipermaxi Congelada Jamon Queso Light Masa Integral,Congelados,Masas y Comidas Congeladas
 669903,Pizza Hipermaxi Congelada Pepperoni 620 gr,Congelados,Masas y Comidas Congeladas
@@ -22783,6 +22800,7 @@ id_producto,producto,categoria,subcategoria
 695638,Refresco Kris Durazno 20 gr,Bebidas,Refrescos en Polvo
 695643,Refresco Kris Limon 20 gr,Bebidas,Refrescos en Polvo
 695658,Refresco Kris Pina 20 gr,Bebidas,Refrescos en Polvo
+695661,Protec.Solar Sun Kids Sensitive F50 x 200 ml,Cuidado Personal,Cuidado de la Piel
 695663,Polvo de Hornear Kris 907 gr,Abarrotes,Repostería
 695677,Placentex x 3 ampollas,Cuidado Personal,Cuidado de la Piel
 695680,Jabon Barra Floresta Miel de Abeja 100 gr,Cuidado Personal,Cuidado de la Piel
@@ -24184,7 +24202,7 @@ id_producto,producto,categoria,subcategoria
 802648,Basurero San Remo Tapa Vaiven Pequeño,Bazar Importación,Cocina General
 802653,Basurero Media Tapa Vaiven San Remo 270,Bazar Importación,Cocina General
 802693,Quita Pelusa Scoth Brite Rodillo,Cuidado del Hogar,Accesorios del Hogar
-803053,Porta Huevo San Remo,Bazar,Menaje Plástico
+803053,Porta Huevo San Remo,Bazar Importación,Menaje Plástico
 803054,Porta Sandwichera San Remo,Bazar Importación,Menaje Plástico
 803190,Te Frutte Mate Surtido 50 Sobres,Abarrotes,Café y Sucedáneos
 803403,Papa McCain Tradicional 9 Mm 2500 gr,Congelados,Masas y Comidas Congeladas
@@ -24376,7 +24394,7 @@ id_producto,producto,categoria,subcategoria
 821445,Gorro de Ducha,Bazar,Baño General
 821451,Foco Led Luminar Luz Blanca 11 W,Bazar,Ferretería
 821452,Foco Led Luminar Luz Calida 11 W,Bazar,Ferretería
-821462,Vasoo Mascota Avena Procao 500 ml,Bazar,Menaje Vidrio/Cristal
+821462,Vaso Rocks Dubai 12 Oz,Bazar,Menaje Vidrio/Cristal
 821468,Jarra Genova 1.5 L,Bazar,Menaje Vidrio/Cristal
 821472,Copa de Champagne Aragon Liso,Bazar,Menaje Vidrio/Cristal
 821474,Vasoo Liso Po Popular 6recuentre 2860 P,Bazar,Menaje Vidrio/Cristal
@@ -26865,7 +26883,7 @@ id_producto,producto,categoria,subcategoria
 883723,Audifono Huavi F2 para Celular,Bazar,Telefonía y Accesorios
 883726,Audifono Bluetooh Huavi  FH13,Bazar,Telefonía y Accesorios
 883756,VASOS 4 PIEZAS SAN REMO 0.27L 787/2C,Bazar Importación,Menaje Plástico
-883761,TAPERS SAN REMO 360/2,Bazar,Menaje Plástico
+883761,TAPERS SAN REMO 360/2,Bazar Importación,Menaje Plástico
 883903,Hervidor Premier de Agua,Bazar,Electrodoméstico/Línea Blanca-Hogar
 883905,Batidora Premier Ed 3307,Bazar,Electrodoméstico/Línea Blanca-Hogar
 883908,Juguete de Mesa Bingo,Juguetería,Juguetería Didáctica/Temporada
@@ -27143,14 +27161,14 @@ id_producto,producto,categoria,subcategoria
 906426,Vaso de Cristal Cristar Whisky,Bazar,Menaje Vidrio/Cristal
 906427,Set 6 Vasos Cristar Rocks,Bazar,Menaje Vidrio/Cristal
 906428,Vaso de Cristal Cristar,Bazar,Menaje Vidrio/Cristal
-906429,Vasoo Mascota Avena Procao 500 ml,Bazar,Menaje Vidrio/Cristal
+906429,Vaso Lexington Licor,Bazar,Menaje Vidrio/Cristal
 906436,Vasoo Mascota Avena Procao 500 ml,Bazar,Menaje Vidrio/Cristal
 906437,Set 6 Vasos Cristar Trago,Bazar,Menaje Vidrio/Cristal
 906458,Vasoo Gogh La Van GrecuentreV,Bazar,Menaje Vidrio/Cristal
 906471,Vaso de Cristal Prisma,Bazar,Menaje Vidrio/Cristal
 906473,Vaso de Cristal Prisma Largo,Bazar,Menaje Vidrio/Cristal
 906483,Vaso de Cristal Prisma Whisky,Bazar,Menaje Vidrio/Cristal
-906489,Vasoo Mascota Avena Procao 500 ml,Bazar,Menaje Vidrio/Cristal
+906489,Vaso Prisma Licor,Bazar,Menaje Vidrio/Cristal
 906496,Vaso Cervecero Hamburgo,Bazar,Menaje Vidrio/Cristal
 906616,Vaso de Cristal Strauss Largo,Bazar,Menaje Vidrio/Cristal
 906636,Vaso de Cristal Largo,Bazar,Menaje Vidrio/Cristal
@@ -27188,7 +27206,7 @@ id_producto,producto,categoria,subcategoria
 908728,Sarten Plancha Tramontina Asadora,Bazar,Churrasquería
 908733,Cuchara Batidora Tramontina,Bazar,Articulos de Cocina
 908734,Hielera Crisa de Cristal,Bazar,Articulos de Cocina
-908771,Vasoo Mascota Avena Procao 500 ml,Bazar,Menaje Vidrio/Cristal
+908771,Vaso Tequilero Crisa 2 Oz,Bazar,Menaje Vidrio/Cristal
 908773,Vaso de Cristal Crisa Cervecero,Bazar,Menaje Vidrio/Cristal
 908841,Paño Cocina Teka,Cuidado del Hogar,Productos Americanos
 908855,Gafas,Bazar,Bioseguridad
@@ -27711,7 +27729,7 @@ id_producto,producto,categoria,subcategoria
 990548,Pyrex Cuadrado con Tapa,Bazar,Menaje Vidrio/Cristal
 990664,Lapices de Colores Faber Castell Acuarelable 12 Colores,Bazar,Librería
 990665,Lapices de Colores Faber Castell Acuarelable 24 Colores,Bazar,Librería
-990685,BOTELLA DEPOR/500ML SAN REMO 756/30E,Bazar,Menaje Plástico
+990685,BOTELLA DEPOR/500ML SAN REMO 756/30E,Bazar Importación,Menaje Plástico
 990880,CRAYONES DELGADO ARTESCO X 12UND.,Bazar,Librería
 990881,CRAYONS GRUESOS ARTESCO X 12UND.,Bazar,Librería
 990889,Lapices de Colores Artesco Corto 12 Colores,Bazar,Librería
