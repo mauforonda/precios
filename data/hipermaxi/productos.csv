@@ -480,7 +480,7 @@ id_producto,producto,categoria,subcategoria
 12184,Set 6 Vasos Amasadinho,Bazar,Menaje Vidrio/Cristal
 12185,Vasoo Cod 770 P CrecuentreP,Bazar,Menaje Vidrio/Cristal
 12187,Vasoo Upc Cod Liso CrecuentreU,Bazar,Menaje Vidrio/Cristal
-12191,Vasoo Mascota Avena Procao 500 ml,Bazar,Menaje Vidrio/Cristal
+12191,Vaso de Cerveza Bristol,Bazar,Menaje Vidrio/Cristal
 12192,Pyrex Sempre Redondo Microondas,Bazar,Menaje Vidrio/Cristal
 12193,Pyrex Sempre Rectangular Microondas,Bazar,Menaje Vidrio/Cristal
 12194,Pyrex Sempre Ovalado Microondas,Bazar,Menaje Vidrio/Cristal
@@ -1157,7 +1157,7 @@ id_producto,producto,categoria,subcategoria
 17553,Tequila Mayorazgo Reposado 750 ml,Bebidas,Licores
 17555,Tequila Mayorazgo Cristalino 750 ml,Bebidas,Licores
 17556,Mani King Frito con Sal 500 gr,Abarrotes,Snack
-17563,Salsa de Ajo Cepera Tradicional 300 gr,Abarrotes,Salsas y Extracto de Tomate
+17563,Salsa de Tomate Cepera Tradicional 300 gr,Abarrotes,Salsas y Extracto de Tomate
 17570,Galleta Wafer Rolls Cambridge Chocolate  4 oz,Abarrotes,Galletas
 17571,Galleta Wafer Rolls Cambridge Vainilla 4 oz,Abarrotes,Galletas
 17572,Galleta Wafer Rolls Cambridge Cappucino 4 oz,Abarrotes,Galletas
@@ -1857,6 +1857,7 @@ id_producto,producto,categoria,subcategoria
 25279,CERVEZA PROST WINTERBIER LTA 473 ML,Bebidas,Cervezas
 25282,Lonchera Juguito Pil,Bebidas,"Jugos, Néctar"
 25284,PAPRIKA DAMABRAVA MOLIDO FCO 65G,Abarrotes,Condimentos y Legumbres
+25285,CEBOLLA MOLIDA DAMABRAVA BCA 70G,Abarrotes,Condimentos y Legumbres
 25288,Vino La Curiosa Trivarietal 750 ml,Bebidas,Vinos y Champagne
 25289,ROMERO TIERRA NUESTRA ENTERO FCO 20G,Abarrotes,Condimentos y Legumbres
 25290,Cafe Mestizo 21 Molido 250 gr,Abarrotes,Café y Sucedáneos
@@ -6575,6 +6576,7 @@ id_producto,producto,categoria,subcategoria
 151140,Leche La Purita Larga Vida Natural 950 ml,Lácteos y Derivados,Leches
 151141,Leche La Purita Larga Vida Chocolatada 950 ml,Lácteos y Derivados,Leches
 151142,Leche La Purita Frutilla 950 ml,Lácteos y Derivados,Leches
+151160,JAMON CRUDO DON PIOTR 100 GRS.,Fiambres,Fiambres Externos
 151178,JAMON AHUMADO DON PIOTR 200 GRS.,Fiambres,Fiambres Externos
 151199,Mortadela de Pollo Familiar Hipermaxi kg,Fiambres,Fiambres Hipermaxi
 151212,Tortillas Tortitacos de Trigo Integral 360 gr,Congelados,Masas y Comidas Congeladas
@@ -8362,6 +8364,7 @@ id_producto,producto,categoria,subcategoria
 228013,CREMA GOICOECHEA SERUM PIEL SECA 400ML,Cuidado Personal,Cuidado de la Piel
 228014,TALCO ALGABO DESODORANTE CELESTE 120GR,Cuidado Personal,Cuidado de la Piel
 228015,TALCO ALGABO DESODORANTE ROSA 120GR,Cuidado Personal,Cuidado de la Piel
+228016,FARMAX GEL HIDRATANTE ANTIOLEOSIDAD 100G,Cuidado Personal,Cuidado de la Piel
 228023,DEO STICK SPEED BARRA CLINICAL MSS 55 G,Cuidado Personal,Cuidado de la Piel
 228024,DEO SPEED STICK   EN BARRA CLINICAL  55,Cuidado Personal,Cuidado de la Piel
 228028,Gaseosa Coca Cola Original 2 L,Bebidas,Gaseosas
@@ -8530,6 +8533,7 @@ id_producto,producto,categoria,subcategoria
 228247,DESINFECTANTE TB BEBE 500ML-AERO,Cuidado del Hogar,Limpieza de Baños
 228248,ALGABO SH AVOCADO Y ARGAN 750 ML,Cuidado Personal,Cuidado del Cabello
 228250,ALGABO AC AVOCADO Y ARGAN 750ML,Cuidado Personal,Cuidado del Cabello
+228264,REPUESTO GILLETTE MACH3 TURBO SENSI 2,Cuidado del Hogar,Productos Americanos
 228266,RUBOR SUNKISSER 03 SOL SEARCH,Cuidado Personal,Cuidado de la Piel
 228268,RUBOR SUNKISSER 05 BLAZING BLUSH,Cuidado Personal,Cuidado de la Piel
 228269,DETERGENTE SAPOLIO LIMON 730GR,Cuidado del Hogar,Limpieza de la Ropa
@@ -10157,6 +10161,7 @@ id_producto,producto,categoria,subcategoria
 321350,VAPE WAKA CREATOR POD STRAWB GRAPE 20K P,Bebidas,Cigarrillos
 321351,CHOCOLATE TABOACA C AMARANTO TAB 100G,Abarrotes,Chocolates y Caramelos
 321352,CHOCOLATE TABOADA FRUTILLA TAB 100G,Abarrotes,Chocolates y Caramelos
+321353,CHOCOLATE BCO TABOADA C FRUTILLA TAB 100,Abarrotes,Chocolates y Caramelos
 321355,CHOCOLATE TABOADA C NARANJA TAB 100G,Abarrotes,Chocolates y Caramelos
 321357,VODKA RAJSKA TRIDESTIL 1LT,Bebidas,Licores
 321358,VINO CYT RESERVADO FRUTAL MELON 750ML,Bebidas,Vinos y Champagne
@@ -15449,6 +15454,7 @@ id_producto,producto,categoria,subcategoria
 553092,VINO ROSE JUAN DIABLO 750 ML,Bebidas,Vinos y Champagne
 553093,Pack 6 Vino Espumeante Burbushhh 300 ml,Bebidas,Vinos y Champagne
 553094,Pack 6 Cerveza Golden 440 ml,Bebidas,Cervezas
+553095,VINO 1750 TANAT GRAN RESERVA 750 ML,Bebidas,Vinos y Champagne
 553096,VINO 1750 GRAN RESERVA 750 ML,Bebidas,Vinos y Champagne
 553097,GIN INSURGENTE FRUTILLA 700 ML,Bebidas,Licores
 553098,ARROZ NELSON WENDT PARBOLIZADO 5 KG,Abarrotes,Básicos
@@ -21972,6 +21978,7 @@ id_producto,producto,categoria,subcategoria
 674403,Salchicha Viena Pio Rico Carne Sachet,Fiambres,Fiambres Externos
 674404,Jamon de Pollo Ahumado Pio Rico Sachet,Fiambres,Fiambres Externos
 674405,Chorizo Parrillero Pio Rico Picante Sachet,Fiambres,Fiambres Externos
+674406,Chorizo Parrillero Pio Rico Tradicional Sachet,Fiambres,Fiambres Externos
 674407,Chorizo Parrillero Pio Rico Ahumado Sachet,Fiambres,Fiambres Externos
 674408,Enrrollado Pio Rico Sachet,Fiambres,Fiambres Externos
 674410,Mortadela con Jamon Pio Rico Sachet,Fiambres,Fiambres Externos
@@ -22155,6 +22162,7 @@ id_producto,producto,categoria,subcategoria
 674690,POSTRE HELADO SANGRIA DELIZIA 200ML,Congelados,"Helados, Cassattas y Picoleses"
 674694,PIERNA DE CERDO SOFIA DESHUESADA C/CUERO 1KGR,Congelados,Carnes Congeladas
 674695,PIERNA DE CERDO SOFIA DESHUESADA C/CUERO 2KGR,Congelados,Carnes Congeladas
+674697,PAPA FRITA SABOR PICANTE 150G,Abarrotes,Snack
 674699,PATE DE FINAS HIERBAS SOFIA PREMIUM 100GRS,Fiambres,Fiambres Externos
 674700,PATE PECHUGA DE PAVO SOFIA PREMIUM 100GRS,Fiambres,Fiambres Externos
 674705,ALIMENTO LACTEO BONLE UHT 800ML,Lácteos y Derivados,Leches
@@ -22165,6 +22173,7 @@ id_producto,producto,categoria,subcategoria
 674710,YOGURT BEBIBLE PURITA FRUTILLA 2LTS,Lácteos y Derivados,Yogures
 674712,PACK ALASITAS OSFIM UNIDAD,Fiambres,Fiambres Externos
 674713,BOLITA MOZZARELLA ESTANCIA NESKRAFT UN,Lácteos y Derivados,Quesos
+674716,NUGGETS DE TRUCHA A/V MAR DE LIMON UNI,Congelados,Carnes Congeladas
 674719,REQUESON JOLDEN 200GRS,Lácteos y Derivados,Quesos
 674720,REQUESON JOLDEN 400GRS,Lácteos y Derivados,Quesos
 674721,LECHE DELIZIA FORTIFICADA 800ML,Lácteos y Derivados,Leches
@@ -22181,11 +22190,16 @@ id_producto,producto,categoria,subcategoria
 674737,PACK CARNAVALERO A LA BRASA OSFIM UNI,Fiambres,Fiambres Externos
 674738,PACK PIQUEO CARNAVALERO LA PREVIA OSFIM UNI,Fiambres,Fiambres Externos
 674739,CHORIZO TIPO ARGENTINO PIO RICO KILOGRAMO,Fiambres,Fiambres Externos
+674744,CHORIZO ESPA¤OL DON PIOTR 250GRS,Fiambres,Fiambres Externos
 674745,CHICOLAC CREMA AMERICANA PIL 120ML BOLSA,Lácteos y Derivados,Leches
 674748,ALFAJOR ALELU FRAMBUESA/CHOCOLATE SAMARGO 100GRS,Pastelería y Masas Típicas,Pastelería Externa
+674749,ALFAJOR ALELU FRAMBUESA CHOCOLATE LECHE 100GRS,Pastelería y Masas Típicas,Pastelería Externa
 674751,SACHET HAMBURGUESA 83 CHORIBURGER SOFIA 2X83 GRS.,Congelados,Carnes Congeladas
 674764,QUESO CHEDDAR SAN MATEO KILOGRAMO,Lácteos y Derivados,Quesos
 674765,HAMBURGUESA PICANTITA FRIDOSA 2X83GRS UNI,Congelados,Carnes Congeladas
+674766,PALITOS MEXICANOS IL GATTO 20 UNIDADES,Pastelería y Masas Típicas,Pastelería Externa
+674767,PALITOS MEXICANOS IL GATTO 10 UNIDADES,Pastelería y Masas Típicas,Pastelería Externa
+674768,PALITOS DE CANELA IL GATTO 20 UNIDAES,Pastelería y Masas Típicas,Pastelería Externa
 674786,BONDIOLA DE CERDO SOFIA REFRIGERADA A/V KGR,Fiambres,Fiambres Externos
 674787,LOMO DE CERDO SOFIA REFRIGERADO A/V KGR,Fiambres,Fiambres Externos
 674788,LOMITO DE CERDO SOFIA REFRIGERADO A/V KGR,Fiambres,Fiambres Externos
@@ -23676,6 +23690,7 @@ id_producto,producto,categoria,subcategoria
 784894,Leche Impostor Milk Vegetal Almendra Chocolate 946 ml,Lácteos y Derivados,Leches
 784897,Biscocho Blanco Victoria 4 un,Panadería,Panadería Externa
 784899,Biscocho Integral Victoria 4 un,Panadería,Panadería Externa
+784934,LOMO DE PAICHI PREMIUM KG.MAR DE LIMON,Congelados,Carnes Congeladas
 784970,Helado Cabrera Premium Caramelo Sale 500 ml,Congelados,"Helados, Cassattas y Picoleses"
 784973,Helado Cabrera Premium Caramelo Sale 1100 ml,Congelados,"Helados, Cassattas y Picoleses"
 785013,Shampoo Selfy Uso Diario 1000 ml,Cuidado Personal,Cuidado del Cabello
@@ -26268,6 +26283,7 @@ id_producto,producto,categoria,subcategoria
 860795,Caja Barbie Enganche,Bazar,Menaje Plástico
 860797,BALDECITO MIX DE 500ML REY HALLOWEN,Bazar,Menaje Plástico
 860990,Tapper Tapa Hermetica 2900 ml,Bazar Importación,Menaje Plástico
+861051,CORTA UNA DE MANOS CROMADO BETER 402889,Bazar,Bijouteria/Cuidado Personal
 861052,BROCHA DE MAQUILLAJE CONTOURING BETER,Bazar,Bijouteria/Cuidado Personal
 861053,PINCEL SOMBREADOR GRUESO PELO N13 BETER,Bazar,Bijouteria/Cuidado Personal
 861054,TAJADOR DE COSMETICA DOBLE BETER,Bazar,Bijouteria/Cuidado Personal
@@ -26401,6 +26417,9 @@ id_producto,producto,categoria,subcategoria
 863643,Chicle Fini Ensalada de Frutas 80 gr,Abarrotes,Golosinas - Varias
 863812,Hervidor de Agua 2 Lts,Bazar,Electrodoméstico/Línea Blanca-Hogar
 863820,Caja de Herramientas Tramontina Master 11 Piezas Incluidas,Bazar,Ferretería
+863829,CEPILLO CABELLO BETER NATURAL FIBER,Bazar,Bijouteria/Cuidado Personal
+863864,CEPILLO CABELLO BETER ESQUELETO C/BOLITA,Bazar,Bijouteria/Cuidado Personal
+863870,ESPEJO MACRO DE BOLSA BETER,Bazar,Bijouteria/Cuidado Personal
 863886,Vestono Lavanda Aromatizante 1recuentreL,Bazar,Automotriz
 863975,VASO COLORES FRESH HALLOWEN  REY,Bazar,Menaje Plástico
 864323,JAN MUNECO NAVIDAD GRANDE 21,Bazar,Temporada Navidad
