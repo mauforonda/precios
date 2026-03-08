@@ -1776,6 +1776,7 @@ id_producto,producto,categoria,subcategoria
 25170,NESCAFE CAPPUCCINO CJA 112G,Abarrotes,Café y Sucedáneos
 25173,GOMITA MOGUL BANANITAS BSA 30G,Abarrotes,Golosinas - Varias
 25174,TWOPACK HIDRATANTE LIFE 500ML,Bebidas,Isotónicos
+25175,YERBA MATE COLON SUAVE GRUESA 500G,Abarrotes,Café y Sucedáneos
 25179,Isotonico Aqualite Citrus 500 ml,Bebidas,Isotónicos
 25180,NESCAFE ORIGINAL EXT FUERTE DP 40G,Abarrotes,Café y Sucedáneos
 25181,PACK SINGANI DOBLE ORO 750ML 1TAZA,Bebidas,Licores
@@ -1848,6 +1849,7 @@ id_producto,producto,categoria,subcategoria
 25265,CHOCLO CEPERA LTA 170G,Abarrotes,Verduras en Conserva
 25266,Arveja Cepera 170 gr,Abarrotes,Verduras en Conserva
 25267,KETCHUP PICKLES CEPERA PET 350G,Abarrotes,Aderezos
+25268,Mermelada Dfru Ciruelo 500 gr,Abarrotes,"Mermel, Mieles"
 25269,Mermelada Dfrut Manzana 500 gr,Abarrotes,"Mermel, Mieles"
 25272,PURE D PAPA KRIS INSTANT TOCINO 125G,Abarrotes,Básicos
 25273,PURE D PAPA KRIS INSTANT TOCINO 250G,Abarrotes,Básicos
@@ -8119,6 +8121,9 @@ id_producto,producto,categoria,subcategoria
 225064,JABONCILLO NOVA FRUTAL PACKX6 75GR,Cuidado Personal,Cuidado de la Piel
 225066,JABONCILLO NOVA FRUTAL PACKX6 150GR,Cuidado Personal,Cuidado de la Piel
 225067,PACK DEO SPORT MEN + RASURADORA  ELGIN,Cuidado Personal,Cuidado de la Piel
+225068,PACK DEO SPORT WOMEN + RASURADORA ELGIN,Cuidado Personal,Cuidado de la Piel
+225069,PACK DEO TEEN BOY + RASURADORA,Cuidado Personal,Cuidado de la Piel
+225073,PACK DEO TEEN BE SWEET+ RASURADORA,Cuidado Personal,Cuidado de la Piel
 225075,LIMPIAPISO  BRISTAR NEUTRALIZ DE OLORE 9,Cuidado del Hogar,Limpieza de Living y Ropero
 225076,LIMPIA PISO BRISTAR NEUTRALIZ  OLORES  1,Cuidado del Hogar,Limpieza de Living y Ropero
 225078,LIMPIA PISO BRISTAR NEUTRALIZ  OLOR 5 L,Cuidado del Hogar,Limpieza de Living y Ropero
@@ -9981,6 +9986,7 @@ id_producto,producto,categoria,subcategoria
 312103,WHISKY CHANCELLER MANZ VERDE 1LT,Bebidas,Licores
 312104,BEBIDA MOYI MOJITO LIMON LTA 300ML,Bebidas,Licores
 312105,BEBIDA MOYI MOJITO MARACUYA LTA 355ML,Bebidas,Licores
+312122,PACK 2VINOS TRIVARIETAL 1PORTA ANTOJOS,Bebidas,Vinos y Champagne
 312176,Set Churrasquero Tramontina Grande 2 un,Bazar,Churrasquería
 312290,Huevo Bon o Bon Leche 110 gr,Abarrotes,Temporada
 312711,Lustra mueble Archer Recarga 860 ml,Cuidado del Hogar,Limpieza de Living y Ropero
@@ -19967,7 +19973,7 @@ id_producto,producto,categoria,subcategoria
 669010,Mascarilla Kocostar Hand Moisture,Cuidado Personal,Cuidado de la Piel
 669011,Mascarilla Kocostar Camellia Happy Mask,Cuidado Personal,Cuidado de la Piel
 669012,KOCOSTAR MASCARILLA FOOT MOISTURE PACK,Cuidado Personal,Cuidado de la Piel
-669013,KOCOSTAR MASCARILLA WHITE HAPPY MASK,Cuidado Personal,Cuidado de la Piel
+669013,Mascarilla Kocostar White Happy Mask,Cuidado Personal,Cuidado de la Piel
 669014,Mascarilla Kocostar Vitamina Happy Mask,Cuidado Personal,Cuidado de la Piel
 669015,Mascarilla Kocostar Slice Mask Sheet,Cuidado Personal,Cuidado de la Piel
 669028,PACK SERUM HIALURONICO+UV DEF ANTIBRILLO,Cuidado Personal,Cuidado de la Piel
@@ -22212,6 +22218,8 @@ id_producto,producto,categoria,subcategoria
 674766,PALITOS MEXICANOS IL GATTO 20 UNIDADES,Pastelería y Masas Típicas,Pastelería Externa
 674767,PALITOS MEXICANOS IL GATTO 10 UNIDADES,Pastelería y Masas Típicas,Pastelería Externa
 674768,PALITOS DE CANELA IL GATTO 20 UNIDAES,Pastelería y Masas Típicas,Pastelería Externa
+674771,QUESO FRESCO SOFIVER 500GR,Lácteos y Derivados,Quesos
+674775,REQUESON FRESCO SOFIVER 250GR,Lácteos y Derivados,Quesos
 674786,BONDIOLA DE CERDO SOFIA REFRIGERADA A/V KGR,Fiambres,Fiambres Externos
 674787,LOMO DE CERDO SOFIA REFRIGERADO A/V KGR,Fiambres,Fiambres Externos
 674788,LOMITO DE CERDO SOFIA REFRIGERADO A/V KGR,Fiambres,Fiambres Externos
@@ -26549,6 +26557,7 @@ id_producto,producto,categoria,subcategoria
 867543,Bolsa de Regalo San Valentin,Bazar,Regalos/Adornos
 867544,Bolsa de Regalo San Valentin,Bazar,Regalos/Adornos
 867558,Juguete Raton para Mascota,Bazar,Mascotas General
+867570,CORTA PELO JAMAKY JPC90056,Bazar,Electrodoméstico Cuidado Personal
 867800,Rabano,Frutas y Verduras,Verduras
 867898,Pack Limones Amarillos 25 un,Frutas y Verduras,Frutas
 867987,Papas Congeladas Tradicional Simplot  700 g,Congelados,Masas y Comidas Congeladas
@@ -27385,6 +27394,7 @@ id_producto,producto,categoria,subcategoria
 920822,Copa Larga,Bazar,Menaje Vidrio/Cristal
 920823,Vasoo Nadir 1 Whiskero 1recuentreN,Bazar,Menaje Vidrio/Cristal
 920826,Copa Vino Blanco,Bazar,Menaje Vidrio/Cristal
+920848,Set Juego Churrasquero Tramontina 2 un,Bazar,Churrasquería
 920849,Cuchillo Tramontina Acero,Bazar,Articulos de Cocina
 920859,CI.CUCHI P/COCIN NEGR*5 RECTO 22920/005,Bazar,Articulos de Cocina
 920862,Cucharon Tramontina Teflon,Bazar,Articulos de Cocina
