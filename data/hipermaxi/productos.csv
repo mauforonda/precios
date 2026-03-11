@@ -714,6 +714,7 @@ id_producto,producto,categoria,subcategoria
 14441,Mayonesa Cepera Original 730 gr,Abarrotes,Aderezos
 14443,Gomita Billiken Frutales 800 gr,Abarrotes,Golosinas - Varias
 14446,Galleta Mabel Surtido Mix 250 gr,Abarrotes,Galletas
+14447,Aceituna Zaeli Rellena 310 gr,Abarrotes,Verduras en Conserva
 14449,Galleta Mabel Maria Gold Vainilla 145 gr,Abarrotes,Galletas
 14450,Galleta Mabel Salvado 720 gr,Abarrotes,Galletas
 14460,Fideo Nutrinat Tirabuzon Tomate 250 gr,Abarrotes,Dietéticos y Saludables
@@ -5696,6 +5697,7 @@ id_producto,producto,categoria,subcategoria
 114287,Tratamiento Capilar Issue Shock Nutricion 150 gr,Cuidado Personal,Cuidado del Cabello
 114288,Tratamiento Capilar Issue Canas Fabulosa,Cuidado Personal,Cuidado del Cabello
 114290,Acido Hialuronico Revitalift Serum Ojos,Cuidado Personal,Cuidado de la Piel
+114291,Insecticida Raid 45 noches Mata Mosquito Aparato Electrico,Cuidado del Hogar,Productos Americanos
 114294,Insecticida Baygon Verde Nuevo 300 ml,Cuidado del Hogar,Productos Americanos
 114295,Tratamiento Capilar Tio Nacho Engrosador 900 ml,Cuidado Personal,Cuidado del Cabello
 114310,Servilletas Nobby Premium Mesa 50 un,Cuidado Personal,Cuidado Familiar
@@ -8522,6 +8524,7 @@ id_producto,producto,categoria,subcategoria
 228215,LABIAL VOGUE BARRA FRAMBUESA VIVA,Cuidado Personal,Cuidado de la Piel
 228216,LABIAL VOGUE  VOLUMEN AGUA DE MAR,Cuidado Personal,Cuidado de la Piel
 228217,LABIAL VOGUE ATARDECER INTENSO,Cuidado Personal,Cuidado de la Piel
+228218,LABIAL VOGUE VOLUMEN PRIMERA CALIDA,Cuidado Personal,Cuidado de la Piel
 228219,LABIAL VOGUE VOLUMEN FUEGO LATINO,Cuidado Personal,Cuidado de la Piel
 228220,LABIAL VOGUE SOL DE VERANO,Cuidado Personal,Cuidado de la Piel
 228221,SERUM OJOS LOREAL ACIDO GLICOLICO,Cuidado Personal,Cuidado de la Piel
@@ -9988,6 +9991,7 @@ id_producto,producto,categoria,subcategoria
 312104,BEBIDA MOYI MOJITO LIMON LTA 300ML,Bebidas,Licores
 312105,BEBIDA MOYI MOJITO MARACUYA LTA 355ML,Bebidas,Licores
 312122,PACK 2VINOS TRIVARIETAL 1PORTA ANTOJOS,Bebidas,Vinos y Champagne
+312133,ENDULZANTE DEZERO C STEVIA 600ML,Abarrotes,Dietéticos y Saludables
 312176,Set Churrasquero Tramontina Grande 2 un,Bazar,Churrasquería
 312290,Huevo Bon o Bon Leche 110 gr,Abarrotes,Temporada
 312711,Lustra mueble Archer Recarga 860 ml,Cuidado del Hogar,Limpieza de Living y Ropero
@@ -10193,6 +10197,7 @@ id_producto,producto,categoria,subcategoria
 321379,COCTEL OLD TRADI FRUTOS ROJOS 750ML,Bebidas,Licores
 321381,LONCHERA CREMOSITAS SUBLIME 3UNID,Abarrotes,Galletas
 321383,COCTEL OLD TRADI COCO 750ML,Bebidas,Licores
+321385,ENERGIZ VOLT GAMER D FRUTAS PET 350ML,Bebidas,Energizantes
 321387,LECHE CONDENSADA PIL BSA 1KG,Abarrotes,Nutrición Infantil
 321388,HIDRATANTE SUEROX COCO 630ML,Bebidas,Isotónicos
 321390,BEBIDA FOUR LOKO GOL LTA 695ML,Bebidas,Licores
@@ -13845,6 +13850,7 @@ id_producto,producto,categoria,subcategoria
 550282,Premezcla Natuser Quinoa Browniw 240 gr,Abarrotes,Repostería
 550283,Premezcla Bizcochuelo Natuser 240 gr,Abarrotes,Repostería
 550290,Mermelada Andean Blueberries Arandano Sin Azucar 450 gr,Abarrotes,"Mermel, Mieles"
+550293,BIPACK PEPSI 3L,Bebidas,Gaseosas
 550297,Chips de Chocolate Celinda 1 kg,Abarrotes,Repostería
 550298,Canaston Hecho en Bolivia,Abarrotes,Temporada
 550299,Canaston Bronce,Abarrotes,Temporada
@@ -14501,7 +14507,7 @@ id_producto,producto,categoria,subcategoria
 551615,Galleta Wafer Stick Look Brigadeiro 55 gr,Abarrotes,Galletas
 551621,Tripack Energizante Rockstar 300 ml CBN,Bebidas,Energizantes
 551622,"Six Pack Cerveza Stella Artois 330 ml
-",Bebidas,Cervezas
+ CBN",Bebidas,Cervezas
 551625,Vino Marques de Caceres Ecellens Suavignon Blanco 750 ml,Bebidas,Vinos y Champagne
 551626,Vino Excellens Marques de Caceres Rose 750 ml,Bebidas,Vinos y Champagne
 551628,Vino Antigal Uno Rose 750 ml,Bebidas,Vinos y Champagne
@@ -15936,6 +15942,7 @@ id_producto,producto,categoria,subcategoria
 553714,Gaseosa Dr Pepper Cream Soda 355 ml,Bebidas,Bebidas Usa
 553715,Gaseosa Dr Pepper Strawberries Cream 355 ml,Bebidas,Bebidas Usa
 553719,SAZONADOR TACO BADIA 595 GR,Abarrotes,Productos Americanos
+553726,PIMIENTOS ROJOS CON AJO ROLAND FCO 680 GR,Abarrotes,Productos Americanos
 553727,PASTA DE ACEITUNAS KALAMATA ROLAND 136 GR,Abarrotes,Productos Americanos
 553728,AGUA DE COCO TRUE LIFE LTA 500 ML,Bebidas,Bebidas Usa
 553731,CARAMELOS SOUR PATH KIDS WELCH 27.5 GR,Abarrotes,Productos Americanos
@@ -18438,6 +18445,7 @@ id_producto,producto,categoria,subcategoria
 657577,Galleta La Suprema Maria Bonita 145 gr,Abarrotes,Galletas
 657578,Galleta La Suprema Redonditas Chocolate 228 gr,Abarrotes,Galletas
 657603,Ketchup Hellmanns 500 gr,Abarrotes,Aderezos
+657605,Pack Whisky Johnnie Walker Red Label 1 L + Vaso,Bebidas,Licores
 657607,Te Supremo Manzanilla Miel 20 Sobres,Abarrotes,Café y Sucedáneos
 657608,Galleta Oreo Edicion Limitada Tubo 108 gr,Abarrotes,Galletas
 657610,Galleta La Suprema Infinitas Coco 300 gr,Abarrotes,Galletas
@@ -19894,6 +19902,7 @@ id_producto,producto,categoria,subcategoria
 668847,Toallitas Humedas Babysec Premium,Cuidado del Bebé,Cuidado del Bebé
 668848,"REVOX B77 JUST CAFFEINE 5%, 30 ML",Cuidado Personal,Cuidado de la Piel
 668851,"REVOX B77 JUST SALICYLIC ACID 2%, 30 ML",Cuidado Personal,Cuidado de la Piel
+668853,"REVOX B77 JUST GLYCOLIC ACID 20%, 30 ML",Cuidado Personal,Cuidado de la Piel
 668855,Revox Just Hidratante Collagen Amino Acidos + HA x 30 Ml,Cuidado Personal,Cuidado de la Piel
 668856,Revox Protector Solar Just Daily Sun Shield UVA+UVB x 30Ml,Cuidado Personal,Cuidado de la Piel
 668872,PACK HAIR FOOD 3X2 TRAT + ACO + SH REGAL,Cuidado Personal,Cuidado del Cabello
@@ -22193,6 +22202,7 @@ id_producto,producto,categoria,subcategoria
 674710,YOGURT BEBIBLE PURITA FRUTILLA 2LTS,Lácteos y Derivados,Yogures
 674712,PACK ALASITAS OSFIM UNIDAD,Fiambres,Fiambres Externos
 674713,BOLITA MOZZARELLA ESTANCIA NESKRAFT UN,Lácteos y Derivados,Quesos
+674715,CHICHARRON COLA LAGARTO MAR DE LIMON UNI,Congelados,Carnes Congeladas
 674716,NUGGETS DE TRUCHA A/V MAR DE LIMON UNI,Congelados,Carnes Congeladas
 674719,REQUESON JOLDEN 200GRS,Lácteos y Derivados,Quesos
 674720,REQUESON JOLDEN 400GRS,Lácteos y Derivados,Quesos
@@ -22217,11 +22227,13 @@ id_producto,producto,categoria,subcategoria
 674749,ALFAJOR ALELU FRAMBUESA CHOCOLATE LECHE 100GRS,Pastelería y Masas Típicas,Pastelería Externa
 674750,ALFAJOR ALELU PI¤A CHOCOLATE BLANCO 100GRS,Pastelería y Masas Típicas,Pastelería Externa
 674751,SACHET HAMBURGUESA 83 CHORIBURGER SOFIA 2X83 GRS.,Congelados,Carnes Congeladas
+674752,"TUBO HAMBURGUESA 83 CHORIBURGER SOFIA, BOLSA, 12X83 UND.",Congelados,Carnes Congeladas
 674764,QUESO CHEDDAR SAN MATEO KILOGRAMO,Lácteos y Derivados,Quesos
 674765,HAMBURGUESA PICANTITA FRIDOSA 2X83GRS UNI,Congelados,Carnes Congeladas
 674766,PALITOS MEXICANOS IL GATTO 20 UNIDADES,Pastelería y Masas Típicas,Pastelería Externa
 674767,PALITOS MEXICANOS IL GATTO 10 UNIDADES,Pastelería y Masas Típicas,Pastelería Externa
 674768,PALITOS DE CANELA IL GATTO 20 UNIDAES,Pastelería y Masas Típicas,Pastelería Externa
+674770,QUESO FRESCO SOFIVER 900GR,Lácteos y Derivados,Quesos
 674771,QUESO FRESCO SOFIVER 500GR,Lácteos y Derivados,Quesos
 674775,REQUESON FRESCO SOFIVER 250GR,Lácteos y Derivados,Quesos
 674776,HELADO CONO YOGURT PIE DE LIMON 140ML,Congelados,"Helados, Cassattas y Picoleses"
@@ -25496,7 +25508,7 @@ id_producto,producto,categoria,subcategoria
 852377,Juguete Bloques para Armar 57 Piezas,Juguetería Importación,Juguetería Didáctica/Temporada
 852388,Juguete Bloques para Armar 60 pz,Juguetería Importación,Juguetería Didáctica/Temporada
 852428,Juguete Carrito con Accesorios Plata set 8,Juguetería Importación,Juguetería Didáctica/Temporada
-852431,CH 20 68 JUGUETE CAMION CON PALAS Y ANIMALES PARA PLAYA X5PZ,Juguetería Importación,Juguetería Didáctica/Temporada
+852431,Juguete Camion con Pala Animales 5 pz,Juguetería Importación,Juguetería Didáctica/Temporada
 852432,Muñeca con Vestido,Juguetería Importación,Juguetería Niña/Bebé
 852437,Juguete Muñeca Bebe con Biberon,Juguetería Importación,Juguetería Niño/Bebé
 852453,Juguete Pistola Electrica,Juguetería Importación,Juguetería Niño/Bebé
