@@ -1238,6 +1238,7 @@ id_producto,producto,categoria,subcategoria
 17737,Salsa de Tomate Goya Ajo Cilantro 8 oz,Abarrotes,Salsas y Extracto de Tomate
 17739,Vino Tinto Do Morgado Suave 750 ml,Bebidas,Vinos y Champagne
 17740,Vino Tinto Do Morgado Suave 1 L,Bebidas,Vinos y Champagne
+17748,"HUEVO PASC SERENATA D AMOR 217,7G",Abarrotes,Temporada
 17752,Alimento Felix Classic Sardina  85 gr,Abarrotes,Mascotas
 17753,Alimento Dog Chow Cachorro Carne 100 gr,Abarrotes,Mascotas
 17757,Nacho Mexican Food Chile Limon 200 gr,Abarrotes,Snack
@@ -8933,6 +8934,7 @@ id_producto,producto,categoria,subcategoria
 231511,SUAVIZANTE TODO BRILLO PLUS BEBE 5L,Cuidado del Hogar,Limpieza de la Ropa
 231514,DET LIQ TODO BRILLO PLUS FLORAL 5LTS,Cuidado del Hogar,Limpieza de la Ropa
 231516,GEL FIXER UNISEX ALOE VERA 250G,Cuidado Personal,Cuidado del Cabello
+231522,PACK CASTING 535 + SH GLYCO 200ML,Cuidado Personal,Cuidado del Cabello
 231673,Zucaritas Kelloggs 420 gr,Abarrotes,Nutrición Infantil
 231681,Cereal Kelloggs Corn Flakes 500 gr,Abarrotes,Nutrición Infantil
 231890,Sardina Ramirez Aceite Vegetal 125 gr,Abarrotes,Comidas en Conserva
@@ -10008,8 +10010,12 @@ id_producto,producto,categoria,subcategoria
 312135,PAPA PAPADAN ORIGINAL TUBO 120G,Abarrotes,Snack
 312136,PAPA PAPADAN BARBACOA TUBO 120G,Abarrotes,Snack
 312137,PAPA PAPADAN JALAPENO TUBO 120G,Abarrotes,Snack
+312138,GASEOSA CIELO POMELO ANTIOXID 600 ML,Bebidas,Gaseosas
+312139,GASEOSA CIELO LIMON ANTIOXID 600ML,Bebidas,Gaseosas
+312140,GASEOSA CIELO LIMON ANTIOXID 2LT,Bebidas,Gaseosas
 312144,PAPA PAPADAN QUESO CHEDDAR TUB 120G,Abarrotes,Snack
 312145,PAPA PAPADAN CREMA CEBOLLA TUBO 120G,Abarrotes,Snack
+312152,SNACK 2HERMANOS ARROZ C CEBOLLA 80G,Abarrotes,Snack
 312176,Set Churrasquero Tramontina Grande 2 un,Bazar,Churrasquería
 312290,Huevo Bon o Bon Leche 110 gr,Abarrotes,Temporada
 312711,Lustra mueble Archer Recarga 860 ml,Cuidado del Hogar,Limpieza de Living y Ropero
@@ -15272,7 +15278,7 @@ id_producto,producto,categoria,subcategoria
 552842,Vino Naveran Espumoso Rose Brut 750 ml,Bebidas,Vinos y Champagne
 552846,Galleta Comipet Higado de Pollo 250 gr,Abarrotes,Mascotas
 552847,Galleta Comipet Pechaga de Pollo 250 gr,Abarrotes,Mascotas
-552848,PACK 12 HUARI LAGER LTA 440 ML,Bebidas,Cervezas
+552848,Pack 12 Huari Lager 440 ml,Bebidas,Cervezas
 552849,Gaseosa Oriental Naranja 3 L CBN,Bebidas,Gaseosas
 552850,PAN MOLDE SAN GABRIEL MASA MADRE 650 GR,Panadería,Panadería Externa
 552851,Gin Dry Georg Foster 500 ml,Bebidas,Licores
@@ -16026,6 +16032,9 @@ id_producto,producto,categoria,subcategoria
 553801,PACK 6 ENERGIZANTE RAPTOR 350 ML,Bebidas,Energizantes
 553803,BEBIDA DE LA GRANJA POMELO BOT 2 LT,Bebidas,"Jugos, Néctar"
 553804,FIDEO DON MAXIMO CARACOLITO 400 GR,Abarrotes,Básicos
+553808,CHOCOLATE VIZZIO ALMENDRA CJA 63 GR,Abarrotes,Chocolates y Caramelos
+553811,AGUA C GAS DONA MARIA POMELO LTA 473 ML,Bebidas,Aguas
+553812,AGUA C GAS DONA MARIA LIMON LTA 473 ML,Bebidas,Aguas
 553854,SANGRIA BURBUSHHH BOT 355 ML,Bebidas,Vinos y Champagne
 554333,Cerveza Paceña Lata Roja 473 Cc,Bebidas,Cervezas
 554466,Detergente Liquido Ola Futuro Limpieza Completa 5 L,Cuidado del Hogar,Limpieza de la Ropa
@@ -18967,6 +18976,8 @@ id_producto,producto,categoria,subcategoria
 664825,Paneton Hipermaxi Chips Chocolate 600 gr,Panadería,Panadería Hipermaxi
 664826,Budin de Chocolate con Gotas Hipermaxi 250 gr,Pastelería y Masas Típicas,Pastelería Hipermaxi
 664829,Budin Marmolado Hipermaxi 250 gr,Pastelería y Masas Típicas,Pastelería Hipermaxi
+664895,DOVE W ROLL CLINICAL TONO 50ML,Cuidado Personal,Cuidado de la Piel
+664897,DOVE ROL AP RASPBERRY JASM 50ML,Cuidado Personal,Cuidado de la Piel
 665023,Chorizo Tipo Argentino Hipermaxi al Vacio +20,Fiambres,Fiambres Hipermaxi
 665026,Pan Hot Dog Hipermaxi 640 gr 16 un,Panadería,Panadería Hipermaxi
 665027,Pan Hot Dog Grande Hipermaxi 480 gr 8 un,Panadería,Panadería Hipermaxi
@@ -26989,6 +27000,7 @@ id_producto,producto,categoria,subcategoria
 883093,TAPER SANREMO FLOR 280ML,Bazar Importación,Menaje Plástico
 883121,CA JUGUETE METRALLETA +ACCESORIOS 160,Juguetería,Juguetería Niño/Bebé
 883128,Juguete Telefono en Caja,Juguetería,Juguetería Didáctica/Temporada
+883147,Queso Cheddar San Javier kg,Lácteos y Derivados,Quesos
 883150,Bananero Chico,Bazar,Bolsos/Carteras/Maletas
 883151,Bananero Mediano,Bazar,Bolsos/Carteras/Maletas
 883197,Grampas Agricolor 500 un,Bazar,Librería
