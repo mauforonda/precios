@@ -6675,6 +6675,7 @@ id_producto,producto,categoria,subcategoria
 155769,Toallas Higienicas Dmujer Delgada 16 un,Cuidado Personal,Cuidado Familiar
 155770,Toallas Higienicas Dmujer Anatomica 10 un,Cuidado Personal,Cuidado Familiar
 155771,Toallas Higienicas Dmujer Delgada Malla 8 un,Cuidado Personal,Cuidado Familiar
+155772,Protectores Diarios Dmujer Anatomico 15 un,Cuidado Personal,Cuidado Familiar
 155773,Protectores Diarios Dmujer Anatomico 15 un,Cuidado Personal,Cuidado Familiar
 155774,Toallas Higienicas Dmujer Ultra Dia Noche 8 un,Cuidado Personal,Cuidado Familiar
 155779,Lavavajilla Resplandor Limon 1100 ml,Cuidado del Hogar,Limpieza de Cocina
@@ -7378,6 +7379,7 @@ id_producto,producto,categoria,subcategoria
 218788,Cerveza Conti Zero Grau Lata 269 ml,Bebidas,Cervezas
 219452,Tinte Koleston Tono 46 Borgoña,Cuidado Personal,Cuidado del Cabello
 219703,LEITE DE ROSAS DESODORANTE 310ML.,Cuidado del Hogar,Productos Americanos
+219746,JUEGO P/CHURRASCO X 4 PZAS 22299/019,Bazar,Churrasquería
 219747,Energizante Reaktor 1 L,Bebidas,Energizantes
 219748,Energizante Reaktor 350 ml,Bebidas,Energizantes
 219776,Yerba Mate Campesino Menta Limon 250 gr,Abarrotes,Café y Sucedáneos
@@ -10006,6 +10008,9 @@ id_producto,producto,categoria,subcategoria
 312105,BEBIDA MOYI MOJITO MARACUYA LTA 355ML,Bebidas,Licores
 312122,PACK 2VINOS TRIVARIETAL 1PORTA ANTOJOS,Bebidas,Vinos y Champagne
 312124,TRIPACK VINOS ARANJUEZ DUOS 750ML,Bebidas,Vinos y Champagne
+312128,MASTICABLE TUBES DESENROLA TUTTI 27G,Abarrotes,Golosinas - Varias
+312129,GOMITA FINI ROMPECABEZAS 80G,Abarrotes,Golosinas - Varias
+312130,GALLETA MABEL ROSQUITA LECHE BSA 230G,Abarrotes,Galletas
 312133,ENDULZANTE DEZERO C STEVIA 600ML,Abarrotes,Dietéticos y Saludables
 312135,PAPA PAPADAN ORIGINAL TUBO 120G,Abarrotes,Snack
 312136,PAPA PAPADAN BARBACOA TUBO 120G,Abarrotes,Snack
@@ -15701,7 +15706,7 @@ id_producto,producto,categoria,subcategoria
 553309,CEREAL ORGANICA DEL SUR ARITOS FRUTAS 38,Abarrotes,Nutrición Infantil
 553313,PIPOCA GUADIA MANTEQUILLA PACK 6X25GR,Abarrotes,Snack
 553314,CHOCOLATE PAITITI AMARGO 60P 67 GR,Abarrotes,Chocolates y Caramelos
-553315,CHOCOLATE PAITITI 99P STEVIA 67 GR,Abarrotes,Dietéticos y Saludables
+553315,Chocolate Paititi 99% Stevia 67 gr,Abarrotes,Dietéticos y Saludables
 553316,Chocolate Paititi 100% Sin Azucar 67 gr,Abarrotes,Dietéticos y Saludables
 553317,Chocolate Paititi 100% Sin Azucar 100 gr,Abarrotes,Dietéticos y Saludables
 553318,Chocolate Paititi 99% Stevia 100 gr,Abarrotes,Dietéticos y Saludables
@@ -15709,6 +15714,7 @@ id_producto,producto,categoria,subcategoria
 553320,PACK 12X6 CERVEZA BUDWEISER 269 CC,Bebidas,Cervezas
 553321,PASTA LARGA  CORTA SPIGA 11.34 KG,Abarrotes,Básicos
 553322,PASTA LARGA CORTA SPIGA 400 GR,Abarrotes,Básicos
+553323,PASTA LARGA CORTA SPIGA 1 KG,Abarrotes,Básicos
 553324,PASTA LARGA CORTA SPIGA 3 LB,Abarrotes,Básicos
 553325,PASTA LARGA CORTA SPIGA 6 LB,Abarrotes,Básicos
 553326,SURIM DANIFORMA ANGULAS AL AJILLO 110GR,Abarrotes,Comidas en Conserva
@@ -16032,6 +16038,8 @@ id_producto,producto,categoria,subcategoria
 553801,PACK 6 ENERGIZANTE RAPTOR 350 ML,Bebidas,Energizantes
 553803,BEBIDA DE LA GRANJA POMELO BOT 2 LT,Bebidas,"Jugos, Néctar"
 553804,FIDEO DON MAXIMO CARACOLITO 400 GR,Abarrotes,Básicos
+553805,FIDEO DON MAXIMO ARITO 400 GR,Abarrotes,Básicos
+553807,CERVEZA HACKER PSCHORR WEISSBIER LTA 500,Bebidas,Cervezas
 553808,CHOCOLATE VIZZIO ALMENDRA CJA 63 GR,Abarrotes,Chocolates y Caramelos
 553811,AGUA C GAS DONA MARIA POMELO LTA 473 ML,Bebidas,Aguas
 553812,AGUA C GAS DONA MARIA LIMON LTA 473 ML,Bebidas,Aguas
@@ -18976,8 +18984,10 @@ id_producto,producto,categoria,subcategoria
 664825,Paneton Hipermaxi Chips Chocolate 600 gr,Panadería,Panadería Hipermaxi
 664826,Budin de Chocolate con Gotas Hipermaxi 250 gr,Pastelería y Masas Típicas,Pastelería Hipermaxi
 664829,Budin Marmolado Hipermaxi 250 gr,Pastelería y Masas Típicas,Pastelería Hipermaxi
+664894,DOVE AER AP RASPBERRY 150ML,Cuidado Personal,Cuidado de la Piel
 664895,DOVE W ROLL CLINICAL TONO 50ML,Cuidado Personal,Cuidado de la Piel
 664897,DOVE ROL AP RASPBERRY JASM 50ML,Cuidado Personal,Cuidado de la Piel
+664898,DOVE JAB ORIGINAL SIX PACK 90G,Cuidado Personal,Cuidado de la Piel
 665023,Chorizo Tipo Argentino Hipermaxi al Vacio +20,Fiambres,Fiambres Hipermaxi
 665026,Pan Hot Dog Hipermaxi 640 gr 16 un,Panadería,Panadería Hipermaxi
 665027,Pan Hot Dog Grande Hipermaxi 480 gr 8 un,Panadería,Panadería Hipermaxi
@@ -22278,6 +22288,7 @@ id_producto,producto,categoria,subcategoria
 674775,REQUESON FRESCO SOFIVER 250GR,Lácteos y Derivados,Quesos
 674776,HELADO CONO YOGURT PIE DE LIMON 140ML,Congelados,"Helados, Cassattas y Picoleses"
 674779,HELADO FAMILIAR CHOCO CROC 850 ML DELIZIA,Congelados,"Helados, Cassattas y Picoleses"
+674780,"DUO MOCACCINO - VAINILLA, DELIZIA",Congelados,"Helados, Cassattas y Picoleses"
 674781,PACK SELECCION CONOS DELIZIA,Congelados,"Helados, Cassattas y Picoleses"
 674786,BONDIOLA DE CERDO SOFIA REFRIGERADA A/V KGR,Fiambres,Fiambres Externos
 674787,LOMO DE CERDO SOFIA REFRIGERADO A/V KGR,Fiambres,Fiambres Externos
@@ -23237,8 +23248,11 @@ id_producto,producto,categoria,subcategoria
 762236,Cuñape de Arroz Davieds 200 gr,Pastelería y Masas Típicas,Masas Típicas Externas
 762248,Yogurt Bebible Friedland Probiotico Papaya 2 L,Lácteos y Derivados,Yogures
 762314,Queso Mozzarella Koslay kg,Lácteos y Derivados,Quesos
+762319,MANTEQ.CLARIF.TIPO GHEE CON SAL 200 GRS.,Lácteos y Derivados,Mantequillas y Margarinas
 762337,Cuñape de Maiz Davieds 200 gr,Pastelería y Masas Típicas,Masas Típicas Externas
+762346,MANTEQ.CLARIF.TIPO GHEE CON SAL 100 GRS.,Lácteos y Derivados,Mantequillas y Margarinas
 762349,Yogurt Bebible Friedland Natural Sin Azucar 2 L,Lácteos y Derivados,Yogures
+762378,MANTEQ.CLARIF.TIPO GHEE CON SAL 350 GRS.,Lácteos y Derivados,Mantequillas y Margarinas
 762415,Queso Sadwichero Koslay kg,Lácteos y Derivados,Quesos
 762417,Leche Deslactosada La Purita 800 ml,Lácteos y Derivados,Leches
 762450,Yogurt Bebible Friedland Artesanal Coco 2 L,Lácteos y Derivados,Yogures
@@ -25650,6 +25664,8 @@ id_producto,producto,categoria,subcategoria
 853426,"NOTAS ADHESIVAS, MAGIC NE¢N 3X3 4COL  BLOCK X100H",Bazar,Librería
 853436,NOTAS ADHESIVAS NE¢N 1.5X 2 BLISTER X4 BLOCKS X50 H.,Bazar,Librería
 853449,Borrador Vinifan Animalitos,Bazar,Librería
+853475,VASO FIESTA ROJO X50UNIDCOPOBRAS,Bazar,Cotillón
+853476,VASO FIESTA AZUL X50UNID COPOBRAS,Bazar,Cotillón
 853776,Termoventilador Briara Br 2350,Bazar,Electrodoméstico/Línea Blanca-Hogar
 853779,Termoventilador Briara 2349,Bazar,Electrodoméstico/Línea Blanca-Hogar
 853780,Termoventilador Briara 2348,Bazar,Electrodoméstico/Línea Blanca-Hogar
@@ -26418,15 +26434,20 @@ id_producto,producto,categoria,subcategoria
 861405,Plato + Juguete Mascota 10,Bazar,Mascotas General
 861424,Hervidor Electrico Inox Taurus 1.8 Litros Zeus Electro,Bazar,Electrodoméstico/Línea Blanca-Hogar
 861446,JAN AROS METALICOS 8,Bazar,Bijouteria/Cuidado Personal
+861447,JAN AROS METALICOS 20,Bazar,Bijouteria/Cuidado Personal
 861486,Audifonos Stereo Huavi E,Bazar,Computadora/Cámara/Filmadora y Accesorio
 861571,Conservador Hermetico Rey 4 L,Bazar,Menaje Plástico
 861598,Mojo Marinade Badia 20 oz,Abarrotes,Aderezos
+861612,JAN PIRANA METALICA 10,Bazar,Bijouteria/Cuidado Personal
+861613,JAN PIRANA METALICA 14,Bazar,Bijouteria/Cuidado Personal
 861614,JAN  VINCHAS DE NINA 12,Bazar,Bijouteria/Cuidado Personal
 861615,JAN VINCHAS DE NINA  15,Bazar,Bijouteria/Cuidado Personal
 861616,JAN VINCHAS DE TELA 15,Bazar,Bijouteria/Cuidado Personal
 861617,JAN VINCHAS DE TELA 14,Bazar,Bijouteria/Cuidado Personal
 861651,JAN MONAS CORBATA  15,Bazar,Bijouteria/Cuidado Personal
+861653,JAN MONAS  REDONDO 8,Bazar,Bijouteria/Cuidado Personal
 861655,JAN AGARRAPELO X 4    18,Bazar,Bijouteria/Cuidado Personal
+861656,JAN AGARRAPELO X2  9,Bazar,Bijouteria/Cuidado Personal
 861657,JAN VINCHAS DE NINA 12,Bazar,Bijouteria/Cuidado Personal
 861680,JAN AGARRAPELO CBLISTER  14,Bazar,Bijouteria/Cuidado Personal
 861681,JAN  AGARRAPELO  X3 BLISTER 14,Bazar,Bijouteria/Cuidado Personal
@@ -26886,6 +26907,7 @@ id_producto,producto,categoria,subcategoria
 876702,Cuaderno Lider Espiral Carta 100 Hojas,Bazar,Librería
 876703,Cuaderno Espiral Lider 1/2 Oficio Araña 100 Hojas,Bazar,Librería
 876918,Lentes Año Nuevo Sombrero,Bazar,Temporadas Restantes
+876919,JAN VINCHAS METALICO 12,Bazar,Bijouteria/Cuidado Personal
 876920,Lentes Para Año Nuevo,Bazar,Temporadas Restantes
 877000,JAN VELAS ARTIFICIAL 12,Bazar,Temporada Navidad
 877316,Espuma Carnavalera Fiesta 1000 ml,Bazar,Temporada Carnaval
