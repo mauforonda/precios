@@ -1864,6 +1864,7 @@ id_producto,producto,categoria,subcategoria
 25284,PAPRIKA DAMABRAVA MOLIDO FCO 65G,Abarrotes,Condimentos y Legumbres
 25285,CEBOLLA MOLIDA DAMABRAVA BCA 70G,Abarrotes,Condimentos y Legumbres
 25286,TE BRISSOL EUCALIPTO HUIRA HUIRA 20SAQ,Abarrotes,Dietéticos y Saludables
+25287,TE BRISSOL JENGIBRE HINOJO ANIS 20SAQ,Abarrotes,Dietéticos y Saludables
 25288,Vino La Curiosa Trivarietal 750 ml,Bebidas,Vinos y Champagne
 25289,ROMERO TIERRA NUESTRA ENTERO FCO 20G,Abarrotes,Condimentos y Legumbres
 25290,Cafe Mestizo 21 Molido 250 gr,Abarrotes,Café y Sucedáneos
@@ -6352,6 +6353,8 @@ id_producto,producto,categoria,subcategoria
 129470,Galleta Francesa Caricia 170 gr,Abarrotes,Galletas
 129585,Suavizante Ropa Urca Ternura 2 L,Cuidado del Hogar,Limpieza de la Ropa
 129608,Salsa B&R Hamburguesa 250 gr,Abarrotes,Aderezos
+129798,DESINFECTANTE URCA PINHO 2 LT,Cuidado del Hogar,Limpieza de Baños
+129984,DESINFECTANTE URCA FLORAL 2 LTS,Cuidado del Hogar,Limpieza de Baños
 130100,Galleta Marilan Pit Stop Jamon Queso 91 gr,Abarrotes,Galletas
 130431,Chupete Bon Bon Bum Sandia 24 un,Abarrotes,Chocolates y Caramelos
 130432,Chupete Bon Bon Bum Uva Fresa 24 un,Abarrotes,Chocolates y Caramelos
@@ -6386,6 +6389,7 @@ id_producto,producto,categoria,subcategoria
 131832,Desodorante Aerosol Old Spice Antitraspirante Adventure 150 ml,Cuidado Personal,Cuidado de la Piel
 131857,Salsa Soya Sakura 500 ml,Abarrotes,Condimentos y Legumbres
 131908,Sandwich Mixto Hipermaxi Jamon Pollo 2 un,Panadería,Panadería Especialidades Hipermaxi
+131938,DEINFECTANTE URCA LAVANDA 2 LT,Cuidado del Hogar,Limpieza de Baños
 131941,Crema de Peinar Herbal Essences Prolongalos 300 ml,Cuidado Personal,Cuidado del Cabello
 131970,Costilla de Chancho kg,Carnes,Otras Carnes
 131993,Grissines Hipermaxi 15 un,Panadería,Panadería Especialidades Hipermaxi
@@ -8291,6 +8295,7 @@ id_producto,producto,categoria,subcategoria
 227095,Limpiador de Piso Procenex Brisa Floral 900 ml,Cuidado del Hogar,Limpieza de Living y Ropero
 227096,Pañales Tena Confort L 20 un,Cuidado Personal,Cuidado del Adulto
 227097,PACK TOALLAS 3+1 NUMBER ONE X90,Cuidado del Bebé,Cuidado del Bebé
+227098,Limpiador de Vidrios Bristar 5 L,Cuidado del Hogar,Limpieza de Living y Ropero
 227100,Liampidor Saca Sarro Bristar 5 L,Cuidado del Hogar,Limpieza de Baños
 227101,Limpiador Saca Grasa Bristar 5 L,Cuidado del Hogar,Limpieza de Cocina
 227103,Detergente Polvo Todo Brillo Floral 1100 gr,Cuidado del Hogar,Limpieza de la Ropa
@@ -15564,6 +15569,7 @@ id_producto,producto,categoria,subcategoria
 553151,Quinua Real Mi Suco 1 kg,Abarrotes,Nutrición Infantil
 553152,Frejol Rojo Mi Suco 1 kg,Abarrotes,Condimentos y Legumbres
 553153,Lenteja Mi Suco 1 kg,Abarrotes,Condimentos y Legumbres
+553154,HUEVO PASCUA BREICK 0 14 UN 100 GR,Abarrotes,Temporada
 553156,Pack Singani Insignia Etiqueta Negra + Vaso Termico,Bebidas,Licores
 553157,PACK 3X2 GALLETA RITZ QUESO,Abarrotes,Galletas
 553158,PACK 3X2 GALLETA CHOCOSODA,Abarrotes,Galletas
@@ -16000,6 +16006,7 @@ id_producto,producto,categoria,subcategoria
 553754,PALMITO DESPENSA RODAJAS LTA 400G,Abarrotes,Verduras en Conserva
 553755,PALMITO LA DESPENSA RODAJAS 800 GR,Abarrotes,Verduras en Conserva
 553757,VAPE WAKA CREATOR POD WATERMELON 20K PUP,Bebidas,Cigarrillos
+553758,VAPE WAKA CREATOR POD 20K GRAPE ICE 5P,Bebidas,Cigarrillos
 553759,ATUN SAN LUCAS BONITO GRATED AGUA 170G,Abarrotes,Comidas en Conserva
 553760,ATUN SAN LUCAS BONITO FILETE ACEITE 170G,Abarrotes,Comidas en Conserva
 553761,GASEOSA SPRITE PET 1LT,Bebidas,Gaseosas
@@ -16512,6 +16519,7 @@ id_producto,producto,categoria,subcategoria
 604004,Shampoo Liz Manzanilla 900 ml,Cuidado Personal,Cuidado del Cabello
 604009,Acondicionador Liz Manzanilla 900 ml,Cuidado Personal,Cuidado del Cabello
 604011,Pan Molde Pancris Blanco,Panadería,Panadería Externa
+604058,CH TAZA TENTENCIA,Bazar Importación,Menaje Porcelana/Cerámica
 604070,Helado Delizia Pasas al Ron 1 L,Congelados,"Helados, Cassattas y Picoleses"
 604097,Pan Molde Pancris Miga,Panadería,Panadería Externa
 604105,Chocolate Lindt Excellence Chilli 100 gr,Abarrotes,Chocolates y Caramelos
@@ -18986,8 +18994,10 @@ id_producto,producto,categoria,subcategoria
 664829,Budin Marmolado Hipermaxi 250 gr,Pastelería y Masas Típicas,Pastelería Hipermaxi
 664894,DOVE AER AP RASPBERRY 150ML,Cuidado Personal,Cuidado de la Piel
 664895,DOVE W ROLL CLINICAL TONO 50ML,Cuidado Personal,Cuidado de la Piel
+664896,BIPACK DOVE DEO ROL ROSA CALENDULA 100ML,Cuidado Personal,Cuidado de la Piel
 664897,DOVE ROL AP RASPBERRY JASM 50ML,Cuidado Personal,Cuidado de la Piel
 664898,DOVE JAB ORIGINAL SIX PACK 90G,Cuidado Personal,Cuidado de la Piel
+664902,DOVE SH RECONST+AMINOACIDO 650ML,Cuidado Personal,Cuidado del Cabello
 665023,Chorizo Tipo Argentino Hipermaxi al Vacio +20,Fiambres,Fiambres Hipermaxi
 665026,Pan Hot Dog Hipermaxi 640 gr 16 un,Panadería,Panadería Hipermaxi
 665027,Pan Hot Dog Grande Hipermaxi 480 gr 8 un,Panadería,Panadería Hipermaxi
@@ -20833,7 +20843,7 @@ id_producto,producto,categoria,subcategoria
 671668,Bebida de Almendra Almond Breeze 946 ml,Lácteos y Derivados,Leches
 671675,Tortillas Don Taco Chica Light 270 gr,Congelados,Masas y Comidas Congeladas
 671676,Tortillas Don Taco Mediana Light 390 gr,Congelados,Masas y Comidas Congeladas
-671680,Leche Entera Eba Blanca 946 ml,Lácteos y Derivados,Leches
+671680,Leche Entera Eba Blanca 900 ml,Lácteos y Derivados,Leches
 671681,PANETON MENTA MARIELS 700GRS CON ADORNO NAVIDENO,Panadería,Panadería Externa
 671683,Torta Helada Delizia Red Velvet Primavera,Congelados,"Helados, Cassattas y Picoleses"
 671691,Lomito Cocido Stege al Vacio un,Fiambres,Fiambres Externos
@@ -23215,6 +23225,7 @@ id_producto,producto,categoria,subcategoria
 761436,Yogurt Bebible Friedland Natural Sin Azucar 1 L,Lácteos y Derivados,Yogures
 761437,Alimento Bebible Soya Nordland Chirimoya 950 ml,Lácteos y Derivados,Leches
 761438,QUESO MUZZARELLA RALLADO LA HOLANDESA 500 GRS.,Lácteos y Derivados,Quesos
+761439,PACK BATIDITO DURAZNO X8 CON ESTUCHE,Lácteos y Derivados,Yogures
 761452,MARGARINA CREMA VEGETAL SOYA 250 GRS.,Lácteos y Derivados,Mantequillas y Margarinas
 761454,QUESO CHEDDAR RALLADO LA HOLANDESA 500 GRS.,Lácteos y Derivados,Quesos
 761457,FORTUMILK LECHE NATURAL 900 ML. LA PURITA,Lácteos y Derivados,Leches
