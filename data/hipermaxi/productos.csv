@@ -99,6 +99,7 @@ id_producto,producto,categoria,subcategoria
 1888,Sazonador Carmencita Picante Tex Mex 72 gr,Abarrotes,Condimentos y Legumbres
 1889,Sazonador Carmencita Pescado Marisco 76 gr,Abarrotes,Condimentos y Legumbres
 1891,Champagne Mercier Extra Brut 750 ml,Bebidas,Vinos y Champagne
+1893,Pack Whisky Johnnie Walker Label 1 L + Vaso,Bebidas,Licores
 1904,Tequila Corralejo Añejo 1 L,Bebidas,Licores
 1905,Tequila Corralejo Reposado 1 L,Bebidas,Licores
 1906,Tequila Corralejo Blanco 1 L,Bebidas,Licores
@@ -1417,7 +1418,7 @@ id_producto,producto,categoria,subcategoria
 19006,Galleta Cory Palito Chocolate Leche 90 gr,Abarrotes,Galletas
 19009,Salsa de Almejas Flott 130 gr,Abarrotes,Comidas en Conserva
 19012,Mani Mr.Mad Tostado con Especias 250 gr,Abarrotes,Snack
-19014,Salsa Indias Gourmet Chipotle Pack + Ketchup,Abarrotes,Aderezos
+19014,Salsa Indias Gourmet Chipotle,Abarrotes,Aderezos
 19021,Aceituna Pramesa Gordal sin Corazon 350 gr,Abarrotes,Verduras en Conserva
 19022,Aceituna Pramesa Negra Entera 150 gr,Abarrotes,Verduras en Conserva
 19023,Cebollita Pramesa Vinagre 100 gr,Abarrotes,Verduras en Conserva
@@ -3944,6 +3945,7 @@ id_producto,producto,categoria,subcategoria
 97177,Galleta Noel Navidad Surtida 215 gr,Abarrotes,Temporada
 97215,Atun Van Camps Aceite Oliva 3 un 80 gr,Abarrotes,Comidas en Conserva
 97267,Atun Van Camps al Agua 3 un 80 gr,Abarrotes,Comidas en Conserva
+97785,Desayuno Dia del Padre,Pastelería y Masas Típicas,Pastelería Hipermaxi
 98719,Chocolate Garoto Medio Amargo 80 gr,Abarrotes,Chocolates y Caramelos
 98720,Chocolate Garoto Caju Pasas 80 gr,Abarrotes,Chocolates y Caramelos
 98723,Chocolate Garoto Leche 80 gr,Abarrotes,Chocolates y Caramelos
@@ -7998,6 +8000,7 @@ id_producto,producto,categoria,subcategoria
 223942,Repelente Jamsa Citronela,Cuidado Personal,Cuidado de la Piel
 223943,Repelente Jamsa Insecto Hombres 125 ml,Cuidado Personal,Cuidado de la Piel
 223944,Repelente Jamsa Insecto Espuma Neutro 125 ml,Cuidado Personal,Cuidado de la Piel
+223945,Repelente Jamsa Insecto Juicy Orange 125 ml,Cuidado Personal,Cuidado de la Piel
 223946,Limpiador de Piso Mr.Flash Repelente Citronela 5 L,Cuidado del Hogar,Limpieza de Living y Ropero
 223947,Limpiador de Piso Mr.Flash Repelente Citronela 900 ml,Cuidado del Hogar,Limpieza de Living y Ropero
 223949,Toallas Humedas Babysec Premium 70 un,Cuidado del Bebé,Cuidado del Bebé
@@ -8161,6 +8164,11 @@ id_producto,producto,categoria,subcategoria
 225111,TOALLA PERLA ULTRA ABSORBENTE  176 HJ,Cuidado del Hogar,Limpieza de Cocina
 225112,VAJILLERO TB PLUS FLORAL 1050ML,Cuidado del Hogar,Limpieza de Cocina
 225113,PACK GILLETTE 1MAQ MACH3 +1ESPUMA175G,Cuidado Personal,Cuidado de la Piel
+225114,DR SELBY CREMA PARA MANOS AVENA 75G,Cuidado Personal,Cuidado de la Piel
+225115,DR SELBY CREMA PARA MANOS ALOE 75GR,Cuidado Personal,Cuidado de la Piel
+225116,JABON LIQ HIDRADERM EXFO PITAHAYA 150ML,Cuidado Personal,Cuidado de la Piel
+225117,JABON LIQ HIDRADERM EXFO FRUTILLA 150ML,Cuidado Personal,Cuidado de la Piel
+225119,JABON LIQ HIDRADERM EXFO MANZANILLA 150M,Cuidado Personal,Cuidado de la Piel
 225120,Shampoo Head Shoulder Anticaida Cafeina 650 ml,Cuidado Personal,Cuidado del Cabello
 225121,PACK 2 DEO OLDSPICE AT SPRAY EXTREME150M,Cuidado Personal,Cuidado de la Piel
 225124,SHAMPOO REVIVE ANTICASPA 340 BOT,Cuidado Personal,Cuidado del Cabello
@@ -18176,7 +18184,7 @@ id_producto,producto,categoria,subcategoria
 655982,Palmito De La Selva Trozos 400 gr,Abarrotes,Verduras en Conserva
 655984,Frut Avena Princesa 400 gr,Abarrotes,Nutrición Infantil
 655985,Semillavena Princesa 400 gr,Abarrotes,Nutrición Infantil
-655986,Cereal Princesa Flakes 850 gr,Abarrotes,Nutrición Infantil
+655986,Cereal Princesa Flakes 650 gr,Abarrotes,Nutrición Infantil
 656002,Servilletas Perla Intitucional 500 un,Cuidado Personal,Cuidado Familiar
 656011,Crema Loreal Revitalift 30fps 50 ml,Cuidado Personal,Cuidado de la Piel
 656015,Repuesto Maquina de Afeitar Gillette Venus Breeze 2 un,Cuidado Personal,Cuidado de la Piel
@@ -18569,7 +18577,7 @@ id_producto,producto,categoria,subcategoria
 657944,Paella Kremmore de Quinua 140 gr,Abarrotes,Básicos
 657945,Quinua Kremmore Primavera 140 gr,Abarrotes,Básicos
 657951,Agua Glacial Sin Gas 2.5 L,Bebidas,Aguas
-657959,Cereal Irupana Nutrichoc 800 gr,Abarrotes,Nutrición Infantil
+657959,Cereal Irupana Nutrichoc 720 gr,Abarrotes,Nutrición Infantil
 657960,Cereal Irupana Nutrilitas 850 gr,Abarrotes,Nutrición Infantil
 657961,Cereal Irupana Nutrifruit 840 gr,Abarrotes,Nutrición Infantil
 657965,Chicle Trident Cool Bublle 30.6 gr,Abarrotes,Golosinas - Varias
@@ -20430,7 +20438,7 @@ id_producto,producto,categoria,subcategoria
 669924,Jabon Barra Coco Oceano Azul 90 gr,Cuidado Personal,Cuidado de la Piel
 669925,Jabon Barra Mar Coco Leche de Coco 90 gr,Cuidado Personal,Cuidado de la Piel
 669991,Cuñape Congelado Hipermaxi 10 un,Congelados,Masas y Comidas Congeladas
-669992,Desayuno Feliz Día Mamá,Pastelería y Masas Típicas,Pastelería Hipermaxi
+669992,Desayuno Dia del Padre,Pastelería y Masas Típicas,Pastelería Hipermaxi
 670002,Comino McCormick Molido 20 gr,Abarrotes,Condimentos y Legumbres
 670003,Paprika McCormick 20 gr,Abarrotes,Condimentos y Legumbres
 670004,Canela McCormick Molida 25 gr,Abarrotes,Condimentos y Legumbres
@@ -22258,6 +22266,7 @@ id_producto,producto,categoria,subcategoria
 674697,PAPA FRITA SABOR PICANTE 150G,Abarrotes,Snack
 674699,PATE DE FINAS HIERBAS SOFIA PREMIUM 100GRS,Fiambres,Fiambres Externos
 674700,PATE PECHUGA DE PAVO SOFIA PREMIUM 100GRS,Fiambres,Fiambres Externos
+674701,CHORIZO BUTIFARRA JALAPE¤O SOFIA PREMIUM UNI,Fiambres,Fiambres Externos
 674705,ALIMENTO LACTEO BONLE UHT 800ML,Lácteos y Derivados,Leches
 674706,HELADO DUO CREMA AMERICANA MARACUYA DELIZIA 850ML,Congelados,"Helados, Cassattas y Picoleses"
 674707,HELADO DUO CREMA AMERICANA MANGO DELIZIA 850ML,Congelados,"Helados, Cassattas y Picoleses"
@@ -27423,6 +27432,7 @@ id_producto,producto,categoria,subcategoria
 913227,Recibo Grande,Bazar,Librería
 913229,ALED CARTULINA OFICIO X 10UND BS 10,Bazar,Librería
 913275,Muñeca Surtido,Juguetería,Juguetería Niña/Bebé
+913278,Muñeca con Set Ropa,Juguetería,Juguetería Niña/Bebé
 913279,Juguete Muñeca 2,Juguetería,Juguetería Niña/Bebé
 913280,Juguete Muñeca,Juguetería,Juguetería Niña/Bebé
 913281,Muñeca,Juguetería,Juguetería Niña/Bebé
