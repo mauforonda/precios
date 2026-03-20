@@ -371,6 +371,7 @@ id_producto,producto,categoria,subcategoria
 5758,Maiz Dulce Pelado 1 kg,Frutas y Verduras,Verduras
 5788,Arroz Popular Hipermaxi 1 kg,Granos y Hortalizas,Fraccionados Hipermaxi
 5791,Arroz Estaquilla Hipermaxi 1 kg,Granos y Hortalizas,Fraccionados Hipermaxi
+5793,Maiz de Pipoca Hipermaxi 400 gr,Granos y Hortalizas,Fraccionados Hipermaxi
 5794,Maiz de Pipoca Hipermaxi 800 gr,Granos y Hortalizas,Fraccionados Hipermaxi
 5795,Lenteja Hipermaxi 400 gr,Granos y Hortalizas,Fraccionados Hipermaxi
 5796,Lenteja Hipermaxi 800 gr,Granos y Hortalizas,Fraccionados Hipermaxi
@@ -2218,6 +2219,7 @@ id_producto,producto,categoria,subcategoria
 26177,Aloe Vera Otro Mundo Coco Piña 500 ml,Bebidas,Bebidas Varias
 26178,Aloe Vera Otro Mundo Durazo 500 ml,Bebidas,Bebidas Varias
 26180,Yuca Picada Dorichips 100 gr,Abarrotes,Snack
+26181,NUEZ PELADA COCINERO PEREIRA BSA 200G,Abarrotes,Snack
 26184,Pipoca Loca Dulce Tutti Frutti 110 gr,Abarrotes,Snack
 26185,Pico Pico Snack Camaro Mantequilla Bolita 120 gr,Abarrotes,Snack
 26186,Pico Pico Snack Camaro Queso 120 gr,Abarrotes,Snack
@@ -10020,6 +10022,7 @@ id_producto,producto,categoria,subcategoria
 312103,WHISKY CHANCELLER MANZ VERDE 1LT,Bebidas,Licores
 312104,BEBIDA MOYI MOJITO LIMON LTA 300ML,Bebidas,Licores
 312105,BEBIDA MOYI MOJITO MARACUYA LTA 355ML,Bebidas,Licores
+312107,PACK CHICLE BELDEN CARNAVALERO 3UND,Abarrotes,Golosinas - Varias
 312122,PACK 2VINOS TRIVARIETAL 1PORTA ANTOJOS,Bebidas,Vinos y Champagne
 312124,TRIPACK VINOS ARANJUEZ DUOS 750ML,Bebidas,Vinos y Champagne
 312128,MASTICABLE TUBES DESENROLA TUTTI 27G,Abarrotes,Golosinas - Varias
@@ -10034,12 +10037,18 @@ id_producto,producto,categoria,subcategoria
 312140,GASEOSA CIELO LIMON ANTIOXID 2LT,Bebidas,Gaseosas
 312144,PAPA PAPADAN QUESO CHEDDAR TUB 120G,Abarrotes,Snack
 312145,PAPA PAPADAN CREMA CEBOLLA TUBO 120G,Abarrotes,Snack
+312148,SPAGUETTI BORGES 500G,Abarrotes,Básicos
+312149,PASTA BORGES FARFALLE 500G,Abarrotes,Básicos
 312152,SNACK 2HERMANOS ARROZ C CEBOLLA 80G,Abarrotes,Snack
+312153,PASTA BORGES PENNE RIGATE 500G,Abarrotes,Básicos
+312158,PASTA BORGES LINGUINE 500G,Abarrotes,Básicos
+312159,PASTA BORGES FUSILLI 500G,Abarrotes,Básicos
 312176,Set Churrasquero Tramontina Grande 2 un,Bazar,Churrasquería
 312290,Huevo Bon o Bon Leche 110 gr,Abarrotes,Temporada
 312711,Lustra mueble Archer Recarga 860 ml,Cuidado del Hogar,Limpieza de Living y Ropero
 312959,Salsa Soya Kikkoman Lite 10 oz,Abarrotes,Condimentos y Legumbres
 313009,Salsa Picante Crystal 355 ml,Abarrotes,Productos Americanos
+313019,3M PANO SCOTCH BRITE SUPER 1X20CMX18CM,Cuidado del Hogar,Accesorios del Hogar
 313119,Jabon Barra Cavallaro Coco Marina 100 gr,Cuidado Personal,Cuidado de la Piel
 313132,Lavavajilla Siempre Limon 1200 ml,Cuidado del Hogar,Limpieza de Cocina
 313133,Lavavajilla Siempre Limon 500 ml,Cuidado del Hogar,Limpieza de Cocina
@@ -14967,6 +14976,7 @@ id_producto,producto,categoria,subcategoria
 552374,Leche Condensada Valerie And Me Capuchino 210 ml,Lácteos y Derivados,Dulces de Leche y Manjares
 552375,Leche Condensada Valerie And Me Chocolate 210 ml,Lácteos y Derivados,Dulces de Leche y Manjares
 552383,Chocolate Conejito Breick Sabores 20 gr,Abarrotes,Temporada
+552384,Huevo Breick Crunchy 60 gr,Abarrotes,Temporada
 552385,PACK 6 CERVEZA HUARI MIEL BOTELLIN 300 M,Bebidas,Cervezas
 552386,Pack Gaseosa Pepsi 2 L + Seven Up 2 L,Bebidas,Gaseosas
 552387,Galleta Costa Chocman Rellena 240 gr,Abarrotes,Galletas
@@ -16052,14 +16062,19 @@ id_producto,producto,categoria,subcategoria
 553796,NECTAR GUAYABA DEL SOL LIGHT BOT 300 ML,Bebidas,"Jugos, Néctar"
 553797,NECTAR MARACUYA DEL SOL LIGHT BOT 300 ML,Bebidas,"Jugos, Néctar"
 553798,SAL KOLLITA CON HIERBAS FCO 460 GR,Abarrotes,Básicos
+553799,SAL KOLLITA CON PICANTE FCO 460 GR,Abarrotes,Básicos
+553800,SAL KOLLITA CON ABLANDADOR FCO 460 GR,Abarrotes,Básicos
 553801,PACK 6 ENERGIZANTE RAPTOR 350 ML,Bebidas,Energizantes
-553803,BEBIDA DE LA GRANJA POMELO BOT 2 LT,Bebidas,"Jugos, Néctar"
+553803,JUGO LA GRANJA POMELO PET 2LT,Bebidas,"Jugos, Néctar"
 553804,FIDEO DON MAXIMO CARACOLITO 400 GR,Abarrotes,Básicos
 553805,FIDEO DON MAXIMO ARITO 400 GR,Abarrotes,Básicos
+553806,SNOT CANDY NOVA SNACK 30 GR,Abarrotes,Productos Americanos
 553807,CERVEZA HACKER PSCHORR WEISSBIER LTA 500,Bebidas,Cervezas
 553808,CHOCOLATE VIZZIO ALMENDRA CJA 63 GR,Abarrotes,Chocolates y Caramelos
 553811,AGUA C GAS DONA MARIA POMELO LTA 473 ML,Bebidas,Aguas
 553812,AGUA C GAS DONA MARIA LIMON LTA 473 ML,Bebidas,Aguas
+553846,MAYONESA PICANTE KRIS DOYPACK 500 CC,Abarrotes,Aderezos
+553847,MAYONESA LIGHT KRIS POMO 350 CC,Abarrotes,Aderezos
 553854,SANGRIA BURBUSHHH BOT 355 ML,Bebidas,Vinos y Champagne
 554333,Cerveza Paceña Lata Roja 473 Cc,Bebidas,Cervezas
 554466,Detergente Liquido Ola Futuro Limpieza Completa 5 L,Cuidado del Hogar,Limpieza de la Ropa
@@ -18999,6 +19014,11 @@ id_producto,producto,categoria,subcategoria
 664527,TARTA RELLENA INDIVIDUAL SIN GLASEADO CON RELLENO SABOR CANE,Abarrotes,Productos Americanos
 664799,AXE BS WHITE VETIVER 96G/150ML,Cuidado Personal,Cuidado de la Piel
 664800,AXE BS MASRHMALLOW SMOKE 96G/150ML,Cuidado Personal,Cuidado de la Piel
+664814,BELESTRAL PRO ANTICAIDA 1000 GR,Cuidado Personal,Cuidado del Cabello
+664815,BELESTRAL PRO ANTI REFLEJOS AMARILLOS 10,Cuidado Personal,Cuidado del Cabello
+664816,BELESTRAL PRO HIDRATANTE 1000 GR,Cuidado Personal,Cuidado del Cabello
+664817,BELESTRAL PRO PROTECTORA DE COLOR 1000 G,Cuidado Personal,Cuidado del Cabello
+664819,CREMA HANBEL MILK ASAI DOY PACK 900 GR,Cuidado Personal,Cuidado de la Piel
 664825,Paneton Hipermaxi Chips Chocolate 600 gr,Panadería,Panadería Hipermaxi
 664826,Budin de Chocolate con Gotas Hipermaxi 250 gr,Pastelería y Masas Típicas,Pastelería Hipermaxi
 664829,Budin Marmolado Hipermaxi 250 gr,Pastelería y Masas Típicas,Pastelería Hipermaxi
