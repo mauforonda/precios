@@ -100,6 +100,8 @@ id_producto,producto,categoria,subcategoria
 1889,Sazonador Carmencita Pescado Marisco 76 gr,Abarrotes,Condimentos y Legumbres
 1891,Champagne Mercier Extra Brut 750 ml,Bebidas,Vinos y Champagne
 1893,Pack Whisky Johnnie Walker Label 1 L + Vaso,Bebidas,Licores
+1898,TRIPACK ATUN SOFIA AL AGUA 170 GR,Abarrotes,Comidas en Conserva
+1899,TRIPACK ATUN SOFIA EN ACEITE 170 GR,Abarrotes,Comidas en Conserva
 1904,Tequila Corralejo Añejo 1 L,Bebidas,Licores
 1905,Tequila Corralejo Reposado 1 L,Bebidas,Licores
 1906,Tequila Corralejo Blanco 1 L,Bebidas,Licores
@@ -743,6 +745,7 @@ id_producto,producto,categoria,subcategoria
 14505,Cerveza Golden Six Pack 330 ml CBN,Bebidas,Cervezas
 14506,Cerveza Golden Six Pack 269 ml,Bebidas,Cervezas
 14512,Mayonesa Cepera Con Ajo 190 gr,Abarrotes,Aderezos
+14521,Galleta Jasmine Gota Chocolate Zero Azucar 75 gr,Abarrotes,Dietéticos y Saludables
 14522,Galleta Jasmine Fruta Roja Zero Azucar 75 gr,Abarrotes,Dietéticos y Saludables
 14523,Cigarrillo L&M First Cut Blue 20 un,Bebidas,Cigarrillos
 14524,Cigarrillo L&M First Red 20 un,Bebidas,Cigarrillos
@@ -4214,14 +4217,14 @@ id_producto,producto,categoria,subcategoria
 101285,Jugo Clamato de Tomate 10 oz,Abarrotes,Salsas y Extracto de Tomate
 101287,Salsa Soya Sakura 2 L,Abarrotes,Condimentos y Legumbres
 101292,Pack Singani Casa Real Etiqueta Negra 750 ml + Vaso,Bebidas,Licores
-101295,Aceite Corporal Rosa Mosqueta Farmax 100 ml,Cuidado Personal,Cuidado de la Piel
+101295,Aceite Corporal Rosa Mosqueta Farmax 100 ml,Cuidado Personal,Cuidado del Cabello
 101296,Vinagre Paladio Alcohol Claro 1 L,Abarrotes,Básicos
 101297,Vinagre Paladio Tinto 1 L,Abarrotes,Básicos
 101298,Salsa Soya Paladio 1 L,Abarrotes,Condimentos y Legumbres
 101299,Maizena Dukeza 200 gr,Abarrotes,Repostería
 101300,Flan Paladio Vainilla 120 gr,Abarrotes,Repostería
 101301,Esencia de Vainilla Paladio 110 ml,Abarrotes,Repostería
-101302,Aceite Capilar Corporal Farmax Lavanda,Cuidado Personal,Cuidado de la Piel
+101302,Aceite Capilar Corporal Farmax Lavanda,Cuidado Personal,Cuidado del Cabello
 101306,Polvo de Hornear Miki 57 gr,Abarrotes,Repostería
 101307,Fernet Rosemberg 950 ml,Bebidas,Licores
 101308,Aceite Carbonel Extra Virgen Spray 200 ml,Abarrotes,Básicos
@@ -6573,7 +6576,9 @@ id_producto,producto,categoria,subcategoria
 150875,Queso Cheddar San Javier Laminado 250 gr,Lácteos y Derivados,Quesos
 150876,Queso Fundido San Javier Jamon 220 gr,Lácteos y Derivados,Quesos
 150877,Queso San Javier Sandwichero Laminado 150 gr,Lácteos y Derivados,Quesos
+150884,Queso San Javier Edam Laminado 250 gr,Lácteos y Derivados,Quesos
 150888,Queso Cheddar San Javier Laminado 150 gr,Lácteos y Derivados,Quesos
+150892,Queso San Javier Edam Laminado 150 gr,Lácteos y Derivados,Quesos
 150933,Jamon Sandwichero Monserrat kg,Fiambres,Fiambres Externos
 150941,Jamon Ahumado Monserrat kg,Fiambres,Fiambres Externos
 150947,Esencia de Vainilla Alvarez 1 L,Abarrotes,Repostería
@@ -10043,6 +10048,7 @@ id_producto,producto,categoria,subcategoria
 312153,PASTA BORGES PENNE RIGATE 500G,Abarrotes,Básicos
 312158,PASTA BORGES LINGUINE 500G,Abarrotes,Básicos
 312159,PASTA BORGES FUSILLI 500G,Abarrotes,Básicos
+312164,LECHE CONDENSADA PIL DP 200G,Abarrotes,Nutrición Infantil
 312176,Set Churrasquero Tramontina Grande 2 un,Bazar,Churrasquería
 312290,Huevo Bon o Bon Leche 110 gr,Abarrotes,Temporada
 312711,Lustra mueble Archer Recarga 860 ml,Cuidado del Hogar,Limpieza de Living y Ropero
@@ -14229,6 +14235,7 @@ id_producto,producto,categoria,subcategoria
 550941,Granola Jasmine Maca Canela 250 gr,Abarrotes,Nutrición Infantil
 550942,Granola Jasmine Miel Y Frutas 300 gr,Abarrotes,Nutrición Infantil
 550943,Granola Jasmine Superfrutas 250 gr,Abarrotes,Nutrición Infantil
+550944,Granola Jasmine Fruta Tropical 250 gr,Abarrotes,Nutrición Infantil
 550945,Granola Jasmine Cranberries Acai 250 gr,Abarrotes,Nutrición Infantil
 550946,Granola Jasmine Castanas Cacao 250 gr,Abarrotes,Nutrición Infantil
 550947,Chocolate Taboada Surtido 110 gr,Abarrotes,Chocolates y Caramelos
@@ -16073,6 +16080,7 @@ id_producto,producto,categoria,subcategoria
 553808,CHOCOLATE VIZZIO ALMENDRA CJA 63 GR,Abarrotes,Chocolates y Caramelos
 553811,AGUA C GAS DONA MARIA POMELO LTA 473 ML,Bebidas,Aguas
 553812,AGUA C GAS DONA MARIA LIMON LTA 473 ML,Bebidas,Aguas
+553845,SALSA GOLF KRIS DOYPACK 500 CC,Abarrotes,Aderezos
 553846,MAYONESA PICANTE KRIS DOYPACK 500 CC,Abarrotes,Aderezos
 553847,MAYONESA LIGHT KRIS POMO 350 CC,Abarrotes,Aderezos
 553854,SANGRIA BURBUSHHH BOT 355 ML,Bebidas,Vinos y Champagne
@@ -23929,6 +23937,7 @@ id_producto,producto,categoria,subcategoria
 786236,Queso Colinas del Sol Mascarpone 200 gr,Lácteos y Derivados,Quesos
 786240,Leche Pil Enriquecida 800 ml,Lácteos y Derivados,Leches
 786244,COSTILLAS DE CERDO BABY BACK LA PORCINA KG. A/V,Congelados,Carnes Congeladas
+786319,QUESO DE CABRA CAMEMBERT ALTO PRADO KG.,Lácteos y Derivados,Quesos
 786321,Queso de Cerdo Sofia al Vacio 250 gr,Fiambres,Fiambres Externos
 786327,Yogurt Lesama Bebible Durazno Frutado 2 L,Lácteos y Derivados,Yogures
 786331,Hamburguesa Sofia Res Picaña Tubo 12 un,Congelados,Carnes Congeladas
