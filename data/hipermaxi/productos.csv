@@ -1866,6 +1866,7 @@ id_producto,producto,categoria,subcategoria
 25278,Gin Puerto de Indias Black 750 ml,Bebidas,Licores
 25279,CERVEZA PROST WINTERBIER LTA 473 ML,Bebidas,Cervezas
 25282,Lonchera Juguito Pil,Bebidas,"Jugos, Néctar"
+25283,TOMILLO DESHID DAMABRAVA FCO 25G,Abarrotes,Condimentos y Legumbres
 25284,PAPRIKA DAMABRAVA MOLIDO FCO 65G,Abarrotes,Condimentos y Legumbres
 25285,CEBOLLA MOLIDA DAMABRAVA BCA 70G,Abarrotes,Condimentos y Legumbres
 25286,TE BRISSOL EUCALIPTO HUIRA HUIRA 20SAQ,Abarrotes,Dietéticos y Saludables
@@ -3893,7 +3894,7 @@ id_producto,producto,categoria,subcategoria
 88625,Pimenton Verde 1 kg,Frutas y Verduras,Verduras
 89717,Té Verde en polvo 120 g,Abarrotes,Café y Sucedáneos
 89966,Ron Havana Club Añejo Reserva 1000 ml,Bebidas,Licores
-90018,Gran Singani Casa Real Etiqueta Negra 750 ml Edicion Bicentenario,Bebidas,Licores
+90018,Gran Singani Casa Real Etiqueta Negra 750 ml,Bebidas,Licores
 90115,Vino Aranjuez Duo Tannat Merlot 750 ml,Bebidas,Vinos y Champagne
 90123,Comino EL Cocinero Molido 30 gr,Abarrotes,Condimentos y Legumbres
 90131,Pimienta El Cocinero Molida 30 gr,Abarrotes,Condimentos y Legumbres
@@ -8958,6 +8959,7 @@ id_producto,producto,categoria,subcategoria
 231514,DET LIQ TODO BRILLO PLUS FLORAL 5LTS,Cuidado del Hogar,Limpieza de la Ropa
 231516,GEL FIXER UNISEX ALOE VERA 250G,Cuidado Personal,Cuidado del Cabello
 231522,PACK CASTING 535 + SH GLYCO 200ML,Cuidado Personal,Cuidado del Cabello
+231535,ANTIPOLILLA KLOBOL 200 GR,Cuidado del Hogar,Productos Americanos
 231673,Zucaritas Kelloggs 420 gr,Abarrotes,Nutrición Infantil
 231681,Cereal Kelloggs Corn Flakes 500 gr,Abarrotes,Nutrición Infantil
 231890,Sardina Ramirez Aceite Vegetal 125 gr,Abarrotes,Comidas en Conserva
@@ -10048,6 +10050,7 @@ id_producto,producto,categoria,subcategoria
 312149,PASTA BORGES FARFALLE 500G,Abarrotes,Básicos
 312152,SNACK 2HERMANOS ARROZ C CEBOLLA 80G,Abarrotes,Snack
 312153,PASTA BORGES PENNE RIGATE 500G,Abarrotes,Básicos
+312155,APERITIVO VILLA CARDEA BOT 700ML,Bebidas,Licores
 312158,PASTA BORGES LINGUINE 500G,Abarrotes,Básicos
 312159,PASTA BORGES FUSILLI 500G,Abarrotes,Básicos
 312162,MANTEQ D MANI SKURZTH CRUNCHY 260G,Abarrotes,Repostería
@@ -11633,7 +11636,7 @@ id_producto,producto,categoria,subcategoria
 378453,Mortadela Pura Carne Hipermaxi kg,Fiambres,Fiambres Hipermaxi
 378461,Mortadela Primavera Hipermaxi kg,Fiambres,Fiambres Hipermaxi
 378488,Chorizo Frankfurt Hipermaxi al Vacio kg,Fiambres,Fiambres Hipermaxi
-378542,Huevitos de Chocolate Bon o Bon 8 gr,Abarrotes,Temporada
+378542,Huevitos de Chocolate Bon o Bon 78 gr,Abarrotes,Temporada
 378712,Esponja Scotch Brite Fibra Limpieza 1 un,Cuidado del Hogar,Accesorios del Hogar
 378887,Protector Labial Nivea Essencial 7.7 gr,Cuidado Personal,Cuidado de la Piel
 378917,Protector Labial Nivea Cherry 4.7 gr,Cuidado Personal,Cuidado de la Piel
@@ -13029,6 +13032,7 @@ id_producto,producto,categoria,subcategoria
 471682,Pierna Sofia Bandeja kg,Carnes,Carne de Pollo
 471690,Muslo Ancho Sofia 1 kg Bandeja,Carnes,Carne de Pollo
 471704,Alas Enteras Sofia Bandeja kg,Carnes,Carne de Pollo
+471810,Jarabe Hershey Chocolate 24 oz,Abarrotes,Repostería
 471925,Pan Miga Belen Blanco 440 gr,Panadería,Panadería Externa
 471984,Topping Smuckers Caramelo 12.25 oz,Abarrotes,Repostería
 472033,Pimienta Limon El Cocinero 65 gr,Abarrotes,Condimentos y Legumbres
@@ -14535,6 +14539,7 @@ id_producto,producto,categoria,subcategoria
 551544,Papa Chispy Chips Pollo a la Brasa 300 gr,Abarrotes,Snack
 551545,Papa Chispy Chips Hamburguesa 300 gr,Abarrotes,Snack
 551546,Helado Delizia Paleta Rocky,Congelados,"Helados, Cassattas y Picoleses"
+551552,CHOCOLATE PASCUA DINOVO SORPRESA 60 GR,Abarrotes,Temporada
 551553,Quinua con Manzana Instantanea Sabor Andino,Abarrotes,Nutrición Infantil
 551555,Sesamo Sabor Andino 230 gr,Abarrotes,Dietéticos y Saludables
 551556,Chia Sabor Andino 350 gr,Abarrotes,Nutrición Infantil
@@ -16085,9 +16090,14 @@ id_producto,producto,categoria,subcategoria
 553805,FIDEO DON MAXIMO ARITO 400 GR,Abarrotes,Básicos
 553806,SNOT CANDY NOVA SNACK 30 GR,Abarrotes,Productos Americanos
 553807,CERVEZA HACKER PSCHORR WEISSBIER LTA 500,Bebidas,Cervezas
-553808,CHOCOLATE VIZZIO ALMENDRA CJA 63 GR,Abarrotes,Chocolates y Caramelos
+553808,CHOCOLATE COSTA VIZZIO 63G,Abarrotes,Chocolates y Caramelos
 553811,AGUA C GAS DONA MARIA POMELO LTA 473 ML,Bebidas,Aguas
 553812,AGUA C GAS DONA MARIA LIMON LTA 473 ML,Bebidas,Aguas
+553815,VINO TINTO CASTIGLIONI CHIANTI 750 ML,Bebidas,Vinos y Champagne
+553819,VINO TINTO ST GIORGIO TOSCANA  750 ML,Bebidas,Vinos y Champagne
+553820,VINO TINTO ST GIORGIO CHIANTI RESERVA 75,Bebidas,Vinos y Champagne
+553822,VINO ST GIORGIO CHIANTI ANIV TTO 750ML,Bebidas,Vinos y Champagne
+553835,VINO ESP MASOTTINA PROSECCO BRUT 750 ML,Bebidas,Vinos y Champagne
 553840,PACK 2 VINOS KOHLBERG FUNDADOR 700ML,Bebidas,Vinos y Champagne
 553845,SALSA GOLF KRIS DOYPACK 500 CC,Abarrotes,Aderezos
 553846,MAYONESA PICANTE KRIS DOYPACK 500 CC,Abarrotes,Aderezos
@@ -19037,6 +19047,8 @@ id_producto,producto,categoria,subcategoria
 664816,BELESTRAL PRO HIDRATANTE 1000 GR,Cuidado Personal,Cuidado del Cabello
 664817,BELESTRAL PRO PROTECTORA DE COLOR 1000 G,Cuidado Personal,Cuidado del Cabello
 664819,CREMA HANBEL MILK ASAI DOY PACK 900 GR,Cuidado Personal,Cuidado de la Piel
+664820,CREMA HANBEL MILK ALOE VERA DOY PACK 900,Cuidado Personal,Cuidado de la Piel
+664821,CREMA HANBEL MILK COCO Y AVENA DOY PACK,Cuidado Personal,Cuidado de la Piel
 664825,Paneton Hipermaxi Chips Chocolate 600 gr,Panadería,Panadería Hipermaxi
 664826,Budin de Chocolate con Gotas Hipermaxi 250 gr,Pastelería y Masas Típicas,Pastelería Hipermaxi
 664829,Budin Marmolado Hipermaxi 250 gr,Pastelería y Masas Típicas,Pastelería Hipermaxi
@@ -21058,7 +21070,7 @@ id_producto,producto,categoria,subcategoria
 672290,Papa Sofia Pre Fritas Tradicional 9 Mm 2500 gr,Congelados,Masas y Comidas Congeladas
 672291,Papa Sofia Pre Fritas Fast Food 7 Mm 2 kg,Congelados,Masas y Comidas Congeladas
 672292,Bandeja de Galletas de Avena Monkey,Pastelería y Masas Típicas,Pastelería Externa
-672293,Bandeja de Galletas Monkey Relleno de Limon,Abarrotes,Dietéticos y Saludables
+672293,Bandeja de Galletas Monkey Relleno de Limon,Pastelería y Masas Típicas,Pastelería Externa
 672294,Galleta Monkey de Chocolate con Chispas,Pastelería y Masas Típicas,Pastelería Externa
 672295,Alfajor Monkey Relleno de Dulce de Leche,Pastelería y Masas Típicas,Pastelería Externa
 672296,Yogurt Kream Piña 2 L,Lácteos y Derivados,Yogures
@@ -21664,7 +21676,7 @@ id_producto,producto,categoria,subcategoria
 673646,Alimento Untable a Base de Mani Inchik 200 gr,Lácteos y Derivados,Mantequillas y Margarinas
 673649,Jamon Ingles Stege 140 gr,Fiambres,Fiambres Externos
 673650,Nacho Tortitacos Jalapeños Limon 200 gr,Abarrotes,Snack
-673654,Hmaburguesa de Trucha Titikaka,Congelados,Carnes Congeladas
+673654,Hamburguesa de Trucha Titikaka,Congelados,Carnes Congeladas
 673656,Pan Molde Blanco La Colmena 625 gr,Panadería,Panadería Externa
 673657,Pan Molde Integral La Colmena 725 gr,Panadería,Panadería Externa
 673658,Pan Molde La Colmena Multicereal 675 gr,Panadería,Panadería Externa
@@ -23245,6 +23257,7 @@ id_producto,producto,categoria,subcategoria
 761062,Vino Viñas De Balbo Tinto 1125 ml,Bebidas,Vinos y Champagne
 761121,Yogurt Bebible Friedland Probiotico Durazno 1 L,Lácteos y Derivados,Yogures
 761224,Yogurt Bebible Friedland Probiotico Frutilla 1 L,Lácteos y Derivados,Yogures
+761248,CREMA TRES LECHES DAGUSTO 1 LT.,Lácteos y Derivados,Crema de Leche
 761252,PULPA CONG.FRUTAS Y VEGETALES DETOX X5 UNID.CELEBRE,Congelados,Pulpas y Frutas Congeladas
 761257,YOGURT BEB.PROB.SAB.NATURAL BONTANA 1 LT.,Lácteos y Derivados,Yogures
 761258,Porotos Hess Conserva 340 gr,Fiambres,Fiambres Externos
@@ -23666,6 +23679,7 @@ id_producto,producto,categoria,subcategoria
 782784,Pulpo Mar Rios kg,Congelados,Carnes Congeladas
 782785,Pulpa Congelada Delifruta Durazno 500 gr,Congelados,Pulpas y Frutas Congeladas
 782788,Piernas de Pato San Jose Congelado kg,Congelados,Carnes Congeladas
+782790,Ostiones Mar Rios kg,Congelados,Carnes Congeladas
 782796,Crema Ultra Rich de Leche 1 L,Lácteos y Derivados,Crema de Leche
 782799,Mantequilla de Ajo Brasuco con Queso 200 gr,Lácteos y Derivados,Mantequillas y Margarinas
 782838,Queso San German 500 gr,Lácteos y Derivados,Quesos
@@ -24600,6 +24614,7 @@ id_producto,producto,categoria,subcategoria
 820468,Aceite Carbonell Extra Virgen 250 ml,Abarrotes,Básicos
 820597,Café Nescafe Tradicion Tapa Roja 200 gr,Abarrotes,Café y Sucedáneos
 820611,Galleta Club Social Integral 216 gr,Abarrotes,Galletas
+821014,Encendedor Bic,Bazar,Articulos de Cocina
 821077,Estilete,Bazar,Librería
 821224,Huesos Guau Nutrigua 8 un,Bazar,Mascotas General
 821225,Uvo Nutrigu X Brecuentre  D,Bazar,Mascotas General
@@ -25063,6 +25078,7 @@ id_producto,producto,categoria,subcategoria
 841355,CH J80 41 BOLSA DE NAVIDAD DISENO SURTIDO   BLANCO 23X16X11X,Bazar Importación,Temporada Navidad
 841357,CH J80 42 BOLSA DE NAVIDAD DISENO SURTIDO   BLANCO 27X20X13C,Bazar Importación,Temporada Navidad
 841382,CH J87 2 ARBOL DE NAVIDAD 180CM,Bazar Importación,Temporada Navidad
+841390,Globo dia del Amor,Bazar,Temporadas Restantes
 841411,CH J80 27 BOLSA DE NAVIDAD DISENO SURTIDO   CAFE  17 5X23 5X,Bazar Importación,Temporada Navidad
 841412,CH N20 19 BOLAS NAVIDENAS ROJAS EN TUBO SETX12  TAMANO DE BO,Bazar Importación,Temporada Navidad
 841413,CH N20 42 ARBOL NAVIDENO PEQUENO DE DECORACION 35X6CM,Bazar Importación,Temporada Navidad
@@ -27309,6 +27325,7 @@ id_producto,producto,categoria,subcategoria
 897884,Juguete de Mascota,Bazar,Mascotas General
 897891,Juguete Para Mascota Hueso 15,Bazar,Mascotas General
 897943,Bloqueador Solar Nivea 125 ml,Cuidado Personal,Cuidado de la Piel
+898052,Arañador para Gatos,Bazar,Mascotas General
 898091,Exprimidor Practika TC-8 1 L	Electro,Bazar,Electrodoméstico/Línea Blanca-Hogar
 898092,ALISADORA FASHION KIT TAURUS,Bazar,Electrodoméstico Cuidado Personal
 898208,Jabon Barra Gigante Azul 200 gr,Cuidado del Hogar,Limpieza de la Ropa
@@ -27446,7 +27463,7 @@ id_producto,producto,categoria,subcategoria
 908727,Sarten Tramontina + Espatula,Bazar,Articulos de Cocina
 908728,Sarten Plancha Tramontina Asadora,Bazar,Churrasquería
 908733,Cuchara Batidora Tramontina,Bazar,Articulos de Cocina
-908734,Hielera Crisa de Cristal,Bazar,Articulos de Cocina
+908734,Hielera Crisa de Cristal,Bazar,Menaje Vidrio/Cristal
 908771,Vaso Tequilero Crisa 2 Oz,Bazar,Menaje Vidrio/Cristal
 908773,Vaso de Cristal Crisa Cervecero,Bazar,Menaje Vidrio/Cristal
 908841,Paño Cocina Teka,Cuidado del Hogar,Productos Americanos
