@@ -2257,6 +2257,7 @@ id_producto,producto,categoria,subcategoria
 27004,SPAGUETTI LAZZARONI INTEGRAL 400G,Abarrotes,Dietéticos y Saludables
 27005,Galleta Bauducco Fini Pinta Lengua 96 gr,Abarrotes,Galletas
 27008,Galleta Bauducco Fini Dentadura 96 gr,Abarrotes,Galletas
+27010,Te Helado Tampico Limon 500 ml,Bebidas,Bebidas Varias
 27011,Te Helado Tampico Duzano 500 ml,Bebidas,Bebidas Varias
 27012,COLCAFE INSTANT DESCAF FCO 40G,Abarrotes,Café y Sucedáneos
 27013,VODKA THE JAMES COOK 900ML,Bebidas,Licores
@@ -8183,6 +8184,7 @@ id_producto,producto,categoria,subcategoria
 225125,SHAMPOO CARISSA ANTICASPA 800ML BOT,Cuidado Personal,Cuidado del Cabello
 225127,SHAMPOO REVIVE  ANTICASPA 600ML,Cuidado Personal,Cuidado del Cabello
 225128,SHAMPOO REVIE DP ANTICASPA DP850ML,Cuidado Personal,Cuidado del Cabello
+225129,SUAVIZANTE TB PLUS DULCE SUENO 5 LT,Cuidado del Hogar,Limpieza de la Ropa
 225130,PACK TALCO PIE CILKA 250+170GR,Cuidado Personal,Cuidado de la Piel
 225132,SHAMPOO REVIVE MEN ANTICASPA 600 ML,Cuidado Personal,Cuidado del Cabello
 225133,SHAMPOO REVIVE MEN ANTICASPA  340ML,Cuidado Personal,Cuidado del Cabello
@@ -8956,10 +8958,25 @@ id_producto,producto,categoria,subcategoria
 231445,Guantes Scotch Brite Para Cocina Talla P/S,Cuidado del Hogar,Accesorios del Hogar
 231510,SUAVIZANTE TB PLUS MAGICA ARMONIA 5L,Cuidado del Hogar,Limpieza de la Ropa
 231511,SUAVIZANTE TODO BRILLO PLUS BEBE 5L,Cuidado del Hogar,Limpieza de la Ropa
+231512,SUAVIZANTE TB PLUS ENCANTO 5LT,Cuidado del Hogar,Limpieza de la Ropa
+231513,DET LIQ TODO BRILLO PLUS BEBE 5L,Cuidado del Hogar,Limpieza de la Ropa
 231514,DET LIQ TODO BRILLO PLUS FLORAL 5LTS,Cuidado del Hogar,Limpieza de la Ropa
 231516,GEL FIXER UNISEX ALOE VERA 250G,Cuidado Personal,Cuidado del Cabello
 231522,PACK CASTING 535 + SH GLYCO 200ML,Cuidado Personal,Cuidado del Cabello
 231535,ANTIPOLILLA KLOBOL 200 GR,Cuidado del Hogar,Productos Americanos
+231536,CICATRICURE REGENE PLAST 30GR,Cuidado Personal,Cuidado de la Piel
+231537,JABON ASEOXIA NEUTRO DERMA 100 GR,Cuidado Personal,Cuidado de la Piel
+231538,JABON ASEPXIA REGENERADOR 100 GR,Cuidado Personal,Cuidado de la Piel
+231539,JABON ASEPXIA SUAVIZANTE 100G,Cuidado Personal,Cuidado de la Piel
+231540,ACEITE FARMAX CARAMELO 100 ML,Cuidado Personal,Cuidado del Cabello
+231542,ACEITE FARMAX CHOCOLATE 100 ML,Cuidado Personal,Cuidado del Cabello
+231543,PACK 3X2 JABONCILLO LEXI 120GR,Cuidado Personal,Cuidado de la Piel
+231544,PACK 3X2 JABONCILLO LEXI 70GR,Cuidado Personal,Cuidado de la Piel
+231552,DETERGENTE NA PANCHA LIMON 600GR,Cuidado del Hogar,Limpieza de la Ropa
+231553,DETERGENTE NA PANCHA FLORAL 600GR,Cuidado del Hogar,Limpieza de la Ropa
+231554,DETERGENTE NA PANCHA LIMON 1700GR,Cuidado del Hogar,Limpieza de la Ropa
+231555,DETERGENTE NA PANCHA LIMON 4800GR,Cuidado del Hogar,Limpieza de la Ropa
+231556,DETERGENTE NA PANCHA FLORAL 1700GR,Cuidado del Hogar,Limpieza de la Ropa
 231673,Zucaritas Kelloggs 420 gr,Abarrotes,Nutrición Infantil
 231681,Cereal Kelloggs Corn Flakes 500 gr,Abarrotes,Nutrición Infantil
 231890,Sardina Ramirez Aceite Vegetal 125 gr,Abarrotes,Comidas en Conserva
@@ -10056,7 +10073,11 @@ id_producto,producto,categoria,subcategoria
 312162,MANTEQ D MANI SKURZTH CRUNCHY 260G,Abarrotes,Repostería
 312163,MANTEQ D MANI SKURZTH CRUNCHY 360G,Abarrotes,Repostería
 312164,LECHE CONDENSADA PIL DP 200G,Abarrotes,Nutrición Infantil
+312168,CAFE 3CORAZONES EXT FORTE VACIO 500G,Abarrotes,Café y Sucedáneos
+312170,CAFE 3CORAZONES TRADIC VACIO 500G,Abarrotes,Café y Sucedáneos
 312176,Set Churrasquero Tramontina Grande 2 un,Bazar,Churrasquería
+312179,PACK 2VINO C SOLANA  INNOVANTE TANNAT,Bebidas,Vinos y Champagne
+312180,PACK 2VINO C SOLANA INNOVANTE CABERNET,Bebidas,Vinos y Champagne
 312290,Huevo Bon o Bon Leche 110 gr,Abarrotes,Temporada
 312711,Lustra mueble Archer Recarga 860 ml,Cuidado del Hogar,Limpieza de Living y Ropero
 312959,Salsa Soya Kikkoman Lite 10 oz,Abarrotes,Condimentos y Legumbres
@@ -10721,6 +10742,7 @@ id_producto,producto,categoria,subcategoria
 336599,Harina de Pan Hipermaxi 500 gr,Panadería,Panadería Especialidades Hipermaxi
 336622,Ambientador Automatico Sapolio Perfumatic 3 Tiempo,Cuidado del Hogar,Limpieza de Living y Ropero
 336625,Paño Dohler Cocina 45x70 cm,Cuidado del Hogar,Productos Americanos
+336658,Sopa Granja Verde de Castaña 180 gr,Abarrotes,Básicos
 336669,Lavandina X5 Gel 700 cc,Cuidado del Hogar,Limpieza de la Ropa
 336675,Servilletas Blanquita Absorvente 500 un,Cuidado Personal,Cuidado Familiar
 336676,TOALLA DE COCINA BLANQUITA 180X12,Cuidado del Hogar,Limpieza de Cocina
@@ -18981,6 +19003,7 @@ id_producto,producto,categoria,subcategoria
 660122,Fideo De Cecco Spaguetti 7 Cereales 12 400 gr,Abarrotes,Productos Importados
 660123,Gnocchi Integral De Cecco 500 gr,Abarrotes,Productos Importados
 660124,Cuscus De Cecco 500 gr,Abarrotes,Productos Importados
+660147,BI PACK DOVE ROL EX FRE 50ML+CUIDTOT50ML,Cuidado Personal,Cuidado de la Piel
 660180,Limpiador Sacagrasa Sapolio Naranja Doypack 500 ml,Cuidado del Hogar,Limpieza de Cocina
 660200,Salsa Prego Marinara 23 oz,Abarrotes,Productos Americanos
 660203,Sopa Instantanea Maruchan Pollo Picante 85 gr,Abarrotes,Básicos
