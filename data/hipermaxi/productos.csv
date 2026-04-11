@@ -2100,7 +2100,7 @@ id_producto,producto,categoria,subcategoria
 26018,Mani Charito Confitado 160 gr,Abarrotes,Snack
 26019,Gragea de Mani Mc Nuts Coco 120 gr,Abarrotes,Snack
 26020,Salsa Promos Barbacoa Original 510 gr,Abarrotes,Aderezos
-26021,SALSA PROMOS BBQ PICANTE 510G,Abarrotes,Aderezos
+26021,Salsa Promos BBQ Picante 510 gr,Abarrotes,Aderezos
 26022,Galleta Cofler Rellena Bon o Bon 85 gr,Abarrotes,Galletas
 26023,Platano Chips Titos Ajo 90 gr,Abarrotes,Snack
 26024,Cafe Munaq Tostado Molido 250 gr,Abarrotes,Café y Sucedáneos
@@ -8979,6 +8979,7 @@ id_producto,producto,categoria,subcategoria
 231514,DET LIQ TODO BRILLO PLUS FLORAL 5LTS,Cuidado del Hogar,Limpieza de la Ropa
 231515,DET LIQ TODOBRILLO PLUS QTA MANCHA 5 LT,Cuidado del Hogar,Limpieza de la Ropa
 231516,GEL FIXER UNISEX ALOE VERA 250G,Cuidado Personal,Cuidado del Cabello
+231518,PACK CASTING 500 + SH GLYCO 200ML,Cuidado Personal,Cuidado del Cabello
 231521,PACK CASTING 200 + SH GLYCO 200ML,Cuidado Personal,Cuidado del Cabello
 231522,PACK CASTING 535 + SH GLYCO 200ML,Cuidado Personal,Cuidado del Cabello
 231524,PACK CASTING 700 + SH GLYCO 200ML,Cuidado Personal,Cuidado del Cabello
@@ -10095,6 +10096,7 @@ id_producto,producto,categoria,subcategoria
 312140,GASEOSA CIELO LIMON ANTIOXID 2LT,Bebidas,Gaseosas
 312144,PAPA PAPADAN QUESO CHEDDAR TUB 120G,Abarrotes,Snack
 312145,PAPA PAPADAN CREMA CEBOLLA TUBO 120G,Abarrotes,Snack
+312147,VINAGRE CALAMUCHITA DE UVA 850ML,Abarrotes,Básicos
 312148,SPAGUETTI BORGES 500G,Abarrotes,Básicos
 312149,PASTA BORGES FARFALLE 500G,Abarrotes,Básicos
 312151,LINAZA MOLIDA NUTRIFOODS BSA 250G,Bebidas,Refrescos en Polvo
@@ -10103,6 +10105,7 @@ id_producto,producto,categoria,subcategoria
 312155,APERITIVO VILLA CARDEA BOT 700ML,Bebidas,Licores
 312158,PASTA BORGES LINGUINE 500G,Abarrotes,Básicos
 312159,PASTA BORGES FUSILLI 500G,Abarrotes,Básicos
+312160,ISOTONICO SANTE FRAMB LIMON ORIENTE 500M,Bebidas,Isotónicos
 312161,MERMERLADA DFRUT MORA FCO 500G,Abarrotes,"Mermel, Mieles"
 312162,MANTEQ D MANI SKURZTH CRUNCHY 260G,Abarrotes,Repostería
 312163,MANTEQ D MANI SKURZTH CRUNCHY 360G,Abarrotes,Repostería
@@ -10124,6 +10127,8 @@ id_producto,producto,categoria,subcategoria
 312192,MASTICABLE BILLIKEN YOGUR BSA 600G,Abarrotes,Golosinas - Varias
 312194,MASTICABLE DROPSY SELVA BSA 700G,Abarrotes,Golosinas - Varias
 312195,CAFE 21G AMERICANO DP 250G,Abarrotes,Café y Sucedáneos
+312196,BOMBON BON O BON SUPREME CJA 144G,Abarrotes,Chocolates y Caramelos
+312197,BOMBON BON O BON SUPREME 36G,Abarrotes,Golosinas - Varias
 312200,SALSA CHURRASQ OLIVE SUPER PIC FCO 220G,Abarrotes,Aderezos
 312201,SALSA CHURRASQ OLIVE PICANTE FCO 220G,Abarrotes,Aderezos
 312202,SALSA OLIVE PICANTE FCO 220G,Abarrotes,Aderezos
@@ -10132,6 +10137,7 @@ id_producto,producto,categoria,subcategoria
 312205,GALLETA D ARROZ DELMOLINO CON SAL 100G,Abarrotes,Dietéticos y Saludables
 312206,GALLETA D ARROZ DELMOLINO SIN SAL 100G,Abarrotes,Dietéticos y Saludables
 312208,GALLETA D ARROZ DELMOLINO C STEVIA 100G,Abarrotes,Dietéticos y Saludables
+312230,ISOTONICO SANTE UVA ZERO 1LT,Bebidas,Isotónicos
 312290,Huevo Bon o Bon Leche 110 gr,Abarrotes,Temporada
 312711,Lustra mueble Archer Recarga 860 ml,Cuidado del Hogar,Limpieza de Living y Ropero
 312959,Salsa Soya Kikkoman Lite 10 oz,Abarrotes,Condimentos y Legumbres
@@ -19086,6 +19092,7 @@ id_producto,producto,categoria,subcategoria
 660149,SEDAL MASC TRAT RIZOS DEFINIDOS 300G,Cuidado Personal,Cuidado del Cabello
 660151,SEDAL MASC TRAT CERAMIDAS 300G,Cuidado Personal,Cuidado del Cabello
 660180,Limpiador Sacagrasa Sapolio Naranja Doypack 500 ml,Cuidado del Hogar,Limpieza de Cocina
+660199,REXONA MEN DEO AP AER FIFA150ML,Cuidado Personal,Cuidado de la Piel
 660200,Salsa Prego Marinara 23 oz,Abarrotes,Productos Americanos
 660203,Sopa Instantanea Maruchan Pollo Picante 85 gr,Abarrotes,Básicos
 660207,REXONA W ANTITRANSPIRANTE AER FIFA 150ML,Cuidado Personal,Cuidado de la Piel
@@ -25796,6 +25803,7 @@ id_producto,producto,categoria,subcategoria
 852099,Margarina Reyna 215 gr,Lácteos y Derivados,Mantequillas y Margarinas
 852165,JUEGO MESA 4 EN 1  BOLIVMAR,Juguetería,Juguetería Didáctica/Temporada
 852173,Margarina Reyna Valle 850 gr,Lácteos y Derivados,Mantequillas y Margarinas
+852184,CA MUNECA EN CAJA 198,Juguetería,Juguetería Niña/Bebé
 852210,Batidora New Mixo Practika Electro,Bazar,Electrodoméstico/Línea Blanca-Hogar
 852268,Escoba de Bruja,Bazar Importación,Temporada Halloween
 852269,CH 34 4 MUNECO CALAVERA HALLOWEEN MUSICAL 52CM,Bazar Importación,Temporada Halloween
@@ -26792,6 +26800,7 @@ id_producto,producto,categoria,subcategoria
 864487,CRA-Z-ART SPARKLING MERMAIA SET PELUQUERIA 66606,Juguetería,Juguetería Marcas
 864502,Quitaesmalte Unik 320 ml,Cuidado Personal,Cuidado de la Piel
 864510,HSBR PLAY DOH WHEEL CAOMION F1322,Juguetería,Juguetería Marcas
+864594,AC PLASTILINA NILO DRYNG,Bazar,Librería
 864600,Lentes Año Nuevo,Bazar,Temporadas Restantes
 864613,FOCO BULBO PHILIPS LED 8W CALIDA,Bazar,Ferretería
 864614,FOCO BULBO PHILIPS LED 8W FRIA,Bazar,Ferretería
@@ -26863,6 +26872,7 @@ id_producto,producto,categoria,subcategoria
 867131,OLLA PREMIUM #22 T/VIDRIO 4LTS,Bazar,Articulos de Cocina
 867213,TOALLA DE CABELLO BETTER COFFE,Bazar,Bijouteria/Cuidado Personal
 867217,ESPONJA DE SISAL Y LINO BETER,Bazar,Bijouteria/Cuidado Personal
+867272,CA JUGUETE MALETA C/ACESORIOS NINOS 110,Juguetería,Juguetería Didáctica/Temporada
 867358,Insecticida Sapolio Cucaracha  Hormiga 360 ml,Cuidado del Hogar,Insecticidas
 867363,Insecticida Sapolio Mosca Mosquito 360 ml,Cuidado del Hogar,Insecticidas
 867378,Insecticida Sapolio Mata Pulgas 360 ml,Cuidado del Hogar,Insecticidas
@@ -27022,6 +27032,7 @@ id_producto,producto,categoria,subcategoria
 871077,SILICONA AUTO SAPOLIO CHERRY 360ML,Bazar,Automotriz
 871089,Vasos de Niños,Bazar,Articulos de Bebé
 871090,Bombillas Belene Surtidas 200 un,Bazar,Cotillón
+871217,JAN ROMPECABEZAS SURTIDOS 39,Juguetería,Juguetería Didáctica/Temporada
 871231,JAN GLOBO ADORNO HALLOWEN  28,Bazar,Temporada Halloween
 871439,Letrero Cumpleañero,Bazar,Cotillón
 871445,Banderines de Papel,Bazar,Cotillón
