@@ -8993,6 +8993,7 @@ id_producto,producto,categoria,subcategoria
 231543,PACK 3X2 JABONCILLO LEXI 120GR,Cuidado Personal,Cuidado de la Piel
 231544,PACK 3X2 JABONCILLO LEXI 70GR,Cuidado Personal,Cuidado de la Piel
 231547,ANTI ACNE GARNIER SERUM 15 ML,Cuidado Personal,Cuidado de la Piel
+231549,DEO DOVE CREAM CLINICAL 58 GR,Cuidado Personal,Cuidado de la Piel
 231552,DETERGENTE NA PANCHA LIMON 600GR,Cuidado del Hogar,Limpieza de la Ropa
 231553,DETERGENTE NA PANCHA FLORAL 600GR,Cuidado del Hogar,Limpieza de la Ropa
 231554,DETERGENTE NA PANCHA LIMON 1700GR,Cuidado del Hogar,Limpieza de la Ropa
@@ -10121,6 +10122,7 @@ id_producto,producto,categoria,subcategoria
 312178,GOMITA REGALIZ BULLDOG ACIDA FRUTILL 75G,Abarrotes,Golosinas - Varias
 312179,PACK 2VINO C SOLANA  INNOVANTE TANNAT,Bebidas,Vinos y Champagne
 312180,PACK 2VINO C SOLANA INNOVANTE CABERNET,Bebidas,Vinos y Champagne
+312183,MIEL D ABEJA TERBOL COLMENA FCO 230G,Abarrotes,"Mermel, Mieles"
 312187,MIEL D ABEJA TERBOL OSITO 340G,Abarrotes,"Mermel, Mieles"
 312188,MASTICABLE YUM YUM SURTIDO BSA 300G,Abarrotes,Golosinas - Varias
 312191,MASTICABLE BILLIKEN FRUTAL BSA 600G,Abarrotes,Golosinas - Varias
@@ -10137,6 +10139,11 @@ id_producto,producto,categoria,subcategoria
 312205,GALLETA D ARROZ DELMOLINO CON SAL 100G,Abarrotes,Dietéticos y Saludables
 312206,GALLETA D ARROZ DELMOLINO SIN SAL 100G,Abarrotes,Dietéticos y Saludables
 312208,GALLETA D ARROZ DELMOLINO C STEVIA 100G,Abarrotes,Dietéticos y Saludables
+312211,BOMBON LINDT LINDOR FRESA 200G,Abarrotes,Chocolates y Caramelos
+312212,CHOCOBISCUIT BAUDUCO BLANCO NETFLIX 80G,Abarrotes,Galletas
+312213,CHOCOBISCUIT BAUDUCO CHOCOL LECHE 80G,Abarrotes,Galletas
+312214,CHOCOBISCUIT BAUDUCO CHOC SEMI AMARGO 80,Abarrotes,Galletas
+312222,MANTEQ MANI MR NUTS T DUBAI SIN AZUC 360,Abarrotes,Repostería
 312230,ISOTONICO SANTE UVA ZERO 1LT,Bebidas,Isotónicos
 312290,Huevo Bon o Bon Leche 110 gr,Abarrotes,Temporada
 312711,Lustra mueble Archer Recarga 860 ml,Cuidado del Hogar,Limpieza de Living y Ropero
@@ -13449,7 +13456,7 @@ id_producto,producto,categoria,subcategoria
 494850,Pan Molde Zelada Larga Vida Blanco,Panadería,Panadería Externa
 494851,Pan Molde Zelada Integral Larga Vida,Panadería,Panadería Externa
 495177,Sopa Instantanea Espaguet Pronto Nissin 500 gr,Abarrotes,Productos Americanos
-495178,Fideo Nissin Yakissoba Pronto 500 gr,Abarrotes,Productos Americanos
+495178,Fideo Nissin Yakissoba Pronto 500 gr,Abarrotes,Básicos
 495180,MIXTURA P/APANAR PANKO ALFA BSA 200 GR,Abarrotes,Productos Americanos
 495181,Biscocho Camil de Arroz Integral 150 gr,Abarrotes,Dietéticos y Saludables
 495183,Biscocho Camil Chia Linaza Integral 150 gr,Abarrotes,Dietéticos y Saludables
@@ -14661,6 +14668,7 @@ id_producto,producto,categoria,subcategoria
 551598,Willkaparu Nutrifoods Canela 450 gr,Abarrotes,Condimentos y Legumbres
 551599,Lagua Jankaquipa Nutrifoods 450 gr,Abarrotes,Básicos
 551601,CHUNO TUNTA NUTRIFOODS 450GR,Abarrotes,Condimentos y Legumbres
+551602,CHUNO NEGRO NUTRIFOODS 450GR,Abarrotes,Condimentos y Legumbres
 551603,Llajua Kris Quirquina Kriolla 90 gr,Abarrotes,Aderezos
 551604,Cerveza Bendita Lemon Drop 269 ml,Bebidas,Cervezas
 551607,Helado Miki Banana 100 gr,Abarrotes,Repostería
@@ -16198,11 +16206,14 @@ id_producto,producto,categoria,subcategoria
 553835,VINO ESP MASOTTINA PROSECCO BRUT 750 ML,Bebidas,Vinos y Champagne
 553840,PACK 2 VINOS KOHLBERG FUNDADOR 700ML,Bebidas,Vinos y Champagne
 553841,CURCUMA DESHID EN HOJUELAS SOB 35 GR,Abarrotes,Frutas en Conserva
+553842,JENGIBRE DESHID EN HOJUELAS SOB 25 GR,Abarrotes,Frutas en Conserva
 553844,BEBIDA LISTA BARDERO MOJITO PET 2 LT,Bebidas,Licores
 553845,SALSA GOLF KRIS DP 500 CC,Abarrotes,Aderezos
 553846,MAYONESA KRIS PICANTE DP 500G,Abarrotes,Aderezos
 553847,MAYONESA LIGHT KRIS POMO 350 CC,Abarrotes,Dietéticos y Saludables
 553854,SANGRIA BURBUSHHH BOT 355 ML,Bebidas,Vinos y Champagne
+553858,FRUTA DESHIDRATADA WAYU FRUTOS ROJOS 80,Abarrotes,Frutas en Conserva
+553862,GOMITAS MOGUL JELLY BEANS EXTREME 50 GR,Abarrotes,Golosinas - Varias
 554333,Cerveza Paceña Lata Roja 473 Cc,Bebidas,Cervezas
 554466,Detergente Liquido Ola Futuro Limpieza Completa 5 L,Cuidado del Hogar,Limpieza de la Ropa
 554468,Suavizante Ropa Ola Suavecito Original 5 L,Cuidado del Hogar,Limpieza de la Ropa
@@ -22520,6 +22531,8 @@ id_producto,producto,categoria,subcategoria
 674832,Mini Torta Delizia Frutilla 850 ml,Congelados,"Helados, Cassattas y Picoleses"
 674834,MINI TORTA DELIZIA YOGURT SALSA AMARENA 850 ML,Congelados,"Helados, Cassattas y Picoleses"
 674835,NUGGETS PATITAS SOFIA BOLSA 30 UNIDADES.,Congelados,Carnes Congeladas
+674837,BEBIDA LACTEA DISFRUT MANZANA DELIZIA 175ML,Lácteos y Derivados,Leches
+674838,BEBIDA LACTEA DISFRUT DURAZNO DELIZIA 175ML,Lácteos y Derivados,Leches
 675245,Miel de Abeja Eva Promiel 250 gr,Abarrotes,"Mermel, Mieles"
 676113,Habanito Bits Cream Coojies Cream 120 gr,Congelados,"Helados, Cassattas y Picoleses"
 676115,HABANITO BITS CREAM DULCE DE LECHE 120GRS,Congelados,"Helados, Cassattas y Picoleses"
@@ -23904,6 +23917,7 @@ id_producto,producto,categoria,subcategoria
 783927,Papa McCain Tradicional 400 gr,Congelados,Masas y Comidas Congeladas
 783946,Salsa de Queso Cheddar Milkaut 1.5 kg,Lácteos y Derivados,Quesos
 783956,Pan Molde King Bread Blanco 580 gr,Panadería,Panadería Externa
+783959,PACK YUCATAN BANANA SPLIT CAJA X5 UNID.,Congelados,"Helados, Cassattas y Picoleses"
 783967,Helado Yucatan Pie de Limon,Congelados,"Helados, Cassattas y Picoleses"
 784001,Bizcocho de Maiz San Javier Tradicional 200 gr,Pastelería y Masas Típicas,Masas Típicas Externas
 784013,Cuñape Abiscochado San Javier 200 gr,Pastelería y Masas Típicas,Masas Típicas Externas
@@ -25877,8 +25891,10 @@ id_producto,producto,categoria,subcategoria
 852991,CH 02 06 BOLAS DE NAVIDAD COLOR PLATEADO OSCURO SET X36 PZAS,Bazar Importación,Temporada Navidad
 852993,Bolas De Navidad Color Verde Claro Set 36 Piezas,Bazar Importación,Temporada Navidad
 853007,Caramelo Menthoplus Cherry 30.6 gr,Abarrotes,Golosinas - Varias
+853010,METRALLETA NEFR ELITE TETRAD QS4,Juguetería,Juguetería Marcas
 853012,Caramelo Menthoplus Miel 30.6 gr,Abarrotes,Golosinas - Varias
 853017,Muñeca Barbie Basica,Juguetería,Juguetería Niña/Bebé
+853022,VEHICULO DE CARRERA RC HOT WHEELS,Juguetería,Juguetería Niño/Bebé
 853032,Caramelo Menthoplus Strong 30.6 gr,Abarrotes,Golosinas - Varias
 853038,Matchbox Auto Pullback,Juguetería,Juguetería Niño/Bebé
 853052,Caramelo Arcor Rodajas Crazy 465 gr,Abarrotes,Chocolates y Caramelos
@@ -26935,6 +26951,7 @@ id_producto,producto,categoria,subcategoria
 868300,FIXER GEL SUPER EXTRA FUERTE 12X50G,Cuidado Personal,Cuidado del Cabello
 868301,PACK LYSOFORM 285 X 2,Cuidado del Hogar,Limpieza de Baños
 868324,X SHOT SKINS JURASSIC FLUX,Juguetería,Juguetería Niño/Bebé
+868345,RAINBOCORNS PUPPYCORN,Juguetería,Juguetería Didáctica/Temporada
 868413,CH 8604 JUGUETE PISTA PARA CARROS CON GIROS DE 360 GRADOS,Juguetería Importación,Juguetería Niño/Bebé
 868449,Soporte para Celulares Ezra a Rayas,Bazar Importación,Computadoras/Camaras/Filma y  Accesorio
 868450,Soporte para Celular Ezra Liso Metalicos,Bazar Importación,Computadoras/Camaras/Filma y  Accesorio
@@ -27434,6 +27451,14 @@ id_producto,producto,categoria,subcategoria
 891272,Te Windsor Mix 4 Variedad 100 Sobres,Abarrotes,Café y Sucedáneos
 891287,Te Windsor Mix Mate 4 Variedad 100 Sobres,Abarrotes,Café y Sucedáneos
 891301,Palillo El Cocinero 75 gr,Abarrotes,Condimentos y Legumbres
+891303,ROMP 12 PZS MEZCLA Y EMPAREJA,Juguetería,Juguetería Didáctica/Temporada
+891306,ROMP 12 PZS MEZCLA Y EMPAREJA,Juguetería,Juguetería Didáctica/Temporada
+891309,SET DISE¥O MANILLAS TRENDY,Juguetería,Juguetería Niña/Bebé
+891310,MI MAQUINA DE HACER BUFANDAS,Juguetería,Juguetería Niña/Bebé
+891311,ROMP  ANIMALITOS PPARA NINOS,Juguetería,Juguetería Didáctica/Temporada
+891312,ROMPECABEZAS 1000 PIEZAS,Juguetería,Juguetería Didáctica/Temporada
+891313,HOT WHEELS VEHICULO R C,Juguetería,Juguetería Niño/Bebé
+891314,BLOQUES SPEED,Juguetería,Juguetería Didáctica/Temporada
 891316,Clavo de Olor El Cocinero 65 gr,Abarrotes,Condimentos y Legumbres
 891376,Tomillo El Cocinero 30 gr,Abarrotes,Condimentos y Legumbres
 891402,CH V1 8 TAZA FONDO BLANCO 380ML,Bazar Importación,Menaje Porcelana/Cerámica
@@ -27808,6 +27833,7 @@ id_producto,producto,categoria,subcategoria
 924198,Marcador Permanente Azul,Bazar,Librería
 924679,Papel Madera,Bazar,Librería
 924682,Plancheta Carta,Bazar,Librería
+924734,ROMP 1000 PZS TESOROS CLASICOS,Juguetería,Juguetería Didáctica/Temporada
 924808,LAPICERO BIC ROUND STIC VERDE 8226,Bazar,Librería
 924809,Boligrafo Bic Rojo,Bazar,Librería
 924810,Boligrafo Bic Azul,Bazar,Librería
@@ -27995,6 +28021,7 @@ id_producto,producto,categoria,subcategoria
 950466,Vasoo 7Oz X10 Plastico 7recuentreP,Bazar,Cotillón
 950475,Inflador de Globos Manual,Bazar,Cotillón
 950520,Auto Hot Wheels 3 un,Juguetería,Juguetería Niño/Bebé
+951157,DESPIERTA AL CAMELLO,Juguetería,Juguetería Didáctica/Temporada
 951167,Tijera Nuby Metalica Baby con Tapa,Bazar,Articulos de Bebé
 951414,Vela Cumpleaños Fuego,Bazar,Cotillón
 951543,Cuaderno Top Empastado Carta 100 Hojas,Bazar,Librería
@@ -28149,6 +28176,7 @@ id_producto,producto,categoria,subcategoria
 986390,Kit Renovador Llanta 321 gr,Bazar,Automotriz
 986406,Biberon Nuby 120 ml,Bazar,Articulos de Bebé
 986524,Pinza Ropa Gigante,Bazar,Living y Dormitorio
+986708,MI PEQUENO SNOOPY FISHER PRICE 9447,Juguetería,Juguetería Niño/Bebé
 987113,Yol Peluche,Juguetería,Juguetería Didáctica/Temporada
 987731,Papel Sabana Pliego,Bazar,Librería
 987878,Borrador de Pizarra Acrilica,Bazar,Librería
