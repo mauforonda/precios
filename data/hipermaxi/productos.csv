@@ -9000,6 +9000,7 @@ id_producto,producto,categoria,subcategoria
 231554,DETERGENTE NA PANCHA LIMON 1700GR,Cuidado del Hogar,Limpieza de la Ropa
 231555,DETERGENTE NA PANCHA LIMON 4800GR,Cuidado del Hogar,Limpieza de la Ropa
 231556,DETERGENTE NA PANCHA FLORAL 1700GR,Cuidado del Hogar,Limpieza de la Ropa
+231557,AMBIENTADOR TODOBRILLO LAVANDA 500ML,Cuidado del Hogar,Limpieza de Living y Ropero
 231581,PACK ICEFRESH KIDS DIA DEL NINO NINA,Cuidado Personal,Cuidado Bucal
 231673,Zucaritas Kelloggs 420 gr,Abarrotes,Nutrición Infantil
 231681,Cereal Kelloggs Corn Flakes 500 gr,Abarrotes,Nutrición Infantil
@@ -10087,6 +10088,7 @@ id_producto,producto,categoria,subcategoria
 312122,PACK 2VINOS TRIVARIETAL 1PORTA ANTOJOS,Bebidas,Vinos y Champagne
 312123,SINGANI SAN PEDRO FIESTA 750ML,Bebidas,Licores
 312124,TRIPACK VINOS ARANJUEZ DUOS 750ML,Bebidas,Vinos y Champagne
+312125,GASEOSA FANTA GUARANA PET 1LT,Bebidas,Gaseosas
 312128,MASTICABLE TUBES DESENROLA TUTTI 27G,Abarrotes,Golosinas - Varias
 312129,GOMITA FINI ROMPECABEZAS 80G,Abarrotes,Golosinas - Varias
 312130,GALLETA MABEL ROSQUITA LECHE BSA 230G,Abarrotes,Galletas
@@ -10147,6 +10149,7 @@ id_producto,producto,categoria,subcategoria
 312214,CHOCOBISCUIT BAUDUCO CHOC SEMI AMARGO 80,Abarrotes,Galletas
 312222,MANTEQ MANI MR NUTS T DUBAI SIN AZUC 360,Abarrotes,Repostería
 312230,ISOTONICO SANTE UVA ZERO 1LT,Bebidas,Isotónicos
+312238,BEBIDA BLENDERS PRIDE BOT 1LT,Bebidas,Licores
 312290,Huevo Bon o Bon Leche 110 gr,Abarrotes,Temporada
 312711,Lustra mueble Archer Recarga 860 ml,Cuidado del Hogar,Limpieza de Living y Ropero
 312959,Salsa Soya Kikkoman Lite 10 oz,Abarrotes,Condimentos y Legumbres
@@ -10758,6 +10761,7 @@ id_producto,producto,categoria,subcategoria
 335495,Pulpa Congelada Pulpa Frut Exoticas 2 un 200 gr,Congelados,Pulpas y Frutas Congeladas
 335504,Paño Mr.Trapo Microfibra Repasador,Cuidado del Hogar,Productos Americanos
 335509,Pulpa Congelada Pulpa Frut Surtidas 2 un 200 gr,Congelados,Pulpas y Frutas Congeladas
+335573,Esponja Scotch Brite Nexcare Curagua Espuma,Cuidado Personal,Cuidado de la Piel
 335579,Detergente Liquido Ola Futuro Maquina Lavado Completo Doypack 900 ml,Cuidado del Hogar,Limpieza de la Ropa
 335580,Repelente Tyson Familiar Crema 200 gr,Cuidado Personal,Cuidado de la Piel
 335582,Detergente Liquido Ola Futuro Bebe Doypack 900 ml,Cuidado del Hogar,Limpieza de la Ropa
@@ -19108,6 +19112,7 @@ id_producto,producto,categoria,subcategoria
 660149,SEDAL MASC TRAT RIZOS DEFINIDOS 300G,Cuidado Personal,Cuidado del Cabello
 660151,SEDAL MASC TRAT CERAMIDAS 300G,Cuidado Personal,Cuidado del Cabello
 660180,Limpiador Sacagrasa Sapolio Naranja Doypack 500 ml,Cuidado del Hogar,Limpieza de Cocina
+660186,AFEITADORA SCHICK PIEL DELICADA MUJER 2H,Cuidado Personal,Cuidado de la Piel
 660192,AFEITADORA SCHICK PIEL SENSIBLE HOMBRE 2,Cuidado Personal,Cuidado de la Piel
 660193,TOALLA NOSOTRAS INV. CLASICA 8UN,Cuidado Personal,Cuidado Familiar
 660199,REXONA MEN DEO AP AER FIFA150ML,Cuidado Personal,Cuidado de la Piel
@@ -21595,7 +21600,7 @@ id_producto,producto,categoria,subcategoria
 673218,Helado Arcor Mogul Extreme Sandia 50 gr,Congelados,"Helados, Cassattas y Picoleses"
 673221,Escabeche de Verduras Yacobs 850 gr,Fiambres,Fiambres Externos
 673222,Pan Blanco Bauducco 400 gr,Panadería,Panadería Externa
-673224,Pan Molde Integral Bauducco 400 gr,Panadería,Panadería Externa
+673224,Pan Molde Integral Bauducco 390 gr,Panadería,Panadería Externa
 673229,Pan de Hamburguesa Ovoplus 10 un,Panadería,Panadería Externa
 673230,Pan Hot Dog Ovoplus Pequeño 10 un,Panadería,Panadería Externa
 673231,Pan de Panchito Ovoplus Grande 10 un,Panadería,Panadería Externa
@@ -22334,6 +22339,7 @@ id_producto,producto,categoria,subcategoria
 674532,GALLETAS COCO DULCE OHANA BANDEJA,Pastelería y Masas Típicas,Pastelería Externa
 674533,GALLETAS MARACUYA DULCE OHANA BANDEJA,Pastelería y Masas Típicas,Pastelería Externa
 674534,GALLETAS VAINILLA DULCE OHANA BANDEJA,Pastelería y Masas Típicas,Pastelería Externa
+674537,QUESO SANDWICHERO SANILAC KILOGRAMO,Lácteos y Derivados,Quesos
 674541,LECHE PREMIUM UHT BOLSA 800ML EBA,Lácteos y Derivados,Leches
 674542,TRIPACK LECHE CHOCOMILK 800ML,Lácteos y Derivados,Leches
 674543,PAN TIPO ARANI OVOPLUS 14 UNIDADES BOLSA,Panadería,Panadería Externa
@@ -22452,12 +22458,14 @@ id_producto,producto,categoria,subcategoria
 674688,FAJITA DE CERDO SOFIA CONGELADA AL VACIO KGR,Congelados,Carnes Congeladas
 674689,COSTILLS BABY BACK SOFIA CONGELADA A/V KGR,Congelados,Carnes Congeladas
 674690,POSTRE HELADO SANGRIA DELIZIA 200ML,Congelados,"Helados, Cassattas y Picoleses"
+674691,QUESO FRESCO ALTIPLANO 800GRS,Lácteos y Derivados,Quesos
 674694,PIERNA DE CERDO SOFIA DESHUESADA C/CUERO 1KGR,Congelados,Carnes Congeladas
 674695,PIERNA DE CERDO SOFIA DESHUESADA C/CUERO 2KGR,Congelados,Carnes Congeladas
 674697,PAPA FRITA SABOR PICANTE 150G,Abarrotes,Snack
 674699,PATE DE FINAS HIERBAS SOFIA PREMIUM 100GRS,Fiambres,Fiambres Externos
 674700,PATE PECHUGA DE PAVO SOFIA PREMIUM 100GRS,Fiambres,Fiambres Externos
 674701,CHORIZO BUTIFARRA JALAPE¤O SOFIA PREMIUM UNI,Fiambres,Fiambres Externos
+674702,JAMON DE CERDO ARTESANAL SOFIA PREMIUM UNI,Fiambres,Fiambres Externos
 674705,ALIMENTO LACTEO BONLE UHT 800ML,Lácteos y Derivados,Leches
 674706,HELADO DUO CREMA AMERICANA MARACUYA DELIZIA 850ML,Congelados,"Helados, Cassattas y Picoleses"
 674707,HELADO DUO CREMA AMERICANA MANGO DELIZIA 850ML,Congelados,"Helados, Cassattas y Picoleses"
@@ -22535,6 +22543,7 @@ id_producto,producto,categoria,subcategoria
 674810,KEFIR GALAKTOS NATURAL 200ML,Lácteos y Derivados,Yogures
 674825,PACK 2 SALCHICHAS SIN PIEL OSFIM,Fiambres,Fiambres Externos
 674829,JUGO LIMONELLO PRO 200ML,Lácteos y Derivados,Leches
+674831,JUGO NARANJITO SOALPRO 80ML,Lácteos y Derivados,Leches
 674832,Mini Torta Delizia Frutilla 850 ml,Congelados,"Helados, Cassattas y Picoleses"
 674834,MINI TORTA DELIZIA YOGURT SALSA AMARENA 850 ML,Congelados,"Helados, Cassattas y Picoleses"
 674835,NUGGETS PATITAS SOFIA BOLSA 30 UNIDADES.,Congelados,Carnes Congeladas
