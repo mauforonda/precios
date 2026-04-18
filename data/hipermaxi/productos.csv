@@ -2277,7 +2277,7 @@ id_producto,producto,categoria,subcategoria
 27024,Energizante Alpha Berries 695 ml,Bebidas,Energizantes
 27025,Nicotina Zyn Black Cherry Mini 1.5 mg,Bebidas,Cigarrillos
 27026,Nicotina Zyn Black Cherry Mini 3 Mg,Bebidas,Cigarrillos
-27027,ZYN BLACK CHERRY MINI 6MG,Bebidas,Cigarrillos
+27027,Nicotina Zyn Black Cherry Mini 6 Mg,Bebidas,Cigarrillos
 27028,Nicotina Zyn Cool Mint Mini 1.5 Mg,Bebidas,Cigarrillos
 27029,Nicotina Zyn Cool Mint Mini 3 Mg,Bebidas,Cigarrillos
 27030,Nicotina Zyn Cool Mint Mini 6 Mg,Bebidas,Cigarrillos
@@ -2747,10 +2747,12 @@ id_producto,producto,categoria,subcategoria
 30622,Hidratante Suerox Manzana 630 ml,Bebidas,Isotónicos
 30623,Hidratante Suerox Naranja Mandarina 630 ml,Bebidas,Isotónicos
 30624,Takis Fuego Mex 240 gr,Abarrotes,Snack
+30625,CARAMELO WATTS DURO SURTIDO BSA 500G,Abarrotes,Chocolates y Caramelos
 30626,Yerba Mate Kurupi Megamenta 500 gr,Abarrotes,Café y Sucedáneos
 30627,Te Plan 30 Dias 30 Sobres,Abarrotes,Dietéticos y Saludables
 30628,Takis Original Mex 56 gr,Abarrotes,Snack
 30629,Gelatina Miki Uva 250 gr,Abarrotes,Repostería
+30630,CHICLE CASAL LUBAGOMAMINT MENTA 30UND,Abarrotes,Golosinas - Varias
 30633,Pack Galleta Wafer Mabel Cherry Piña,Abarrotes,Galletas
 30638,Ron Bacardi Carta Blanca 750 ml,Bebidas,Licores
 30641,Galleta Cereal Mix Semilla Chip 207 gr,Abarrotes,Galletas
@@ -7492,6 +7494,8 @@ id_producto,producto,categoria,subcategoria
 220662,Caramelo Watts Artic 900 gr,Abarrotes,Chocolates y Caramelos
 220663,Caramelo Watts Butter Karamel 900 gr,Abarrotes,Chocolates y Caramelos
 220664,Toffe de Leche Watts 900 gr,Abarrotes,Chocolates y Caramelos
+220665,Chupete Surtido Watts 450 gr,Abarrotes,Chocolates y Caramelos
+220666,Chupete Cola Pops Watts 625 gr,Abarrotes,Chocolates y Caramelos
 220667,Chicle Watts Tutti Tatuajes 600 gr,Abarrotes,Golosinas - Varias
 220669,Caramelo Watts Miel Honey 900 gr,Abarrotes,Chocolates y Caramelos
 220670,Servilleta Blanquita 200 un,Cuidado Personal,Cuidado Familiar
@@ -8983,11 +8987,12 @@ id_producto,producto,categoria,subcategoria
 231510,Suavizante Ropa Todo Brillo Plus Mágica Armonía 5 L,Cuidado del Hogar,Limpieza de la Ropa
 231511,Suavizante Ropa Todo Brillo Plus Bebé 5 L,Cuidado del Hogar,Limpieza de la Ropa
 231512,Suavizante Ropa Todo Brillo Plus Encanto 5 L,Cuidado del Hogar,Limpieza de la Ropa
-231513,DET LIQ TODO BRILLO PLUS BEBE 5L,Cuidado del Hogar,Limpieza de la Ropa
+231513,Detergente Liquido Todo Brillo Plus Bebe 5 L,Cuidado del Hogar,Limpieza de la Ropa
 231514,Detergente Liquido Todo Brillo Plus Floral 5 L,Cuidado del Hogar,Limpieza de la Ropa
 231515,Detergente Liquido Todo Brillo Plus Quita Mancha 5 L,Cuidado del Hogar,Limpieza de la Ropa
 231516,GEL FIXER UNISEX ALOE VERA 250G,Cuidado Personal,Cuidado del Cabello
 231518,PACK CASTING 500 + SH GLYCO 200ML,Cuidado Personal,Cuidado del Cabello
+231520,PACK CASTING 600 + SH GLYCO 200ML,Cuidado Personal,Cuidado del Cabello
 231521,PACK CASTING 200 + SH GLYCO 200ML,Cuidado Personal,Cuidado del Cabello
 231522,PACK CASTING 535 + SH GLYCO 200ML,Cuidado Personal,Cuidado del Cabello
 231524,PACK CASTING 700 + SH GLYCO 200ML,Cuidado Personal,Cuidado del Cabello
@@ -10170,6 +10175,8 @@ id_producto,producto,categoria,subcategoria
 312214,CHOCOBISCUIT BAUDUCO CHOC SEMI AMARGO 80,Abarrotes,Galletas
 312222,MANTEQ MANI MR NUTS T DUBAI SIN AZUC 360,Abarrotes,Repostería
 312230,ISOTONICO SANTE UVA ZERO 1LT,Bebidas,Isotónicos
+312232,VINO CONEJO VERDE ROSADO MALBEC 500ML,Bebidas,Vinos y Champagne
+312237,ENERGIZANTE ALPHA F ROJOS ZERO 695ML,Bebidas,Energizantes
 312238,BEBIDA BLENDERS PRIDE BOT 1LT,Bebidas,Licores
 312247,SALSA TOMATE CAYETANA T MEXICANO 400G,Abarrotes,Salsas y Extracto de Tomate
 312248,PULPA D MANGO CAYETANA LTA 280G,Abarrotes,Frutas en Conserva
@@ -13523,24 +13530,24 @@ id_producto,producto,categoria,subcategoria
 500271,Mermelada Helios Frambuesa Dietetico 280 gr,Abarrotes,Productos Importados
 500272,Mermelada Helios Frutos del Bosque Dietetico 280 gr,Abarrotes,Productos Importados
 500273,Mermelada Helios Ciruela Kiwi Dietetico 280 gr,Abarrotes,Productos Importados
-500274,CONFITURA HELIOS FRAMBUESA 330G,Abarrotes,Productos Importados
-500276,CONFITURA HELIOS ARANDANO 330 GR,Abarrotes,Productos Importados
+500274,Confitura Helios Frambuesa 330 gr,Abarrotes,Productos Importados
+500276,Confitura Helios Arandano 330 gr,Abarrotes,Productos Importados
 500278,PICOS HELIOS FRESA 170G,Abarrotes,Productos Importados
 500279,PICOS HELIOS MELOCOTON 170G,Abarrotes,Productos Importados
-500280,SIROPE HELIOS FRUTOS DEL BOSQUE 295 GR,Abarrotes,Productos Importados
-500281,CEREZAS ROJAS HELIOS 160G,Abarrotes,Productos Importados
+500280,Sirope Helios Frutos del Bosque 925 gr,Abarrotes,Productos Importados
+500281,Cereza Roja Helios 160 gr,Abarrotes,Productos Importados
 500282,Miel de Abeja Helios Milflores 300 gr,Abarrotes,Productos Importados
-500284,TOMATE HELIOS NATURAL  TRITURADO 570 GR,Abarrotes,Productos Importados
+500284,Tomate Helios Natural Triturado 570 gr,Abarrotes,Productos Importados
 500285,Salsa Helios Bolonesa 380 gr,Abarrotes,Productos Importados
 500286,Salsa Helios Napolitana 380 gr,Abarrotes,Productos Importados
 500287,Salsa Helios Pizza 380 gr,Abarrotes,Productos Importados
-500288,TOMATE HELIOS FRITO TRADICIONAL 300 GR,Abarrotes,Productos Importados
-500289,TOMATE HELIOS FRITO  MEDITERRANEO 560 GR,Abarrotes,Productos Importados
+500288,Tomate Frito Helios Tradicional 300 gr,Abarrotes,Productos Importados
+500289,Tomate Frito Helios Mediterraneo 560 gr,Abarrotes,Productos Importados
 500290,Salsa Helios Tomate Pisto 570 gr,Abarrotes,Productos Importados
-500292,TOMATE HELIOS FRITO  TRADICIONAL 570 GR,Abarrotes,Productos Importados
-500293,TOMATE HELIOS FRITO  MEDITERRANEO 300 GR,Abarrotes,Productos Importados
+500292,Tomate Frito Helios Tradicional 570 gr,Abarrotes,Productos Importados
+500293,Tomate Frito Helios Mediterraneo 300 gr,Abarrotes,Productos Importados
 500294,Salsa Helios Tomate Casera 300 gr,Abarrotes,Productos Importados
-500295,TOMATE HELIOS FRITO  ARTESANO 300 GR,Abarrotes,Productos Importados
+500295,Tomate Frito Helios Artesano 300 gr,Abarrotes,Productos Importados
 500364,Cafe Buena Vista Tostado Europeo 250 gr,Abarrotes,Café y Sucedáneos
 500372,Cafe Buena Vista Tostado Americano 250 gr,Abarrotes,Café y Sucedáneos
 500771,CHICLE BELDENT FUERTE NEGRO 10 G,Abarrotes,Golosinas - Varias
@@ -16249,6 +16256,7 @@ id_producto,producto,categoria,subcategoria
 553858,FRUTA DESHIDRATADA WAYU FRUTOS ROJOS 80,Abarrotes,Frutas en Conserva
 553861,OBLEA COFLER BLOC MAX 60 GR,Abarrotes,Golosinas - Varias
 553862,GOMITAS MOGUL JELLY BEANS EXTREME 50 GR,Abarrotes,Golosinas - Varias
+553863,GALLETAS LA FRANCESA SALADITAS BSA 220 G,Abarrotes,Galletas
 553865,POWERADE ATAQUE COOL CITRUS PET 473ML,Bebidas,Isotónicos
 553866,POWERADE ATAQUE COOL CITRUS 990ML,Bebidas,Isotónicos
 553867,POWERADE ATAQUE CITRUS KICK PET 473ML,Bebidas,Isotónicos
@@ -16880,7 +16888,7 @@ id_producto,producto,categoria,subcategoria
 615696,Shampoo Loreal Kids Frambuesa 3 En 1 265 ml,Cuidado del Bebé,Kids
 615699,Shampoo Loreal Kids Fresa Cremosa,Cuidado del Bebé,Kids
 615701,Shampoo Loreal Kids Manzanilla 265 ml,Cuidado del Bebé,Kids
-615703,SHAMPOO LOREAL KIDS MANGO NAR.2EN1 265ML,Cuidado del Bebé,Kids
+615703,Shampoo Loreal Kids Mango Naranja 2 En 1 265 ml,Cuidado del Bebé,Kids
 615715,Shampoo Pantene Pro-V Rest. 400 ml,Cuidado Personal,Cuidado del Cabello
 615716,Aconcidionador Pantene Reparacion Prov 400 ml,Cuidado Personal,Cuidado del Cabello
 615719,Jabon Liquido Aval Tocador Eucalipto 400 ml,Cuidado Personal,Cuidado de la Piel
@@ -19213,6 +19221,7 @@ id_producto,producto,categoria,subcategoria
 662142,Alimento Whiskas Adulto Pavo 85 gr,Abarrotes,Mascotas
 662145,Alimento Pedigree Adulto Pollo 100 gr,Abarrotes,Mascotas
 664527,TARTA RELLENA INDIVIDUAL SIN GLASEADO CON RELLENO SABOR CANE,Abarrotes,Productos Americanos
+664796,"3X2 SELBY BALSAMO LABIAL CLST, BLANCO Y",Cuidado Personal,Cuidado de la Piel
 664797,PANO RELUZIENTE ABSORBENTE,Cuidado del Hogar,Accesorios del Hogar
 664798,NEUTROGENA RETINOL BOOST SERUM 0.3%,Cuidado Personal,Cuidado de la Piel
 664799,AXE BS WHITE VETIVER 96G/150ML,Cuidado Personal,Cuidado de la Piel
@@ -20577,6 +20586,7 @@ id_producto,producto,categoria,subcategoria
 669658,BALSAMO LABIAL CHERRY,Cuidado Personal,Cuidado de la Piel
 669659,BALSAMO LABIAL ALOE VERA,Cuidado Personal,Cuidado de la Piel
 669660,BALSAMO LABIAL CLASICO,Cuidado Personal,Cuidado de la Piel
+669661,BALSAMO LABIAL ROSA,Cuidado Personal,Cuidado de la Piel
 669670,NEUTROGENA SFRESH 50 OC S COL 6X40ML,Cuidado Personal,Cuidado de la Piel
 669671,NEUTROGENA SFRESH 50 OC COL 2 6X40ML,Cuidado Personal,Cuidado de la Piel
 669672,NEUTROGENA HB GEL CLEAN 6X150ML,Cuidado Personal,Cuidado de la Piel
@@ -20635,6 +20645,7 @@ id_producto,producto,categoria,subcategoria
 669827,PLUMERO DE MICROFIBRA TOTES,Cuidado del Hogar,Accesorios del Hogar
 669828,PANO DE MICROFIBRA PARA AUTO TOTES PACK,Cuidado del Hogar,Accesorios del Hogar
 669829,L CUIDADO NUTRITIVO ACLARADO 100 ML,Cuidado Personal,Cuidado de la Piel
+669830,Shampoo Dove Uv Repair 12x370 ml,Cuidado Personal,Cuidado del Cabello
 669831,Acondicionador Dove Uv Repair 250 ml,Cuidado Personal,Cuidado del Cabello
 669832,DOVE MASC UV REPAIR 6X250G,Cuidado Personal,Cuidado del Cabello
 669833,DOVE OLEO UV REPAIR 6X110ML,Cuidado Personal,Cuidado del Cabello
@@ -22448,9 +22459,9 @@ id_producto,producto,categoria,subcategoria
 674619,PIPOPANETON HALLOWEEN CALABAZA CAJA UNI,Panadería,Panadería Externa
 674622,SALSA DE QUESO CHEDDAR TORTITACOS 200GRS,Lácteos y Derivados,Quesos
 674623,Kefir Mellor Chirimoya 200 ml,Lácteos y Derivados,Yogures
-674624,KEFFIR MELLOR FRUTILLA 200ML,Lácteos y Derivados,Yogures
+674624,Kefir Mellor Frutilla 200 ml,Lácteos y Derivados,Yogures
 674625,Kefir Mellor Durazno 200 ml,Lácteos y Derivados,Yogures
-674626,KEFFIR MELLOR MORA 200ML,Lácteos y Derivados,Yogures
+674626,Kefir Mellor Mora 200 ml,Lácteos y Derivados,Yogures
 674627,Kefir Mellor Durazno 1 L,Lácteos y Derivados,Yogures
 674628,Kefir Mellor Chirimoya 1 L,Lácteos y Derivados,Yogures
 674629,Kefir Mellor Frutilla 1 L,Lácteos y Derivados,Yogures
@@ -22502,6 +22513,7 @@ id_producto,producto,categoria,subcategoria
 674689,COSTILLS BABY BACK SOFIA CONGELADA A/V KGR,Congelados,Carnes Congeladas
 674690,POSTRE HELADO SANGRIA DELIZIA 200ML,Congelados,"Helados, Cassattas y Picoleses"
 674691,QUESO FRESCO ALTIPLANO 800GRS,Lácteos y Derivados,Quesos
+674692,QUESO FRESCO ALTIPLANO 250GRS,Lácteos y Derivados,Quesos
 674694,PIERNA DE CERDO SOFIA DESHUESADA C/CUERO 1KGR,Congelados,Carnes Congeladas
 674695,PIERNA DE CERDO SOFIA DESHUESADA C/CUERO 2KGR,Congelados,Carnes Congeladas
 674697,PAPA FRITA SABOR PICANTE 150G,Abarrotes,Snack
