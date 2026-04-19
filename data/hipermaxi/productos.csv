@@ -2005,6 +2005,7 @@ id_producto,producto,categoria,subcategoria
 25462,Isotonico Active Mango Zero 1 L,Bebidas,Isotónicos
 25463,Durazno al Jugo Deymas 820 gr,Abarrotes,Frutas en Conserva
 25464,Mantequilla de Mani Mr Nuts Halloween 360 gr,Abarrotes,Repostería
+25465,NACHO D ALMENDRA GO GREEN NEUTRO100G,Abarrotes,Dietéticos y Saludables
 25466,Galleta Delux Chocolate Sin Gluten 115 gr,Abarrotes,Dietéticos y Saludables
 25467,Galleta Delux Chocolate Blanco Sin Gluten 115 gr,Abarrotes,Dietéticos y Saludables
 25468,Galleta Delux Yogurt Frutilla Sin Gluten 115 gr,Abarrotes,Dietéticos y Saludables
@@ -8190,7 +8191,7 @@ id_producto,producto,categoria,subcategoria
 225104,Desinfectante Urca Lavanda 500 ml,Cuidado del Hogar,Limpieza de Baños
 225105,DESINFECTANTE URCA FLORAL 500 ML,Cuidado del Hogar,Limpieza de Baños
 225106,Desinfectante Urca Pinho 5 L,Cuidado del Hogar,Limpieza de Baños
-225107,DESINFECTANTE URCA LAVANDA 5 LTS.,Cuidado del Hogar,Limpieza de Baños
+225107,Desinfectante Urca Lavanda 5 L,Cuidado del Hogar,Limpieza de Baños
 225109,CEPILLO DENTAL LIDER PACK DE 4 MEDIO,Cuidado Personal,Cuidado Bucal
 225110,Detergente Todo Brillo Floral 1 Kg,Cuidado del Hogar,Limpieza de la Ropa
 225111,TOALLA PERLA ULTRA ABSORBENTE  176 HJ,Cuidado del Hogar,Limpieza de Cocina
@@ -10147,7 +10148,7 @@ id_producto,producto,categoria,subcategoria
 312174,MARSHMALLOW GONGYS TRENZA 200G,Abarrotes,Chocolates y Caramelos
 312175,GOMITA REGALIZ BULLDOG ACIDAS 60G,Abarrotes,Golosinas - Varias
 312176,Set Churrasquero Tramontina Grande 2 un,Bazar,Churrasquería
-312178,GOMITA REGALIZ BULLDOG ACIDA FRUTILL 75G,Abarrotes,Golosinas - Varias
+312178,GOMITA REGALIZ BULLDOG ACIDA FRAMB 75G,Abarrotes,Golosinas - Varias
 312179,Pack 2 Vinos Campos De Solana Innovante Tannat,Bebidas,Vinos y Champagne
 312180,Pack 2 Vinos Campos De Solana Innovante Cabernet,Bebidas,Vinos y Champagne
 312183,MIEL D ABEJA TERBOL COLMENA FCO 230G,Abarrotes,"Mermel, Mieles"
@@ -10174,6 +10175,7 @@ id_producto,producto,categoria,subcategoria
 312213,CHOCOBISCUIT BAUDUCO CHOCOL LECHE 80G,Abarrotes,Galletas
 312214,CHOCOBISCUIT BAUDUCO CHOC SEMI AMARGO 80,Abarrotes,Galletas
 312222,MANTEQ MANI MR NUTS T DUBAI SIN AZUC 360,Abarrotes,Repostería
+312227,VINO CATENA CABERNET FRANC APPELLAT 750M,Bebidas,Vinos y Champagne
 312230,ISOTONICO SANTE UVA ZERO 1LT,Bebidas,Isotónicos
 312232,VINO CONEJO VERDE ROSADO MALBEC 500ML,Bebidas,Vinos y Champagne
 312237,ENERGIZANTE ALPHA F ROJOS ZERO 695ML,Bebidas,Energizantes
@@ -13532,8 +13534,9 @@ id_producto,producto,categoria,subcategoria
 500273,Mermelada Helios Ciruela Kiwi Dietetico 280 gr,Abarrotes,Productos Importados
 500274,Confitura Helios Frambuesa 330 gr,Abarrotes,Productos Importados
 500276,Confitura Helios Arandano 330 gr,Abarrotes,Productos Importados
+500277,Confitura Helios Higo Negro 330 gr,Abarrotes,Productos Importados
 500278,PICOS HELIOS FRESA 170G,Abarrotes,Productos Importados
-500279,PICOS HELIOS MELOCOTON 170G,Abarrotes,Productos Importados
+500279,Picos Helios Melocoton 170 gr,Abarrotes,Productos Importados
 500280,Sirope Helios Frutos del Bosque 925 gr,Abarrotes,Productos Importados
 500281,Cereza Roja Helios 160 gr,Abarrotes,Productos Importados
 500282,Miel de Abeja Helios Milflores 300 gr,Abarrotes,Productos Importados
@@ -14686,6 +14689,8 @@ id_producto,producto,categoria,subcategoria
 551565,Pack Atun Robinson Crusoe 2 un + Contenedor,Abarrotes,Comidas en Conserva
 551566,Papa Ta Bueno Frita Churrasco 220 gr,Abarrotes,Snack
 551567,Papa Frita Ta Bueno Choclo Mantequilla 220 gr,Abarrotes,Snack
+551568,Papa Ta Bueno Frita Hamburguesa 220 gr,Abarrotes,Snack
+551569,PAPA FRITA TA BUENO PIZZA 220 GR,Abarrotes,Snack
 551571,Chocolate Baure Cafe Espresso 70 gr,Abarrotes,Chocolates y Caramelos
 551572,Chocolate Baure Cafe Capuccino 70 gr,Abarrotes,Chocolates y Caramelos
 551573,Chocolate Baure Cafe Latte 70 gr,Abarrotes,Chocolates y Caramelos
@@ -16261,6 +16266,7 @@ id_producto,producto,categoria,subcategoria
 553866,POWERADE ATAQUE COOL CITRUS 990ML,Bebidas,Isotónicos
 553867,POWERADE ATAQUE CITRUS KICK PET 473ML,Bebidas,Isotónicos
 553868,POWERADE ATAQUE CITRUS KICK PET 990ML,Bebidas,Isotónicos
+553873,CERVEZA BURGUESA 47 269 ML,Bebidas,Cervezas
 554333,Cerveza Paceña Lata Roja 473 Cc,Bebidas,Cervezas
 554466,Detergente Liquido Ola Futuro Limpieza Completa 5 L,Cuidado del Hogar,Limpieza de la Ropa
 554468,Suavizante Ropa Ola Suavecito Original 5 L,Cuidado del Hogar,Limpieza de la Ropa
@@ -19862,6 +19868,7 @@ id_producto,producto,categoria,subcategoria
 668147,LS PANDA LIPPY PAL,Cuidado Personal,Cuidado de la Piel
 668148,LS UNICORN LIPPY PAL,Cuidado Personal,Cuidado de la Piel
 668150,LIP SMACKER BUNNY LIPPY PAL,Cuidado Personal,Cuidado de la Piel
+668151,LIP SMACKER KITTEN LIPPY PAL,Cuidado Personal,Cuidado de la Piel
 668152,LS PINK LEMONADE STICK,Cuidado Personal,Cuidado de la Piel
 668153,LIP SMACKER COKE CUP,Cuidado Personal,Cuidado de la Piel
 668154,LS CHERRY COKE CUP,Cuidado Personal,Cuidado de la Piel
@@ -22548,6 +22555,7 @@ id_producto,producto,categoria,subcategoria
 674737,PACK CARNAVALERO A LA BRASA OSFIM UNI,Fiambres,Fiambres Externos
 674738,PACK PIQUEO CARNAVALERO LA PREVIA OSFIM UNI,Fiambres,Fiambres Externos
 674739,CHORIZO TIPO ARGENTINO PIO RICO KILOGRAMO,Fiambres,Fiambres Externos
+674741,TAPA EMPANADA FREIR 0.12 24 UNIDADES MANINA,Congelados,Masas y Comidas Congeladas
 674742,SALAMETTI DON PIOTR 250GRS,Fiambres,Fiambres Externos
 674743,CHORIZO KIELBASA DON PIOTR 300GRS,Fiambres,Fiambres Externos
 674744,CHORIZO ESPA¤OL DON PIOTR 250GRS,Fiambres,Fiambres Externos
@@ -22605,6 +22613,8 @@ id_producto,producto,categoria,subcategoria
 674836,CROPPERS PASTA DE MANI SIN AZUCAR 305GR,Lácteos y Derivados,Mantequillas y Margarinas
 674837,BEBIDA LACTEA DISFRUT MANZANA DELIZIA 175ML,Lácteos y Derivados,Leches
 674838,BEBIDA LACTEA DISFRUT DURAZNO DELIZIA 175ML,Lácteos y Derivados,Leches
+674839,TAPA DE ASADO ESPECIAL FRIDOSA AL VACIO KGR,Carnes,Carnes al Vacio Externas
+674840,BIFE ESPECIAL FRIDOSA AL VACIO KGR,Carnes,Carnes al Vacio Externas
 675245,Miel de Abeja Eva Promiel 250 gr,Abarrotes,"Mermel, Mieles"
 676113,Habanito Bits Cream Coojies Cream 120 gr,Congelados,"Helados, Cassattas y Picoleses"
 676115,HABANITO BITS CREAM DULCE DE LECHE 120GRS,Congelados,"Helados, Cassattas y Picoleses"
@@ -26994,6 +27004,7 @@ id_producto,producto,categoria,subcategoria
 867544,Bolsa de Regalo San Valentin,Bazar,Regalos/Adornos
 867558,Juguete Raton para Mascota,Bazar,Mascotas General
 867570,CORTA PELO JAMAKY JPC90056,Bazar,Electrodoméstico Cuidado Personal
+867627,PACK ROLLO ALUMINIO 7.5MTWYDA,Bazar,Articulos de Cocina
 867800,Rabano,Frutas y Verduras,Verduras
 867898,Pack Limones Amarillos 25 un,Frutas y Verduras,Frutas
 867987,Papas Congeladas Tradicional Simplot  700 g,Congelados,Masas y Comidas Congeladas
@@ -27424,6 +27435,7 @@ id_producto,producto,categoria,subcategoria
 884458,KENDY JARRA MIXER 2.7LT X1U,Bazar,Menaje Plástico
 884524,Plato Metalico 42,Bazar,Mascotas General
 884631,Estufa Premier 4 Halogenos,Bazar,Camping General
+884645,JAN  HERVIDOR DE AGUA 98,Bazar,Electrodoméstico/Línea Blanca-Hogar
 884684,Paleta Goma Eva Decorativa,Bazar,Regalos/Adornos
 884828,Fuente Tramontina Rectangular,Bazar,Menaje Vidrio/Cristal
 884888,Pinza para Carne,Bazar,Churrasquería
