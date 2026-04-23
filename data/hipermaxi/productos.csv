@@ -1912,7 +1912,7 @@ id_producto,producto,categoria,subcategoria
 25333,CHICLE TOPLINE TURBO MINT 25G,Abarrotes,Golosinas - Varias
 25334,GOMITA MOGUL SANDIA EXTREME 500G,Abarrotes,Golosinas - Varias
 25335,Mani Lolita Tostado con Sal 200 gr,Abarrotes,Snack
-25336,Mani Tostado Lolita con Sal 200 g,Abarrotes,Snack
+25336,Mani Tostado Lolita con Sal 350 gr,Abarrotes,Snack
 25337,TOCINOS LOLITA CHIPS BSA 200G,Abarrotes,Snack
 25338,Energizante Rockstar Berries 300 ml,Bebidas,Energizantes
 25339,MAIZ PIPOCA CAMARO GRANO 300G,Abarrotes,Snack
@@ -9027,6 +9027,7 @@ id_producto,producto,categoria,subcategoria
 231581,PACK ICEFRESH KIDS DIA DEL NINO NINA,Cuidado Personal,Cuidado Bucal
 231611,DETERGENTE UNO PARAISO TROPICAL 620 GRS,Cuidado del Hogar,Limpieza de la Ropa
 231612,DETERGENTE UNO PARAISO TROPICAL 4700,Cuidado del Hogar,Limpieza de la Ropa
+231619,ESCURRIDOR ALKLIN 60 CM. CON CABO,Cuidado del Hogar,Accesorios del Hogar
 231673,Zucaritas Kelloggs 420 gr,Abarrotes,Nutrición Infantil
 231681,Cereal Kelloggs Corn Flakes 500 gr,Abarrotes,Nutrición Infantil
 231890,Sardina Ramirez Aceite Vegetal 125 gr,Abarrotes,Comidas en Conserva
@@ -9872,6 +9873,7 @@ id_producto,producto,categoria,subcategoria
 300140,Salsa B&R Miel Y Mostaza 270 gr,Abarrotes,Aderezos
 300141,Salsa B&R Nachos Crema Agria 340 gr,Abarrotes,Aderezos
 300142,Salsa B&R Nachos de Queso 340 gr,Abarrotes,Aderezos
+300170,ACEITE DONA LUISA SOYA PET 900 ML,Abarrotes,Básicos
 300225,Polvo de Hornear Kris 57  gr,Abarrotes,Repostería
 300349,Gomita Fini Oso Brillos 100 gr,Abarrotes,Golosinas - Varias
 300508,Galleta Pirouette French Vainilla 382 gr,Abarrotes,Productos Americanos
@@ -10179,6 +10181,7 @@ id_producto,producto,categoria,subcategoria
 312213,CHOCOBISCUIT BAUDUCO CHOCOL LECHE 80G,Abarrotes,Galletas
 312214,CHOCOBISCUIT BAUDUCO CHOC SEMI AMARGO 80,Abarrotes,Galletas
 312222,MANTEQ MANI MR NUTS T DUBAI SIN AZUC 360,Abarrotes,Repostería
+312225,PACK SOPAS NISSIN PAGA 4 LLEVA 5,Abarrotes,Básicos
 312227,VINO CATENA CABERNET FRANC APPELLAT 750M,Bebidas,Vinos y Champagne
 312230,ISOTONICO SANTE UVA ZERO 1LT,Bebidas,Isotónicos
 312232,VINO CONEJO VERDE ROSADO MALBEC 500ML,Bebidas,Vinos y Champagne
@@ -10189,6 +10192,9 @@ id_producto,producto,categoria,subcategoria
 312248,PULPA D MANGO CAYETANA LTA 280G,Abarrotes,Frutas en Conserva
 312249,MERMELADA CAYETANA CIRUELO ROJO 280G,Abarrotes,"Mermel, Mieles"
 312250,MERMELADA CAYETANA CIRUELO AMARILLO 280G,Abarrotes,"Mermel, Mieles"
+312253,VODKA SERNOVA APPLE PEAR 700ML,Bebidas,Licores
+312254,VODKA SERNOVA WILD BERRIES 700ML,Bebidas,Licores
+312255,VODKA SERNOVA TRADICIONAL 700ML,Bebidas,Licores
 312290,Huevo Bon o Bon Leche 110 gr,Abarrotes,Temporada
 312711,Lustra mueble Archer Recarga 860 ml,Cuidado del Hogar,Limpieza de Living y Ropero
 312959,Salsa Soya Kikkoman Lite 10 oz,Abarrotes,Condimentos y Legumbres
@@ -16269,6 +16275,7 @@ id_producto,producto,categoria,subcategoria
 553847,Mayonesa Kris Light 350 gr,Abarrotes,Dietéticos y Saludables
 553853,FRUTA DESHIDRATADA WAYU BAÑADA CHOC 80 G,Abarrotes,Frutas en Conserva
 553854,Sangria Burbushhh  355 ml,Bebidas,Vinos y Champagne
+553855,MANGO DESHIDRATADO WAYU 80 GR,Abarrotes,Frutas en Conserva
 553856,MIX FRUTAS DESHIDRATADAS WAYU 80 GR,Abarrotes,Frutas en Conserva
 553858,FRUTA DESHIDRATADA WAYU FRUTOS ROJOS 80,Abarrotes,Frutas en Conserva
 553861,OBLEA COFLER BLOC MAX 60 GR,Abarrotes,Golosinas - Varias
@@ -23516,6 +23523,8 @@ id_producto,producto,categoria,subcategoria
 760569,PASTA DENTAL COLGATE JUNIOR 100 GR,Cuidado Personal,Cuidado Bucal
 761062,Vino Viñas De Balbo Tinto 1125 ml,Bebidas,Vinos y Champagne
 761121,Yogurt Bebible Friedland Probiotico Durazno 1 L,Lácteos y Derivados,Yogures
+761203,QUESO CREMA DE YOGURT NATURAL BONTANA 150 ML.,Lácteos y Derivados,Quesos
+761214,QUESO CREMA DE YOGURT AJO Y OREGANO BONTANA 150 ML.,Lácteos y Derivados,Quesos
 761224,Yogurt Bebible Friedland Probiotico Frutilla 1 L,Lácteos y Derivados,Yogures
 761248,CREMA TRES LECHES DAGUSTO 1 LT.,Lácteos y Derivados,Crema de Leche
 761252,PULPA CONG.FRUTAS Y VEGETALES DETOX X5 UNID.CELEBRE,Congelados,Pulpas y Frutas Congeladas
@@ -23888,15 +23897,22 @@ id_producto,producto,categoria,subcategoria
 781839,Chorizo de Pescado Tambaqui,Congelados,Carnes Congeladas
 781858,Huevos Rolon 18 un,Lácteos y Derivados,Huevos
 782001,Chuleta de Surubi Mar de Limon kg,Congelados,Carnes Congeladas
+782011,Postre Mais Fit Cacada Zero 180 gr,Lácteos y Derivados,Postres
 782013,Filete de Surubi Mar de Limon kg,Congelados,Carnes Congeladas
+782015,Postre Mais Fit Flan Leche Condensada 180 gr,Lácteos y Derivados,Postres
 782019,Filetitos de Pollo Sofia Congelado Salsa Soya Limon 300 gr,Congelados,Carnes Congeladas
 782024,Pacu de Rio Mar de Limon Mitad kg,Congelados,Carnes Congeladas
+782032,Postre Mais Fit Choco Trio 180 gr,Lácteos y Derivados,Postres
 782035,Milanesa Mar de Limon Pescado Paiche kg,Congelados,Carnes Congeladas
+782045,Postre Mais Fit Cookies And Cream 180 gr,Lácteos y Derivados,Postres
 782046,Filete de Paiche Mar de Limon 1 kg,Congelados,Carnes Congeladas
 782057,Albondiga de Pescado Paiche Mar de Limon kg,Congelados,Carnes Congeladas
+782064,Postre Mais Fit Brigadeiro Zero 180 gr,Lácteos y Derivados,Postres
 782068,Chicharron de Pescado Paiche Mar de Limon kg,Congelados,Carnes Congeladas
+782078,Postre Mais Fit Bombon Crocante 180 gr,Lácteos y Derivados,Postres
 782079,Hamburguesa Mar de Limon Pescado Paiche kg,Congelados,Carnes Congeladas
 782080,Hamburguesa de Paiche Mar de Limon con Langostino kg,Congelados,Carnes Congeladas
+782096,Postre Mais Fit Caramelo Zero 180 gr,Lácteos y Derivados,Postres
 782142,Jugo Aquarius Manzana 500 ml,Bebidas,"Jugos, Néctar"
 782153,Jugo Aquarius Pera 500 ml,Bebidas,"Jugos, Néctar"
 782171,Jugo Aquarius Pomelo 500 ml,Bebidas,"Jugos, Néctar"
