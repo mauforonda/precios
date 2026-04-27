@@ -438,6 +438,8 @@ id_producto,producto,categoria,subcategoria
 9049,Fideo La Suprema Canuto 400 gr,Abarrotes,Básicos
 9050,Fideo La Suprema Codo Mediano 400 gr,Abarrotes,Básicos
 9051,Fideo La Suprema Gusanito 400 gr,Abarrotes,Básicos
+9091,Vino La Concepcion Sauvignon 750 ml,Bebidas,Vinos y Champagne
+9156,Vino La Concepcion Cabernet Sauvignon  750 ml,Bebidas,Vinos y Champagne
 9199,Vino Concepcion Estirpe Blanco 700 ml,Bebidas,Vinos y Champagne
 9202,Vino Estirpe Oporto 700 ml,Bebidas,Vinos y Champagne
 9718,Tripack Gaseosa Coca Cola 2.5 L,Bebidas,Gaseosas
@@ -10234,6 +10236,7 @@ id_producto,producto,categoria,subcategoria
 312253,VODKA SERNOVA APPLE PEAR 700ML,Bebidas,Licores
 312254,VODKA SERNOVA WILD BERRIES 700ML,Bebidas,Licores
 312255,VODKA SERNOVA TRADICIONAL 700ML,Bebidas,Licores
+312265,CAMEL ACTIVATE DOUB MINT AND RED 20UND,Bebidas,Cigarrillos
 312267,PACK TE HELADO TAMPICO 500 ML 2X1,Bebidas,Bebidas Varias
 312290,Huevo Bon o Bon Leche 110 gr,Abarrotes,Temporada
 312711,Lustra mueble Archer Recarga 860 ml,Cuidado del Hogar,Limpieza de Living y Ropero
@@ -16243,7 +16246,7 @@ id_producto,producto,categoria,subcategoria
 553745,Cerveza Prost Sunset Hell 330 ml,Bebidas,Cervezas
 553746,Vino Punto Aparte Casa Relato 750 ml,Bebidas,Vinos y Champagne
 553748,Gaseosa Frisch Guayaba Sin Azúcar 2 L,Bebidas,Gaseosas
-553749,GASEOSA FRISCH COCO LOCO S AZÚCAR 2 LT,Bebidas,Gaseosas
+553749,Gaseosa Frisch Coco Loco Sin Azúcar 2 L,Bebidas,Gaseosas
 553750,Gaseosa Frisch Chirimoya Sin Azúcar 2 L,Bebidas,Gaseosas
 553751,LECHE CHOCOLATADA 10+1 120ML,Lácteos y Derivados,Leches
 553752,LECHE SABOR FRUTILLA 10+1 120ML,Lácteos y Derivados,Leches
@@ -16332,6 +16335,8 @@ id_producto,producto,categoria,subcategoria
 553872,GALLETAS WAFER SAN GABRIEL FRUTILLA 60 G,Abarrotes,Galletas
 553873,CERVEZA BURGUESA 47 269 ML,Bebidas,Cervezas
 553874,PAN MOLDE BLANCO BRIOCHE 550GR SANTONIO,Panadería,Panadería Externa
+553882,CERVEZA BURGUESA 47 LTA 473 ML,Bebidas,Cervezas
+553890,PACK KRIS SAN JUANCHO TRIO MAYO PIC GOLF,Abarrotes,Temporada
 554333,Cerveza Paceña Lata Roja 473 Cc,Bebidas,Cervezas
 554466,Detergente Liquido Ola Futuro Limpieza Completa 5 L,Cuidado del Hogar,Limpieza de la Ropa
 554468,Suavizante Ropa Ola Suavecito Original 5 L,Cuidado del Hogar,Limpieza de la Ropa
@@ -17090,6 +17095,7 @@ id_producto,producto,categoria,subcategoria
 617579,Ajo en Polvo Badia 453 gr,Abarrotes,Productos Americanos
 617589,Chili Badia Polvo 453 gr,Abarrotes,Condimentos y Legumbres
 617609,Sazonador Badia Italian 35.4 gr,Abarrotes,Productos Americanos
+617638,Vino Chaman Red Cabernet Sauvignon 750 ml,Bebidas,Vinos y Champagne
 617649,Sazonador Taco Badia 78 gr,Abarrotes,Productos Americanos
 617654,Caramelo Infantil Antichaja de 100 gr,Abarrotes,Chocolates y Caramelos
 617670,Harina La Suprema de Trigo 1 kg,Abarrotes,Básicos
@@ -17772,6 +17778,7 @@ id_producto,producto,categoria,subcategoria
 650062,Haba Crunchis 600 gr,Abarrotes,Snack
 650063,Pack Ginebra Republica Promocion,Bebidas,Licores
 650066,BOMBON BON O BON CORAZON 190 GR,Abarrotes,Chocolates y Caramelos
+650068,Pack Cerveza Judas 8x473 Cc,Bebidas,Cervezas
 650069,Galleta La Suprema Trigueña Salvado 276 gr,Abarrotes,Galletas
 650080,Fideo Stella de Oro Spaguett 400 gr,Abarrotes,Básicos
 650081,Fideo Linguinu Stella de Oro 400 gr,Abarrotes,Básicos
@@ -19243,6 +19250,7 @@ id_producto,producto,categoria,subcategoria
 660231,SEDAL MASC TRAT TOQUE DE SEDA 6X300G,Cuidado Personal,Cuidado del Cabello
 660234,SEDAL SERUM+OLEO TOQUE DE SEDA 12X60ML,Cuidado Personal,Cuidado de la Piel
 660235,SEDAL SERUM TOQUE DE SEDA 6X100ML,Cuidado Personal,Cuidado del Cabello
+660236,SHAMPOO CARISSA  ANTICASPA DP 750ML,Cuidado Personal,Cuidado del Cabello
 660246,SHAMPOO CLASSIC FOR MEN S/SAL 950 ML,Cuidado Personal,Cuidado del Cabello
 660247,SHAMPOO CLASSIC ARGAN Y MACADAMIA 950 ML,Cuidado Personal,Cuidado del Cabello
 660249,PASTILLA INODORO BRISTAR HERBAL 40 GR,Cuidado del Hogar,Limpieza de Baños
@@ -22627,7 +22635,7 @@ id_producto,producto,categoria,subcategoria
 674727,COSTILLA DE RES AL VACIO BROS KGR,Congelados,Carnes Congeladas
 674728,PIERNAS DE POLLO AL VACIO BROS KGR,Congelados,Carnes Congeladas
 674729,Yogurt Bebible Descremado Probiótico Maracuyá 1 L,Lácteos y Derivados,Yogures
-674730,YOGURT BEBIBLE DESCREMADO PROBIOTICO MARACUYA 250ML,Lácteos y Derivados,Yogures
+674730,Yogurt Bebible Descremado Probiótico Maracuyá 250 ml,Lácteos y Derivados,Yogures
 674731,YOGURT NORDLAND BIO DRINK FRUTILLA 1000ML,Lácteos y Derivados,Yogures
 674732,YOGURT NORDLAND BIO DRINK MORA 1000ML,Lácteos y Derivados,Yogures
 674736,PACK CARNAVALERO CHURRASQUERO OSFIM UNI,Fiambres,Fiambres Externos
@@ -27548,6 +27556,8 @@ id_producto,producto,categoria,subcategoria
 884938,Shampooo 1 Visto Shampoo 1recuentre3,Bazar,Automotriz
 884945,Envase de Salsa Basa 400 ml,Bazar,Menaje Plástico
 884959,Juguete Pista de Auto,Juguetería,Juguetería Niño/Bebé
+885331,TR 1427 BOTELLA ACEITERA 750 CC,Bazar Importación,Cocina General
+885332,TR 5332 BOTELLA ACEITERA 500 CC,Bazar Importación,Cocina General
 885410,Porta Cubiertos Rey,Bazar,Articulos de Cocina
 885810,Desinfectante Aerosol Lysoform Lavanda 360 ml,Cuidado del Hogar,Limpieza de Baños
 885892,CA JUEGO BINGO .50,Juguetería,Juguetería Didáctica/Temporada
@@ -28483,6 +28493,7 @@ id_producto,producto,categoria,subcategoria
 998146,Tintao Mascota Avena Procao 500 ml,Bazar,Librería
 998147,Yurex,Bazar,Librería
 998618,Basurero Rey Calada Venecia,Cuidado del Hogar,Accesorios del Hogar
+998667,TERMO ATAKAMA  SOPRANO 2 1/2 LT .55,Bazar,Articulos de Cocina
 999259,Hoja de Carpeta Lider Blanca 500 Hojas,Bazar,Librería
 999270,Cuaderno Top Espiral 1/2 Oficio 100 Hojas,Bazar,Librería
 999271,Cuaderno Espiral Carta Pleno Top 100 Hojas,Bazar,Librería
