@@ -7321,6 +7321,7 @@ id_producto,producto,categoria,subcategoria
 209552,Rimel Mny Lash Firework Water,Cuidado Personal,Cuidado de la Piel
 209553,DELINEADOR MNY  BLANCO-DEFEND,Cuidado Personal,Cuidado de la Piel
 209556,DELINEADOR MNY FUCSIA-PUNCH,Cuidado Personal,Cuidado de la Piel
+209557,DELINEADOR MNY AZUL-SWITCH,Cuidado Personal,Cuidado de la Piel
 209559,BASE SUPER STAY LUMI MATTE 119,Cuidado Personal,Cuidado de la Piel
 209560,BASE SUPER STAY LUMI MATTE 120,Cuidado Personal,Cuidado de la Piel
 209671,Jugo Yogo Vera Melon 500 ml,Bebidas,Bebidas Varias
@@ -8841,6 +8842,7 @@ id_producto,producto,categoria,subcategoria
 229107,BASE VOGUE RESIST NUEZ 10,Cuidado Personal,Cuidado de la Piel
 229108,CORRECTOR VOGUE LIQUIDO  CREMA 01,Cuidado Personal,Cuidado de la Piel
 229111,CORRECTOR LIQUI VOGUE PORCELANA 03,Cuidado Personal,Cuidado de la Piel
+229114,CORRECTOR VOGUE LIQUIDO TRIGO 04,Cuidado Personal,Cuidado de la Piel
 229115,OLEO CAPILAR LOREAL LISO 100 ML,Cuidado Personal,Cuidado del Cabello
 229118,Papel Higienico Perlita Premium 30 Metros 12 un,Cuidado Personal,Cuidado Familiar
 229119,Papel Higienico Perlita Premium 50 Metros 12 un,Cuidado Personal,Cuidado Familiar
@@ -9058,11 +9060,13 @@ id_producto,producto,categoria,subcategoria
 231611,DETERGENTE UNO PARAISO TROPICAL 620 GRS,Cuidado del Hogar,Limpieza de la Ropa
 231612,DETERGENTE UNO PARAISO TROPICAL 4700,Cuidado del Hogar,Limpieza de la Ropa
 231619,ESCURRIDOR ALKLIN 60 CM. CON CABO,Cuidado del Hogar,Accesorios del Hogar
+231621,PANAL BABU POMPIGLOS XXXG  40 UNDS,Cuidado del Bebé,Pañales
 231628,PROTECTOR SOLAR SUNLESS KIDS FPS 70 120G,Cuidado del Bebé,Kids
 231629,PROT. SOLAR FACIAL FPS70 SUNLESS 60G,Cuidado Personal,Cuidado de la Piel
 231631,JABON LIQ FARMAX EXFOL SANDIA 150 ML,Cuidado Personal,Cuidado de la Piel
 231632,OLEO FARMAX NURTRICION MILAGRO  90 ML,Cuidado Personal,Cuidado del Cabello
 231633,OLEO FARMAX VERANO 90 ML,Cuidado Personal,Cuidado del Cabello
+231634,PACK TOALLA  HUMEDA NUMBERONE 4X90 UND,Cuidado del Bebé,Cuidado del Bebé
 231636,JABON LIQ FARMAX EXFOL PISTACHO 150 ML,Cuidado Personal,Cuidado de la Piel
 231637,SERUM LISO FARMAX ESPEJADO  90 ML,Cuidado Personal,Cuidado del Cabello
 231638,JABON LIQ FARMAX EXFOL CIRUELA 150 ML,Cuidado Personal,Cuidado de la Piel
@@ -13600,7 +13604,7 @@ id_producto,producto,categoria,subcategoria
 500274,Confitura Helios Frambuesa 330 gr,Abarrotes,Productos Importados
 500276,Confitura Helios Arandano 330 gr,Abarrotes,Productos Importados
 500277,Confitura Helios Higo Negro 330 gr,Abarrotes,Productos Importados
-500278,PICOS HELIOS FRESA 170G,Abarrotes,Productos Importados
+500278,Picos Helios Fresa 170 gr,Abarrotes,Productos Importados
 500279,Picos Helios Melocoton 170 gr,Abarrotes,Productos Importados
 500280,Sirope Helios Frutos del Bosque 925 gr,Abarrotes,Productos Importados
 500281,Cereza Roja Helios 160 gr,Abarrotes,Productos Importados
@@ -19240,8 +19244,10 @@ id_producto,producto,categoria,subcategoria
 660147,BI PACK DOVE ROL EX FRE 50ML+CUIDTOT50ML,Cuidado Personal,Cuidado de la Piel
 660149,Mascarilla Sedal Tratamiento Rizos Definidos 300 gr,Cuidado Personal,Cuidado del Cabello
 660151,SEDAL MASC TRAT CERAMIDAS 300G,Cuidado Personal,Cuidado del Cabello
+660153,CREMA DE LECHUGA NO. 6,Cuidado Personal,Cuidado de la Piel
 660159,CREMA DE CHIRIMOYA NO. 3,Cuidado Personal,Cuidado de la Piel
 660162,CREMA DE CHIRIMOYA NO. 6,Cuidado Personal,Cuidado de la Piel
+660166,VASELINA BLANCA NO. 4,Cuidado Personal,Cuidado de la Piel
 660180,Limpiador Sacagrasa Sapolio Naranja Doypack 500 ml,Cuidado del Hogar,Limpieza de Cocina
 660186,AFEITADORA SCHICK PIEL DELICADA MUJER 2H,Cuidado Personal,Cuidado de la Piel
 660189,AFEITADORA SCHICK PIEL DELICADA MUJER 4H,Cuidado Personal,Cuidado de la Piel
@@ -22708,6 +22714,7 @@ id_producto,producto,categoria,subcategoria
 674810,KEFIR GALAKTOS NATURAL 200ML,Lácteos y Derivados,Yogures
 674814,Leche Nordland Saborizada Chocolate 150 ml,Lácteos y Derivados,Leches
 674815,Leche Nordland Saborizada Frutilla 150 ml,Lácteos y Derivados,Leches
+674820,QUESO CHEDDAR SANILAC LAMINADO 200GR,Lácteos y Derivados,Quesos
 674823,QUESO SANDWICHERO SANILAC 200GR,Lácteos y Derivados,Quesos
 674825,PACK 2 SALCHICHAS SIN PIEL OSFIM,Fiambres,Fiambres Externos
 674829,JUGO LIMONELLO PRO 200ML,Lácteos y Derivados,Leches
@@ -25004,6 +25011,7 @@ id_producto,producto,categoria,subcategoria
 820611,Galleta Club Social Integral 216 gr,Abarrotes,Galletas
 821014,Encendedor Bic,Bazar,Articulos de Cocina
 821077,Estilete,Bazar,Librería
+821078,ALED PISTOLA SILICONA .30,Bazar,Ferretería
 821224,Huesos Guau Nutrigua 8 un,Bazar,Mascotas General
 821225,Uvo Nutrigu X Brecuentre  D,Bazar,Mascotas General
 821226,Huesos Guau Nutrigua 2 un,Bazar,Mascotas General
