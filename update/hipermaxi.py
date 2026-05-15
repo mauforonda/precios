@@ -18,7 +18,7 @@ sucursales_representativas = {
 }
 hipermaxi = "data/hipermaxi"
 js = "static/js/main.c08b8086.js"
-TIMEOUT = 10
+TIMEOUT = 60
 
 
 def construirHeaders():
