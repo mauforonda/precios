@@ -1,4 +1,4 @@
-import { html } from "../../_npm/htl@0.3.1/_esm.js";
+import { html } from "../../_npm/htl@1.0.0/_esm.js";
 
 export function Trend(
   value,
