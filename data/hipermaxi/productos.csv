@@ -5580,7 +5580,7 @@ id_producto,producto,categoria,subcategoria
 113017,Paño Mr. Trapo Microfibra Multitarea 1 un,Cuidado del Hogar,Accesorios del Hogar
 113041,Toallitas Desmaquillantes Nivea Agua de Rosa 25 un,Cuidado Personal,Cuidado del Adulto
 113042,Hidratante Nivea Spray Agua Rosas,Cuidado Personal,Cuidado de la Piel
-113043,Crema Gel Hidratante Nivea Agua de Rosas,Cuidado Personal,Cuidado de la Piel
+113043,Crema Gel Hidratante Nivea Agua de Rosas,Cuidado del Hogar,Productos Americanos
 113070,Ambientador Automatico Todo Brillo Lavanda 250 cc,Cuidado del Hogar,Limpieza de Living y Ropero
 113071,Ambientador Automatico Todo Brillo Brisa Marina 250 cc,Cuidado del Hogar,Limpieza de Living y Ropero
 113072,Ambientador Aerosol Automatico Todo Brillo Manzana Canela,Cuidado del Hogar,Limpieza de Living y Ropero
@@ -8866,6 +8866,7 @@ id_producto,producto,categoria,subcategoria
 229107,BASE VOGUE RESIST NUEZ 10,Cuidado Personal,Cuidado de la Piel
 229108,Corrector Liquido Vogue Crema 01,Cuidado Personal,Cuidado de la Piel
 229111,Corrector Liquido Vogue Porcelana 03,Cuidado Personal,Cuidado de la Piel
+229112,CORRECTOR LIQUIDO VOGUE ARENA 05,Cuidado Personal,Cuidado de la Piel
 229114,Corrector Liquido Vogue Trigo 04,Cuidado Personal,Cuidado de la Piel
 229115,OLEO CAPILAR LOREAL LISO 100 ML,Cuidado Personal,Cuidado del Cabello
 229118,Papel Higienico Perlita Premium 30 Metros 12 un,Cuidado Personal,Cuidado Familiar
@@ -9312,6 +9313,7 @@ id_producto,producto,categoria,subcategoria
 240590,TOALLAS HUMEDAS  MY CARE X 50 UNDS,Cuidado del Bebé,Cuidado del Bebé
 240592,TOALLA HUMEDA MYCARE  100 UNDS,Cuidado del Bebé,Cuidado del Bebé
 240596,LIMPIA BANO LIDER RECARGA 850 ML.,Cuidado del Hogar,Limpieza de Baños
+240597,LIMPIA BANO LIDER ATOMIZADOR 850 ML.,Cuidado del Hogar,Limpieza de Baños
 240598,Jabon Liquido Naturessa Coconut 1 L,Cuidado Personal,Cuidado de la Piel
 240599,Jabon Liquido Naturessa Coconut Dispenser 380 ml,Cuidado Personal,Cuidado de la Piel
 240600,Jabon Liquido Naturessa Coconut Tapa 380 ml,Cuidado Personal,Cuidado de la Piel
@@ -10075,7 +10077,14 @@ id_producto,producto,categoria,subcategoria
 302853,Lavandina Lider Poder x5 1 L,Cuidado del Hogar,Limpieza de la Ropa
 302854,Lavandina Lider Poder Desinfectante 1 L,Cuidado del Hogar,Limpieza de la Ropa
 302855,Lavavajilla Lider Limon 1050 ml,Cuidado del Hogar,Limpieza de Cocina
+302858,Limpiador de Vidrio Lider Recarga 900 ml,Cuidado del Hogar,Limpieza de Living y Ropero
+302859,Limpiador Sacagrasa Lider Atomizador 850 ml,Cuidado del Hogar,Limpieza de Cocina
+302860,Limpiador Sacagrasa Lider Recarga 900 ml,Cuidado del Hogar,Limpieza de Cocina
 302861,Limpiador de Baño Lider Saca Sarro 1 L,Cuidado del Hogar,Limpieza de Baños
+302862,Limpiador de Piso Lider Lavanda Fresh 900 ml,Cuidado del Hogar,Limpieza de Living y Ropero
+302863,Limpiador de Piso Lider Fresh 900 ml,Cuidado del Hogar,Limpieza de Living y Ropero
+302865,Limpiador de Piso Lider Marine Fresh 900 ml,Cuidado del Hogar,Limpieza de Living y Ropero
+302866,Limpiador de Piso Lider Cedron Cremoso 900 ml,Cuidado del Hogar,Limpieza de Living y Ropero
 302871,Vino Riccitelli Old Merlot 750 ml,Bebidas,Vinos y Champagne
 302879,Vino Riccitelli Malbec Cabernet Franc 750 ml,Bebidas,Vinos y Champagne
 303006,Chocolate Cofler Aireado con Almendra 55 gr,Abarrotes,Golosinas - Varias
@@ -13734,7 +13743,7 @@ id_producto,producto,categoria,subcategoria
 495183,Biscocho Camil Chia Linaza Integral 150 gr,Abarrotes,Dietéticos y Saludables
 495298,Cepillo Dental Foramen V Plus Duro 1 un,Cuidado Personal,Cuidado Bucal
 495301,Cepillo Dental Foramen V Plus Suave 1 un,Cuidado Personal,Cuidado Bucal
-495573,Hamburguesa Hipermaxi Churrasco 6 un,Congelados,Carnes Congeladas
+495573,Hamburguesa Hipermaxi Hiperburger Churrasco 6 un,Congelados,Carnes Congeladas
 495581,Hamburguesa Hipermaxi Tocino 6 un,Congelados,Carnes Congeladas
 496060,Pan de Panchito Zelada Extralargo 8 un,Panadería,Panadería Externa
 496138,Leche Chiqui Frutilla Pil 140 ml,Lácteos y Derivados,Leches
@@ -14964,6 +14973,7 @@ id_producto,producto,categoria,subcategoria
 551625,Vino Marques de Caceres Ecellens Suavignon Blanco 750 ml,Bebidas,Vinos y Champagne
 551626,Vino Excellens Marques de Caceres Rose 750 ml,Bebidas,Vinos y Champagne
 551628,Vino Antigal Uno Rose 750 ml,Bebidas,Vinos y Champagne
+551629,VINO TINTO ECOLOGICO MARQUEZ DC 750 ML,Bebidas,Vinos y Champagne
 551630,Musli Manzana Canela Monkeys 410 gr,Abarrotes,Nutrición Infantil
 551631,Musli Monkeys Coco Vain Proteina 410 gr,Abarrotes,Nutrición Infantil
 551632,Musli Frutilla Choc Monkeys 410 gr,Abarrotes,Nutrición Infantil
@@ -16132,6 +16142,7 @@ id_producto,producto,categoria,subcategoria
 553307,GALLETA ANDES TROPICO AMARANTO 200 GR,Abarrotes,Galletas
 553308,GALLETA ANDES TROPICO QUINUA 200 GR,Abarrotes,Galletas
 553309,CEREAL ORGANICA DEL SUR ARITOS FRUTAS 38,Abarrotes,Nutrición Infantil
+553310,CEBADA TOSTADA MI SUCO BSA  300 GR,Abarrotes,Condimentos y Legumbres
 553311,FREJOL NEGRO  MI SUCO BSA 1 KG,Abarrotes,Condimentos y Legumbres
 553313,PIPOCA GUADIA MANTEQUILLA PACK 6X25GR,Abarrotes,Snack
 553314,CHOCOLATE PAITITI AMARGO 60P 67 GR,Abarrotes,Chocolates y Caramelos
@@ -16542,6 +16553,7 @@ id_producto,producto,categoria,subcategoria
 553909,PACK 2 VINOS ROSADOS KOHLBERG,Bebidas,Vinos y Champagne
 553963,Vino Aranjuez Sweet Rose Dulce 750 ml,Bebidas,Vinos y Champagne
 554003,CARTERITA LA FRANCESA LUI FRANCAISE 110,Abarrotes,Galletas
+554008,ALMENDRAS MENDRA C MIEL 120 GR,Abarrotes,Snack
 554333,Cerveza Paceña Lata Roja 473 Cc,Bebidas,Cervezas
 554466,Detergente Liquido Ola Futuro Limpieza Completa 5 L,Cuidado del Hogar,Limpieza de la Ropa
 554468,Suavizante Ropa Ola Suavecito Original 5 L,Cuidado del Hogar,Limpieza de la Ropa
@@ -22980,6 +22992,7 @@ id_producto,producto,categoria,subcategoria
 674859,TOCINETA DE CERDO AL VACIO SOFIA KGR,Fiambres,Fiambres Externos
 674861,MINI TORTA BOUQUET DE TRES LECHES DELIZIA,Congelados,"Helados, Cassattas y Picoleses"
 674862,MINI TORTA TRILOG A (DULCE DE LECHE/GRANIZADO/CHOCOLATE),Congelados,"Helados, Cassattas y Picoleses"
+674863,MINI TORTA SINFON A MARACUY  LECHE CONDENSADA 850 ML,Congelados,"Helados, Cassattas y Picoleses"
 674870,TORTA DE CAFE PEQUENA ROSA CRUZ,Pastelería y Masas Típicas,Pastelería Externa
 674878,HUEVO COLORADO MAPLE DE 30 ESPECIAL,Lácteos y Derivados,Huevos
 674880,CHORIZO DE FREIR STEGUE POR KILO,Fiambres,Fiambres Externos
@@ -23663,6 +23676,8 @@ id_producto,producto,categoria,subcategoria
 696004,Esmalte de Uña Essence Gel Nail Colour 71 8 ml,Cuidado Personal,Cuidado de la Piel
 696015,ESS. SOMBRA DE OJOS MATTE LIQUID 01 (949,Cuidado Personal,Cuidado de la Piel
 696078,Cereza Al Jugo Aconcagua 580 gr,Abarrotes,Frutas en Conserva
+696321,COCA COLA 300ML P/COMBOS INSUMOS 1UNI,Bebidas,Gaseosas
+696323,FANTA 300ML P/COMBOS INSUMOS 1UNI,Bebidas,Gaseosas
 696519,Nacho Chips Chippitas Hot Pico Gallo 300 gr,Abarrotes,Snack
 696530,Nacho Chips Chippitas Classico 300 gr,Abarrotes,Snack
 696531,Nacho Chips Chippitas Picante 150 gr,Abarrotes,Snack
@@ -24014,6 +24029,7 @@ id_producto,producto,categoria,subcategoria
 763764,TAMAL A LA OLLA CONG.MIL SABORES X5 UNID.,Congelados,Masas y Comidas Congeladas
 763789,EMPANADA DE ARROZ CONG.MIL SABORES X5 UND.,Congelados,Masas y Comidas Congeladas
 763855,Alimento Knino Adulto Mediana Grande 10 kg,Abarrotes,Mascotas
+763863,HAMBURGUESA 56 TUBO POLLO EXPRESS SOFIA 20X56 GR.,Congelados,Carnes Congeladas
 763897,Huevos Avicola Paurito Medianos 60 un,Lácteos y Derivados,Huevos
 763981,Bebida Vegetal Serenisima Base de Almendra 1 L,Lácteos y Derivados,Leches
 764101,Frutos Rojos Enteros Congelados Punto Verde 350 gr,Congelados,Pulpas y Frutas Congeladas
@@ -24385,7 +24401,7 @@ id_producto,producto,categoria,subcategoria
 783648,Queso Mozzarella Pil Feteado 200 gr,Lácteos y Derivados,Quesos
 783653,Helado Dietetico Vaca Fria Dulce de Leche 180 ml,Congelados,"Helados, Cassattas y Picoleses"
 783654,Sofipocas de Pollo Sofia Bolsa 500 gr,Congelados,Carnes Congeladas
-783700,Hamburguesa Hipermaxi Bolsa 12 un,Congelados,Carnes Congeladas
+783700,Hamburguesa Hipermaxi Hiperburger Bolsa 12 un,Congelados,Carnes Congeladas
 783716,Yogurt Griego Iogo con Cereal Farfait Cero Azucar 250 gr,Lácteos y Derivados,Yogures
 783725,Huevos Doña Juanita 30 un,Lácteos y Derivados,Huevos
 783747,Bisnaguinha Victoria 7 un,Panadería,Panadería Externa
@@ -26137,7 +26153,7 @@ id_producto,producto,categoria,subcategoria
 843492,PAN 4282 MACETERO 12CM,Bazar Importación,Jardineria General
 843514,Reloj de Pared,Bazar Importación,Living y Dormitorio
 843608,PAN.3402 BANDEJA D/SERVIR 36X27X5CM-GRANDE,Bazar Importación,Menaje Metálico
-843635,PAN 7487 MOLDES  CUPCAKE  C ACC  11CM,Bazar Importación,Ropa Dama/Junior
+843635,PAN 7487 MOLDES  CUPCAKE  C ACC  11CM,Bazar Importación,Cotillón
 843636,PAN 7486 MOLDES CUPKAKE C ACC 11CM,Bazar Importación,Cotillón
 843637,PAN.4111 CORTADORES D/GALLETAS 6PZS,Bazar Importación,Cocina General
 843813,"CH.Y34-3 CUCHILLOS COLOR CAFE CON NEGRO, SET*6 PZAS",Bazar Importación,Cocina General
@@ -28250,7 +28266,7 @@ id_producto,producto,categoria,subcategoria
 882659,Leche Soy Natural Pil 1 L,Lácteos y Derivados,Leches
 882664,Leche de Soya Vainilla 1 L,Lácteos y Derivados,Leches
 882674,Leche de Soya Chocolate 1 L,Lácteos y Derivados,Leches
-882911,Pan Molde Belen Americano 550 g,Panadería,Panadería Externa
+882911,Pan Molde Belen Americano 550 gr,Panadería,Panadería Externa
 883031,JUEGO MESA MONOPOLIO CLASICO BOLIVIMAR,Juguetería,Juguetería Didáctica/Temporada
 883088,HIELERA SAN REMO CUADRADO,Bazar Importación,Cocina General
 883089,HILERA PLASTICA LARGA SAN REMO,Bazar Importación,Cocina General
