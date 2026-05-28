@@ -341,7 +341,7 @@ id_producto,producto,categoria,subcategoria
 5524,Lechuga Valleverde Senorita 1 un,Frutas y Verduras,Gourmet
 5525,Ensalada Valleverde Boliviana 1 un,Frutas y Verduras,Gourmet
 5526,Ensalada Valleverde Italiana 1 un,Frutas y Verduras,Gourmet
-5535,Champiñones Da Mush 1 un,Frutas y Verduras,Gourmet
+5535,Champiñones Da Mush 1 un,Frutas y Verduras,Ofertas Especiales
 5537,Hongos Secos Boletus 100 gr,Frutas y Verduras,Verduras
 5547,Uvas Pasas Hipermaxi kg,Granos y Hortalizas,Fraccionados Hipermaxi
 5549,Manzana Criolla 1 kg,Frutas y Verduras,Frutas
@@ -16553,6 +16553,7 @@ id_producto,producto,categoria,subcategoria
 553909,PACK 2 VINOS ROSADOS KOHLBERG,Bebidas,Vinos y Champagne
 553963,Vino Aranjuez Sweet Rose Dulce 750 ml,Bebidas,Vinos y Champagne
 554003,CARTERITA LA FRANCESA LUI FRANCAISE 110,Abarrotes,Galletas
+554004,SNACK DR PICKS NACHOS PIZZA 56 GR,Abarrotes,Snack
 554008,ALMENDRAS MENDRA C MIEL 120 GR,Abarrotes,Snack
 554333,Cerveza Paceña Lata Roja 473 Cc,Bebidas,Cervezas
 554466,Detergente Liquido Ola Futuro Limpieza Completa 5 L,Cuidado del Hogar,Limpieza de la Ropa
@@ -17850,7 +17851,7 @@ id_producto,producto,categoria,subcategoria
 637362,Limon Amarillo 1 kg,Frutas y Verduras,Frutas
 637389,Limon Verde 1 kg,Frutas y Verduras,Frutas
 637478,Mandarina Criolla 1 Kg,Frutas y Verduras,Frutas
-637796,Naranja Crucena 1 Kg,Frutas y Verduras,Frutas
+637796,Naranja Cruceña 1 Kg,Frutas y Verduras,Frutas
 638016,Papaya kg,Frutas y Verduras,Frutas
 640215,Pan Molde Leo Nothamann Salvado 570 gr,Panadería,Panadería Externa
 640238,Salsa Heinz Hot Dog Relish 296 ml,Abarrotes,Productos Americanos
@@ -19491,6 +19492,7 @@ id_producto,producto,categoria,subcategoria
 660212,Quinua Real Agromix 450 gr,Abarrotes,Nutrición Infantil
 660220,TRIPACK DOVE JAB PIEL SENSIBLE 3X90G,Cuidado Personal,Cuidado de la Piel
 660221,DOVE W AER AP CLINICAL TONO 150ML,Cuidado Personal,Cuidado de la Piel
+660224,SEDAL SH TOQUE DE SEDA 340ML,Cuidado Personal,Cuidado del Cabello
 660225,SEDAL SH TOQUE DE SEDA 12X650ML,Cuidado Personal,Cuidado del Cabello
 660229,SEDAL SH TOQUE DE SEDA 190ML,Cuidado Personal,Cuidado del Cabello
 660230,PACK DOVE DEO AER INCARE+RASPBER 2X150M,Cuidado Personal,Cuidado de la Piel
@@ -22986,6 +22988,7 @@ id_producto,producto,categoria,subcategoria
 674844,DULCE DE LECHE SIN AZUCAR VALERIE AND ME 210GRS,Lácteos y Derivados,Dulces de Leche y Manjares
 674845,YOGURT FRUTADO FATHYR FRUTILLA 550GRS,Lácteos y Derivados,Yogures
 674846,YOGURT FRUTADO FATHYR DURAZNO 550GRS,Lácteos y Derivados,Yogures
+674847,YOGURT FRUTADO FATHYR MARACUYA 550GRS,Lácteos y Derivados,Yogures
 674848,DULCE DE LECHE CLASICO CAROLA 300GRS,Lácteos y Derivados,Dulces de Leche y Manjares
 674856,NUGGETS SOFIA DINO BOLSA 30 UNIDADES,Congelados,Carnes Congeladas
 674857,LECHE DESLACTOSADA PIL/CAFE X 800 ML (BOLSA),Lácteos y Derivados,Leches
@@ -22994,6 +22997,8 @@ id_producto,producto,categoria,subcategoria
 674862,MINI TORTA TRILOG A (DULCE DE LECHE/GRANIZADO/CHOCOLATE),Congelados,"Helados, Cassattas y Picoleses"
 674863,MINI TORTA SINFON A MARACUY  LECHE CONDENSADA 850 ML,Congelados,"Helados, Cassattas y Picoleses"
 674870,TORTA DE CAFE PEQUENA ROSA CRUZ,Pastelería y Masas Típicas,Pastelería Externa
+674876,PIE DE LMON ROSA CRUZ,Pastelería y Masas Típicas,Pastelería Externa
+674877,PIE DE MARACUYA ROSA CRUZ,Pastelería y Masas Típicas,Pastelería Externa
 674878,HUEVO COLORADO MAPLE DE 30 ESPECIAL,Lácteos y Derivados,Huevos
 674880,CHORIZO DE FREIR STEGUE POR KILO,Fiambres,Fiambres Externos
 675245,Miel de Abeja Eva Promiel 250 gr,Abarrotes,"Mermel, Mieles"
@@ -23355,6 +23360,7 @@ id_producto,producto,categoria,subcategoria
 679026,Yuca Congelada Paypa Pre Frita 1 kg,Congelados,Masas y Comidas Congeladas
 679027,Papa Frita Paypa Congelada Baston 7 Mm 2250 gr,Congelados,Masas y Comidas Congeladas
 679028,Papa Frita Paypa Congelada Baston 10 Mm 2500 gr,Congelados,Masas y Comidas Congeladas
+679032,TORTA DE CHOCOLATE PEQUENA ROSA CRUZ,Pastelería y Masas Típicas,Pastelería Externa
 679102,Pechuga de Pollo con Hueso kg,Carnes,Carnes Procesadas
 679112,Queso Super Collana 500 gr,Lácteos y Derivados,Quesos
 679121,Yogurt Kefir Cereza 280 ml,Lácteos y Derivados,Yogures
@@ -24101,6 +24107,7 @@ id_producto,producto,categoria,subcategoria
 766998,Ketchup Hellmanns 250 gr,Abarrotes,Aderezos
 767205,Cepillo Condor Pasada Limpia Multiuso,Cuidado del Hogar,Accesorios del Hogar
 768330,Cafe Copacabana 48 un,Abarrotes,Café y Sucedáneos
+768427,NUGGETS MUSLITOS FRIDOSA 1 KG.,Congelados,Carnes Congeladas
 768512,Acai Congelado Polpanorte Tradicional 1020 gr,Congelados,Pulpas y Frutas Congeladas
 768517,Leche Natural Barista Impostor 800 ml,Lácteos y Derivados,Leches
 768724,Nuggets de Trucha Titikaka 500 gr,Congelados,Carnes Congeladas
@@ -25559,7 +25566,7 @@ id_producto,producto,categoria,subcategoria
 819564,Pilas Energizer Alcalina AAA 16 un,Bazar,Ferretería
 819577,Olla Arrocera Black Deker,Bazar,Electrodoméstico/Línea Blanca-Hogar
 819624,PAN 5317 CUCHARAS P MEDIR 6PZS  7 5 15 60 85 12ML,Bazar Importación,Cocina General
-819627,PAN 1657 CARRIZO  DE VIDRIO REUTILIZABLE CON CEPILLO SET X7P,Bazar Importación,Cotillón
+819627,PAN 1657 CARRIZO  DE VIDRIO REUTILIZABLE CON CEPILLO SET X7P,Bazar Importación,Ropa Dama/Junior
 819628,PAN 0655 CARRIZO DE VIDRIO REUTILIZABLE CON CEPILLO SET X7PZ,Bazar Importación,Cotillón
 819636,Vino Terrazas Cabernet Sauvignon 750 ml,Bebidas,Vinos y Champagne
 819641,Vino Terrazas Malbec 750 ml,Bebidas,Vinos y Champagne
