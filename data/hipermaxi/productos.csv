@@ -2046,6 +2046,7 @@ id_producto,producto,categoria,subcategoria
 25494,Cerveza Bendita Pils 310 ml,Bebidas,Cervezas
 25495,Sal Parrillera Kollita Ahumada 440 gr,Abarrotes,Básicos
 25496,Sixpack Mandala Pink Lemon 6x200 ml,Bebidas,Bebidas Varias
+25569,BATERIA ALKALINA PANASONIC 9VOLT,Bazar,Ferretería
 25640,Surtido de Mariscos Robinson Crusoe Natural 190 gr,Abarrotes,Comidas en Conserva
 25771,Huevos Caisy 12 un,Lácteos y Derivados,Huevos
 25789,Galleta Rocklets Chocolate 118 gr,Abarrotes,Galletas
@@ -9052,6 +9053,7 @@ id_producto,producto,categoria,subcategoria
 231542,ACEITE FARMAX CHOCOLATE 100 ML,Cuidado Personal,Cuidado del Cabello
 231543,PACK 3X2 JABONCILLO LEXI 120GR,Cuidado Personal,Cuidado de la Piel
 231544,PACK 3X2 JABONCILLO LEXI 70GR,Cuidado Personal,Cuidado de la Piel
+231545,ESPIRAL REDGON PERFUME 12 HX20 UNDS,Cuidado del Hogar,Insecticidas
 231546,ESPIRAL REDGON PERFUME 12 HRX10UND,Cuidado del Hogar,Insecticidas
 231547,ANTI ACNE GARNIER SERUM 15 ML,Cuidado Personal,Cuidado de la Piel
 231548,3M PACK ESPONJA SCOTH MAS COLADOR,Cuidado del Hogar,Accesorios del Hogar
@@ -16567,6 +16569,7 @@ id_producto,producto,categoria,subcategoria
 554003,CARTERITA LA FRANCESA LUI FRANCAISE 110,Abarrotes,Galletas
 554004,SNACK DR PICKS NACHOS PIZZA 56 GR,Abarrotes,Snack
 554008,ALMENDRAS MENDRA C MIEL 120 GR,Abarrotes,Snack
+554009,ALMENDRAS MENDRA PAPRIKA 120 GR,Abarrotes,Snack
 554333,Cerveza Paceña Lata Roja 473 Cc,Bebidas,Cervezas
 554466,Detergente Liquido Ola Futuro Limpieza Completa 5 L,Cuidado del Hogar,Limpieza de la Ropa
 554468,Suavizante Ropa Ola Suavecito Original 5 L,Cuidado del Hogar,Limpieza de la Ropa
@@ -19530,7 +19533,9 @@ id_producto,producto,categoria,subcategoria
 660263,PK PAMPCONFSEC G 120P X1U,Cuidado del Bebé,Pañales
 660264,BI-PACK PAMPERS CONFORTSEC XXXG (88PZA),Cuidado del Bebé,Pañales
 660265,BI-PACK PAMPERS CONFORTSEC G (120PZA) X1,Cuidado del Bebé,Pañales
+660266,BI-PACK PAMPERS CONFORTSEC XG (116PZA) X,Cuidado del Bebé,Pañales
 660267,BI-PACK PAMPERS CONFORTSEC XXG (112PZA),Cuidado del Bebé,Pañales
+660268,PK PAMPCONFSE XXG 112PX1U,Cuidado del Bebé,Pañales
 660269,PK PAMPCONFSE XG 116P X1U,Cuidado del Bebé,Pañales
 660270,PK PAMPCONFSE XXXG 88PX1U,Cuidado del Bebé,Pañales
 660272,NIVEA CUIDADO NUTRITIVO CREMAFACIAL100ML,Cuidado Personal,Cuidado de la Piel
@@ -23020,6 +23025,7 @@ id_producto,producto,categoria,subcategoria
 674863,MINI TORTA SINFON A MARACUY  LECHE CONDENSADA 850 ML,Congelados,"Helados, Cassattas y Picoleses"
 674866,GALLETAS DE COCO ROSA CRUZ,Pastelería y Masas Típicas,Pastelería Externa
 674867,GALLETAS DE CHOCOLATE/VAINILLA 160G ROSA CRUZ,Pastelería y Masas Típicas,Pastelería Externa
+674868,GALLETAS DE CHOCOLATE/VAINILLA 80G ROSA CRUZ,Pastelería y Masas Típicas,Pastelería Externa
 674870,TORTA DE CAFE PEQUENA ROSA CRUZ,Pastelería y Masas Típicas,Pastelería Externa
 674871,TORTA DE CAFE MEDIANA ROSA CRUZ,Pastelería y Masas Típicas,Pastelería Externa
 674872,TORTA DE CHOCOLATE MEDIANA ROSA CRUZ,Pastelería y Masas Típicas,Pastelería Externa
@@ -25122,6 +25128,7 @@ id_producto,producto,categoria,subcategoria
 798823,Pizza Conik Congelada Pressto Familiar,Congelados,Masas y Comidas Congeladas
 800028,Ketchup Hellmanns Squeeze 400 gr,Abarrotes,Aderezos
 800101,CH Z11 2 FRASCO DE VIDRIO CON TAPA HERMETICA 450ML,Bazar Importación,Menaje Vidrio/Cristal
+800103,CH Z11 3 FRASCO DE VIDRIO CON TAPA HERMETICA 1000ML,Bazar Importación,Menaje Vidrio/Cristal
 800108,CH 53 6 JARRON DE VIDRIO TRANSPARENTE 10 5X25CM,Bazar Importación,Living y Dormitorio
 800118,CH 56 7 JARRON COLOR CAFE  MATE BORDE GRUESO 15X25CM,Bazar Importación,Living y Dormitorio
 800119,CH 56 8 JARRON COLOR CAFE MATE BORDE GRUESO 16X17CM,Bazar Importación,Living y Dormitorio
@@ -25243,7 +25250,11 @@ id_producto,producto,categoria,subcategoria
 807391,CH 1 88 SALSERO DOBLE 12 8X4 5CM,Bazar Importación,Menaje Porcelana/Cerámica
 807392,CH 1 159 MANTEQUILLERA CON TAPA Y CUCHILLO 14X9X6CM,Bazar Importación,Cocina General
 807393,CH T7 8 CUCHILLO PARA MANTEQUILLA 14X3CM,Bazar Importación,Cocina General
+807394,CH T7 9 CUCHILLO PARA QUESO 14X2CM,Bazar Importación,Cocina General
+807395,CH T7 10 CUCHILLO PARA QUESO 12X5CM,Bazar Importación,Cocina General
+807397,CH T7 11 UTENSILIO PARA QUESO 13X3CM,Bazar Importación,Cocina General
 807398,CH T7 12 CUCHILLO PARA QUESO 19X2 5CM,Bazar Importación,Cocina General
+807435,CH T7 14 CUCHILLO PARA QUESO 12X2 5CM,Bazar Importación,Cocina General
 807436,CH 2 17 CACEROLA CON TAPA TERRACOTA 21X18X8 4CM,Bazar Importación,Menaje Porcelana/Cerámica
 807438,CH 2 19 TAZA COLORES Y DISENOS SURTIDOS 350ML,Bazar Importación,Menaje Porcelana/Cerámica
 807442,CH 2 25 TAZA DISENO VERDE DORADO Y GRIS 350ML,Bazar Importación,Menaje Porcelana/Cerámica
@@ -25252,6 +25263,7 @@ id_producto,producto,categoria,subcategoria
 807456,CH 6 14 ESPUMADERA NEGRA CON MANGO DE MADERA 34CM,Bazar Importación,Cocina General
 807460,CH 6 34 PINZA METALICA PARA COCINA 23 5X4 5CM,Bazar Importación,Cocina General
 807461,CH 6 35 PINZA METALICA PARA COCINA 22 5CM,Bazar Importación,Cocina General
+807463,CH 6 39 PINZA METALICA MULTIFUNCION PARA COCINA 26X7CM,Bazar Importación,Cocina General
 807471,CH 20 4 TERMO COLOR ENTERO X 1L,Bazar Importación,Cocina General
 807486,CH 30 1 CUCHARA PARA PASTA CON MANGO DE MADERA 31CM,Bazar Importación,Cocina General
 807491,CH 30 5 ESPATULA REDONDA DE SILICONA CON MANGO DE MADERA,Bazar Importación,Cocina General
@@ -25300,9 +25312,11 @@ id_producto,producto,categoria,subcategoria
 809183,BR JUEGO DE CUBIERTOS 24 PZAS RIVERA NEGRO,Bazar Importación,Cocina General
 809184,Juego de Cubierto Itaparica Negro Acero Inox 16 un,Bazar Importación,Cocina General
 809185,Juego de Cubierto Itaparica Rojo Acero Inox 16 un,Bazar Importación,Cocina General
+809192,BR JUEGO 6 PZAS DE ESPATULAS PARA MANTEQUILLA,Bazar Importación,Cocina General
 809193,BR CUCHARA 3 PZAS PARA HELADO ACERO INOXIDABLE,Bazar Importación,Cocina General
 809196,BR ABRIDOR DE LATAS PLUS VERONA ACERI INOXIDABLE,Bazar Importación,Cocina General
 809203,Toddy Light 380 gr,Abarrotes,Dietéticos y Saludables
+809213,BR SACACORCHOS DE ACERO INOXIDABLE TOP PRATIC NEGRO,Bazar Importación,Cocina General
 809312,Salsa Carozzi Pomarola Italiana 200 gr,Abarrotes,Salsas y Extracto de Tomate
 809327,Galleta Costa Donuts Naranja 105 gr,Abarrotes,Galletas
 809427,CH 12 1 MESA PLEGABLE COLOR BEIGE 48X38X65CM,Bazar Importación,Mueblería General
@@ -25324,6 +25338,7 @@ id_producto,producto,categoria,subcategoria
 809524,CH 34 18 PORTARETRATOS PARA 8 FOTOS 60 4X32X3CM,Bazar Importación,Living y Dormitorio
 809527,CH 34 21 PORTARETRATOS BORDE CAFE Y BLANCO 16 7X11 7X2 2CM,Bazar Importación,Living y Dormitorio
 809528,CH 34 22 PORTARETRATOS BORDE BLANCO Y NEGRO 16 8X11 8X2 2CM,Bazar Importación,Living y Dormitorio
+809557,CH 6 1 TAPPER DE VIDRIO CON TAPA HERMETICA 1380ML,Bazar Importación,Menaje Vidrio/Cristal
 809558,Tapper de Vidrio Tapa Hermética 800 ml,Bazar Importación,Menaje Vidrio/Cristal
 809560,Tapper de Vidrio Tapa Hermética 800 ml,Bazar Importación,Menaje Vidrio/Cristal
 809590,Alimento Dog Chow Adulto Carne Pollo Mediano Grande 3 kg,Abarrotes,Mascotas
@@ -25338,10 +25353,15 @@ id_producto,producto,categoria,subcategoria
 809637,CH 33 4 LAMPARA DE MESA BASE BLANCA JASPEADA,Bazar Importación,Living y Dormitorio
 809643,CH 33 10 LAMPARA DE MESA DISENO HOJAS,Bazar Importación,Living y Dormitorio
 809644,CH 33 11 LAMPARA DE MESA DISENO RUSTICO 13X18CM,Bazar Importación,Living y Dormitorio
+809686,TR SALERO CON DISENO RITA 67CC,Bazar Importación,Cocina General
+809688,TR ACEITERO NEGRO URLA 750CC,Bazar Importación,Cocina General
 809700,Frasco Dispensador de Vidrio Lexa 210 cc,Bazar Importación,Menaje Vidrio/Cristal
 809709,TR SET X3 PZAS PARA NINOS KAI,Bazar Importación,Artículos para Bebé
+809712,TR ACEITERO DE VIDRIO CON DISENO KIBELE 750CC,Bazar Importación,Cocina General
 809714,TR ACEITERO TAPA VERDE NATURAL 1000CC,Bazar Importación,Cocina General
+809722,TR ACEITERO TAPA VERDE URLA 500CC,Bazar Importación,Cocina General
 809729,TR SALERO SET X2 RITA 67CC,Bazar Importación,Cocina General
+809730,TR ACEITERO TAPA VERDE NATURAL 750CC,Bazar Importación,Cocina General
 809732,Tomatodo Renga de Vidrio 500 cc,Bazar Importación,Menaje Vidrio/Cristal
 809814,Sarten Antiadherente Azul 28 cm,Bazar Importación,Cocina General
 809815,Sarten Antiadherente Gris 28 cm,Bazar Importación,Cocina General
@@ -25368,6 +25388,7 @@ id_producto,producto,categoria,subcategoria
 810053,Crema Ponds Clarante Piel Seca 100 gr,Cuidado Personal,Cuidado de la Piel
 810060,Locion Ponds Dual Biohidratacion 200 ml,Cuidado Personal,Cuidado de la Piel
 810178,BR PASTILLERO DIA Y NOCHE PLASTICO SANREMO,Bazar Importación,Bijouteria/Cuidado Personal
+810255,BR HERMETICO PS SANREMO 1 5L,Bazar Importación,Menaje Plástico
 810338,CH 29 4 TABLA DE CORTAR SET X4 PZAS 38X30CM,Bazar Importación,Churrasquería
 810339,CH 29 5 TABLA DE CORTAR SET X6 PZAS 28X19CM,Bazar Importación,Churrasquería
 810340,CH 29 6 TABLA DE CORTAR SET X3 PZAS 19X29 25X34 29X38CM,Bazar Importación,Churrasquería
@@ -25405,6 +25426,7 @@ id_producto,producto,categoria,subcategoria
 814324,Limpiador Desinfectante Ola Aromatic Bosques Pino 900 ml,Cuidado del Hogar,Limpieza de Baños
 814593,CH 6 20 LENTES DE AUMENTO PARA LECTURA MONTURA MARRON 1 5 2,Bazar Importación,Bijouteria/Cuidado Personal
 814853,CH GB 6 2 TAPPER DE VIDRIO CON TAPA HERMETICA 1380ML,Bazar Importación,Menaje Vidrio/Cristal
+814944,CH GB 6 4 TAPPER DE VIDRIO CON TAPA HERMETICA 1230ML,Bazar Importación,Menaje Vidrio/Cristal
 815142,Vasos Tequileros Halloween 6 un,Bazar Importación,Temporada Halloween
 815548,CH 42 3 COJIN GRIS CON LINEAS BLANCAS Y GRISES 42X42CM,Bazar Importación,Living y Dormitorio
 815549,CH 42 5 COJIN VERDE CON LINEAS PEQUENAS BLANCAS 42X42CM,Bazar Importación,Living y Dormitorio
@@ -25454,6 +25476,7 @@ id_producto,producto,categoria,subcategoria
 816841,CH C157 BOWL VERDE CON TEXTURA Y BORDE DORADO 14X6CM,Bazar Importación,Menaje Porcelana/Cerámica
 816843,CH B130 PLATO PANERO DE TRES COLORES 20 5X2CM,Bazar Importación,Menaje Porcelana/Cerámica
 816844,CB C130 BOWL DE TRES COLORES,Bazar Importación,Menaje Porcelana/Cerámica
+816870,CH T1 29 AZUCARERA DE VIDRIO CON TAPA ROMBOS 270ML,Bazar Importación,Cocina General
 816877,CH 35 5 TENEDOR PARA POSTRE SET X 6PZAS,Bazar Importación,Cocina General
 816880,CHOCOLATE YOOHOO DRINK LATA 325 ML.,Lácteos y Derivados,Leches
 816881,CH 31 8 CUCHARILLA SET X 6PZAS,Bazar Importación,Cocina General
@@ -25471,11 +25494,20 @@ id_producto,producto,categoria,subcategoria
 816899,CH 35 15 PORTARRETRATO MARCO GRUESO NEGRO BORDE MARRON 10X15,Bazar Importación,Living y Dormitorio
 816904,Gaseosa Sprite Cafeine Free USA 12 oz,Bebidas,Bebidas Usa
 816913,CH 35 17 PORTARRETRATO MARCO GRUESO MARRON BORDE BEIGE 10X15,Bazar Importación,Living y Dormitorio
+816920,CH 41 17A MOLDE RECTANGULAR PARA HORNO 28X14 5X5CM,Bazar Importación,Cocina General
+816921,CH 41 17B MOLDE RECTANGULAR PARA HORNO 30X17X6 5CM,Bazar Importación,Cocina General
 816926,CH 41 19B MOLDE RECTANGULAR PARA HORNO NEGRO 25 5X13X6 5CM,Bazar Importación,Cocina General
+816927,CH 41 19C MOLDE RECTANGULAR PARA HORNO 27 5X15X6 5,Bazar Importación,Cocina General
+816928,CH 41 20B MOLDE PARA PIZZA COLOR NEGRO 28X2CM,Bazar Importación,Cocina General
+816934,CH 41 22A MOLDE RECTANGULAR ANTIADHERENTE PEQUEN 20X12X7 5CM,Bazar Importación,Cocina General
+816936,CH 41 22C MOLDE RECTANGULAR ANTIADHERENTE GRANDE GRIS 31X12X,Bazar Importación,Cocina General
+816940,CH 41 25 MOLDE ANTIADHERETE REDONDO MEDIANO 28X6CM,Bazar Importación,Cocina General
 816955,BIJOUTERIA SURTIDA,Bazar Importación,Bijouteria/Cuidado Personal
 816956,ACCESORIOS PARA EL CABELLO,Bazar Importación,Bijouteria/Cuidado Personal
 816966,CH 13 113 TAPPER HERMETICO CON TAPA BLANCA 950ML,Bazar Importación,Menaje Plástico
 816967,CH 13 114 TAPPER HERMETICO 1300ML,Bazar Importación,Menaje Plástico
+816968,CH 13 115 TAPPER HERMETICO1500ML,Bazar Importación,Menaje Plástico
+816969,CH 13 116 TAPPER HERMETICO CON TAPA BLANCA CON DISPENSADOR T,Bazar Importación,Menaje Plástico
 816972,CH 13 120 ESPATULA CON RANURAS MANGO DE MADERA 32X6 5CM,Bazar Importación,Cocina General
 816989,CH 13 185 SET DE HERRAMIENTAS X4 PZAS AMARILLO Y CELESTE,Bazar Importación,Ferretería
 816990,CH 13 186 SET DE HERRAMIENTAS X9 PZAS AMARILLO 22X1 8CM,Bazar Importación,Ferretería
@@ -25506,6 +25538,7 @@ id_producto,producto,categoria,subcategoria
 817380,CH 168 PLATO CON ASAS DECORACION DE FIGURAS Y BORDE CAFE 24X,Bazar Importación,Menaje Porcelana/Cerámica
 817381,CH 169 FUENTE CON ASAS DECORACION DE FIGURAS Y BORDE CAFE,Bazar Importación,Menaje Porcelana/Cerámica
 817395,CH 35 16 PORTA RETRATO MARCO GRUESO MARRON CON TEXTURA 21X16,Bazar Importación,Living y Dormitorio
+817448,BR HERMETICO PS SANREMO 500ML,Bazar Importación,Menaje Plástico
 817463,BR PORTA CEPILLO DIENTES PLASTICO SANREMO,Bazar Importación,Baño General
 817465,Guantes Agarradores de Olla Diseño a Rayas 2 Piezas,Bazar Importación,Cocina General
 817466,Guantes Agarradores de Olla Diseño de Cocina 2 Piezas,Bazar Importación,Cocina General
@@ -25515,6 +25548,9 @@ id_producto,producto,categoria,subcategoria
 817470,CH 36 11 GUANTE ESPONJA PARA BANO COLOR SURTIDO 22X13CM,Bazar Importación,Baño General
 817471,CH 36 12 GUANTE PARA BANO DISENO DE ANIMALES COLOR SURTIDO 2,Bazar Importación,Baño General
 817484,CH GB1 1 VELA AROMATICA EN ENVASE COLORES SURTIDOS 12 5X12CM,Bazar Importación,Living y Dormitorio
+817491,CH 28 1 ABRIDOR DE BOTELLAS CIRCULAR DISENOS Y COLORES SURTI,Bazar Importación,Cocina General
+817492,CH 28 2 ABRIDOR DE BOTELLAS DE PARED DISENOS Y COLORES SURTI,Bazar Importación,Cocina General
+817494,CH 28 4 POSA VASOS CUADRADOS SET X16PZAS DISENOS Y COLOR SUR,Bazar Importación,Cocina General
 817496,CH 28 6 COLGADOR DE LLAVES HOME 24X16X3 5CM,Bazar Importación,Regalos/Adornos
 817497,CH 28 7 COLGADOR DE LLAVES EN FORMA DE LLAVE 32X17X3 5CM,Bazar Importación,Regalos/Adornos
 817503,CH 13 11 PALILLOS CHINOS DE BAMBU SET X5 PARES,Bazar Importación,Cocina General
@@ -25539,8 +25575,20 @@ id_producto,producto,categoria,subcategoria
 817553,CH V9 7 TABLA PARA CORTAR RECTANGULAR GRANDE C BLANCO 40X25X,Bazar Importación,Churrasquería
 817555,CH 12 3 COLGADOR PLEGABLE CON 18 GANCHOS PARA ROPA 50X34X48,Bazar Importación,Baño General
 817556,CH 12 4 COLGADOR GIRATORIO COLOR BLANCO CON 15 GANCHOS DE CO,Bazar Importación,Baño General
+817559,CH 2765 MOLDE DE SILICONA EN FORMA CIRCULAR 21 5X10 4X1 5 CM,Bazar Importación,Cocina General
 817560,CH 3696 MOLDE DE SILICONA EN FORMA CIRCULAR 21 20X10 8X2CM,Bazar Importación,Cocina General
+817561,CH 1898 MOLDE DE SILICONA EN FORMA DE CUADROS 21X10 5X1 5CM,Bazar Importación,Cocina General
 817563,CH 4320 MOLDE DE SILICONA CON 3 DISENOS 20X10 5X1 8CM,Bazar Importación,Cocina General
+817564,CH 3586 MOLDE DE SILICONA CON 3 DISENOS COLOR CAFE 20 6X14 2,Bazar Importación,Cocina General
+817568,CH 3736 MOLDE DE SILICONA CIRCULAR CON FORMA DE ESPIRAL 21X2,Bazar Importación,Cocina General
+817572,CH 3783 MOLDE DE SILICONA CON FORMA DE ESPIRALES 29 2X17XCCM,Bazar Importación,Cocina General
+817573,CH 4092 MOLDE DE SILICONA CIRCULAR GRANDE 25X23X5 2CM,Bazar Importación,Cocina General
+817575,CH 4094 MOLDE DE SILICONA CIRCULAR PEQUENO 12 8X12 5X2CM,Bazar Importación,Cocina General
+817576,CH 4311 MOLDE DE SILICONA RECTANGULAR CON RAYAS EN LA BASE,Bazar Importación,Cocina General
+817577,CH 2486 MOLDE DE SILICONA CIRCULAR CON LINEAS VERTICALES,Bazar Importación,Cocina General
+817580,CH 4096 MOLDE DE SILICONA MEDIANO EN FORMA CIRCULAR CON ASAS,Bazar Importación,Cocina General
+817623,CH V3 15 JARRA CON TAPA Y VASOS LINEAS VERTICALES SET X 5 PZ,Bazar Importación,Menaje Vidrio/Cristal
+817641,CH 3 33 BOWL DE VIDRIO 1215ML,Bazar Importación,Menaje Vidrio/Cristal
 817654,CH X 1 TAZA COLOR ENTERO SURTIDO 450ML,Bazar Importación,Menaje Porcelana/Cerámica
 817655,SANDWICHERA 3 EN 1 HISENSE HSM703GCG,Bazar,Electrodoméstico/Línea Blanca-Hogar
 817658,BATIDORA DE MANO HISENSE HM500DCBK,Bazar,Electrodoméstico/Línea Blanca-Hogar
@@ -25614,8 +25662,10 @@ id_producto,producto,categoria,subcategoria
 819628,PAN 0655 CARRIZO DE VIDRIO REUTILIZABLE CON CEPILLO SET X7PZ,Bazar Importación,Cotillón
 819636,Vino Terrazas Cabernet Sauvignon 750 ml,Bebidas,Vinos y Champagne
 819641,Vino Terrazas Malbec 750 ml,Bebidas,Vinos y Champagne
+819645,PAN 5464 ABRIDOR SACACORCHO 3 EN 1 DE ACERO INOXIDABLE 14X3,Bazar Importación,Cocina General
 819647,PAN 3811 SET X8PZAS DE PINCHOS PARA MAZORCA 8CM,Bazar Importación,Cocina General
 819656,Vino Terrazas Cabernet Sauvignon Reserva 750 ml,Bebidas,Vinos y Champagne
+819657,PAN 770C SERVILLETERO 3X6.5X15CM,Bazar Importación,Cocina General
 819658,PAN 1242 TABLA REDONDA  P  PICAR 30X1 2CM,Bazar Importación,Churrasquería
 819659,PAN 1241 TABLA P  PICAR 37X25X1 2CM,Bazar Importación,Churrasquería
 819661,Pimienta El Cocinero Molida 70 gr,Abarrotes,Condimentos y Legumbres
@@ -25631,6 +25681,8 @@ id_producto,producto,categoria,subcategoria
 819779,PAN 1146 COLGADOR CON GANCHOS P  ROPA 24 5 CM,Bazar Importación,Baño General
 819834,Chocolate Arcor con Leche 25 gr,Abarrotes,Golosinas - Varias
 819839,AFLOJATODO WD40,Bazar,Automotriz
+819868,PAN 0761 COLADOR DE FREGADOR ACERO INOXIDABLE C NEGRO 9CM,Bazar Importación,Cocina General
+819870,PAN 5476 COLADOR DE FREGADOR ACERO INOXIDABLE C PLATEADO,Bazar Importación,Cocina General
 819884,PAN 2302 PROTECTORES P MUEBLES 24 PZAS C TRANSPARENTE 8X3MM,Bazar Importación,Living y Dormitorio
 819958,Jugo Del Valle Durazno Tetra 200 ml,Bebidas,"Jugos, Néctar"
 820002,Jugo Del Valle Durazno Tetra 1 L,Bebidas,"Jugos, Néctar"
@@ -25647,9 +25699,11 @@ id_producto,producto,categoria,subcategoria
 820468,Aceite Carbonell Extra Virgen 250 ml,Abarrotes,Básicos
 820597,Café Nescafe Tradicion Tapa Roja 200 gr,Abarrotes,Café y Sucedáneos
 820611,Galleta Club Social Integral 216 gr,Abarrotes,Galletas
+820634,PAN 2166 ABRIDOR SACACORCHO COLOR NEGRO 16.4X6.1X6.1 X3.6CM,Bazar Importación,Cocina General
 821014,Encendedor Bic,Bazar,Articulos de Cocina
 821077,Estilete,Bazar,Librería
 821078,ALED PISTOLA SILICONA .30,Bazar,Ferretería
+821181,PAN 9824 BOMBONERA COLOR TRANSPARENTE 15X9 5CM,Bazar Importación,Menaje Vidrio/Cristal
 821186,PAN 5650 PROTECTOR PARA MESA 60 PULGADAS,Bazar Importación,Cocina General
 821205,PAN 9669 ALFOMBRA PARA BANO COLOR BLANCO 28X28CM,Bazar Importación,Baño General
 821224,Huesos Guau Nutrigua 8 un,Bazar,Mascotas General
@@ -25707,6 +25761,7 @@ id_producto,producto,categoria,subcategoria
 826133,20144/624 SARTEN-CON TAPA- 24 CM PARIS,Bazar,Articulos de Cocina
 826134,20144/724 SARTEN - RECTA CON TAPA -24CM,Bazar,Articulos de Cocina
 826135,Tetera Guinda 1.9 L,Bazar,Articulos de Cocina
+826137,20051/022 ASADERA RECTANGULAR HONDA 22CM,Bazar,Articulos de Cocina
 826138,Sarten Tornillero Doble 24 cm,Bazar,Articulos de Cocina
 826142,63800/602 PINZA GARRA MEDIANA,Bazar,Articulos de Cocina
 826143,Pelador de Papas Rojo,Bazar,Articulos de Cocina
@@ -26176,6 +26231,7 @@ id_producto,producto,categoria,subcategoria
 842229,Gomita Play Banana 55 gr,Abarrotes,Golosinas - Varias
 842291,JUEGO CHURRASCO 3 PZS C/PINZA PEQUENO 22,Bazar,Churrasquería
 842300,Biberon Duo Pack 9 oz,Bazar,Articulos de Bebé
+842383,CH J71 77 MOLDE RECTANGULAR PARA 12 CUP CAKES 33X22X1 8CM,Bazar Importación,Cocina General
 842466,Juego de Cuchillos Plenus Blanco 8 un,Bazar,Articulos de Cocina
 842486,JUEGO CUBIERTOS 24PZAS MALIBU NEGRO,Bazar,Articulos de Cocina
 842499,JUEGO UTENSILIOS 5PZAS ABILITY NEGRO,Bazar,Articulos de Cocina
@@ -26204,7 +26260,7 @@ id_producto,producto,categoria,subcategoria
 843492,PAN 4282 MACETERO 12CM,Bazar Importación,Jardineria General
 843514,Reloj de Pared,Bazar Importación,Living y Dormitorio
 843608,PAN.3402 BANDEJA D/SERVIR 36X27X5CM-GRANDE,Bazar Importación,Menaje Metálico
-843635,PAN 7487 MOLDES  CUPCAKE  C ACC  11CM,Bazar Importación,Ropa Dama/Junior
+843635,PAN 7487 MOLDES  CUPCAKE  C ACC  11CM,Bazar Importación,Cotillón
 843636,PAN 7486 MOLDES CUPKAKE C ACC 11CM,Bazar Importación,Cotillón
 843637,PAN.4111 CORTADORES D/GALLETAS 6PZS,Bazar Importación,Cocina General
 843813,"CH.Y34-3 CUCHILLOS COLOR CAFE CON NEGRO, SET*6 PZAS",Bazar Importación,Cocina General
@@ -27836,6 +27892,7 @@ id_producto,producto,categoria,subcategoria
 865116,Porta Celular Carnaval,Bazar,Temporada Carnaval
 865189,Huevos Yemita Amarilla 12 un,Lácteos y Derivados,Huevos
 865194,Papa McCain Congelada Smiles 600 gr,Congelados,Masas y Comidas Congeladas
+865210,CA SET DE DESTAPADOR EN BOTELLA 98,Bazar,Regalos/Adornos
 865223,Pan Molde Integral Belen Avena Azucar 600 gr,Panadería,Panadería Externa
 865238,Pan Molde Integral Belen Zanahoria 550 g,Panadería,Panadería Externa
 865243,Pan Molde Integral Belen Uvas Pasas 550 gr,Panadería,Panadería Externa
@@ -27973,6 +28030,7 @@ id_producto,producto,categoria,subcategoria
 868465,CH 203 RECIPIENTE PARA PAN AZUCAR Y CAFE SET X3PZAS,Bazar Importación,Cocina General
 868467,CH 209 G RECIPIENTE PARA PAN AZUCAR Y CAFE SET X3PZAS,Bazar Importación,Cocina General
 868469,CH 32 1 PLACA DE DECORACION SIMPLY LIVE 20X10CM,Bazar Importación,Regalos/Adornos
+868472,CH 32 6 PLACA DE DECORACION C ABRIDOR DE BOTELLA,Bazar Importación,Regalos/Adornos
 868475,CH 32 9 PLACA DE DECORACION HOME BLANCO 27X16CM,Bazar Importación,Regalos/Adornos
 868483,CH 32 8 2 PLACA DE DECORACION C ABRIDOR DE BOTELLA 30X10CM,Bazar Importación,Regalos/Adornos
 868486,CH W5 26 BANDEJA RECTANGULAR DE CERAMICA 22X15X5CM,Bazar Importación,Menaje Porcelana/Cerámica
@@ -28227,6 +28285,7 @@ id_producto,producto,categoria,subcategoria
 877730,Collar para Mascota de Cuerina 2,Bazar,Mascotas General
 877830,Set 6 Copas Windsor Agua,Bazar,Menaje Vidrio/Cristal
 877939,Ponchillos Impermeable,Bazar,Camping General
+878011,ESPATULAS MANTEQUILLERAS 6 PZAS COLOR,Bazar,Articulos de Cocina
 878018,Pulverizador,Bazar,Bijouteria/Cuidado Personal
 878068,Vasos Termico 240 ml 25 u,Bazar,Cotillón
 878069,Vasos Termicos Reciclables 120 ml,Bazar,Cotillón
@@ -28263,6 +28322,7 @@ id_producto,producto,categoria,subcategoria
 879227,Miel de Abeja Del Bosque Chiquitano 300 gr,Abarrotes,"Mermel, Mieles"
 879232,Miel de Abeja Del Bosque Tropical 500 gr,Abarrotes,"Mermel, Mieles"
 879247,Miel de Abeja Del Bosque Tropical 300 gr,Abarrotes,"Mermel, Mieles"
+879250,PORTA PAN MOLDE SAN REMO  338,Bazar Importación,Menaje Plástico
 879253,PORTA TORTA MEDIANO 335/3 SAN REMO,Bazar Importación,Menaje Plástico
 879274,CA JUG.SET BIJITERIA DIDACTICA.62,Juguetería,Juguetería Niña/Bebé
 879280,POTE PLASTICO C/TAPA 140ML X25 COPOBRAS,Bazar,Cotillón
@@ -28549,6 +28609,7 @@ id_producto,producto,categoria,subcategoria
 893840,CUCHILLO MANGO DE MADERA TRAMONTINA,Bazar,Articulos de Cocina
 893842,HACHITA MANGO DE MADERA TRAMONTINA,Bazar,Articulos de Cocina
 893848,JGO CUBIERTOS 24 PZAS NEW KOLOR,Bazar,Articulos de Cocina
+893864,JGO 6 ESPATULAS MANTEQUILLA,Bazar,Articulos de Cocina
 893870,AFILADOR DE CUCHILLOS PROFIO,Bazar,Articulos de Cocina
 893889,HERVIDOR 14 CM PARIS,Bazar,Articulos de Cocina
 894386,PAN BATIDOR MANUAL 2PZAS 25.5 CM,Bazar Importación,Cocina General
@@ -28686,6 +28747,7 @@ id_producto,producto,categoria,subcategoria
 906781,Hoja Papel Bond Chamex Oficio 500 Hojas,Bazar,Librería
 906785,Hoja Papel Bond Chamex Carta 500 Hojas,Bazar,Librería
 906799,Copa Lisa Sodera,Bazar,Menaje Vidrio/Cristal
+906858,MOLDE P/HORNEAR 20057/024,Bazar,Articulos de Cocina
 906862,Sarten Tramontina con Tapa,Bazar,Articulos de Cocina
 906897,Set Cubiertos Tramontina Para Niños 4 un,Bazar,Articulos de Bebé
 906898,PAELLERA TRAMONTINA 20125/034,Bazar,Articulos de Cocina
