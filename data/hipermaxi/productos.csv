@@ -2137,6 +2137,7 @@ id_producto,producto,categoria,subcategoria
 26049,Te Frutte Diente de Leon 20 Sobres,Abarrotes,Café y Sucedáneos
 26050,Te Frutte Guanabana 20 Sobres,Abarrotes,Café y Sucedáneos
 26051,Vino Abra del Toro Tannat Gran Reserva 750 ml,Bebidas,Vinos y Champagne
+26052,Vino Abra de Toro Cabernet Sauvignon 750 ml,Bebidas,Vinos y Champagne
 26054,Vinagre Sakura Manzana Verde Premium 500 ml,Abarrotes,Básicos
 26055,Vinagre Sakura Manzana Roja Premium 500 ml,Abarrotes,Básicos
 26056,Gin Brighton London 700 ml,Bebidas,Licores
@@ -3612,8 +3613,8 @@ id_producto,producto,categoria,subcategoria
 47189,Esparragos Goya Verde 11.6 oz,Abarrotes,Verduras en Conserva
 47391,"Filtro  N4, 30 Un - Melitta",Bazar,Articulos de Cocina
 47392,Whisky Chivas Regal 1 L,Bebidas,Licores
-47397,Filtro Para Cafe Melitta 103 30 un,Bazar,Articulos de Cocina
-47398,Filtro Para Cafe Melitta 102 30 un,Bazar,Articulos de Cocina
+47397,Filtro Para Cafe Melitta 103 30 un,Abarrotes,Café y Sucedáneos
+47398,Filtro Para Cafe Melitta 102 30 un,Abarrotes,Café y Sucedáneos
 47457,Whisky Grants S Tubo con Vaso 1 L,Bebidas,Licores
 47678,Whisky Old Parr 1 L,Bebidas,Licores
 48526,Polvo de Hornear Fleischmann 1 kg,Abarrotes,Repostería
@@ -16516,6 +16517,7 @@ id_producto,producto,categoria,subcategoria
 553819,Vino Tinto St Giorgio Toscana 750 ml,Bebidas,Vinos y Champagne
 553820,Vino Tinto St Giorgio Chianti Reserva 750 ml,Bebidas,Vinos y Champagne
 553822,Vino St Giorgio Chianti Aniversario Tinto 750 ml,Bebidas,Vinos y Champagne
+553832,VINO ESP LAMBRUSCO AMABILE 750 ML,Bebidas,Vinos y Champagne
 553835,Vino Espumante Masottina Prosecco Brut 750 ml,Bebidas,Vinos y Champagne
 553839,PACK 2VINOS KOHLBERG 2 3 CJA,Bebidas,Vinos y Champagne
 553840,Pack 2 Vinos Kohlberg Fundador 700 ml,Bebidas,Vinos y Champagne
@@ -16550,6 +16552,7 @@ id_producto,producto,categoria,subcategoria
 553876,CIGARRILLO MARBORO CRAFTED 20UND,Bebidas,Cigarrillos
 553878,BEBIDA SAVIA ALOE VERA ZERO FRUTILLA 500,Bebidas,Bebidas Varias
 553879,BEBIDA SAVIA ALOE VERA ZERO MANGO 500 ML,Bebidas,Bebidas Varias
+553880,TE PARIS GOLD CLASICO 20 SOB,Abarrotes,Café y Sucedáneos
 553882,CERVEZA BURGUESA 47 LTA 473 ML,Bebidas,Cervezas
 553884,GALLETA BON O BON TORTITAS 90 GR,Abarrotes,Galletas
 553885,GALLETA BON O BON OBLEAS105 GR,Abarrotes,Galletas
@@ -16569,10 +16572,14 @@ id_producto,producto,categoria,subcategoria
 553908,CEREAL POST HONEY BUNCHES STAWB 16.5 OZ,Abarrotes,Productos Americanos
 553909,PACK 2 VINOS ROSADOS KOHLBERG,Bebidas,Vinos y Champagne
 553963,Vino Aranjuez Sweet Rose Dulce 750 ml,Bebidas,Vinos y Champagne
+554000,SINGANI PARASCOCHA 750 ML,Bebidas,Licores
+554001,VINO PARASCOCHA CABERNET SAUVIG 750ML,Bebidas,Vinos y Champagne
 554003,CARTERITA LA FRANCESA LUI FRANCAISE 110,Abarrotes,Galletas
 554004,SNACK DR PICKS NACHOS PIZZA 56 GR,Abarrotes,Snack
 554008,ALMENDRAS MENDRA C MIEL 120 GR,Abarrotes,Snack
 554009,ALMENDRAS MENDRA PAPRIKA 120 GR,Abarrotes,Snack
+554011,VINO TINTO TRIVARIETAL PARASCOCHA 750 ML,Bebidas,Vinos y Champagne
+554012,VINO PARASCOCHA BIVAR CANERNET SYRAH 750,Bebidas,Vinos y Champagne
 554014,CEREAL LA ORURENA AVENA 500 GR,Abarrotes,Nutrición Infantil
 554333,Cerveza Paceña Lata Roja 473 Cc,Bebidas,Cervezas
 554466,Detergente Liquido Ola Futuro Limpieza Completa 5 L,Cuidado del Hogar,Limpieza de la Ropa
@@ -19534,6 +19541,7 @@ id_producto,producto,categoria,subcategoria
 660252,PASTILLA INODORO BRISTAR LAVANDA 40 GR,Cuidado del Hogar,Limpieza de Baños
 660253,TOALLA MULTIUSO FINESSE X 3,Cuidado del Hogar,Limpieza de Cocina
 660254,BIPACK HUGGIES ACTIVE SEC M 2X68,Cuidado del Bebé,Pañales
+660256,REFILES FRESH AIR CHERRY BLOSSOM,Cuidado del Hogar,Limpieza de Living y Ropero
 660258,VASELINE LOCION ALOE FRESH 400ML,Cuidado Personal,Cuidado de la Piel
 660259,VASELINE LOCION DEEP MOISTURE 400ML,Cuidado Personal,Cuidado de la Piel
 660260,VASELINE LOCION DEEP MOISTURE 600ML,Cuidado Personal,Cuidado de la Piel
@@ -19557,6 +19565,8 @@ id_producto,producto,categoria,subcategoria
 660290,VASELINE BALS LIP THERAPY ALOE VERA 4.8G,Cuidado Personal,Cuidado de la Piel
 660292,SEDAL ACO TOQUE DE SEDA 250ML,Cuidado Personal,Cuidado del Cabello
 660309,PAPEL HOBLE HOJA CLIN 250 UNI,Cuidado Personal,Cuidado Familiar
+660311,ESCOBA CICLON MANGO MADERA TODO UTIL,Cuidado del Hogar,Accesorios del Hogar
+660312,ESCOBA TORNADO MANGO MADERA TODO UTIL,Cuidado del Hogar,Accesorios del Hogar
 660548,Cafe Copacabana Exportado Tostado 250 gr,Abarrotes,Café y Sucedáneos
 660711,Galleta Noel Octagonal Surtida 260 gr,Abarrotes,Temporada
 660852,Te Frutte Laxte 20 Sobres,Abarrotes,Café y Sucedáneos
@@ -21882,6 +21892,8 @@ id_producto,producto,categoria,subcategoria
 672755,Hamburguesa Prosana Lenteja Hierbas Aromaticas,Congelados,Carnes Congeladas
 672756,BEBIDA LACTEA POWER FRUTT SABOR MANZANA KREAM 180ML,Lácteos y Derivados,Leches
 672757,BEBIDA LACTEA POWER FRUTT SABOR DURAZNO KREAM 200ML,Lácteos y Derivados,Leches
+672758,REQUESON CULINARIO TIPO CHEDDAR LA HOLANDESA 400GRS,Lácteos y Derivados,Quesos
+672759,REQUESON CULINARIO TIPO MUZZARELLA LA HOLANDESA 400GR,Lácteos y Derivados,Quesos
 672760,Queso Cheddar La Riviera a Granel,Lácteos y Derivados,Quesos
 672762,Queso Mozzarella La Riviera Laminado,Lácteos y Derivados,Quesos
 672763,Queso Mozzarella La Riviera A Granel kg,Lácteos y Derivados,Quesos
@@ -22548,6 +22560,8 @@ id_producto,producto,categoria,subcategoria
 674168,Salchicha Haas Frankfurt Extra Larga 8 un,Fiambres,Temporada San Juan Externos
 674169,Papa Corte Rustica Simplot 2 kg,Congelados,Masas y Comidas Congeladas
 674173,Salchicha Cielo Tipo Frankfurt 750 gr,Fiambres,Fiambres Externos
+674175,Mini Salchicha Cielo Frankfurt 10 un,Fiambres,Fiambres Externos
+674176,SALCHICHA CIELO TIPO VIENA SAN JUANCHO XL 10UNI,Fiambres,Fiambres Externos
 674177,Salchicha Hadoquera Ahumada XXL Al Vacio kg,Fiambres,Fiambres Externos
 674178,Papa McCain Noisette Congelada 600 gr,Congelados,Masas y Comidas Congeladas
 674180,Pan Blanco Bauducco 390 gr,Panadería,Panadería Externa
@@ -23912,6 +23926,7 @@ id_producto,producto,categoria,subcategoria
 741387,Requeson Culinario Tipo Muzzarella La Holandesa 400 gr,Lácteos y Derivados,Quesos
 741563,Queso Cheddar Laminado La Holandesa 250 gr,Lácteos y Derivados,Quesos
 741587,Pulpa Congelada Natural Guayaba 230 gr,Congelados,Pulpas y Frutas Congeladas
+741614,EMPANADAS DE QUESO CONG.COSAS RICAS 5 UND.,Congelados,Masas y Comidas Congeladas
 741693,Requeson Culinario Tipo Cheddar La Holandesa 400 gr,Lácteos y Derivados,Quesos
 742345,Queso Provolone Aji Parrillero El Avila 250 gr,Lácteos y Derivados,Quesos
 742580,Pan de Sesamo Tostado Dulce Hogar 600 gr,Panadería,Panadería Externa
@@ -24067,7 +24082,7 @@ id_producto,producto,categoria,subcategoria
 762613,Yogurt San Javier Coco Light 200 ml,Lácteos y Derivados,Yogures
 762635,Yogurt Light San Javier Durazno 200 ml,Lácteos y Derivados,Yogures
 762636,Chorizo Churrasquero Sofia a Granel kg,Fiambres,Fiambres Externos
-762714,RICOTA MALLON 500 GRS.,Lácteos y Derivados,Quesos
+762714,Ricota Mallon 500 gr,Lácteos y Derivados,Quesos
 762746,Yogurt San Javier Light Maracuya 850 ml,Lácteos y Derivados,Yogures
 762754,Yogurt Bebible Friedland Artesanal Chirimoya 2 L,Lácteos y Derivados,Yogures
 762813,Queso Muzzarella Laminado Mallon 150 gr,Lácteos y Derivados,Quesos
@@ -26127,15 +26142,18 @@ id_producto,producto,categoria,subcategoria
 835405,Grueso de Azotillo kg,Carnes,Carne de Res
 835410,Jiba 1 kg,Carnes,Carne de Res
 835414,Queperi Especial kg,Carnes,Carne de Res
+835427,LPZ CADERA ESPECIAL 1KG,Carnes,Carne de Res
 835430,Pecho 1 kg,Carnes,Carne de Res
 835435,Cuadrada Especial kg,Carnes,Carne de Res
 835439,Cuadril Especial kg,Carnes,Carne de Res
 835445,Pollerita con Hueso 1 kg,Carnes,Carne de Res
 835450,Punta de Paleta 1 kg,Carnes,Carne de Res
+835451,Peceto Especial kg,Carnes,Carne de Res
 835455,Pollerita Pura Carne Especial kg,Carnes,Carne de Res
 835465,Keperi kg,Carnes,Carne de Res
 835468,Filete Especial / Lomito kg,Carnes,Carne de Res
 835470,Rapi kg,Carnes,Carne de Res
+835490,Tortuguita kg,Carnes,Carne de Res
 835509,Chuleta de Lomo kg,Carnes,Carne de Res
 835514,Osobuco 1 kg,Carnes,Carne de Res
 835529,Pollerita Sin Hueso kg,Carnes,Carne de Res
@@ -26157,6 +26175,7 @@ id_producto,producto,categoria,subcategoria
 835721,Disfraz Halloween Surtido,Bazar Importación,Temporada Halloween
 835722,Copa Halloween 4 Colores 18x9 cm,Bazar Importación,Temporada Halloween
 835730,CH N25 16 ADORNO ARANA SET X 2 10X6CM,Bazar Importación,Temporada Halloween
+835732,CARNE PARA GUISO 1 KG,Carnes,Carne de Res
 835737,CH N25 3 BALDE CALABAZA HALLOWEEN 18X12CM,Bazar Importación,Temporada Halloween
 835750,TORTUGUITA 1KG AL VACIO,Carnes,Carne de Res
 835751,TIRA DE RES 1KG A/V,Carnes,Carne de Res
@@ -28296,6 +28315,7 @@ id_producto,producto,categoria,subcategoria
 867864,Album Mundial Panini FIFA 2026,Bazar,Temporadas Restantes
 867898,Pack Limones Amarillos 25 un,Frutas y Verduras,Frutas
 867987,Papas Congeladas Tradicional Simplot  700 gr,Congelados,Masas y Comidas Congeladas
+867992,CP PAPA GOURMET 1 UND,Frutas y Verduras,Verduras
 868190,VESTON SHAMPOO LV MANO 500ML,Bazar,Automotriz
 868191,VESTON LIMPIA PARA BRISA 1LT,Bazar,Automotriz
 868192,VESTON LIMPIA PARA BRISAS 4LT,Bazar,Automotriz
