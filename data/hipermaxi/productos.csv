@@ -4639,8 +4639,7 @@ id_producto,producto,categoria,subcategoria
 104252,Arroz Gaviota Premium 5 kg,Abarrotes,Básicos
 104253,Arroz Grano Real 5 kg,Abarrotes,Básicos
 104260,Edulcorante  Equal Sucralosa 50 un,Abarrotes,Dietéticos y Saludables
-104261,"Edulcorante  Equal Sucralosa 100 un
-",Abarrotes,Dietéticos y Saludables
+104261,Edulcorante  Equal Sucralosa 100 un,Abarrotes,Dietéticos y Saludables
 104262,Edulcorante  Sucaryl Sucralosa 180 ml,Abarrotes,Dietéticos y Saludables
 104263,Edulcorante  Equal Sucralosa 500 un,Abarrotes,Dietéticos y Saludables
 104414,Bebida Ice 51 Balde Metalico 10 un,Bebidas,Licores
@@ -7194,6 +7193,7 @@ id_producto,producto,categoria,subcategoria
 204487,Arroz Cocinero Popular 1 kg,Abarrotes,Básicos
 204549,Cafe Chiriguano Instantaneo 200 gr,Abarrotes,Café y Sucedáneos
 204550,Cafe Chiriguano Instantaneo 50 gr,Abarrotes,Café y Sucedáneos
+204577,CERVEZA CONTI LTA ROJA 269 ML,Bebidas,Cervezas
 204580,Refresco Arcor Naranja 18 gr,Bebidas,Refrescos en Polvo
 204728,Cereal Chocolike Almohaditas 200 gr,Abarrotes,Nutrición Infantil
 204761,Esencia de Vainilla Miki 1 L,Abarrotes,Repostería
@@ -9174,6 +9174,8 @@ id_producto,producto,categoria,subcategoria
 231742,LIMPIA PISO TODO BRILLO PLUS REPELENTE 5,Cuidado del Hogar,Limpieza de Baños
 231743,LIMPIA PISO TODO BRILLO PLUS MASCOTA 5 L,Cuidado del Hogar,Limpieza de Baños
 231744,LIMPIAPISO TODOBRILLO PLUS LANANDA CREMA,Cuidado del Hogar,Limpieza de Baños
+231748,PAPEL FINESSE ULTRA 8X6,Cuidado Personal,Cuidado Familiar
+231749,PAPEL FINESSE ULTRA 4X12,Cuidado Personal,Cuidado Familiar
 231765,SUAVIZANTE DULCES SUEÑOS TODO BRILLO PLU,Cuidado del Hogar,Limpieza de la Ropa
 231890,Sardina Ramirez Aceite Vegetal 125 gr,Abarrotes,Comidas en Conserva
 231913,Sorrentinos Olive Jamon Queso 1500 gr,Congelados,Masas y Comidas Congeladas
@@ -16387,7 +16389,7 @@ id_producto,producto,categoria,subcategoria
 553658,Te Ceylan SuLana 20 Sobres,Abarrotes,Café y Sucedáneos
 553659,Te Ceylan Mix Surtido 100 Sobres,Abarrotes,Café y Sucedáneos
 553660,API INSTANTANEO DON TEO VASO 40 GR,Abarrotes,Repostería
-553661,ARROZ CON LECHE INST VASO 40 GR,Abarrotes,Repostería
+553661,ARROZ C LECHE DON TEO INSTANT VASO 40G,Abarrotes,Repostería
 553662,PAELLA DE QUINUA DON TEO VASO 40 GR,Abarrotes,Básicos
 553663,BARRA CEREAL BOCATO QUIN AMAR CANAH CHOC,Abarrotes,Nutrición Infantil
 553664,BARRA CREAL BOCATO SEMILLAS 360 GR,Abarrotes,Nutrición Infantil
@@ -16553,6 +16555,7 @@ id_producto,producto,categoria,subcategoria
 553878,BEBIDA SAVIA ALOE VERA ZERO FRUTILLA 500,Bebidas,Bebidas Varias
 553879,BEBIDA SAVIA ALOE VERA ZERO MANGO 500 ML,Bebidas,Bebidas Varias
 553880,TE PARIS GOLD CLASICO 20 SOB,Abarrotes,Café y Sucedáneos
+553881,TE PARIS GOLD CLASICO 50 SOB,Abarrotes,Café y Sucedáneos
 553882,CERVEZA BURGUESA 47 LTA 473 ML,Bebidas,Cervezas
 553884,GALLETA BON O BON TORTITAS 90 GR,Abarrotes,Galletas
 553885,GALLETA BON O BON OBLEAS105 GR,Abarrotes,Galletas
@@ -17879,6 +17882,7 @@ id_producto,producto,categoria,subcategoria
 636302,BRIGADEIRO HIPERMAXI BANDEJA X 6 UND,Pastelería y Masas Típicas,Pastelería Hipermaxi
 636368,Leche Kream con Avena 120 ml,Lácteos y Derivados,Leches
 637079,Frutilla 1 kg,Frutas y Verduras,Frutas
+637147,Papa Gourmet un,Frutas y Verduras,Verduras
 637184,Guineo Criollo 1 Kg,Frutas y Verduras,Frutas
 637290,Kiwi kg,Frutas y Verduras,Frutas
 637320,Lima 1 kg,Frutas y Verduras,Frutas
@@ -19560,6 +19564,7 @@ id_producto,producto,categoria,subcategoria
 660277,PACK OB 1CEP 7 BENEF CARB+1 PASTA CUID B,Cuidado Personal,Cuidado Bucal
 660278,PACK OB 1CEP SENT CARB+1PASTA 3D WHITE 6,Cuidado Personal,Cuidado Bucal
 660279,PACK OB 1CEP LIMP PROF+1PASTA 3D WHITE 7,Cuidado Personal,Cuidado Bucal
+660287,VASELINE PROTECTING JELLY ORIGINAL 50ML,Cuidado Personal,Cuidado de la Piel
 660288,VASELINE PROTECTING JELLY ORIGINAL 100ML,Cuidado Personal,Cuidado de la Piel
 660289,VASELINE® PROTECTING JELLY ORIGINAL 250M,Cuidado Personal,Cuidado de la Piel
 660290,VASELINE BALS LIP THERAPY ALOE VERA 4.8G,Cuidado Personal,Cuidado de la Piel
@@ -19567,6 +19572,7 @@ id_producto,producto,categoria,subcategoria
 660309,PAPEL HOBLE HOJA CLIN 250 UNI,Cuidado Personal,Cuidado Familiar
 660311,ESCOBA CICLON MANGO MADERA TODO UTIL,Cuidado del Hogar,Accesorios del Hogar
 660312,ESCOBA TORNADO MANGO MADERA TODO UTIL,Cuidado del Hogar,Accesorios del Hogar
+660315,HOGAR  CELULOSA DH 1X12,Cuidado Personal,Cuidado Familiar
 660548,Cafe Copacabana Exportado Tostado 250 gr,Abarrotes,Café y Sucedáneos
 660711,Galleta Noel Octagonal Surtida 260 gr,Abarrotes,Temporada
 660852,Te Frutte Laxte 20 Sobres,Abarrotes,Café y Sucedáneos
@@ -22751,6 +22757,7 @@ id_producto,producto,categoria,subcategoria
 674406,Chorizo Parrillero Pio Rico Tradicional Sachet,Fiambres,Fiambres Externos
 674407,Chorizo Parrillero Pio Rico Ahumado Sachet,Fiambres,Fiambres Externos
 674408,Enrrollado Pio Rico Sachet,Fiambres,Fiambres Externos
+674409,Jamon Pio Rico Sachet,Fiambres,Fiambres Externos
 674410,Mortadela con Jamon Pio Rico Sachet,Fiambres,Fiambres Externos
 674411,Mortadela con Pepinillo Pio Rico Sachet,Fiambres,Fiambres Externos
 674412,Mortadela Primavera Pio Rico Sachet,Fiambres,Fiambres Externos
@@ -23068,6 +23075,7 @@ id_producto,producto,categoria,subcategoria
 674888,LECHE DE AVENA EBA 140ML,Lácteos y Derivados,Leches
 674896,TIRA ESPECIAL FRIDOSA AL VACIO KGR,Carnes,Carnes al Vacio Externas
 674913,HUEVO SOFIA MAPLE 30 C,Lácteos y Derivados,Huevos
+674922,PIERNA MUSLO POLLO SOFIA CONGELADO BOLSA 2KGR,Congelados,Carnes Congeladas
 675245,Miel de Abeja Eva Promiel 250 gr,Abarrotes,"Mermel, Mieles"
 676113,Habanito Bits Cream Coojies Cream 120 gr,Congelados,"Helados, Cassattas y Picoleses"
 676115,HABANITO BITS CREAM DULCE DE LECHE 120GRS,Congelados,"Helados, Cassattas y Picoleses"
@@ -25318,6 +25326,8 @@ id_producto,producto,categoria,subcategoria
 807436,CH 2 17 CACEROLA CON TAPA TERRACOTA 21X18X8 4CM,Bazar Importación,Menaje Porcelana/Cerámica
 807438,CH 2 19 TAZA COLORES Y DISENOS SURTIDOS 350ML,Bazar Importación,Menaje Porcelana/Cerámica
 807442,CH 2 25 TAZA DISENO VERDE DORADO Y GRIS 350ML,Bazar Importación,Menaje Porcelana/Cerámica
+807446,CH 45 6 BANDEJA DE PAPEL ALUMINIO 44 5X34 5X8CM,Bazar Importación,Cocina General
+807447,CH 45 7 BANDEJA DE PAPEL ALUMINIO 46 8X34X8 5CM,Bazar Importación,Cocina General
 807452,CH 6 10 CUCHARON NEGRO CON MANGO DE MADERA 31CM,Bazar Importación,Cocina General
 807453,CH 6 12 ESPATULA NEGRA CON MANGO DE MADERA 34CM,Bazar Importación,Cocina General
 807456,CH 6 14 ESPUMADERA NEGRA CON MANGO DE MADERA 34CM,Bazar Importación,Cocina General
@@ -25482,6 +25492,8 @@ id_producto,producto,categoria,subcategoria
 809917,CH 23 15 MAGNETICO BUHO 6 5X4 5CM,Bazar Importación,Regalos/Adornos
 809927,CH 29 3 TABLA PARA CORTAR ALIMENTOS SET X6PZAS 38X28CM,Bazar Importación,Churrasquería
 809928,CH 29 12 VAJILLA PARA NINAS SET X5PZAS GLOBO,Bazar Importación,Artículos para Bebé
+809929,CH 29 13 VAJILLA MAPACHE PARA NINOS SET X5PZAS,Bazar Importación,Artículos para Bebé
+809930,CH 29 14 VAJILLA PRINCESA PARA NINAS SET X5PZAS,Bazar Importación,Artículos para Bebé
 809949,BR AZUCARERO PLASTICO SANREMO 350ML,Bazar Importación,Cocina General
 809978,BR PORTA DETERGENTE PLASTICO SANREMO,Bazar Importación,Menaje Plástico
 809980,BR JUEGO TAZA MEDIDORA PLASTICO SANREMO,Bazar Importación,Menaje Plástico
@@ -28315,7 +28327,7 @@ id_producto,producto,categoria,subcategoria
 867864,Album Mundial Panini FIFA 2026,Bazar,Temporadas Restantes
 867898,Pack Limones Amarillos 25 un,Frutas y Verduras,Frutas
 867987,Papas Congeladas Tradicional Simplot  700 gr,Congelados,Masas y Comidas Congeladas
-867992,CP PAPA GOURMET 1 UND,Frutas y Verduras,Verduras
+867992,Papa Gourmet un,Frutas y Verduras,Verduras
 868190,VESTON SHAMPOO LV MANO 500ML,Bazar,Automotriz
 868191,VESTON LIMPIA PARA BRISA 1LT,Bazar,Automotriz
 868192,VESTON LIMPIA PARA BRISAS 4LT,Bazar,Automotriz
@@ -29475,6 +29487,7 @@ id_producto,producto,categoria,subcategoria
 941041,Lentejuelas,Bazar,Bijouteria/Cuidado Personal
 941113,Soplador de Carbon Tramontina,Bazar,Churrasquería
 941551,Molde Estañado Ilko Redondo,Bazar,Articulos de Cocina
+941555,TERMO SKY POLIMES 1.25LT,Bazar,Camping General
 942359,Cepillo Foramen Junior Suave 1 un,Cuidado Personal,Cuidado Bucal
 945966,PAN  SET DE ESPATULA 3 PZAS,Bazar Importación,Cocina General
 946161,PAN 3634 BOTELLA P VINO 11PULG,Bazar Importación,Menaje Vidrio/Cristal
