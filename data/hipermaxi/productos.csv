@@ -7367,6 +7367,7 @@ id_producto,producto,categoria,subcategoria
 210030,CERVEZA CORONA CERO BOT 330ML,Bebidas,Cervezas
 210031,ACEITUNA NUCETE RELL LIMON FCO 330G,Abarrotes,Verduras en Conserva
 210032,ACEITUNA NUCETE VERDE SIN CAROZ DP 220G,Abarrotes,Verduras en Conserva
+210034,TWO PACK ISOTONICO SANTE 2X1LT,Bebidas,Isotónicos
 210035,MALVAVISCO BUFFYS TWISTER FRUTAL 450G,Abarrotes,Chocolates y Caramelos
 210036,MALVAVISCO BUFFYS CORAZON FRESA 450G,Abarrotes,Chocolates y Caramelos
 210037,MALVAVISCO BUFFYS TRADICIONAL BCO 450G,Abarrotes,Chocolates y Caramelos
@@ -7377,6 +7378,7 @@ id_producto,producto,categoria,subcategoria
 210042,MALVAVISCO BUFFYS TRADICIONAL BCO 125G,Abarrotes,Chocolates y Caramelos
 210043,MALVAVISCO BUFFYS CORAZON FRESA 125G,Abarrotes,Chocolates y Caramelos
 210044,WAKA CREATOR DISPOSITIVO UND,Bebidas,Cigarrillos
+210055,SAN BITTER PALMENIA 1LT,Bebidas,Licores
 210100,Mani Alimentarte con Uvas 360 gr,Abarrotes,Snack
 210153,Salsa Soya Cepera 1.01 L,Abarrotes,Condimentos y Legumbres
 210157,Salsa Soya Cepera 500 ml,Abarrotes,Condimentos y Legumbres
@@ -7401,6 +7403,9 @@ id_producto,producto,categoria,subcategoria
 211004,ACEITUNA NEGRA NUCETE ENTERA DP 220G,Abarrotes,Verduras en Conserva
 211005,ACEITUNA NUCETE VERDE RELL AJO FCO 330G,Abarrotes,Verduras en Conserva
 211006,ACEITUNA NUCETE VERDE RELL CEBOLLA 330G,Abarrotes,Verduras en Conserva
+211012,GALLETA BON BON BEIJINHO 76G,Abarrotes,Galletas
+211013,GALLETA BON O BON ORIGINAL 76G,Abarrotes,Galletas
+211014,GALLETA BON O BON PISTACHE 76G,Abarrotes,Galletas
 211016,Secador Piso Master Doble Goma Plus 30 cm,Cuidado del Hogar,Accesorios del Hogar
 211017,Pala Basura Aseo Cruz Grande Max,Cuidado del Hogar,Accesorios del Hogar
 211338,Te Negro Chapare 100 gr,Abarrotes,Café y Sucedáneos
@@ -9196,11 +9201,17 @@ id_producto,producto,categoria,subcategoria
 231707,LIMPIA METAL SILVO 2200 ML,Cuidado del Hogar,Productos Americanos
 231708,NAFTALINA KLOVOL LAVANDA 200,Cuidado del Hogar,Productos Americanos
 231709,CREMA NIVEA REAFIRMANTE 400 ML,Cuidado del Hogar,Productos Americanos
+231710,LABIAL VOGUE RES ESTELAR,Cuidado Personal,Cuidado de la Piel
 231715,PACK BROCHA MAQUILLAJE + LABIAL VINYL IN,Cuidado Personal,Cuidado de la Piel
 231716,PACK CEPILLO NATURAL FIBER + ELVIVE ÓLEO,Cuidado Personal,Cuidado de la Piel
+231717,LABIAL TEDDY TINT BUFFED OUT,Cuidado Personal,Cuidado de la Piel
+231721,LABIAL VOGUE DESTELLO ESPLENDIDA,Cuidado Personal,Cuidado de la Piel
 231722,CREMA NIVEA HIDRATACION EXP 400 ML,Cuidado del Hogar,Productos Americanos
 231724,TRIPACK TOALLA HUMEDA MI BEBE 3X96 UDS,Cuidado del Bebé,Cuidado del Bebé
 231727,LABIAL NIVEA MORA 4.8 GR,Cuidado del Hogar,Productos Americanos
+231728,CORRECTOR AGE REWIND VERDE TONO 1,Cuidado Personal,Cuidado de la Piel
+231730,CORRECTOR INSTANT AGE REWIND NARANJA TON,Cuidado Personal,Cuidado de la Piel
+231735,LABIAL VOGUE RESIST FUGAZ,Cuidado Personal,Cuidado de la Piel
 231736,DETERG LIQ TODOBRILLO PLUS QUITA MANCHA,Cuidado del Hogar,Limpieza de la Ropa
 231737,DETERG LIQ TODOBRILLO PLUS BEBE DP 900 ML,Cuidado del Hogar,Limpieza de la Ropa
 231740,LIMPIA PISO TODO BRILLO PLUS LAVANDA 5 L,Cuidado del Hogar,Limpieza de Baños
@@ -11962,7 +11973,11 @@ id_producto,producto,categoria,subcategoria
 371307,Colonia Procao Macho 120 ml,Bazar,Mascotas General
 371328,Siliconao Pote Su G Crecuentre  G,Bazar,Automotriz
 371405,Silicona Liquida Armorall New Car 295 ml,Bazar,Automotriz
+371420,CA JUGUETE SET DE DINOSAURIOS DE BS 55,Juguetería,Juguetería Niño/Bebé
 371421,CA JUEGO DE MESA WALL EN CAJA 110,Juguetería,Juguetería Didáctica/Temporada
+371439,CA JUGUETE MUNECA DE BS 76,Juguetería,Juguetería Niña/Bebé
+371442,CA JUGUETE AUTO A CONTROLE BS 95,Juguetería,Juguetería Niña/Bebé
+371448,CA JUGUETE SET AUTOS CAJA .60,Juguetería,Juguetería Niño/Bebé
 371470,Juguete Camion 3,Juguetería,Juguetería Niño/Bebé
 372085,Hoja Papel Bond Report Oficio 500 Hojas,Bazar,Librería
 372106,Vaso Termico Good y Good,Bazar,Camping General
@@ -12000,9 +12015,11 @@ id_producto,producto,categoria,subcategoria
 372950,Vasos Desechable Belen 300 ml 100 un,Bazar,Cotillón
 372951,Plancha Facil Robin 500 ml,Cuidado del Hogar,Limpieza de la Ropa
 372976,Bolsa de Regalo 3,Bazar,Regalos/Adornos
+373016,CA SET AUTOS DE BS 50,Juguetería,Juguetería Niño/Bebé
 373020,Suavizante Ropa Cavallaro Clasico 4 L,Cuidado del Hogar,Limpieza de la Ropa
 373021,Suavizante Ropa Cavallaro Intenso 4 L,Cuidado del Hogar,Limpieza de la Ropa
 373030,CA JUGUETE MUNECA DE  BS 32,Juguetería,Juguetería Niña/Bebé
+373037,CA JUGUETE ACSESORIOS DE COCINA 70,Juguetería,Juguetería Niña/Bebé
 373062,Caja de Regalo Navidad,Bazar,Regalos/Adornos
 373467,Muñeca Barbie Playa Surtida,Juguetería Importación,Jugueteria Marcas
 373516,Maquina de Afeitar Bic Confort3 Aloe 1 un,Cuidado Personal,Cuidado de la Piel
@@ -12201,6 +12218,7 @@ id_producto,producto,categoria,subcategoria
 386073,Toallas Humeda Pompiglos Premium 60 un,Cuidado del Bebé,Cuidado del Bebé
 386081,Queso de Cerdo Hipermaxi kg,Fiambres,Fiambres Hipermaxi
 386090,Enrollado de Cerdo Hipermaxi a Granel kg,Fiambres,Fiambres Hipermaxi
+386528,USA MU¥ECA DE PLAYA  BARBIE,Juguetería Importación,Juguetería Niña/Bebé
 386600,Cerveza Corona Botella 355 ml,Bebidas,Cervezas
 386774,Panceta Ahumada Tocino De Cerdo Hipermaxi kg,Fiambres,Fiambres Hipermaxi
 386782,Lomito Ahumado Hipermaxi al Vacio kg,Fiambres,Fiambres Hipermaxi
@@ -12338,6 +12356,7 @@ id_producto,producto,categoria,subcategoria
 392421,Jabon Barra Harmony Fruity Lima 75 gr,Cuidado Personal,Cuidado de la Piel
 392430,Jabon Barra Harmony Fruity Manzana 75 gr,Cuidado Personal,Cuidado de la Piel
 392480,Paño Tek-Sor 62X43 cm,Cuidado del Hogar,Productos Americanos
+392510,CA.SET DIDACTICO DE BS.42,Bazar,Librería
 392880,Cepillo Dental Dr.Dent Hard Duro 2 un,Cuidado Personal,Cuidado Bucal
 393118,Desodorante Roll On Nivea Doble Efecto 50 ml,Cuidado Personal,Cuidado de la Piel
 393185,Chaque Del Valle de Quinua 97 gr,Abarrotes,Básicos
@@ -13436,6 +13455,8 @@ id_producto,producto,categoria,subcategoria
 465712,Aperitivo Dubonnet France 750 ml,Bebidas,Licores
 466365,Bloqueador Solar Lebron Sport Fps50 X 90 gr,Cuidado Personal,Cuidado de la Piel
 466474,Shampoo Anticaspa X 700 ml Carla Lorena,Cuidado Personal,Cuidado del Cabello
+466674,PACK ALAS TELA X8 + BNS NCOHES X8,Cuidado Personal,Cuidado Familiar
+466817,PANAL TENA ADULTO SLIP L 4X16 UNISEX,Cuidado Personal,Cuidado del Adulto
 467270,Bacon Chips A&M 200 gr,Abarrotes,Snack
 467278,Cheezitos A&M Bacon 50 gr,Abarrotes,Snack
 467324,Pañal Adulto Plenitud Practipañal Multiuso 10 un,Cuidado Personal,Cuidado del Adulto
@@ -19540,7 +19561,7 @@ id_producto,producto,categoria,subcategoria
 660065,"Salsa De Cecco Rustica Polposa 673 gr
 ",Abarrotes,Productos Importados
 660066,Salsa De Cecco Tomate Polpa Fine 400 gr,Abarrotes,Productos Importados
-660067,Salsa De Cecco Tomate Pomodori Pelati 400 gr,Abarrotes,Productos Importados
+660067,Tomates Enteros Pelados de Cecco Pomodori 400 gr,Abarrotes,Productos Importados
 660068,Fideo De Cecco Capellini 500 gr,Abarrotes,Productos Importados
 660069,Fideo De Cecco Spaguetti Sin Gluten 400 gr,Abarrotes,Productos Importados
 660070,Fideo De Cecco Penne Rigate Sin Gluten 400 gr,Abarrotes,Productos Importados
@@ -19647,6 +19668,7 @@ id_producto,producto,categoria,subcategoria
 660312,ESCOBA TORNADO MANGO MADERA TODO UTIL,Cuidado del Hogar,Accesorios del Hogar
 660315,HOGAR  CELULOSA DH 1X12,Cuidado Personal,Cuidado Familiar
 660321,BIPACK KLEENEX CAJA 2X80 HOJAS,Cuidado Personal,Cuidado Familiar
+660322,JABON INTIMO NOSOTRAS ESENCIAL 200ML,Cuidado Personal,Cuidado del Adulto
 660548,Cafe Copacabana Exportado Tostado 250 gr,Abarrotes,Café y Sucedáneos
 660711,Galleta Noel Octagonal Surtida 260 gr,Abarrotes,Temporada
 660852,Te Frutte Laxte 20 Sobres,Abarrotes,Café y Sucedáneos
@@ -22204,7 +22226,7 @@ id_producto,producto,categoria,subcategoria
 673346,Tiras de Filetes Grillados de Pollo Sofia 170 gr,Fiambres,Fiambres Externos
 673347,Desmechado de Cerdo Sofia Barbacoa 170 gr,Fiambres,Fiambres Externos
 673352,Queso Rallado Fino San Mateo 40 gr,Lácteos y Derivados,Quesos
-673353,HELADO CASSATTA EDICION ESPECIAL DELIZIA 1LT,Congelados,"Helados, Cassattas y Picoleses"
+673353,Helado Delizia Cassata Edicion Especial 1 L,Congelados,"Helados, Cassattas y Picoleses"
 673361,Paleta de Oreo Bits Cream 115 gr,Congelados,"Helados, Cassattas y Picoleses"
 673362,Paleta de Maracuya Chocolate Bits Cream 115 gr,Congelados,"Helados, Cassattas y Picoleses"
 673363,Paleta de Nutella Bits Cream 115 gr,Congelados,"Helados, Cassattas y Picoleses"
@@ -25691,12 +25713,19 @@ id_producto,producto,categoria,subcategoria
 816328,CH 7 12 POSA VASOS SET X6PZAS CON BASE DE BAMBU,Bazar Importación,Cocina General
 816334,CH 36 3 SET DE ASEO PERSONAL X6PZAS EN ENVASE DE BAMBU,Bazar Importación,Baño General
 816356,Maletin de Manicure,Juguetería,Juguetería Niña/Bebé
+816361,DISE¥O BRAZALETES COLORIDOS,Juguetería,Juguetería Niña/Bebé
+816362,MI COLECCION JOYAS AMOR,Juguetería,Juguetería Niña/Bebé
 816363,Muñeca Barbie de Playa,Juguetería,Juguetería Niña/Bebé
+816365,BRB BARBIE DE PLAYA,Juguetería,Juguetería Niña/Bebé
+816367,BRB BARBIE PRINCESA BASICA,Juguetería,Juguetería Niña/Bebé
 816368,Muñeca Barbie Basica,Juguetería,Juguetería Niña/Bebé
+816369,BEBE CHARLATANA,Juguetería,Juguetería Niña/Bebé
+816371,SET DISENO MALETIN BRAZALETES,Juguetería,Juguetería Niña/Bebé
 816376,JGO PHASE 10,Juguetería,Juguetería Didáctica/Temporada
 816377,Vehiculo Hot Wheels RC,Juguetería,Juguetería Niño/Bebé
 816379,Vehiculo Hot Wheels Control Remoto,Juguetería,Juguetería Niño/Bebé
 816384,SET PINTURA HORA DEL TE ESPACIAL,Juguetería,Juguetería Didáctica/Temporada
+816385,ROMP 3 EN 1 GRANJA AVENTURA,Juguetería,Juguetería Didáctica/Temporada
 816387,PISTA OCTO BLASTER,Juguetería,Juguetería Niño/Bebé
 816388,PISTA VENGANZA ESCORPION,Juguetería,Juguetería Niño/Bebé
 816419,Tempero Zaeli Completo con Pimienta 300 gr,Abarrotes,Condimentos y Legumbres
@@ -25791,11 +25820,19 @@ id_producto,producto,categoria,subcategoria
 816990,CH 13 186 SET DE HERRAMIENTAS X9 PZAS AMARILLO 22X1 8CM,Bazar Importación,Ferretería
 816992,CH 13 214 PEINE DE DIENTES DELGADOS  CON MANGO C BLANCO 23X5,Bazar Importación,Bijouteria/Cuidado Personal
 817070,CH 2148 JUGUETE BLOQUES PARA ARMAR CAMION DE BOMBEROS 362PZA,Juguetería Importación,Juguetería Didáctica/Temporada
+817072,CH 2805 JUGUETE BLOQUES PARA ARMAR CAMPAMENTO 594PZAS,Juguetería Importación,Juguetería Didáctica/Temporada
 817073,CH 2811 JUGUETE BLOQUES PARA ARMAR CASA GRANDE 758PZAS,Juguetería Importación,Juguetería Didáctica/Temporada
+817076,CH 22 4 JUGUETE BLOQUES PARA ARMAR HELIC.PTERO 164PZAS,Juguetería Importación,Juguetería Didáctica/Temporada
 817079,CH 3061 JUGUETE BLOQUES PARA ARMAR TIENDAS 648PZAS 4 EN 1,Juguetería Importación,Juguetería Didáctica/Temporada
+817082,CH 1908 JUGUETE BLOQUES PARA ARMAR YATE 350 PZAS 3 EN 1,Juguetería Importación,Juguetería Didáctica/Temporada
+817088,CH 3273 JUGUETE BLOQUES PARA ARMAR CASTILLO 346PZAS,Juguetería Importación,Juguetería Didáctica/Temporada
+817092,CH 3430 JUGUETE BLOQUES PARA ARMAR COCHE DE CARRERAS NEGRO,Juguetería Importación,Juguetería Didáctica/Temporada
 817095,CH 3462 JUGUETE BLOQUES PARA ARMAR COCHE DE CARRERAS Y ACCES,Juguetería Importación,Juguetería Didáctica/Temporada
 817272,CH 4214 JUGUETE BLOQUES PARA ARMAR LOCOMOTORA 246 PZAS,Juguetería Importación,Juguetería Didáctica/Temporada
+817291,CH 4421 JUGUETE BLOQUES PARA ARMAR NAVE ESPACIAL 404 PZAS,Juguetería Importación,Juguetería Didáctica/Temporada
+817293,CH 4549 JUGUETE BLOQUES PARA ARMAR VEHICULO TIPO JEEP CON AC,Juguetería Importación,Juguetería Didáctica/Temporada
 817301,CH 4588 JUGUETE BLOQUES PARA ARMAR ESCENARIO DE ACTUACION 32,Juguetería Importación,Juguetería Didáctica/Temporada
+817306,CH 7003 JUGUETE BLOQUES PARA ARMAR YATE MILITAR 167 PZAS,Juguetería Importación,Juguetería Didáctica/Temporada
 817309,CH 211S CUCHARA SOPERA LISA SET X6PZAS,Bazar Importación,Cocina General
 817351,CH 136 BOWL CON DISENO DE MANDALAS AZUL Y AMARILLO 15X5CM,Bazar Importación,Menaje Porcelana/Cerámica
 817352,CH 137 BOWL CON DISENO DE MANDALAS AZUL Y AMARILLO,Bazar Importación,Menaje Porcelana/Cerámica
@@ -26198,6 +26235,7 @@ id_producto,producto,categoria,subcategoria
 831660,MIR CORNETA GRANDE .13,Bazar,Temporadas Restantes
 831674,Cesto Handy Rey 78,Cuidado del Hogar,Accesorios del Hogar
 831681,Couscous Roland 100% Natural 500 gr,Abarrotes,Productos Americanos
+831742,CA JUG SET DE CAMION 90,Juguetería,Juguetería Niño/Bebé
 831790,Caramelo Kidsmania Dubble Bubble Machine 40 gr,Abarrotes,Productos Americanos
 831804,Resaltador,Bazar,Librería
 831854,Cereal Kelloggs Special Red Berries 43 oz,Abarrotes,Productos Americanos
@@ -26408,6 +26446,7 @@ id_producto,producto,categoria,subcategoria
 838694,CH 42 6 AURICULARES PA048 COLOR SURTIDO,Bazar Importación,Computadoras/Camaras/Filma y  Accesorio
 838696,CH 42 8 AURICULARES HI COLOR SURTIDO,Bazar Importación,Computadoras/Camaras/Filma y  Accesorio
 838700,CH 42 9 AURICULARES EV197 COLOR SURTIDO,Bazar Importación,Computadoras/Camaras/Filma y  Accesorio
+838737,CA JUGUETE AUTO A CONTRO BS 160,Juguetería,Juguetería Niño/Bebé
 838763,CH S 55 AURICULARES INALAMBRICOS,Bazar Importación,Computadoras/Camaras/Filma y  Accesorio
 838767,Alfombra para Exterior 35x58 cm Surtido,Bazar Importación,Living y Dormitorio
 838772,CH 25 10 ALFOMBRA WELCOME DE COLORES 38X58CM,Bazar Importación,Living y Dormitorio
@@ -27163,7 +27202,10 @@ id_producto,producto,categoria,subcategoria
 852077,Arbol De Navidad 60 cm,Bazar Importación,Temporada Navidad
 852084,Margarina Reyna 410 gr,Lácteos y Derivados,Mantequillas y Margarinas
 852089,Arbol de Navidad 60 cm,Bazar Importación,Temporada Navidad
+852091,CA JUG SET DE PLAYA DE BS 140,Juguetería,Juguetería Didáctica/Temporada
+852097,CA JUGUETE SET DE CAMION BS 165,Juguetería,Juguetería Niño/Bebé
 852099,Margarina Reyna 215 gr,Lácteos y Derivados,Mantequillas y Margarinas
+852111,CA JUG SET COCINA BS 85,Juguetería,Juguetería Niña/Bebé
 852165,JUEGO MESA 4 EN 1  BOLIVMAR,Juguetería,Juguetería Didáctica/Temporada
 852173,Margarina Reyna Valle 850 gr,Lácteos y Derivados,Mantequillas y Margarinas
 852184,CA MUNECA EN CAJA 198,Juguetería,Juguetería Niña/Bebé
@@ -27184,6 +27226,7 @@ id_producto,producto,categoria,subcategoria
 852431,Juguete Camion con Pala Animales 5 pz,Juguetería Importación,Juguetería Didáctica/Temporada
 852432,Muñeca con Vestido,Juguetería Importación,Juguetería Niña/Bebé
 852437,Juguete Muñeca Bebe con Biberon,Juguetería Importación,Juguetería Niño/Bebé
+852441,CH 20 76 JUGUETE MUNECA CON VESTIDO MORADO,Juguetería Importación,Juguetería Niña/Bebé
 852453,Juguete Pistola Electrica,Juguetería Importación,Juguetería Niño/Bebé
 852482,Mascara Halloween Calabaza 25 cm,Bazar Importación,Temporada Halloween
 852483,CH 24 6 MASCARA HALLOWEEN TAMANO 26CM,Bazar Importación,Temporada Halloween
@@ -27254,6 +27297,8 @@ id_producto,producto,categoria,subcategoria
 853022,VEHICULO DE CARRERA RC HOT WHEELS,Juguetería,Juguetería Niño/Bebé
 853032,Caramelo Menthoplus Strong 30.6 gr,Abarrotes,Golosinas - Varias
 853038,Matchbox Auto Pullback,Juguetería,Juguetería Niño/Bebé
+853041,DISENO BRAZALETES BARBIE,Juguetería,Juguetería Niña/Bebé
+853043,DISENO BRAZALETES BARBIE,Juguetería,Juguetería Niña/Bebé
 853052,Caramelo Arcor Rodajas Crazy 465 gr,Abarrotes,Chocolates y Caramelos
 853054,Pistola X Shot Dino Attack Hunter,Juguetería,Juguetería Niño/Bebé
 853096,Hervidor Briara 1.7 L,Bazar,Electrodoméstico/Línea Blanca-Hogar
@@ -27300,6 +27345,9 @@ id_producto,producto,categoria,subcategoria
 853923,Salsa Soya LKK de Mesa 150 gr,Abarrotes,Condimentos y Legumbres
 853938,Salsa Soya LKK Lite 500 ml,Abarrotes,Condimentos y Legumbres
 853943,Salsa Picante Lkk Con Ajo Y Chile 368 Gr,Abarrotes,Aderezos
+853965,BRB BARBIE SIRENA BASICA,Juguetería,Juguetería Niña/Bebé
+853969,BRB BARBIE PRINCESA BASICA,Juguetería,Juguetería Niña/Bebé
+853971,BRB BARBIE ZAPATOS/CARTERA GLITZ,Juguetería,Juguetería Niña/Bebé
 854000,Arroz Caisy Japones 5 kg,Abarrotes,Básicos
 854035,Galleta Granix Sesamo con Hierro 185 gr,Abarrotes,Galletas
 854055,Galleta Granix Sesamo sin Sal 175 gr,Abarrotes,Galletas
@@ -27356,6 +27404,7 @@ id_producto,producto,categoria,subcategoria
 854484,Bloques Para Armar Vehiculo y Estacion de Policia,Juguetería Importación,Juguetería Didáctica/Temporada
 854487,Bloques Para Armar Vehiculo de Construccion,Juguetería Importación,Juguetería Didáctica/Temporada
 854493,Bloques Para Armar Comercios 8 Modelos,Juguetería Importación,Juguetería Didáctica/Temporada
+854548,METAL MACHINES-PISTA ROAD RAMPAGE,Juguetería,Juguetería Niño/Bebé
 854559,Juego Domino Doble,Juguetería,Juguetería Didáctica/Temporada
 854560,Nacho Mexican Food de Maiz 400 gr,Abarrotes,Snack
 854608,Auto Hot Wheels Luz y Sonido,Juguetería,Juguetería Niño/Bebé
@@ -27572,6 +27621,7 @@ id_producto,producto,categoria,subcategoria
 856465,"PAN 9256 FLOTADOR INFLABLE 36""",Bazar Importación,Temporada Verano
 856468,PAN 1011 FLOTADOR INFLABLE CHALECO CON HOMBRERAS P NINA,Bazar Importación,Temporada Verano
 856496,PAN 3012 PROTECTOR P LAVAPLATOS,Bazar Importación,Cocina General
+856513,PAN 4720 SONAJERO P BEBE 2PZAS 10 12CM,Bazar Importación,Artículos para Bebé
 856518,VESTON SILICONA GLACIAR ATOM 320 ML,Bazar,Automotriz
 856519,VESTON SILICONA FRESA ATOM 320 ML,Bazar,Automotriz
 856520,VESTON SILICONA UVA ATOM 320 ML,Bazar,Automotriz
@@ -28083,7 +28133,9 @@ id_producto,producto,categoria,subcategoria
 858661,Pilas Alcalinas Power Blister AA 4,Bazar,Ferretería
 858668,FMSA NENUCO BABY TALKS NUEVOS VESTIDOS,Juguetería,Juguetería Marcas
 858669,MUNECA NENUCO CON SONAJERO ROSADO 700014920,Juguetería,Juguetería Marcas
+858674,CAT-COCHE CONTRUCCION,Juguetería,Juguetería Niño/Bebé
 858676,Bebe Maggi,Juguetería,Juguetería Niña/Bebé
+858699,BARBIE SET HORA DEL TE,Juguetería,Juguetería Niña/Bebé
 858713,Juego de Mesa Ajedrez,Juguetería,Juguetería Didáctica/Temporada
 858715,Vinagre Castelo de Alcohol 750 ml,Abarrotes,Básicos
 858727,Juguete Habitacion Princesa Desarmado 47 pz,Juguetería Importación,Juguetería Niña/Bebé
@@ -28133,6 +28185,9 @@ id_producto,producto,categoria,subcategoria
 860233,Pie de Manzana Hipermaxi,Pastelería y Masas Típicas,Pastelería Hipermaxi
 860253,Alfajores de Maizena Hipermaxi 5 un,Pastelería y Masas Típicas,Pastelería Hipermaxi
 860256,Juguete Arco con Flechas Larga,Juguetería Importación,Juguetería Didáctica/Temporada
+860259,CH 41 6 JUGUETE SET MILITAR X9PZAS CON GRANADAS Y PISTOLAS,Juguetería Importación,Juguetería Niño/Bebé
+860260,CH 41 7 JUGUETE MILITARES SET X2PZAS MAS ACCESORIOS,Juguetería Importación,Juguetería Niño/Bebé
+860279,CH 41 25 JUGUETE SET DE COCINA X14 PZAS,Juguetería Importación,Juguetería Niña/Bebé
 860296,Juguete Bloques para Armar 76 pz,Juguetería Importación,Juguetería Didáctica/Temporada
 860297,Juguete Bloques para Armar 76 pz,Juguetería Importación,Juguetería Didáctica/Temporada
 860337,Huevos La Codorniz de Codorniz 50 un,Lácteos y Derivados,Huevos
@@ -28197,6 +28252,7 @@ id_producto,producto,categoria,subcategoria
 861369,Juego de Plastilina Molde para Tacos,Juguetería Importación,Juguetería Didáctica/Temporada
 861381,Juego Dentista Dino con Plastilina,Juguetería Importación,Juguetería Didáctica/Temporada
 861384,Juego de Mesa Serpiente Escalera,Juguetería Importación,Juguetería Didáctica/Temporada
+861386,CH 7 124 JUGUETE KIT MEDICO EN ESTUCHE DE PLASTICO B Y A,Juguetería Importación,Juguetería Didáctica/Temporada
 861389,CH 77 42 JUEGO DE MESA 16 EN 1,Juguetería Importación,Juguetería Didáctica/Temporada
 861397,Plato + Juguete Mascota 15,Bazar,Mascotas General
 861398,Plato + Juguete Mascota 20,Bazar,Mascotas General
@@ -28221,6 +28277,7 @@ id_producto,producto,categoria,subcategoria
 861655,JAN AGARRAPELO X 4    18,Bazar,Bijouteria/Cuidado Personal
 861656,JAN AGARRAPELO X2  9,Bazar,Bijouteria/Cuidado Personal
 861657,JAN VINCHAS DE NINA 12,Bazar,Bijouteria/Cuidado Personal
+861663,CA JUG MUNECA SURTIDA BS 115,Juguetería,Juguetería Niña/Bebé
 861680,JAN AGARRAPELO CBLISTER  14,Bazar,Bijouteria/Cuidado Personal
 861681,JAN  AGARRAPELO  X3 BLISTER 14,Bazar,Bijouteria/Cuidado Personal
 861744,Lapices Ecolapices Faber Castell Madera Negra Soft 100 Colores,Bazar,Librería
@@ -28614,6 +28671,7 @@ id_producto,producto,categoria,subcategoria
 869788,TEMPERA LAVABLE C/PINCEL X6 FABER CASTELL,Bazar,Librería
 869790,Paño Cocina 100% Algodón,Cuidado del Hogar,Productos Americanos
 869826,Cinta Embalaje Izy Trasparente,Bazar,Librería
+869839,CA JUGUETE CAMION GRANDE 240,Juguetería,Juguetería Niño/Bebé
 869840,Palitos de Bambu Churrasquero Fiat Lux,Bazar,Churrasquería
 869845,CH V4 14 JARRA DE VIDRIO CON TAPA TRANSPARENTE 1 4L,Bazar Importación,Menaje Vidrio/Cristal
 869881,Cuaderno Top Empastado Carta 200 Hojas,Bazar,Librería
@@ -28858,6 +28916,7 @@ id_producto,producto,categoria,subcategoria
 879247,Miel de Abeja Del Bosque Tropical 300 gr,Abarrotes,"Mermel, Mieles"
 879250,PORTA PAN MOLDE SAN REMO  338,Bazar Importación,Menaje Plástico
 879253,PORTA TORTA MEDIANO 335/3 SAN REMO,Bazar Importación,Menaje Plástico
+879269,CA JUGUETE ARCO Y FLECHA 78,Juguetería,Juguetería Niño/Bebé
 879274,CA JUG.SET BIJITERIA DIDACTICA.62,Juguetería,Juguetería Niña/Bebé
 879280,POTE PLASTICO C/TAPA 140ML X25 COPOBRAS,Bazar,Cotillón
 879283,POTE PLASTICO /CTAPA 500 ML X 25UND COPOBRAS,Bazar,Cotillón
@@ -28919,8 +28978,10 @@ id_producto,producto,categoria,subcategoria
 883092,TAPER FLOR SAN REMO 458ML,Bazar Importación,Menaje Plástico
 883093,BR TAPER CUAD PLASTICO SANREMO 280ML,Bazar Importación,Menaje Plástico
 883100,TAPER SAN REMO FACIL 1.7LT,Bazar Importación,Menaje Plástico
+883119,CA JUGUTE CAMION +ACCESORIOS 198,Juguetería,Juguetería Niño/Bebé
 883121,CA JUGUETE METRALLETA +ACCESORIOS 160,Juguetería,Juguetería Niño/Bebé
 883128,Juguete Telefono en Caja,Juguetería,Juguetería Didáctica/Temporada
+883131,CA JUG SET DE BELLEZA 54,Juguetería,Juguetería Niña/Bebé
 883147,Queso Cheddar San Javier kg,Lácteos y Derivados,Quesos
 883150,Bananero Chico,Bazar,Bolsos/Carteras/Maletas
 883151,Bananero Mediano,Bazar,Bolsos/Carteras/Maletas
@@ -29025,6 +29086,7 @@ id_producto,producto,categoria,subcategoria
 887472,Adorno Halloween Bruja Escoba,Bazar,Temporada Halloween
 887478,JAN ADORNO FANTASMA PAPEL 25,Bazar,Temporada Halloween
 887555,JAN GLOBO INFLABLE 2025 BS 20,Bazar,Temporada Halloween
+887562,CA JUGUETE MALETA SET BELLEZA.125,Juguetería,Juguetería Didáctica/Temporada
 887574,JAN VINCHAS HALLOWEN 25,Bazar,Temporada Halloween
 887580,JAN ADORNO MANO HALLOWEN C LUZ  20,Bazar,Temporada Halloween
 887584,JAN ADORNO FAROL HALLOWEN 14,Bazar,Temporada Halloween
@@ -29058,6 +29120,7 @@ id_producto,producto,categoria,subcategoria
 887967,Juguete Set de Cocina 2,Juguetería,Juguetería Niña/Bebé
 887969,Juguete Maleta con Accesorios,Juguetería,Juguetería Niña/Bebé
 887978,Juego de Mesa,Juguetería,Juguetería Didáctica/Temporada
+887999,CA JUG  DIDACTICO LEGO .170,Juguetería,Juguetería Didáctica/Temporada
 888162,Cuchillo Churrasquero Tramontina 9,Bazar,Churrasquería
 888259,CAR.JUEGO DE MESA.20,Juguetería,Juguetería Didáctica/Temporada
 888270,AMBIENTADOR WOMAN MADRI,Bazar,Automotriz
@@ -29074,8 +29137,11 @@ id_producto,producto,categoria,subcategoria
 889160,Pegamento Barra Uhu Stic 40 gr,Bazar,Librería
 889352,Sarten Plancha Tramontina Paris,Bazar,Articulos de Cocina
 889375,Juego Caja de Herramienta,Juguetería,Juguetería Niño/Bebé
+889383,CA AUTO CONTROL RECARGABLE .120,Juguetería,Juguetería Niño/Bebé
+889393,CA JUGUETE MUNECA .150,Juguetería,Juguetería Niña/Bebé
 889394,Juguete Muñeca Habladora,Juguetería,Juguetería Niña/Bebé
 889396,Juegute Muñeca Didactica,Juguetería,Juguetería Niña/Bebé
+889402,CA JUG SET DE ENRULADOR DE NINA BS 70,Juguetería,Juguetería Niña/Bebé
 889445,Trempera Acri Guache 250 ml,Bazar,Librería
 889471,BOL DIVERTY BLOCKS  SURTIDOS,Juguetería,Juguetería Didáctica/Temporada
 889519,Collar Hawaiano,Bazar,Temporadas Restantes
@@ -29365,6 +29431,7 @@ id_producto,producto,categoria,subcategoria
 913280,Juguete Muñeca,Juguetería,Juguetería Niña/Bebé
 913281,Muñeca,Juguetería,Juguetería Niña/Bebé
 913315,Juguete Maleta Didactica,Juguetería,Juguetería Didáctica/Temporada
+913333,CA JUG SET DE MILITAR BS 39,Juguetería,Juguetería Niño/Bebé
 913368,Xio Mascota Avena Procao 500 ml,Bazar,Cotillón
 913371,Globos Perla 20 un,Bazar,Cotillón
 913832,FRI LENTES DE NATACION 3 ANOS 32,Bazar,Temporada Verano
@@ -29525,6 +29592,8 @@ id_producto,producto,categoria,subcategoria
 925591,Cuaderno Espiral Carta 100 Hojas,Bazar,Librería
 925638,BR TAPER CUAD PLASTICO SANREMO 280ML,Bazar Importación,Menaje Plástico
 925651,"BR TAPER  RECTANGULAR PLASTICO SANREMO 1,26L",Bazar Importación,Menaje Plástico
+925749,CA JUGUETE CAMION PLASTICO .20,Juguetería,Juguetería Niño/Bebé
+925765,CA JUGUETE AUTO DE BS 30,Juguetería,Juguetería Niño/Bebé
 925969,Grapa,Bazar,Librería
 926104,Raticida Ratitane Cebo 100 gr,Cuidado del Hogar,Insecticidas
 926106,Espiral Titane Mata Mosquito 150 gr,Cuidado del Hogar,Insecticidas
@@ -29541,6 +29610,8 @@ id_producto,producto,categoria,subcategoria
 928346,FRI ESTUCHES ESCOLAR 39,Bazar,Librería
 928584,Pilas Duracell Alcalina AAA 6 un,Bazar,Ferretería
 928711,Muñeca Modelo Surtido,Juguetería,Juguetería Niña/Bebé
+928713,"CA MUñECA MODELO SURTIDO, CHANGFA",Juguetería,Juguetería Niña/Bebé
+928723,CA JUG SET COMBATE .49,Juguetería,Juguetería Niño/Bebé
 928970,Vaso de Cristal Vega Refresquero,Bazar,Menaje Vidrio/Cristal
 928971,Set 6 Vasos Vega Refresquero,Bazar,Menaje Vidrio/Cristal
 929022,Vela Festival 6 un,Bazar,Living y Dormitorio
@@ -29613,6 +29684,7 @@ id_producto,producto,categoria,subcategoria
 937850,Set Cepillo Condor Peine Para Bebe,Bazar,Bijouteria/Cuidado Personal
 937852,Pincel Brocha de Pintura Condor,Bazar,Bijouteria/Cuidado Personal
 937926,Adaptador Ancho,Bazar,Ferretería
+937952,CA JUG CAMION DE BS 50,Juguetería,Juguetería Niño/Bebé
 938317,CP CEPILLO DE CABELLO ELIANE 6853,Bazar,Bijouteria/Cuidado Personal
 938318,Cepillo de Cabello Katia Condor,Bazar,Bijouteria/Cuidado Personal
 938320,Cepillo de Cabello Condor Marlene,Bazar,Bijouteria/Cuidado Personal
@@ -29774,6 +29846,8 @@ id_producto,producto,categoria,subcategoria
 963523,Set Cuchillo New Tramontina Crema,Bazar,Articulos de Cocina
 963563,Muñeca,Juguetería,Juguetería Niña/Bebé
 963564,Muñeca,Juguetería,Juguetería Niña/Bebé
+963565,CA. MUNECA DE BS 28,Juguetería,Juguetería Niña/Bebé
+963572,CA.SET DE COCINA DE BS 28,Juguetería,Juguetería Niña/Bebé
 964764,Pyrex Nadir Rectangular Grande,Bazar,Menaje Vidrio/Cristal
 964780,VASO CILINDRO TRAGO LARGO UND,Bazar,Menaje Vidrio/Cristal
 964786,Taper Pirex Cuadrado con Tapa,Bazar,Menaje Vidrio/Cristal
@@ -29856,6 +29930,7 @@ id_producto,producto,categoria,subcategoria
 983710,Pelota Viniball Futbol Crakcito,Juguetería,Juguetería Niño/Bebé
 984161,Filtro Para Cafe Loekemeyer,Bazar,Articulos de Cocina
 984248,Ambientador Car Scents Lata 1.5 oz,Bazar,Automotriz
+984319,CA JUGUETE  MOTO DE 42,Juguetería,Juguetería Niño/Bebé
 984367,Soquete,Bazar,Ferretería
 984382,Soquete en Plato,Bazar,Ferretería
 984400,Tomatodo Sport Disney Surtida,Bazar,Articulos de Bebé
