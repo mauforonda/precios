@@ -3633,6 +3633,7 @@ id_producto,producto,categoria,subcategoria
 49085,Aceite Crisol Girasol 900 ml,Abarrotes,Básicos
 49220,Whisky Ballantines Finest Comun 1 L,Bebidas,Licores
 49646,Champagne Moet Y Chandon 750 ml,Bebidas,Vinos y Champagne
+49701,Caramelo Dori Hortela Rellena Menta 600 gr,Abarrotes,Chocolates y Caramelos
 49905,Tequila Jose Cuervo Blanco 750 ml,Bebidas,Licores
 50000,Pacay Paceño 1 kg,Frutas y Verduras,Frutas
 50005,Licor 3 Plumas Triple Sec 700 ml,Bebidas,Licores
@@ -7381,6 +7382,8 @@ id_producto,producto,categoria,subcategoria
 210042,MALVAVISCO BUFFYS TRADICIONAL BCO 125G,Abarrotes,Chocolates y Caramelos
 210043,MALVAVISCO BUFFYS CORAZON FRESA 125G,Abarrotes,Chocolates y Caramelos
 210044,WAKA CREATOR DISPOSITIVO UND,Bebidas,Cigarrillos
+210053,MASTICABLE DORI LUA CHEIA FRUTAS 500G,Abarrotes,Golosinas - Varias
+210054,CARAMELO DORI HORTELA MINT BSA 500G,Abarrotes,Chocolates y Caramelos
 210055,SAN BITTER PALMENIA 1LT,Bebidas,Licores
 210062,ENERGIZANTE RUSH MUNDIAL LTA 269ML,Bebidas,Energizantes
 210100,Mani Alimentarte con Uvas 360 gr,Abarrotes,Snack
@@ -7407,6 +7410,9 @@ id_producto,producto,categoria,subcategoria
 211004,ACEITUNA NEGRA NUCETE ENTERA DP 220G,Abarrotes,Verduras en Conserva
 211005,ACEITUNA NUCETE VERDE RELL AJO FCO 330G,Abarrotes,Verduras en Conserva
 211006,ACEITUNA NUCETE VERDE RELL CEBOLLA 330G,Abarrotes,Verduras en Conserva
+211007,GOMETS DOTI TUBO FRUTAS 96G,Abarrotes,Golosinas - Varias
+211008,GOMETS DORI TUBO CREMA FRUTA 96G,Abarrotes,Golosinas - Varias
+211010,RON KAYANA ORO 5A 1LT,Bebidas,Licores
 211012,GALLETA BON BON BEIJINHO 76G,Abarrotes,Galletas
 211013,GALLETA BON O BON ORIGINAL 76G,Abarrotes,Galletas
 211014,GALLETA BON O BON PISTACHE 76G,Abarrotes,Galletas
@@ -9241,6 +9247,7 @@ id_producto,producto,categoria,subcategoria
 231758,BODY SPLASH FARMAX PISTACHO 190ML,Cuidado Personal,Cuidado de la Piel
 231760,LIMPIAPISO MAXIBRILL LTRA PRIMAVERA 6 LTS,Cuidado del Hogar,Limpieza de Baños
 231765,SUAVIZANTE DULCES SUEÑOS TODO BRILLO PLU,Cuidado del Hogar,Limpieza de la Ropa
+231771,LIMPIA PISO MAXIBRILL ULTRA BOSQUE 6 LTS,Cuidado del Hogar,Limpieza de Baños
 231780,LIMPIA BANO MAXIBRILL RCGA 940 ML,Cuidado del Hogar,Limpieza de Baños
 231798,LIMPIA PISO TODOBRILLO PLUS ORG CREMA900,Cuidado del Hogar,Limpieza de Baños
 231799,LIMPIAPISO TODOBRILLO PLUS LAVANDA1800M,Cuidado del Hogar,Limpieza de Baños
@@ -10523,6 +10530,8 @@ id_producto,producto,categoria,subcategoria
 312299,WAFER TITA CAMARO CHOCOLATE 110G,Abarrotes,Galletas
 312300,WAFER TITA CAMARO FRUTILLA 110G,Abarrotes,Galletas
 312301,WAFER TITA CAMARO COCO 110G,Abarrotes,Galletas
+312302,MAIZ FRITO AVATI S BARBACOA 80G,Abarrotes,Snack
+312303,MAIZ FRITO AVATI C LIMON PICANTE 80G,Abarrotes,Snack
 312308,JUGO TAMPICO VEGI FRUT ROJOS PET 500ML,Bebidas,"Jugos, Néctar"
 312309,JUGO TAMPICO VEGI KIWI ESPINAC PET 500ML,Bebidas,"Jugos, Néctar"
 312311,"KETCHUP PREDILECTA PET 1,02KG",Abarrotes,Aderezos
@@ -10754,7 +10763,7 @@ id_producto,producto,categoria,subcategoria
 321454,ACEITE MAGIC TIME BUTTER SPRAY 5 OZ,Abarrotes,Básicos
 321455,Aceite Magic Time Avocado Spray 141 gr,Abarrotes,Básicos
 321456,Salsa de Tomate Famosa Tradicional 200 gr,Abarrotes,Salsas y Extracto de Tomate
-321462,APANADOR PANKO MISTURA ALFA 1KG,Abarrotes,Básicos
+321462,Apanador Panko Mistura Alfa 1 kg,Abarrotes,Básicos
 322101,Vino Casillero del Diablo Red Blend Reserva 750 ml,Bebidas,Vinos y Champagne
 322157,Cafe Colcafe Sello Rojo Molido 212 gr,Abarrotes,Café y Sucedáneos
 322237,Jugo V8 Splash Beey Blend 64 oz,Bebidas,Bebidas Usa
@@ -11880,6 +11889,8 @@ id_producto,producto,categoria,subcategoria
 363982,Tinte Issue Sin Amoniaco Tono 10.1 Rubio Claro Ceniza,Cuidado Personal,Cuidado del Cabello
 363983,Tinte Issue Sin Amoniaco Tono 8.83 Rubio Claro Chocolate,Cuidado Personal,Cuidado del Cabello
 363984,Tinte Issue Sin Amoniaco Tono 6.83 Rubio Oscuro Chocolate Dorado,Cuidado Personal,Cuidado del Cabello
+363985,Tinte Issue Sin Amoniaco Tono 6.32 Rubio Oscuro Dorado Perla,Cuidado Personal,Cuidado del Cabello
+363986,Tinte Issue Sin Amoniaco Tono 6.13 Rubio Oscuro Cenizo Dorado,Cuidado Personal,Cuidado del Cabello
 363988,Tinte Issue Sin Amoniaco Tono 8.3 Rubio Claro Dorado,Cuidado Personal,Cuidado del Cabello
 363989,Tinte Issue Sin Amoniaco Tono 7.3 Rubio Dorado,Cuidado Personal,Cuidado del Cabello
 363990,Tinte Issue sin Amoniaco Tono 1 Negro,Cuidado Personal,Cuidado del Cabello
@@ -15375,6 +15386,7 @@ id_producto,producto,categoria,subcategoria
 552144,Salsa Barbacoa Lamor Cerdo 350 gr,Abarrotes,Aderezos
 552145,Caramelo Oreo Cow Tales 3 oz,Abarrotes,Productos Americanos
 552146,Maple Grove Farms Sin Azucar 710 ml,Abarrotes,Productos Americanos
+552150,Pack 6 Cerveza Paceña 330 ml,Bebidas,Cervezas
 552152,Cerveza Paceña Roja 440 ml CBN,Bebidas,Cervezas
 552153,Pack 2 Cerveza Paceña 440 ml,Bebidas,Cervezas
 552155,Pack Cigarillos Bohem Sandia Speaker Wireless,Bebidas,Cigarrillos
@@ -23593,6 +23605,7 @@ id_producto,producto,categoria,subcategoria
 679028,Papa Frita Paypa Congelada Baston 10 Mm 2500 gr,Congelados,Masas y Comidas Congeladas
 679032,TORTA DE CHOCOLATE PEQUENA ROSA CRUZ,Pastelería y Masas Típicas,Pastelería Externa
 679034,TORTA DE MERENGUE PEQUENA ROSA CRUZ,Pastelería y Masas Típicas,Pastelería Externa
+679035,BRAZO DE GITANO PEQUENO ROSA CRUZ,Pastelería y Masas Típicas,Pastelería Externa
 679039,GALLETAS CHOCOLATE/VAINILLA ROSA CRUZ,Pastelería y Masas Típicas,Pastelería Externa
 679040,GALLETAS DE CHAMPAGNE ROSA CRUZ,Pastelería y Masas Típicas,Pastelería Externa
 679041,PLACAS DE MERENGUE ROSA CRUZ,Pastelería y Masas Típicas,Pastelería Externa
