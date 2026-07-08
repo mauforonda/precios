@@ -6883,6 +6883,7 @@ id_producto,producto,categoria,subcategoria
 169014,Acondicionador Vitane Rizos 400 ml,Cuidado Personal,Cuidado del Cabello
 169102,Paella El Unico Carmencita 5 un,Abarrotes,Productos Americanos
 169856,Pasta Dental Colgate Sensitive Pro Alivio 110 gr,Cuidado Personal,Cuidado Bucal
+170170,Paño Profi Azul Ojal,Cuidado del Hogar,Accesorios del Hogar
 170224,Vino Marques Casa Concha Chardonay 750 ml,Bebidas,Vinos y Champagne
 170232,Vino Marquez Casa Concha Cabernet Suavignon 750 ml,Bebidas,Vinos y Champagne
 170240,Dulce de Leche Granja de Oro 400 gr,Lácteos y Derivados,Dulces de Leche y Manjares
@@ -7371,6 +7372,7 @@ id_producto,producto,categoria,subcategoria
 210030,CERVEZA CORONA CERO BOT 330ML,Bebidas,Cervezas
 210031,ACEITUNA NUCETE RELL LIMON FCO 330G,Abarrotes,Verduras en Conserva
 210032,ACEITUNA NUCETE VERDE SIN CAROZ DP 220G,Abarrotes,Verduras en Conserva
+210033,BEBIDA FLOW GUARANA PET 1LT,Bebidas,Licores
 210034,TWO PACK ISOTONICO SANTE 2X1LT,Bebidas,Isotónicos
 210035,MALVAVISCO BUFFYS TWISTER FRUTAL 450G,Abarrotes,Chocolates y Caramelos
 210036,MALVAVISCO BUFFYS CORAZON FRESA 450G,Abarrotes,Chocolates y Caramelos
@@ -9221,6 +9223,7 @@ id_producto,producto,categoria,subcategoria
 231721,LABIAL VOGUE DESTELLO ESPLENDIDA,Cuidado Personal,Cuidado de la Piel
 231722,CREMA NIVEA HIDRATACION EXP 400 ML,Cuidado del Hogar,Productos Americanos
 231724,TRIPACK TOALLA HUMEDA MI BEBE 3X96 UDS,Cuidado del Bebé,Cuidado del Bebé
+231726,LABIAL NIVEA ORIGINAL7.7 GR,Cuidado del Hogar,Productos Americanos
 231727,LABIAL NIVEA MORA 4.8 GR,Cuidado del Hogar,Productos Americanos
 231728,CORRECTOR AGE REWIND VERDE TONO 1,Cuidado Personal,Cuidado de la Piel
 231730,CORRECTOR INSTANT AGE REWIND NARANJA TON,Cuidado Personal,Cuidado de la Piel
@@ -16703,6 +16706,7 @@ id_producto,producto,categoria,subcategoria
 554001,VINO PARASCOCHA CABERNET SAUVIG 750ML,Bebidas,Vinos y Champagne
 554003,CARTERITA LA FRANCESA LUI FRANCAISE 110,Abarrotes,Galletas
 554004,SNACK DR PICKS NACHOS PIZZA 56 GR,Abarrotes,Snack
+554006,CAFE AMAZONICO BLEND MOLIDO 250 GR,Abarrotes,Café y Sucedáneos
 554008,ALMENDRAS MENDRA C MIEL 120 GR,Abarrotes,Snack
 554009,ALMENDRAS MENDRA PAPRIKA 120 GR,Abarrotes,Snack
 554011,VINO TINTO TRIVARIETAL PARASCOCHA 750 ML,Bebidas,Vinos y Champagne
@@ -19716,6 +19720,7 @@ id_producto,producto,categoria,subcategoria
 660310,MOPA TRAPERO DE ALGODON 240 GRS TODO UTI,Cuidado del Hogar,Accesorios del Hogar
 660311,ESCOBA CICLON MANGO MADERA TODO UTIL,Cuidado del Hogar,Accesorios del Hogar
 660312,ESCOBA TORNADO MANGO MADERA TODO UTIL,Cuidado del Hogar,Accesorios del Hogar
+660313,MOPA TRAPERO DE ALGODÓN 160 GR TODO UTIL,Cuidado del Hogar,Accesorios del Hogar
 660314,BALDE CON ESCURRIDOR PAPELERA 15 LTS,Cuidado del Hogar,Accesorios del Hogar
 660315,HOGAR  CELULOSA DH 1X12,Cuidado Personal,Cuidado Familiar
 660321,BIPACK KLEENEX CAJA 2X80 HOJAS,Cuidado Personal,Cuidado Familiar
@@ -21400,6 +21405,9 @@ id_producto,producto,categoria,subcategoria
 670672,Grissin Bazali Avena Oliva 180 gr,Pastelería y Masas Típicas,Pastelería Externa
 670674,Grissin Bazali Hierba Oliva 180 gr,Pastelería y Masas Típicas,Pastelería Externa
 670675,Grissin Bazali Sesamo Oliva 180 gr,Pastelería y Masas Típicas,Pastelería Externa
+670694,HELADO DELIZIA PALETA GOOOL CREMA BLUEBERRY UNIDAD,Congelados,"Helados, Cassattas y Picoleses"
+670709,Cuñape Abizcochado Zelada 100 gr,Pastelería y Masas Típicas,Masas Típicas Externas
+670710,Cuñape Abizcochado Zelada 200 gr,Pastelería y Masas Típicas,Masas Típicas Externas
 670715,Mopa Profi Trapero Copa No.12,Cuidado del Hogar,Accesorios del Hogar
 670716,Mopa Profi Trapero Copa No.20,Cuidado del Hogar,Accesorios del Hogar
 670717,Mopa Profi Trapero Copa No.24,Cuidado del Hogar,Accesorios del Hogar
@@ -26400,7 +26408,7 @@ id_producto,producto,categoria,subcategoria
 835404,Punta de S Especial 1 kg,Carnes,Carne de Res
 835405,Grueso de Azotillo kg,Carnes,Carne de Res
 835410,Jiba 1 kg,Carnes,Carne de Res
-835414,Queperi Especial kg,Carnes,Carne de Res
+835414,Keperi Especial kg,Carnes,Carne de Res
 835423,Colita de Cuadril Especial kg,Carnes,Carne de Res
 835427,LPZ CADERA ESPECIAL 1KG,Carnes,Carne de Res
 835430,Pecho 1 kg,Carnes,Carne de Res
