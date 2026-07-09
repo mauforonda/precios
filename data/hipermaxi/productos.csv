@@ -2329,6 +2329,7 @@ id_producto,producto,categoria,subcategoria
 27078,Energizante Baly Sandia Lata 250 ml,Bebidas,Energizantes
 27079,Energizante Baly Champan 250 ml,Bebidas,Energizantes
 27080,Energizante Baly Frutos Tropical 250 ml,Bebidas,Energizantes
+27085,Vodka Miks Acai 275 ml,Bebidas,Licores
 27092,Café Ceylan Molido 50 gr,Abarrotes,Café y Sucedáneos
 27093,Café Ceylan Molido 250 gr,Abarrotes,Café y Sucedáneos
 27094,Café Ceylan Molido 500 gr,Abarrotes,Café y Sucedáneos
@@ -3822,7 +3823,7 @@ id_producto,producto,categoria,subcategoria
 69256,Fideo Carozzi Caracoquesos 296 gr,Abarrotes,Básicos
 69523,Cerveza Paceña Pilsener c/bv 620 cc,Bebidas,Cervezas
 69540,Cerveza Pilsener Ducal 350 ml,Bebidas,Cervezas
-69548,Bicervecina El Inca con Alcohol 620 cc,Bebidas,Bebidas Varias
+69548,Bicervecina El Inca con Alcohol 620 cc,Bebidas,MALTAS
 69719,Galleta Gullon Lijera Integral Sin Sal 200 gr,Abarrotes,Dietéticos y Saludables
 69730,Champagne Freixenet X Dulce 750 ml,Bebidas,Vinos y Champagne
 69790,Cerveza Paceña Pilsener 710 ml CBN,Bebidas,Cervezas
@@ -3870,7 +3871,7 @@ id_producto,producto,categoria,subcategoria
 73687,Protector Solar Sundown 30fps 120 ml,Cuidado Personal,Cuidado de la Piel
 74454,Trucha Entera Titikaka kg,Congelados,Carnes Congeladas
 74730,Porta Filtro N103 - Melitta,Bazar,Articulos de Cocina
-74941,Malta Real 350 ml,Bebidas,Bebidas Varias
+74941,Malta Real 350 ml,Bebidas,MALTAS
 75191,Cuba Libre Ron y Cola 350 ml,Bebidas,Licores
 75825,Whisky Johnnie Walker Black Label 1 L,Bebidas,Licores
 76015,Pollo Frial Entero Sofia kg,Carnes,Carne de Pollo
@@ -4550,7 +4551,7 @@ id_producto,producto,categoria,subcategoria
 102157,Edulcorante  Dulzero Clasico 600 ml,Abarrotes,Dietéticos y Saludables
 102160,Cerveza Judas 473 ml,Bebidas,Cervezas
 102161,Cerveza Autentica Original 473 ml,Bebidas,Cervezas
-102162,Trimalta Quinua 300 ml,Bebidas,Bebidas Varias
+102162,Trimalta Quinua 300 ml,Bebidas,MALTAS
 102163,Suavizante Ropa Bolivar 2.8 L,Cuidado del Hogar,Limpieza de la Ropa
 102165,Suavizante Ropa Bolivar 5 L,Cuidado del Hogar,Limpieza de la Ropa
 102167,Galleta La Suprema Ligera Sin Sal 100 gr,Abarrotes,Galletas
@@ -9251,6 +9252,7 @@ id_producto,producto,categoria,subcategoria
 231760,LIMPIAPISO MAXIBRILL LTRA PRIMAVERA 6 LTS,Cuidado del Hogar,Limpieza de Baños
 231765,SUAVIZANTE DULCES SUEÑOS TODO BRILLO PLU,Cuidado del Hogar,Limpieza de la Ropa
 231771,LIMPIA PISO MAXIBRILL ULTRA BOSQUE 6 LTS,Cuidado del Hogar,Limpieza de Baños
+231778,LIMPIA PISO MAXIBRILL ULTRA ALEGRA DIA 9,Cuidado del Hogar,Limpieza de Baños
 231780,LIMPIA BANO MAXIBRILL RCGA 940 ML,Cuidado del Hogar,Limpieza de Baños
 231798,LIMPIA PISO TODOBRILLO PLUS ORG CREMA900,Cuidado del Hogar,Limpieza de Baños
 231799,LIMPIAPISO TODOBRILLO PLUS LAVANDA1800M,Cuidado del Hogar,Limpieza de Baños
@@ -9282,7 +9284,14 @@ id_producto,producto,categoria,subcategoria
 231900,LIMPIAPISO TODOBRILLO PLUS CREMOSO 1800,Cuidado del Hogar,Limpieza de Baños
 231901,LIMPIAPISO TODOBRILLO PLUS CR LAVANDA 1.8 LT,Cuidado del Hogar,Limpieza de Baños
 231902,LIMPIAPISO TODOBRILLO PLUS LAVAND  900 M,Cuidado del Hogar,Limpieza de Baños
+231903,LIMPIAPISO TODOBRILO PLUS MASCOT 900 ML,Cuidado del Hogar,Limpieza de Baños
+231904,TRIPACK ESPONJAS SCOTH BRITE 3M,Cuidado del Hogar,Accesorios del Hogar
 231913,Sorrentinos Olive Jamon Queso 1500 gr,Congelados,Masas y Comidas Congeladas
+231927,JABON LIQ BALLERINA DP VAINILLA COCO 650,Cuidado Personal,Cuidado de la Piel
+231929,JABON LIQ BALLERINA DP HIPOALERGENICO 65,Cuidado Personal,Cuidado de la Piel
+231930,JABON LIQ BALLERINA DP AVENA ALMENDRA 65,Cuidado Personal,Cuidado de la Piel
+231931,LIMPIAPISO TODOBRILLO REPELENTE PLUS 1.8,Cuidado del Hogar,Limpieza de Baños
+231933,TRIPACK TOALLA HUMEDA MAMI 3X96 UNID,Cuidado del Bebé,Cuidado del Bebé
 232003,Bebida Ice 51 Balada 275 ml,Bebidas,Licores
 232006,Gaseosa Conti Guarana 350 ml,Bebidas,Gaseosas
 232007,Gaseosa Conti Cola 350 ml,Bebidas,Gaseosas
@@ -10485,6 +10494,7 @@ id_producto,producto,categoria,subcategoria
 312216,EDULCORANTE ENDULDIET PLUS 90G,Abarrotes,Dietéticos y Saludables
 312222,Mantequilla Mani Mr Nuts Tipo Dubai Sin Azucar 360 gr,Abarrotes,Repostería
 312225,PACK SOPAS NISSIN PAGA 4 LLEVA 5,Abarrotes,Básicos
+312226,VINO HERMANDAD MERLOT 750ML,Bebidas,Vinos y Champagne
 312227,VINO CATENA CABERNET FRANC APPELLAT 750M,Bebidas,Vinos y Champagne
 312230,Isotonico Sante Uva Zero 1 L,Bebidas,Isotónicos
 312232,VINO CONEJO VERDE ROSADO MALBEC 500ML,Bebidas,Vinos y Champagne
@@ -10715,7 +10725,7 @@ id_producto,producto,categoria,subcategoria
 321112,Chocolate Para Ti Amargo Sin Azucar 100 gr,Abarrotes,Chocolates y Caramelos
 321115,Chocolate Para Ti Dietetico Blanco 100 gr,Abarrotes,Chocolates y Caramelos
 321176,Salsa Brixy Barbecue 300 gr,Abarrotes,Aderezos
-321276,Maltita Potosina 355 ml,Bebidas,Bebidas Varias
+321276,Maltita Potosina 355 ml,Bebidas,MALTAS
 321339,Yerba Mate Colon Mixta Mix 500 gr,Abarrotes,Café y Sucedáneos
 321342,Alimento Raza Para Gatos Castrados 1 kg,Abarrotes,Mascotas
 321347,CHOCOL TABOADA FELICIDADES CJA NEGRA 200,Abarrotes,Chocolates y Caramelos
@@ -11477,6 +11487,7 @@ id_producto,producto,categoria,subcategoria
 350580,Ambientador Febreze Meadows Rain 250 gr,Cuidado del Hogar,Limpieza de Living y Ropero
 350601,Alcohol Desinfectante Rocio Spray 210 ml,Cuidado del Hogar,Limpieza de Baños
 350677,Paño Ober Maximo Ceniza Piso 60x50 cm,Cuidado del Hogar,Accesorios del Hogar
+350717,HILO DENTALCLEAN 50 MTS.,Cuidado Personal,Cuidado Bucal
 350750,Pañitos Intimos Nosotras Frescura Extrema 16 un,Cuidado Personal,Cuidado del Adulto
 350760,Jabon Intimo Nivea Cuidado Suave 250 ml,Cuidado Personal,Cuidado del Adulto
 350787,Salsa de Tomate Lazzaroni 200 gr,Abarrotes,Salsas y Extracto de Tomate
@@ -14261,6 +14272,7 @@ id_producto,producto,categoria,subcategoria
 543692,Cepillo Dental Dentalclean Basic Adulto Medio 3 un,Cuidado Personal,Cuidado Bucal
 543693,Cepillo Dental Dentalclean Basic Adult Soft 3 un,Cuidado Personal,Cuidado Bucal
 543694,Cepillo Dental Dentalclean Basic Infantil 2 un,Cuidado Personal,Cuidado Bucal
+543695,HILO DENTALCLEAN FLOSS 130 MTS.,Cuidado Personal,Cuidado Bucal
 543707,Cepillo Dental Dentalclean Marine Soft Tc-101,Cuidado Personal,Cuidado Bucal
 544115,Nacho Rancheritos Queso 750 gr,Abarrotes,Snack
 544310,Shampoo Simonds Vitamin 400 ml,Cuidado del Bebé,Cuidado del Bebé
@@ -15415,7 +15427,7 @@ id_producto,producto,categoria,subcategoria
 552222,Jugo Frutall Mandarina 1 L,Bebidas,"Jugos, Néctar"
 552223,Vape Umo Tropical Blast 8000 Puffs,Bebidas,Cigarrillos
 552225,Pack 6 Cerveza Paceña 440 ml,Bebidas,Cervezas
-552228,Maltin 440 ml CBN,Bebidas,Bebidas Varias
+552228,Maltin 440 ml CBN,Bebidas,MALTAS
 552229,Cheetos Frito Lay Cheddar 3.625 oz,Abarrotes,Productos Americanos
 552231,Cafe Vinut Negro 280 ml,Abarrotes,Productos Americanos
 552233,Cafe Vinut Mocha 280 ml,Abarrotes,Productos Americanos
@@ -16716,6 +16728,7 @@ id_producto,producto,categoria,subcategoria
 554021,MIX DE FRUTAS EBA LIOFILIZADAS  50 GR,Abarrotes,Frutas en Conserva
 554026,CEREAL EBA CAPIBARITOS CJA 300 GR,Abarrotes,Nutrición Infantil
 554027,CEREAL EBA CHOCOSITOS CAJA 300 G,Abarrotes,Nutrición Infantil
+554059,GALLETA RITZ CHEDDAR JALAPENO 180 GR,Abarrotes,Galletas
 554333,Cerveza Paceña Lata Roja 473 Cc,Bebidas,Cervezas
 554466,Detergente Liquido Ola Futuro Limpieza Completa 5 L,Cuidado del Hogar,Limpieza de la Ropa
 554468,Suavizante Ropa Ola Suavecito Original 5 L,Cuidado del Hogar,Limpieza de la Ropa
@@ -18164,7 +18177,7 @@ id_producto,producto,categoria,subcategoria
 647583,Pera Packham 1 kg,Frutas y Verduras,Frutas
 647758,Chocolate Funny Corazon 150 gr,Abarrotes,Chocolates y Caramelos
 647763,Chocolate Funny Rectangular 300 gr,Abarrotes,Chocolates y Caramelos
-647768,Chocolate Funny Varios 350 gr,Abarrotes,Chocolates y Caramelos
+647768,Chocolate Funny Varios 200 gr,Abarrotes,Chocolates y Caramelos
 647793,Chocolate Funny Redonda 500 gr,Abarrotes,Chocolates y Caramelos
 648100,Artichokes Forrelli 170 gr,Abarrotes,Verduras en Conserva
 648400,Vino Benjamin Nieto Caber Sauvignon 750 ml,Bebidas,Vinos y Champagne
@@ -18933,6 +18946,7 @@ id_producto,producto,categoria,subcategoria
 656273,Shampoo Carla Lorena Avena 700 ml,Cuidado Personal,Cuidado del Cabello
 656274,Shampoo Carla Lorena Avena 350 ml,Cuidado Personal,Cuidado del Cabello
 656275,Shampoo Carla Lorena Anticaspa 350 ml,Cuidado Personal,Cuidado del Cabello
+656288,PANO P/PISO BRILLEX PACK 3 UNI,Cuidado del Hogar,Accesorios del Hogar
 656294,Paño Alklin Piso Azul 60x90 cm,Cuidado del Hogar,Accesorios del Hogar
 656299,Pasta Dental Oral-B Frozen 75 ml,Cuidado Personal,Cuidado Bucal
 656309,Limpiador de Piso Bristar Cedron Cremoso 1.8 L,Cuidado del Hogar,Limpieza de Baños
@@ -19243,7 +19257,7 @@ id_producto,producto,categoria,subcategoria
 657686,Pudin Bio XXI Quinua Chocolate 96 gr,Abarrotes,Repostería
 657687,Harina Bio XXI Premezcla Panaderia 500 gr,Abarrotes,Repostería
 657688,Premezcla Reposteria Bio XXI 500 gr,Abarrotes,Repostería
-657690,Energizante Trimalta Autentica Quinua 350 ml,Bebidas,Bebidas Varias
+657690,Energizante Trimalta Autentica Quinua 350 ml,Bebidas,MALTAS
 657705,Galleta La Suprema Surtida Ula Ula 300 gr,Abarrotes,Galletas
 657725,Salsa BBQ Hunts Noney Mustard 510 gr,Abarrotes,Aderezos
 657758,Quinuavena Irupana 300 rg,Abarrotes,Nutrición Infantil
@@ -19533,7 +19547,7 @@ id_producto,producto,categoria,subcategoria
 658987,Tojori Miura 1 kg,Bebidas,Refrescos en Polvo
 658988,Lagua de Choclo Miura 200 gr,Bebidas,Refrescos en Polvo
 658989,Willcaparu Miura 1 kg,Bebidas,Refrescos en Polvo
-658992,Maltin Retornable 62 cc,Bebidas,Bebidas Varias
+658992,Maltin Retornable 62 cc,Bebidas,MALTAS
 658997,Sopa Instantanea Maruchan Gallina Vaso 64 gr,Abarrotes,Básicos
 659006,Mayonesa Kris Light 200 gr,Abarrotes,Aderezos
 659007,Extracto de Tomate Kris 140 gr,Abarrotes,Salsas y Extracto de Tomate
@@ -26799,6 +26813,7 @@ id_producto,producto,categoria,subcategoria
 844613,61229/000 JUEGO DE CUBIERTOS 4PZAS. INDI,Bazar,Articulos de Cocina
 844619,Cuchara para Helado,Bazar,Articulos de Cocina
 844620,Juego de Utensilios 5 pz,Bazar,Articulos de Cocina
+844621,66960/583 JG. P/ PASTEL 2PZAS. ESSENTIAL,Bazar,Articulos de Cocina
 844623,Olla a Presion Vancouver 4.5 L,Bazar,Articulos de Cocina
 844624,"20582/720 OLLA PRESION 4,5 LITROS VANCUV",Bazar,Articulos de Cocina
 844625,61229/160 POTE CUADRADO CON TAPA,Bazar,Menaje Metálico
