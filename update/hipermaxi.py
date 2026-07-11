@@ -6,7 +6,7 @@ import re
 import datetime as dt
 from pytz import timezone
 import os
-from time import time
+from time import sleep, time
 
 requests.packages.urllib3.disable_warnings()
 
@@ -19,6 +19,50 @@ sucursales_representativas = {
 hipermaxi = "data/hipermaxi"
 js = "static/js/main.c08b8086.js"
 TIMEOUT = 60
+JSON_RETRIES = 5
+RETRY_BACKOFF = 2
+
+
+def solicitarJson(sesion, metodo, url, **kwargs):
+    """Request JSON, retrying transient HTTP and invalid-response failures."""
+    ultimo_error = None
+    response = None
+    for intento in range(1, JSON_RETRIES + 1):
+        response = None
+        try:
+            response = sesion.request(metodo, url, **kwargs)
+            response.raise_for_status()
+            return response.json()
+        except (requests.RequestException, ValueError) as error:
+            ultimo_error = error
+            status = getattr(getattr(error, "response", None), "status_code", None)
+            if response is not None:
+                status = response.status_code
+                contenido = response.text[:200].replace("\n", " ")
+            else:
+                contenido = ""
+
+            # Client errors other than rate limiting are not transient.
+            if status is not None and 400 <= status < 500 and status != 429:
+                raise RuntimeError(
+                    f"Respuesta HTTP {status} de {response.url}: {contenido!r}"
+                ) from error
+
+            if intento == JSON_RETRIES:
+                break
+            espera = RETRY_BACKOFF ** (intento - 1)
+            print(
+                f"Respuesta inválida de {url} (estado={status}, intento "
+                f"{intento}/{JSON_RETRIES}); reintentando en {espera}s ..."
+            )
+            sleep(espera)
+
+    status = response.status_code if response is not None else None
+    contenido = response.text[:200].replace("\n", " ") if response is not None else ""
+    raise RuntimeError(
+        f"No se obtuvo JSON válido de {url} después de {JSON_RETRIES} intentos "
+        f"(estado={status}, contenido={contenido!r})"
+    ) from ultimo_error
 
 
 def construirHeaders():
@@ -107,14 +151,18 @@ def construirHeaders():
 
 def actualizarSucursales(sesion):
     def listarRegiones(sesion):
-        response = sesion.get(
+        data = solicitarJson(
+            sesion,
+            "GET",
             "https://hipermaxi.com/tienda-api/api/v1/markets/ciudades", timeout=TIMEOUT
         )
-        return {r["IdRegion"]: r["Nombre"] for r in response.json()["Dato"]}
+        return {r["IdRegion"]: r["Nombre"] for r in data["Dato"]}
 
     def listarSucursales(sesion):
         params = dict(IdMarket="0", IdTipoServicio="0")
-        response = sesion.get(
+        data = solicitarJson(
+            sesion,
+            "GET",
             "https://hipermaxi.com/tienda-api/api/v1/markets/activos",
             params=params,
             timeout=TIMEOUT,
@@ -128,7 +176,7 @@ def actualizarSucursales(sesion):
                         ["id_sucursal", "sucursal", "id_region"],
                     )
                 }
-                for sucursal in response.json()["Dato"]
+                for sucursal in data["Dato"]
             ]
         )
 
@@ -141,13 +189,15 @@ def actualizarSucursales(sesion):
 
 def consultarPrecios(sesion, sucursal):
     def consultarCategorias(sesion, sucursal):
-        response = sesion.get(
+        data = solicitarJson(
+            sesion,
+            "GET",
             "https://hipermaxi.com/tienda-api/api/v1/markets/clasificaciones",
             params=dict(IdMarket=sucursal, IdSucursal=sucursal),
             timeout=TIMEOUT,
         )
         categorias = []
-        for grupo in response.json()["Dato"]:
+        for grupo in data["Dato"]:
             for categoria in grupo["Categorias"]:
                 for subcategoria in categoria["SubCategorias"]:
                     categorias.append(
@@ -167,7 +217,9 @@ def consultarPrecios(sesion, sucursal):
         categoria_data = []
         pagina = 1
         while True:
-            response = sesion.get(
+            response_data = solicitarJson(
+                sesion,
+                "GET",
                 "https://hipermaxi.com/tienda-api/api/v1/public/productos",
                 params={
                     "IdMarket": sucursal,
@@ -178,7 +230,7 @@ def consultarPrecios(sesion, sucursal):
                 },
                 timeout=TIMEOUT,
             )
-            listado = response.json()["Dato"]
+            listado = response_data["Dato"]
             if listado:
                 categoria_data.extend(
                     [
@@ -251,7 +303,7 @@ def consolidar(precios, ciudad):
     consolidarPrecios(precios, ciudad)
 
 
-def crearSesion(headers={}):
+def crearSesion(headers=None):
     sesion = requests.Session()
     if headers:
         sesion.headers.update(headers)
