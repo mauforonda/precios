@@ -1582,6 +1582,7 @@ id_producto,producto,categoria,subcategoria
 24102,Alfajor Manjar de Oro Chocolate 6 un,Abarrotes,Golosinas - Varias
 24103,Bombon Manjar de Oro Corazon 585 gr,Abarrotes,Chocolates y Caramelos
 24105,Bombon Manjar de Oro 6 un 180 gr,Abarrotes,Chocolates y Caramelos
+24106,Bombon Manjar de Oro 12 un 360 gr,Abarrotes,Chocolates y Caramelos
 24109,Gomita Mogul Oso Extreme 80 gr,Abarrotes,Golosinas - Varias
 24111,Infusion Mandala Wild Berry Tetra 1 lt,Bebidas,Bebidas Varias
 24112,Cereal Kelloggs Froot Loops 230 gr,Abarrotes,Nutrición Infantil
@@ -10699,7 +10700,12 @@ id_producto,producto,categoria,subcategoria
 317152,Mix Frutas Delicias Cocinero 180 gr,Abarrotes,Frutas en Conserva
 317269,Limpiador Desinfectante Jardin Cremoso Lavanda 900 ml,Cuidado del Hogar,Limpieza de Baños
 317659,Leche Classic de Pepino 380 ml,Cuidado Personal,Cuidado de la Piel
+317748,Ambientador Aerosol Arom Jardin Lavanda 360 cm,Cuidado del Hogar,Limpieza de Living y Ropero
 317764,Ambientador Aerosol Arom Frescura Citrica 360 cm,Cuidado del Hogar,Limpieza de Living y Ropero
+317810,Ambientador Aerosol Arom Lluvia de Flores 360 cm,Cuidado del Hogar,Limpieza de Living y Ropero
+317829,Ambientador Aerosol Arom Vainilla en Flor 360 cm,Cuidado del Hogar,Limpieza de Living y Ropero
+317918,Pastilla de Baño Arom Vainilla Flor 40 gr,Cuidado del Hogar,Limpieza de Living y Ropero
+317926,Pastilla de Baño Arom Popurri 40 gr,Cuidado del Hogar,Limpieza de Living y Ropero
 318340,Papel Higienico Scott Verde Rindemax 32 un,Cuidado Personal,Cuidado Familiar
 318507,Empanada de Manjar Hipermaxi kg,Panadería,Panadería Hipermaxi
 318671,Crema Revive Duo 500 gr,Cuidado Personal,Cuidado del Cabello
@@ -11164,6 +11170,8 @@ id_producto,producto,categoria,subcategoria
 334342,Acondicionador Ballerina Antioxidante Maqui Acai Doypack 750 ml,Cuidado Personal,Cuidado del Cabello
 334390,Mermelada Dulcor Frutilla 454 gr,Abarrotes,"Mermel, Mieles"
 334501,Jabon Liquido Liz Yogurt Frutos Doypack 900 ml,Cuidado Personal,Cuidado de la Piel
+334535,Cera Liquida Virginia Incolora Brillo Instantaneo 900 ml,Cuidado del Hogar,Limpieza de Living y Ropero
+334536,Cera Liquida Virginia Roja Brillo Instantaneo 900 ml,Cuidado del Hogar,Limpieza de Living y Ropero
 334565,Chocolate Bolivias Fruit Almendra 70 gr,Abarrotes,Chocolates y Caramelos
 334566,Quinua Insuflada Bolivia Fruit 168 gr,Abarrotes,Nutrición Infantil
 334578,Papa Sabrosita Gourmet Pizza 400 gr,Abarrotes,Snack
@@ -16756,12 +16764,19 @@ id_producto,producto,categoria,subcategoria
 554026,CEREAL EBA CAPIBARITOS CJA 300 GR,Abarrotes,Nutrición Infantil
 554027,CEREAL EBA CHOCOSITOS CAJA 300 G,Abarrotes,Nutrición Infantil
 554034,TRES MATES PARIS CJA 50 UNID,Abarrotes,Café y Sucedáneos
+554037,MANI MANIACO HORNEADO SALADO 150GR,Abarrotes,Snack
+554040,MANI MANIACO SALADO 300GR,Abarrotes,Snack
+554044,CERVEZA BURGUESA 47 BOT 600 ML,Bebidas,Cervezas
 554048,PACK 6 COCA COLA 300 ML,Bebidas,Gaseosas
+554050,INSUFLADO LUKA CROCANTE 110 GR,Abarrotes,Snack
+554051,INSUFLADO LUKA BACON 110GR,Abarrotes,Snack
 554054,PAPA MR CRISPY ORIGINAL TUBO 40G,Abarrotes,Snack
+554055,PAPAS MR CRISPY CHEDAR TUBO 40 GR,Abarrotes,Snack
 554056,PAPA MR CRISPY CREMA CEBOLLA TUB 40G,Abarrotes,Snack
 554058,GALLETA CLUB SOCIAL XTREME BBQ 144 GR,Abarrotes,Galletas
 554059,GALLETA RITZ CHEDDAR JALAPENO 180 GR,Abarrotes,Galletas
 554060,COCOA SALTUS PREMIUN 200 GR,Abarrotes,Nutrición Infantil
+554061,COCOA SALTUS PREMIUM 500 GR,Abarrotes,Nutrición Infantil
 554333,Cerveza Paceña Lata Roja 473 Cc,Bebidas,Cervezas
 554466,Detergente Liquido Ola Futuro Limpieza Completa 5 L,Cuidado del Hogar,Limpieza de la Ropa
 554468,Suavizante Ropa Ola Suavecito Original 5 L,Cuidado del Hogar,Limpieza de la Ropa
@@ -17333,6 +17348,7 @@ id_producto,producto,categoria,subcategoria
 609781,Cera Pasta Tigre Perfumada 500 gr,Cuidado del Hogar,Limpieza de Living y Ropero
 609871,Chocolate Taboada Serigrafiada 150 gr,Abarrotes,Chocolates y Caramelos
 609901,Pan Chamillo Irupana 10 un,Panadería,Panadería Externa
+609991,PAN TAPON PARA BOTELLA,Bazar Importación,Cocina General
 610115,Te Lupi Mate Surtido 100 Sobres,Abarrotes,Café y Sucedáneos
 610192,Ajo McCormick Garlic Powder 595 gr,Abarrotes,Condimentos y Legumbres
 610261,Alessi Deditos de Sesamo en Oliva 125 gr,Abarrotes,Productos Americanos
@@ -17387,6 +17403,7 @@ id_producto,producto,categoria,subcategoria
 615586,Crema Portugal Blanqueadora Faz x 55gr,Cuidado Personal,Cuidado de la Piel
 615591,Crema de Lechuga Portugal 120 gr,Cuidado Personal,Cuidado de la Piel
 615593,Brintec Billo Instantaneo,Cuidado del Hogar,Limpieza de Zapatos
+615594,Pastilla de Baño Arom Frutas Silvestre 40 gr,Cuidado del Hogar,Limpieza de Baños
 615600,Maquina de Afeitar Bic Comfort3 Piel Normal 2 un,Cuidado Personal,Cuidado de la Piel
 615609,Insecticida Sapolio Mata Acaros 360 ml,Cuidado del Hogar,Insecticidas
 615619,Ambientador Aerosol Sapolio Lavanda 360 ml,Cuidado del Hogar,Limpieza de Living y Ropero
@@ -17444,6 +17461,10 @@ id_producto,producto,categoria,subcategoria
 616351,Desodorante Barra Dove Original 50 gr,Cuidado Personal,Cuidado de la Piel
 616370,Tinte Casting Tono 600 Rubio Oscuro,Cuidado Personal,Cuidado del Cabello
 616371,Tinte Casting Tono 810 Rubio Perla,Cuidado Personal,Cuidado del Cabello
+616420,Lustra mueble Virginia 500 ml,Cuidado del Hogar,Limpieza de Living y Ropero
+616421,Lustra mueble Virginia Lavanda 500 ml,Cuidado del Hogar,Limpieza de Living y Ropero
+616422,Lustra mueble Virginia Vainilla 360 ml,Cuidado del Hogar,Limpieza de Living y Ropero
+616423,Lustramuebles Virginia Naranja 360 cm,Cuidado del Hogar,Limpieza de Living y Ropero
 616429,Cepillo Dental Foramen F6 Medio,Cuidado Personal,Cuidado Bucal
 616431,Cepillo Dental Foramen F6 Maxi Medio 1 un,Cuidado Personal,Cuidado Bucal
 616432,Cepillo Dental Foramen F6 Maxi Suave 1 un,Cuidado Personal,Cuidado Bucal
@@ -18710,6 +18731,7 @@ id_producto,producto,categoria,subcategoria
 654545,Maquina de Afeitar Gillette Prestobarba 3 Ice 4 un,Cuidado Personal,Cuidado de la Piel
 654549,Maquina de Afeitar Gillette Venus 3 2 un,Cuidado Personal,Cuidado de la Piel
 654576,Servilletas Seda Hoja Simple Coctel 500 un,Cuidado Personal,Cuidado Familiar
+654578,Betun Liquido Virginia Negro 60 ml,Cuidado del Hogar,Limpieza de Zapatos
 654591,Shampoo Head Shoulders Suave Manejable 2en1 700 ml,Cuidado Personal,Cuidado del Cabello
 654613,Desodorante Aerosol Rexona Men V8 150 ml,Cuidado Personal,Cuidado de la Piel
 654619,Suavizante Ropa Archer Verano Intenso 2 L,Cuidado del Hogar,Limpieza de la Ropa
@@ -19776,6 +19798,10 @@ id_producto,producto,categoria,subcategoria
 660315,HOGAR  CELULOSA DH 1X12,Cuidado Personal,Cuidado Familiar
 660321,BIPACK KLEENEX CAJA 2X80 HOJAS,Cuidado Personal,Cuidado Familiar
 660322,JABON INTIMO NOSOTRAS ESENCIAL 200ML,Cuidado Personal,Cuidado del Adulto
+660327,PACK PANTENE 1SH KERATINA 300ML+1AC FUER,Cuidado Personal,Cuidado del Cabello
+660328,PACK PANTENE 1SH EQUILIBRIO 300ML+1AC 25,Cuidado Personal,Cuidado del Cabello
+660329,BETUN PASTA CAFE VIRGINIA 80ML,Cuidado del Hogar,Limpieza de Zapatos
+660331,BETUN PASTA NEGRA VIRGINIA 80ML,Cuidado del Hogar,Limpieza de Zapatos
 660548,Cafe Copacabana Exportado Tostado 250 gr,Abarrotes,Café y Sucedáneos
 660711,Galleta Noel Octagonal Surtida 260 gr,Abarrotes,Temporada
 660852,Te Frutte Laxte 20 Sobres,Abarrotes,Café y Sucedáneos
@@ -21449,6 +21475,7 @@ id_producto,producto,categoria,subcategoria
 670653,Queso Florandino Flor de Leche kg,Lácteos y Derivados,Quesos
 670654,Pañales Pampers Baby Dry Jumbo P 44 un,Cuidado del Bebé,Pañales
 670657,Papel Toalla Cocina Seda Multiuso 3 un 60 Toallas,Cuidado del Hogar,Limpieza de Cocina
+670658,Lustramueble Aerosol Virginia Lavanda 360 ml,Cuidado del Hogar,Limpieza de Living y Ropero
 670665,Pan Molde Victoria Blanco,Panadería,Panadería Externa
 670666,Pan Molde Victoria Integral,Panadería,Panadería Externa
 670669,Grissin Bazali Queso Oliva 180 gr,Pastelería y Masas Típicas,Pastelería Externa
@@ -29177,6 +29204,8 @@ id_producto,producto,categoria,subcategoria
 879992,RESLATDOR STABILO PASTEL X6 UND,Bazar,Librería
 880795,PAN ALFOMBRA DE ENTRADA 40X60,Bazar Importación,Living y Dormitorio
 881124,Arena Para Gato Super Cat 4 kg,Bazar,Mascotas General
+881770,Lustramueble Virginia Vainilla 250 ml,Cuidado del Hogar,Limpieza de Living y Ropero
+881790,Lustramueble Virginia Lavanda 250 ml,Cuidado del Hogar,Limpieza de Living y Ropero
 881889,Cepillo Dental Foramen Expert 3 Suave 1 un,Cuidado Personal,Cuidado Bucal
 881894,Cepillo Dental Foramen Expert Duro 1 un,Cuidado Personal,Cuidado Bucal
 881903,Cepillo Dental Foramen Expert 3 Medio 1 un,Cuidado Personal,Cuidado Bucal
@@ -29554,6 +29583,7 @@ id_producto,producto,categoria,subcategoria
 903486,Juego de Colgadores de Ropa 12 un,Bazar,Living y Dormitorio
 903520,Panquequera Tramontina Loreton 22 cm,Bazar,Articulos de Cocina
 903906,Vela Roja,Bazar,Living y Dormitorio
+904083,Pastilla de Baño Arom Lavanda 40 gr,Cuidado del Hogar,Limpieza de Baños
 905021,JARRAS SAN REMO 1.5 LTR 793/2,Bazar Importación,Menaje Plástico
 905057,JAN BANDANA CARNAVALERA,Bazar,Temporada Carnaval
 905451,Set 6 Vasos Vega Whisky,Bazar,Menaje Vidrio/Cristal
