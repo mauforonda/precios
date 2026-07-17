@@ -5458,7 +5458,7 @@ id_producto,producto,categoria,subcategoria
 111913,Shampoo Simonds Kids sin Sal Fresa Berry 400 ml,Cuidado del Bebé,Kids
 111931,Lavandina Cimbol 1 L + Lavandina Perfumada 1 L,Cuidado del Hogar,Limpieza de la Ropa
 111936,Contorneador Maybelline Light Medium,Cuidado Personal,Cuidado de la Piel
-111990,Acondicionador Tio Nacho Herbaloria 415 ml,Cuidado Personal,Cuidado del Cabello
+111990,Acondicionador Tio Nacho Herbolaria 415 ml,Cuidado Personal,Cuidado del Cabello
 111993,Acondicionador Pantene 3MM Fuerza Reparacion 170 ml,Cuidado Personal,Cuidado del Cabello
 112014,Alfajor Bagley Negro 73.5 gr,Abarrotes,Golosinas - Varias
 112017,Antihumedad Limppano Inspira Floral 230 gr,Cuidado del Hogar,Limpieza de Cocina
@@ -10532,6 +10532,11 @@ id_producto,producto,categoria,subcategoria
 312213,Chocobiscuit Bauducco Chocolate Leche 80 gr,Abarrotes,Galletas
 312214,Chocobiscuit Bauducco Chocolate Semi Amargo 80 gr,Abarrotes,Galletas
 312216,EDULCORANTE ENDULDIET PLUS 90G,Abarrotes,Dietéticos y Saludables
+312217,Te Verde Saint Gottard 10 Sobres,Abarrotes,Café y Sucedáneos
+312218,Te Saint Gottard Chai Rosa Mosqueta 10 Sobres,Abarrotes,Café y Sucedáneos
+312219,Te Verde Saint Gottard Menta Miel 10 Sobres,Abarrotes,Café y Sucedáneos
+312220,Te Saint Gottard Matcha Menta Limon 10 Sobres,Abarrotes,Café y Sucedáneos
+312221,Te Saint Gottard Arandano Frambuesa 10 Sobres,Abarrotes,Café y Sucedáneos
 312222,Mantequilla Mani Mr Nuts Tipo Dubai Sin Azucar 360 gr,Abarrotes,Repostería
 312225,PACK SOPAS NISSIN PAGA 4 LLEVA 5,Abarrotes,Básicos
 312226,VINO HERMANDAD MERLOT 750ML,Bebidas,Vinos y Champagne
@@ -14246,6 +14251,8 @@ id_producto,producto,categoria,subcategoria
 532371,Limpiador Desinfectante Pinho Bril Marine 1 L,Cuidado del Hogar,Limpieza de Baños
 532886,Toallas Higienicas Nosotros Invisible Clasica 10 un,Cuidado Personal,Cuidado Familiar
 533098,Chorizo Parrillero Crudo Carne de Lagarto,Congelados,Carnes Congeladas
+533530,SHAMPOO J&J CLASICO 750 ML,Cuidado Personal,Cuidado Familiar
+534250,SHAMPOO J&J CLASICO 400 ML,Cuidado Personal,Cuidado Familiar
 534285,Protectores Diarios Carefree Compac 20 un  KNV,Cuidado Personal,Cuidado Familiar
 534609,Frijoles La Costeña Bayo Entero 400 gr,Abarrotes,Comidas en Conserva
 534617,Frijoles La Costeña Negro Entero 400 gr,Abarrotes,Comidas en Conserva
@@ -16794,8 +16801,10 @@ id_producto,producto,categoria,subcategoria
 554027,CEREAL EBA CHOCOSITOS CAJA 300 G,Abarrotes,Nutrición Infantil
 554028,PACK 4 SALSAS MOLITALIA POMAROLA 145 GR,Abarrotes,Salsas y Extracto de Tomate
 554034,TRES MATES PARIS CJA 50 UNID,Abarrotes,Café y Sucedáneos
+554035,MATE DE ANIS PARIS CJA 50 UNID,Abarrotes,Café y Sucedáneos
 554036,ENERGIZANTE RAPTOR 350 ML,Bebidas,Energizantes
 554037,MANI MANIACO HORNEADO SALADO 150GR,Abarrotes,Snack
+554038,MANI MANIACO SALADO UVAS PASAS 150GR,Abarrotes,Snack
 554040,MANI MANIACO SALADO 300GR,Abarrotes,Snack
 554041,MANI MANIACO SALADO UVAS PASAS 300GR,Abarrotes,Snack
 554042,MANI MANIACO SALADO 1000 GR,Abarrotes,Snack
@@ -17934,6 +17943,7 @@ id_producto,producto,categoria,subcategoria
 629399,Agua Mineral San Pellegrino 330 ml,Bebidas,Bebidas Usa
 629401,Galleta Goldfish Queso 187 gr,Abarrotes,Productos Americanos
 629404,Te Helado Tea Time Durazno 1 L,Bebidas,Bebidas Usa
+629407,CARAMELOS NERDS GRAPE STRAWBERRY 142GR,Abarrotes,Productos Americanos
 629426,Pretzel Snyders Hot Buffalo Wing 319 gr,Abarrotes,Productos Americanos
 629427,Salsa Click Fil A Scholarships 473 ml,Abarrotes,Productos Americanos
 629428,Salsa Chick Fil A Polynesian 473 ml,Abarrotes,Productos Americanos
@@ -25685,12 +25695,14 @@ id_producto,producto,categoria,subcategoria
 807459,CH 6 33 PINZA METALICA PARA ENSALADA 20 6CM,Bazar Importación,Cocina General
 807460,CH 6 34 PINZA METALICA PARA COCINA 23 5X4 5CM,Bazar Importación,Cocina General
 807461,CH 6 35 PINZA METALICA PARA COCINA 22 5CM,Bazar Importación,Cocina General
+807462,CH 6 36 PINZA METALICA PARA COCINA 24 4CM,Bazar Importación,Cocina General
 807463,CH 6 39 PINZA METALICA MULTIFUNCION PARA COCINA 26X7CM,Bazar Importación,Cocina General
 807471,CH 20 4 TERMO COLOR ENTERO X 1L,Bazar Importación,Cocina General
 807484,CH 5 61 JUGUETE PARA GATOS SET X3 PZAS 7CM,Bazar Importación,MASCOTAS GENERAL
 807486,CH 30 1 CUCHARA PARA PASTA CON MANGO DE MADERA 31CM,Bazar Importación,Cocina General
 807487,CH 30 2 ESPATULA DE SILICONA CON MANGO DE MADERA 34CM,Bazar Importación,Cocina General
 807488,CH 30 3 ESPUMADERA DE SILICONA CON MANGO DE MADERA 32CM,Bazar Importación,Cocina General
+807489,CH 30 4 CUCHARON DE SILICONA CON MANGO DE MADERA 31 5X 6 5CM,Bazar Importación,Cocina General
 807491,CH 30 5 ESPATULA REDONDA DE SILICONA CON MANGO DE MADERA,Bazar Importación,Cocina General
 807492,CH 30 6 CUCHARON DE SILICONA CON MANGO DE MADERA 31*7.5CM,Bazar Importación,Cocina General
 807493,CH 30 7 ESPATULA RANURADA DE SILICONA CON MANGO DE MADERA,Bazar Importación,Cocina General
@@ -25971,6 +25983,7 @@ id_producto,producto,categoria,subcategoria
 816361,DISE¥O BRAZALETES COLORIDOS,Juguetería,Juguetería Niña/Bebé
 816362,MI COLECCION JOYAS AMOR,Juguetería,Juguetería Niña/Bebé
 816363,Muñeca Barbie de Playa,Juguetería,Juguetería Niña/Bebé
+816364,BRB BARBIE DE PLAYA,Juguetería,Juguetería Niña/Bebé
 816365,BRB BARBIE DE PLAYA,Juguetería,Juguetería Niña/Bebé
 816367,BRB BARBIE PRINCESA BASICA,Juguetería,Juguetería Niña/Bebé
 816368,Muñeca Barbie Basica,Juguetería,Juguetería Niña/Bebé
@@ -26099,6 +26112,7 @@ id_producto,producto,categoria,subcategoria
 817308,CH 210K CUCHILLO DE MESA LISO SET X6PZAS,Bazar Importación,Cocina General
 817309,CH 211S CUCHARA SOPERA LISA SET X6PZAS,Bazar Importación,Cocina General
 817318,CH 710K CUCHILLO DE MESA MANGO DELGADO SET X6PZAS,Bazar Importación,Cocina General
+817321,CH 13TS CUCHARILLA PARA TE MANGO DELGADO SET X6PZAS,Bazar Importación,Cocina General
 817351,CH 136 BOWL CON DISENO DE MANDALAS AZUL Y AMARILLO 15X5CM,Bazar Importación,Menaje Porcelana/Cerámica
 817352,CH 137 BOWL CON DISENO DE MANDALAS AZUL Y AMARILLO,Bazar Importación,Menaje Porcelana/Cerámica
 817353,CH 138 PLATO HONDO CON DISENO DE MANDALAS AZUL Y AMARILLO,Bazar Importación,Menaje Porcelana/Cerámica
@@ -26410,7 +26424,7 @@ id_producto,producto,categoria,subcategoria
 824331,Sazonador McCormick Oregano 141 gr,Abarrotes,Condimentos y Legumbres
 824351,Sazonador McCormick Steak Montreal 822 gr,Abarrotes,Condimentos y Legumbres
 824688,MERMEL SMUCKER S STRAWBERRY 12 OZ,Abarrotes,"Mermel, Mieles"
-824716,JABONERA C/ESCURRIDOR X2,Bazar,Menaje Plástico
+824716,Jabonera con Escurridor,Bazar,Menaje Plástico
 824826,Jugo V8 Splash Fruit Medley 16 oz,Bebidas,Bebidas Usa
 824846,JUGO V8 SPLASH STRAWBERRY KIWI 16 OZ,Abarrotes,Productos Americanos
 825641,Refresco Livean Naranja 9 gr,Abarrotes,Dietéticos y Saludables
@@ -26422,6 +26436,7 @@ id_producto,producto,categoria,subcategoria
 825894,Vino Campos de Solana Trivarietal Reserva 750 ml,Bebidas,Vinos y Champagne
 825903,Vino Campos de Solana Reserva Malbec Cabernet Sauvignon 750 ml,Bebidas,Vinos y Champagne
 826105,20150/618 SARTEN 18CM PARIS NEGRO,Bazar,Articulos de Cocina
+826122,23162/910 JUEGO TENEDORES MESA 12PZAS NE,Bazar,Articulos de Cocina
 826126,23162/930 TENEDORES MESA 12PZAS NEW KOLO,Bazar,Articulos de Cocina
 826127,23163/930 CUCHARA DE MESA BLISTER CREMA,Bazar,Articulos de Cocina
 826133,20144/624 SARTEN-CON TAPA- 24 CM PARIS,Bazar,Articulos de Cocina
@@ -27364,6 +27379,7 @@ id_producto,producto,categoria,subcategoria
 848209,PLAY-DOH PLASTILINA 4+1,Juguetería,Juguetería Didáctica/Temporada
 848210,MTTL BARBIE FASHIONISTA SURTIDO FBR37,Juguetería Importación,Jugueteria Marcas
 848237,HW JUEGO LANZADOR D CARROS HOT WHEELS,Juguetería,Juguetería Marcas
+848399,HSBR NERF REFILL MEGA FORTNITE,Juguetería,Juguetería Marcas
 848472,Licuadora Philips Walita,Bazar,Electrodoméstico/Línea Blanca-Hogar
 848531,Trianguloo P/ Auto Auto 2recuentre  D,Bazar,Automotriz
 848661,FOCO LED RAYOVAC 8W 750ML LUZ AMARRILLA,Bazar,Ferretería
@@ -27987,6 +28003,7 @@ id_producto,producto,categoria,subcategoria
 856651,"Sartén Antiadherente 25x5 cm, varios colores",Bazar Importación,Cocina General
 856652,CH ST02 AGARRADERA DE SILICONA 12X6 5X8 5CM,Bazar Importación,Cocina General
 856653,CH D002 ESCURRIDOR CUADRADO DE SILICONA 30 5X30 5CM,Bazar Importación,Cocina General
+856654,Canastilla De Silicona Para Freidora De Aire,Bazar Importación,Cocina General
 856656,CH L2 3L SILICONA PARA FREIDORA DE AIRE BASE CUADRADA 1 4L,Bazar Importación,Cocina General
 856657,Flores Artificiales Crisantemo en Rama 74 cm,Bazar Importación,Regalos/Adornos
 856658,CH W13 2 FLOR DE MANZANA ARTIFICIAL EN RAMA 74CM,Bazar Importación,Regalos/Adornos
@@ -29357,6 +29374,7 @@ id_producto,producto,categoria,subcategoria
 880795,PAN ALFOMBRA DE ENTRADA 40X60,Bazar Importación,Living y Dormitorio
 881124,Arena Para Gato Super Cat 4 kg,Bazar,Mascotas General
 881770,Lustramueble Virginia Vainilla 250 ml,Cuidado del Hogar,Limpieza de Living y Ropero
+881785,Lustramueble Virginia Tradicional 250 ml,Cuidado del Hogar,Limpieza de Living y Ropero
 881790,Lustramueble Virginia Lavanda 250 ml,Cuidado del Hogar,Limpieza de Living y Ropero
 881889,Cepillo Dental Foramen Expert 3 Suave 1 un,Cuidado Personal,Cuidado Bucal
 881894,Cepillo Dental Foramen Expert Duro 1 un,Cuidado Personal,Cuidado Bucal
@@ -29858,7 +29876,7 @@ id_producto,producto,categoria,subcategoria
 914013,Porta Vianda Rey 3 un,Bazar,Articulos de Cocina
 914024,Jarra Rey Familiar 3 L,Bazar,Menaje Plástico
 914288,Parrilla Electrica Black Deker,Bazar,Electrodoméstico/Línea Blanca-Hogar
-914683,Pulverizador Plautil 580 ml,Bazar,Bioseguridad
+914683,Pulverizador Plautil 580 ml,Bazar,Bijouteria/Cuidado Personal
 914836,Alargador 10 m,Bazar,Ferretería
 915185,Botella Metalica,Bazar,Regalos/Adornos
 915400,Fosforo Parana Familiar 300 un,Bazar,Churrasquería
@@ -30025,6 +30043,7 @@ id_producto,producto,categoria,subcategoria
 928346,FRI ESTUCHES ESCOLAR 39,Bazar,Librería
 928584,Pilas Duracell Alcalina AAA 6 un,Bazar,Ferretería
 928711,Muñeca Modelo Surtido,Juguetería,Juguetería Niña/Bebé
+928712,CA MUNECA MODELO SURTIDO BS 49,Juguetería,Juguetería Niña/Bebé
 928713,"CA MUñECA MODELO SURTIDO, CHANGFA",Juguetería,Juguetería Niña/Bebé
 928723,CA JUG SET COMBATE .49,Juguetería,Juguetería Niño/Bebé
 928970,Vaso de Cristal Vega Refresquero,Bazar,Menaje Vidrio/Cristal
