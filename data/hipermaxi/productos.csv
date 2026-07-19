@@ -644,6 +644,7 @@ id_producto,producto,categoria,subcategoria
 14268,Gomita Dori Tubo Yogurt Fresa 70 gr,Abarrotes,Golosinas - Varias
 14269,Gomita Dori Relleno Acido Uva 70 gr,Abarrotes,Golosinas - Varias
 14270,Gomita Dori Relleno Acido Yogurt Fresa 70 gr,Abarrotes,Golosinas - Varias
+14274,Caramelo Dori Colete Relleno Chicle 600 gr,Abarrotes,Chocolates y Caramelos
 14275,Cavalinhas General Aceite Vegetal 120 gr,Abarrotes,Comidas en Conserva
 14276,Gomita Florestal Princesa 200 gr,Abarrotes,Golosinas - Varias
 14278,Alimento Primogato Carne Pollo 1 kg,Abarrotes,Mascotas
@@ -7399,6 +7400,7 @@ id_producto,producto,categoria,subcategoria
 210042,MALVAVISCO BUFFYS TRADICIONAL BCO 125G,Abarrotes,Chocolates y Caramelos
 210043,MALVAVISCO BUFFYS CORAZON FRESA 125G,Abarrotes,Chocolates y Caramelos
 210044,WAKA CREATOR DISPOSITIVO UND,Bebidas,Cigarrillos
+210052,MASTICABLE DORI LUA CHEIA CHANTILLY 500G,Abarrotes,Golosinas - Varias
 210053,MASTICABLE DORI LUA CHEIA FRUTAS 500G,Abarrotes,Golosinas - Varias
 210054,CARAMELO DORI HORTELA MINT BSA 500G,Abarrotes,Chocolates y Caramelos
 210055,SAN BITTER PALMENIA 1LT,Bebidas,Licores
@@ -7410,6 +7412,8 @@ id_producto,producto,categoria,subcategoria
 210071,GALLETA D ARROZ MACROBIOTICA DULCE 102G,Abarrotes,Dietéticos y Saludables
 210072,GALLETA D ARROZ MACROBIOTICA SIN SAL 102,Abarrotes,Dietéticos y Saludables
 210080,ENDULCORANTE DEZERO C STEVIA 250 ML,Abarrotes,Dietéticos y Saludables
+210083,ACEITE D OLIVA ARTESANO EXT VIRG 250ML,Abarrotes,Básicos
+210084,ACEITE D OLIVA ARTESANO EXT VIRG 500ML,Abarrotes,Básicos
 210100,Mani Alimentarte con Uvas 360 gr,Abarrotes,Snack
 210153,Salsa Soya Cepera 1.01 L,Abarrotes,Condimentos y Legumbres
 210157,Salsa Soya Cepera 500 ml,Abarrotes,Condimentos y Legumbres
@@ -8271,6 +8275,9 @@ id_producto,producto,categoria,subcategoria
 225078,LIMPIA PISO BRISTAR NEUTRALIZ  OLOR 5 L,Cuidado del Hogar,Limpieza de Living y Ropero
 225079,Pack Toallas Humedas Ninet Clasica 100 un + Taper,Cuidado del Bebé,Cuidado del Bebé
 225080,Pack Toallas Humedas Ninet Clasica 100 un + Recien Nacido 80 un,Cuidado del Bebé,Cuidado del Bebé
+225081,Shampoo Biosilk Anticaspa 1 L,Cuidado Personal,Cuidado del Cabello
+225082,Shampoo Biosilk Manzanilla Miel 800 ml,Cuidado Personal,Cuidado del Cabello
+225084,Shampoo Biosilk Baby Sin Sal 800 ml,Cuidado del Bebé,Cuidado del Bebé
 225085,PASTILLA INODORO ARCHER PINO 3X34GR,Cuidado del Hogar,Limpieza de Baños
 225086,PASTILLA INODOROS LAVANDA 3X34GR,Cuidado del Hogar,Limpieza de Baños
 225087,PASTILLAS  INODORO ARCHER  FLORAL 3 X34,Cuidado del Hogar,Limpieza de Baños
@@ -9274,9 +9281,11 @@ id_producto,producto,categoria,subcategoria
 231760,LIMPIAPISO MAXIBRILL LTRA PRIMAVERA 6 LTS,Cuidado del Hogar,Limpieza de Baños
 231765,SUAVIZANTE DULCES SUEÑOS TODO BRILLO PLU,Cuidado del Hogar,Limpieza de la Ropa
 231766,LIMPIAPISO MAXIBRILL ULTRA ESP JOVEN 900,Cuidado del Hogar,Limpieza de Baños
+231767,LIMPIA PISO MAXIBRILL UTRA CITRONELA 6 L,Cuidado del Hogar,Limpieza de Baños
 231771,LIMPIA PISO MAXIBRILL ULTRA BOSQUE 6 LTS,Cuidado del Hogar,Limpieza de Baños
 231778,LIMPIA PISO MAXIBRILL ULTRA ALEGRA DIA 9,Cuidado del Hogar,Limpieza de Baños
 231780,LIMPIA BANO MAXIBRILL RCGA 940 ML,Cuidado del Hogar,Limpieza de Baños
+231796,LIMPIA PSIO TODO BRILLO PLUS FLORAL CREM,Cuidado del Hogar,Limpieza de Baños
 231798,LIMPIA PISO TODOBRILLO PLUS ORG CREMA900,Cuidado del Hogar,Limpieza de Baños
 231799,LIMPIAPISO TODOBRILLO PLUS LAVANDA1800M,Cuidado del Hogar,Limpieza de Baños
 231801,LIMPIAPISO TODOBRILLO PLUS  MASCOTA 1800,Cuidado del Hogar,Limpieza de Baños
@@ -10364,6 +10373,7 @@ id_producto,producto,categoria,subcategoria
 306705,Vino Nampe Shiraz 750 ml,Bebidas,Vinos y Champagne
 306778,Sal Montesal Rosada Cocina 650 gr,Abarrotes,Básicos
 306781,Salchicha Bordon Aperitivo 150 gr,Abarrotes,Comidas en Conserva
+306787,Masticable Dori Recheado Fresa 600 gr,Abarrotes,Golosinas - Varias
 306835,Shampoo Capilatis Ortiga Concentrado 410ml,Cuidado Personal,Cuidado del Cabello
 307100,Galleta Ferrari Ghezzi Melitas 270 gr,Abarrotes,Galletas
 307101,Cereal Granix Esferas Chocolatadas 190 gr,Abarrotes,Nutrición Infantil
@@ -10845,6 +10855,7 @@ id_producto,producto,categoria,subcategoria
 321979,PANUELO VELE MENTISAN X 10 UNDS,Cuidado Personal,Cuidado Familiar
 321980,PANUELO VELE AROMAS X10 UNDS,Cuidado Personal,Cuidado Familiar
 321981,PAPEL NACIONAL 30 ANOS 6X48,Cuidado Personal,Cuidado Familiar
+321983,PAPEL NACIONAL 30 ANOS 12X48,Cuidado Personal,Cuidado Familiar
 321984,LIMPIA PISO TODOBRILLO PLUS ORG 5LT,Cuidado del Hogar,Limpieza de Baños
 322101,Vino Casillero del Diablo Red Blend Reserva 750 ml,Bebidas,Vinos y Champagne
 322157,Cafe Colcafe Sello Rojo Molido 212 gr,Abarrotes,Café y Sucedáneos
@@ -16797,6 +16808,7 @@ id_producto,producto,categoria,subcategoria
 553963,Vino Aranjuez Sweet Rose Dulce 750 ml,Bebidas,Vinos y Champagne
 554000,SINGANI PARASCOCHA 750 ML,Bebidas,Licores
 554001,VINO PARASCOCHA CABERNET SAUVIG 750ML,Bebidas,Vinos y Champagne
+554002,WHISKY JACK DANIEL TENNESSEE FIRE 750 ML,Bebidas,Licores
 554003,CARTERITA LA FRANCESA LUI FRANCAISE 110,Abarrotes,Galletas
 554004,SNACK DR PICKS NACHOS PIZZA 56 GR,Abarrotes,Snack
 554006,CAFE AMAZONICO BLEND MOLIDO 250 GR,Abarrotes,Café y Sucedáneos
@@ -16817,9 +16829,11 @@ id_producto,producto,categoria,subcategoria
 554036,ENERGIZANTE RAPTOR 350 ML,Bebidas,Energizantes
 554037,MANI MANIACO HORNEADO SALADO 150GR,Abarrotes,Snack
 554038,MANI MANIACO SALADO UVAS PASAS 150GR,Abarrotes,Snack
+554039,MANI MANIACO JALAPENO PICANTE 150GR,Abarrotes,Snack
 554040,MANI MANIACO SALADO 300GR,Abarrotes,Snack
 554041,MANI MANIACO SALADO UVAS PASAS 300GR,Abarrotes,Snack
 554042,MANI MANIACO SALADO 1000 GR,Abarrotes,Snack
+554043,MANI MANIACO SALADO UVAS PASAS 1000GR,Abarrotes,Snack
 554044,CERVEZA BURGUESA 47 BOT 600 ML,Bebidas,Cervezas
 554048,PACK 6 COCA COLA 300 ML,Bebidas,Gaseosas
 554049,CARAMELO CANDY SPRAY BARBIE 25 ML,Abarrotes,Golosinas - Varias
@@ -16838,6 +16852,8 @@ id_producto,producto,categoria,subcategoria
 554064,PACK 2 LUKA BACON 18 GR,Abarrotes,Snack
 554065,PACK 2 LUKA CROCANTE 18GR,Abarrotes,Snack
 554068,MARSHMALLOW CONDOR PLATANITO GRANDE 500,Abarrotes,Chocolates y Caramelos
+554070,GALLETA BISCOFF LOTTUS 250 GR,Abarrotes,Productos Americanos
+554073,BEBIDA FOUR LOKO HOT LTA 695 ML,Bebidas,Licores
 554333,Cerveza Paceña Lata Roja 473 Cc,Bebidas,Cervezas
 554466,Detergente Liquido Ola Futuro Limpieza Completa 5 L,Cuidado del Hogar,Limpieza de la Ropa
 554468,Suavizante Ropa Ola Suavecito Original 5 L,Cuidado del Hogar,Limpieza de la Ropa
@@ -19886,6 +19902,11 @@ id_producto,producto,categoria,subcategoria
 660349,PACK NA PANCHA 2 DETERGENTE LIMON 1700GR,Cuidado del Hogar,Limpieza de la Ropa
 660359,TOALLA HUMEDA LUXURY 100 UN,Cuidado del Bebé,Cuidado del Bebé
 660360,TOALLA HUMEDA LUXURY 50UN,Cuidado del Bebé,Cuidado del Bebé
+660361,PANO REUTILIZABLE SCOTCH BRITE  WIPES RE,Cuidado del Hogar,Accesorios del Hogar
+660362,PANO MICROFIBRA SCOTCH BRITE MULTIUSO SU,Cuidado del Hogar,Accesorios del Hogar
+660363,RECOGEDOR MANGO LARGO SCOTCH-BRITE REFOR,Cuidado del Hogar,Accesorios del Hogar
+660364,ESPONJA  FLEX  SCOTCH BRITE SCRUB PINK X,Cuidado del Hogar,Accesorios del Hogar
+660365,ESPONJA DE RED MULTIUSO SCOTCH BRITE X1,Cuidado del Hogar,Accesorios del Hogar
 660548,Cafe Copacabana Exportado Tostado 250 gr,Abarrotes,Café y Sucedáneos
 660711,Galleta Noel Octagonal Surtida 260 gr,Abarrotes,Temporada
 660852,Te Frutte Laxte 20 Sobres,Abarrotes,Café y Sucedáneos
@@ -20315,6 +20336,7 @@ id_producto,producto,categoria,subcategoria
 667554,Detergente Polvo Poder Activo Cuidado Total 700 gr,Cuidado del Hogar,Limpieza de la Ropa
 667555,Detergente Polvo Poder Activo Cuidado Total 2 kg,Cuidado del Hogar,Limpieza de la Ropa
 667556,Detergente Polvo Poder Activo Cuidado Total 3.8 kg,Cuidado del Hogar,Limpieza de la Ropa
+667563,Paño Esponja Scotch Brite Microfibra Multiuso,Cuidado del Hogar,Accesorios del Hogar
 667566,Cafe Copacabana Instantaneo 200 gr,Abarrotes,Café y Sucedáneos
 667567,Avena Suprema Chia 500 gr,Abarrotes,Nutrición Infantil
 667568,Avena Suprema Chia 400 gr,Abarrotes,Nutrición Infantil
@@ -23416,6 +23438,7 @@ id_producto,producto,categoria,subcategoria
 674923,SALCHICHON A GRANEL PIO RICO KGR,Fiambres,Fiambres Externos
 674924,POLLO PIO RICO EXTRA GRANDE UNIDAD,Carnes,Carne de Pollo
 674926,PACK 2 MORTADELAS LYONEZA STEGE A/V,Fiambres,Fiambres Externos
+674932,PAN RUSTICO OVOPLUS BOLSA 500GRS,Panadería,Panadería Externa
 675245,Miel de Abeja Eva Promiel 250 gr,Abarrotes,"Mermel, Mieles"
 676113,Habanito Bits Cream Coojies Cream 120 gr,Congelados,"Helados, Cassattas y Picoleses"
 676115,HABANITO BITS CREAM DULCE DE LECHE 120GRS,Congelados,"Helados, Cassattas y Picoleses"
@@ -28687,6 +28710,7 @@ id_producto,producto,categoria,subcategoria
 861872,CAJA PLASTICA HALLOWEN 14.5,Bazar,Temporada Halloween
 861884,CEPILLO CABELLO  CONDOR POLVO 9940,Bazar,Bijouteria/Cuidado Personal
 861887,CEPILLO CABELLO BARBIE CONDOR 9050,Bazar,Bijouteria/Cuidado Personal
+861898,JAN NESECER DAMA 20,Bazar,Bijouteria/Cuidado Personal
 861901,Hojas de Carpeta Mochilera 500 Hojas,Bazar,Librería
 861915,JAN ADORNNO BOTA NAVIDAD  13,Bazar,Temporada Navidad
 861916,JAN ADORNO NAVIDAD CORONA 14,Bazar,Temporada Navidad
@@ -29194,7 +29218,7 @@ id_producto,producto,categoria,subcategoria
 873189,Cepillo de Cabello Condor Fluors,Bazar,Bijouteria/Cuidado Personal
 873220,Leche Delizia Vaquita Chocolatada 946 ml,Lácteos y Derivados,Leches
 873282,Velaso Pelotas Bol Brecuentre X6 FORMA O,Bazar,Cotillón
-873283,VELAS LARGA C/SOPORTE OLE BOL X12UND,Bazar,Cotillón
+873283,Velaso C/Sopor Bol Brecuentre X12 LARGA C/O,Bazar,Cotillón
 873284,Velaso X12 Col Colores Orecuentre  C,Bazar,Cotillón
 873302,Pala Para Mascota 10,Bazar,Mascotas General
 873315,Collar para Mascota,Bazar,Mascotas General
@@ -30312,6 +30336,7 @@ id_producto,producto,categoria,subcategoria
 971455,Velaso Surtida Olego Xrecuentre 12 O,Bazar,Cotillón
 971456,Vela Cumpleaños Surtida 1 un,Bazar,Cotillón
 971460,Vela zigzag Olego 24 un,Bazar,Cotillón
+971461,VELA C/SOPORTE INDIVIDUAL OLEGO X24PZS,Bazar,Cotillón
 971463,Velao Olego X X 1recuentre  X,Bazar,Cotillón
 971464,Vela Cumpleaños Numericas Surtidas,Bazar,Cotillón
 971481,Shampoo Denucio Natural con Repelente,Bazar,Mascotas General
