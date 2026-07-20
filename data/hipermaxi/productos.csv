@@ -16656,6 +16656,8 @@ id_producto,producto,categoria,subcategoria
 553698,GRANOLA DE QUINUA ANA CJA 400 GR,Abarrotes,Nutrición Infantil
 553699,AMIFRUT CON CANAHUA ANA CJA 400 GR,Abarrotes,Nutrición Infantil
 553700,AMIFRUT ANA CJA 400 GR,Abarrotes,Nutrición Infantil
+553701,Gaseosa Limon Harry  500 ml,Bebidas,Gaseosas
+553702,Gaseosa Naranja Harry  500 ml,Bebidas,Gaseosas
 553703,REGALIZ FRAMBUESA ACIDOS FINI 27 GR,Abarrotes,Golosinas - Varias
 553705,GALLETAS MANTEQUILLA INFINITAS LTA 113 GR,Abarrotes,Productos Americanos
 553707,GALLETAS SANDWICH INFINITAS 130 GR,Abarrotes,Productos Americanos
@@ -16853,6 +16855,7 @@ id_producto,producto,categoria,subcategoria
 554065,PACK 2 LUKA CROCANTE 18GR,Abarrotes,Snack
 554068,MARSHMALLOW CONDOR PLATANITO GRANDE 500,Abarrotes,Chocolates y Caramelos
 554070,GALLETA BISCOFF LOTTUS 250 GR,Abarrotes,Productos Americanos
+554072,AVENA KRIS INSTANTANEA CJA 700 GR,Abarrotes,Nutrición Infantil
 554073,BEBIDA FOUR LOKO HOT LTA 695 ML,Bebidas,Licores
 554333,Cerveza Paceña Lata Roja 473 Cc,Bebidas,Cervezas
 554466,Detergente Liquido Ola Futuro Limpieza Completa 5 L,Cuidado del Hogar,Limpieza de la Ropa
@@ -19882,6 +19885,7 @@ id_producto,producto,categoria,subcategoria
 660313,MOPA TRAPERO DE ALGODÓN 160 GR TODO UTIL,Cuidado del Hogar,Accesorios del Hogar
 660314,BALDE CON ESCURRIDOR PAPELERA 15 LTS,Cuidado del Hogar,Accesorios del Hogar
 660315,HOGAR  CELULOSA DH 1X12,Cuidado Personal,Cuidado Familiar
+660320,MASC PESTANA COLOSSAL BUBBLE BLACK,Cuidado Personal,Cuidado de la Piel
 660321,BIPACK KLEENEX CAJA 2X80 HOJAS,Cuidado Personal,Cuidado Familiar
 660322,JABON INTIMO NOSOTRAS ESENCIAL 200ML,Cuidado Personal,Cuidado del Adulto
 660323,PANOS ABSORBENTE (3 PZAS) TODO UTIL,Cuidado del Hogar,Accesorios del Hogar
@@ -21208,6 +21212,7 @@ id_producto,producto,categoria,subcategoria
 669327,Limpiador de Piso Frescura Natural 900 ml,Cuidado del Hogar,Limpieza de Baños
 669328,Limpiador de Piso Frescura Natural 1800 ml,Cuidado del Hogar,Limpieza de Baños
 669329,Limpiador de Pisos Frescura Natural 5 L,Cuidado del Hogar,Limpieza de Baños
+669330,TANGA SPF 110  PROTEC SPRAY 175 MLX12,Cuidado Personal,Cuidado de la Piel
 669331,Jabon Intimo Manzanilla Calendula 220 ml,Cuidado Personal,Cuidado del Adulto
 669332,Jabon Intimo Ph Defense 220 ml,Cuidado Personal,Cuidado del Adulto
 669333,SHAMPOO BRILLITO DE ARGAN 750 ML,Cuidado del Bebé,Kids
@@ -25693,6 +25698,7 @@ id_producto,producto,categoria,subcategoria
 804922,CH 49 44 CEPILLO PARA CABELLO NEGRO MANGO DE MADERA 25X8CM,Bazar Importación,Bijouteria/Cuidado Personal
 804924,CH 49 46 CEPILLO PARA CABELLO NEGRO MANGO DE MADERA 24X5 5CM,Bazar Importación,Bijouteria/Cuidado Personal
 805186,Gafas Para Sol Montura Rosada,Bazar Importación,Bijouteria/Cuidado Personal
+805537,CH 49 51 CEPILLO PARA CABELLO CAFE 22 5X7 5CM,Bazar Importación,Bijouteria/Cuidado Personal
 805543,Caramelo Halls Mentho Lypus 25.2 gr,Abarrotes,Golosinas - Varias
 805692,Frutilla al Jugo Yacobs 880 gr,Abarrotes,Frutas en Conserva
 805701,Mermelada Yacobs Frutilla 465 gr,Abarrotes,"Mermel, Mieles"
@@ -25700,6 +25706,7 @@ id_producto,producto,categoria,subcategoria
 805825,Gaseosa Fanta Grape 355 ml,Bebidas,Bebidas Usa
 805830,Gaseosa Fanta Orange USA 355 ml,Bebidas,Bebidas Usa
 805845,Gaseosa Fanta Pineapple 355 ml,Bebidas,Bebidas Usa
+805979,CH 49 52 CEPILLO PARA CABELLO NEGRO 23X11CM,Bazar Importación,Bijouteria/Cuidado Personal
 806120,Achocolatada Swiss Miss Milk Chocolate 10 oz,Abarrotes,Nutrición Infantil
 806155,Poroto Taco Bell Refried Beans 16 oz,Abarrotes,Productos Americanos
 806175,SALSA HEINZ SWEET RELISH 17 OZ,Abarrotes,Aderezos
@@ -25780,6 +25787,7 @@ id_producto,producto,categoria,subcategoria
 808323,BR OLLA C TAPA 24CM CL SUPREMA VAN,Bazar Importación,Cocina General
 808368,BR SARTEN 16CM  FUN CEREZA,Bazar Importación,Cocina General
 808387,BR SARTEN 16CM  FUN VERDE,Bazar Importación,Cocina General
+808484,Papel Fotoc Carta Artwork  500 Hojas,Bazar,Librería
 808486,Arena Para Gato Cat Litter 5 kg,Bazar,Mascotas General
 808565,BR SARTEN 22CM  FUN CEREZA,Bazar Importación,Cocina General
 808591,BR SARTEN 22CM  FUN TERRACOTA,Bazar Importación,Cocina General
@@ -25825,7 +25833,9 @@ id_producto,producto,categoria,subcategoria
 809464,CH 1 7E MANTEL CUADROS GRANDES 137X228CM COLORES SURTIDOS,Bazar Importación,Cocina General
 809465,CH 1 12A MANTEL CUADROS PEQUENOS 137X110CM COLOR SURTIDO,Bazar Importación,Cocina General
 809466,CH 1 12B MANTEL CUADROS PEQUENOS 137X137 COLOR SURTIDO,Bazar Importación,Cocina General
+809467,CH 1 12C MANTEL CUADROS PEQUENOS 137X152CM COLOR SURTIDO,Bazar Importación,Cocina General
 809468,CH 1 12D MANTEL CUADROS PEQUENOS 137X183 COLOR SURTIDO,Bazar Importación,Cocina General
+809469,CH 1 12E MANTEL CUADROS PEQUENOS 137X228CM COLOR SURTIDO,Bazar Importación,Cocina General
 809472,Set Individual de Bambu 4 un,Bazar Importación,Cocina General
 809480,CH 929 BOWL COLOR ENTERO 15 3X6 5CM,Bazar Importación,Menaje Porcelana/Cerámica
 809486,CH 20 1 VELA PEQUENA REDONDA MARMOLADA COOR SURTIDO 5X7 3CM,Bazar Importación,Living y Dormitorio
@@ -25866,6 +25876,7 @@ id_producto,producto,categoria,subcategoria
 809637,CH 33 4 LAMPARA DE MESA BASE BLANCA JASPEADA,Bazar Importación,Living y Dormitorio
 809643,CH 33 10 LAMPARA DE MESA DISENO HOJAS,Bazar Importación,Living y Dormitorio
 809644,CH 33 11 LAMPARA DE MESA DISENO RUSTICO 13X18CM,Bazar Importación,Living y Dormitorio
+809659,CH 29 1 TABLA PARA CORTE DE ALIMENTOS 30X21CM,Bazar Importación,Churrasquería
 809660,Plato Plano de Bambu Set 4 un 25 cm,Bazar Importación,MENAJE MIMBRE/MADERA/BAMBHU
 809661,Plato Plano de Bambu Flores Set 4 un 25 cm,Bazar Importación,MENAJE MIMBRE/MADERA/BAMBHU
 809662,Plato Plano de Bambu Diseño Hojas Set 4 un 25 cm,Bazar Importación,MENAJE MIMBRE/MADERA/BAMBHU
@@ -25977,6 +25988,24 @@ id_producto,producto,categoria,subcategoria
 810873,Gafas Para Sol Montura Multicolor Trasparente,Bazar Importación,Bijouteria/Cuidado Personal
 810874,Gafas Para Sol Montura Morada con Brillos,Bazar Importación,Bijouteria/Cuidado Personal
 810876,Gafas Para Sol Montura Blanca con Brillos,Bazar Importación,Bijouteria/Cuidado Personal
+810900,CH 55 1 LIGAS ACCESORIOS PARA CABELLO DELGADAS SET X10 C  SU,Bazar Importación,Bijouteria/Cuidado Personal
+810901,CH 55 4 LIGAS ACCESORIOS PARA CABELLO PEQUENAS SET X39 C SUR,Bazar Importación,Bijouteria/Cuidado Personal
+810902,CH 55 5 LIGAS ACCESORIOS PARA EL CABELLO EN ESTUCHE DE CORAZ,Bazar Importación,Bijouteria/Cuidado Personal
+810903,CH 55 7 LIGAS ACCESORIOS PARA CABELLO DELGADAS SET X 100 CAJ,Bazar Importación,Bijouteria/Cuidado Personal
+810904,CH 55 8 LIGAS ACCESORIOS PARA CABELLO PEQUENAS SET X 70 COLO,Bazar Importación,Bijouteria/Cuidado Personal
+810907,CH 55 10 LIGAS ACCESORIOS PARA EL CABELLO LISO CON CORAZO SE,Bazar Importación,Bijouteria/Cuidado Personal
+810909,CH 55 12 LIGAS ACCESORIOS PARA EL CABELLO CON BOLA DORADA SE,Bazar Importación,Bijouteria/Cuidado Personal
+810912,CH 55 16 LIGAS ACCESORIOS PARA EL CABELLO GRANDES Y PEQUENAS,Bazar Importación,Bijouteria/Cuidado Personal
+810915,CH 55 19 LIGAS ACCESORIOS PARA EL CABELLO PEQUENAS EN CAJA,Bazar Importación,Bijouteria/Cuidado Personal
+810916,CH 55 20 LIGAS ACCESORIOS PARA EL CABELLO PEQUENAS EN ESTUCH,Bazar Importación,Bijouteria/Cuidado Personal
+810918,CH 55 23 LIGAS ACCESORIOS PARA CABELLO COLORES SURTIDOS SET,Bazar Importación,Bijouteria/Cuidado Personal
+810919,CH 55 24 LIGAS PARA EL CABELLO COLORES SURTIDOS SET X4,Bazar Importación,Bijouteria/Cuidado Personal
+810921,CH 55 27 LIGAS PARA EL CABELLO COLORES SURTIDOS SETX 6PCS,Bazar Importación,Bijouteria/Cuidado Personal
+810922,CH 55 28 LIGAS PARA EL CABELLO MITAD LISO MARIPOSAS SET X6,Bazar Importación,Bijouteria/Cuidado Personal
+810924,CH 55 32 LIGAS PARA EL CABELLO COLORES SURTIDOS SET X6,Bazar Importación,Bijouteria/Cuidado Personal
+810925,CH 55 33 LIGAS ACCESORIOS PARA CABELLO COLOR NEGRO SET X6PCS,Bazar Importación,Bijouteria/Cuidado Personal
+810936,CH 56 77 LIGAS ACCESORIOS PARA CABELLO DISE¥O DE MARIPOSAS,Bazar Importación,Bijouteria/Cuidado Personal
+810937,CH 56 78 LIGAS ACCESORIOS PARA CABELLO CON MONO 12X3CM,Bazar Importación,Bijouteria/Cuidado Personal
 811489,Cereal Kelloggs Froot Loops 43.6 oz,Abarrotes,Productos Americanos
 811739,CH 60 2 MEDIAS DOBLE LINEA SF 5 COLORES T 41A46,IMPORTACIONES TEXTIL,Ropa Caballero/Junior
 811773,CH 60 3A MEDIAS UN SOLO TONO DE MUJER T 35A40,IMPORTACIONES TEXTIL,Ropa Dama/Junior
@@ -26012,6 +26041,7 @@ id_producto,producto,categoria,subcategoria
 814623,CH 6 21 LENTES DE AUMENTO PARA LECTURA MONTURA MORADO OSCURO,Bazar Importación,Bijouteria/Cuidado Personal
 814853,CH GB 6 2 TAPPER DE VIDRIO CON TAPA HERMETICA 1380ML,Bazar Importación,Menaje Vidrio/Cristal
 814944,CH GB 6 4 TAPPER DE VIDRIO CON TAPA HERMETICA 1230ML,Bazar Importación,Menaje Vidrio/Cristal
+814945,CH GB 6 8 TAPPER DE VIDRIO CON TAPA HERMETICA 900,Bazar Importación,Menaje Vidrio/Cristal
 815142,Vasos Tequileros Halloween 6 un,Bazar Importación,Temporada Halloween
 815548,CH 42 3 COJIN GRIS CON LINEAS BLANCAS Y GRISES 42X42CM,Bazar Importación,Living y Dormitorio
 815549,CH 42 5 COJIN VERDE CON LINEAS PEQUENAS BLANCAS 42X42CM,Bazar Importación,Living y Dormitorio
@@ -26056,6 +26086,8 @@ id_producto,producto,categoria,subcategoria
 816585,CH 68 B BOWL WAKW UP FONDO BLANCO 14X7CM,Bazar Importación,Menaje Porcelana/Cerámica
 816590,CH V6 2 ESPONJA MEDIANA PARA BANO 12X14CM,Bazar Importación,Baño General
 816592,CH V6 4 ESPONJA TRENZADA PARA BANO 50X5CM,Bazar Importación,Baño General
+816594,CH V6 5 LIMA PARA ASEO 24X8 5CM COLOR SURTIDO,Bazar Importación,Bijouteria/Cuidado Personal
+816595,CH V6 6 CEPILLO Y LIMA PARA PIES 7X25CM COLOR SURTIDO,Bazar Importación,Bijouteria/Cuidado Personal
 816599,CH 101 BOWL NEGRO COLOR ENTERO 14X9CM,Bazar Importación,Menaje Porcelana/Cerámica
 816617,Caramelo Wonka Grape Strawberries 46.7 gr,Abarrotes,Golosinas - Varias
 816756,CH 143 BOWL DE ACERO INOXIDABLE 28X9CM,Bazar Importación,Menaje Metálico
@@ -26130,23 +26162,44 @@ id_producto,producto,categoria,subcategoria
 816990,CH 13 186 SET DE HERRAMIENTAS X9 PZAS AMARILLO 22X1 8CM,Bazar Importación,Ferretería
 816991,CH 13 213 PEINE DE DIENTES ANCHOS CON MANGO C BLANCO 23X5CM,Bazar Importación,Bijouteria/Cuidado Personal
 816992,CH 13 214 PEINE DE DIENTES DELGADOS  CON MANGO C BLANCO 23X5,Bazar Importación,Bijouteria/Cuidado Personal
+816993,CH 13 215 PEINE DE DIENTES PEQUENOS Y DELGADOS C MANGO BLANC,Bazar Importación,Bijouteria/Cuidado Personal
 816994,CH 13 216 PEINE LARGO PARA CABELLO  GRIS 2X6 5CM,Bazar Importación,Bijouteria/Cuidado Personal
+817057,CH 13 217 PEINE CON MANGO PARA CABELLO C BLANCO 23X4CM,Bazar Importación,Bijouteria/Cuidado Personal
+817069,CH 2121 JUGUETE BLOQUES PARA ARMAR VEHICULOS 8 DISENOS,Juguetería Importación,Juguetería Didáctica/Temporada
 817070,CH 2148 JUGUETE BLOQUES PARA ARMAR CAMION DE BOMBEROS 362PZA,Juguetería Importación,Juguetería Didáctica/Temporada
+817071,CH 2149 JUGUETE BLOQUES PARA ARMAR CAMION DE BOMBEROS 350PZA,Juguetería Importación,Juguetería Didáctica/Temporada
 817072,CH 2805 JUGUETE BLOQUES PARA ARMAR CAMPAMENTO 594PZAS,Juguetería Importación,Juguetería Didáctica/Temporada
 817073,CH 2811 JUGUETE BLOQUES PARA ARMAR CASA GRANDE 758PZAS,Juguetería Importación,Juguetería Didáctica/Temporada
+817075,CH 3010 JUGUETE BLOQUES PARA ARMAR AVION MILITAR 231PZAS 3EN,Juguetería Importación,Juguetería Didáctica/Temporada
 817076,CH 22 4 JUGUETE BLOQUES PARA ARMAR HELIC.PTERO 164PZAS,Juguetería Importación,Juguetería Didáctica/Temporada
 817079,CH 3061 JUGUETE BLOQUES PARA ARMAR TIENDAS 648PZAS 4 EN 1,Juguetería Importación,Juguetería Didáctica/Temporada
+817080,CH 3062 JUGUETE BLOQUES PARA ARMAR PASTELERIA 653 PZAS,Juguetería Importación,Juguetería Didáctica/Temporada
 817082,CH 1908 JUGUETE BLOQUES PARA ARMAR YATE 350 PZAS 3 EN 1,Juguetería Importación,Juguetería Didáctica/Temporada
+817083,CH 3086 JUGUETE BLOQUES PARA ARMAR CAMION DE BOMBEROS,Juguetería Importación,Juguetería Didáctica/Temporada
+817084,CH 3089 JUGUETE BLOQUES PARA ARMAR MOTO 251PZAS,Juguetería Importación,Juguetería Didáctica/Temporada
+817085,CH 3092 JUGUETE BLOQUES PARA ARMAR AVION MILITAR 248PZAS,Juguetería Importación,Juguetería Didáctica/Temporada
 817088,CH 3273 JUGUETE BLOQUES PARA ARMAR CASTILLO 346PZAS,Juguetería Importación,Juguetería Didáctica/Temporada
+817089,CH 3401 JUGUETE BLOQUES PARA ARMAR COCHE DE CARRERAS 218PZAS,Juguetería Importación,Juguetería Didáctica/Temporada
 817092,CH 3430 JUGUETE BLOQUES PARA ARMAR COCHE DE CARRERAS NEGRO,Juguetería Importación,Juguetería Didáctica/Temporada
+817093,CH 3452 JUGUETE BLOQUES PARA ARMAR COCHE DE CARRERAS NEGRO Y,Juguetería Importación,Juguetería Didáctica/Temporada
 817095,CH 3462 JUGUETE BLOQUES PARA ARMAR COCHE DE CARRERAS Y ACCES,Juguetería Importación,Juguetería Didáctica/Temporada
+817096,CH 3616 JUGUETE BLOQUES PARA ARMAR ESTACION CARROS BOMBEROS,Juguetería Importación,Juguetería Didáctica/Temporada
+817098,CH 3729 JUGUETE BLOQUES PARA ARMAR VEH.CULO DE CONSTRUCCION,Juguetería Importación,Juguetería Didáctica/Temporada
+817099,CH 3925 JUGUETE BLOQUES PARA ARMAR ESTACION DE POLICIA 731PZ,Juguetería Importación,Juguetería Didáctica/Temporada
+817100,CH 4128 JUGUETE BLOQUES PARA ARMAR VEHICULO DE CONSTRUCCION,Juguetería Importación,Juguetería Didáctica/Temporada
+817102,CH 4164 JUGUETE BLOQUES PARA ARMAR YATE POLICIAL 285 PZAS,Juguetería Importación,Juguetería Didáctica/Temporada
+817247,CH 4172 JUGUETE BLOQUES PARA ARMAR VEHICULO BOMBERO 260PZAS,Juguetería Importación,Juguetería Didáctica/Temporada
 817272,CH 4214 JUGUETE BLOQUES PARA ARMAR LOCOMOTORA 246 PZAS,Juguetería Importación,Juguetería Didáctica/Temporada
 817291,CH 4421 JUGUETE BLOQUES PARA ARMAR NAVE ESPACIAL 404 PZAS,Juguetería Importación,Juguetería Didáctica/Temporada
 817292,CH 4511 JUGUETE BLOQUES PARA ARMAR CENTRO COMERCIAL 810PZAS,Juguetería Importación,Juguetería Didáctica/Temporada
 817293,CH 4549 JUGUETE BLOQUES PARA ARMAR VEHICULO TIPO JEEP CON AC,Juguetería Importación,Juguetería Didáctica/Temporada
 817301,CH 4588 JUGUETE BLOQUES PARA ARMAR ESCENARIO DE ACTUACION 32,Juguetería Importación,Juguetería Didáctica/Temporada
+817302,CH 4894 JUGUETE BLOQUES PARA ARMAR ROBOT 407PZAS,Juguetería Importación,Juguetería Didáctica/Temporada
+817303,CH 4896 JUGUETE BLOQUES PARA ARMAR ROBOT VEHICULO 383 PZAS,Juguetería Importación,Juguetería Didáctica/Temporada
+817304,CH 5800 JUGUETE BLOQUES PARA ARMAR VEHICULO TODOTERRENO  491,Juguetería Importación,Juguetería Didáctica/Temporada
 817305,CH 5826 JUGUETE BLOQUES PARA ARMAR COCHE DE CARRERAS BLANCO,Juguetería Importación,Juguetería Didáctica/Temporada
 817306,CH 7003 JUGUETE BLOQUES PARA ARMAR YATE MILITAR 167 PZAS,Juguetería Importación,Juguetería Didáctica/Temporada
+817307,CH 7006 JUGUETE BLOQUES PARA ARMAR HELICOPTERO MILITAR 190PA,Juguetería Importación,Juguetería Didáctica/Temporada
 817308,CH 210K CUCHILLO DE MESA LISO SET X6PZAS,Bazar Importación,Cocina General
 817309,CH 211S CUCHARA SOPERA LISA SET X6PZAS,Bazar Importación,Cocina General
 817318,CH 710K CUCHILLO DE MESA MANGO DELGADO SET X6PZAS,Bazar Importación,Cocina General
@@ -26266,10 +26319,13 @@ id_producto,producto,categoria,subcategoria
 817702,CH 29 2 TOMATODO TERMICO 900ML COLOR SURTIDO,Bazar Importación,Camping General
 817707,CH 56 6 ACCESORIO PARA CABELLO 13X5X4CM COLOR SURTIDO,Bazar Importación,Bijouteria/Cuidado Personal
 817708,CH 56 7 ACCESORIO OVALADO PARA CABELLO COLOR SURTIDO 9 5 3 5,Bazar Importación,Bijouteria/Cuidado Personal
+817710,CH 56 8 ACCESORIO PARA CABELLO COLOR SURTIDO 13X5X4CM,Bazar Importación,Bijouteria/Cuidado Personal
+817712,CH 56 11 ACCESORIO EN FORMA DE MONO P CABELLO COLOR SURTIDO,Bazar Importación,Bijouteria/Cuidado Personal
 817716,CH 56 20 ACCESORIO PIRANA PARA CABELLO 11X6 5X6CM COLOR SURT,Bazar Importación,Bijouteria/Cuidado Personal
 817717,CH 56 23 ACCESORIO RECTANGULAR PARA CABELLO COLOR SURTIDO 13,Bazar Importación,Bijouteria/Cuidado Personal
 817718,CH 56 24 ACCESORIO RECTANGULAR MEDIANO COLOR SURTIDO 13X5X5C,Bazar Importación,Bijouteria/Cuidado Personal
 817719,CH 56 26 ACCESORIO RECTANGULAR GRANDE P CABELLO 13X5 5X5CM,Bazar Importación,Bijouteria/Cuidado Personal
+817720,CH 56 29 ACCESORIO EN FORMA DE FLOR PARA CABELLO COLOR SURTI,Bazar Importación,Bijouteria/Cuidado Personal
 817721,CH 56 31 ACCESORIO EN FORMA DE FLOR PARA CABELLO 7 5X7 5X5CM,Bazar Importación,Bijouteria/Cuidado Personal
 817722,CH 56 42 TRABAS PARA CABELLO SET X3PZAS COLOR SURTIDO,Bazar Importación,Bijouteria/Cuidado Personal
 817723,CH 56 43 TRABAS PARA CABELLO SET X3PZAS COLOR PASTEL 7X2CM,Bazar Importación,Bijouteria/Cuidado Personal
@@ -26321,6 +26377,7 @@ id_producto,producto,categoria,subcategoria
 818583,PAN 7450 FLOTADORES INFLABLE D BRAZO 25X15X15CM,Bazar Importación,Temporada Verano
 818585,PAN 7457 FLOTADOR INFLABLE PAW PATROL 50CM,Bazar Importación,Temporada Verano
 818590,PAN 7040 PISCINA INFLABLE PAW PATROL 100CM,Bazar Importación,Temporada Verano
+818629,PAN 2214 FLOTADOR INFLABLE CHALECO PAW PATROL 40X31CM,Bazar Importación,Temporada Verano
 818630,PAN 2213 FLOTADOR INFLABLE D BRAZO PAW PATROL 25X15X15CM,Bazar Importación,Temporada Verano
 818631,PAN 2217 FLOTADOR INFLABLE PAW PATROL 50CM,Bazar Importación,Temporada Verano
 818669,Encendedor Ronson Largo,Bazar,Churrasquería
@@ -26343,6 +26400,7 @@ id_producto,producto,categoria,subcategoria
 819083,508-SET DETIC TAC X6UNID,Bazar,Bijouteria/Cuidado Personal
 819094,999.SET DE TIC TAC X6UNID,Bazar,Bijouteria/Cuidado Personal
 819095,Mk201482 Set Tic Tac y Ligas,Bazar,Bijouteria/Cuidado Personal
+819220,PAPEL FOTOCOPIA OFICIO ARTWORD 500HJ,Bazar,Librería
 819265,Ron Matusalen Solera 7 Años 700 ml,Bebidas,Licores
 819287,Tajadoro Mascota Avena Procao 500 ml,Bazar,Librería
 819329,Salsa de Tomate Hunts Oregano 227 gr,Abarrotes,Salsas y Extracto de Tomate
@@ -26864,6 +26922,7 @@ id_producto,producto,categoria,subcategoria
 840167,CH J22 16 GNOMO NAVIDENO SENTADO 27X16CM,Bazar Importación,Temporada Navidad
 840172,Gnomo Navideño Parado 43x20 cm,Bazar Importación,Temporada Navidad
 840184,CH N20 1 BOLAS NAVIDENAS SET X 20 6CM,Bazar Importación,Temporada Navidad
+840213,CH N21 16 BASE P CORCHO 22X27X11CM,Bazar Importación,Regalos/Adornos
 840220,CH N22 4 ADORNO PINO P ARBOL SETX4,Bazar Importación,Temporada Navidad
 840221,CH N22 7 BOLAS NAVIDENAS GRANDES SET X6,Bazar Importación,Temporada Navidad
 840226,CH N22 12 BOLAS NAVIDENAS SETX24,Bazar Importación,Temporada Navidad
@@ -27600,6 +27659,7 @@ id_producto,producto,categoria,subcategoria
 852377,Juguete Bloques para Armar 57 Piezas,Juguetería Importación,Juguetería Didáctica/Temporada
 852384,CA ESTUCHERA DE BS 39,Bazar,Librería
 852388,Juguete Bloques para Armar 60 pz,Juguetería Importación,Juguetería Didáctica/Temporada
+852411,CH 20 42 JUGUETE BLOQUES DE CONSTRUCCION SET X48PZAS,Juguetería Importación,Juguetería Didáctica/Temporada
 852428,Juguete Carrito con Accesorios Plata set 8,Juguetería Importación,Juguetería Didáctica/Temporada
 852431,Juguete Camion con Pala Animales 5 pz,Juguetería Importación,Juguetería Didáctica/Temporada
 852432,Muñeca con Vestido,Juguetería Importación,Juguetería Niña/Bebé
@@ -27781,6 +27841,8 @@ id_producto,producto,categoria,subcategoria
 854419,CH WX8 8 BOLAS DE NAVIDAD CON MUNECO DE NIEVE SET X3 8CM,Bazar Importación,Temporada Navidad
 854429,Basurero con Pedal 40x32 cm,Cuidado del Hogar,Productos Americanos
 854446,Yerba Mate Kurupi 500 gr,Abarrotes,Café y Sucedáneos
+854462,CH 7920 BLOQUES PARA ARMAR HELICOPTERO MILITAR X 260PZAS,Juguetería Importación,Juguetería Didáctica/Temporada
+854465,CH 4544 BLOQUES PARA ARMAR CASA DE CAMPO X319 PZAS,Juguetería Importación,Juguetería Didáctica/Temporada
 854468,CH 2001 BLOQUES PARA ARMAR CASTILLO SET X 516 PZAS,Juguetería Importación,Juguetería Didáctica/Temporada
 854484,Bloques Para Armar Vehiculo y Estacion de Policia,Juguetería Importación,Juguetería Didáctica/Temporada
 854487,Bloques Para Armar Vehiculo de Construccion,Juguetería Importación,Juguetería Didáctica/Temporada
@@ -27995,6 +28057,7 @@ id_producto,producto,categoria,subcategoria
 856337,Botella De Vidrio Con Lineas Blancas x 1000 ml,Bazar Importación,Menaje Vidrio/Cristal
 856338,Botella De Vidrio Con Diseño x 1000 ml,Bazar Importación,Menaje Vidrio/Cristal
 856339,Botella De Vidrio Con Lineas Verticales x 1000 ml,Bazar Importación,Menaje Vidrio/Cristal
+856340,"Botella De Vidrio Con Silicona Azul, Negro Y Gris 750Ml",Bazar Importación,Menaje Vidrio/Cristal
 856341,CH Z10 8 ENVASE DE VIDRIO C TAPA Y CUCHARILLA DE MADERA 470M,Bazar Importación,Menaje Vidrio/Cristal
 856342,Envase De Vidrio Para Miel,Bazar Importación,Menaje Vidrio/Cristal
 856383,CH J13 21 MACETA MEDIANA REDONDA C MEDIDOR DE AGUA 26X19CM,Bazar Importación,Jardineria General
@@ -28050,6 +28113,7 @@ id_producto,producto,categoria,subcategoria
 856662,CH W13 6 FLOR ARTIFICIAL LILA SALVAJE EN RAMA 65CM,Bazar Importación,Regalos/Adornos
 856677,CH 108 4 VASO TERMICO CON TAPA CON RAYAS NEGRAS 400ML,Bazar Importación,MENAJE MIMBRE/MADERA/BAMBHU
 856678,CH 108 5 PLATO PLANO SET X4PZAS CON RAYAS NEGRAS,Bazar Importación,MENAJE MIMBRE/MADERA/BAMBHU
+856681,CH 108 7 BOWL SET X4PZAS CON RAYAS NEGRAS 14X14CM,Bazar Importación,MENAJE MIMBRE/MADERA/BAMBHU
 856687,CH 108 27 BOWL SET X4PZAS CON PUNTOS NEGROS 14X14CM,Bazar Importación,MENAJE MIMBRE/MADERA/BAMBHU
 856704,Refresco Kris Energy Frutilla 30 gr,Bebidas,Refrescos en Polvo
 856727,HW AUTO SERVICIO DE HAMBURGUESAS,Juguetería,Juguetería Niño/Bebé
@@ -28143,6 +28207,7 @@ id_producto,producto,categoria,subcategoria
 857117,CH 8007 PLANCHA DE HIERRO CON BASE DE MADERA RECTANGULAR,Bazar Importación,Churrasquería
 857124,CH X01 SARTEN PEQUENO ANTIADHERENTE 13CM,Bazar Importación,Cocina General
 857129,CH 108 4 TRABA OVALADA CUADRICULADA PARA CALELLO SET X5 PZAS,Bazar Importación,Bijouteria/Cuidado Personal
+857148,CH 108 23 ACCESORIOS PARA CABELLO SET X10 PZAS,Bazar Importación,Bijouteria/Cuidado Personal
 857150,CH S2 4 ADORNO NAVIDENO RENO ROJO SET X3PZAS,Bazar Importación,Temporada Navidad
 857151,Adorno Navideños Papa Noel 3 un,Bazar Importación,Temporada Navidad
 857152,Adorno Navideños Muñeco Jengibre 3 un,Bazar Importación,Temporada Navidad
@@ -28565,6 +28630,8 @@ id_producto,producto,categoria,subcategoria
 858896,PAN 3910 BOTELLA Y TAPA ROJA CAP 660ML,Bazar Importación,Artículos para Bebé
 858897,PAN 0108 BOTELLA TAPA GUANTE BLANCO CAP 560ML,Bazar Importación,Artículos para Bebé
 859018,CH 108 12 ACCESORIOS PARA CABELLO SET X5PZAS,Bazar Importación,Bijouteria/Cuidado Personal
+859023,CH 109 3 ACCESORIOS PARA CABELLO SET X6PZS NEGRO,Bazar Importación,Bijouteria/Cuidado Personal
+859026,CH 109 6 ACCESORIOS PARA CABELLO SET X12PZS,Bazar Importación,Bijouteria/Cuidado Personal
 859071,Taza Ceramica,Bazar,Articulos de Cocina
 859082,Marcador Monami Twin Brush Floral 6 Colores,Bazar,Librería
 859088,Cepillo de Cabello Revlon Liso Suavidad,Bazar,Bijouteria/Cuidado Personal
@@ -28803,6 +28870,7 @@ id_producto,producto,categoria,subcategoria
 863870,ESPEJO MACRO DE BOLSA BETER,Bazar,Bijouteria/Cuidado Personal
 863873,TAPER REDONDO C/TAPA MR 500ML,Bazar,Menaje Plástico
 863886,Vestono Lavanda Aromatizante 1recuentreL,Bazar,Automotriz
+863899,HIP TOALLA DE NINO EN CAJA 65,TEXTILES Y ZAPATOS,TOALLAS
 863959,HUESO  MASACOTA FREENDLY 13-14CM,Bazar,Mascotas General
 863960,HUESO MASCOTA FRIENDLY 17-18CM,Bazar,Mascotas General
 863975,VASO COLORES FRESH HALLOWEN  REY,Bazar,Menaje Plástico
@@ -29131,6 +29199,7 @@ id_producto,producto,categoria,subcategoria
 869845,CH V4 14 JARRA DE VIDRIO CON TAPA TRANSPARENTE 1 4L,Bazar Importación,Menaje Vidrio/Cristal
 869881,Cuaderno Top Empastado Carta 200 Hojas,Bazar,Librería
 869892,CEPILLO CABELLO REVLON VENTILADO,Bazar,Bijouteria/Cuidado Personal
+870093,PLAYDOH-MINI FABRICA DIVERTIDA,Juguetería,Juguetería Marcas
 870178,CA TERMO PLASTICO OFERTA 55,Bazar,Articulos de Cocina
 870381,COMBO LONCHERA MIKEY 76484,Bazar,Librería
 870385,Lonchera Mediano Frozen,Bazar,Librería
@@ -29653,6 +29722,7 @@ id_producto,producto,categoria,subcategoria
 891425,Vino Norton Cabernet Sauvignon Reserva 750 ml,Bebidas,Vinos y Champagne
 891433,CH V1 97 AZUCARERA BLANCA 4 5X8 5CM,Bazar Importación,Cocina General
 891440,CH V1 139 LECHERA PEQUENA BLANCA 150ML,Bazar Importación,Menaje Porcelana/Cerámica
+891442,CH V1 142 LECHERA PEQUENA BLANCA 150ML,Bazar Importación,Menaje Porcelana/Cerámica
 891456,Toma Todo Deportivo Negro 800 ml,Bazar Importación,Camping General
 891457,Toma Todo Deportivo Azul 800 ml,Bazar Importación,Camping General
 891458,Toma Todo Deportivo Rojo 800 ml,Bazar Importación,Camping General
@@ -29868,6 +29938,7 @@ id_producto,producto,categoria,subcategoria
 908602,Cepillo Dental Colgate Barney Smile 1 un,Cuidado Personal,Cuidado Bucal
 908604,Cepillo Dental Colgate Batman Smiles 6 Años 1 un,Cuidado del Bebé,Kids
 908711,Set Cuchara New Tramontina Azul,Bazar,Articulos de Cocina
+908724,TENEDOR TRAMONTINA N.25650/110,Bazar,Articulos de Cocina
 908727,Sarten Tramontina + Espatula,Bazar,Articulos de Cocina
 908728,Sarten Plancha Tramontina Asadora,Bazar,Churrasquería
 908733,Cuchara Batidora Tramontina,Bazar,Articulos de Cocina
