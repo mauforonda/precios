@@ -475,7 +475,7 @@ id_producto,producto,categoria,subcategoria
 11671,Gomita Mogul Dientes 80 gr,Abarrotes,Golosinas - Varias
 11672,Gomita Mogul Tiburoncitos 80 gr,Abarrotes,Golosinas - Varias
 11683,Gomita Mogul Frutales 80 gr,Abarrotes,Golosinas - Varias
-11738,Aceite Rico Light 900Ml,Abarrotes,Básicos
+11738,Aceite Rico Light 900 ml,Abarrotes,Básicos
 11762,Aceite Rico Girasol 900 Ml,Abarrotes,Básicos
 11784,Chocolate Garoto Caju 80 gr,Abarrotes,Chocolates y Caramelos
 11785,Chocolate Garoto Crocante 80 gr,Abarrotes,Chocolates y Caramelos
@@ -4871,6 +4871,7 @@ id_producto,producto,categoria,subcategoria
 105864,Cotonetes Doctor Baby 100 un,Cuidado del Bebé,Cuidado del Bebé
 105865,Cotonetes Doctor Baby Pote 200 un,Cuidado del Bebé,Cuidado del Bebé
 105866,Cotonetes Doctor Baby Pote 300 un,Cuidado del Bebé,Cuidado del Bebé
+105867,Cotonetes Doctor Baby Pote 500 un,Cuidado del Bebé,Cuidado del Bebé
 105868,Desodorante Barra Secret Antitraspirante Vainilla 45 gr,Cuidado Personal,Cuidado de la Piel
 105911,Desodorante Barra Old Spice Mar Profundo 85 gr,Cuidado Personal,Cuidado de la Piel
 105912,Espuma de Afeitar Gillette Sensitive 150 gr,Cuidado Personal,Cuidado de la Piel
@@ -8613,6 +8614,7 @@ id_producto,producto,categoria,subcategoria
 228101,Crema de Peinar Belmed Botox 320 gr,Cuidado Personal,Cuidado del Cabello
 228102,Crema de Peinar Belmed Maxiliso 320 gr,Cuidado Personal,Cuidado del Cabello
 228107,BASE VOGUE RESIST SENSUAL 11,Cuidado Personal,Cuidado de la Piel
+228110,LAVANDINA LIDER PODER X5 2LT,Cuidado del Hogar,Limpieza de la Ropa
 228111,LUSTRA MUEBLE LIDER RECARGA 850 ML,Cuidado del Hogar,Limpieza de Living y Ropero
 228112,Tinte Issue Express 5 Minutos Castaño Claro,Cuidado Personal,Cuidado del Cabello
 228113,Toallas Higienicas Nosotras Buenas Noches 8 un,Cuidado Personal,Cuidado Familiar
@@ -9256,6 +9258,7 @@ id_producto,producto,categoria,subcategoria
 231715,PACK BROCHA MAQUILLAJE + LABIAL VINYL IN,Cuidado Personal,Cuidado de la Piel
 231716,PACK CEPILLO NATURAL FIBER + ELVIVE ÓLEO,Cuidado Personal,Cuidado de la Piel
 231717,LABIAL TEDDY TINT BUFFED OUT,Cuidado Personal,Cuidado de la Piel
+231718,LABIAL TEDDY TINT FAUX FRECKLE,Cuidado Personal,Cuidado de la Piel
 231721,LABIAL VOGUE DESTELLO ESPLENDIDA,Cuidado Personal,Cuidado de la Piel
 231722,CREMA NIVEA HIDRATACION EXP 400 ML,Cuidado del Hogar,Productos Americanos
 231724,TRIPACK TOALLA HUMEDA MI BEBE 3X96 UDS,Cuidado del Bebé,Cuidado del Bebé
@@ -9263,7 +9266,9 @@ id_producto,producto,categoria,subcategoria
 231727,LABIAL NIVEA MORA 4.8 GR,Cuidado del Hogar,Productos Americanos
 231728,CORRECTOR AGE REWIND VERDE TONO 1,Cuidado Personal,Cuidado de la Piel
 231730,CORRECTOR INSTANT AGE REWIND NARANJA TON,Cuidado Personal,Cuidado de la Piel
+231731,LABIAL TEDDY TINT KITTEN HEEL,Cuidado Personal,Cuidado de la Piel
 231733,LABIAL MNY MATTE INK ENTERTAINER,Cuidado Personal,Cuidado de la Piel
+231734,LABIAL MNY MATTE INK CHAMPION,Cuidado Personal,Cuidado de la Piel
 231735,LABIAL VOGUE RESIST FUGAZ,Cuidado Personal,Cuidado de la Piel
 231736,DETERG LIQ TODOBRILLO PLUS QUITA MANCHA,Cuidado del Hogar,Limpieza de la Ropa
 231737,DETERG LIQ TODOBRILLO PLUS BEBE DP 900 M,Cuidado del Hogar,Limpieza de la Ropa
@@ -9286,9 +9291,12 @@ id_producto,producto,categoria,subcategoria
 231757,BODY SPLASH FARMAX FRUTILLA 190ML,Cuidado Personal,Cuidado de la Piel
 231758,BODY SPLASH FARMAX PISTACHO 190ML,Cuidado Personal,Cuidado de la Piel
 231760,LIMPIAPISO MAXIBRILL LTRA PRIMAVERA 6 LTS,Cuidado del Hogar,Limpieza de Baños
+231761,LIMPIA PISO MAXIBRILL ULTRA 900ML,Cuidado del Hogar,Limpieza de Baños
+231763,LIMPIAPISO MAXIBRILL ULTRA ESP JOVEN 6 L,Cuidado del Hogar,Limpieza de Baños
 231765,SUAVIZANTE DULCES SUEÑOS TODO BRILLO PLU,Cuidado del Hogar,Limpieza de la Ropa
 231766,LIMPIAPISO MAXIBRILL ULTRA ESP JOVEN 900,Cuidado del Hogar,Limpieza de Baños
 231767,LIMPIA PISO MAXIBRILL UTRA CITRONELA 6 L,Cuidado del Hogar,Limpieza de Baños
+231769,LIMPIA PISO MAXIBRILL ULTRA ENERGIA 900,Cuidado del Hogar,Limpieza de Baños
 231771,LIMPIA PISO MAXIBRILL ULTRA BOSQUE 6 LTS,Cuidado del Hogar,Limpieza de Baños
 231778,LIMPIA PISO MAXIBRILL ULTRA ALEGRA DIA 9,Cuidado del Hogar,Limpieza de Baños
 231780,LIMPIA BANO MAXIBRILL RCGA 940 ML,Cuidado del Hogar,Limpieza de Baños
@@ -9301,6 +9309,7 @@ id_producto,producto,categoria,subcategoria
 231804,LIMPIAPISO TODOBRILLO PLUS MARINO 900 ML,Cuidado del Hogar,Limpieza de Baños
 231805,LIMPIAPISO TODOBRILLO PLUS LAVANDA CREM,Cuidado del Hogar,Limpieza de Baños
 231806,PACK NOSOTRAS INVISIBLE CLASI X8 (3X2),Cuidado Personal,Cuidado Familiar
+231818,LABIAL TEDDY TINT VELVET CHOKER,Cuidado Personal,Cuidado de la Piel
 231833,PAPEL HIGIENICO JUMBO SEDA 500 MTS,Cuidado Personal,Cuidado Familiar
 231834,PAPEL JUMBO BLANCO SEDA TRIPLE HOJA,Cuidado Personal,Cuidado Familiar
 231869,BOLSA 28X50 BLANCA 90U,Cuidado del Hogar,Accesorios del Hogar
@@ -9352,10 +9361,12 @@ id_producto,producto,categoria,subcategoria
 231925,BIOSILK SHAMPOO MANZANILLA  MIEL  950 ML,Cuidado Personal,Cuidado del Cabello
 231926,BIOSILK SHAMPOO BABY X SUAVE  950 ML,Cuidado Personal,Cuidado del Cabello
 231927,JABON LIQ BALLERINA DP VAINILLA COCO 650,Cuidado Personal,Cuidado de la Piel
+231928,JABON LIQU. BALLERINA  YOG BERRIES DP 6,Cuidado Personal,Cuidado de la Piel
 231929,JABON LIQ BALLERINA DP HIPOALERGENICO 65,Cuidado Personal,Cuidado de la Piel
 231930,JABON LIQ BALLERINA DP AVENA ALMENDRA 65,Cuidado Personal,Cuidado de la Piel
 231931,LIMPIAPISO TODOBRILLO REPELENTE PLUS 1.8,Cuidado del Hogar,Limpieza de Baños
 231933,TRIPACK TOALLA HUMEDA MAMI 3X96 UNID,Cuidado del Bebé,Cuidado del Bebé
+231934,DULCE DE LECHE DLACHE SIN AZUCAR 350GR,Lácteos y Derivados,Dulces de Leche y Manjares
 231942,LABIAL NIVEA ROSE 4.8 GR,Cuidado del Hogar,Productos Americanos
 232003,Bebida Ice 51 Balada 275 ml,Bebidas,Licores
 232006,Gaseosa Conti Guarana 350 ml,Bebidas,Gaseosas
@@ -10866,6 +10877,7 @@ id_producto,producto,categoria,subcategoria
 321945,GEL FIJADOR AQUANET 14.8 OZ,Cuidado del Hogar,Productos Americanos
 321949,LIMPIAPISO TODOBRILLO PLUS FLORAL 900ML,Cuidado del Hogar,Limpieza de Baños
 321950,LIMPIAPISO TODOBRILLO PLUS MARINO 1.8ML,Cuidado del Hogar,Limpieza de Baños
+321951,LIMPIAPISO TODOBRILLO PLUS REPELENT900ML,Cuidado del Hogar,Limpieza de Baños
 321973,DESODORANTE NUA ANTITR SARIRI 155 ML,Cuidado Personal,Cuidado de la Piel
 321975,DESODORANTE NUA SARIRI AGUA 155 ML,Cuidado Personal,Cuidado de la Piel
 321976,DESODORANTE NUA SARIRI CACTUS 155 ML,Cuidado Personal,Cuidado de la Piel
@@ -11348,6 +11360,7 @@ id_producto,producto,categoria,subcategoria
 337035,Desinfectante Aerosol X5 Bebe 360 cm,Cuidado del Hogar,Limpieza de Baños
 337036,Desinfectante Aerosol X5 Clasico 360 cm,Cuidado del Hogar,Limpieza de Baños
 337043,Protectores Diarios Nosotras Desodorante 60 un,Cuidado Personal,Cuidado Familiar
+337047,CEPILLO DOCTOR DENT BRIG.MASS.SENSITIVE,Cuidado Personal,Cuidado Bucal
 337055,CEPILLO DR.DENT TONGUER BOLD,Cuidado Personal,Cuidado Bucal
 337090,Desodorante Roll On Nivea Black White Clean 50 ml,Cuidado Personal,Cuidado de la Piel
 337091,Desodorante Roll On Nivea Black White Power 50 ml,Cuidado Personal,Cuidado de la Piel
@@ -14504,6 +14517,7 @@ id_producto,producto,categoria,subcategoria
 550170,Maixena Bloch 200 gr,Abarrotes,Repostería
 550171,Aji Rojo Bloch Picante 30 gr,Abarrotes,Condimentos y Legumbres
 550172,Vino Los Haroldos Bonarda 750 ml,Bebidas,Vinos y Champagne
+550173,Vino Nampe Endulzado Blanco Chardonnay 750 ml,Bebidas,Vinos y Champagne
 550180,Pack Gaseosa Coca Cola + Sprite 3 L,Bebidas,Gaseosas
 550181,CHUPETES D MIEL APISBOL POTE 40 UNID,Abarrotes,"Mermel, Mieles"
 550182,Alimento Cat Chow Adulto Pollo 85 gr,Abarrotes,Mascotas
@@ -16825,6 +16839,7 @@ id_producto,producto,categoria,subcategoria
 553893,MANI PELADO NUTRACE 500 GR,Abarrotes,Condimentos y Legumbres
 553894,TURRON DE SESAMO NUTRACE 150G,Abarrotes,Snack
 553895,HARINA DE QUINOA NUTRACE 500 GR,Abarrotes,Básicos
+553897,ACEITE D SESAMO NUTRACE EXT VIRGEN 250ML,Abarrotes,Básicos
 553899,TURRON D SESAMO MUTRACE C MANI 150G,Abarrotes,Snack
 553900,FREJOL NUTRACE ADSUKI 500 GR,Abarrotes,Condimentos y Legumbres
 553901,FREJOL NUTRACE MUNGO 500 GR,Abarrotes,Condimentos y Legumbres
@@ -16881,6 +16896,7 @@ id_producto,producto,categoria,subcategoria
 554067,CIGARRILLO WINSTON PURPLE MIX X 20,Bebidas,Cigarrillos
 554068,MARSHMALLOW CONDOR PLATANITO GRANDE 500,Abarrotes,Chocolates y Caramelos
 554070,GALLETA BISCOFF LOTTUS 250 GR,Abarrotes,Productos Americanos
+554071,GASEOSA HIGH SOODA ACAI BOT 2 LT,Bebidas,Gaseosas
 554072,AVENA KRIS INSTANTANEA CJA 700 GR,Abarrotes,Nutrición Infantil
 554073,BEBIDA FOUR LOKO HOT LTA 695 ML,Bebidas,Licores
 554333,Cerveza Paceña Lata Roja 473 Cc,Bebidas,Cervezas
@@ -19117,7 +19133,9 @@ id_producto,producto,categoria,subcategoria
 656273,Shampoo Carla Lorena Avena 700 ml,Cuidado Personal,Cuidado del Cabello
 656274,Shampoo Carla Lorena Avena 350 ml,Cuidado Personal,Cuidado del Cabello
 656275,Shampoo Carla Lorena Anticaspa 350 ml,Cuidado Personal,Cuidado del Cabello
+656287,PANO PISO BRILEHX 40X67 X 1,Cuidado del Hogar,Accesorios del Hogar
 656288,PANO P/PISO BRILLEX PACK 3 UNI,Cuidado del Hogar,Accesorios del Hogar
+656293,MEGA PANO PISO BRILHEX 80X90,Cuidado del Hogar,Accesorios del Hogar
 656294,Paño Alklin Piso Azul 60x90 cm,Cuidado del Hogar,Accesorios del Hogar
 656299,Pasta Dental Oral-B Frozen 75 ml,Cuidado Personal,Cuidado Bucal
 656309,Limpiador de Piso Bristar Cedron Cremoso 1.8 L,Cuidado del Hogar,Limpieza de Baños
@@ -19933,6 +19951,16 @@ id_producto,producto,categoria,subcategoria
 660332,ARCHER LIMPIADOR CREMOSO DESINF. CEDRON,Cuidado del Hogar,Limpieza de Baños
 660333,ARCHER LIMPIADOR CREMOSO DESINF. CEDRON,Cuidado del Hogar,Limpieza de Baños
 660334,DETERGENTE EN POLVO TODO BRILLO LIMON 50,Cuidado del Hogar,Limpieza de la Ropa
+660335,PANO MULTIUSO BRILHEX 28X50  X 5,Cuidado del Hogar,Accesorios del Hogar
+660336,PANO  P/FREGADERO BRILHEX X 3 - 28X30,Cuidado del Hogar,Accesorios del Hogar
+660337,PANO LIMPIEZA LEVE BRILHEX 50X25X3,Cuidado del Hogar,Accesorios del Hogar
+660338,PANO AMARILLO MULTIUSO BRILHEX 40X25 X 2,Cuidado del Hogar,Accesorios del Hogar
+660339,ESCURRIDOR BRILHEX 30 CM CON CABO,Cuidado del Hogar,Accesorios del Hogar
+660340,ESCURRIDOR BRILHEX 40 CM CON CABO,Cuidado del Hogar,Accesorios del Hogar
+660341,PANO PISO BRILHEX BLANCO 40X67  X3 BLANC,Cuidado del Hogar,Accesorios del Hogar
+660342,CEPILLO MULTIUSO BRILHEX CERDAS FIRMES,Cuidado del Hogar,Accesorios del Hogar
+660343,LIMPIAVIDRIOS 15 CM BRILHEX,Cuidado del Hogar,Accesorios del Hogar
+660345,PANO LIMPIEZA LEVE BRILHEX  CON PICOS X,Cuidado del Hogar,Accesorios del Hogar
 660346,PACK NA PANCHA 2 DETERGENTE FLORAL 1700G,Cuidado del Hogar,Limpieza de la Ropa
 660347,PACK NA PANCHA 2 DETERGENTE LIMON 600GR,Cuidado del Hogar,Limpieza de la Ropa
 660348,PACK NA PANCHA 2 DETERGENTE FLORAL 600GR,Cuidado del Hogar,Limpieza de la Ropa
@@ -19949,8 +19977,14 @@ id_producto,producto,categoria,subcategoria
 660369,PANO MICROFIBRA  ARCOIRIS TOTES 7PCS,Cuidado del Hogar,Accesorios del Hogar
 660370,PANO DE LIMPIEZA TOTES 6 UNI  DOBLE CARA,Cuidado del Hogar,Accesorios del Hogar
 660371,D SEDA MULTIFOLDER V-PAPEL  TOALLA INTER,Cuidado Personal,Cuidado Familiar
+660372,Desodorante En Aerosol Dove Tono Uniforme 250 ml,Cuidado Personal,Cuidado de la Piel
+660373,Serum Corporal Dove Con Acido Hialuronico 200 ml,Cuidado Personal,Cuidado de la Piel
+660374,Serum Corporal Dove Pro Retinol 200 ml,Cuidado Personal,Cuidado de la Piel
+660375,Serum Corporal Dove Tono Uniforme Con Niacinamida 200 ml,Cuidado Personal,Cuidado de la Piel
+660376,SEDAL CREMA DE PEINAR TOQUE DE SEDA 300M,Cuidado Personal,Cuidado del Cabello
 660377,GUANTES ASATEX GRUESO TALLA 7.5,Cuidado del Hogar,Accesorios del Hogar
 660378,GUANTES ASATEX GRUESO TALLA 8,Cuidado del Hogar,Accesorios del Hogar
+660379,GUANTES ASATEX GRUEGO TALLA 8.5,Cuidado del Hogar,Accesorios del Hogar
 660548,Cafe Copacabana Exportado Tostado 250 gr,Abarrotes,Café y Sucedáneos
 660711,Galleta Noel Octagonal Surtida 260 gr,Abarrotes,Temporada
 660852,Te Frutte Laxte 20 Sobres,Abarrotes,Café y Sucedáneos
@@ -22321,6 +22355,7 @@ id_producto,producto,categoria,subcategoria
 672905,Paneton La Francesa Choco Chips 750 gr,Panadería,Panadería Externa
 672906,PANETON ANIVERSARIO 1000 G BOLSA DE TELA (NUEVO ENVASE),Panadería,Panadería Externa
 672909,Mortadela Jamonada Fridosa 500 gr,Fiambres,Fiambres Externos
+672912,YOGURT BEBIBLE EBA  SACHET 120ML,Lácteos y Derivados,Yogures
 672913,Waffle Go Green Congelado Vainilla 8 un,Congelados,Masas y Comidas Congeladas
 672915,Waffle Go Green Congelado Arandano 8 un,Congelados,Masas y Comidas Congeladas
 672917,Pepperoni Laminado Osfim 150 gr,Fiambres,Fiambres Externos
@@ -23968,7 +24003,7 @@ id_producto,producto,categoria,subcategoria
 679714,Charque Cocido Libertad Clasico 100 gr,Carnes,Carnes Procesadas
 679716,Yogurt Nordland Mora 900 ml,Lácteos y Derivados,Yogures
 679720,Six Pack Queque Molido Andino,Pastelería y Masas Típicas,Pastelería Externa
-679721,YOGURT BEBIBLE BOTELLA 1LT,Lácteos y Derivados,Yogures
+679721,YOGUR BEBIBLE EBA BOTELLA 1L,Lácteos y Derivados,Yogures
 679723,Leche Chocolatada Lacteosbol 140 ml,Lácteos y Derivados,Leches
 679756,Pre Pizza Pan Cris Mediana 3 un,Panadería,Panadería Externa
 679766,Cocoa Breick Polvo 250 gr,Abarrotes,Nutrición Infantil
