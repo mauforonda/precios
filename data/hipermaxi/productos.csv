@@ -3702,6 +3702,10 @@ id_producto,producto,categoria,subcategoria
 59366,Vela Catedral Chica 8 un,Bazar,Cotillón
 59773,Vinagre Toscano Tinto 750 ml,Abarrotes,Básicos
 59900,Ron Medellin Añejo 2 L,Bebidas,Licores
+60022,WAFER TITA CAMARO VAINILLA 110G,Abarrotes,Galletas
+60023,GALLETA RELL TITA CHOCOLATE 132G,Abarrotes,Galletas
+60024,GALLETA RELL TITA CHOCOL BLACK 132G,Abarrotes,Galletas
+60026,GALLETA RELL TITA FRUTILLA 132G,Abarrotes,Galletas
 60468,Licor Cusenier Limoncello 750 ml,Bebidas,Licores
 60469,Vino Etchart Cafayate Rose 750 ml,Bebidas,Vinos y Champagne
 60470,Vino Etchart Gran Linaje Malbec 750 ml,Bebidas,Vinos y Champagne
@@ -7423,6 +7427,8 @@ id_producto,producto,categoria,subcategoria
 210071,GALLETA D ARROZ MACROBIOTICA DULCE 102G,Abarrotes,Dietéticos y Saludables
 210072,GALLETA D ARROZ MACROBIOTICA SIN SAL 102,Abarrotes,Dietéticos y Saludables
 210080,ENDULCORANTE DEZERO C STEVIA 250 ML,Abarrotes,Dietéticos y Saludables
+210081,GALLETA COFLER TORTITAS BLACK 84G,Abarrotes,Galletas
+210082,GALLETA COFLER TORTITAS CHOCOLATE 84G,Abarrotes,Galletas
 210083,ACEITE D OLIVA ARTESANO EXT VIRG 250ML,Abarrotes,Básicos
 210084,ACEITE D OLIVA ARTESANO EXT VIRG 500ML,Abarrotes,Básicos
 210085,GASEOSA CONTI NARANJA LTA 350ML,Bebidas,Gaseosas
@@ -9224,7 +9230,7 @@ id_producto,producto,categoria,subcategoria
 231652,Bloqueador Solar Facial Loreal UV Defender FPS 50 50 ml,Cuidado Personal,Cuidado de la Piel
 231653,Crema Gel Facial Garnier Express Aclara Anti-Manchas FPS 30 50 ml,Cuidado Personal,Cuidado de la Piel
 231654,Bloqueador Solar Loreal UV Defender Tono Claro FPS 50 40 ml,Cuidado Personal,Cuidado de la Piel
-231655,DOVE SH BOND+PEPTIDEOS 350ML,Cuidado Personal,Cuidado del Cabello
+231655,Shampoo Dove Bond Intense Repair Peptideos 350 ml,Cuidado Personal,Cuidado del Cabello
 231656,Jabon En Barra Dove Original Tripack 3 un 90 gr,Cuidado Personal,Cuidado de la Piel
 231658,Shampoo Dove Men Care 2 En 1 Fuerza Resistente 400 ml,Cuidado Personal,Cuidado del Cabello
 231659,Shampoo Dove Men Care Proteccion Anticaspa Con Cafeina 400 ml,Cuidado Personal,Cuidado del Cabello
@@ -9382,6 +9388,7 @@ id_producto,producto,categoria,subcategoria
 232006,Gaseosa Conti Guarana 350 ml,Bebidas,Gaseosas
 232007,Gaseosa Conti Cola 350 ml,Bebidas,Gaseosas
 232044,Gin Tonica Du Royale 275 Ml,Bebidas,Licores
+232062,DETERGENTE TODOBRILLO ORIGINAL 9.5 KG,Cuidado del Hogar,Limpieza de la Ropa
 232064,SALSA DE TOMATE BARILLA TRADICIONAL 400G,Abarrotes,Salsas y Extracto de Tomate
 232065,MAYONESA HERDEZ GUACAMOLE 305 GR,Abarrotes,Aderezos
 232066,MAYONESA HERDEZ HABANERO 305 GR,Abarrotes,Aderezos
@@ -16920,6 +16927,7 @@ id_producto,producto,categoria,subcategoria
 554071,GASEOSA HIGH SOODA ACAI BOT 2 LT,Bebidas,Gaseosas
 554072,AVENA KRIS INSTANTANEA CJA 700 GR,Abarrotes,Nutrición Infantil
 554073,BEBIDA FOUR LOKO HOT LTA 695 ML,Bebidas,Licores
+554081,PACK 6 NECTAL DEL SOL 300ML,Bebidas,"Jugos, Néctar"
 554333,Cerveza Paceña Lata Roja 473 Cc,Bebidas,Cervezas
 554466,Detergente Liquido Ola Futuro Limpieza Completa 5 L,Cuidado del Hogar,Limpieza de la Ropa
 554468,Suavizante Ropa Ola Suavecito Original 5 L,Cuidado del Hogar,Limpieza de la Ropa
@@ -20000,6 +20008,7 @@ id_producto,producto,categoria,subcategoria
 660363,RECOGEDOR MANGO LARGO SCOTCH-BRITE REFOR,Cuidado del Hogar,Accesorios del Hogar
 660364,ESPONJA  FLEX  SCOTCH BRITE SCRUB PINK X,Cuidado del Hogar,Accesorios del Hogar
 660365,ESPONJA DE RED MULTIUSO SCOTCH BRITE X1,Cuidado del Hogar,Accesorios del Hogar
+660366,GUANTES DE GOMA DOMESTICOS TOTES  XL,Cuidado del Hogar,Accesorios del Hogar
 660367,ESPONJA MAGICA TOTES  FREGADO Y LAVADO I,Cuidado del Hogar,Accesorios del Hogar
 660368,Servilletas Seda Interfoliadas Pack 300 un,Cuidado Personal,Cuidado Familiar
 660369,PANO MICROFIBRA  ARCOIRIS TOTES 7PCS,Cuidado del Hogar,Accesorios del Hogar
@@ -20092,7 +20101,7 @@ id_producto,producto,categoria,subcategoria
 664897,Desodorante Roll On Dove Antitranspirante Frambuesa Y Jazmin 50 ml,Cuidado Personal,Cuidado de la Piel
 664898,Jabon Dove Original Six Pack 90 gr,Cuidado Personal,Cuidado de la Piel
 664899,Shampoo Dove Bond + Peptideos 650 ml,Cuidado Personal,Cuidado del Cabello
-664900,DOVE CO RECONST+AMINOACIDO 650ML,Cuidado Personal,Cuidado del Cabello
+664900,Acondicionador Dove Reconstrucción Completa Y Aminoacidos 650 ml,Cuidado Personal,Cuidado del Cabello
 664902,Shampoo Dove Reconst + Aminoacido 650 ml,Cuidado Personal,Cuidado del Cabello
 664904,Maquina de Afeitar Bic Flex 5 Blister 2 un,Cuidado Personal,Cuidado de la Piel
 664905,Maquina de Afeitar Bic Flex 4 Blister 3 un,Cuidado Personal,Cuidado de la Piel
@@ -25820,6 +25829,7 @@ id_producto,producto,categoria,subcategoria
 804097,CH 5 150 CEPILLO RECTANGULAR PARA MASCOTAS 15X10CM,Bazar Importación,MASCOTAS GENERAL
 804876,CH 5 162 PLATO DOBLE PARA MASCOTA 40X22X8CM,Bazar Importación,MASCOTAS GENERAL
 804906,Chocolate Para Ti Leche Dietetico 100 gr,Abarrotes,Dietéticos y Saludables
+804911,Agua San Pellegrino 750 ml,Bebidas,Bebidas Usa
 804917,Cepillo para Cabello Beige 25.5x7.5 cm,Bazar Importación,Bijouteria/Cuidado Personal
 804918,Cepillo para Cabello Beige 25x7 cm,Bazar Importación,Bijouteria/Cuidado Personal
 804919,Cepillo para Cabello Beige 23x6 cm,Bazar Importación,Bijouteria/Cuidado Personal
@@ -29216,7 +29226,7 @@ id_producto,producto,categoria,subcategoria
 868287,Pack Pantene Shampoo Fuerza Y Reconstrucción 400 ml + Acondicionador 170 ml,Cuidado Personal,Cuidado del Cabello
 868288,PACK PANTENE 1SH EXTRALISO 400ML+1AC400M,Cuidado Personal,Cuidado del Cabello
 868289,PACK PANTENE 1SH CUID 2EN1 400ML+1CP CTR,Cuidado Personal,Cuidado del Cabello
-868291,PACK PANTENE 1SH CUID 2EN1 400ML+1AC EXT,Cuidado Personal,Cuidado del Cabello
+868291,Pack Shampoo Pantene Cuidado 2en1 400 ml + Acondicionador Extremo,Cuidado Personal,Cuidado del Cabello
 868292,PACK PANTENE 1SH CUID 2EN1 400ML+1AC 3MM,Cuidado Personal,Cuidado del Cabello
 868293,PACK PANTENE 1SH CTRL CAIDA 400ML+1AC 3M,Cuidado Personal,Cuidado del Cabello
 868294,PACK PANTENE 1SH KERATINA 300ML+1AC 3MM,Cuidado Personal,Cuidado del Cabello
@@ -30254,6 +30264,7 @@ id_producto,producto,categoria,subcategoria
 924198,Marcador Permanente Azul,Bazar,Librería
 924679,Papel Madera,Bazar,Librería
 924682,Plancheta Carta,Bazar,Librería
+924689,Notas Adhesivas Fosforecente,Bazar,Librería
 924734,ROMP 1000 PZS TESOROS CLASICOS,Juguetería,Juguetería Didáctica/Temporada
 924808,LAPICERO BIC ROUND STIC VERDE 8226,Bazar,Librería
 924809,Boligrafo Bic Rojo,Bazar,Librería
