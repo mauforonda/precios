@@ -3214,7 +3214,7 @@ id_producto,producto,categoria,subcategoria
 31266,Galletas Jasmine Cacau Cereales Sin Gluetn,Abarrotes,Dietéticos y Saludables
 31267,Lavavajilla Limpol Limon 500 ml,Cuidado del Hogar,Limpieza de Cocina
 31268,Avena Jasmine Floco Grueso Sin Gluten 200 gr,Abarrotes,Nutrición Infantil
-31269,Avena Jasmine Floco Finos Sin Gluten 200 gr,Abarrotes,Nutrición Infantil
+31269,Avena Jasmine Floco Finos Sin Gluten 200 gr,Abarrotes,Dietéticos y Saludables
 31272,Te Verde Helado Tai Jengibre 250 ml,Bebidas,Bebidas Varias
 31276,Snack Veggie Avena Chia Zanahahoria Remolacha 100 gr,Abarrotes,Dietéticos y Saludables
 31277,Snack Veggie Sesamo Hierba Finas 100 gr,Abarrotes,Dietéticos y Saludables
@@ -3627,8 +3627,8 @@ id_producto,producto,categoria,subcategoria
 47189,Esparragos Goya Verde 11.6 oz,Abarrotes,Verduras en Conserva
 47391,"Filtro  N4, 30 Un - Melitta",Bazar,Articulos de Cocina
 47392,Whisky Chivas Regal 1 L,Bebidas,Licores
-47397,Filtro Para Cafe Melitta 103 30 un,Abarrotes,Café y Sucedáneos
-47398,Filtro Para Cafe Melitta 102 30 un,Abarrotes,Café y Sucedáneos
+47397,Filtro Para Cafe Melitta 103 30 un,Bazar,Articulos de Cocina
+47398,Filtro Para Cafe Melitta 102 30 un,Bazar,Articulos de Cocina
 47457,Whisky Grants S Tubo con Vaso 1 L,Bebidas,Licores
 47678,Whisky Old Parr 1 L,Bebidas,Licores
 48526,Polvo de Hornear Fleischmann 1 kg,Abarrotes,Repostería
@@ -9743,6 +9743,7 @@ id_producto,producto,categoria,subcategoria
 240867,Detergente Polvo Girandosol Rosa Floral 800 gr,Cuidado del Hogar,Limpieza de la Ropa
 240868,Detergente Polvo Hipoalergenico 800 gr,Cuidado del Hogar,Limpieza de la Ropa
 240870,Detergente Polvo Girandosol Floral 800 gr,Cuidado del Hogar,Limpieza de la Ropa
+240872,SUAVIZANTE GIRANDOSOL PAIXAO SECRETA  2,Cuidado del Hogar,Limpieza de la Ropa
 240879,CEPILLO STA MARIA TANQUE RECTG 1 UND,Cuidado del Hogar,Accesorios del Hogar
 240890,My Toffee Coco 600 gr,Abarrotes,Chocolates y Caramelos
 240893,Mermelada Candy Alimenta Mora 320 gr,Abarrotes,"Mermel, Mieles"
@@ -10484,6 +10485,7 @@ id_producto,producto,categoria,subcategoria
 310389,CAFE LA GREGORIA MOLIDO DP 250G,Abarrotes,Café y Sucedáneos
 310390,LICOR D CAFE BUEN AMIGO BOT 1LT,Bebidas,Licores
 310394,PACK WAFER MUNDIAL 6X100G 4VASOS,Abarrotes,Galletas
+310396,CHIPILOS DULCE CORONADO BSA 200G,Abarrotes,Snack
 310398,CERVEZA BURGUESA 47 BOT 330ML,Bebidas,Cervezas
 310399,CERVEZA BURGUESA 47 LTA 350ML,Bebidas,Cervezas
 310402,GOMITA DOCILE JELLY BEANS SURTIDO 80G,Abarrotes,Golosinas - Varias
@@ -10910,6 +10912,8 @@ id_producto,producto,categoria,subcategoria
 321949,LIMPIAPISO TODOBRILLO PLUS FLORAL 900ML,Cuidado del Hogar,Limpieza de Baños
 321950,LIMPIAPISO TODOBRILLO PLUS MARINO 1.8ML,Cuidado del Hogar,Limpieza de Baños
 321951,LIMPIAPISO TODOBRILLO PLUS REPELENT900ML,Cuidado del Hogar,Limpieza de Baños
+321953,DETERGENTE BLUE UP AZUL 3.5 KG,Cuidado del Hogar,Limpieza de la Ropa
+321956,DETERGENTE BLUE UP FLORAL 1.8KG,Cuidado del Hogar,Limpieza de la Ropa
 321973,Desodorante En Aerosol Nivea Antitranspirante 150 ml,Cuidado Personal,Cuidado de la Piel
 321975,Desodorante En Aerosol Nivea Sangría Magma 150 ml,Cuidado Personal,Cuidado de la Piel
 321976,Desodorante En Aerosol Nivea Sangría Cactus 150 ml,Cuidado Personal,Cuidado de la Piel
@@ -14943,9 +14947,9 @@ id_producto,producto,categoria,subcategoria
 550940,Granola Jasmine Avena Maiz 250 gr,Abarrotes,Nutrición Infantil
 550941,Granola Jasmine Maca Canela 250 gr,Abarrotes,Nutrición Infantil
 550942,Granola Jasmine Miel Y Frutas 300 gr,Abarrotes,Nutrición Infantil
-550943,Granola Jasmine Superfrutas 250 gr,Abarrotes,Nutrición Infantil
-550944,Granola Jasmine Fruta Tropical 250 gr,Abarrotes,Nutrición Infantil
-550945,Granola Jasmine Cranberries Acai 250 gr,Abarrotes,Nutrición Infantil
+550943,Granola Jasmine Superfrutas 250 gr,Abarrotes,Dietéticos y Saludables
+550944,Granola Jasmine Fruta Tropical 250 gr,Abarrotes,Dietéticos y Saludables
+550945,Granola Jasmine Cranberries Acai 250 gr,Abarrotes,Dietéticos y Saludables
 550946,Granola Jasmine Castanas Cacao 250 gr,Abarrotes,Nutrición Infantil
 550947,Chocolate Taboada Surtido 110 gr,Abarrotes,Chocolates y Caramelos
 550948,Chocolate Taboada Relleno Surtido 122 gr,Abarrotes,Chocolates y Caramelos
@@ -16942,6 +16946,7 @@ id_producto,producto,categoria,subcategoria
 554075,LIMON DESHID WARAS EN RODAJAS 50 GR,Abarrotes,Frutas en Conserva
 554076,FRUTILLA DESHID WARAS CHOCOLATE 45 GR,Abarrotes,Frutas en Conserva
 554081,PACK 6 NECTAL DEL SOL 300ML,Bebidas,"Jugos, Néctar"
+554082,PACK 2 PEPSI  2.5 LT,Bebidas,Gaseosas
 554333,Cerveza Paceña Lata Roja 473 Cc,Bebidas,Cervezas
 554466,Detergente Liquido Ola Futuro Limpieza Completa 5 L,Cuidado del Hogar,Limpieza de la Ropa
 554468,Suavizante Ropa Ola Suavecito Original 5 L,Cuidado del Hogar,Limpieza de la Ropa
@@ -21461,7 +21466,7 @@ id_producto,producto,categoria,subcategoria
 669633,PANO GRIS P/PISO BRISTAR 50X60CM,Cuidado del Hogar,Accesorios del Hogar
 669647,Labial En Barra Vogue Tono Fresa Chic 4 gr,Cuidado Personal,Cuidado de la Piel
 669649,TALCO BABY POWDER BLUE 200G,Cuidado del Bebé,Cuidado del Bebé
-669650,FOOT POWDER TALCO PARA PIES,Cuidado Personal,Cuidado de la Piel
+669650,Talco Para Pies Foot Powder 100 gr,Cuidado Personal,Cuidado de la Piel
 669651,ACEITE DE BEBE CLASICO,Cuidado del Bebé,Cuidado del Bebé
 669652,ACEITE DE BEBE ALOE VERA,Cuidado del Bebé,Cuidado del Bebé
 669654,Aceite Capilar Skin Hair Oil Coco 3 En 1 100 ml,Cuidado Personal,Cuidado de la Piel
@@ -21545,7 +21550,7 @@ id_producto,producto,categoria,subcategoria
 669839,Protector Solar Ponds Sun Miracle Tube Bright,Cuidado Personal,Cuidado de la Piel
 669840,Agua Micelar Ponds Fruity Hydra Fresh Sandia 3,Cuidado Personal,Cuidado de la Piel
 669841,Agua Micelar Ponds Bye Bye Manchas 300 ml,Cuidado Personal,Cuidado de la Piel
-669842,EFECTO GEL SECADO RAPIDO CALMA PACIFICA,Cuidado Personal,Cuidado de la Piel
+669842,Esmalte De Uñas Sol De Mayo Efecto Gel Calm Amatista 10 ml,Cuidado Personal,Cuidado de la Piel
 669849,Gel Ponds Hialuronico Activo 110 gr,Cuidado Personal,Cuidado de la Piel
 669850,Gel Ponds Fruity Hydrating Sandia 110 gr,Cuidado Personal,Cuidado de la Piel
 669851,Limpiador Facial Ponds Fruity Hydra Fresh Sandia,Cuidado Personal,Cuidado de la Piel
@@ -23592,6 +23597,7 @@ id_producto,producto,categoria,subcategoria
 674931,CHARQUE SNACK FITNESS RES 20 G,Carnes,Carnes Procesadas
 674932,PAN RUSTICO OVOPLUS BOLSA 500GRS,Panadería,Panadería Externa
 674950,YOGURT KEFIR DELIZIA FRUTILLA 0 AZUCAR 1000GR,Lácteos y Derivados,Yogures
+674952,PACK CONGELADO DE ALBONDIGAS DE CARNE STEGE PZA 3X2,Congelados,Carnes Congeladas
 674954,"PACK CAZADOR, LYONEZA, QUESO DE CHANCHO TORITO 3X2",Fiambres,Fiambres Externos
 674957,PALETA TRADICION CANELA - LECHE DELIZIA 70ML,Congelados,"Helados, Cassattas y Picoleses"
 675245,Miel de Abeja Eva Promiel 250 gr,Abarrotes,"Mermel, Mieles"
