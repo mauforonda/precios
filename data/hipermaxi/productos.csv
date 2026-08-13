@@ -3704,6 +3704,7 @@ id_producto,producto,categoria,subcategoria
 59773,Vinagre Toscano Tinto 750 ml,Abarrotes,Básicos
 59900,Ron Medellin Añejo 2 L,Bebidas,Licores
 60005,VINO MARQ D CACERES VERDEJO 750ML,Bebidas,Vinos y Champagne
+60019,ALCAPARRA GUSTOSI EN VINAGRE FCO 45G,Abarrotes,Verduras en Conserva
 60022,WAFER TITA CAMARO VAINILLA 110G,Abarrotes,Galletas
 60023,GALLETA RELL TITA CHOCOLATE 132G,Abarrotes,Galletas
 60024,GALLETA RELL TITA CHOCOL BLACK 132G,Abarrotes,Galletas
@@ -7422,6 +7423,7 @@ id_producto,producto,categoria,subcategoria
 210054,CARAMELO DORI HORTELA MINT BSA 500G,Abarrotes,Chocolates y Caramelos
 210055,SAN BITTER PALMENIA 1LT,Bebidas,Licores
 210062,ENERGIZANTE RUSH MUNDIAL LTA 269ML,Bebidas,Energizantes
+210064,LICOR CRISTALINO CHAIRU PREMIUM 750ML,Bebidas,Licores
 210065,GALLETA MABEL CREMOSITAS MAX 216 GR,Abarrotes,Galletas
 210066,AVENA INSTANT AVELINDA DP 500G,Abarrotes,Nutrición Infantil
 210068,GALLETA D ARROZ MACROBIOTICA CON SAL 102G,Abarrotes,Dietéticos y Saludables
@@ -15058,7 +15060,7 @@ id_producto,producto,categoria,subcategoria
 551130,Postre Para Bebe Zummy Manzana 110 gr,Abarrotes,Nutrición Infantil
 551131,Postre Para Bebe Zummy Pera 110 gr,Abarrotes,Nutrición Infantil
 551132,Postre Para Bebe Zummy Durazno 90 gr,Abarrotes,Nutrición Infantil
-551134,Chicle Acido Relleno 40 un,Abarrotes,Chocolates y Caramelos
+551134,Chicle Acido Relleno 40 un,Abarrotes,Golosinas - Varias
 551149,Papa La Mejicana Salada 200 gr,Abarrotes,Snack
 551150,Papa La Mejicana Jalapeño Queso Limon 200 gr,Abarrotes,Snack
 551152,Gragea Breick Arroz Chocolate 25 gr,Abarrotes,Golosinas - Varias
@@ -15578,10 +15580,10 @@ id_producto,producto,categoria,subcategoria
 552182,Nectar Pura Vida Manzana 2 L,Bebidas,"Jugos, Néctar"
 552183,Nectar Pura Vida Durazno 2 L,Bebidas,"Jugos, Néctar"
 552184,Nectar Pura Vida Cereza Manzana 2 L,Bebidas,"Jugos, Néctar"
-552192,Chicle Acido Super Hiper Acido 350 gr,Abarrotes,Chocolates y Caramelos
-552193,Chicle Kataboom Surtido 288 gr,Abarrotes,Chocolates y Caramelos
+552192,Chicle Acido Super Hiper Acido 350 gr,Abarrotes,Golosinas - Varias
+552193,Chicle Kataboom Surtido 288 gr,Abarrotes,Golosinas - Varias
 552195,Chicle Acido Super Hiper Acido Surtido,Abarrotes,Golosinas - Varias
-552196,Chicle Kataboom Surtido 576 gr,Abarrotes,Chocolates y Caramelos
+552196,Chicle Kataboom Surtido 576 gr,Abarrotes,Golosinas - Varias
 552197,Chicha Taquiña 330 ml,Bebidas,Cervezas
 552198,Chicha Taquiña 440 ml,Bebidas,Cervezas
 552204,Galleta Juanita Surtida Quinua Canahua,Abarrotes,Galletas
@@ -16776,6 +16778,7 @@ id_producto,producto,categoria,subcategoria
 553762,Gaseosa Fanta Papaya 1 L,Bebidas,Gaseosas
 553763,Gaseosa Fanta Naranja 1 L,Bebidas,Gaseosas
 553764,GALLETA FIELD VAINILLA 222 GR,Abarrotes,Galletas
+553765,SINGANI PREMIUM LA VIUDA HUNGARA 700 ML,Bebidas,Licores
 553766,PACK 6 NECTAL DEL SOL TETRA 200 ML ESTUC,Bebidas,"Jugos, Néctar"
 553767,Gaseosa High Soda Canela 2 L,Bebidas,Gaseosas
 553768,Gaseosa High Soda Mocochinchi 2 L,Bebidas,Gaseosas
@@ -16945,8 +16948,10 @@ id_producto,producto,categoria,subcategoria
 554073,BEBIDA FOUR LOKO HOT LTA 695 ML,Bebidas,Licores
 554075,LIMON DESHID WARAS EN RODAJAS 50 GR,Abarrotes,Frutas en Conserva
 554076,FRUTILLA DESHID WARAS CHOCOLATE 45 GR,Abarrotes,Frutas en Conserva
+554077,VODKA 1825 QUINOA REAL CJA 700 ML,Bebidas,Licores
 554081,PACK 6 NECTAL DEL SOL 300ML,Bebidas,"Jugos, Néctar"
 554082,PACK 2 PEPSI  2.5 LT,Bebidas,Gaseosas
+554084,PACK 4 PASTAS FAMOSA AHORRO,Abarrotes,Básicos
 554333,Cerveza Paceña Lata Roja 473 Cc,Bebidas,Cervezas
 554466,Detergente Liquido Ola Futuro Limpieza Completa 5 L,Cuidado del Hogar,Limpieza de la Ropa
 554468,Suavizante Ropa Ola Suavecito Original 5 L,Cuidado del Hogar,Limpieza de la Ropa
@@ -23596,8 +23601,12 @@ id_producto,producto,categoria,subcategoria
 674930,CHARQUE SABOR JALAPE¥O LIMON RES  VILOMA 50 G,Carnes,Carnes Procesadas
 674931,CHARQUE SNACK FITNESS RES 20 G,Carnes,Carnes Procesadas
 674932,PAN RUSTICO OVOPLUS BOLSA 500GRS,Panadería,Panadería Externa
+674939,YOGURT GRIEGO FQM MORA PROB C/STEVIA 500G,Lácteos y Derivados,Yogures
+674942,YOGURT GRIEGO FQM FRUTILLA PROBIO C/STEVIA 250G,Lácteos y Derivados,Yogures
+674943,YOGURT GRIEGO FQM MORA PROBIO C/STEVIA 250G,Lácteos y Derivados,Yogures
 674950,YOGURT KEFIR DELIZIA FRUTILLA 0 AZUCAR 1000GR,Lácteos y Derivados,Yogures
 674952,PACK CONGELADO DE ALBONDIGAS DE CARNE STEGE PZA 3X2,Congelados,Carnes Congeladas
+674953,PACK 3X2  LYONEZA/ Q CHANCHO Y CERVECERO AL VACIO STEGE,Fiambres,Fiambres Externos
 674954,"PACK CAZADOR, LYONEZA, QUESO DE CHANCHO TORITO 3X2",Fiambres,Fiambres Externos
 674957,PALETA TRADICION CANELA - LECHE DELIZIA 70ML,Congelados,"Helados, Cassattas y Picoleses"
 675245,Miel de Abeja Eva Promiel 250 gr,Abarrotes,"Mermel, Mieles"
@@ -28913,6 +28922,7 @@ id_producto,producto,categoria,subcategoria
 861389,CH 77 42 JUEGO DE MESA 16 EN 1,Juguetería Importación,Juguetería Didáctica/Temporada
 861397,Plato + Juguete Mascota 15,Bazar,Mascotas General
 861398,Plato + Juguete Mascota 20,Bazar,Mascotas General
+861401,PAT PALA DE MASCOTAS OFERTA 10,Bazar,Mascotas General
 861403,Salsa Picante Chocula Original 150 ml,Abarrotes,Productos Americanos
 861405,Plato + Juguete Mascota 10,Bazar,Mascotas General
 861424,Hervidor Electrico Inox Taurus 1.8 Litros Zeus Electro,Bazar,Electrodoméstico/Línea Blanca-Hogar
