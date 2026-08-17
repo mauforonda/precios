@@ -9774,6 +9774,7 @@ id_producto,producto,categoria,subcategoria
 241172,Mantequilla de Ajo Santa Helena 100 gr,Lácteos y Derivados,Mantequillas y Margarinas
 241300,Queso Criollo Flor de Leche Prensado 250 gr,Lácteos y Derivados,Quesos
 241771,Cafe Iguazu Extra Fuerte 50 gr,Abarrotes,Café y Sucedáneos
+241784,"SALSA MARTHA WHITE PIZZA CRUST MIX 6,5OZ",Abarrotes,Aderezos
 241806,Crema Para Cafe Nestle 16 oz,Abarrotes,Productos Americanos
 241813,Salsa Ricos Cheese Para Nachos 99 gr,Abarrotes,Aderezos
 241822,Salsa Ragu Tradicional 14 oz,Abarrotes,Productos Americanos
@@ -16849,6 +16850,7 @@ id_producto,producto,categoria,subcategoria
 553820,Vino Tinto St Giorgio Chianti Reserva 750 ml,Bebidas,Vinos y Champagne
 553822,Vino St Giorgio Chianti Aniversario Tinto 750 ml,Bebidas,Vinos y Champagne
 553824,VINO ESP LAMBRUSCO ROSA AMABILE 750 ML,Bebidas,Vinos y Champagne
+553827,VINO ESP TERRE VERDIANE LAMBRUSCO 750ML,Bebidas,Vinos y Champagne
 553831,VINO ESP LAMBRUSCO REMIGIOTTO 750ML,Bebidas,Vinos y Champagne
 553832,VINO ESP LAMBRUSCO AMABILE 750 ML,Bebidas,Vinos y Champagne
 553835,Vino Espumante Masottina Prosecco Brut 750 ml,Bebidas,Vinos y Champagne
@@ -16966,6 +16968,7 @@ id_producto,producto,categoria,subcategoria
 554071,GASEOSA HIGH SOODA ACAI BOT 2 LT,Bebidas,Gaseosas
 554072,AVENA KRIS INSTANTANEA CJA 700 GR,Abarrotes,Nutrición Infantil
 554073,BEBIDA FOUR LOKO HOT LTA 695 ML,Bebidas,Licores
+554074,TOMATE DESHID WARAS CON OREGANO 50 GR,Abarrotes,Frutas en Conserva
 554075,LIMON DESHID WARAS EN RODAJAS 50 GR,Abarrotes,Frutas en Conserva
 554076,FRUTILLA DESHID WARAS CHOCOLATE 45 GR,Abarrotes,Frutas en Conserva
 554077,VODKA 1825 QUINOA REAL CJA 700 ML,Bebidas,Licores
@@ -18260,6 +18263,7 @@ id_producto,producto,categoria,subcategoria
 629883,FANTA CRIMSON SOUR CHERRY 355ML,Bebidas,Bebidas Usa
 629884,CARAMELO FERRARA FUN DIP 12GR,Abarrotes,Productos Americanos
 629886,SALSA VALENTINA HOT SAUCE EXTRA HOT 370ML,Abarrotes,Productos Americanos
+629901,CHUPETE BOLLIPOP BONART 11 GR,Abarrotes,Productos Americanos
 630010,Alimento Pedigree Cachorro 1.5 kg,Abarrotes,Mascotas
 630011,Gaseosa Crush Piña 355 ml,Bebidas,Bebidas Usa
 630012,Cereal Kelloggs Cocoa Krispies 439 gr,Abarrotes,Productos Americanos
@@ -23632,12 +23636,14 @@ id_producto,producto,categoria,subcategoria
 674942,YOGURT GRIEGO FQM FRUTILLA PROBIO C/STEVIA 250G,Lácteos y Derivados,Yogures
 674943,YOGURT GRIEGO FQM MORA PROBIO C/STEVIA 250G,Lácteos y Derivados,Yogures
 674944,YOGURT GRIEGO FQM MARACUYA PROBIO C/STEVIA 250G,Lácteos y Derivados,Yogures
+674946,YOGURT BEBIBLE FQM FRUTILLA PROBIO C/STEVIA 1L,Lácteos y Derivados,Yogures
 674950,YOGURT KEFIR DELIZIA FRUTILLA 0 AZUCAR 1000GR,Lácteos y Derivados,Yogures
 674952,PACK CONGELADO DE ALBONDIGAS DE CARNE STEGE PZA 3X2,Congelados,Carnes Congeladas
 674953,PACK 3X2  LYONEZA/ Q CHANCHO Y CERVECERO AL VACIO STEGE,Fiambres,Fiambres Externos
 674954,"PACK CAZADOR, LYONEZA, QUESO DE CHANCHO TORITO 3X2",Fiambres,Fiambres Externos
 674956,PALETA TRADICION CANELA - MARACUYA DELIZIA 70ML,Congelados,"Helados, Cassattas y Picoleses"
 674957,PALETA TRADICION CANELA - LECHE DELIZIA 70ML,Congelados,"Helados, Cassattas y Picoleses"
+674958,PILFRUT CHERRY 175ML BOLSA,Lácteos y Derivados,Leches
 674960,YOGURT GRIEGO DELIZIA PIE DE LIMON,Lácteos y Derivados,Yogures
 675245,Miel de Abeja Eva Promiel 250 gr,Abarrotes,"Mermel, Mieles"
 676113,Habanito Bits Cream Coojies Cream 120 gr,Congelados,"Helados, Cassattas y Picoleses"
@@ -24001,6 +24007,7 @@ id_producto,producto,categoria,subcategoria
 679032,TORTA DE CHOCOLATE PEQUENA ROSA CRUZ,Pastelería y Masas Típicas,Pastelería Externa
 679034,TORTA DE MERENGUE PEQUENA ROSA CRUZ,Pastelería y Masas Típicas,Pastelería Externa
 679035,BRAZO DE GITANO PEQUENO ROSA CRUZ,Pastelería y Masas Típicas,Pastelería Externa
+679036,TORTA DE TRES LECHES ROSA CRUZ,Pastelería y Masas Típicas,Pastelería Externa
 679039,GALLETAS CHOCOLATE/VAINILLA ROSA CRUZ,Pastelería y Masas Típicas,Pastelería Externa
 679040,GALLETAS DE CHAMPAGNE ROSA CRUZ,Pastelería y Masas Típicas,Pastelería Externa
 679041,PLACAS DE MERENGUE ROSA CRUZ,Pastelería y Masas Típicas,Pastelería Externa
@@ -28911,6 +28918,7 @@ id_producto,producto,categoria,subcategoria
 861070,Corta Cuticula Beter,Bazar,Bijouteria/Cuidado Personal
 861127,Agua de Coco Goya Coconut 350 ml,Bebidas,Bebidas Varias
 861152,Spaguetti Barilla 454 gr,Abarrotes,Productos Americanos
+861198,JAN NESECER MEDIANO  28,Bazar,Bijouteria/Cuidado Personal
 861206,JAN SET PRENDEDOR CABELLO  25,Bazar,Bijouteria/Cuidado Personal
 861222,CORTAUNAS DE MANICURA CROMADO BETER,Bazar,Bijouteria/Cuidado Personal
 861223,PIEDRA RASPADORA  BETER,Bazar,Bijouteria/Cuidado Personal
@@ -29087,8 +29095,10 @@ id_producto,producto,categoria,subcategoria
 863870,ESPEJO MACRO DE BOLSA BETER,Bazar,Bijouteria/Cuidado Personal
 863873,TAPER REDONDO C/TAPA MR 500ML,Bazar,Menaje Plástico
 863886,Vestono Lavanda Aromatizante 1recuentreL,Bazar,Automotriz
+863889,HUESO MASCOTA FRIENDLY EX GRANDE,Bazar,Mascotas General
 863899,HIP TOALLA DE NINO EN CAJA 65,TEXTILES Y ZAPATOS,TOALLAS
 863956,BARRITAS P/R MASCOTAS DENTITOY 250GR,Bazar,Mascotas General
+863957,HOJUELA MASCOTA FRIENDLY X 8 UNID.,Bazar,Mascotas General
 863958,HUESO MASCOTA FRIENDLY 8-10CM,Bazar,Mascotas General
 863959,HUESO  MASACOTA FREENDLY 13-14CM,Bazar,Mascotas General
 863960,HUESO MASCOTA FRIENDLY 17-18CM,Bazar,Mascotas General
