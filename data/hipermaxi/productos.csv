@@ -3717,7 +3717,18 @@ id_producto,producto,categoria,subcategoria
 60028,MANI PINZONES C CHOCOLATE DP 220G,Abarrotes,Chocolates y Caramelos
 60038,GOMITA YUMMY FRUTILLA C CREMA 150G,Abarrotes,Golosinas - Varias
 60039,GOMITA YUMMY SANDIA BSA 500G,Abarrotes,Golosinas - Varias
+60046,LENTEJA PINDUCA BSA 400G,Abarrotes,Condimentos y Legumbres
+60047,PEPINILLO PINDUCA RODAJAS FCO 440G,Abarrotes,Verduras en Conserva
+60048,PIKLES PINDUCA SUAVE FCO 300G,Abarrotes,Verduras en Conserva
+60049,HARINA PINDUCA PANKO APANAR 200G,Abarrotes,Básicos
+60052,MIEL D ABEJA PINDUCA PET 55OG,Abarrotes,"Mermel, Mieles"
+60053,CERVEZA PAULANER MUNCHNER FCB INT LTA 50,Bebidas,Cervezas
+60054,PIPOCA PINDUCA MANTEQUILLA 100G,Abarrotes,Snack
+60055,PIPOCA PINDUCA CARAMELO 100G,Abarrotes,Snack
+60056,PIPOCA PINDUCA NATURAL 100G,Abarrotes,Snack
 60067,LECHE D COCO SOCOCO TETRA 200ML,Abarrotes,Repostería
+60076,VAPE WAKA APEX BLUEBERRY ICE 30000P,Bebidas,Cigarrillos
+60077,VAPE WAKA APEX WATERMELON STRAWB 30000P,Bebidas,Cigarrillos
 60468,Licor Cusenier Limoncello 750 ml,Bebidas,Licores
 60469,Vino Etchart Cafayate Rose 750 ml,Bebidas,Vinos y Champagne
 60470,Vino Etchart Gran Linaje Malbec 750 ml,Bebidas,Vinos y Champagne
@@ -3892,7 +3903,7 @@ id_producto,producto,categoria,subcategoria
 73326,Shampoo Johnsons Manzanilla 400 ml KNV,Cuidado del Bebé,Cuidado del Bebé
 73458,Cotonetes Johnsons Caja 75 un KNV,Cuidado del Bebé,Cuidado del Bebé
 73466,Cotonetes Johnsons Caja 150 un KNV,Cuidado del Bebé,Cuidado del Bebé
-73490,Talco Bebe Johnsons Proteccion Pura 200 gr KNV,Cuidado del Bebé,Cuidado del Bebé
+73490,Polvo De Almidón Johnsons  X 200 g,Cuidado del Bebé,Cuidado del Bebé
 73512,Jabon Barra Johnsons Original 80 gr KNV,Cuidado del Bebé,Cuidado del Bebé
 73687,Protector Solar Sundown 30fps 120 ml,Cuidado Personal,Cuidado de la Piel
 74454,Trucha Entera Titikaka kg,Congelados,Carnes Congeladas
@@ -4228,6 +4239,7 @@ id_producto,producto,categoria,subcategoria
 101096,Acondicionador Tio Nacho Aloe Vera 415 ml,Cuidado Personal,Cuidado del Cabello
 101103,Detergente Polvo Omo Antivacterial 2 kg,Cuidado del Hogar,Limpieza de la Ropa
 101105,Pepinillo Pinduca Entero 560 gr,Abarrotes,Verduras en Conserva
+101110,MAIZ PIPOCA PINDUCA BSA 400G,Abarrotes,Snack
 101116,Tinte Excellence Tono 710 Rubio Cenizo Profundo,Cuidado Personal,Cuidado del Cabello
 101117,Tinte Excellence Tono 810 Rubio Claro Cenizo Profundo,Cuidado Personal,Cuidado del Cabello
 101119,Paño Multiuso Virutex,Cuidado del Hogar,Accesorios del Hogar
@@ -5360,6 +5372,7 @@ id_producto,producto,categoria,subcategoria
 109960,Detergente Polvo Pulpin Floral 2 kg,Cuidado del Hogar,Limpieza de la Ropa
 109961,Detergente Polvo Pulpin Floral 3.8 kg,Cuidado del Hogar,Limpieza de la Ropa
 109962,Suavizante Ropa Cavallaro Delicado 2 L,Cuidado del Hogar,Limpieza de la Ropa
+109963,JABON GUAIRA DELUXE BLANCO LIMON 150GRS.,Cuidado del Hogar,Limpieza de la Ropa
 109964,Repuesto Maquina Afeitar Gillette Mach3 Turbo 4 un,Cuidado del Hogar,Productos Americanos
 110022,CEBOLLA EN VINAGRE ROLAND 103 ML,Abarrotes,Productos Americanos
 110078,Shampoo Carissa para Bebe 900 ml,Cuidado del Bebé,Cuidado del Bebé
@@ -6754,6 +6767,7 @@ id_producto,producto,categoria,subcategoria
 155726,Pinzas de Ropa Rey Pitbul,Cuidado del Hogar,Accesorios del Hogar
 155727,Basurero Rey Calada Decor,Cuidado del Hogar,Accesorios del Hogar
 155728,SET REY UTIL 13 LTS,Cuidado del Hogar,Accesorios del Hogar
+155750,Cepillo Profi Plancha Ecologica,Cuidado del Hogar,Accesorios del Hogar
 155752,Servilletas Tork Premium Linstyle Mesa 50 un,Cuidado Personal,Cuidado Familiar
 155758,Toallas Humedas Pampers Higiene Completa 48 un,Cuidado del Bebé,Cuidado del Bebé
 155759,Toallas Humeda Pampers Higiene Completa 192 un,Cuidado del Bebé,Cuidado del Bebé
@@ -6816,7 +6830,7 @@ id_producto,producto,categoria,subcategoria
 157264,Trigo Pelado Agromix 450 gr,Abarrotes,Condimentos y Legumbres
 157700,Paño Piso Bianco Cinza 3 un,Cuidado del Hogar,Accesorios del Hogar
 157702,Toallas Humedas Sensaty Adulto 30 un,Cuidado Personal,Cuidado del Adulto
-157721,Pañales Mi Bebe Tripack G,Cuidado del Bebé,Pañales
+157721,Pañales Mi Bebé Tripack G X108 Unidades,Cuidado del Bebé,Pañales
 157722,Cepillo Dental Dentalclean Magic M 5 un,Cuidado Personal,Cuidado Bucal
 157723,Cepillo Dental Dentalclean Magic Suave 5 un,Cuidado Personal,Cuidado Bucal
 157724,Cepillo Dental Dentalclean Luna Suave 2 un,Cuidado del Bebé,Kids
@@ -7058,7 +7072,7 @@ id_producto,producto,categoria,subcategoria
 194456,Shampoo Algabo Baby X-Suave 444 ml,Cuidado del Bebé,Cuidado del Bebé
 194457,Shampoo Algabo Baby Manzanilla 444 ml,Cuidado del Bebé,Cuidado del Bebé
 194778,Hoja de Carpeta Mochilera Color 500 Hojas,Bazar,Librería
-195447,Aceite Algabo Baby 200 ml,Cuidado del Bebé,Cuidado del Bebé
+195447,Aceite Algabo Baby X 200 ml,Cuidado del Bebé,Cuidado del Bebé
 195588,Choritos Angelmo al Aceite 192 gr,Abarrotes,Comidas en Conserva
 195626,Cholgas Angelmo en Agua 425 gr,Abarrotes,Comidas en Conserva
 195634,Cholgas Angelmo al Aceite 425 gr,Abarrotes,Comidas en Conserva
@@ -7717,7 +7731,7 @@ id_producto,producto,categoria,subcategoria
 221212,Toallas Humedas Huggies Limpieza Total 184 un,Cuidado del Bebé,Cuidado del Bebé
 221376,Salsa Soya Okubo 500 ml,Abarrotes,Condimentos y Legumbres
 221505,Cepillo Dental Foramen Kids Safari Xs,Cuidado del Bebé,Kids
-221506,Cepillo Dental Foramen Infantil 2 un,Cuidado del Bebé,Kids
+221506,Foramen Cepillo Dental Infantil X 2 Unidades,Cuidado del Bebé,Kids
 221510,Cepillo Dental Wisdom Advanced Interdental firm 1 un,Cuidado Personal,Cuidado Bucal
 221718,Gaseosa Sprite Mini Six Pack 300 ml,Bebidas,Gaseosas
 221767,Salchicha Oderich 500 gr,Abarrotes,Comidas en Conserva
@@ -8659,7 +8673,7 @@ id_producto,producto,categoria,subcategoria
 228120,Toalla Humeda Dulco Cars 100 un,Cuidado del Bebé,Cuidado del Bebé
 228121,Toalla Humeda Dulco Frozen 100 un,Cuidado del Bebé,Cuidado del Bebé
 228122,Toalla Humeda Dulco Princesa 100 un,Cuidado del Bebé,Cuidado del Bebé
-228123,Toalla Humeda Dulco Spiderman 100 un,Cuidado del Bebé,Cuidado del Bebé
+228123,Toallitas Húmedas Dulco Spiderman X 100 Unidades,Cuidado del Bebé,Cuidado del Bebé
 228124,DEO SPRAY OLD SPICE AT DRAGONBLAST 150ML,Cuidado Personal,Cuidado de la Piel
 228126,Crema de Peinar Pantene Anticaida 300 ml,Cuidado Personal,Cuidado del Cabello
 228127,Acondicionador Pantene Anticaída 250 ml,Cuidado Personal,Cuidado del Cabello
@@ -9138,6 +9152,8 @@ id_producto,producto,categoria,subcategoria
 230923,NEU HYDRO BOOST WAT GEL 6X50G,Cuidado Personal,Cuidado de la Piel
 230925,LAVANDINA SAPOLIO 4.73 ML,Cuidado del Hogar,Limpieza de la Ropa
 230926,DOVE SERUM CORP TONO UNIACINAMIDA  200ML,Cuidado Personal,Cuidado de la Piel
+230927,JABONCILLO C2 MAGICA ENERGIA 85GR,Cuidado Personal,Cuidado de la Piel
+230929,JABONCILLO C2 CALMA MISTICA 85GRS,Cuidado Personal,Cuidado de la Piel
 230940,SHAMPOO REVIVE CURLY 600,Cuidado Personal,Cuidado del Cabello
 230941,ACON.REVIVE CURLY 600ML,Cuidado Personal,Cuidado del Cabello
 230942,PACK NINET CLASICA X100 + CLASICA X 60,Cuidado del Bebé,Cuidado del Bebé
@@ -9693,7 +9709,7 @@ id_producto,producto,categoria,subcategoria
 240742,Pañal Adulto Plenitud Protect Nocturno M,Cuidado Personal,Cuidado del Adulto
 240743,Pañal Adulto Plenitud Protect Nocturno G,Cuidado Personal,Cuidado del Adulto
 240744,Toallas Humedas Problock Baby Wipes 25 un,Cuidado del Bebé,Cuidado del Bebé
-240746,Toallas Humedas Problock Antibacterial 50 un,Cuidado del Bebé,Cuidado del Bebé
+240746,Toallas Húmedas Problock Antibacterial X 50 Unidades,Cuidado del Bebé,Cuidado del Bebé
 240747,Toallas Humedas Problock Manzanilla Aloe 10 un,Cuidado del Bebé,Cuidado del Bebé
 240748,Toallas Humedas Problock Aloe 10 un,Cuidado del Bebé,Cuidado del Bebé
 240749,Detergente Polvo Surf Rosas Lilas 1.800 kg,Cuidado del Hogar,Limpieza de la Ropa
@@ -10012,7 +10028,7 @@ id_producto,producto,categoria,subcategoria
 259675,Jamon Sandwichero Sofia 1 kg,Fiambres,Fiambres Externos
 259691,Tocino Ahumado de Cerdo Sofia al Vacio,Fiambres,Fiambres Externos
 259705,Mantequilla Pil Con Sal 100 gr,Lácteos y Derivados,Mantequillas y Margarinas
-260152,Toallas Humedas Huggies Classic 80 un,Cuidado del Bebé,Cuidado del Bebé
+260152,Toallitas Húmedas Huggies Clásica X 80 Unidades,Cuidado del Bebé,Cuidado del Bebé
 260187,Vino Santo Patrono Oporto 700 ml,Bebidas,Vinos y Champagne
 260230,Papel Toalla Cocina Hogar 2 un 80 Toallas,Cuidado del Hogar,Limpieza de Cocina
 260305,Pañal Adulto Plenitud Protect G/XG 20 un,Cuidado Personal,Cuidado del Adulto
@@ -10211,7 +10227,7 @@ id_producto,producto,categoria,subcategoria
 293080,Repelente Tyson Crema Kids 50 gr,Cuidado del Bebé,Kids
 293081,Repelente Tyson Kids Crema 200 gr,Cuidado del Bebé,Kids
 293082,Crema Repelente Tyson Bebe 50 gr,Cuidado del Bebé,Cuidado del Bebé
-293084,Crema Repelente Tyson Bebe 200 gr,Cuidado del Bebé,Cuidado del Bebé
+293084,Repelente Gel Tyson Bebé X 200 g,Cuidado del Bebé,Cuidado del Bebé
 293085,Repelente Tyson Mamá Crema 50 gr,Cuidado Personal,Cuidado de la Piel
 293090,Pañales Huggies Triple Proteccion M 56 un,Cuidado del Bebé,Pañales
 293092,Pañales Huggies Triple Proteccion G 48 un,Cuidado del Bebé,Pañales
@@ -12329,7 +12345,7 @@ id_producto,producto,categoria,subcategoria
 376132,Suavizante Ropa Cavallaro Intenso 2 L,Cuidado del Hogar,Limpieza de la Ropa
 376140,Suavizante Ropa Cavallaro Clasico 900 ml,Cuidado del Hogar,Limpieza de la Ropa
 376167,Suavizante Ropa Cavallaro Intenso 900 ml,Cuidado del Hogar,Limpieza de la Ropa
-376469,Shampoo Simonds Manzanilla 610 ml,Cuidado del Bebé,Cuidado del Bebé
+376469,Shampoo Simonds Manzanilla X 610 ml,Cuidado del Bebé,Cuidado del Bebé
 376507,Shampoo Babyland Manzanilla 700 ml,Cuidado del Bebé,Cuidado del Bebé
 376540,Shampoo Babyland Manzanilla 410 ml,Cuidado del Bebé,Cuidado del Bebé
 376710,Crema Emulsionada Bellekiss Neutra 610 ml,Cuidado Personal,Cuidado de la Piel
@@ -13996,6 +14012,7 @@ id_producto,producto,categoria,subcategoria
 483907,Galleta Saladix Duo Jamon y Queso 25 gr,Abarrotes,Galletas
 484064,Salsa Ragu Chunky Six Chesse 680 gr,Abarrotes,Productos Americanos
 484078,Mantequilla de Mani Skippy Extra Chunchy 16.3 oz,Abarrotes,Productos Americanos
+484126,JUGO DE TOMATE CLAMATO LTA 340ML,Abarrotes,Salsas y Extracto de Tomate
 484142,Sazonador Old El Paso Para Tacos 1 oz,Abarrotes,Productos Americanos
 484144,Jarabe Syrup Hersheys Dark 22 oz,Abarrotes,Productos Americanos
 484598,Farofa Zaeli Mandioca Calabresa 500 gr,Abarrotes,Productos Americanos
@@ -17009,7 +17026,10 @@ id_producto,producto,categoria,subcategoria
 554092,SOPA INST AL TOKE CAMARON BSA 85 GR,Abarrotes,Básicos
 554096,SINGANI CASA REAL CRISTALINO 700 ML,Bebidas,Licores
 554097,GYN FLAMBOYANT DELFIN ROSADO 700 ML,Bebidas,Licores
+554098,CERVEZA TAQUINA LTA 440 CC,Bebidas,Cervezas
+554102,GALLETA LA FRANCESA MINI SUCREMA 220 GR,Abarrotes,Galletas
 554104,SALSA PICANTE VALENTINA 150 ML,Abarrotes,Productos Americanos
+554112,HARINA BLANCA DE MAIZ MORIXE AREPAS 1 KG,Abarrotes,Productos Americanos
 554333,Cerveza Paceña Lata Roja 473 Cc,Bebidas,Cervezas
 554466,Detergente Liquido Ola Futuro Limpieza Completa 5 L,Cuidado del Hogar,Limpieza de la Ropa
 554468,Suavizante Ropa Ola Suavecito Original 5 L,Cuidado del Hogar,Limpieza de la Ropa
@@ -19549,7 +19569,7 @@ id_producto,producto,categoria,subcategoria
 657622,Chocolate de Mesa Bollo El Ceibo 500 gr,Abarrotes,Repostería
 657632,Barra Cereal Irupana Frutos Rojos 240 gr,Abarrotes,Nutrición Infantil
 657640,Dr.PICKS Piquesos 200 gr,Abarrotes,Snack
-657642,Dr.Picks Jalapeño 230 gr,Abarrotes,Snack
+657642,Conitos Dr.Picks Jalapeño 230 gr,Abarrotes,Snack
 657644,Vino Esther Ortiz Campos de Solana 750 ml,Bebidas,Vinos y Champagne
 657645,Chocolate Cofler Graffiti 45 gr,Abarrotes,Golosinas - Varias
 657652,Pistacho Soproma 100 gr,Abarrotes,Snack
@@ -20215,7 +20235,7 @@ id_producto,producto,categoria,subcategoria
 665246,Miel de Abeja Eba Promiel 750 gr,Abarrotes,"Mermel, Mieles"
 665541,Chocolate Breick Leche Trozado 100 gr,Abarrotes,Chocolates y Caramelos
 665825,Salsa Soya Kikkoman 40 oz,Abarrotes,Productos Americanos
-665853,Toallas Humedas Huggies Limpieza Diaria 112 un,Cuidado del Bebé,Cuidado del Bebé
+665853,Toallas Húmedas Huggies Limpieza Diaria  X 112 Unidades,Cuidado del Bebé,Cuidado del Bebé
 665876,Helado Delizia Tradicion Chantilly 200 ml,Congelados,"Helados, Cassattas y Picoleses"
 665877,Helado Delizia Tradicion Api 200 ml,Congelados,"Helados, Cassattas y Picoleses"
 665878,Postre Delizia Helado Arroz Leche 200 ml,Congelados,"Helados, Cassattas y Picoleses"
@@ -23670,6 +23690,7 @@ id_producto,producto,categoria,subcategoria
 674932,PAN RUSTICO OVOPLUS BOLSA 500GRS,Panadería,Panadería Externa
 674938,YOGURT GRIEGO FQM FRUTILLA PROBIO C/STEVIA 500G,Lácteos y Derivados,Yogures
 674939,YOGURT GRIEGO FQM MORA PROB C/STEVIA 500G,Lácteos y Derivados,Yogures
+674940,YOGURT GRIEGO FQM MARACUYA PROBIO C/STEVIA 500G,Lácteos y Derivados,Yogures
 674941,YOGURT GRIEGO FQM NEUTRO PROBIO C/STEVIA 500G,Lácteos y Derivados,Yogures
 674942,YOGURT GRIEGO FQM FRUTILLA PROBIO C/STEVIA 250G,Lácteos y Derivados,Yogures
 674943,YOGURT GRIEGO FQM MORA PROBIO C/STEVIA 250G,Lácteos y Derivados,Yogures
@@ -23680,6 +23701,7 @@ id_producto,producto,categoria,subcategoria
 674952,PACK CONGELADO DE ALBONDIGAS DE CARNE STEGE PZA 3X2,Congelados,Carnes Congeladas
 674953,PACK 3X2  LYONEZA/ Q CHANCHO Y CERVECERO AL VACIO STEGE,Fiambres,Fiambres Externos
 674954,"PACK CAZADOR, LYONEZA, QUESO DE CHANCHO TORITO 3X2",Fiambres,Fiambres Externos
+674955,CEVICHE (TITIKAKA) AUDAX 250,Congelados,Carnes Congeladas
 674956,PALETA TRADICION CANELA - MARACUYA DELIZIA 70ML,Congelados,"Helados, Cassattas y Picoleses"
 674957,PALETA TRADICION CANELA - LECHE DELIZIA 70ML,Congelados,"Helados, Cassattas y Picoleses"
 674958,PILFRUT CHERRY 175ML BOLSA,Lácteos y Derivados,Leches
@@ -26205,6 +26227,7 @@ id_producto,producto,categoria,subcategoria
 809929,CH 29 13 VAJILLA MAPACHE PARA NINOS SET X5PZAS,Bazar Importación,Artículos para Bebé
 809930,Vajilla de Bambu Princesa Para Niñas Set 5 un,Bazar Importación,Artículos para Bebé
 809949,BR AZUCARERO PLASTICO SANREMO 350ML,Bazar Importación,Cocina General
+809956,ACONDIC TRALAL KIDS HIDRA 480 ML,Cuidado del Bebé,Kids
 809978,BR PORTA DETERGENTE PLASTICO SANREMO,Bazar Importación,Menaje Plástico
 809980,BR JUEGO TAZA MEDIDORA PLASTICO SANREMO,Bazar Importación,Menaje Plástico
 809984,BR ORGANIZADOR PIA PLASTICO SANREMO,Bazar Importación,Menaje Plástico
@@ -29147,6 +29170,7 @@ id_producto,producto,categoria,subcategoria
 863870,ESPEJO MACRO DE BOLSA BETER,Bazar,Bijouteria/Cuidado Personal
 863873,TAPER REDONDO C/TAPA MR 500ML,Bazar,Menaje Plástico
 863886,Vestono Lavanda Aromatizante 1recuentreL,Bazar,Automotriz
+863888,HUESO MASCOTA FRIENDLY DOG X10UND MINI,Bazar,Mascotas General
 863889,HUESO MASCOTA FRIENDLY EX GRANDE,Bazar,Mascotas General
 863899,HIP TOALLA DE NINO EN CAJA 65,TEXTILES Y ZAPATOS,TOALLAS
 863956,BARRITAS P/R MASCOTAS DENTITOY 250GR,Bazar,Mascotas General
@@ -30087,7 +30111,7 @@ id_producto,producto,categoria,subcategoria
 898274,Billetera,Bazar,Bolsos/Carteras/Maletas
 898293,Papel Toalla Cocina Elite Ultra Doble Hoja 3 un 60 Toallas,Cuidado del Hogar,Limpieza de Cocina
 898341,Regleta Huavi R-88,Bazar,Ferretería
-898406,Aceite Johnsons Baby 200 ml KNV,Cuidado del Bebé,Cuidado del Bebé
+898406,Aceite Johnsons Baby X 200 ml,Cuidado del Bebé,Cuidado del Bebé
 898595,Espuma de Afeitar Algabo Men Azul 400 gr,Cuidado Personal,Cuidado de la Piel
 898626,Libro Infantil Lexus,Bazar,Librería
 898627,Libro Infantil Lexus,Bazar,Librería
