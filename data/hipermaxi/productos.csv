@@ -841,8 +841,7 @@ id_producto,producto,categoria,subcategoria
 14789,Arroz El Cazador Paella 1 kg,Abarrotes,Productos Americanos
 14791,Te Supremo Verde con Jazmin 20 Sobres,Abarrotes,Café y Sucedáneos
 14792,Gomita Fini Regaliz Uva 80 gr,Abarrotes,Golosinas - Varias
-14794,"Edulcorante  Splenda con Stevia 400 un
-",Abarrotes,Dietéticos y Saludables
+14794,Edulcorante  Splenda con Stevia 400 un,Abarrotes,Dietéticos y Saludables
 14796,Sazonador American Spice BBQ 2.5 oz,Abarrotes,Condimentos y Legumbres
 14797,Chile Goya Jalapeño Pepper 11 oz,Abarrotes,Verduras en Conserva
 14798,Calamar Goya en Tinta Trozos 4 oz,Abarrotes,Comidas en Conserva
@@ -1559,6 +1558,7 @@ id_producto,producto,categoria,subcategoria
 24065,Galleta Tapioca Salada Tradicion Sin Gluten,Abarrotes,Dietéticos y Saludables
 24067,Galleta Jasmin Salada Tomat Albah,Abarrotes,Dietéticos y Saludables
 24068,Galleta Jasmin Salada Finas Hierbas,Abarrotes,Dietéticos y Saludables
+24070,COCKTAIL CLAMATO TOMATE ORIG LTA 221ML,Bebidas,"Jugos, Néctar"
 24071,Pack Fideo Lazzaroni Quinua Tricolor con Tazon,Abarrotes,Básicos
 24072,Chocolate Bon o Bon Breick 45 gr,Abarrotes,Golosinas - Varias
 24073,Energizante Volt Ginseng Frambuesa Lata 473 ml,Bebidas,Energizantes
@@ -3728,9 +3728,11 @@ id_producto,producto,categoria,subcategoria
 60055,PIPOCA PINDUCA CARAMELO 100G,Abarrotes,Snack
 60056,PIPOCA PINDUCA NATURAL 100G,Abarrotes,Snack
 60067,LECHE D COCO SOCOCO TETRA 200ML,Abarrotes,Repostería
+60074,EXTRACTO URUCU PICANTE D MANTECA 430G,Abarrotes,Básicos
 60075,VINOS LEGADO MILTON ANA HEBE COLECC 1UND,Bebidas,Vinos y Champagne
 60076,VAPE WAKA APEX BLUEBERRY ICE 30000P,Bebidas,Cigarrillos
 60077,VAPE WAKA APEX WATERMELON STRAWB 30000P,Bebidas,Cigarrillos
+60087,DULCE DORI DISQUETI CHOCO LECHE 40G,Abarrotes,Golosinas - Varias
 60468,Licor Cusenier Limoncello 750 ml,Bebidas,Licores
 60469,Vino Etchart Cafayate Rose 750 ml,Bebidas,Vinos y Champagne
 60470,Vino Etchart Gran Linaje Malbec 750 ml,Bebidas,Vinos y Champagne
@@ -4389,6 +4391,7 @@ id_producto,producto,categoria,subcategoria
 101554,Chicle Buzzy Croc Morango 172 gr,Abarrotes,Golosinas - Varias
 101555,Chicle Buzzy Croc Tutti Frutti 172 gr,Abarrotes,Golosinas - Varias
 101558,Ron Diplomatico Mantuano 750 ml,Bebidas,Licores
+101559,Jabon Liquido Bacterion Coco Vainilla 1000 ml,Cuidado Personal,Cuidado de la Piel
 101560,Jabon Liquido Bacterion Avena Miel 1000 ml,Cuidado Personal,Cuidado de la Piel
 101561,Jabon Liquido Bacterion Frutos Rojos 1000 ml,Cuidado Personal,Cuidado de la Piel
 101564,Shampoo Carissa Bebe Doypack 900 ml,Cuidado Personal,Cuidado del Cabello
@@ -6458,6 +6461,7 @@ id_producto,producto,categoria,subcategoria
 130431,Chupete Bon Bon Bum Sandia 24 un,Abarrotes,Chocolates y Caramelos
 130432,Chupete Bon Bon Bum Uva Fresa 24 un,Abarrotes,Chocolates y Caramelos
 130577,Choclo Lara Grano 200 gr,Abarrotes,Verduras en Conserva
+130680,Poxipol Trasparente 14 ml,Bazar,Ferretería
 131131,Shampoo Herbal Essences Nutriflor y Leche Arroz 400 ml,Cuidado Personal,Cuidado del Cabello
 131132,Shampoo Herbal Essences Argan 400 ml,Cuidado Personal,Cuidado del Cabello
 131134,Shampoo Herbal Essences Moringa 400 ml,Cuidado Personal,Cuidado del Cabello
@@ -6594,6 +6598,7 @@ id_producto,producto,categoria,subcategoria
 142542,Maiz de Pipoca Agromix 350 gr,Abarrotes,Condimentos y Legumbres
 142689,Elimina Humedad Mvasec Original 150 gr,Cuidado del Hogar,Productos Americanos
 142786,Poxipol Azul Metalico 14 ml,Bazar,Ferretería
+142794,Poxilina Metalica,Bazar,Ferretería
 142956,Talco Para Pies Algabo Desodorante 100 gr,Cuidado Personal,Cuidado de la Piel
 143006,Sidra Del Valle Clasica 910 ml,Bebidas,Vinos y Champagne
 143010,Chocolate Cobertura Top Bel Blanco 1.01 kg,Abarrotes,Repostería
@@ -7456,6 +7461,7 @@ id_producto,producto,categoria,subcategoria
 210064,LICOR CRISTALINO CHAIRU PREMIUM 750ML,Bebidas,Licores
 210065,GALLETA MABEL CREMOSITAS MAX 216 GR,Abarrotes,Galletas
 210066,AVENA INSTANT AVELINDA DP 500G,Abarrotes,Nutrición Infantil
+210067,PACK CIGARRERA ESSE CHANGE UND,Bebidas,Cigarrillos
 210068,GALLETA D ARROZ MACROBIOTICA CON SAL 102G,Abarrotes,Dietéticos y Saludables
 210069,GALLETA ARROCITAS ARROCITAS DULCES 101G,Abarrotes,Dietéticos y Saludables
 210070,GALLETA D ARROZ MACROBIOTICA MULTICEREAL 102G,Abarrotes,Dietéticos y Saludables
@@ -7468,6 +7474,7 @@ id_producto,producto,categoria,subcategoria
 210084,ACEITE D OLIVA ARTESANO EXT VIRG 500ML,Abarrotes,Básicos
 210085,GASEOSA CONTI NARANJA LTA 350ML,Bebidas,Gaseosas
 210086,PASTA DIVELLA FUSILLI INTEGRAL 500G,Abarrotes,Dietéticos y Saludables
+210087,GASEOSA CIELO PERA ANTIOXID PET 600ML,Bebidas,Gaseosas
 210100,Mani Alimentarte con Uvas 360 gr,Abarrotes,Snack
 210153,Salsa Soya Cepera 1.01 L,Abarrotes,Condimentos y Legumbres
 210157,Salsa Soya Cepera 500 ml,Abarrotes,Condimentos y Legumbres
@@ -7581,6 +7588,7 @@ id_producto,producto,categoria,subcategoria
 220191,Galleta Costa Frac Clasica 135 gr,Abarrotes,Galletas
 220302,Media Lunas Mamina 6 un,Panadería,Panadería Externa
 220365,Crema Hidratante Loreal Age Perfect Noche 50 ml,Cuidado Personal,Cuidado de la Piel
+220367,Pack Tinte Nutrisse Garnier Tono 50 + Estuche,Cuidado Personal,Cuidado del Cabello
 220368,Pack Tinte Nutrisse Garnier Tono 71 + Estuche,Cuidado Personal,Cuidado del Cabello
 220370,Chocolate Costa Vizzio 72 gr,Abarrotes,Chocolates y Caramelos
 220372,Pack Tinte Nutrisse Garnier Tono 57 + Estuche,Cuidado Personal,Cuidado del Cabello
@@ -9584,9 +9592,9 @@ id_producto,producto,categoria,subcategoria
 240546,Lavavajilla Bristar Tutti Frutti 1050 ml,Cuidado del Hogar,Limpieza de Cocina
 240547,Lavavajilla Bristar Tutti Frutti 5 L,Cuidado del Hogar,Limpieza de Cocina
 240548,Limpiador de Zapatilla Todo Brillo 150 ml,Cuidado del Hogar,Limpieza de Zapatos
-240549,Toallas Humedas Problock Desmaquillantes 25 un,Cuidado Personal,Cuidado del Adulto
+240549,Toallas Desmaquillantes Problock X 25 Unidades,Cuidado Personal,Cuidado del Adulto
 240550,Toallas Humedas Problock Aloe 25 un,Cuidado del Bebé,Cuidado del Bebé
-240552,Toallas Humedas Problock Antibacterial 25 un,Cuidado del Bebé,Cuidado del Bebé
+240552,Toallitas Húmedas Problock Antibacterial X 25 Unidades,Cuidado del Bebé,Cuidado del Bebé
 240553,PACK SERUM HIALURONICO+UV DEF ANTIBRILLO,Cuidado Personal,Cuidado de la Piel
 240554,Detergente Polvo Omo Blanco Absoluto 360 gr,Cuidado del Hogar,Limpieza de la Ropa
 240555,OMO PVO BLANCO ABSOLUTO 20X720G,Cuidado del Hogar,Limpieza de la Ropa
@@ -10094,7 +10102,7 @@ id_producto,producto,categoria,subcategoria
 266280,Jabon Barra Asepxia Exfoliante 100 gr,Cuidado Personal,Cuidado de la Piel
 266469,Queso Tilsit Flor de Leche Dietetico kg,Lácteos y Derivados,Quesos
 267341,Toallas Humeda Babysec X-Suave 50 un,Cuidado del Bebé,Cuidado del Bebé
-267384,Bloqueador Solar Leblon Kids Bubble Gum 50Fps 190 gr,Cuidado del Bebé,Kids
+267384,Bloqueador Solar Leblon Kids Bubble Gum Fps50 X 190 g,Cuidado del Bebé,Kids
 267589,Secador Piso Reforzado con Palo No.50,Cuidado del Hogar,Productos Americanos
 267600,Franela Sargado Algodón 62x38 cm,Cuidado del Hogar,Productos Americanos
 267787,Papa Super Papitas Picante 100 gr,Abarrotes,Snack
@@ -10149,10 +10157,13 @@ id_producto,producto,categoria,subcategoria
 278789,Yerba Mate Kurupi Compuesta Citrus 500 gr,Abarrotes,Café y Sucedáneos
 279021,Tequila Jose Cuervo Especial 750 ml,Bebidas,Licores
 280102,LIMPIAPISO TODOBRILLO PLUS CRM.FLORAL1.8ML,Cuidado del Hogar,Limpieza de Baños
+280108,ESPONJA  ALGABO BANO EXFOLIANTE,Cuidado Personal,Cuidado de la Piel
+280115,JABON ARTHE COCO MACADAMIA 85 G,Cuidado Personal,Cuidado de la Piel
 280119,CEPILLO CONDOR DYNAMIC 2PACK 8121,Cuidado Personal,Cuidado Bucal
 280120,CEPILLO DENTAL CONDOR HW 8260 2PACK,Cuidado Personal,Cuidado Bucal
 280121,CEPILLO DENT CONDOR HW KIT +5 ANOS 8370,Cuidado Personal,Cuidado Bucal
 280122,CEPILLO DENT CONDOR OSITO 2PACK 8260,Cuidado Personal,Cuidado Bucal
+280133,PACK HAIR FOOD PINA SH + MASCARA,Cuidado Personal,Cuidado del Cabello
 280512,Crema Nivea 30 ml,Cuidado Personal,Cuidado de la Piel
 281077,Cafe Colcafe Instantaneo Polvo 170 gr,Abarrotes,Café y Sucedáneos
 281703,Galleta Arcor Hogareña 7 Semillas 181 gr,Abarrotes,Galletas
@@ -10191,7 +10202,7 @@ id_producto,producto,categoria,subcategoria
 287300,Tinte Nutrisse Tono 71 Vainilla,Cuidado Personal,Cuidado del Cabello
 287555,Tinte Nutrisse Tono 53 Nuez,Cuidado Personal,Cuidado del Cabello
 288013,Pañales Plenitud Adulto Classic M 20 un,Cuidado Personal,Cuidado del Adulto
-288046,Bipack Pañal Mi Bebe XXG 2 x 32 un,Cuidado del Bebé,Pañales
+288046,Pañales Mi Bebé Bipack Talla XXG 2  Paq. X 32 Unidades,Cuidado del Bebé,Pañales
 288098,Pulidor de Baño Sapolio 450 ml,Cuidado del Hogar,Limpieza de Baños
 288101,Pulidor de Cocina Sapolio Limon 450 gr,Cuidado del Hogar,Limpieza de Cocina
 288144,Esponja Scotch Brite Uñas 1 un,Cuidado Personal,Cuidado de la Piel
@@ -11004,6 +11015,7 @@ id_producto,producto,categoria,subcategoria
 321981,Papel Higienico Nacional 30 Años Pack 48 un,Cuidado Personal,Cuidado Familiar
 321983,Papel Higienico Nacional 30 Años Pack 48 un,Cuidado Personal,Cuidado Familiar
 321984,LIMPIA PISO TODOBRILLO PLUS ORG 5LT,Cuidado del Hogar,Limpieza de Baños
+321985,DETERGENTE TODOBRILLO GOLD 9.5KG,Cuidado del Hogar,Limpieza de la Ropa
 321986,DETERGENTE ASTRO FLORAL 710 GR,Cuidado del Hogar,Limpieza de la Ropa
 321988,Shampoo Tio Nacho Keratina 415 ml,Cuidado Personal,Cuidado del Cabello
 321989,Shampoo Tio Nacho Keratina 950 ml,Cuidado Personal,Cuidado del Cabello
@@ -11335,7 +11347,7 @@ id_producto,producto,categoria,subcategoria
 333750,Acondicionador Ballerina Granada + Acido Hialuronico Frasco 410 ml,Cuidado Personal,Cuidado del Cabello
 333752,Acondicionador Ballerina Bajopoo Doypack 750 ml,Cuidado Personal,Cuidado del Cabello
 333754,Jabon Liquido Johnsons Recien Nacido 200 ml KNV,Cuidado del Bebé,Cuidado del Bebé
-333755,Crema Hidratante Johnsons Gel Recien nacido 200 ml KNV,Cuidado del Bebé,Cuidado del Bebé
+333755,Crema Hidratante Johnsons Recién nacido X 200 ml,Cuidado del Bebé,Cuidado del Bebé
 333770,Limpiador de Baño Sapolio Quita Sarro Power Plus 750 ml,Cuidado del Hogar,Limpieza de Baños
 333775,Paño Bianco Piso Blanco 1 un,Cuidado del Hogar,Accesorios del Hogar
 333788,Damasco Disecado Nativa 100 gr,Abarrotes,Frutas en Conserva
@@ -11687,7 +11699,7 @@ id_producto,producto,categoria,subcategoria
 344389,Acondicionador Capilatis Puro Rubio 420 ml,Cuidado Personal,Cuidado del Cabello
 344435,Toallas Humedas Pequeñin Karite 50 un,Cuidado del Bebé,Cuidado del Bebé
 344443,Toallas Humedas Pequeñin Karite 100 un,Cuidado del Bebé,Cuidado del Bebé
-344451,Toallas Humedas Pequeñin Aloe Vera 100 un,Cuidado del Bebé,Cuidado del Bebé
+344451,Toallitas Húmedas Pequeñin Aloe Vera X 100 Unidades,Cuidado del Bebé,Cuidado del Bebé
 344583,Desodorante Roll On Rexona Bamboo 50 ml,Cuidado Personal,Cuidado de la Piel
 345541,Mermelada Dulcor Durazno 454 gr,Abarrotes,"Mermel, Mieles"
 345589,Alcohol Aguai 70% 2 L,Cuidado Personal,Cuidado de la Piel
@@ -12345,7 +12357,7 @@ id_producto,producto,categoria,subcategoria
 374010,Fosforo Parana Acendedores Brasa 5 un,Bazar,Churrasquería
 374012,Palitos de Anticucho Parana 50 un,Bazar,Churrasquería
 374199,Esponja Baño Luzon Pardan 550,Cuidado del Hogar,Productos Americanos
-374334,Jabon Barra Johnsons Baby Glicerina Miel 80 gr KNV,Cuidado del Bebé,Cuidado del Bebé
+374334,Jabón En Barra Johnsons Baby Con Glicerina X 80 g,Cuidado del Bebé,Cuidado del Bebé
 374480,Hielera Alaska de Plastico,Bazar,Menaje Plástico
 374495,Huesos Guau Nutrigua 3 un,Bazar,Mascotas General
 374496,Uvo X1  De  De Brecuentre  M,Bazar,Mascotas General
@@ -12508,6 +12520,7 @@ id_producto,producto,categoria,subcategoria
 383997,CI PALA /CENIZA 37 CM 26469/100,Bazar,Churrasquería
 384208,Tinte Nutrisse Tono 57 Caramelo,Cuidado Personal,Cuidado del Cabello
 384259,Tinte Excellence Tono 6.3 Rubio Oscuro Dorado,Cuidado Personal,Cuidado del Cabello
+385281,Ambientador Automatico Air Wick Lavanda 250 ml,Cuidado del Hogar,Limpieza de Living y Ropero
 385336,Franela Acento 50x40 cm,Cuidado del Hogar,Productos Americanos
 385352,Esponja Limppano Multiuso 4 un,Cuidado del Hogar,Accesorios del Hogar
 385379,Guantes Scotch Brite Lavanderia Talla M,Cuidado del Hogar,Accesorios del Hogar
@@ -13339,7 +13352,7 @@ id_producto,producto,categoria,subcategoria
 451609,Actifem x blister de 4 unidades Paracetamol - ibuprofeno - cafeína,Farmacia Otc,Sistema Nervioso Central
 451665,Jabon Barra Rosa Venus Rosado 100 gr,Cuidado Personal,Cuidado de la Piel
 451847,Doctor Cure Curitas Redonda x Cja 100,CUDADOS OTC,OTC
-451886,Shampoo Johnsons Clasico 750 ml KNV,Cuidado del Bebé,Cuidado del Bebé
+451886,Shampoo Para Bebé Johnsons Clásico X 750 ml,Cuidado del Bebé,Cuidado del Bebé
 451894,Shampoo Johnsons Clasico 400 ml KNV,Cuidado del Bebé,Cuidado del Bebé
 451967,Refresco Zuko Frambuesa 20 gr,Bebidas,Refrescos en Polvo
 451969,Figuvit Memory Masticable x 1  Fco caps,Farmacia Otc,Tracto Alimentario y Metabolismo
@@ -13491,7 +13504,7 @@ id_producto,producto,categoria,subcategoria
 459133,Pañales Mi Bebe Clasico M 48 un,Cuidado del Bebé,Pañales
 459136,Pañales Mi Bebe Ultra Premium G 40 un,Cuidado del Bebé,Pañales
 459137,Pañales Mi Bebe Ultra Premium XG 36 un,Cuidado del Bebé,Pañales
-459138,Pañales Mi Bebe Ultra Premium XXG 32 un,Cuidado del Bebé,Pañales
+459138,Pañales Mi Bebé Ultra Premium XXG X 32 Unidades,Cuidado del Bebé,Pañales
 459142,Hydrolit Elixir Berry 625 ml,Bebidas,Isotónicos
 459144,Hydrolit Elixir Arandanos 625 ml,Bebidas,Isotónicos
 459145,Hidratante Elixir Tropical 625 ml,Bebidas,Isotónicos
@@ -13638,7 +13651,7 @@ id_producto,producto,categoria,subcategoria
 461276,Balsamo Labial Lipsmack Menta Fresh 12.5 g,Cuidado Personal,Cuidado de la Piel
 461277,Lipsmack Balsamo Labial Mango Tropical 12.5gr,Cuidado Personal,Cuidado de la Piel
 461278,Balsamo labial Lipsmack Mango Tropical x 11Gr,Cuidado Personal,Cuidado de la Piel
-461286,Maxmen Preser Inspiral Kraken Caja x 1 Und,Farmacia Otc,Varios
+461286,Maxmen Preser Inspiral Kraken Caja x 1 Und,CUDADOS OTC,OCT SALAS
 461297,LIPSTICK SURTIDO DE FRUTAS X 5.3 GR,Cuidado Personal,Cuidado de la Piel
 461393,Sazonador McCormick Mild Mix Taco 28 gr,Abarrotes,Condimentos y Legumbres
 461519,ESS.LTE DISNEY MICKEY FIJADOR SPRAY X50M,Cuidado Personal,Cuidado de la Piel
@@ -14209,6 +14222,7 @@ id_producto,producto,categoria,subcategoria
 501717,Crema de Mani Mr.Mad 300 gr,Lácteos y Derivados,Mantequillas y Margarinas
 501718,Mantequilla de Mani Mr.Mad 0 Azucar 300 gr,Lácteos y Derivados,Mantequillas y Margarinas
 501720,Galleta Oblea Rellena Mr Mad Pachequin 250 gr,Abarrotes,Galletas
+501774,GALLETA MARILAN CRACKER INTEGRAL 335G,Abarrotes,Dietéticos y Saludables
 501775,Galleta Marilan Bauny 140 gr,Abarrotes,Galletas
 501832,Antiarrugas Nivea Q10 Visage 50 ml,Cuidado Personal,Cuidado de la Piel
 501844,Jabon Barra Mar Blanco 90 gr,Cuidado Personal,Cuidado de la Piel
@@ -17058,9 +17072,11 @@ id_producto,producto,categoria,subcategoria
 554090,SOPA INST AL TOKE CARNE BSA 85G,Abarrotes,Básicos
 554091,SOPA INST AL TOKE POLLO BSA 85 GR,Abarrotes,Básicos
 554092,SOPA INST AL TOKE CAMARON BSA 85 GR,Abarrotes,Básicos
+554095,POLVO DE CACAO BAURE 500 GR,Abarrotes,Repostería
 554096,SINGANI CASA REAL CRISTALINO 700 ML,Bebidas,Licores
 554097,GYN FLAMBOYANT DELFIN ROSADO 700 ML,Bebidas,Licores
 554098,CERVEZA TAQUINA LTA 440 CC,Bebidas,Cervezas
+554099,MANGO EN ALMIBAR CHIMORE LONJAS 860 GR,Abarrotes,Frutas en Conserva
 554102,GALLETA LA FRANCESA MINI SUCREMA 220 GR,Abarrotes,Galletas
 554103,CREMA COFFEE MATE 15 OZ,Abarrotes,Productos Americanos
 554104,SALSA PICANTE VALENTINA 150 ML,Abarrotes,Productos Americanos
@@ -18106,6 +18122,7 @@ id_producto,producto,categoria,subcategoria
 622055,PACK PIPOCA ACT II 3X2,Abarrotes,Snack
 622091,Linaza Savoryn Entera 50 gr,Abarrotes,Condimentos y Legumbres
 622237,Ablandador Savoryn 35 gr,Abarrotes,Condimentos y Legumbres
+622604,Crountons Cesar New York Cheese Garlic 142 gr,Abarrotes,Productos Americanos
 623035,Hongos Secos Savoryn 20 gr,Abarrotes,Condimentos y Legumbres
 623888,Coliflor 1 kg,Frutas y Verduras,Verduras
 623896,Vainita 1 kg,Frutas y Verduras,Verduras
@@ -18360,6 +18377,7 @@ id_producto,producto,categoria,subcategoria
 629884,CARAMELO FERRARA FUN DIP 12GR,Abarrotes,Productos Americanos
 629886,SALSA VALENTINA HOT SAUCE EXTRA HOT 370ML,Abarrotes,Productos Americanos
 629888,CARAMEL DINO ROBOT - BONART 11GR,Abarrotes,Productos Americanos
+629899,CEREAL APPLE CINNAMON CHERRIOS 311 GR,Abarrotes,Productos Americanos
 629901,CHUPETE BOLLIPOP BONART 11 GR,Abarrotes,Productos Americanos
 629918,PAPAS FRITAS SUN CHIPS SABOR SALSA JARDIN 67.3 GR,Abarrotes,Productos Americanos
 630010,Alimento Pedigree Cachorro 1.5 kg,Abarrotes,Mascotas
@@ -19339,7 +19357,7 @@ id_producto,producto,categoria,subcategoria
 656392,Limpiador de Baño Archer Saca Sarro 750 ml,Cuidado del Hogar,Limpieza de Baños
 656393,Limpiador de Baño Archer Triple Accion 750 ml,Cuidado del Hogar,Limpieza de Baños
 656394,Limpiador de Baño Archer Saca Sarro Extra Fuerte 750 ml,Cuidado del Hogar,Limpieza de Baños
-656410,Pañales Huggies Primeros Dias Recien Nacido 20 un,Cuidado del Bebé,Pañales
+656410,Pañales Huggies Primeros Días Recién Nacido X 20 Unidades,Cuidado del Bebé,Pañales
 656417,Lavavajilla Bristar Limon 1050 ml,Cuidado del Hogar,Limpieza de Cocina
 656419,Lustramueble Bristar Floral 250 ml,Cuidado del Hogar,Limpieza de Living y Ropero
 656423,Cepillo con Espatula para Lavavajilla,Cuidado del Hogar,Accesorios del Hogar
@@ -20004,7 +20022,7 @@ id_producto,producto,categoria,subcategoria
 660061,Mermelada Del Valle Naranja 450 gr,Abarrotes,"Mermel, Mieles"
 660062,Gaseosa Mendocina Piña 3 L,Bebidas,Gaseosas
 660064,Gnocchi de Papa De Cecco Sin Gluten 500 gr,Abarrotes,Productos Importados
-660065,Salsa De Cecco Rustica Polposa 673 gr,Abarrotes,Productos Importados
+660065,Salsa De Cecco Rustica Polposa 673 ml,Abarrotes,Productos Importados
 660066,Salsa De Cecco Tomate Polpa Fine 400 gr,Abarrotes,Productos Importados
 660067,Tomates Enteros Pelados de Cecco Pomodori 400 gr,Abarrotes,Productos Importados
 660068,Fideo De Cecco Capellini 500 gr,Abarrotes,Productos Importados
@@ -20123,7 +20141,7 @@ id_producto,producto,categoria,subcategoria
 660312,ESCOBA TORNADO MANGO MADERA TODO UTIL,Cuidado del Hogar,Accesorios del Hogar
 660313,MOPA TRAPERO DE ALGODON 160 GR TODO UTIL,Cuidado del Hogar,Accesorios del Hogar
 660314,BALDE CON ESCURRIDOR PAPELERA 15 LTS,Cuidado del Hogar,Accesorios del Hogar
-660315,HOGAR  CELULOSA DH 1X12,Cuidado Personal,Cuidado Familiar
+660315,Papel Higienico Hogar Celulosa Doble Hoja Pack 12 un,Cuidado Personal,Cuidado Familiar
 660316,Mascara De Pestañas Maybelline The Colossal Bubble Waterproof Very Black 9.2 ml,Cuidado Personal,Cuidado de la Piel
 660320,Mascara De Pestañas Maybelline The Colossal Bubble Black 9.2 ml,Cuidado Personal,Cuidado de la Piel
 660321,Pañuelos Faciales Kleenex En Caja Bipack 2 un 80 hojas,Cuidado Personal,Cuidado Familiar
@@ -20182,7 +20200,10 @@ id_producto,producto,categoria,subcategoria
 660389,SILKEY OLEO REPARADOR DE PUNTAS 90 ML,Cuidado Personal,Cuidado del Cabello
 660390,HERBAL SH PROLONGALO 1LT X9U,Cuidado Personal,Cuidado del Cabello
 660432,CREMA LECHUGA CORP HIDRATACION 350 ML,Cuidado Personal,Cuidado de la Piel
+660446,DOVE SH RECONST+AMINOACIDO 190ML,Cuidado Personal,Cuidado del Cabello
+660448,DOVE SH NUTRI+TRI OLEOS 190ML,Cuidado Personal,Cuidado del Cabello
 660449,ROSA VEN 150G AZ PACK OFERTA 4X3,Cuidado Personal,Cuidado de la Piel
+660450,ESPONJA PET CERO RAYAS SCOTCH BRITE 30X1,Cuidado del Hogar,Accesorios del Hogar
 660451,KOTEX COMFORT ULTRAFINA X10,Cuidado Personal,Cuidado Familiar
 660548,Cafe Copacabana Exportado Tostado 250 gr,Abarrotes,Café y Sucedáneos
 660711,Galleta Noel Octagonal Surtida 260 gr,Abarrotes,Temporada
@@ -21270,7 +21291,7 @@ id_producto,producto,categoria,subcategoria
 668929,Pañal Babysec Super Premium Talla XXG 58 un,Cuidado del Bebé,Pañales
 668930,Bolsa Basura Ecorollo 90x110 140 L,Cuidado del Hogar,Accesorios del Hogar
 668931,Bolsa Basura Ecorollo 65X80 50 L,Cuidado del Hogar,Accesorios del Hogar
-668932,Pañal Babysec Super Premium Talla XG 60 und,Cuidado del Bebé,Pañales
+668932,Pañales Babysec Super Premium Talla XG X 60 Unidades,Cuidado del Bebé,Pañales
 668933,Pañal Babysec Super Premium Talla G 66 Und,Cuidado del Bebé,Pañales
 668934,Crema Dental Colgate Sensitive Alivio Inmediato 110 gr,Cuidado Personal,Cuidado Bucal
 668935,Shampoo Head Shoulder Aceite de Coco 650 ml,Cuidado Personal,Cuidado del Cabello
