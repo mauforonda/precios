@@ -133,8 +133,8 @@ id_producto,producto,categoria,subcategoria
 3871,Vino La Curiosa Malbec 750 ml,Bebidas,Vinos y Champagne
 3873,Vino La Curiosa Cabernet Sauvignon 750 ml,Bebidas,Vinos y Champagne
 3883,Sopa Maggi Caracolitos 75 gr,Abarrotes,Básicos
-4795,Atun Sofia Lomito al Agua 170 gr,Abarrotes,Comidas en Conserva
-4797,Atun Sofia Lomito al Aceite 170 gr,Abarrotes,Comidas en Conserva
+4795,Atun Sofia Lomito al Agua 160 gr,Abarrotes,Comidas en Conserva
+4797,Atun Sofia Lomito al Aceite 160 gr,Abarrotes,Comidas en Conserva
 4928,Galleta Ferrari Ghezzi Integral 220 gr,Abarrotes,Galletas
 4944,Galleta Ferrari Ghezzi Crakers 200 gr,Abarrotes,Galletas
 5003,Ciruela 1 kg,Frutas y Verduras,Frutas
@@ -6545,6 +6545,10 @@ id_producto,producto,categoria,subcategoria
 137170,Cerveza Erdinger Dunkel 500 ml,Bebidas,Cervezas
 137228,Ambientador Repuesto Aerosol Air Wick Cherry 250 ml,Cuidado del Hogar,Limpieza de Living y Ropero
 137677,Arroz Caisy Super Economico 1 kg,Abarrotes,Básicos
+137901,QUESO ADLER ROQUEFORT 2 UND. 100 GR.,Lácteos y Derivados,Quesos
+137910,QUESO ADLER SALAME 2 UND. 100 GR.,Lácteos y Derivados,Quesos
+137928,QUESO ADLER JAMON 2 UND. 100 GR.,Lácteos y Derivados,Quesos
+137936,QUESO ADLER FONTINA 2 UND. 100 GR.,Lácteos y Derivados,Quesos
 138038,Escoba Salzano No.1771,Cuidado del Hogar,Productos Americanos
 138058,Alimento Cat Chow Adulto Carne 3 kg,Abarrotes,Mascotas
 138215,Chocolate Snickers Barra 52.7 gr,Abarrotes,Golosinas - Varias
@@ -9169,6 +9173,7 @@ id_producto,producto,categoria,subcategoria
 230927,JABONCILLO C2 MAGICA ENERGIA 85GR,Cuidado Personal,Cuidado de la Piel
 230929,JABONCILLO C2 CALMA MISTICA 85GRS,Cuidado Personal,Cuidado de la Piel
 230934,LOREAL LASER X3 CREMA NOCHE,Cuidado Personal,Cuidado de la Piel
+230937,GARNIER MIZU AIR GEL VITAMINA C,Cuidado Personal,Cuidado de la Piel
 230939,GARNIER MIZU ANTI IMPER ACIDO SALICILICO,Cuidado Personal,Cuidado de la Piel
 230940,SHAMPOO REVIVE CURLY 600,Cuidado Personal,Cuidado del Cabello
 230941,ACON.REVIVE CURLY 600ML,Cuidado Personal,Cuidado del Cabello
@@ -10159,6 +10164,7 @@ id_producto,producto,categoria,subcategoria
 278789,Yerba Mate Kurupi Compuesta Citrus 500 gr,Abarrotes,Café y Sucedáneos
 279021,Tequila Jose Cuervo Especial 750 ml,Bebidas,Licores
 280102,LIMPIAPISO TODOBRILLO PLUS CRM.FLORAL1.8ML,Cuidado del Hogar,Limpieza de Baños
+280105,ESPONJA ALGABO CARE  GUANTE,Cuidado Personal,Cuidado de la Piel
 280107,ESPONJA  ALGABO BANO ESPUMA,Cuidado Personal,Cuidado de la Piel
 280108,ESPONJA  ALGABO BANO EXFOLIANTE,Cuidado Personal,Cuidado de la Piel
 280115,JABON ARTHE COCO MACADAMIA 85 G,Cuidado Personal,Cuidado de la Piel
@@ -12993,6 +12999,7 @@ id_producto,producto,categoria,subcategoria
 417386,Pechuga sin Piel Sofia Bandeja kg,Carnes,Carne de Pollo
 417432,Pierna Muslo Sofia Bandeja kg,Carnes,Carne de Pollo
 417475,Ostiones Congelados Puerto Azul kg,Congelados,Carnes Congeladas
+417548,QUESO ADLER GRUYERE  100 GRS.,Lácteos y Derivados,Quesos
 417995,Mermelada Gigante Fresa Jarra 1 kg,Abarrotes,"Mermel, Mieles"
 418030,Vodka Absolut Blue 1 L,Bebidas,Licores
 418048,Pulpa Congelada Frupa Tamarindo 200 gr,Congelados,Pulpas y Frutas Congeladas
@@ -13211,8 +13218,11 @@ id_producto,producto,categoria,subcategoria
 435538,Nivea Soft 50 ml,Cuidado Personal,Cuidado de la Piel
 435546,Nivea Soft 100 ml,Cuidado Personal,Cuidado de la Piel
 435681,Jugo Del Valle Varios Sabores 300 ml,Bebidas,"Jugos, Néctar"
+436160,DULCE DE LECHE MILKAUT 245 GRS.,Lácteos y Derivados,Dulces de Leche y Manjares
 436186,Queso Reggianito Horma Milkaut kg,Lácteos y Derivados,Quesos
+436214,DULCE DE LECHE MILKAUT CLASICO 1 KG.,Lácteos y Derivados,Dulces de Leche y Manjares
 436224,Queso Danbo Milkaut Libre de Gluten Kg,Lácteos y Derivados,Quesos
+436227,DULCE DE LECHE MILKAUT CLASICO 400 GR.,Lácteos y Derivados,Dulces de Leche y Manjares
 436321,PULPO PUERTO AZUL KG,Congelados,Carnes Congeladas
 436330,Mixtura de Mariscos Puerto Azul kg,Congelados,Carnes Congeladas
 436356,Langostino Precocido Grande Puerto Azul kg,Congelados,Carnes Congeladas
@@ -13362,7 +13372,7 @@ id_producto,producto,categoria,subcategoria
 451969,Figuvit Memory Masticable x 1  Fco caps,Farmacia Otc,Tracto Alimentario y Metabolismo
 451996,Ciruelax Forte x 1 comp,Farmacia Otc,Tracto Alimentario y Metabolismo
 452049,Retardador Maxmen Spray fco x 10 ml  Lidocaina Prolongador Sexual,Cuidado Personal,Cuidado de la Piel
-452051,Tonico Inti S/Cafeina Jbe x 200ml,CUDADOS OTC,OCT SALAS
+452051,Tonico Inti Sin Cafeína Jarabe X 200 ml,CUDADOS OTC,OCT SALAS
 452144,Cepillo Dental Foramen Xtreme Junior Medio 1 un,Cuidado Personal,Cuidado Bucal
 452147,Silka Medic Pie Atleta x 15 gr,Farmacia Éticos,Dermatológicos
 452287,Cicatricure Gel 30 gr,Cuidado Personal,Cuidado de la Piel
@@ -14335,6 +14345,7 @@ id_producto,producto,categoria,subcategoria
 513458,Acondicionador Johnsons Baby Cabello Claro 200 ml KNV,Cuidado del Bebé,Cuidado del Bebé
 513503,Bombon Serenata De Amor 148.5 gr,Abarrotes,Chocolates y Caramelos
 513520,Cepillo Dental Johnsons Ultra Clean Media 1 un LOGM,Cuidado Personal,Cuidado Bucal
+513725,QUESO PROVOLONE PARRILLERO SANTA ROSA KG. HORMA,Lácteos y Derivados,Quesos
 514411,Gaseosa Sprite Sin Azucar 500 ml,Bebidas,Gaseosas
 514817,Cerveza Burguesa Lata 350 ml,Bebidas,Cervezas
 515036,Shampoo Dove Reconstruccion Completa 200 ml,Cuidado Personal,Cuidado del Cabello
@@ -17081,6 +17092,7 @@ id_producto,producto,categoria,subcategoria
 554097,GYN FLAMBOYANT DELFIN ROSADO 700 ML,Bebidas,Licores
 554098,CERVEZA TAQUINA LTA 440 CC,Bebidas,Cervezas
 554099,MANGO EN ALMIBAR CHIMORE LONJAS 860 GR,Abarrotes,Frutas en Conserva
+554100,MANGO EN ALMIBAR CHIMORE TROZOS 860 GR,Abarrotes,Frutas en Conserva
 554102,GALLETA LA FRANCESA MINI SUCREMA 220 GR,Abarrotes,Galletas
 554103,CREMA COFFEE MATE 15 OZ,Abarrotes,Productos Americanos
 554104,SALSA PICANTE VALENTINA 150 ML,Abarrotes,Productos Americanos
@@ -17092,6 +17104,8 @@ id_producto,producto,categoria,subcategoria
 554111,VODKA SKYY INFUSIONS DAMASCO BOT 700ML,Bebidas,Licores
 554112,HARINA BLANCA DE MAIZ MORIXE AREPAS 1 KG,Abarrotes,Productos Americanos
 554113,HARINA AMARILLA DE MAIZ MORIXE AREPAS 1 KG,Abarrotes,Productos Americanos
+554115,GALLETA INFINITA VAINILLA CHOCOL SIXPACK,Abarrotes,Galletas
+554146,SALSA SOYA KIKKO BOT 160 ML,Abarrotes,Condimentos y Legumbres
 554333,Cerveza Paceña Lata Roja 473 Cc,Bebidas,Cervezas
 554466,Detergente Liquido Ola Futuro Limpieza Completa 5 L,Cuidado del Hogar,Limpieza de la Ropa
 554468,Suavizante Ropa Ola Suavecito Original 5 L,Cuidado del Hogar,Limpieza de la Ropa
@@ -23755,6 +23769,7 @@ id_producto,producto,categoria,subcategoria
 674922,PIERNA MUSLO POLLO SOFIA CONGELADO BOLSA 2KGR,Congelados,Carnes Congeladas
 674923,SALCHICHON A GRANEL PIO RICO KGR,Fiambres,Fiambres Externos
 674924,POLLO PIO RICO EXTRA GRANDE UNIDAD,Carnes,Carne de Pollo
+674925,QUESO EDAM EBA BOLSA 1KG,Lácteos y Derivados,Quesos
 674926,PACK 2 MORTADELAS LYONEZA STEGE A/V,Fiambres,Fiambres Externos
 674927,YOGURT NATURAL FATYH 1000 GRS,Lácteos y Derivados,Yogures
 674928,CHARQUE TRADICIONAL RES VILOMA 100 G,Carnes,Carnes Procesadas
@@ -24428,7 +24443,7 @@ id_producto,producto,categoria,subcategoria
 695505,CATRICE DELINEADOR CEJAS MATIC WP 30 (22,Cuidado Personal,Cuidado de la Piel
 695507,CATRICE ESMALTE ICONAILS 02 (224185),Cuidado Personal,Cuidado de la Piel
 695522,CATRICE MASCARA LASH TO KILL WP VOLUME (,Cuidado Personal,Cuidado de la Piel
-695543,Digestan Compuesto Efervescente Menta x 1 sob,CUDADOS OTC,OCT SALAS
+695543,Digestan Compuesto X Sobre,CUDADOS OTC,OCT SALAS
 695563,Toallas Higienicas De Mujer Anatómica Pack 16 un,Cuidado Personal,Cuidado Familiar
 695570,Tonico Vita x 200 ml Suplemento Vitaminico,CUDADOS OTC,OCT SALAS
 695574,Refresco Nectar Kris Mango 120 gr,Bebidas,Refrescos en Polvo
@@ -24455,8 +24470,8 @@ id_producto,producto,categoria,subcategoria
 695741,Bloqueador Bahia Color 1 Claro Spf 90 x 60gr,Cuidado Personal,Cuidado de la Piel
 695743,Bloqueador Bahia Color 2 Medio Spf 90 x 60gr,Cuidado Personal,Cuidado de la Piel
 695754,Leche de Karite,Cuidado Personal,Cuidado de la Piel
-695770,Vitagrip Dia x 1 Sob,Farmacia Otc,Sistema Respiratorio
-695771,Vitagrip Noche x 1 sob,Farmacia Otc,Sistema Respiratorio
+695770,Vitagrip Día Sabor Naranja X Sobre,Farmacia Otc,Sistema Respiratorio
+695771,Vitagrip Noche Sabor Pomelo X Sobre,Farmacia Otc,Sistema Respiratorio
 695819,DR. SELBY PROTECTOR LABIAL FPS15,Cuidado Personal,Cuidado de la Piel
 695822,Protector Solar Facial 2.0 Sunless Fps 60,Cuidado Personal,Cuidado de la Piel
 695823,Protector Solar Facial 3.0 Sunless Fps 60 40 gr,Cuidado Personal,Cuidado de la Piel
@@ -24717,6 +24732,7 @@ id_producto,producto,categoria,subcategoria
 761347,Helados Agrupado Bon O Bon 4 x 61 gr,Congelados,"Helados, Cassattas y Picoleses"
 761348,Kefir Natural Bontana 1 L,Lácteos y Derivados,Yogures
 761349,YUCA PRECOCIDA SLIM CORTE UNICO 1 KG.,Congelados,Masas y Comidas Congeladas
+761350,QUESO PROVOLONE MANANTINO SANTA ROSA KG.HORMA,Lácteos y Derivados,Quesos
 761356,KEFIR SABOR COCO PINA BONTANA 1 LT.,Lácteos y Derivados,Yogures
 761357,Margarina Crema Vegetal Soya 500 gr,Lácteos y Derivados,Mantequillas y Margarinas
 761358,Paneton mini Bauducco Fini 80 gr,Panadería,Panadería Externa
@@ -24824,6 +24840,7 @@ id_producto,producto,categoria,subcategoria
 762813,Queso Muzzarella Laminado Mallon 150 gr,Lácteos y Derivados,Quesos
 762857,Cuñape con Chia San Javier 100 gr,Pastelería y Masas Típicas,Masas Típicas Externas
 762927,Queso Muzzarella Laminado Mallon 250 gr,Lácteos y Derivados,Quesos
+762972,QUESO SARDO PALQUEN SANTA ROSA KG.HORMA,Lácteos y Derivados,Quesos
 763058,SALSA PARA CARNES EL TAPEQUE 500 GRS.,Fiambres,Fiambres Externos
 763128,TORTA HELADA CHEEESE CAKE FRUTOS ROJOS VACAFRIA,Congelados,"Helados, Cassattas y Picoleses"
 763219,HAMBURGUESA TUBO GRILL SOFIA 20X56 GR.,Congelados,Carnes Congeladas
@@ -25946,6 +25963,8 @@ id_producto,producto,categoria,subcategoria
 798746,Queso de Cabra Loro Negro Tipo Camembert 230 gr,Lácteos y Derivados,Quesos
 798768,Hamburguesa Fridosa Fridosita Res 12 un,Congelados,Carnes Congeladas
 798823,Pizza Conik Congelada Pressto Familiar,Congelados,Masas y Comidas Congeladas
+799186,QUESO RALLADO MILKAUT 40 GR.,Lácteos y Derivados,Quesos
+799287,QUESO RALLADO MILKAUT 120 GR.,Lácteos y Derivados,Quesos
 800028,Ketchup Hellmanns Squeeze 400 gr,Abarrotes,Productos Importados
 800101,CH Z11 2 FRASCO DE VIDRIO CON TAPA HERMETICA 450ML,Bazar Importación,Menaje Vidrio/Cristal
 800103,CH Z11 3 FRASCO DE VIDRIO CON TAPA HERMETICA 1000ML,Bazar Importación,Menaje Vidrio/Cristal
@@ -28410,6 +28429,7 @@ id_producto,producto,categoria,subcategoria
 856109,CH S2 12 LAMPARA DE MESA C FIGURAS Y PANTALLA 22 5X36CM,Bazar Importación,Living y Dormitorio
 856115,Sal Badia de Ajo 907.2 gr,Abarrotes,Condimentos y Legumbres
 856117,Colgador Para Ropa de Madera Set 3,Bazar Importación,Living y Dormitorio
+856135,Pimienta Roja Badia 4.5 oz,Abarrotes,Productos Americanos
 856147,CH 51 4 PLANTA ARTIFICIAL PEONIA DE PRIMAVERA EN MACETA 20CM,Bazar Importación,Regalos/Adornos
 856150,CH 51 7 PLANTA ARTIFICIAL CAPULLO DE FLORES EN MACETA 20CM,Bazar Importación,Regalos/Adornos
 856158,Vela Grande Cilindrica,Bazar Importación,Living y Dormitorio
