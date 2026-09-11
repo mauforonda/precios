@@ -3708,6 +3708,7 @@ id_producto,producto,categoria,subcategoria
 59366,Vela Catedral Chica 8 un,Bazar,Cotillón
 59773,Vinagre Toscano Tinto 750 ml,Abarrotes,Básicos
 59900,Ron Medellin Añejo 2 L,Bebidas,Licores
+60002,SNACK LIOFILIZ ALPHA BAZO D RES DP 100G,Abarrotes,Mascotas
 60005,VINO MARQ D CACERES VERDEJO 750ML,Bebidas,Vinos y Champagne
 60013,CAFE INSTANT IGUAZU CLASICO FCO 160G,Abarrotes,Café y Sucedáneos
 60019,ALCAPARRA GUSTOSI EN VINAGRE FCO 45G,Abarrotes,Verduras en Conserva
@@ -3729,7 +3730,9 @@ id_producto,producto,categoria,subcategoria
 60054,PIPOCA PINDUCA MANTEQUILLA 100G,Abarrotes,Snack
 60055,PIPOCA PINDUCA CARAMELO 100G,Abarrotes,Snack
 60056,PIPOCA PINDUCA NATURAL 100G,Abarrotes,Snack
+60063,CHUPETE MR POPS EVOLUTION CEREZA 432G,Abarrotes,Chocolates y Caramelos
 60064,CHUPETE MR POPS EVOLUT BLUEBERRY 432G,Abarrotes,Chocolates y Caramelos
+60065,CHUPETE MR POPS EXTREME DUO 432G,Abarrotes,Chocolates y Caramelos
 60066,CHUPETE MR POPS FRUTAL 625G,Abarrotes,Chocolates y Caramelos
 60067,LECHE D COCO SOCOCO TETRA 200ML,Abarrotes,Repostería
 60074,EXTRACTO URUCU PICANTE D MANTECA 430G,Abarrotes,Básicos
@@ -3743,6 +3746,7 @@ id_producto,producto,categoria,subcategoria
 60091,LIFE TEA DURAZNO ZERO AZUC PET 500ML,Bebidas,Bebidas Varias
 60092,LIFE TEA FRUTOS ROJOS PET 500ML,Bebidas,Bebidas Varias
 60103,MANI TOSTADO MAYA SIN CASCARA 130G,Abarrotes,Snack
+60109,FOUR LOKO AILIVE LTA 695ML,Bebidas,Licores
 60468,Licor Cusenier Limoncello 750 ml,Bebidas,Licores
 60469,Vino Etchart Cafayate Rose 750 ml,Bebidas,Vinos y Champagne
 60470,Vino Etchart Gran Linaje Malbec 750 ml,Bebidas,Vinos y Champagne
@@ -6046,6 +6050,7 @@ id_producto,producto,categoria,subcategoria
 118715,Crema Depiladora Depimiel Sitema A+B 45 gr,Cuidado Personal,Cuidado de la Piel
 118717,Crema Depiladora Depimiel Manzanilla Ducha 120 gr,Cuidado Personal,Cuidado de la Piel
 118777,Azucar Marconi Impalpable 1 kg,Abarrotes,Básicos
+118778,BON O BON ARCOR COCO 450 GR,Abarrotes,Chocolates y Caramelos
 118800,Paño Limppano Multiuso Furatto 5 un,Cuidado del Hogar,Accesorios del Hogar
 118870,Almendra Maya Partida 300 gr,Abarrotes,Snack
 118871,Almendra Maya Uvas Pasas 280 gr,Abarrotes,Snack
@@ -6658,6 +6663,9 @@ id_producto,producto,categoria,subcategoria
 150180,Sal El Salar Rosada 500 gr,Abarrotes,Básicos
 150182,Sal El Salar Rosada 800 gr,Abarrotes,Básicos
 150187,Sal El Salar Parrillera 700 gr,Abarrotes,Básicos
+150213,Palitos Bread King 130 gr,Panadería,Panadería Externa
+150222,Galleta Bread King de Avena 270 gr,Panadería,Panadería Externa
+150234,Palitos Bread King Salado con Queso,Panadería,Panadería Externa
 150401,Shampoo Super para Auto 1 L,Bazar,Automotriz
 150418,Sopa Instantanea Cup Noodles Carne 69 gr,Abarrotes,Básicos
 150521,Filete de Trucha de Mar kg,Congelados,Carnes Congeladas
@@ -8446,6 +8454,8 @@ id_producto,producto,categoria,subcategoria
 225184,Jabon Barra De Ducha Revive Floral 340 ml,Cuidado Personal,Cuidado de la Piel
 225185,Te Lupi Mate Manzanilla Economico 20 Sobres,Abarrotes,Café y Sucedáneos
 225186,Jabon Barra De Ducha Revive Durazno 340 ml,Cuidado Personal,Cuidado de la Piel
+225189,Shampoo Carissa Anticaida ack 450 ml,Cuidado Personal,Cuidado del Cabello
+225190,Shampoo Carissa Bebe 450 ml,Cuidado del Bebé,Cuidado del Bebé
 225192,Suavizante Ropa Maxibrill Clasico 5 L,Cuidado del Hogar,Limpieza de la Ropa
 225193,Mate Lupi Anis Economico 20 un,Abarrotes,Café y Sucedáneos
 225194,Mate Lupi Coca Economico 20 un,Abarrotes,Café y Sucedáneos
@@ -9471,6 +9481,7 @@ id_producto,producto,categoria,subcategoria
 231931,LIMPIAPISO TODOBRILLO REPELENTE PLUS 1.8,Cuidado del Hogar,Limpieza de Baños
 231933,TRIPACK TOALLA HUMEDA MAMI 3X96 UNID,Cuidado del Bebé,Cuidado del Bebé
 231934,DULCE DE LECHE DLACHE SIN AZUCAR 350GR,Lácteos y Derivados,Dulces de Leche y Manjares
+231941,MUFFIN MERENDA CHOCOLATE 8 UNDS,Congelados,Masas y Comidas Congeladas
 231942,LABIAL NIVEA ROSE 4.8 GR,Cuidado del Hogar,Productos Americanos
 232003,Bebida Ice 51 Balada 275 ml,Bebidas,Licores
 232006,Gaseosa Conti Guarana 350 ml,Bebidas,Gaseosas
@@ -10221,6 +10232,11 @@ id_producto,producto,categoria,subcategoria
 280175,JABON SENADOR FOREST 130GR,Cuidado Personal,Cuidado de la Piel
 280176,JABON SENADOR GLICERINA EROSTONE 130GR,Cuidado Personal,Cuidado de la Piel
 280177,DEOREVIVE ROLL ON ORIGINAL WOMEN 50ML,Cuidado Personal,Cuidado de la Piel
+280189,DESOD  CREMA SPEED STICK XTREME NIGHT 70,Cuidado Personal,Cuidado de la Piel
+280190,DESODOR CREMA LADYSPEED STICK TALCO 70GR,Cuidado Personal,Cuidado de la Piel
+280191,SHAMPOO VITANE ALT NUTRICION 400ML,Cuidado Personal,Cuidado del Cabello
+280192,ACONDC VITANE ALT NUTRICION 400ML,Cuidado Personal,Cuidado del Cabello
+280193,BETUM LIQ CAFE  TODO BRILLO 70 ML,Cuidado del Hogar,Limpieza de Zapatos
 280512,Crema Nivea 30 ml,Cuidado Personal,Cuidado de la Piel
 281077,Cafe Colcafe Instantaneo Polvo 170 gr,Abarrotes,Café y Sucedáneos
 281703,Galleta Arcor Hogareña 7 Semillas 181 gr,Abarrotes,Galletas
@@ -10638,6 +10654,7 @@ id_producto,producto,categoria,subcategoria
 310402,GOMITA DOCILE JELLY BEANS SURTIDO 80G,Abarrotes,Golosinas - Varias
 310403,GOMITA DOCILE MIX DIVERTIDO BSA 80G,Abarrotes,Golosinas - Varias
 310404,GOMITA DOCILE UNICORNIO BSA 80G,Abarrotes,Golosinas - Varias
+310405,GOMITA DOCILE OSITO BSA 80G,Abarrotes,Golosinas - Varias
 310406,GOMITA DOCILE MORA BSA 80G,Abarrotes,Golosinas - Varias
 310407,UVA PASA NEGRA MAYA SIN SEMILL 280G,Abarrotes,Frutas en Conserva
 310441,Mezcla Zaeli Torta de Zanahoria 450 gr,Abarrotes,Repostería
@@ -11354,6 +11371,7 @@ id_producto,producto,categoria,subcategoria
 333145,Crema Facial Teatrical Antiarrugas 200 gr,Cuidado Personal,Cuidado de la Piel
 333160,Guantes Scotch Brite Cocina Rosado Talla G/L,Cuidado del Hogar,Productos Americanos
 333168,Maquina de Afeitar Gillette Prestobarba 3 Ice 2 un,Cuidado Personal,Cuidado de la Piel
+333171,BASUEROS TAMANO MEDIANO,Cuidado del Hogar,Accesorios del Hogar
 333265,Protectores Diarios Nosotras Largos 15 un,Cuidado Personal,Cuidado Familiar
 333266,Protectores Diarios Nosotras Largos 50 un,Cuidado Personal,Cuidado Familiar
 333277,Vino Infinitum Blend Concepcion Blanco 750 ml,Bebidas,Vinos y Champagne
@@ -14384,6 +14402,7 @@ id_producto,producto,categoria,subcategoria
 511870,Salsa Tabasco Pepper Sauce 150 ml,Abarrotes,Aderezos
 511878,Fideo Divella Fettuccine Uovo 250 gr,Abarrotes,Básicos
 511889,Salsa Picante Crystal Pollo Original 12 oz,Abarrotes,Productos Americanos
+512186,CEPILLO VIRUTEX LIMPIA SANITARIO CLASIC,Cuidado del Hogar,Accesorios del Hogar
 513040,Sal Lobos Parrillera 750 gr,Abarrotes,Básicos
 513105,Huevo Cofler Chocolate Mani 56 gr,Abarrotes,Temporada
 513130,Conejito Arcor Bon o Bon Leche 50 gr,Abarrotes,Temporada
@@ -17138,6 +17157,7 @@ id_producto,producto,categoria,subcategoria
 554090,SOPA INST AL TOKE CARNE BSA 85G,Abarrotes,Básicos
 554091,SOPA INST AL TOKE POLLO BSA 85 GR,Abarrotes,Básicos
 554092,SOPA INST AL TOKE CAMARON BSA 85 GR,Abarrotes,Básicos
+554093,CALDO DE HUESO PARA MASCOTAS ALPHA 470 M,Abarrotes,Mascotas
 554094,BOMBONES TABU BSA 100 GR,Abarrotes,Chocolates y Caramelos
 554095,POLVO DE CACAO BAURE 500 GR,Abarrotes,Repostería
 554096,SINGANI CASA REAL CRISTALINO 700 ML,Bebidas,Licores
@@ -17159,6 +17179,7 @@ id_producto,producto,categoria,subcategoria
 554114,HARINA DE MAIZ MORIXE CACHAPAS 500 GR,Abarrotes,Productos Americanos
 554115,GALLETA INFINITA VAINILLA CHOCOL SIXPACK,Abarrotes,Galletas
 554116,GALLETA INFINITA VAINILLA CHOCOL 120G,Abarrotes,Galletas
+554117,ALFAJOR MANJAR D ORO CHOCOLAT 390 GR,Abarrotes,Golosinas - Varias
 554123,GOMITA FINI RATON SAB SURTIDO 80G,Abarrotes,Golosinas - Varias
 554124,GOMAS FINI MIX SORPRESA 80 GR,Abarrotes,Golosinas - Varias
 554125,MASTICABLE REGALIZ ACIDO MORANG LIMA 80G,Abarrotes,Golosinas - Varias
@@ -19581,6 +19602,7 @@ id_producto,producto,categoria,subcategoria
 657031,Gel Fijador Vitane Max Extreme Control 500 gr,Cuidado Personal,Cuidado del Cabello
 657032,Sopa Instantanea Maruchan Carne 85 gr,Abarrotes,Básicos
 657033,Sopa Instantanea Maruchan Ramen Pollo 85 gr,Abarrotes,Básicos
+657040,DEO PIES MUJERES RECAMIER 180 CM3,Cuidado Personal,Cuidado de la Piel
 657042,Desodorante Aerosol Deo Pies Antibacterial Recamier 260 cm,Cuidado Personal,Cuidado de la Piel
 657043,Desodorante Aerosol Deo Pies Antitraspirante Recamier 260 cm,Cuidado Personal,Cuidado de la Piel
 657044,Desodorante Aerosol Deo Pies Mujer Recamier 260 cm,Cuidado Personal,Cuidado de la Piel
@@ -20293,7 +20315,9 @@ id_producto,producto,categoria,subcategoria
 660390,HERBAL SH PROLONGALO 1LT X9U,Cuidado Personal,Cuidado del Cabello
 660391,SUAVIZANTE DE ROPA FANTASTICO - FLORAL 5,Cuidado del Hogar,Limpieza de la Ropa
 660392,SUAVIZANTE DE ROPA FANTASTICO - BEBE 5L,Cuidado del Hogar,Limpieza de la Ropa
+660393,LAVAVAJILLA FANTASTICO - LIMALIMON 1.100,Cuidado del Hogar,Limpieza de Cocina
 660397,LAVAVAJILLA FANTASTICO - FLORAL 5L,Cuidado del Hogar,Limpieza de Cocina
+660398,LIMPIA PISO FANTASTICO - MAR AZUL 1L,Cuidado del Hogar,Limpieza de Baños
 660399,LIMPIA PISO FANTASTICO LAVANDA 1L,Cuidado del Hogar,Limpieza de Baños
 660400,LIMPIA PISO FANTASTICO - BEBE 1L,Cuidado del Hogar,Limpieza de Baños
 660407,LIMPIA PISOS FANTASTICO - FLORAL 5L,Cuidado del Hogar,Limpieza de Baños
@@ -20308,10 +20332,17 @@ id_producto,producto,categoria,subcategoria
 660420,SUAVIZANTE DE ROPA FANTASTICO - BEBE 1L,Cuidado del Hogar,Limpieza de la Ropa
 660422,ANTIGRASA FANTASTICO 860ML,Cuidado del Hogar,Limpieza de Cocina
 660423,LIMPIA VIDRIOS FANTASTICO 860ML,Cuidado del Hogar,Limpieza de Living y Ropero
+660425,LIMPIA VIDRIOS FANTASTICO - REFILL 860ML,Cuidado del Hogar,Limpieza de Living y Ropero
 660426,ANTIGRASA FANTASTICO 5 LT,Cuidado del Hogar,Limpieza de Cocina
+660429,ANTISARRO FANTASTICO REFILL 860ML,Cuidado del Hogar,Limpieza de Baños
+660430,ANTISARRO FANTASTICO 5L,Cuidado del Hogar,Limpieza de Baños
 660432,CREMA LECHUGA CORP HIDRATACION 350 ML,Cuidado Personal,Cuidado de la Piel
 660433,DESMAQUILLANTE OJOS Y ROSTRO BEAUTIK BIF,Cuidado Personal,Cuidado de la Piel
+660434,SERUM FACIAL BEAUTIK ALOE+ACIDO HUALURON,Cuidado Personal,Cuidado de la Piel
+660435,CREMA EN GEL HIDRATANTE BEAUTIK ALOE+HIA,Cuidado Personal,Cuidado de la Piel
 660437,LIMPIADOR EXFOLIANTE BEAUTIK ALOE 175ML,Cuidado Personal,Cuidado de la Piel
+660438,LIMPIADOR FACIAL GEL BEAUTIK ALOE 200ML,Cuidado Personal,Cuidado de la Piel
+660439,LIMPIADO FACIAL EN ESPUMA BAUTIK ALOE 15,Cuidado Personal,Cuidado de la Piel
 660440,LOCION CORPORAL SOL DE IPANEMA 72 VAI/PI,Cuidado Personal,Cuidado de la Piel
 660441,LOCION CORPORAL SOL DE IPANEMA 78 PIT/JA,Cuidado Personal,Cuidado de la Piel
 660442,LOCION CORPORAL SOL DE IPANEMA 52 CO/TUB,Cuidado Personal,Cuidado de la Piel
@@ -20321,6 +20352,8 @@ id_producto,producto,categoria,subcategoria
 660449,ROSA VEN 150G AZ PACK OFERTA 4X3,Cuidado Personal,Cuidado de la Piel
 660450,ESPONJA PET CERO RAYAS SCOTCH BRITE 30X1,Cuidado del Hogar,Accesorios del Hogar
 660451,KOTEX COMFORT ULTRAFINA X10,Cuidado Personal,Cuidado Familiar
+660457,PANO PISO  Q BRILLE BLANCO 60X90,Cuidado del Hogar,Accesorios del Hogar
+660459,3 ESPONJAS SCOTCH BRITE X4+POTE,Cuidado del Hogar,Accesorios del Hogar
 660548,Cafe Copacabana Exportado Tostado 250 gr,Abarrotes,Café y Sucedáneos
 660711,Galleta Noel Octagonal Surtida 260 gr,Abarrotes,Temporada
 660852,Te Frutte Laxte 20 Sobres,Abarrotes,Café y Sucedáneos
@@ -23904,6 +23937,7 @@ id_producto,producto,categoria,subcategoria
 675948,SALCHICHA VIENA DON PIOTR 500GRS VACIO,Fiambres,Fiambres Externos
 675949,SALCHICHA BOCK DON PIOTR 500GRS VACIO,Fiambres,Fiambres Externos
 675950,TOCINO AHUMADO DON PIOTR 200GRS VACIO,Fiambres,Fiambres Externos
+675951,QUESO DE CHANCHO DON PIOTR 200GRS VACIO,Fiambres,Fiambres Externos
 676113,Habanito Bits Cream Coojies Cream 120 gr,Congelados,"Helados, Cassattas y Picoleses"
 676115,HABANITO BITS CREAM DULCE DE LECHE 120GRS,Congelados,"Helados, Cassattas y Picoleses"
 676116,HABANITO BITS CREAM FRUTILLA 120GRS,Congelados,"Helados, Cassattas y Picoleses"
@@ -24844,6 +24878,7 @@ id_producto,producto,categoria,subcategoria
 761386,Helado Cono Cofler Block 95 gr,Congelados,"Helados, Cassattas y Picoleses"
 761394,Helado Cono Cofler Frutilla Americana,Congelados,"Helados, Cassattas y Picoleses"
 761412,PACK BATIDITO FRUTILLA X8 CON ESTUCHE,Lácteos y Derivados,Yogures
+761418,Palitos Integral Bread King Fitness,Panadería,Panadería Externa
 761419,Tapa de Empanada Criollas Miltipasta 12 un,Congelados,Masas y Comidas Congeladas
 761420,Yogurt Bebible Delizia Durazno 1 L,Lácteos y Derivados,Yogures
 761422,Tapa de Empanada Multiple Multipasta 12 un,Congelados,Masas y Comidas Congeladas
@@ -30431,6 +30466,7 @@ id_producto,producto,categoria,subcategoria
 906968,Servilletas Olego Coctel 20 un,Cuidado Personal,Cuidado Familiar
 906969,Servilletas De Cena Olego Pack 20 un,Cuidado Personal,Cuidado Familiar
 907138,Molde Brioche Tramontina,Bazar,Articulos de Cocina
+907211,MOPA NOVICIA ABRASIVO PALO,Cuidado del Hogar,Accesorios del Hogar
 907213,Secador Piso Grande Bettanin No.126,Cuidado del Hogar,Accesorios del Hogar
 907214,Mopa Novica Bettanin Algodón No.1322,Cuidado del Hogar,Accesorios del Hogar
 907218,Balde Novica Bettanin Con Escurridor,Cuidado del Hogar,Accesorios del Hogar
