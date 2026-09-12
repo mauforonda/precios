@@ -1210,7 +1210,9 @@ id_producto,producto,categoria,subcategoria
 17636,Vinagre Doña Filo Manzana Verde 750 ml,Abarrotes,Básicos
 17641,Almidon Pinduca Mandioca 1 kg,Abarrotes,Básicos
 17642,Brandy Constantino 1 L,Bebidas,Licores
+17647,Musli Prodaz de Avena 350 gr,Abarrotes,Nutrición Infantil
 17648,Musli de Trigo Prodaz 200 gr,Abarrotes,Nutrición Infantil
+17649,Musli Prodaz de Quinua 180 gr,Abarrotes,Nutrición Infantil
 17650,Isotonico Sante Mango Zero 500 ml,Bebidas,Isotónicos
 17652,Barra Quinua Chocolate Chia Almendra 30 gr,Abarrotes,Nutrición Infantil
 17653,Barra Quinua Chocolate Blanco Chia 30 gr,Abarrotes,Nutrición Infantil
@@ -4281,6 +4283,7 @@ id_producto,producto,categoria,subcategoria
 101205,Sardina Gustoso al Tomate 155 gr,Abarrotes,Comidas en Conserva
 101206,Atun Gustoso Desmenuzado en Aceite 170 gr,Abarrotes,Comidas en Conserva
 101207,Atun Gustoso Desmenuzado en Agua 170 gr,Abarrotes,Comidas en Conserva
+101209,Chocolate Sublime 144 gr,Abarrotes,Chocolates y Caramelos
 101222,Bombon Bon o Bon Aguila Intenso 270 gr,Abarrotes,Chocolates y Caramelos
 101226,Cuba Libre Ron y Cola 3 L,Bebidas,Licores
 101227,Acondicionador Herbal Essences Control de Caida 400 ml,Cuidado Personal,Cuidado del Cabello
@@ -6665,7 +6668,9 @@ id_producto,producto,categoria,subcategoria
 150187,Sal El Salar Parrillera 700 gr,Abarrotes,Básicos
 150213,Palitos Bread King 130 gr,Panadería,Panadería Externa
 150222,Galleta Bread King de Avena 270 gr,Panadería,Panadería Externa
+150227,Empanadas Integrales Bread King 275 gr,Panadería,Panadería Externa
 150234,Palitos Bread King Salado con Queso,Panadería,Panadería Externa
+150268,Pan Molde Bread King con Chia 500 gr,Panadería,Panadería Externa
 150401,Shampoo Super para Auto 1 L,Bazar,Automotriz
 150418,Sopa Instantanea Cup Noodles Carne 69 gr,Abarrotes,Básicos
 150521,Filete de Trucha de Mar kg,Congelados,Carnes Congeladas
@@ -9994,6 +9999,7 @@ id_producto,producto,categoria,subcategoria
 249903,BOLSA COLOR XGRANDE PC 90X110 CM,Cuidado del Hogar,Accesorios del Hogar
 249971,Mortadela Balleron Tipo Suizo Hipermaxi kg,Fiambres,Fiambres Hipermaxi
 249998,Carne Ahumada de Res Tipo Suizo Hipermaxi al Vacio Kg,Fiambres,Fiambres Hipermaxi
+250100,DOVE  CORPORAL  HIALURONICO 400ML,Cuidado Personal,Cuidado de la Piel
 250101,DEO DOVE MEN ENERGY BOOST150ML,Cuidado Personal,Cuidado de la Piel
 250102,SHAMPOO SEDAL LUMINOUS DP  850ML,Cuidado Personal,Cuidado del Cabello
 250103,SHAMPOO SEDAL TOQUE  SEDA DP 850ML,Cuidado Personal,Cuidado del Cabello
@@ -10214,6 +10220,8 @@ id_producto,producto,categoria,subcategoria
 280145,DETERGENTE EN POLVO LIDER MATIC 650 GR,Cuidado del Hogar,Limpieza de la Ropa
 280146,JABON LIQ. NATURESSA JASMIN 380 ML,Cuidado Personal,Cuidado de la Piel
 280147,SPRAY SOL IPANEMA PITHAJAYA 240 ML,Cuidado Personal,Cuidado de la Piel
+280151,PAPEL HIGIENICO COPITO PLUS 10 UNDS,Cuidado Personal,Cuidado Familiar
+280152,PAPEL COQUITO SOFT 10 UNDS,Cuidado Personal,Cuidado Familiar
 280153,TRIPACK PEPSODENT FRESH ANTICARIE 3X130G,Cuidado Personal,Cuidado Bucal
 280154,DEO BABARIA ZERO SKIN ML,Cuidado Personal,Cuidado de la Piel
 280155,DEO BABARIA INVISIBLE ANTISPOT 50ML,Cuidado Personal,Cuidado de la Piel
@@ -17121,6 +17129,7 @@ id_producto,producto,categoria,subcategoria
 554042,MANI MANIACO SALADO 1000 GR,Abarrotes,Snack
 554043,MANI MANIACO SALADO UVAS PASAS 1000GR,Abarrotes,Snack
 554044,CERVEZA BURGUESA 47 BOT 600 ML,Bebidas,Cervezas
+554047,SINGANI RECONQUISTA RESERVA 750 ML,Bebidas,Licores
 554048,PACK 6 COCA COLA 300 ML,Bebidas,Gaseosas
 554049,CARAMELO CANDY SPRAY BARBIE 25 ML,Abarrotes,Golosinas - Varias
 554050,INSUFLADO LUKA CROCANTE 110 GR,Abarrotes,Snack
@@ -20320,6 +20329,7 @@ id_producto,producto,categoria,subcategoria
 660398,LIMPIA PISO FANTASTICO - MAR AZUL 1L,Cuidado del Hogar,Limpieza de Baños
 660399,LIMPIA PISO FANTASTICO LAVANDA 1L,Cuidado del Hogar,Limpieza de Baños
 660400,LIMPIA PISO FANTASTICO - BEBE 1L,Cuidado del Hogar,Limpieza de Baños
+660401,LIMPIA PISO FANTASTICO - FLORAL 1L,Cuidado del Hogar,Limpieza de Baños
 660407,LIMPIA PISOS FANTASTICO - FLORAL 5L,Cuidado del Hogar,Limpieza de Baños
 660408,JABON LIQUIDO FANTASTICO - CANELA 1L,Cuidado Personal,Cuidado de la Piel
 660409,JABON LIQUIDO FANTASTICO - COCO 1L,Cuidado Personal,Cuidado de la Piel
@@ -20327,6 +20337,7 @@ id_producto,producto,categoria,subcategoria
 660412,JABON LIQUIDO FANTASTICO - CANELA 5L,Cuidado Personal,Cuidado de la Piel
 660413,JABON LIQUIDO FANTASTICO - COCO 5L,Cuidado Personal,Cuidado de la Piel
 660416,DETERGENTE LIQUIDO FANTASTICO - BEBE 1 L,Cuidado del Hogar,Limpieza de la Ropa
+660417,DETERGENTE LIQUIDO FANTASTICO - BEBE 5L,Cuidado del Hogar,Limpieza de la Ropa
 660418,DETERGENTE LIQUIDO FANTASTICO - FLORAL 1,Cuidado del Hogar,Limpieza de la Ropa
 660419,DETERGENTE LIQUIDO FANTASTICO - FLORAL 5,Cuidado del Hogar,Limpieza de la Ropa
 660420,SUAVIZANTE DE ROPA FANTASTICO - BEBE 1L,Cuidado del Hogar,Limpieza de la Ropa
@@ -24836,7 +24847,13 @@ id_producto,producto,categoria,subcategoria
 749132,Patacones Fritos Sabor Colombiano Platano Verde Congelado 10 un,Congelados,Masas y Comidas Congeladas
 749148,Empanada de Maiz Sabor Colombia Carne 10 un,Congelados,Masas y Comidas Congeladas
 752417,Nuggets de Pacu Pacusito kg,Congelados,Carnes Congeladas
+760108,PALETA DE AGUA SAB.FRUTILLA CAYARA 85 GR.,Congelados,"Helados, Cassattas y Picoleses"
+760112,PALETA ESPECIAL PISTACHO CHOCOLATE CAYARA 100 GR.,Congelados,"Helados, Cassattas y Picoleses"
+760113,PALETA DE AGUA SAB.LIMON CAYARA 85 GR.,Congelados,"Helados, Cassattas y Picoleses"
+760124,PALETA DE AGUA SAB.MANDARINA CAYARA 85 GR.,Congelados,"Helados, Cassattas y Picoleses"
 760132,Helado Duo Block Cofler 520 gr,Congelados,"Helados, Cassattas y Picoleses"
+760209,PALETA ESPECIAL CHOCOLATE AMARENA CAYARA 100 GR.,Congelados,"Helados, Cassattas y Picoleses"
+760228,PALETA ESPECIAL FRUTOS ROJOS CAYARA 100 GR.,Congelados,"Helados, Cassattas y Picoleses"
 760239,Yogurt Bebible Friedland Probiotico Coco 1 L,Lácteos y Derivados,Yogures
 760569,PASTA DENTAL COLGATE JUNIOR 100 GR,Cuidado Personal,Cuidado Bucal
 761062,Vino Viñas De Balbo Tinto 1125 ml,Bebidas,Vinos y Champagne
