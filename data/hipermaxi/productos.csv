@@ -6666,6 +6666,8 @@ id_producto,producto,categoria,subcategoria
 150180,Sal El Salar Rosada 500 gr,Abarrotes,Básicos
 150182,Sal El Salar Rosada 800 gr,Abarrotes,Básicos
 150187,Sal El Salar Parrillera 700 gr,Abarrotes,Básicos
+150201,Tostada Bread King 4 un,Panadería,Panadería Externa
+150209,Tostada Integral Bread King 4 un,Panadería,Panadería Externa
 150213,Palitos Bread King 130 gr,Panadería,Panadería Externa
 150222,Galleta Bread King de Avena 270 gr,Panadería,Panadería Externa
 150227,Empanadas Integrales Bread King 275 gr,Panadería,Panadería Externa
@@ -9597,6 +9599,7 @@ id_producto,producto,categoria,subcategoria
 238030,Aceite Baby Oil Care Studio 296 ml,Cuidado del Bebé,Cuidado del Bebé
 238034,Espuma de Afeitar Apex Revo Classic 414 ml,Cuidado Personal,Cuidado de la Piel
 238035,Espuma de Afeitar Apex Kaos 414 ml,Cuidado Personal,Cuidado de la Piel
+238095,PAPEL HIGIENICO HOGAR 35MTS 12UND,Cuidado Personal,Cuidado Familiar
 238406,Nutella 371 gr,Abarrotes,Productos Americanos
 238481,Suavizante Ropa Archer Celestial 2 L,Cuidado del Hogar,Limpieza de la Ropa
 238562,Caramelo Halls Mora Azul 25.2 gr,Abarrotes,Golosinas - Varias
@@ -10205,6 +10208,8 @@ id_producto,producto,categoria,subcategoria
 280105,ESPONJA ALGABO CARE  GUANTE,Cuidado Personal,Cuidado de la Piel
 280107,ESPONJA  ALGABO BANO ESPUMA,Cuidado Personal,Cuidado de la Piel
 280108,ESPONJA  ALGABO BANO EXFOLIANTE,Cuidado Personal,Cuidado de la Piel
+280109,DESODORANTE ALGABO  ROLLON MEN 60 ML,Cuidado Personal,Cuidado de la Piel
+280111,DETERGENTE BORITA HIPOALERG 1400 ML,Cuidado del Hogar,Limpieza de la Ropa
 280113,JABON ARTHE COCO ROSAMOSQUETA 85G,Cuidado Personal,Cuidado de la Piel
 280114,JABON ARTHE COCO AVENA 85 GR,Cuidado Personal,Cuidado de la Piel
 280115,JABON ARTHE COCO MACADAMIA 85 G,Cuidado Personal,Cuidado de la Piel
@@ -10693,8 +10698,9 @@ id_producto,producto,categoria,subcategoria
 312109,Te Verde Brissol 20 Sobres,Abarrotes,Café y Sucedáneos
 312110,Bebida Flow Sandia 12P 1 L,Bebidas,Licores
 312111,Bebida Flow Uva 1 L,Bebidas,Licores
-312112,Maiz Pipoca Nutrifoods Bolsa 450 gr,Abarrotes,Snack
+312112,Maiz Pipoca Nutrifoods 450 gr,Abarrotes,Snack
 312113,Mani Entero Nutrifoods Bolsa 250 gr,Abarrotes,Condimentos y Legumbres
+312114,Nuez Pelada Nutrifood 100 gr,Abarrotes,Snack
 312117,Api Morado Nutrifoods 450 gr,Abarrotes,Café y Sucedáneos
 312119,Frutos Secos Nutrifood Surtido 130 gr,Abarrotes,Snack
 312120,Mani Tostado Nutrifoods 170 gr,Abarrotes,Snack
@@ -17129,6 +17135,7 @@ id_producto,producto,categoria,subcategoria
 554042,MANI MANIACO SALADO 1000 GR,Abarrotes,Snack
 554043,MANI MANIACO SALADO UVAS PASAS 1000GR,Abarrotes,Snack
 554044,CERVEZA BURGUESA 47 BOT 600 ML,Bebidas,Cervezas
+554045,SINGANI RECONQUISTA CLASICO 750 ML,Bebidas,Licores
 554047,SINGANI RECONQUISTA RESERVA 750 ML,Bebidas,Licores
 554048,PACK 6 COCA COLA 300 ML,Bebidas,Gaseosas
 554049,CARAMELO CANDY SPRAY BARBIE 25 ML,Abarrotes,Golosinas - Varias
@@ -17189,11 +17196,13 @@ id_producto,producto,categoria,subcategoria
 554115,GALLETA INFINITA VAINILLA CHOCOL SIXPACK,Abarrotes,Galletas
 554116,GALLETA INFINITA VAINILLA CHOCOL 120G,Abarrotes,Galletas
 554117,ALFAJOR MANJAR D ORO CHOCOLAT 390 GR,Abarrotes,Golosinas - Varias
+554120,QUINUA MUSLI PRODAZ 100 GR,Abarrotes,Nutrición Infantil
 554123,GOMITA FINI RATON SAB SURTIDO 80G,Abarrotes,Golosinas - Varias
 554124,GOMAS FINI MIX SORPRESA 80 GR,Abarrotes,Golosinas - Varias
 554125,MASTICABLE REGALIZ ACIDO MORANG LIMA 80G,Abarrotes,Golosinas - Varias
 554126,REGALIZ FINI TUBES TUTTI FRUTTI 35 GR,Abarrotes,Golosinas - Varias
 554133,TE HELADO BONGO LIMON SACHET 170 ML,Bebidas,Bebidas Varias
+554134,TE HELADO BONGO DURAZNO SACHET 170 ML,Bebidas,Bebidas Varias
 554135,NACHOS DON TACO QUESO CHEDDAR 200 GR,Abarrotes,Snack
 554136,NACHOS DON TACO JALAPENO TOCINO 200 GR,Abarrotes,Snack
 554138,GALLETAS NUTELLA BISCUITS  12 UNID,Abarrotes,Productos Americanos
@@ -17201,6 +17210,7 @@ id_producto,producto,categoria,subcategoria
 554146,SALSA SOYA KIKKO BOT 160 ML,Abarrotes,Condimentos y Legumbres
 554147,SALSA SOYA KIKKO BOT 500 ML,Abarrotes,Condimentos y Legumbres
 554148,SALSA SOYA KIKKO BOT 1 LT,Abarrotes,Condimentos y Legumbres
+554159,CERVEZA BENDITA LEMON DROP LTA 310 ML,Bebidas,Cervezas
 554333,Cerveza Paceña Lata Roja 473 Cc,Bebidas,Cervezas
 554466,Detergente Liquido Ola Futuro Limpieza Completa 5 L,Cuidado del Hogar,Limpieza de la Ropa
 554468,Suavizante Ropa Ola Suavecito Original 5 L,Cuidado del Hogar,Limpieza de la Ropa
@@ -20330,6 +20340,7 @@ id_producto,producto,categoria,subcategoria
 660399,LIMPIA PISO FANTASTICO LAVANDA 1L,Cuidado del Hogar,Limpieza de Baños
 660400,LIMPIA PISO FANTASTICO - BEBE 1L,Cuidado del Hogar,Limpieza de Baños
 660401,LIMPIA PISO FANTASTICO - FLORAL 1L,Cuidado del Hogar,Limpieza de Baños
+660404,LIMPIA PISO FANTASTICO - BEBE 5L,Cuidado del Hogar,Limpieza de Baños
 660407,LIMPIA PISOS FANTASTICO - FLORAL 5L,Cuidado del Hogar,Limpieza de Baños
 660408,JABON LIQUIDO FANTASTICO - CANELA 1L,Cuidado Personal,Cuidado de la Piel
 660409,JABON LIQUIDO FANTASTICO - COCO 1L,Cuidado Personal,Cuidado de la Piel
@@ -20363,8 +20374,12 @@ id_producto,producto,categoria,subcategoria
 660449,ROSA VEN 150G AZ PACK OFERTA 4X3,Cuidado Personal,Cuidado de la Piel
 660450,ESPONJA PET CERO RAYAS SCOTCH BRITE 30X1,Cuidado del Hogar,Accesorios del Hogar
 660451,KOTEX COMFORT ULTRAFINA X10,Cuidado Personal,Cuidado Familiar
+660454,AQUANET MEDIANO 5OZ (140G),Cuidado Personal,Cuidado del Cabello
+660455,AQUANET 4OZ (110G),Cuidado Personal,Cuidado del Cabello
 660457,PANO PISO  Q BRILLE BLANCO 60X90,Cuidado del Hogar,Accesorios del Hogar
 660459,3 ESPONJAS SCOTCH BRITE X4+POTE,Cuidado del Hogar,Accesorios del Hogar
+660460,CEPILLO PLANCHA MULTIUSO,Cuidado del Hogar,Accesorios del Hogar
+660462,LACTOVIT LACTOUREA BM 1000ML,Cuidado Personal,Cuidado de la Piel
 660548,Cafe Copacabana Exportado Tostado 250 gr,Abarrotes,Café y Sucedáneos
 660711,Galleta Noel Octagonal Surtida 260 gr,Abarrotes,Temporada
 660852,Te Frutte Laxte 20 Sobres,Abarrotes,Café y Sucedáneos
