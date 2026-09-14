@@ -3722,6 +3722,10 @@ id_producto,producto,categoria,subcategoria
 60028,MANI PINZONES C CHOCOLATE DP 220G,Abarrotes,Chocolates y Caramelos
 60038,GOMITA YUMMY FRUTILLA C CREMA 150G,Abarrotes,Golosinas - Varias
 60039,GOMITA YUMMY SANDIA BSA 500G,Abarrotes,Golosinas - Varias
+60041,PASTA URBANO SPAGUETTI ZERO GLUTEN 500G,Abarrotes,Dietéticos y Saludables
+60043,HARINA MIX URBANO ZERO GLUTEN 1KG,Abarrotes,Dietéticos y Saludables
+60044,HARINA URBANO QUEQUE CHOCOL ZERO GLUT 30,Abarrotes,Dietéticos y Saludables
+60045,HARINA URGANO QUEQUE NARANJA ZERO GLUT 3,Abarrotes,Dietéticos y Saludables
 60046,LENTEJA PINDUCA BSA 400G,Abarrotes,Condimentos y Legumbres
 60047,PEPINILLO PINDUCA RODAJAS FCO 440G,Abarrotes,Verduras en Conserva
 60048,PIKLES PINDUCA SUAVE FCO 300G,Abarrotes,Verduras en Conserva
@@ -3732,15 +3736,27 @@ id_producto,producto,categoria,subcategoria
 60054,PIPOCA PINDUCA MANTEQUILLA 100G,Abarrotes,Snack
 60055,PIPOCA PINDUCA CARAMELO 100G,Abarrotes,Snack
 60056,PIPOCA PINDUCA NATURAL 100G,Abarrotes,Snack
+60059,MEZCLA URBANO QUEQUE COCO SIN GLUT 300G,Abarrotes,Dietéticos y Saludables
+60061,GALLETA JASMINE ROSQUINA COCO CERO AZ 12,Abarrotes,Dietéticos y Saludables
+60062,GALLETA JASMINE INTEGRAL CHOCOL 120G,Abarrotes,Dietéticos y Saludables
 60063,CHUPETE MR POPS EVOLUTION CEREZA 432G,Abarrotes,Chocolates y Caramelos
 60064,CHUPETE MR POPS EVOLUT BLUEBERRY 432G,Abarrotes,Chocolates y Caramelos
 60065,CHUPETE MR POPS EXTREME DUO 432G,Abarrotes,Chocolates y Caramelos
 60066,CHUPETE MR POPS FRUTAL 625G,Abarrotes,Chocolates y Caramelos
 60067,LECHE D COCO SOCOCO TETRA 200ML,Abarrotes,Repostería
+60069,PASTA URBANO TORNILLO SIN GLUT 500G,Abarrotes,Dietéticos y Saludables
+60070,PASTA URBANO TUBETTI SIN GLUT 500G,Abarrotes,Dietéticos y Saludables
+60071,GALLETA SALADA JASMINE VEGGIE CHIPS TRAD,Abarrotes,Dietéticos y Saludables
+60072,GRANOLA JASMINE TRADIC ZERO AZUCAR 850G,Abarrotes,Dietéticos y Saludables
+60073,GRANOLA JASMINE CAST CAJU INTEGRAL DP 25,Abarrotes,Dietéticos y Saludables
 60074,EXTRACTO URUCU PICANTE D MANTECA 430G,Abarrotes,Básicos
 60075,VINOS LEGADO MILTON ANA HEBE COLECC 1UND,Bebidas,Vinos y Champagne
 60076,VAPE WAKA APEX BLUEBERRY ICE 30000P,Bebidas,Cigarrillos
 60077,VAPE WAKA APEX WATERMELON STRAWB 30000P,Bebidas,Cigarrillos
+60080,GALLETA JASMINE VEGGIE CHIPS CEBOLLA 40G,Abarrotes,Dietéticos y Saludables
+60081,GRANOLA JASMINE MANZ CANELA INTEGRAL 1KG,Abarrotes,Dietéticos y Saludables
+60083,GRANOLA JASMINTE TRADIC INTEGRAL 1KG,Abarrotes,Dietéticos y Saludables
+60084,GRANOLA JASMINE C CAJU INTEGRAL 1KG,Abarrotes,Dietéticos y Saludables
 60086,CHOCOL GAROTO SERENATA D AMOR TAB 90G,Abarrotes,Chocolates y Caramelos
 60087,DULCE DORI DISQUETI CHOCO LECHE 40G,Abarrotes,Golosinas - Varias
 60089,LIFE TEA LIMON ZERO AZUC PET 500ML,Bebidas,Bebidas Varias
@@ -17201,6 +17217,8 @@ id_producto,producto,categoria,subcategoria
 554124,GOMAS FINI MIX SORPRESA 80 GR,Abarrotes,Golosinas - Varias
 554125,MASTICABLE REGALIZ ACIDO MORANG LIMA 80G,Abarrotes,Golosinas - Varias
 554126,REGALIZ FINI TUBES TUTTI FRUTTI 35 GR,Abarrotes,Golosinas - Varias
+554130,CEREAL IRUPANA NUTRI CHOC BSA 700 GR,Abarrotes,Nutrición Infantil
+554131,CEREAL IRUPANA NUTRI FRUTTI BSA 700 GR,Abarrotes,Nutrición Infantil
 554133,TE HELADO BONGO LIMON SACHET 170 ML,Bebidas,Bebidas Varias
 554134,TE HELADO BONGO DURAZNO SACHET 170 ML,Bebidas,Bebidas Varias
 554135,NACHOS DON TACO QUESO CHEDDAR 200 GR,Abarrotes,Snack
@@ -17211,6 +17229,8 @@ id_producto,producto,categoria,subcategoria
 554147,SALSA SOYA KIKKO BOT 500 ML,Abarrotes,Condimentos y Legumbres
 554148,SALSA SOYA KIKKO BOT 1 LT,Abarrotes,Condimentos y Legumbres
 554159,CERVEZA BENDITA LEMON DROP LTA 310 ML,Bebidas,Cervezas
+554165,GASEOSA FANTA GHOST FACE 500ML,Bebidas,Gaseosas
+554166,JUGO LA GRANJA MANDARINA PET 2 LT,Bebidas,"Jugos, Néctar"
 554333,Cerveza Paceña Lata Roja 473 Cc,Bebidas,Cervezas
 554466,Detergente Liquido Ola Futuro Limpieza Completa 5 L,Cuidado del Hogar,Limpieza de la Ropa
 554468,Suavizante Ropa Ola Suavecito Original 5 L,Cuidado del Hogar,Limpieza de la Ropa
@@ -23959,6 +23979,7 @@ id_producto,producto,categoria,subcategoria
 674962,SACHET SALAME PIO RICO 100GRS,Fiambres,Fiambres Externos
 674964,QUEQE OVOPLUS SABORES SURTIDOS 450GRS,Pastelería y Masas Típicas,Pastelería Externa
 674965,BIZCOCHO DE CHOCOLATE OVOPLUS BOLSA 10 UNIDADES,Pastelería y Masas Típicas,Pastelería Externa
+674975,HELADO PALETA DELIZIA TENTACION CLASICO 100ML,Congelados,"Helados, Cassattas y Picoleses"
 675245,Miel de Abeja Eva Promiel 250 gr,Abarrotes,"Mermel, Mieles"
 675948,SALCHICHA VIENA DON PIOTR 500GRS VACIO,Fiambres,Fiambres Externos
 675949,SALCHICHA BOCK DON PIOTR 500GRS VACIO,Fiambres,Fiambres Externos
@@ -24867,9 +24888,14 @@ id_producto,producto,categoria,subcategoria
 760113,PALETA DE AGUA SAB.LIMON CAYARA 85 GR.,Congelados,"Helados, Cassattas y Picoleses"
 760124,PALETA DE AGUA SAB.MANDARINA CAYARA 85 GR.,Congelados,"Helados, Cassattas y Picoleses"
 760132,Helado Duo Block Cofler 520 gr,Congelados,"Helados, Cassattas y Picoleses"
+760135,PALETA DE AGUA SAB.MARACUYA CAYARA 85 GR.,Congelados,"Helados, Cassattas y Picoleses"
+760156,PALETA DE LECHE SAB.MORA CAYARA 70 GR.,Congelados,"Helados, Cassattas y Picoleses"
 760209,PALETA ESPECIAL CHOCOLATE AMARENA CAYARA 100 GR.,Congelados,"Helados, Cassattas y Picoleses"
 760228,PALETA ESPECIAL FRUTOS ROJOS CAYARA 100 GR.,Congelados,"Helados, Cassattas y Picoleses"
+760235,PALETA ESPECIAL MENTA CHISPAS CHOC.CAYARA 100 GR.,Congelados,"Helados, Cassattas y Picoleses"
 760239,Yogurt Bebible Friedland Probiotico Coco 1 L,Lácteos y Derivados,Yogures
+760324,PALET RELLENA CREMA AM.Y OREO CAYARA 120 GR.,Congelados,"Helados, Cassattas y Picoleses"
+760335,PALETA RELLENA FRUTILLA LECHE COND.CAYARA 120 GR.,Congelados,"Helados, Cassattas y Picoleses"
 760569,PASTA DENTAL COLGATE JUNIOR 100 GR,Cuidado Personal,Cuidado Bucal
 761062,Vino Viñas De Balbo Tinto 1125 ml,Bebidas,Vinos y Champagne
 761121,Yogurt Bebible Friedland Probiotico Durazno 1 L,Lácteos y Derivados,Yogures
