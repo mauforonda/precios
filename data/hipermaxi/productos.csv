@@ -17212,6 +17212,7 @@ id_producto,producto,categoria,subcategoria
 554115,GALLETA INFINITA VAINILLA CHOCOL SIXPACK,Abarrotes,Galletas
 554116,GALLETA INFINITA VAINILLA CHOCOL 120G,Abarrotes,Galletas
 554117,ALFAJOR MANJAR D ORO CHOCOLAT 390 GR,Abarrotes,Golosinas - Varias
+554119,MUSLI AVENA PRODAZ 200GR,Abarrotes,Nutrición Infantil
 554120,QUINUA MUSLI PRODAZ 100 GR,Abarrotes,Nutrición Infantil
 554123,GOMITA FINI RATON SAB SURTIDO 80G,Abarrotes,Golosinas - Varias
 554124,GOMAS FINI MIX SORPRESA 80 GR,Abarrotes,Golosinas - Varias
@@ -17229,6 +17230,7 @@ id_producto,producto,categoria,subcategoria
 554147,SALSA SOYA KIKKO BOT 500 ML,Abarrotes,Condimentos y Legumbres
 554148,SALSA SOYA KIKKO BOT 1 LT,Abarrotes,Condimentos y Legumbres
 554159,CERVEZA BENDITA LEMON DROP LTA 310 ML,Bebidas,Cervezas
+554160,BEBIDA SPARKLY ICE POMELO LTA 300 ML,Bebidas,Licores
 554165,GASEOSA FANTA GHOST FACE 500ML,Bebidas,Gaseosas
 554166,JUGO LA GRANJA MANDARINA PET 2 LT,Bebidas,"Jugos, Néctar"
 554333,Cerveza Paceña Lata Roja 473 Cc,Bebidas,Cervezas
@@ -18524,6 +18526,7 @@ id_producto,producto,categoria,subcategoria
 629888,CARAMEL DINO ROBOT - BONART 11GR,Abarrotes,Productos Americanos
 629899,CEREAL APPLE CINNAMON CHERRIOS 311 GR,Abarrotes,Productos Americanos
 629901,CHUPETE BOLLIPOP BONART 11 GR,Abarrotes,Productos Americanos
+629917,PAPAS FRITAS SUN CHIPS SABOR CHEEDAR 67.3GR,Abarrotes,Productos Americanos
 629918,PAPAS FRITAS SUN CHIPS SABOR SALSA JARDIN 67.3 GR,Abarrotes,Productos Americanos
 630010,Alimento Pedigree Cachorro 1.5 kg,Abarrotes,Mascotas
 630011,Gaseosa Crush Piña 355 ml,Bebidas,Bebidas Usa
@@ -20367,11 +20370,13 @@ id_producto,producto,categoria,subcategoria
 660411,JABON LIQUIDO FANTASTICO - BRISA MARINA,Cuidado Personal,Cuidado de la Piel
 660412,JABON LIQUIDO FANTASTICO - CANELA 5L,Cuidado Personal,Cuidado de la Piel
 660413,JABON LIQUIDO FANTASTICO - COCO 5L,Cuidado Personal,Cuidado de la Piel
+660415,JABON LIQUIDO FANTASTICO - BRISA MARINA,Cuidado Personal,Cuidado de la Piel
 660416,DETERGENTE LIQUIDO FANTASTICO - BEBE 1 L,Cuidado del Hogar,Limpieza de la Ropa
 660417,DETERGENTE LIQUIDO FANTASTICO - BEBE 5L,Cuidado del Hogar,Limpieza de la Ropa
 660418,DETERGENTE LIQUIDO FANTASTICO - FLORAL 1,Cuidado del Hogar,Limpieza de la Ropa
 660419,DETERGENTE LIQUIDO FANTASTICO - FLORAL 5,Cuidado del Hogar,Limpieza de la Ropa
 660420,SUAVIZANTE DE ROPA FANTASTICO - BEBE 1L,Cuidado del Hogar,Limpieza de la Ropa
+660421,SUAVIZANTE DE ROPA FANTASTICO - FLORAL 1,Cuidado del Hogar,Limpieza de la Ropa
 660422,ANTIGRASA FANTASTICO 860ML,Cuidado del Hogar,Limpieza de Cocina
 660423,LIMPIA VIDRIOS FANTASTICO 860ML,Cuidado del Hogar,Limpieza de Living y Ropero
 660425,LIMPIA VIDRIOS FANTASTICO - REFILL 860ML,Cuidado del Hogar,Limpieza de Living y Ropero
@@ -20394,6 +20399,7 @@ id_producto,producto,categoria,subcategoria
 660449,ROSA VEN 150G AZ PACK OFERTA 4X3,Cuidado Personal,Cuidado de la Piel
 660450,ESPONJA PET CERO RAYAS SCOTCH BRITE 30X1,Cuidado del Hogar,Accesorios del Hogar
 660451,KOTEX COMFORT ULTRAFINA X10,Cuidado Personal,Cuidado Familiar
+660453,AQUANET GRANDE 14OZ (397G),Cuidado Personal,Cuidado del Cabello
 660454,AQUANET MEDIANO 5OZ (140G),Cuidado Personal,Cuidado del Cabello
 660455,AQUANET 4OZ (110G),Cuidado Personal,Cuidado del Cabello
 660457,PANO PISO  Q BRILLE BLANCO 60X90,Cuidado del Hogar,Accesorios del Hogar
@@ -22482,6 +22488,7 @@ id_producto,producto,categoria,subcategoria
 672102,Smoothie Minuto Verde Green Desintoxicante 500 gr,Congelados,Pulpas y Frutas Congeladas
 672103,Smoothie Minuto Verde Pink Energetico 500 gr,Congelados,Pulpas y Frutas Congeladas
 672104,Smoothie Minuto Verde Yellow Pasion 500 gr,Congelados,Pulpas y Frutas Congeladas
+672107,TRUCHA FRESCA EVISCERADA AL VACIO MDRT KILOGRAMO,Congelados,Carnes Congeladas
 672111,Mortadela Lyoneza Stege al Vacio,Fiambres,Fiambres Externos
 672114,Salame de Cerdo Kami 100 gr,Fiambres,Fiambres Externos
 672115,Salame de Llama Kami 100 gr,Fiambres,Fiambres Externos
@@ -23942,6 +23949,7 @@ id_producto,producto,categoria,subcategoria
 674896,TIRA ESPECIAL FRIDOSA AL VACIO KGR,Carnes,Carnes al Vacio Externas
 674913,HUEVO SOFIA MAPLE 30 C,Lácteos y Derivados,Huevos
 674917,YOGURT NATURAL FATHYR 200 GRS,Lácteos y Derivados,Yogures
+674920,PAICHE FILETEADO Y SELLADO AL VACIO KILOGRAMO,Congelados,Carnes Congeladas
 674922,PIERNA MUSLO POLLO SOFIA CONGELADO BOLSA 2KGR,Congelados,Carnes Congeladas
 674923,SALCHICHON A GRANEL PIO RICO KGR,Fiambres,Fiambres Externos
 674924,POLLO PIO RICO EXTRA GRANDE UNIDAD,Carnes,Carne de Pollo
@@ -25621,6 +25629,7 @@ id_producto,producto,categoria,subcategoria
 785267,Cuñape San Javier Dulce de Guayaba 200 gr,Pastelería y Masas Típicas,Masas Típicas Externas
 785342,Yogurt Griego Clarabella con Pulpa Surtido 500 ml,Lácteos y Derivados,Yogures
 785361,Jamon de Pavo Sofia al Vacio un,Fiambres,Fiambres Externos
+785373,Galleta de Coco Bread King 15 un,Pastelería y Masas Típicas,Masas Típicas Externas
 785413,Mantequilla de Ajo Riquisima 200 gr,Lácteos y Derivados,Mantequillas y Margarinas
 785421,Nectar Congelado Delifruta Tamarindo 500 gr,Congelados,Pulpas y Frutas Congeladas
 785437,Yogurt Delizia Familiar Coco 2 L,Lácteos y Derivados,Yogures
