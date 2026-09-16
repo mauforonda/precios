@@ -10222,6 +10222,7 @@ id_producto,producto,categoria,subcategoria
 279021,Tequila Jose Cuervo Especial 750 ml,Bebidas,Licores
 280102,LIMPIAPISO TODOBRILLO PLUS CRM.FLORAL1.8ML,Cuidado del Hogar,Limpieza de Baños
 280105,ESPONJA ALGABO CARE  GUANTE,Cuidado Personal,Cuidado de la Piel
+280106,ESPONJA ALGABO DE BANO,Cuidado Personal,Cuidado de la Piel
 280107,ESPONJA  ALGABO BANO ESPUMA,Cuidado Personal,Cuidado de la Piel
 280108,ESPONJA  ALGABO BANO EXFOLIANTE,Cuidado Personal,Cuidado de la Piel
 280109,DESODORANTE ALGABO  ROLLON MEN 60 ML,Cuidado Personal,Cuidado de la Piel
@@ -12997,13 +12998,22 @@ id_producto,producto,categoria,subcategoria
 407177,Aceituna Gustoso Negra 340 gr,Abarrotes,Verduras en Conserva
 408103,Champiñones Slan Enteros 250 gr,Frutas y Verduras,Ofertas Especiales
 408104,Champiñones Slan Enteros 150 gr,Frutas y Verduras,Ofertas Especiales
+408106,CHAMPINONES SLAN LAMINADOS 150 G,Frutas y Verduras,Ofertas Especiales
 408109,Champiñones Slan Portobello Entero 250 gr,Frutas y Verduras,Ofertas Especiales
+408113,CHAMPINONES SLAN JUMBO 300 G,Frutas y Verduras,Ofertas Especiales
 408190,Yogurt Pil Biogurt Bebible Frutilla 200 ml,Lácteos y Derivados,Yogures
 408199,Yogurt Pil Biogurt Bebible Durazno 200 ml,Lácteos y Derivados,Yogures
 408717,Espumeante Los Haroldos Ext Brut 750 ml,Bebidas,Vinos y Champagne
 408770,Lechuga Hidro Huerta Lista 225 gr,Frutas y Verduras,Ofertas Especiales
 408771,Rucula Hidro Huerta Lista 130 gr,Frutas y Verduras,Ofertas Especiales
 408772,Kale Hidro Huerta Lista 150 gr,Frutas y Verduras,Ofertas Especiales
+409314,ENSALADA DE FRUTAS OLIVOS 1 KG,Frutas y Verduras,Ofertas Especiales
+409330,PAPAYA OLIVOS CORTADA 1 KG,Frutas y Verduras,Ofertas Especiales
+409331,PAPAYA OLIVOS PELADA 1 KG,Frutas y Verduras,Ofertas Especiales
+409342,PULPA OLIVOS POMELO 1 KG,Frutas y Verduras,Ofertas Especiales
+409346,SANDIA OLIVOS CORTADA 1 KG,Frutas y Verduras,Ofertas Especiales
+409347,SANDIA OLIVOS PICADA 1 KG,Frutas y Verduras,Ofertas Especiales
+409387,CHOCLO OLIVOS PELADO 1 KG,Frutas y Verduras,Ofertas Especiales
 409570,Achocolatado Pil Milkao 760 gr,Abarrotes,Nutrición Infantil
 410100,Harina Real Trigo Integral 1 kg,Abarrotes,Básicos
 410130,Servilletas Mili 50 un,Cuidado Personal,Cuidado Familiar
@@ -17229,8 +17239,10 @@ id_producto,producto,categoria,subcategoria
 554146,SALSA SOYA KIKKO BOT 160 ML,Abarrotes,Condimentos y Legumbres
 554147,SALSA SOYA KIKKO BOT 500 ML,Abarrotes,Condimentos y Legumbres
 554148,SALSA SOYA KIKKO BOT 1 LT,Abarrotes,Condimentos y Legumbres
+554158,CHOCOLATE GAROTO RECHEADOS 90 GR,Abarrotes,Chocolates y Caramelos
 554159,CERVEZA BENDITA LEMON DROP LTA 310 ML,Bebidas,Cervezas
 554160,BEBIDA SPARKLY ICE POMELO LTA 300 ML,Bebidas,Licores
+554162,BEBIDA SPARKLY ICE BLUEBERRY LTA 300 ML,Bebidas,Licores
 554165,GASEOSA FANTA GHOST FACE 500ML,Bebidas,Gaseosas
 554166,JUGO LA GRANJA MANDARINA PET 2 LT,Bebidas,"Jugos, Néctar"
 554333,Cerveza Paceña Lata Roja 473 Cc,Bebidas,Cervezas
@@ -22489,6 +22501,7 @@ id_producto,producto,categoria,subcategoria
 672103,Smoothie Minuto Verde Pink Energetico 500 gr,Congelados,Pulpas y Frutas Congeladas
 672104,Smoothie Minuto Verde Yellow Pasion 500 gr,Congelados,Pulpas y Frutas Congeladas
 672107,TRUCHA FRESCA EVISCERADA AL VACIO MDRT KILOGRAMO,Congelados,Carnes Congeladas
+672108,FILETE DE TRUCHA MDRT AL VACIO KILOGRAMO,Congelados,Carnes Congeladas
 672111,Mortadela Lyoneza Stege al Vacio,Fiambres,Fiambres Externos
 672114,Salame de Cerdo Kami 100 gr,Fiambres,Fiambres Externos
 672115,Salame de Llama Kami 100 gr,Fiambres,Fiambres Externos
@@ -25115,6 +25128,7 @@ id_producto,producto,categoria,subcategoria
 764783,Cuñapecitos Mayser Dulcecitos 200 gr,Pastelería y Masas Típicas,Masas Típicas Externas
 764812,PAN MOLDE MULTIGRANO VICTORIA 580 GR.,Panadería,Panadería Externa
 764813,LECHE DE SOYA IDEAL SABOR BANANA 900 ML.,Lácteos y Derivados,Leches
+764817,QUESO AZUL GUARUJA KG.,Lácteos y Derivados,Quesos
 764822,PIZZA PRECOCIDA HAWAIANA BAHREM 550 GR.,Congelados,Masas y Comidas Congeladas
 764825,LECHE DE SOYA IDEAL SABOR FRUTILLA 900 ML.,Lácteos y Derivados,Leches
 764830,Naturecreme Crema De Leche 1 L,Lácteos y Derivados,Crema de Leche
@@ -25143,6 +25157,7 @@ id_producto,producto,categoria,subcategoria
 765613,Galleta Crick de Agua 200 gr,Abarrotes,Galletas
 765628,Galleta De Agua Crick 1 kg,Abarrotes,Galletas
 765734,Pan con Chia y Sesamo Nasway 6 un,Panadería,Panadería Externa
+765769,DULCE DE LECHE GUARUJA 200 GRS.,Lácteos y Derivados,Dulces de Leche y Manjares
 765836,Huevos Avicola Paurito Subsidio 15 un,Lácteos y Derivados,Huevos
 765872,Pan con Linaza y Sesamo Nasway 6 un,Panadería,Panadería Externa
 765874,Huevos Avicola Paurito Subsidio 18 un,Lácteos y Derivados,Huevos
