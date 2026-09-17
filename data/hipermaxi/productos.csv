@@ -6688,6 +6688,7 @@ id_producto,producto,categoria,subcategoria
 150222,Galleta Bread King de Avena 270 gr,Panadería,Panadería Externa
 150227,Empanadas Integrales Bread King 275 gr,Panadería,Panadería Externa
 150234,Palitos Bread King Salado con Queso,Panadería,Panadería Externa
+150242,Pan Molde Bread King Sin Semilla 500 gr,Panadería,Panadería Externa
 150268,Pan Molde Bread King con Chia 500 gr,Panadería,Panadería Externa
 150401,Shampoo Super para Auto 1 L,Bazar,Automotriz
 150418,Sopa Instantanea Cup Noodles Carne 69 gr,Abarrotes,Básicos
@@ -13007,12 +13008,18 @@ id_producto,producto,categoria,subcategoria
 408770,Lechuga Hidro Huerta Lista 225 gr,Frutas y Verduras,Ofertas Especiales
 408771,Rucula Hidro Huerta Lista 130 gr,Frutas y Verduras,Ofertas Especiales
 408772,Kale Hidro Huerta Lista 150 gr,Frutas y Verduras,Ofertas Especiales
+409313,COCO VERDE OLIVOS 1 KG,Frutas y Verduras,Ofertas Especiales
 409314,ENSALADA DE FRUTAS OLIVOS 1 KG,Frutas y Verduras,Ofertas Especiales
 409330,PAPAYA OLIVOS CORTADA 1 KG,Frutas y Verduras,Ofertas Especiales
 409331,PAPAYA OLIVOS PELADA 1 KG,Frutas y Verduras,Ofertas Especiales
 409342,PULPA OLIVOS POMELO 1 KG,Frutas y Verduras,Ofertas Especiales
 409346,SANDIA OLIVOS CORTADA 1 KG,Frutas y Verduras,Ofertas Especiales
 409347,SANDIA OLIVOS PICADA 1 KG,Frutas y Verduras,Ofertas Especiales
+409358,MIX OLIVOS MANZANA Y GUINEO 1 KG,Frutas y Verduras,Ofertas Especiales
+409369,MOTACUSITO OLIVOS 1 KG,Frutas y Verduras,Ofertas Especiales
+409370,PAPAYA HAWAIANA OLIVOS 1 KG,Frutas y Verduras,Ofertas Especiales
+409376,PAPA NATIVA OLIVOS 1 KG,Frutas y Verduras,Ofertas Especiales
+409379,MIX OLIVOS SOPA DE VERDURAS 1 UND,Frutas y Verduras,Ofertas Especiales
 409387,CHOCLO OLIVOS PELADO 1 KG,Frutas y Verduras,Ofertas Especiales
 409570,Achocolatado Pil Milkao 760 gr,Abarrotes,Nutrición Infantil
 410100,Harina Real Trigo Integral 1 kg,Abarrotes,Básicos
@@ -17228,8 +17235,10 @@ id_producto,producto,categoria,subcategoria
 554124,GOMAS FINI MIX SORPRESA 80 GR,Abarrotes,Golosinas - Varias
 554125,MASTICABLE REGALIZ ACIDO MORANG LIMA 80G,Abarrotes,Golosinas - Varias
 554126,REGALIZ FINI TUBES TUTTI FRUTTI 35 GR,Abarrotes,Golosinas - Varias
+554129,CEREAL IRUPANA NUTRI LITAS BSA 700 GR,Abarrotes,Nutrición Infantil
 554130,CEREAL IRUPANA NUTRI CHOC BSA 700 GR,Abarrotes,Nutrición Infantil
 554131,CEREAL IRUPANA NUTRI FRUTTI BSA 700 GR,Abarrotes,Nutrición Infantil
+554132,CEREAL IRUPANA NUTRI CHOC DUO BS 700 GR,Abarrotes,Nutrición Infantil
 554133,TE HELADO BONGO LIMON SACHET 170 ML,Bebidas,Bebidas Varias
 554134,TE HELADO BONGO DURAZNO SACHET 170 ML,Bebidas,Bebidas Varias
 554135,NACHOS DON TACO QUESO CHEDDAR 200 GR,Abarrotes,Snack
@@ -17242,9 +17251,14 @@ id_producto,producto,categoria,subcategoria
 554158,CHOCOLATE GAROTO RECHEADOS 90 GR,Abarrotes,Chocolates y Caramelos
 554159,CERVEZA BENDITA LEMON DROP LTA 310 ML,Bebidas,Cervezas
 554160,BEBIDA SPARKLY ICE POMELO LTA 300 ML,Bebidas,Licores
+554161,BEBIDA SPARKLY ICE GUARANA LTA 300 ML,Bebidas,Licores
 554162,BEBIDA SPARKLY ICE BLUEBERRY LTA 300 ML,Bebidas,Licores
+554163,GALLETAS RONDITA CHOCOL FRUTILL 240G,Abarrotes,Galletas
 554165,GASEOSA FANTA GHOST FACE 500ML,Bebidas,Gaseosas
 554166,JUGO LA GRANJA MANDARINA PET 2 LT,Bebidas,"Jugos, Néctar"
+554171,MASTICABLE YOGURTE FRESA BSA 500 GR,Abarrotes,Chocolates y Caramelos
+554174,SALSA CASERA HELIOS 570 GR,Abarrotes,Productos Importados
+554181,CARAMELO MORITAS RELL MORA BSA 350 GR,Abarrotes,Chocolates y Caramelos
 554333,Cerveza Paceña Lata Roja 473 Cc,Bebidas,Cervezas
 554466,Detergente Liquido Ola Futuro Limpieza Completa 5 L,Cuidado del Hogar,Limpieza de la Ropa
 554468,Suavizante Ropa Ola Suavecito Original 5 L,Cuidado del Hogar,Limpieza de la Ropa
@@ -20375,6 +20389,7 @@ id_producto,producto,categoria,subcategoria
 660399,LIMPIA PISO FANTASTICO LAVANDA 1L,Cuidado del Hogar,Limpieza de Baños
 660400,LIMPIA PISO FANTASTICO - BEBE 1L,Cuidado del Hogar,Limpieza de Baños
 660401,LIMPIA PISO FANTASTICO - FLORAL 1L,Cuidado del Hogar,Limpieza de Baños
+660403,LIMPIA PISO FANTASTICO - LAVANDA 5L,Cuidado del Hogar,Limpieza de Baños
 660404,LIMPIA PISO FANTASTICO - BEBE 5L,Cuidado del Hogar,Limpieza de Baños
 660407,LIMPIA PISOS FANTASTICO - FLORAL 5L,Cuidado del Hogar,Limpieza de Baños
 660408,JABON LIQUIDO FANTASTICO - CANELA 1L,Cuidado Personal,Cuidado de la Piel
@@ -24001,6 +24016,7 @@ id_producto,producto,categoria,subcategoria
 674964,QUEQE OVOPLUS SABORES SURTIDOS 450GRS,Pastelería y Masas Típicas,Pastelería Externa
 674965,BIZCOCHO DE CHOCOLATE OVOPLUS BOLSA 10 UNIDADES,Pastelería y Masas Típicas,Pastelería Externa
 674975,HELADO PALETA DELIZIA TENTACION CLASICO 100ML,Congelados,"Helados, Cassattas y Picoleses"
+674976,PAN MOLDE INTEGRAL SANTONIO MASA MADRE 550GR,Panadería,Panadería Externa
 675245,Miel de Abeja Eva Promiel 250 gr,Abarrotes,"Mermel, Mieles"
 675948,SALCHICHA VIENA DON PIOTR 500GRS VACIO,Fiambres,Fiambres Externos
 675949,SALCHICHA BOCK DON PIOTR 500GRS VACIO,Fiambres,Fiambres Externos
@@ -25069,7 +25085,7 @@ id_producto,producto,categoria,subcategoria
 763543,Helado Acai Yogurt Griego Cabrera 1 L,Congelados,"Helados, Cassattas y Picoleses"
 763648,Helado Acai Yogurt Griego Cabrera 500 ml,Congelados,"Helados, Cassattas y Picoleses"
 763712,BEBIDA LACTEA PURI FRUTS NARANJA 900 ML.,Lácteos y Derivados,Leches
-763716,JUGOS LACTEOS LA PURITA 210 ML.SABORES SURTIDOS,Lácteos y Derivados,Leches
+763716,BEBID LACTEA  LA PURITA 210 ML.MANDARINA,Lácteos y Derivados,Leches
 763719,TORTA HELADA SABOR PAVLOVA VACAFRIA,Congelados,"Helados, Cassattas y Picoleses"
 763724,Bebida Lactea Puri Fruts Manzana 900 ml,Lácteos y Derivados,Leches
 763739,SONSO CONGELADO MIL SABORES X5 UNID.,Congelados,Masas y Comidas Congeladas
@@ -29259,6 +29275,7 @@ id_producto,producto,categoria,subcategoria
 859149,Mostaza Brixy 215 gr,Abarrotes,Aderezos
 859154,Te Windsor de Fruta Mix 40 Sobres,Abarrotes,Café y Sucedáneos
 859207,SARTEN WOOK 28CM BRINOX S/TAPA,Bazar,Articulos de Cocina
+859210,AMBIENTADOR GLADE  GEL AUTO 70GR LATA,Bazar,Automotriz
 859211,Ambientador Gel Glade Lavanda 70 GR,Cuidado del Hogar,Limpieza de Living y Ropero
 859213,Ambientador Gel Glade Limon 70 gr,Cuidado del Hogar,Limpieza de Living y Ropero
 859241,Vasoo Plastic Cafetero PrecuentreP,Bazar,Menaje Plástico
@@ -29364,6 +29381,7 @@ id_producto,producto,categoria,subcategoria
 861446,JAN AROS METALICOS 8,Bazar,Bijouteria/Cuidado Personal
 861447,JAN AROS METALICOS 20,Bazar,Bijouteria/Cuidado Personal
 861455,JAN NESECER X2  45,Bazar,Bijouteria/Cuidado Personal
+861470,Masticable Dori Frutas Rojas 600 gr,Abarrotes,Chocolates y Caramelos
 861486,Audifonos Stereo Huavi E,Bazar,Computadora/Cámara/Filmadora y Accesorio
 861501,MONDADIENTES PARANA BAMBU 100UND,Bazar,Churrasquería
 861508,AMBIENT.AUTO CALIFORNIA SCENTS HIELO,Bazar,Automotriz
