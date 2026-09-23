@@ -3902,6 +3902,8 @@ id_producto,producto,categoria,subcategoria
 69127,SALCHICHA FRISA T VIENA LTA 180G,Abarrotes,Comidas en Conserva
 69135,BON O BON ARCOR COCO CJA 150G,Abarrotes,Chocolates y Caramelos
 69140,Fideo Tratoria Spaguetti 400 gr,Abarrotes,Básicos
+69141,JUGO ALOE VERA SALUTE ORIGINAL 300ML,Bebidas,Bebidas Varias
+69142,JUGO ALOE VERA SALUTE PINA 300ML,Bebidas,Bebidas Varias
 69159,Fideo Tratoria Carozzi Tallarin 87 400 gr,Abarrotes,Básicos
 69167,Fideo Tratoria Cabello de Angel Cortado 400 gr,Abarrotes,Básicos
 69175,Fideo Trattoria Fusilli 400 gr,Abarrotes,Básicos
@@ -10278,6 +10280,8 @@ id_producto,producto,categoria,subcategoria
 280146,JABON LIQ. NATURESSA JASMIN 380 ML,Cuidado Personal,Cuidado de la Piel
 280147,SPRAY SOL IPANEMA PITHAJAYA 240 ML,Cuidado Personal,Cuidado de la Piel
 280148,JABON DERMOCUTYL CARBON  75 GR.,Cuidado Personal,Cuidado de la Piel
+280149,ESPONJA MULTIUSO TODO UTIL,Cuidado del Hogar,Accesorios del Hogar
+280150,PAPELERO LA PAPELERA RATAN,Cuidado del Hogar,Accesorios del Hogar
 280151,PAPEL HIGIENICO COPITO PLUS 10 UNDS,Cuidado Personal,Cuidado Familiar
 280152,PAPEL COQUITO SOFT 10 UNDS,Cuidado Personal,Cuidado Familiar
 280153,TRIPACK PEPSODENT FRESH ANTICARIE 3X130G,Cuidado Personal,Cuidado Bucal
@@ -10307,6 +10311,7 @@ id_producto,producto,categoria,subcategoria
 280178,TRIPACK JABON LIVY 3X85 GR,Cuidado Personal,Cuidado de la Piel
 280179,PACK DESIF GIRANDOSOL + VAJILLERO 1 LT,Cuidado del Hogar,Limpieza de Baños
 280180,PACK GIRANDOSOL DESINF LAVANDA 2L+VAJILL,Cuidado del Hogar,Limpieza de Baños
+280188,BASURERO PAPELERA  PEQ FLIP 12 LT,Cuidado del Hogar,Accesorios del Hogar
 280189,DESOD  CREMA SPEED STICK XTREME NIGHT 70,Cuidado Personal,Cuidado de la Piel
 280190,DESODOR CREMA LADYSPEED STICK TALCO 70GR,Cuidado Personal,Cuidado de la Piel
 280191,SHAMPOO VITANE ALT NUTRICION 400ML,Cuidado Personal,Cuidado del Cabello
@@ -11693,8 +11698,7 @@ id_producto,producto,categoria,subcategoria
 338111,Cepillo Dental Dentalclean 5500 Sensitivo 1 un,Cuidado Personal,Cuidado Bucal
 338113,Cepillo Dental Dentalclean Kitortodotico 1 un,Cuidado Personal,Cuidado Bucal
 338251,Maquina de Afeitar Bic Sensitive Shaver,Cuidado Personal,Cuidado de la Piel
-338277,"Edulcorante  Splenda con Stevia 100 gr
-",Abarrotes,Dietéticos y Saludables
+338277,Edulcorante  Splenda con Stevia 100 gr,Abarrotes,Dietéticos y Saludables
 338278,Edulcorante  Splenda con Stevia 50 Sobres,Abarrotes,Dietéticos y Saludables
 338279,Edulcorante  Splenda Doypack 250 gr,Abarrotes,Dietéticos y Saludables
 338338,Talco para Pies Rexona Efficient 200 gr,Cuidado del Hogar,Productos Americanos
@@ -13501,6 +13505,7 @@ id_producto,producto,categoria,subcategoria
 448627,Chocolate Lindt Milk 125 gr,Abarrotes,Chocolates y Caramelos
 448628,Chocolate Lindt Excellence Dark 85 Cacao Usa 100 gr,Abarrotes,Chocolates y Caramelos
 448629,Chocolate Lindt Excellence White Coconut 100 gr,Abarrotes,Chocolates y Caramelos
+448976,ESCOBA MATILDE INTERIORES,Cuidado del Hogar,Accesorios del Hogar
 449288,Esponja Limppano Limpieza Profunda Multiuso 3 un,Cuidado del Hogar,Accesorios del Hogar
 449512,Vino Campos de Solana Tinto 700 ml,Bebidas,Vinos y Champagne
 449520,Vino Campos de Solana Blanco 750 ml,Bebidas,Vinos y Champagne
@@ -14387,7 +14392,7 @@ id_producto,producto,categoria,subcategoria
 500277,Confitura Helios Higo Negro 330 gr,Abarrotes,Productos Importados
 500278,Picos Helios Fresa 170 gr,Abarrotes,Productos Importados
 500279,Picos Helios Melocoton 170 gr,Abarrotes,Productos Importados
-500280,Sirope Helios Frutos del Bosque 925 gr,Abarrotes,Productos Importados
+500280,Sirope Helios Frutos del Bosque 295 gr,Abarrotes,Productos Importados
 500281,Cereza Roja Helios 160 gr,Abarrotes,Productos Importados
 500282,Miel de Abeja Helios Milflores 300 gr,Abarrotes,Productos Importados
 500284,Tomate Helios Natural Triturado 570 gr,Abarrotes,Productos Importados
@@ -16953,7 +16958,7 @@ id_producto,producto,categoria,subcategoria
 553615,Café Jaqaku Tostado Pistacho 10 Capsula 55 gr,Abarrotes,Café y Sucedáneos
 553616,Café Jaqaku Dulce Leche 10 Capsula 55 gr,Abarrotes,Café y Sucedáneos
 553617,Café Jaqaku Tostado Avellana 10 Capsula 55 gr,Abarrotes,Café y Sucedáneos
-553618,Gaseosa Frish Guayaba Sin Azucar 1 L,Bebidas,"Jugos, Néctar"
+553618,Gaseosa Frish Guayaba Sin Azucar 1 L,Bebidas,Gaseosas
 553620,Agua Ionica Alcalina 5 L,Bebidas,Aguas
 553621,Agua Ionica Alcalina 2 L,Bebidas,Aguas
 553622,Agua Ionica Alcalina 600 ml,Bebidas,Aguas
@@ -17311,6 +17316,7 @@ id_producto,producto,categoria,subcategoria
 554146,SALSA SOYA KIKKO BOT 160 ML,Abarrotes,Condimentos y Legumbres
 554147,SALSA SOYA KIKKO BOT 500 ML,Abarrotes,Condimentos y Legumbres
 554148,SALSA SOYA KIKKO BOT 1 LT,Abarrotes,Condimentos y Legumbres
+554155,CEREAL IRUPANA NUTRI CHOC CJA 440 GR,Abarrotes,Nutrición Infantil
 554157,CEREAL IRUPANA NUTRI CHOC DUO CJA 440 GR,Abarrotes,Nutrición Infantil
 554158,GAROTO GAROTO BATON RECHEAD CREME 90G,Abarrotes,Chocolates y Caramelos
 554159,CERVEZA BENDITA LEMON DROP LTA 310 ML,Bebidas,Cervezas
@@ -17322,6 +17328,7 @@ id_producto,producto,categoria,subcategoria
 554165,GASEOSA FANTA GHOST FACE 500ML,Bebidas,Gaseosas
 554166,JUGO LA GRANJA MANDARINA PET 2 LT,Bebidas,"Jugos, Néctar"
 554171,MASTICABLE YOGURTE FRESA BSA 500 GR,Abarrotes,Chocolates y Caramelos
+554173,MASTICABLES LOKINO BSA 400 GR,Abarrotes,Chocolates y Caramelos
 554174,SALSA CASERA HELIOS 570 GR,Abarrotes,Productos Importados
 554176,ISOTONICO DELIZIA BLUE BERRY SACHET 200,Bebidas,Isotónicos
 554177,ATUN SN LUCAS LOMITOS AL AGUA 160G,Abarrotes,Comidas en Conserva
@@ -17330,6 +17337,7 @@ id_producto,producto,categoria,subcategoria
 554180,GALLETA MUUU LECHE 216 GR,Abarrotes,Galletas
 554181,CARAMELO MORITAS RELL MORA BSA 350 GR,Abarrotes,Chocolates y Caramelos
 554182,CARAMELO FRUTICAS SURT RELL MASTICABLE 5,Abarrotes,Chocolates y Caramelos
+554183,CARAMELO FRUTICAS LOVE CANDY RELL CHOC 4,Abarrotes,Chocolates y Caramelos
 554184,CHOCOLATE EPICO MANI 28 GR,Abarrotes,Golosinas - Varias
 554333,Cerveza Paceña Lata Roja 473 Cc,Bebidas,Cervezas
 554466,Detergente Liquido Ola Futuro Limpieza Completa 5 L,Cuidado del Hogar,Limpieza de la Ropa
@@ -20474,6 +20482,7 @@ id_producto,producto,categoria,subcategoria
 660411,JABON LIQUIDO FANTASTICO - BRISA MARINA,Cuidado Personal,Cuidado de la Piel
 660412,JABON LIQUIDO FANTASTICO - CANELA 5L,Cuidado Personal,Cuidado de la Piel
 660413,JABON LIQUIDO FANTASTICO - COCO 5L,Cuidado Personal,Cuidado de la Piel
+660414,JABON LIQUIDO FANTASTICO - MANZANA 5L,Cuidado Personal,Cuidado de la Piel
 660415,JABON LIQUIDO FANTASTICO - BRISA MARINA,Cuidado Personal,Cuidado de la Piel
 660416,DETERGENTE LIQUIDO FANTASTICO - BEBE 1 L,Cuidado del Hogar,Limpieza de la Ropa
 660417,DETERGENTE LIQUIDO FANTASTICO - BEBE 5L,Cuidado del Hogar,Limpieza de la Ropa
@@ -22111,6 +22120,7 @@ id_producto,producto,categoria,subcategoria
 670233,Vino Espumante Altosama Brut 750 ml,Bebidas,Vinos y Champagne
 670234,Chocolate Cofler Rocklets 100 gr,Abarrotes,Chocolates y Caramelos
 670245,Pan Molde San Gabriel Blanco 350 gr,Panadería,Panadería Externa
+670249,COMBO PARRILLERO PIO RICO UNIDAD,Fiambres,Temporada San Juan Externos
 670255,Gragea Taboada Mani Chocolate 150 gr,Abarrotes,Chocolates y Caramelos
 670270,Chicharron de Cerdo Sofia 1 kg,Congelados,Carnes Congeladas
 670276,Helado Delizia Oveja Negra Dulce de Leche 190 ml,Congelados,"Helados, Cassattas y Picoleses"
@@ -30997,6 +31007,7 @@ id_producto,producto,categoria,subcategoria
 939617,HAV.CHINELAS HAVAIANAS COLOR MIX,TEXTILES Y ZAPATOS,ZAPATO P/VARONES Y NINOS
 940045,Taper Plastico Cuadrado,Bazar,Menaje Plástico
 940047,Salsero Plaustil,Bazar,Articulos de Cocina
+940415,Yol Peluche,Juguetería,Juguetería Didáctica/Temporada
 940743,Juguete Didactico,Juguetería,Juguetería Niña/Bebé
 941037,Folder Amarillo con Nepaco,Bazar,Librería
 941041,Lentejuelas,Bazar,Bijouteria/Cuidado Personal
