@@ -3773,6 +3773,8 @@ id_producto,producto,categoria,subcategoria
 60098,VINO LOPEZ DULCE NATURAL BCO 750 ML,Bebidas,Vinos y Champagne
 60099,VINO LOPEZ SAUVIGNON BLANC 750ML,Bebidas,Vinos y Champagne
 60103,MANI TOSTADO MAYA SIN CASCARA 130G,Abarrotes,Snack
+60104,SEMILLA D GIRASOL 3PIBES DP 250G,Abarrotes,Snack
+60106,SEMILLA D GIRASOL 3PIBES DP 130G,Abarrotes,Snack
 60109,FOUR LOKO AILIVE LTA 695ML,Bebidas,Licores
 60114,BON O BON CORAZON S COCO 75G,Abarrotes,Chocolates y Caramelos
 60122,CHOCOLATE P TI LECHE TE AMO TAB 100G,Abarrotes,Chocolates y Caramelos
@@ -3899,11 +3901,13 @@ id_producto,producto,categoria,subcategoria
 69094,Fideo Carozzi Alfabeto 250 gr,Abarrotes,Básicos
 69123,CERVEZA POTOSINA PILSENER LTA 269ML,Bebidas,Cervezas
 69124,Fideo Carozzi Mariposa 250 gr,Abarrotes,Básicos
+69125,GIN CHAIRU DRY BOT 750ML,Bebidas,Licores
 69127,SALCHICHA FRISA T VIENA LTA 180G,Abarrotes,Comidas en Conserva
 69135,BON O BON ARCOR COCO CJA 150G,Abarrotes,Chocolates y Caramelos
 69140,Fideo Tratoria Spaguetti 400 gr,Abarrotes,Básicos
 69141,JUGO ALOE VERA SALUTE ORIGINAL 300ML,Bebidas,Bebidas Varias
 69142,JUGO ALOE VERA SALUTE PINA 300ML,Bebidas,Bebidas Varias
+69153,CHUPETE BIG BOM PINTA BOCA 384G,Abarrotes,Chocolates y Caramelos
 69159,Fideo Tratoria Carozzi Tallarin 87 400 gr,Abarrotes,Básicos
 69167,Fideo Tratoria Cabello de Angel Cortado 400 gr,Abarrotes,Básicos
 69175,Fideo Trattoria Fusilli 400 gr,Abarrotes,Básicos
@@ -9050,6 +9054,7 @@ id_producto,producto,categoria,subcategoria
 229007,Desodorante Roll-On Leite De Rosas 50 ml,Cuidado del Hogar,Productos Americanos
 229009,VAJILLERO FINISH 1 KG,Cuidado del Hogar,Productos Americanos
 229011,Desinfectante Aerosol Whitex,Cuidado del Hogar,Limpieza de Baños
+229012,Lavavajilla Tableta Abril Matic 10x20 gr,Cuidado del Hogar,Productos Americanos
 229013,Pañuelos Desechables Nex Pack 10 un,Cuidado Personal,Cuidado Familiar
 229014,PANO MICROFIBRA TOTES 30 X 30 CM,Cuidado del Hogar,Accesorios del Hogar
 229015,PACK DUO  PANOS PACK + BOLSA CIERRA FACI,Cuidado del Hogar,Accesorios del Hogar
@@ -9481,6 +9486,7 @@ id_producto,producto,categoria,subcategoria
 231842,LANA DE ACERO GOTA LIMPA X 8,Cuidado del Hogar,Accesorios del Hogar
 231850,GEL ADESIVO GOTA LIMPA LAVANDA X7,Cuidado del Hogar,Limpieza de Baños
 231853,GEL  ADESIVO GOTA LIMPA CITRONELA X7,Cuidado del Hogar,Limpieza de Baños
+231855,GEL ADESIVO GOTA LIMPA FRESH X7,Cuidado del Hogar,Limpieza de Baños
 231869,BOLSA 28X50 BLANCA 90U,Cuidado del Hogar,Accesorios del Hogar
 231870,BOLSA 24X42 BLANCA 90U,Cuidado del Hogar,Accesorios del Hogar
 231871,BOLSA 17X34 BLANCA 90U,Cuidado del Hogar,Accesorios del Hogar
@@ -9767,7 +9773,7 @@ id_producto,producto,categoria,subcategoria
 240666,PACK LOREAL MATIFICANTE 50 ML+  GEL  EQU,Cuidado Personal,Cuidado de la Piel
 240667,Pack Toallitas Humedas Classic Triple Proteccion 160 un,Cuidado del Bebé,Cuidado del Bebé
 240668,PACK CACAO SH + C. DE PEINAR HAIR FOOD,Cuidado Personal,Cuidado del Cabello
-240669,"PACK COCO SH + MASCARA ,HAIR FOOD",Cuidado Personal,Cuidado del Cabello
+240669,Pack Hair Food Coco Shampoo + Mascara,Cuidado Personal,Cuidado del Cabello
 240670,"PACK BANANA SH + MASCARA, HAIR FOOD",Cuidado Personal,Cuidado del Cabello
 240671,"PACK ALOE VERA SH + MASCARA, HAIR FOOD",Cuidado Personal,Cuidado del Cabello
 240673,Pack Hair Food Aguacate Shampoo + Mascara,Cuidado Personal,Cuidado del Cabello
@@ -10272,6 +10278,7 @@ id_producto,producto,categoria,subcategoria
 280120,CEPILLO DENTAL CONDOR HW 8260 2PACK,Cuidado Personal,Cuidado Bucal
 280121,CEPILLO DENT CONDOR HW KIT +5 ANOS 8370,Cuidado Personal,Cuidado Bucal
 280122,CEPILLO DENT CONDOR OSITO 2PACK 8260,Cuidado Personal,Cuidado Bucal
+280123,PANO MULTIUSO PERFEX BLANCO X5,Cuidado del Hogar,Accesorios del Hogar
 280131,CEPILLO COLGATE EXTRA CLEAN X1,Cuidado Personal,Cuidado Bucal
 280133,PACK HAIR FOOD PINA SH + MASCARA,Cuidado Personal,Cuidado del Cabello
 280140,PACK PANO PANOTEK+ ESPONJA ALKLIN,Cuidado del Hogar,Limpieza de Cocina
@@ -13967,6 +13974,7 @@ id_producto,producto,categoria,subcategoria
 466882,MIEL D ABEJA TERBOL PROPOLEO 230G,Abarrotes,"Mermel, Mieles"
 466884,MIEL D ABEJA TERBOL LIMON C PROPOLEO 230,Abarrotes,"Mermel, Mieles"
 466885,MIEL D ABEJA TERBOL C JENGIBRE 230G,Abarrotes,"Mermel, Mieles"
+467088,ENERGIZANTE SIRIUS PET 350ML,Bebidas,Energizantes
 467270,Bacon Chips A&M 200 gr,Abarrotes,Snack
 467278,Cheezitos A&M Bacon 50 gr,Abarrotes,Snack
 467324,Pañal Adulto Plenitud Practipañal Multiuso 10 un,Cuidado Personal,Cuidado del Adulto
@@ -17336,8 +17344,8 @@ id_producto,producto,categoria,subcategoria
 554179,PESCADO SAN LUCAS SALSA TOMATE OVAL 425,Abarrotes,Comidas en Conserva
 554180,GALLETA MUUU LECHE 216 GR,Abarrotes,Galletas
 554181,CARAMELO MORITAS RELL MORA BSA 350 GR,Abarrotes,Chocolates y Caramelos
-554182,CARAMELO FRUTICAS SURT RELL MASTICABLE 5,Abarrotes,Chocolates y Caramelos
-554183,CARAMELO FRUTICAS LOVE CANDY RELL CHOC 4,Abarrotes,Chocolates y Caramelos
+554182,MASTICABLE COLOMB SURTIDO RELL 550G,Abarrotes,Golosinas - Varias
+554183,CARAMELO COLOMB LOVE RELL CHOCOL 450G,Abarrotes,Chocolates y Caramelos
 554184,CHOCOLATE EPICO MANI 28 GR,Abarrotes,Golosinas - Varias
 554333,Cerveza Paceña Lata Roja 473 Cc,Bebidas,Cervezas
 554466,Detergente Liquido Ola Futuro Limpieza Completa 5 L,Cuidado del Hogar,Limpieza de la Ropa
@@ -20467,6 +20475,7 @@ id_producto,producto,categoria,subcategoria
 660391,SUAVIZANTE DE ROPA FANTASTICO - FLORAL 5,Cuidado del Hogar,Limpieza de la Ropa
 660392,SUAVIZANTE DE ROPA FANTASTICO - BEBE 5L,Cuidado del Hogar,Limpieza de la Ropa
 660393,LAVAVAJILLA FANTASTICO - LIMALIMON 1.100,Cuidado del Hogar,Limpieza de Cocina
+660395,LAVAVAJILLA FANTASTICO - LIMA LIMON 5L,Cuidado del Hogar,Limpieza de Cocina
 660397,LAVAVAJILLA FANTASTICO - FLORAL 5L,Cuidado del Hogar,Limpieza de Cocina
 660398,LIMPIA PISO FANTASTICO - MAR AZUL 1L,Cuidado del Hogar,Limpieza de Baños
 660399,LIMPIA PISO FANTASTICO LAVANDA 1L,Cuidado del Hogar,Limpieza de Baños
@@ -21993,6 +22002,7 @@ id_producto,producto,categoria,subcategoria
 669741,Shampoo Classic Baby Sin Sal 950 ml,Cuidado Personal,Cuidado del Cabello
 669742,Shampoo Classic Cebolla Y Jengibre 950 ml,Cuidado Personal,Cuidado del Cabello
 669744,Jabon Liquido Naturessa Tulipán Y Granada Doypack 900 gr,Cuidado Personal,Cuidado de la Piel
+669745,SHAMPOO BEBE 2 EN 1 1000 GR,Cuidado del Bebé,Cuidado del Bebé
 669746,SHAMPOO SELFY BEBE MANZANILLA 1000 GR,Cuidado del Bebé,Cuidado del Bebé
 669747,Bolitas De Algodon Septona Pack 3x2 100 un,Cuidado Personal,Cuidado de la Piel
 669748,Toallas Higienicas Nosotras Buenas Noches Pack 2 un 8 un,Cuidado Personal,Cuidado Familiar
@@ -24012,6 +24022,7 @@ id_producto,producto,categoria,subcategoria
 674802,CUADRIL DE CERDO SOFIA A/V CONG.KG.(512395),Congelados,Carnes Congeladas
 674803,QUESO FRESCO SUPER CRIOLLO 1 KILOGRAMO,Lácteos y Derivados,Quesos
 674804,QUESO FRESCO SUPER CRIOLLO 500 GRAMOS,Lácteos y Derivados,Quesos
+674805,TAPAS EMPANADAS HORNO/FREIR MULTIPASTAS 14CM 24U,Congelados,Masas y Comidas Congeladas
 674806,MANTEQUILLA CREMOSA CON SAL 200GRS,Lácteos y Derivados,Mantequillas y Margarinas
 674807,KEFIR GALAKTOS SABORIZADO 1000ML,Lácteos y Derivados,Yogures
 674808,KEFIR GALAKTOS NATURAL 1000ML,Lácteos y Derivados,Yogures
@@ -24112,6 +24123,7 @@ id_producto,producto,categoria,subcategoria
 674962,SACHET SALAME PIO RICO 100GRS,Fiambres,Fiambres Externos
 674964,QUEQE OVOPLUS SABORES SURTIDOS 450GRS,Pastelería y Masas Típicas,Pastelería Externa
 674965,BIZCOCHO DE CHOCOLATE OVOPLUS BOLSA 10 UNIDADES,Pastelería y Masas Típicas,Pastelería Externa
+674966,HAMBURGUESAS DE TRUCHA TITIKAKA 2 UNI 180 GRS,Congelados,Carnes Congeladas
 674975,HELADO PALETA DELIZIA TENTACION CLASICO 100ML,Congelados,"Helados, Cassattas y Picoleses"
 674976,PAN MOLDE INTEGRAL SANTONIO MASA MADRE 550GR,Panadería,Panadería Externa
 674978,PAN DULCE BUDIN TRADICIONAL SANTONIO 200GRS,Pastelería y Masas Típicas,Pastelería Externa
