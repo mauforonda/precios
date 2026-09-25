@@ -3903,10 +3903,15 @@ id_producto,producto,categoria,subcategoria
 69124,Fideo Carozzi Mariposa 250 gr,Abarrotes,Básicos
 69125,GIN CHAIRU DRY BOT 750ML,Bebidas,Licores
 69127,SALCHICHA FRISA T VIENA LTA 180G,Abarrotes,Comidas en Conserva
+69131,GOMITA MOGUL JELLY TERRORIFICO 50G,Abarrotes,Temporada
+69134,MOGUL MINI GUSANITO HALLOWEEN 80GR,Abarrotes,Temporada
 69135,BON O BON ARCOR COCO CJA 150G,Abarrotes,Chocolates y Caramelos
+69139,PASTA D MANI DULCOR CLASICA PET 350G,Abarrotes,Repostería
 69140,Fideo Tratoria Spaguetti 400 gr,Abarrotes,Básicos
 69141,JUGO ALOE VERA SALUTE ORIGINAL 300ML,Bebidas,Bebidas Varias
 69142,JUGO ALOE VERA SALUTE PINA 300ML,Bebidas,Bebidas Varias
+69147,ACEITUNA VANOLI C MORRON DP 80G,Abarrotes,Verduras en Conserva
+69148,ACEITUNA VANOLI SIN CAROZO DP 80G,Abarrotes,Verduras en Conserva
 69153,CHUPETE BIG BOM PINTA BOCA 384G,Abarrotes,Chocolates y Caramelos
 69159,Fideo Tratoria Carozzi Tallarin 87 400 gr,Abarrotes,Básicos
 69167,Fideo Tratoria Cabello de Angel Cortado 400 gr,Abarrotes,Básicos
@@ -4269,6 +4274,7 @@ id_producto,producto,categoria,subcategoria
 100929,Chocolate Arcor Amendoim 80 gr,Abarrotes,Chocolates y Caramelos
 100930,Chocolate Arcor Leche 70 gr,Abarrotes,Chocolates y Caramelos
 100944,Palmito Chimore Rodaja 400 gr,Abarrotes,Verduras en Conserva
+100951,Aceituna Vanoli Verde 330 gr,Abarrotes,Verduras en Conserva
 100965,Mermelada de Membrillo La Rinconada 470 gr,Abarrotes,"Mermel, Mieles"
 100966,Mantequilla de Mani La Rinconada 200 gr,Abarrotes,Repostería
 100969,Chocolate Sublime Cookie 100 gr,Abarrotes,Chocolates y Caramelos
@@ -7340,6 +7346,7 @@ id_producto,producto,categoria,subcategoria
 204487,Arroz Cocinero Popular 1 kg,Abarrotes,Básicos
 204549,Cafe Chiriguano Instantaneo 200 gr,Abarrotes,Café y Sucedáneos
 204550,Cafe Chiriguano Instantaneo 50 gr,Abarrotes,Café y Sucedáneos
+204551,Aceituna Vanoli Verde sin Coraazon 300 gr,Abarrotes,Verduras en Conserva
 204577,CERVEZA CONTI LTA ROJA 269 ML,Bebidas,Cervezas
 204580,Refresco Arcor Naranja 18 gr,Bebidas,Refrescos en Polvo
 204728,Cereal Chocolike Almohaditas 200 gr,Abarrotes,Nutrición Infantil
@@ -7379,6 +7386,8 @@ id_producto,producto,categoria,subcategoria
 206785,Salsa Sofar Pico de Gallo 210 gr,Abarrotes,Aderezos
 206818,Te Helado Amate Verde Piña Gengibre 500 ml,Bebidas,Bebidas Varias
 206820,Te Helado Amate Negro Con Stevia 500 ml,Bebidas,Bebidas Varias
+206872,Salsa Chimichurri Vanoli Clasico 350 ml,Abarrotes,Aderezos
+206874,Salsa Chimichurri Vanoli Picante 350 ml,Abarrotes,Aderezos
 206879,Fideo Sanoryza Quinua 300 gr,Abarrotes,Básicos
 207174,Chocolate Breick Rosa Leche 16 gr,Abarrotes,Chocolates y Caramelos
 207250,Mortadela Cazador Maxi kg,Fiambres,Fiambres Externos
@@ -9486,6 +9495,7 @@ id_producto,producto,categoria,subcategoria
 231842,LANA DE ACERO GOTA LIMPA X 8,Cuidado del Hogar,Accesorios del Hogar
 231850,GEL ADESIVO GOTA LIMPA LAVANDA X7,Cuidado del Hogar,Limpieza de Baños
 231853,GEL  ADESIVO GOTA LIMPA CITRONELA X7,Cuidado del Hogar,Limpieza de Baños
+231854,GEL ADESIVO GOTA LIMPA EUCALIPTO X7,Cuidado del Hogar,Limpieza de Baños
 231855,GEL ADESIVO GOTA LIMPA FRESH X7,Cuidado del Hogar,Limpieza de Baños
 231869,BOLSA 28X50 BLANCA 90U,Cuidado del Hogar,Accesorios del Hogar
 231870,BOLSA 24X42 BLANCA 90U,Cuidado del Hogar,Accesorios del Hogar
@@ -9645,6 +9655,7 @@ id_producto,producto,categoria,subcategoria
 234931,Fideo Carozzi Spaguetti 1 kg,Abarrotes,Básicos
 235013,Espuma de Afeitar Nivea Men Azul Original,Cuidado Personal,Cuidado de la Piel
 235180,Salsa Chimichurri Santa Helena 303 ml,Abarrotes,Condimentos y Legumbres
+235806,CEBOLLITAS VANOLI VINAGRE FCO 330G,Abarrotes,Verduras en Conserva
 236415,Singani San Remo Oro 750 ml,Bebidas,Licores
 236896,Cepillo Dental Foramen Adapta Duro 1 un,Cuidado Personal,Cuidado Bucal
 236900,Set Cepillo Dental de Viaje Traveler,Cuidado Personal,Cuidado Bucal
@@ -10335,6 +10346,8 @@ id_producto,producto,categoria,subcategoria
 280211,DETERG ULTRA FRESCO LIMON 700 GR,Cuidado del Hogar,Limpieza de la Ropa
 280212,DETERG  ULTRA ENCANTO FLORAL 700 GR,Cuidado del Hogar,Limpieza de la Ropa
 280213,PROCENEX LIMPIA VIDRIOS 500ML,Cuidado del Hogar,Limpieza de Living y Ropero
+280214,PAPEL HIGIENOL DH 12 UNDS,Cuidado Personal,Cuidado Familiar
+280215,PAPE HIG  NOBLE DH  PLUS 12 UND,Cuidado Personal,Cuidado Familiar
 280512,Crema Nivea 30 ml,Cuidado Personal,Cuidado de la Piel
 281077,Cafe Colcafe Instantaneo Polvo 170 gr,Abarrotes,Café y Sucedáneos
 281703,Galleta Arcor Hogareña 7 Semillas 181 gr,Abarrotes,Galletas
@@ -11196,6 +11209,8 @@ id_producto,producto,categoria,subcategoria
 321986,DETERGENTE ASTRO FLORAL 710 GR,Cuidado del Hogar,Limpieza de la Ropa
 321988,Shampoo Tio Nacho Keratina 415 ml,Cuidado Personal,Cuidado del Cabello
 321989,Shampoo Tio Nacho Keratina 950 ml,Cuidado Personal,Cuidado del Cabello
+321992,Acondicionador Tío Nacho Keratina 415 ml,Cuidado Personal,Cuidado del Cabello
+321993,TEATRICAL COREANO 200G,Cuidado Personal,Cuidado de la Piel
 322101,Vino Casillero del Diablo Red Blend Reserva 750 ml,Bebidas,Vinos y Champagne
 322157,Cafe Colcafe Sello Rojo Molido 212 gr,Abarrotes,Café y Sucedáneos
 322237,Jugo V8 Splash Beey Blend 64 oz,Bebidas,Bebidas Usa
@@ -11506,6 +11521,7 @@ id_producto,producto,categoria,subcategoria
 333575,Detergente Polvo Omo Limon 2 kg,Cuidado del Hogar,Limpieza de la Ropa
 333577,Gelatina In Nutra Azul Chicle 250 gr,Abarrotes,Repostería
 333582,Alcohol Desinfectante Rocio Aerosol 360 ml,Cuidado Personal,Cuidado de la Piel
+333584,AJO TRITURADO YUSPE BSA 50 GR,Abarrotes,Condimentos y Legumbres
 333586,Crema Anti Arrugas Teatrical 100 gr,Cuidado Personal,Cuidado de la Piel
 333605,Detergente Polvo Surf Coco 800 gr,Cuidado del Hogar,Limpieza de la Ropa
 333608,Detergente Polvo Surf Rosas y Lilas 800 gr,Cuidado del Hogar,Limpieza de la Ropa
@@ -12108,6 +12124,7 @@ id_producto,producto,categoria,subcategoria
 355666,Shampoo Head Shoulders Hidratacion Aceite Coco 700 ml,Cuidado Personal,Cuidado del Cabello
 355667,Shampoo Head Shoulders Hidratacion Aceite Coco 370 ml,Cuidado Personal,Cuidado del Cabello
 355668,Acondicionador Head Shoulders Aceite Coco 300 ml,Cuidado Personal,Cuidado del Cabello
+355771,CEREZAS ROJAS DULCOR FCO 200 GR,Abarrotes,Frutas en Conserva
 355780,Gaseosa Ritz Grape 355 ml,Bebidas,Bebidas Usa
 355781,Bebida Analcoholica Carbonatada Cereza Negra 355 ml,Bebidas,Bebidas Usa
 355895,Champagne Chandon Extra Brut 187 ml,Bebidas,Vinos y Champagne
@@ -12371,6 +12388,7 @@ id_producto,producto,categoria,subcategoria
 365262,Arroz Brillante Tipo 1 5 kg,Abarrotes,Básicos
 365378,Galleta Kirkland European Chocolate 1400 gr,Abarrotes,Galletas
 365411,Salsa Brixy Taquera 370 gr,Abarrotes,Aderezos
+365505,ACEITUNA VERDE VANOLI DP 150 GR,Abarrotes,Verduras en Conserva
 365506,Insecticida Hormixan Hormiga Gel 6 gr,Cuidado del Hogar,Insecticidas
 365707,GELATINA BONAIRE SURTIDA 920 GR,Abarrotes,Repostería
 366242,Salsa Ragu Chunky Garlic Onion 680 gr,Abarrotes,Productos Americanos
@@ -12732,6 +12750,7 @@ id_producto,producto,categoria,subcategoria
 387871,Mani Charito Frito 320 gr,Abarrotes,Snack
 387881,Chocolate Lindt Clasic Recipe 45% Cacao 4.1 oz,Abarrotes,Chocolates y Caramelos
 387916,Choclo Etti 180 gr,Abarrotes,Verduras en Conserva
+387932,PEPINILLO VANOLI EN VINAG FCO 330G,Abarrotes,Verduras en Conserva
 388027,LAMPAZO MECHUDO LINEA 10 ART.436 C7PALO,Cuidado del Hogar,Productos Americanos
 388123,Mopa Virutex Encabado Super Absorbente No. 32,Cuidado del Hogar,Accesorios del Hogar
 388125,Mopa Virutex Copa No.24,Cuidado del Hogar,Accesorios del Hogar
@@ -13259,6 +13278,7 @@ id_producto,producto,categoria,subcategoria
 427560,Gaseosa Coca Cola Sin Azucar 500 ml,Bebidas,Gaseosas
 427578,Gaseosa Coca Cola Zero 2 L,Bebidas,Gaseosas
 427764,Chocolate Lindt Lindor Hazelnut 100 gr,Abarrotes,Chocolates y Caramelos
+427888,SALSA VANOLI POMAROLA FCO 340 GR,Abarrotes,Aderezos
 427900,Lasaña Carozzi Precocida 360 gr,Abarrotes,Básicos
 427942,Galleta Costa Obsesion Mani Barquillo 85 gr,Abarrotes,Galletas
 427985,Vodka Grey Goose 750 ml,Bebidas,Licores
@@ -14555,6 +14575,7 @@ id_producto,producto,categoria,subcategoria
 517348,Ciruela Disecadas Dottori 500 gr,Abarrotes,Frutas en Conserva
 517372,Repuesto Maquina de Afeitar Gillette Mach3 2 un,Cuidado Personal,Cuidado de la Piel
 517704,Leche Condensada Bella Holandesa 78 gr,Abarrotes,Nutrición Infantil
+517844,Piña en Rodaja Chimore 880 gr,Abarrotes,Frutas en Conserva
 517864,Piña Chimore En Trozos 880 gr,Abarrotes,Frutas en Conserva
 517976,Chicle Grosso Surtido 350 gr,Abarrotes,Golosinas - Varias
 518004,Papa Nativa Cruji Pap 150 gr,Abarrotes,Snack
@@ -18106,10 +18127,13 @@ id_producto,producto,categoria,subcategoria
 617101,ALKLIN ESCOBA LIMPIA ESQUINAS C/MANGO,Cuidado del Hogar,Accesorios del Hogar
 617112,ALKLIN ESCUR DE AGUA 40CM MANGO VERDE,Cuidado del Hogar,Accesorios del Hogar
 617117,ALKLIN DESTAQUEADOR SANITARIO (VERDE),Cuidado del Hogar,Accesorios del Hogar
+617125,ALKLIN LIMPIEZA LEVE 33X50 VERDE 5 UNID,Cuidado del Hogar,Accesorios del Hogar
 617126,ALKLIN MULTIUSO 40X36 C/ 2 UNID.,Cuidado del Hogar,Accesorios del Hogar
+617128,ALKLIN PISO 40X67 M ALGODON BLANQUEADO,Cuidado del Hogar,Accesorios del Hogar
 617129,ALKLIN PILETA 28X30 P ALGODON BLANQUEAD,Cuidado del Hogar,Accesorios del Hogar
 617131,Paño Alklin Piso Algodón Colores 40x67,Cuidado del Hogar,Accesorios del Hogar
 617138,Paño Alklin Piso Algodón Blanco 40x67 3 un,Cuidado del Hogar,Accesorios del Hogar
+617139,ALKLIN MEGA PANO AZUL 80X90,Cuidado del Hogar,Accesorios del Hogar
 617147,ALKLIN DESTAQUEADOR DE PILETA (VERDE),Cuidado del Hogar,Accesorios del Hogar
 617149,ALKLIN ESPONJA DE LIMPI MULTIUSO 3 UNID,Cuidado del Hogar,Accesorios del Hogar
 617150,ALKLIN ESPONJA DE LIMP MULTIUSO 1 UNID.,Cuidado del Hogar,Accesorios del Hogar
@@ -18599,7 +18623,7 @@ id_producto,producto,categoria,subcategoria
 629824,CEREAL LIFE COPOS DE MAIZ AMARILLO 510GR,Abarrotes,Productos Americanos
 629826,CEREAL LIFE COPOS DE MAIZ GLASEADO 482GR,Abarrotes,Productos Americanos
 629827,CEREAL LIFE INTEGRAL TOSTADO 340GR,Abarrotes,Productos Americanos
-629831,GALLETA BREXONIC MANTEQUILLA S/AZUCAR 310GR,Abarrotes,Productos Americanos
+629831,Galleta Brexonic Mantequilla Sin Azucar 310 gr,Abarrotes,Productos Americanos
 629832,GALLETA DAFOHA C/MANTEQUILLA PREMIUN 113GR,Abarrotes,Productos Americanos
 629833,GALLETA NOVA SNACK ESTILO DANES 454GR,Abarrotes,Productos Americanos
 629834,GALLETAS AUNT BAKER MANTEQUILLA 114GR,Abarrotes,Productos Americanos
@@ -19587,6 +19611,7 @@ id_producto,producto,categoria,subcategoria
 656114,Shampoo Head Shoulders Alivio Instantaneo 700 ml,Cuidado Personal,Cuidado del Cabello
 656115,PACK SUPER LAVANDINA X2,Cuidado del Hogar,Limpieza de la Ropa
 656119,Papel Higienico Perlita Gold 12 un,Cuidado Personal,Cuidado Familiar
+656139,SALSA VANOLI NAPOLITANA FCO 340 GR,Abarrotes,Aderezos
 656144,Limpiador Mueble Ola Aromatic Melamina Plastico 900 ml,Cuidado del Hogar,Limpieza de Living y Ropero
 656150,Guantes Asatex Bi Color,Cuidado del Hogar,Accesorios del Hogar
 656153,Lavavajilla Archer Frambuesa Cisne 1.2 L,Cuidado del Hogar,Limpieza de Cocina
@@ -20416,6 +20441,7 @@ id_producto,producto,categoria,subcategoria
 660314,BALDE CON ESCURRIDOR PAPELERA 15 LTS,Cuidado del Hogar,Accesorios del Hogar
 660315,Papel Higienico Hogar Celulosa Doble Hoja Pack 12 un,Cuidado Personal,Cuidado Familiar
 660316,Mascara De Pestañas Maybelline The Colossal Bubble Waterproof Very Black 9.2 ml,Cuidado Personal,Cuidado de la Piel
+660319,Protector Solar Garnier Express Aclara Super UV Glow 50 ml,Cuidado Personal,Cuidado de la Piel
 660320,Mascara De Pestañas Maybelline The Colossal Bubble Black 9.2 ml,Cuidado Personal,Cuidado de la Piel
 660321,Pañuelos Faciales Kleenex En Caja Bipack 2 un 80 hojas,Cuidado Personal,Cuidado Familiar
 660322,Jabon Íntimo Nosotras Esencial 200 ml,Cuidado Personal,Cuidado del Adulto
@@ -24128,8 +24154,11 @@ id_producto,producto,categoria,subcategoria
 674976,PAN MOLDE INTEGRAL SANTONIO MASA MADRE 550GR,Panadería,Panadería Externa
 674978,PAN DULCE BUDIN TRADICIONAL SANTONIO 200GRS,Pastelería y Masas Típicas,Pastelería Externa
 674979,PAN DULCE BUDIN CHOCOLATE SANTONIO 200GRS,Pastelería y Masas Típicas,Pastelería Externa
+674980,BIFE DE BONDIOLA DE CERDO SOFIA 1 KGR APROX.,Congelados,Carnes Congeladas
+674981,BIFE DE BONDIOLA DE CERDO SOFIA 2 KGR APROX,Congelados,Carnes Congeladas
 674982,CU¥APIZZA ABIZCOCHADOS  SABOR NAPOLITANA,Pastelería y Masas Típicas,Masas Típicas Externas
 674983,CU¥APIZZA ABIZCOCHADO SABOR FUGAZZETTA 1,Pastelería y Masas Típicas,Masas Típicas Externas
+674986,JAMON PIZZERO SOFIA KILOGRAMO,Fiambres,Fiambres Externos
 675245,Miel de Abeja Eva Promiel 250 gr,Abarrotes,"Mermel, Mieles"
 675948,SALCHICHA VIENA DON PIOTR 500GRS VACIO,Fiambres,Fiambres Externos
 675949,SALCHICHA BOCK DON PIOTR 500GRS VACIO,Fiambres,Fiambres Externos
