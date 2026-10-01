@@ -3725,6 +3725,7 @@ id_producto,producto,categoria,subcategoria
 60028,MANI PINZONES C CHOCOLATE DP 220G,Abarrotes,Chocolates y Caramelos
 60038,GOMITA YUMMY FRUTILLA C CREMA 150G,Abarrotes,Golosinas - Varias
 60039,GOMITA YUMMY SANDIA BSA 500G,Abarrotes,Golosinas - Varias
+60040,PASTA URBANO LINGUINI ZARO GLUTEN 500G,Abarrotes,Dietéticos y Saludables
 60041,PASTA URBANO SPAGUETTI ZERO GLUTEN 500G,Abarrotes,Dietéticos y Saludables
 60042,PASTA URBANO PENNE ZERO GLUTEN 500G,Abarrotes,Dietéticos y Saludables
 60043,HARINA MIX URBANO ZERO GLUTEN 1KG,Abarrotes,Dietéticos y Saludables
@@ -3902,6 +3903,7 @@ id_producto,producto,categoria,subcategoria
 69123,CERVEZA POTOSINA PILSENER LTA 269ML,Bebidas,Cervezas
 69124,Fideo Carozzi Mariposa 250 gr,Abarrotes,Básicos
 69125,GIN CHAIRU DRY BOT 750ML,Bebidas,Licores
+69126,MARSMALLOWS BUFFYS TWISTER FRUTAL 125G,Abarrotes,Chocolates y Caramelos
 69127,SALCHICHA FRISA T VIENA LTA 180G,Abarrotes,Comidas en Conserva
 69131,GOMITA MOGUL JELLY TERRORIFICO 50G,Abarrotes,Temporada
 69134,MOGUL MINI GUSANITO HALLOWEEN 80GR,Abarrotes,Temporada
@@ -10337,6 +10339,7 @@ id_producto,producto,categoria,subcategoria
 280178,TRIPACK JABON LIVY 3X85 GR,Cuidado Personal,Cuidado de la Piel
 280179,PACK DESIF GIRANDOSOL + VAJILLERO 1 LT,Cuidado del Hogar,Limpieza de Baños
 280180,PACK GIRANDOSOL DESINF LAVANDA 2L+VAJILL,Cuidado del Hogar,Limpieza de Baños
+280181,SHAMPOO DEXE TINTE LIGHT BROWN 400 ML,Cuidado Personal,Cuidado del Cabello
 280188,BASURERO PAPELERA  PEQ FLIP 12 LT,Cuidado del Hogar,Accesorios del Hogar
 280189,DESOD  CREMA SPEED STICK XTREME NIGHT 70,Cuidado Personal,Cuidado de la Piel
 280190,DESODOR CREMA LADYSPEED STICK TALCO 70GR,Cuidado Personal,Cuidado de la Piel
@@ -10356,6 +10359,22 @@ id_producto,producto,categoria,subcategoria
 280213,PROCENEX LIMPIA VIDRIOS 500ML,Cuidado del Hogar,Limpieza de Living y Ropero
 280214,PAPEL HIGIENOL DH 12 UNDS,Cuidado Personal,Cuidado Familiar
 280215,PAPE HIG  NOBLE DH  PLUS 12 UND,Cuidado Personal,Cuidado Familiar
+280218,LAVANDINA ULTRA POWER 5LT,Cuidado del Hogar,Limpieza de la Ropa
+280233,PASTA DENTAL DEXE TOTAL 12 120 GR,Cuidado Personal,Cuidado Bucal
+280234,PASTA DENTAL DEXE 7 EFECTOS 120GR,Cuidado Personal,Cuidado Bucal
+280235,PASTA DENTAL DEXE ANTICARIES 120GR,Cuidado Personal,Cuidado Bucal
+280236,BABY SHAMPOO MY CARE HONEY 400 ML,Cuidado del Bebé,Cuidado del Bebé
+280237,BABY SHAMPOO MY CARE HONEY  200ML,Cuidado del Bebé,Cuidado del Bebé
+280238,BABY SHAMPOO MY CARE ALOE VERA 400 ML,Cuidado del Bebé,Cuidado del Bebé
+280239,BABY SHAMPOO MY CARE ALOE VERA 200 ML,Cuidado del Bebé,Cuidado del Bebé
+280240,BABY SHAMPOO MY CARE PINK 400 ML,Cuidado del Bebé,Cuidado del Bebé
+280241,BABY SHAMPOO MYCARE PINK 200 ML,Cuidado del Bebé,Cuidado del Bebé
+280242,BABY SHAMPOO MY CARE LAVANDER 400 ML,Cuidado del Bebé,Cuidado del Bebé
+280243,BABY SHAMPOO MY CARE LAVANDER 200 ML,Cuidado del Bebé,Cuidado del Bebé
+280244,MASCARILLA FACIAL DEXE BLACK POTE 120GR,Cuidado Personal,Cuidado de la Piel
+280245,MASCARILLA FACIAL DEXE BLACK SACHET 20GR,Cuidado Personal,Cuidado de la Piel
+280246,MASCARILLA FACIAL DEXE GOLD POTE 120ML,Cuidado Personal,Cuidado de la Piel
+280247,MASCARILLA FACIAL DEXE GOLD SACHET 20GR*,Cuidado Personal,Cuidado de la Piel
 280512,Crema Nivea 30 ml,Cuidado Personal,Cuidado de la Piel
 281077,Cafe Colcafe Instantaneo Polvo 170 gr,Abarrotes,Café y Sucedáneos
 281703,Galleta Arcor Hogareña 7 Semillas 181 gr,Abarrotes,Galletas
@@ -17950,6 +17969,7 @@ id_producto,producto,categoria,subcategoria
 609317,Elfo Navideño,Bazar Importación,Temporada Navidad
 609318,Elfo Navideño Rojo,Bazar Importación,Temporada Navidad
 609319,Elfo Navideño Grinch,Bazar Importación,Temporada Navidad
+609502,PAN BASURERO DE METAL  5 LT,Bazar Importación,Baño General
 609581,PAN MOLDE P/ HIELO  21CUBOS,Bazar Importación,Cocina General
 609699,PAN FLOTADOR INFLABLE  DISNEY,Bazar Importación,Temporada Verano
 609702,PAN FLOTADOR INFLABLE  DISNEY NI¥A,Bazar Importación,Temporada Verano
@@ -20398,7 +20418,7 @@ id_producto,producto,categoria,subcategoria
 660229,Shampoo Sedal Toque De Seda 190 ml,Cuidado Personal,Cuidado del Cabello
 660230,Desodorante En Aerosol Dove Intensive Care Y Frambuesa Pack 2 un 150 ml,Cuidado Personal,Cuidado de la Piel
 660231,Mascarilla De Tratamiento Sedal Toque De Seda 300 gr,Cuidado Personal,Cuidado del Cabello
-660234,Serum Oleo Capilar Sedal Toque De Seda 60 ml,Cuidado Personal,Cuidado de la Piel
+660234,Serum Oleo Capilar Sedal Toque De Seda 60 ml,Cuidado Personal,Cuidado del Cabello
 660235,Serum Capilar Sedal Toque De Seda 100 ml,Cuidado Personal,Cuidado del Cabello
 660236,Shampoo Carissa Anticaspa Doypack 750 ml,Cuidado Personal,Cuidado del Cabello
 660246,Shampoo Classic For Men Sin Sal 950 ml,Cuidado Personal,Cuidado del Cabello
@@ -20541,6 +20561,7 @@ id_producto,producto,categoria,subcategoria
 660421,SUAVIZANTE DE ROPA FANTASTICO - FLORAL 1,Cuidado del Hogar,Limpieza de la Ropa
 660422,ANTIGRASA FANTASTICO 860ML,Cuidado del Hogar,Limpieza de Cocina
 660423,LIMPIA VIDRIOS FANTASTICO 860ML,Cuidado del Hogar,Limpieza de Living y Ropero
+660424,ANTIGRASA FANTASTICO REFILL 860ML,Cuidado del Hogar,Limpieza de Cocina
 660425,LIMPIA VIDRIOS FANTASTICO - REFILL 860ML,Cuidado del Hogar,Limpieza de Living y Ropero
 660426,ANTIGRASA FANTASTICO 5 LT,Cuidado del Hogar,Limpieza de Cocina
 660427,LIMPIA VIDRIO FANTASTICO 5L,Cuidado del Hogar,Limpieza de Living y Ropero
@@ -20572,6 +20593,7 @@ id_producto,producto,categoria,subcategoria
 660461,NA PANCHA DET LIMON 4800GR X1U,Cuidado del Hogar,Limpieza de la Ropa
 660462,LACTOVIT LACTOUREA BM 1000ML,Cuidado Personal,Cuidado de la Piel
 660524,SACA GRASA PULPIN ORIGINAL 700 ML,Cuidado del Hogar,Limpieza de Cocina
+660525,SACA GRASA PULPIN 5L,Cuidado del Hogar,Limpieza de Cocina
 660526,ESPONJA PULPIN X4,Cuidado del Hogar,Accesorios del Hogar
 660527,FACIAL ELITE PROFESIONAL 30X60,Cuidado Personal,Cuidado Familiar
 660529,PANAL MAMI TALA P 6X48 UNIDADES,Cuidado del Bebé,Pañales
@@ -25097,6 +25119,7 @@ id_producto,producto,categoria,subcategoria
 760228,PALETA ESPECIAL FRUTOS ROJOS CAYARA 100 GR.,Congelados,"Helados, Cassattas y Picoleses"
 760235,PALETA ESPECIAL MENTA CHISPAS CHOC.CAYARA 100 GR.,Congelados,"Helados, Cassattas y Picoleses"
 760239,Yogurt Bebible Friedland Probiotico Coco 1 L,Lácteos y Derivados,Yogures
+760311,PALETA RELLENA MARACUYA LECHE COND.CAYARA 120 GR.,Congelados,"Helados, Cassattas y Picoleses"
 760324,PALET RELLENA CREMA AM.Y OREO CAYARA 120 GR.,Congelados,"Helados, Cassattas y Picoleses"
 760335,PALETA RELLENA FRUTILLA LECHE COND.CAYARA 120 GR.,Congelados,"Helados, Cassattas y Picoleses"
 760569,PASTA DENTAL COLGATE JUNIOR 100 GR,Cuidado Personal,Cuidado Bucal
@@ -25375,6 +25398,7 @@ id_producto,producto,categoria,subcategoria
 768517,Leche Natural Barista Impostor 800 ml,Lácteos y Derivados,Leches
 768724,Nuggets de Trucha Titikaka 500 gr,Congelados,Carnes Congeladas
 768729,DULCECITOS CUNAPECITOS MAYSER 150 GRS. BOLSA,Pastelería y Masas Típicas,Masas Típicas Externas
+768732,CHAMPI¤ON OSTRA CONGELADA SLAN 500 GRS.,Congelados,Pulpas y Frutas Congeladas
 768902,Queso Sancor Corazon de Horma Fontina 240 gr,Lácteos y Derivados,Quesos
 768957,Papa PreCocida Simplot Congelada Corte Fino 2250 gr,Congelados,Masas y Comidas Congeladas
 768969,Queso Reggianito Melincue Argentino kg,Lácteos y Derivados,Quesos
