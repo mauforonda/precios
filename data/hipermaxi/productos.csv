@@ -68,8 +68,7 @@ id_producto,producto,categoria,subcategoria
 1799,Alimento Pedigree Senior 3 kg,Abarrotes,Mascotas
 1800,Alimento Pedigree Senior 1.5 kg,Abarrotes,Mascotas
 1801,Papa La Mejicana Picante 200 gr,Abarrotes,Snack
-1802,"Edulcorante  En Linea Liquido con Stevia 180 ml
-",Abarrotes,Dietéticos y Saludables
+1802,Edulcorante  En Linea Liquido con Stevia 180 ml,Abarrotes,Dietéticos y Saludables
 1820,Pipoca Zaeli Morango 100 gr,Abarrotes,Snack
 1825,Vermouth Punt e Mes 750 ml,Bebidas,Licores
 1826,Aceite Castaña Granja Verde 1 L,Abarrotes,Básicos
@@ -2654,6 +2653,7 @@ id_producto,producto,categoria,subcategoria
 30458,Licor Marula Afrika Vainilla 900 ml,Bebidas,Licores
 30460,Gin Old Bridge Rose 900 ml,Bebidas,Licores
 30461,Cereal En Linea Relleno de Chocolate 360 gr,Abarrotes,Dietéticos y Saludables
+30462,Mermelada En Linea Mora Sin Azucar 200 gr,Abarrotes,Dietéticos y Saludables
 30463,Cafe En Linea Capuccino 104 gr,Abarrotes,Dietéticos y Saludables
 30465,Jarabe Syrup Pancake Promos Original 24 oz,Abarrotes,Repostería
 30466,Marshmallow Mini Suity 10 oz,Abarrotes,Chocolates y Caramelos
@@ -3470,7 +3470,7 @@ id_producto,producto,categoria,subcategoria
 35400,Chocolate Breick Mora Barra 95 gr,Abarrotes,Chocolates y Caramelos
 35401,Cereal Princesa Nutrifibra 400 gr,Abarrotes,Nutrición Infantil
 35403,Chocolate Breick Semi Amargo Barra 100 gr,Abarrotes,Chocolates y Caramelos
-35445,VODKA STARK NARANAJA BOT 750 ML,Bebidas,Licores
+35445,VODKA STARK NARANJA BOT 750ML,Bebidas,Licores
 35446,Vodka Stark Berry 750 ml,Bebidas,Licores
 35447,Vodka Stark Clasico 750 ml,Bebidas,Licores
 35788,Pepinillo Brixy Entero 450 gr,Abarrotes,Verduras en Conserva
@@ -3908,16 +3908,31 @@ id_producto,producto,categoria,subcategoria
 69131,GOMITA MOGUL JELLY TERRORIFICO 50G,Abarrotes,Temporada
 69134,MOGUL MINI GUSANITO HALLOWEEN 80GR,Abarrotes,Temporada
 69135,BON O BON ARCOR COCO CJA 150G,Abarrotes,Chocolates y Caramelos
+69136,KETCHUP EN LINEA SIN AZUC BAJO SODIO 700,Abarrotes,Dietéticos y Saludables
 69139,PASTA D MANI DULCOR CLASICA PET 350G,Abarrotes,Repostería
 69140,Fideo Tratoria Spaguetti 400 gr,Abarrotes,Básicos
 69141,JUGO ALOE VERA SALUTE ORIGINAL 300ML,Bebidas,Bebidas Varias
 69142,JUGO ALOE VERA SALUTE PINA 300ML,Bebidas,Bebidas Varias
+69143,MERMELADA E LINEA FRAMB SIN AZUC DP 350G,Abarrotes,Dietéticos y Saludables
 69147,ACEITUNA VANOLI C MORRON DP 80G,Abarrotes,Verduras en Conserva
 69148,ACEITUNA VANOLI SIN CAROZO DP 80G,Abarrotes,Verduras en Conserva
 69153,CHUPETE BIG BOM PINTA BOCA 384G,Abarrotes,Chocolates y Caramelos
+69156,MERMELADA E LINEA MORA SIN AZUC 320G,Abarrotes,Dietéticos y Saludables
+69157,ACHACHAIRU BR CONCENTRADO DP 400G,Bebidas,Refrescos en Polvo
 69159,Fideo Tratoria Carozzi Tallarin 87 400 gr,Abarrotes,Básicos
+69163,ARROZ NORTE PREMIUN TIPO1 5KG,Abarrotes,Básicos
+69164,FERNET BUHERO NEGRO MANDELO 700ML,Bebidas,Licores
+69165,GOMITA FINI HALLOWEEN ARANA 80G,Abarrotes,Temporada
 69167,Fideo Tratoria Cabello de Angel Cortado 400 gr,Abarrotes,Básicos
+69168,CAFE WINDSOR PREMIUM MOLIDO DP 225G,Abarrotes,Café y Sucedáneos
+69169,CAFE WINDSOR PREMIUM MOLIDO DP 450G,Abarrotes,Café y Sucedáneos
+69170,CAFE WINDSOR PREMIUM GRANO DP 450G,Abarrotes,Café y Sucedáneos
+69173,GALLETA E LINEA CHIPS CACAO SIN AZUC 120,Abarrotes,Dietéticos y Saludables
 69175,Fideo Trattoria Fusilli 400 gr,Abarrotes,Básicos
+69180,GASEOSA FRISCH COCO SIN AZUC 500ML,Bebidas,Gaseosas
+69182,CHUPETE B BON BUM LIMON PINK 336G,Abarrotes,Chocolates y Caramelos
+69186,GASEOSA FRISCH CHIRIMOYA SIN AZUC 500ML,Bebidas,Gaseosas
+69187,GASEOSA FRISCH GUAYABA SIN AZUC 500ML,Bebidas,Gaseosas
 69230,Fideo Carozzi Tallarin 87 Espinaca 400 gr,Abarrotes,Básicos
 69248,Lasaña Carozzi Tradicional 400 gr,Abarrotes,Básicos
 69256,Fideo Carozzi Caracoquesos 296 gr,Abarrotes,Básicos
@@ -6469,10 +6484,10 @@ id_producto,producto,categoria,subcategoria
 123405,Caramelo Ring Pop Surtido 20 oz,Abarrotes,Productos Americanos
 123418,Jugo Aloe Vera Okf Original 240 ml,Bebidas,Bebidas Varias
 123419,Jugo Okf Aloe King Mango 240 ml,Bebidas,Bebidas Varias
-123489,Barra Cereal En Linea Crema Avellana 120,Abarrotes,Nutrición Infantil
+123489,Barra Cereal En Linea Crema Avellana 120,Abarrotes,Dietéticos y Saludables
 123491,Mermelada En Linea Frutilla 320 gr,Abarrotes,Dietéticos y Saludables
 123492,Mermelada En Linea Frambuesa 320 gr,Abarrotes,Dietéticos y Saludables
-123493,Granola En Linea Cranberries 320 gr,Abarrotes,Nutrición Infantil
+123493,Granola En Linea Cranberries 320 gr,Abarrotes,Dietéticos y Saludables
 123617,Hilo Dental Colgate Total 25 m,Cuidado Personal,Cuidado Bucal
 123655,Jugo Aloe Vera Okf Uva 240 ml,Bebidas,Bebidas Varias
 123692,Aceite Rico Soya 900 Ml,Abarrotes,Básicos
@@ -9886,7 +9901,7 @@ id_producto,producto,categoria,subcategoria
 240774,Desodorante Aerosol Axe Aer Aqua Citrus 150 ml,Cuidado Personal,Cuidado de la Piel
 240775,Papel Higienico  Familia Finesse 6 Und,Cuidado Personal,Cuidado Familiar
 240776,Papel Higienico Finesse Aromas 6 un,Cuidado Personal,Cuidado Familiar
-240778,Cereal En Linea Kids 330 gr,Abarrotes,Nutrición Infantil
+240778,Cereal En Linea Kids 330 gr,Abarrotes,Dietéticos y Saludables
 240779,Detergente Liquido Urca Maxx Azul 1 L,Cuidado del Hogar,Limpieza de la Ropa
 240780,Suavizante Ropa Urca Concentrado Brisa 1.5 L,Cuidado del Hogar,Limpieza de la Ropa
 240782,Suavizante Ropa Urca Concentrado Floral 1.5 L,Cuidado del Hogar,Limpieza de la Ropa
@@ -11336,6 +11351,9 @@ id_producto,producto,categoria,subcategoria
 327727,Chipilo Dorichips 300 gr,Abarrotes,Snack
 327751,Papa Dorichip Rallada 300 gr,Abarrotes,Snack
 327760,Pilas Eveready Gold Alcalina AA 2 un,Bazar,Ferretería
+327769,Barra Cereal En Linea Chocolate 90 gr,Abarrotes,Dietéticos y Saludables
+327770,Mermelada En Linea Frambuesa 200 gr,Abarrotes,Dietéticos y Saludables
+327772,Mermelada En Linea Frutilla 200 gr,Abarrotes,Dietéticos y Saludables
 327773,Mermelada En Linea Durazno 200 gr,Abarrotes,Dietéticos y Saludables
 327775,Cereal En Linea Hojuela de Maiz 330 gr,Abarrotes,Dietéticos y Saludables
 327776,Cereal En Linea Hojuela Chocolate 330 gr,Abarrotes,Dietéticos y Saludables
@@ -12318,6 +12336,8 @@ id_producto,producto,categoria,subcategoria
 362786,Canada Dry Ginger Ale USA 355 ml,Bebidas,Bebidas Usa
 362808,Tempero Oderich con Pimienta 300 gr,Abarrotes,Condimentos y Legumbres
 362910,Alcohol Aguai 70% 1 L,Cuidado Personal,Cuidado de la Piel
+362999,Aceite Oliva Gallo 200 ml,Abarrotes,Básicos
+363014,Aceite Oliva Gallo Extra Virgen 200 ml,Abarrotes,Básicos
 363018,Ambientador Repuesto Glade Lavanda 12 ml + dispensador,Cuidado del Hogar,Limpieza de Living y Ropero
 363027,Shampoo Plusbelle Suavidad 1 L,Cuidado Personal,Cuidado del Cabello
 363028,Shampoo Plusbelle Nutricion 1 L,Cuidado Personal,Cuidado del Cabello
@@ -17391,6 +17411,7 @@ id_producto,producto,categoria,subcategoria
 554164,GALLETA RONDITAS VAINILLA CHOCOL 240G,Abarrotes,Galletas
 554165,GASEOSA FANTA GHOST FACE 500ML,Bebidas,Gaseosas
 554166,JUGO LA GRANJA MANDARINA PET 2 LT,Bebidas,"Jugos, Néctar"
+554167,MERMELADA REYNA FRUTILLA POTE 200G,Abarrotes,"Mermel, Mieles"
 554171,MASTICABLE YOGURTE FRESA BSA 500 GR,Abarrotes,Chocolates y Caramelos
 554173,MASTICABLES LOKINO BSA 400 GR,Abarrotes,Chocolates y Caramelos
 554174,SALSA CASERA HELIOS 570 GR,Abarrotes,Productos Importados
@@ -17404,6 +17425,14 @@ id_producto,producto,categoria,subcategoria
 554182,MASTICABLE COLOMB SURTIDO RELL 550G,Abarrotes,Golosinas - Varias
 554183,CARAMELO COLOMB LOVE RELL CHOCOL 450G,Abarrotes,Chocolates y Caramelos
 554184,CHOCOLATE EPICO MANI 28 GR,Abarrotes,Golosinas - Varias
+554186,VAPE WAKA APEX CHERRY BOMB 30 K PUFFS,Bebidas,Cigarrillos
+554191,CHUPETIN SPRING POP TRADICIONAL SURTIDO 12 GR,Abarrotes,Productos Americanos
+554192,CHUPETIN RING POP TRADICIONAL SURTIDO 10 GR,Abarrotes,Productos Americanos
+554193,CHUPETIN RING POP TWISTED SURTIDO 10 GR,Abarrotes,Productos Americanos
+554194,GOMITAS FUN DIPPERZ CON GEL ACIDO SURTIDO 54 GR,Abarrotes,Productos Americanos
+554195,CHUPETIN PUSH POP TROPICAL SURTIDO 14 GR,Abarrotes,Productos Americanos
+554196,CHUPETIN PUSH POP DUO SURTIDO 14 GR,Abarrotes,Productos Americanos
+554197,CHUPETIN PUSH POP SURTIDO 14 GR,Abarrotes,Productos Americanos
 554333,Cerveza Paceña Lata Roja 473 Cc,Bebidas,Cervezas
 554466,Detergente Liquido Ola Futuro Limpieza Completa 5 L,Cuidado del Hogar,Limpieza de la Ropa
 554468,Suavizante Ropa Ola Suavecito Original 5 L,Cuidado del Hogar,Limpieza de la Ropa
@@ -20601,6 +20630,7 @@ id_producto,producto,categoria,subcategoria
 660460,CEPILLO PLANCHA MULTIUSO,Cuidado del Hogar,Accesorios del Hogar
 660461,NA PANCHA DET LIMON 4800GR X1U,Cuidado del Hogar,Limpieza de la Ropa
 660462,LACTOVIT LACTOUREA BM 1000ML,Cuidado Personal,Cuidado de la Piel
+660522,BOLSA PARA  BASURA TOTES CON  AGARRADOR,Cuidado del Hogar,Accesorios del Hogar
 660524,SACA GRASA PULPIN ORIGINAL 700 ML,Cuidado del Hogar,Limpieza de Cocina
 660525,SACA GRASA PULPIN 5L,Cuidado del Hogar,Limpieza de Cocina
 660526,ESPONJA PULPIN X4,Cuidado del Hogar,Accesorios del Hogar
@@ -24218,6 +24248,7 @@ id_producto,producto,categoria,subcategoria
 675949,SALCHICHA BOCK DON PIOTR 500GRS VACIO,Fiambres,Fiambres Externos
 675950,TOCINO AHUMADO DON PIOTR 200GRS VACIO,Fiambres,Fiambres Externos
 675951,QUESO DE CHANCHO DON PIOTR 200GRS VACIO,Fiambres,Fiambres Externos
+675952,PASTRAMI DON PIOTR 100GRS VACIO,Fiambres,Fiambres Externos
 676113,Habanito Bits Cream Coojies Cream 120 gr,Congelados,"Helados, Cassattas y Picoleses"
 676115,HABANITO BITS CREAM DULCE DE LECHE 120GRS,Congelados,"Helados, Cassattas y Picoleses"
 676116,HABANITO BITS CREAM FRUTILLA 120GRS,Congelados,"Helados, Cassattas y Picoleses"
@@ -30354,7 +30385,7 @@ id_producto,producto,categoria,subcategoria
 882446,Papa McCain Noisettes Potato 1 kg,Congelados,Masas y Comidas Congeladas
 882535,Cuñape Hipermaxi kg,Pastelería y Masas Típicas,Masas Típicas Hipermaxi
 882659,Leche Soy Natural Pil 900 ml,Lácteos y Derivados,Leches
-882664,Leche de Soya Vainilla 1 L,Lácteos y Derivados,Leches
+882664,Leche de Soya Vainilla 900 ml,Lácteos y Derivados,Leches
 882674,Leche de Soya Chocolate 900 ml,Lácteos y Derivados,Leches
 882911,Pan Molde Belen Americano 550 gr,Panadería,Panadería Externa
 883031,JUEGO MESA MONOPOLIO CLASICO BOLIVIMAR,Juguetería,Juguetería Didáctica/Temporada
@@ -30472,7 +30503,7 @@ id_producto,producto,categoria,subcategoria
 887449,PORTA CUBIERTOS UZ ROJO,Bazar,Menaje Plástico
 887472,Adorno Halloween Bruja Escoba,Bazar,Temporada Halloween
 887478,JAN ADORNO FANTASMA PAPEL 25,Bazar,Temporada Halloween
-887555,JAN GLOBO INFLABLE 2025 BS 20,Bazar,Temporada Halloween
+887555,JAN GLOBO FELIZ CUMPLEA¤OS,Bazar,Temporada Halloween
 887562,CA JUGUETE MALETA SET BELLEZA.125,Juguetería,Juguetería Didáctica/Temporada
 887574,JAN VINCHAS HALLOWEN 25,Bazar,Temporada Halloween
 887580,JAN ADORNO MANO HALLOWEN C LUZ  20,Bazar,Temporada Halloween
@@ -30900,6 +30931,7 @@ id_producto,producto,categoria,subcategoria
 920147,Ensaladera de Vidrio Diamante,Bazar,Articulos de Cocina
 920148,Panera Diamante,Bazar,Articulos de Cocina
 920789,Basurero Rey Calada Paris,Cuidado del Hogar,Accesorios del Hogar
+920791,Pegamento Isocola 250 gr,Bazar,Librería
 920822,Copa Larga,Bazar,Menaje Vidrio/Cristal
 920823,Vasoo Nadir 1 Whiskero 1recuentreN,Bazar,Menaje Vidrio/Cristal
 920826,Copa Vino Blanco,Bazar,Menaje Vidrio/Cristal
@@ -31064,6 +31096,7 @@ id_producto,producto,categoria,subcategoria
 932752,Vasos Desechable Belen 500 ml 50 un,Bazar,Cotillón
 932755,Bombillas Belen Corrugada Surtidas 100 un,Bazar,Cotillón
 935914,JAN SET DE COSTURERO .12,Bazar,Bijouteria/Cuidado Personal
+936341,Silicona Liquida Acricolor 250 ml,Bazar,Librería
 936463,Moledor de Ajo,Bazar,Articulos de Cocina
 936484,Mochila Escolar Juvenil,Bazar,Librería
 936485,Mochila Juvenil Escolar,Bazar,Librería
