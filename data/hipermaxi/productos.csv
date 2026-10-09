@@ -112,7 +112,7 @@ id_producto,producto,categoria,subcategoria
 1971,Salsa Tabasking Picante Lamor 100 ml,Abarrotes,Aderezos
 2194,Gaseosa Coca Cola Original 1.5 L,Bebidas,Gaseosas
 2585,Crema de Leche Nestle 225 gr,Abarrotes,Repostería
-2640,Cerelac Nestle 5 Cereales 400 gr,Abarrotes,Nutrición Infantil
+2640,Cerelac 5 Cereales 400 gr,Abarrotes,Nutrición Infantil
 2677,Gaseosa Fanta Naranja 3 L,Bebidas,Gaseosas
 2718,Durazno al Jugo Norte Light 820 gr,Abarrotes,Frutas en Conserva
 3265,Chuleta de Lomo Cerdo Sofia kg,Congelados,Carnes Congeladas
@@ -3770,6 +3770,7 @@ id_producto,producto,categoria,subcategoria
 60090,LIFE TEA FRUTO ROJOS ZERO AZUC PET 500ML,Bebidas,Bebidas Varias
 60091,LIFE TEA DURAZNO ZERO AZUC PET 500ML,Bebidas,Bebidas Varias
 60092,LIFE TEA FRUTOS ROJOS PET 500ML,Bebidas,Bebidas Varias
+60094,MEZCLA PRINCESA PANCAKE AVENA SIN AZUC 3,Abarrotes,Repostería
 60097,VINO LOPEZ CHATEAU CHARDONNAY GR 750ML,Bebidas,Vinos y Champagne
 60098,VINO LOPEZ DULCE NATURAL BCO 750 ML,Bebidas,Vinos y Champagne
 60099,VINO LOPEZ SAUVIGNON BLANC 750ML,Bebidas,Vinos y Champagne
@@ -3861,6 +3862,7 @@ id_producto,producto,categoria,subcategoria
 65793,Bombon Deluxe Libertad Mona 110 gr,Abarrotes,Chocolates y Caramelos
 65796,Bombon Libertad Rectang Grande 230 gr,Abarrotes,Chocolates y Caramelos
 65797,BOMBON LIBERTAD CORAZON GRANDE 410 GR,Abarrotes,Chocolates y Caramelos
+65799,BOMBON LIBERTAD JOYERO CUADRADO 240 GR,Abarrotes,Chocolates y Caramelos
 66508,Jugo de Tomate V8 Campbell Juice 11.5 oz,Abarrotes,Productos Americanos
 66818,Papa Pringles Crema Cebolla 124 gr,Abarrotes,Snack
 67020,Cigarrillo Marlboro Ice Xpres 20 un,Bebidas,Cigarrillos
@@ -3914,12 +3916,17 @@ id_producto,producto,categoria,subcategoria
 69141,JUGO ALOE VERA SALUTE ORIGINAL 300ML,Bebidas,Bebidas Varias
 69142,JUGO ALOE VERA SALUTE PINA 300ML,Bebidas,Bebidas Varias
 69143,MERMELADA E LINEA FRAMB SIN AZUC DP 350G,Abarrotes,Dietéticos y Saludables
+69146,PURE D PAPAS YUSPE BSA 125G,Abarrotes,Básicos
 69147,ACEITUNA VANOLI C MORRON DP 80G,Abarrotes,Verduras en Conserva
 69148,ACEITUNA VANOLI SIN CAROZO DP 80G,Abarrotes,Verduras en Conserva
+69150,MASTICABLE FRUIT TELLA MORANGO 40G,Abarrotes,Golosinas - Varias
+69152,MASTICABLE FRUIT TELLA CHERRY 40G,Abarrotes,Golosinas - Varias
 69153,CHUPETE BIG BOM PINTA BOCA 384G,Abarrotes,Chocolates y Caramelos
 69156,MERMELADA E LINEA MORA SIN AZUC 320G,Abarrotes,Dietéticos y Saludables
 69157,ACHACHAIRU BR CONCENTRADO DP 400G,Bebidas,Refrescos en Polvo
+69158,CEREAL SIMSA CHOCOLUS BSA 400G,Abarrotes,Nutrición Infantil
 69159,Fideo Tratoria Carozzi Tallarin 87 400 gr,Abarrotes,Básicos
+69160,CEREAL SIMSA TROPILUS BSA 400G,Abarrotes,Nutrición Infantil
 69163,ARROZ NORTE PREMIUN TIPO1 5KG,Abarrotes,Básicos
 69164,FERNET BUHERO NEGRO MANDELO 700ML,Bebidas,Licores
 69165,GOMITA FINI HALLOWEEN ARANA 80G,Abarrotes,Temporada
@@ -7354,6 +7361,7 @@ id_producto,producto,categoria,subcategoria
 204035,Pimienta Negra American Spice Molida 56 gr,Abarrotes,Condimentos y Legumbres
 204109,Chocolate Cofler Block 300 gr,Abarrotes,Chocolates y Caramelos
 204154,Ice Tea Hindu Manzana Light 300 gr,Bebidas,Refrescos en Polvo
+204159,Aceituna Vanoli rellena con Pimiento 300 gr,Abarrotes,Verduras en Conserva
 204199,Vino Riccitelli Republica Malbec 750 ml,Bebidas,Vinos y Champagne
 204251,Salsa Soya Sakura 250 ml,Abarrotes,Condimentos y Legumbres
 204279,Chocolate Para Ti Naranja 140 gr,Abarrotes,Chocolates y Caramelos
@@ -10369,8 +10377,10 @@ id_producto,producto,categoria,subcategoria
 280193,BETUM LIQ CAFE  TODO BRILLO 70 ML,Cuidado del Hogar,Limpieza de Zapatos
 280200,SET ESPONJA VIRULIN BONNY X3 UNI.,Cuidado del Hogar,Accesorios del Hogar
 280201,TRIPACK HUGGIES LIMPIEZA DIARIA 3X112 UN,Cuidado del Bebé,Cuidado del Bebé
+280203,ESPONJA  ESFREBOM LIMPIEZA EXTREMA X4UND,Cuidado del Hogar,Accesorios del Hogar
 280204,ESPONJA ACERO INOX. ESFREBOM 1X3,Cuidado del Hogar,Accesorios del Hogar
 280205,ESPONJA MAGICA ESFREBON 1,Cuidado del Hogar,Accesorios del Hogar
+280206,ESPONJA MAGICA ESFREBOM 1X3,Cuidado del Hogar,Accesorios del Hogar
 280207,DETERG ULTRA TERNURA FLORAL 5 KG,Cuidado del Hogar,Limpieza de la Ropa
 280208,DETERG ULTRA  FRESCO LIMON 5 KG,Cuidado del Hogar,Limpieza de la Ropa
 280209,DETERG ULTRA ENCANTO FLORAL 5 KG,Cuidado del Hogar,Limpieza de la Ropa
@@ -10400,6 +10410,7 @@ id_producto,producto,categoria,subcategoria
 280429,SHAMPOO BALLERINA GRANADA DP 350ML,Cuidado Personal,Cuidado del Cabello
 280430,SHAMPOO BALLERINA MANZANILLA DP 350ML,Cuidado Personal,Cuidado del Cabello
 280432,CREMA NIVEA PIEL NORMAL 100ML,Cuidado Personal,Cuidado de la Piel
+280433,TOALLA HIGIENICA CARISSA DIA 10 UNDS,Cuidado Personal,Cuidado Familiar
 280512,Crema Nivea 30 ml,Cuidado Personal,Cuidado de la Piel
 281077,Cafe Colcafe Instantaneo Polvo 170 gr,Abarrotes,Café y Sucedáneos
 281703,Galleta Arcor Hogareña 7 Semillas 181 gr,Abarrotes,Galletas
@@ -12181,6 +12192,7 @@ id_producto,producto,categoria,subcategoria
 355666,Shampoo Head Shoulders Hidratacion Aceite Coco 700 ml,Cuidado Personal,Cuidado del Cabello
 355667,Shampoo Head Shoulders Hidratacion Aceite Coco 370 ml,Cuidado Personal,Cuidado del Cabello
 355668,Acondicionador Head Shoulders Aceite Coco 300 ml,Cuidado Personal,Cuidado del Cabello
+355715,CEREZAS DULCOR FCO 410 GR,Abarrotes,Frutas en Conserva
 355771,CEREZAS ROJAS DULCOR FCO 200 GR,Abarrotes,Frutas en Conserva
 355780,Gaseosa Ritz Grape 355 ml,Bebidas,Bebidas Usa
 355781,Bebida Analcoholica Carbonatada Cereza Negra 355 ml,Bebidas,Bebidas Usa
@@ -12447,6 +12459,7 @@ id_producto,producto,categoria,subcategoria
 365262,Arroz Brillante Tipo 1 5 kg,Abarrotes,Básicos
 365378,Galleta Kirkland European Chocolate 1400 gr,Abarrotes,Galletas
 365411,Salsa Brixy Taquera 370 gr,Abarrotes,Aderezos
+365483,Aceituna Vanoli con Morron 330 gr,Abarrotes,Verduras en Conserva
 365505,ACEITUNA VERDE VANOLI DP 150 GR,Abarrotes,Verduras en Conserva
 365506,Insecticida Hormixan Hormiga Gel 6 gr,Cuidado del Hogar,Insecticidas
 365707,GELATINA BONAIRE SURTIDA 920 GR,Abarrotes,Repostería
@@ -13289,6 +13302,7 @@ id_producto,producto,categoria,subcategoria
 421422,Cafe Yungas Molido 70 gr,Abarrotes,Café y Sucedáneos
 421448,Suavizante Ropa Cavallaro Intenso 450 ml,Cuidado del Hogar,Limpieza de la Ropa
 421456,Suavizante Ropa Cavallaro Delicado 450 ml,Cuidado del Hogar,Limpieza de la Ropa
+421464,Aceituna Vanoli Verde 300 gr,Abarrotes,Verduras en Conserva
 421499,Pavo Santa Claus kg,Congelados,Carnes Congeladas
 421557,Tratamiento Capilar Pantene Restauracion Profunda 300 ml,Cuidado Personal,Cuidado del Cabello
 421634,Alimento Dog Chow Cachorro Carne Pollo 3 kg,Abarrotes,Mascotas
@@ -16917,7 +16931,7 @@ id_producto,producto,categoria,subcategoria
 553373,COMPOTA LITTLE MAMA BANANA CHIA 110 GR,Abarrotes,Nutrición Infantil
 553374,Compota Little Mama Manzana 110 gr,Abarrotes,Nutrición Infantil
 553375,COMPOTA LITTLE MAMA MANZANA PERA 110 GR,Abarrotes,Nutrición Infantil
-553376,Cereal Chocapic Original 90 gr,Abarrotes,Productos Importados
+553376,Cereal Nestle Chocapic Original 90 gr,Abarrotes,Productos Importados
 553377,Llajua En Polvo Suave Yajua Sobre 10 gr,Abarrotes,Condimentos y Legumbres
 553378,Llajua En Polvo Normal Yajua Sobre 10 gr,Abarrotes,Condimentos y Legumbres
 553379,Llajua En Polvo Extra Picante Yajua 500 gr,Abarrotes,Condimentos y Legumbres
@@ -17439,6 +17453,9 @@ id_producto,producto,categoria,subcategoria
 554195,CHUPETIN PUSH POP TROPICAL SURTIDO 14 GR,Abarrotes,Productos Americanos
 554196,CHUPETIN PUSH POP DUO SURTIDO 14 GR,Abarrotes,Productos Americanos
 554197,CHUPETIN PUSH POP SURTIDO 14 GR,Abarrotes,Productos Americanos
+554198,GOMAS AMBROREINO BSA 90 GR,Abarrotes,Golosinas - Varias
+554199,GOMAS AMBROSAURIOS BSA 90 GR,Abarrotes,Golosinas - Varias
+554206,CHICLE SPLOT CHICLE ZOMBIE 205 GR,Abarrotes,Temporada
 554333,Cerveza Paceña Lata Roja 473 Cc,Bebidas,Cervezas
 554466,Detergente Liquido Ola Futuro Limpieza Completa 5 L,Cuidado del Hogar,Limpieza de la Ropa
 554468,Suavizante Ropa Ola Suavecito Original 5 L,Cuidado del Hogar,Limpieza de la Ropa
@@ -19392,6 +19409,7 @@ id_producto,producto,categoria,subcategoria
 654186,Mermelada Dulcor Durazno 500 GR,Abarrotes,"Mermel, Mieles"
 654187,Mermelada Dulcor Frutilla 500 GR,Abarrotes,"Mermel, Mieles"
 654196,Mejillones Robinson Crusoe Salsa Picante 190 gr,Abarrotes,Comidas en Conserva
+654198,Aceituna Vanoli Verde Descorazonada 330 gr,Abarrotes,Verduras en Conserva
 654220,Mermelada Dulcor Durazno Light 390 gr,Abarrotes,Dietéticos y Saludables
 654221,Salsa Predilecta Finas Hierbas 340 gr,Abarrotes,Salsas y Extracto de Tomate
 654224,Mermelada Dulcor Frutilla Light 390 gr,Abarrotes,Dietéticos y Saludables
@@ -24062,7 +24080,7 @@ id_producto,producto,categoria,subcategoria
 674697,PAPA FRITA TA BUENO CLASICA PICANTE 150G,Abarrotes,Snack
 674699,Pate De Finas Hierbas Sofia Premium 100 gr,Fiambres,Fiambres Externos
 674700,PATE PECHUGA DE PAVO SOFIA PREMIUM 100GRS,Fiambres,Fiambres Externos
-674701,CHORIZO BUTIFARRA JALAPE¤O SOFIA PREMIUM UNI,Fiambres,Fiambres Externos
+674701,Chorizo Butifarra Jalapeño Sofia Premium,Fiambres,Fiambres Externos
 674702,JAMON DE CERDO ARTESANAL SOFIA PREMIUM UNI,Fiambres,Fiambres Externos
 674703,Tocino Ahumado Sofia Premium,Fiambres,Fiambres Externos
 674705,ALIMENTO LACTEO BONLE UHT 800ML,Lácteos y Derivados,Leches
@@ -25303,7 +25321,7 @@ id_producto,producto,categoria,subcategoria
 762573,Salchicha Bock Premium Sofia,Fiambres,Fiambres Externos
 762581,Kefir Natural Delizia 1 Kg,Lácteos y Derivados,Yogures
 762583,Hamburguesa Fridosa Pollo 12 un,Congelados,Carnes Congeladas
-762584,CHORIZO BUTIFARRA PREMIUM SOFIA UND.(533378),Fiambres,Fiambres Externos
+762584,Chorizo Butifarra Premium Sofia,Fiambres,Fiambres Externos
 762596,Salchicha De Pavo Sofia Premium,Fiambres,Fiambres Externos
 762601,Yogurt San Javier Frutilla Light 200 ml,Lácteos y Derivados,Yogures
 762613,Yogurt San Javier Coco Light 200 ml,Lácteos y Derivados,Yogures
