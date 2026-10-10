@@ -3941,6 +3941,10 @@ id_producto,producto,categoria,subcategoria
 69186,GASEOSA FRISCH CHIRIMOYA SIN AZUC 500ML,Bebidas,Gaseosas
 69187,GASEOSA FRISCH GUAYABA SIN AZUC 500ML,Bebidas,Gaseosas
 69188,MARSMALLOWS BILLIKEN GONGYS MINI 200G,Abarrotes,Chocolates y Caramelos
+69193,BEBIDA MAMBO CHUFLAY LTA 355ML,Bebidas,Licores
+69194,BEBIDA MAMBO MOJITO LTA 355ML,Bebidas,Licores
+69195,BEBIDA MAMBO PINA COLADA 355ML,Bebidas,Licores
+69196,BEBIDA MAMBO COCKTAIL SPRITZ 355ML,Bebidas,Licores
 69230,Fideo Carozzi Tallarin 87 Espinaca 400 gr,Abarrotes,Básicos
 69248,Lasaña Carozzi Tradicional 400 gr,Abarrotes,Básicos
 69256,Fideo Carozzi Caracoquesos 296 gr,Abarrotes,Básicos
@@ -9017,6 +9021,7 @@ id_producto,producto,categoria,subcategoria
 228405,EXFOLIANTE VEGANIS PERA 500 ML,Cuidado Personal,Cuidado de la Piel
 228406,EXFOLIANTE VEGANIS PALTA 500 ML,Cuidado Personal,Cuidado de la Piel
 228407,CREMA CORPORAL VEGANIS PERA 500 ML,Cuidado Personal,Cuidado de la Piel
+228408,Crema Corporal St. Ives Manzanilla 400 ml,Cuidado Personal,Cuidado de la Piel
 228410,CREMA CORPORAL VEGANIS ROSAS 500 ML,Cuidado Personal,Cuidado de la Piel
 228411,CREMA CORPORAL VEGANIS GINGKO 500 ML,Cuidado Personal,Cuidado de la Piel
 228412,Jabon Liquido Veganis Lima 400 ml,Cuidado Personal,Cuidado de la Piel
@@ -9024,6 +9029,7 @@ id_producto,producto,categoria,subcategoria
 228414,Jabon Liquido Veganis Granada 400 ml,Cuidado Personal,Cuidado de la Piel
 228415,Jabon Liquido Veganis Rosa 400 ml,Cuidado Personal,Cuidado de la Piel
 228416,SHAMPOO VEGANIS COCO 400 ML,Cuidado Personal,Cuidado del Cabello
+228417,Acondicionador Veganis Coco 400 ml,Cuidado Personal,Cuidado del Cabello
 228418,Acondicionador Veganis Maqui 400 ml,Cuidado Personal,Cuidado del Cabello
 228420,Mascarilla Capilar Veganis Coco 250 ml,Cuidado Personal,Cuidado del Cabello
 228421,Mascarilla Capilar Veganis Acido Hialuronico 250 ml,Cuidado Personal,Cuidado del Cabello
@@ -17370,6 +17376,8 @@ id_producto,producto,categoria,subcategoria
 554082,PACK 2 PEPSI  2.5 LT,Bebidas,Gaseosas
 554083,PACK 3 WAFER BAUDUCCO 140 GR,Abarrotes,Galletas
 554084,PACK 4 PASTAS FAMOSA AHORRO,Abarrotes,Básicos
+554085,AGUA SANTE ENERGY BOOST C CAFEINA 500ML,Bebidas,Aguas
+554086,AGUA SANTE SIN GAS PET 500 ML,Bebidas,Aguas
 554087,GASEOSA CONTI LIMON LTA 350ML,Bebidas,Gaseosas
 554089,VINO SANTO PATRONO ROSADO ALHAJA 750 ML,Bebidas,Vinos y Champagne
 554090,SOPA INST AL TOKE CARNE BSA 85G,Abarrotes,Básicos
@@ -17383,6 +17391,7 @@ id_producto,producto,categoria,subcategoria
 554098,CERVEZA TAQUINA LTA 440 CC,Bebidas,Cervezas
 554099,MANGO EN ALMIBAR CHIMORE LONJAS 860 GR,Abarrotes,Frutas en Conserva
 554100,MANGO EN ALMIBAR CHIMORE TROZOS 860 GR,Abarrotes,Frutas en Conserva
+554101,PALMITO CHIMORE  TROZOS 400 GR,Abarrotes,Verduras en Conserva
 554102,GALLETA LA FRANCESA MINI SUCREMA 220 GR,Abarrotes,Galletas
 554103,CREMA COFFEE MATE 15 OZ,Abarrotes,Productos Americanos
 554104,SALSA PICANTE VALENTINA 150 ML,Abarrotes,Productos Americanos
@@ -17453,8 +17462,8 @@ id_producto,producto,categoria,subcategoria
 554195,CHUPETIN PUSH POP TROPICAL SURTIDO 14 GR,Abarrotes,Productos Americanos
 554196,CHUPETIN PUSH POP DUO SURTIDO 14 GR,Abarrotes,Productos Americanos
 554197,CHUPETIN PUSH POP SURTIDO 14 GR,Abarrotes,Productos Americanos
-554198,GOMAS AMBROREINO BSA 90 GR,Abarrotes,Golosinas - Varias
-554199,GOMAS AMBROSAURIOS BSA 90 GR,Abarrotes,Golosinas - Varias
+554198,GOMITA AMBROSOLI AMBROREINO 90G,Abarrotes,Golosinas - Varias
+554199,GOMITA AMBROSOLI AMBROSAURIOS 90G,Abarrotes,Golosinas - Varias
 554206,CHICLE SPLOT CHICLE ZOMBIE 205 GR,Abarrotes,Temporada
 554333,Cerveza Paceña Lata Roja 473 Cc,Bebidas,Cervezas
 554466,Detergente Liquido Ola Futuro Limpieza Completa 5 L,Cuidado del Hogar,Limpieza de la Ropa
@@ -24274,6 +24283,8 @@ id_producto,producto,categoria,subcategoria
 674982,CU¥APIZZA ABIZCOCHADOS  SABOR NAPOLITANA,Pastelería y Masas Típicas,Masas Típicas Externas
 674983,CU¥APIZZA ABIZCOCHADO SABOR FUGAZZETTA 1,Pastelería y Masas Típicas,Masas Típicas Externas
 674986,JAMON PIZZERO SOFIA KILOGRAMO,Fiambres,Fiambres Externos
+675011,CHORIZO CERVECERO SOFIA A GRANEL KGR,Fiambres,Fiambres Externos
+675012,MAPLE DE HUEVO ROLON 30 NIDADES GRANEL,Lácteos y Derivados,Huevos
 675245,Miel de Abeja Eva Promiel 250 gr,Abarrotes,"Mermel, Mieles"
 675948,SALCHICHA VIENA DON PIOTR 500GRS VACIO,Fiambres,Fiambres Externos
 675949,SALCHICHA BOCK DON PIOTR 500GRS VACIO,Fiambres,Fiambres Externos
@@ -25427,6 +25438,7 @@ id_producto,producto,categoria,subcategoria
 764875,Pan con Ajo Santa Elena Precocido 2 un,Panadería,Panadería Externa
 764879,SANTA SOYA IDEAL SAB.CHOCOLATE 300 ML.,Lácteos y Derivados,Leches
 764893,PIERNA CON CUERO CONG.AL VACIO SFIA KG.,Congelados,Carnes Congeladas
+764897,ESP.PAN MOLDE INTEGRAL T.AMERICANO HIPERMAXI 560 GR.,Panadería,Panadería Especialidades Hipermaxi
 764954,FINGERS ESTILO AMERICANO SOFIA 500 GRS.,Congelados,Carnes Congeladas
 765024,Magdalenas Paris 10 un,Panadería,Panadería Externa
 765136,PALETAS DE ASAI BIOFOOD CAJA X 8 UND.,Congelados,"Helados, Cassattas y Picoleses"
@@ -27461,6 +27473,7 @@ id_producto,producto,categoria,subcategoria
 825785,Cachaza 51 Pirassununga 1 L,Bebidas,Licores
 825894,Vino Campos de Solana Trivarietal Reserva 750 ml,Bebidas,Vinos y Champagne
 825903,Vino Campos de Solana Reserva Malbec Cabernet Sauvignon 750 ml,Bebidas,Vinos y Champagne
+825983,JUGO REALIME 100% LIMA 8 OZ,Bebidas,Bebidas Usa
 826105,20150/618 SARTEN 18CM PARIS NEGRO,Bazar,Articulos de Cocina
 826122,23162/910 JUEGO TENEDORES MESA 12PZAS NE,Bazar,Articulos de Cocina
 826126,23162/930 TENEDORES MESA 12PZAS NEW KOLO,Bazar,Articulos de Cocina
@@ -30718,7 +30731,7 @@ id_producto,producto,categoria,subcategoria
 890725,Shampoo Simonds Pineapple Smile Kids 400 ml,Cuidado del Bebé,Cuidado del Bebé
 890819,BRA ORGANIZADOR PLASTICO,Bazar Importación,Temporada Carnaval
 890829,Talco Simonds Manzanilla Baby Relax 200 gr,Cuidado del Bebé,Cuidado del Bebé
-890844,BRA TAPER DE PLASTICO R,Bazar Importación,Menaje Plástico
+890844,BRA TAPER DE PLASTICO 750ML,Bazar Importación,Menaje Plástico
 890859,Taper  750Ml  - Jaguar,Bazar Importación,Menaje Plástico
 890863,BRA SANDWICHERA PLASTICO KIDS,Bazar Importación,Temporada Carnaval
 890865,BRA VASO PLASTICO 360ML,Bazar Importación,Temporada Carnaval
@@ -31231,7 +31244,7 @@ id_producto,producto,categoria,subcategoria
 931491,Set 6 Vasos Amasadinho Tubo,Bazar,Menaje Vidrio/Cristal
 931510,Copa de Vino Windsor,Bazar,Menaje Vidrio/Cristal
 932021,Porta Mantequillero Plasutil,Bazar,Menaje Plástico
-932032,FRE SANDWICHERA JAGUAR,Bazar Importación,Menaje Plástico
+932032,BRA SANDWICHERA JAGUAR,Bazar Importación,Menaje Plástico
 932060,Bañador Cholita 8 L,Cuidado del Hogar,Accesorios del Hogar
 932080,MAR DISFRACES DE MASCOTAS,Bazar,Mascotas General
 932694,Cinta Masquin,Bazar,Ferretería
