@@ -9390,7 +9390,7 @@ id_producto,producto,categoria,subcategoria
 231608,Cepillo Dental Condor Agil Black 1 un,Cuidado Personal,Cuidado Bucal
 231609,Cepillo Dental Condor Azul Black 1 un,Cuidado Personal,Cuidado Bucal
 231610,Cepillo Dental Condor Dynamo 1 un,Cuidado Personal,Cuidado Bucal
-231611,DETERGENTE UNO PARAISO TROPICAL 620 GRS,Cuidado del Hogar,Limpieza de la Ropa
+231611,DETERGENTE UNO PARAISO TROPICAL 650 GRS,Cuidado del Hogar,Limpieza de la Ropa
 231612,Detergente Polvo Uno Paraiso Tropical 4.7 kg,Cuidado del Hogar,Limpieza de la Ropa
 231615,PACK ELVIVECREMA500+SHHIDRA370ML,Cuidado Personal,Cuidado del Cabello
 231616,PACK ELVIVE CR 500ML 3 EN 1 + SH 370ML G,Cuidado Personal,Cuidado del Cabello
@@ -10319,6 +10319,7 @@ id_producto,producto,categoria,subcategoria
 278789,Yerba Mate Kurupi Compuesta Citrus 500 gr,Abarrotes,Café y Sucedáneos
 279021,Tequila Jose Cuervo Especial 750 ml,Bebidas,Licores
 280102,LIMPIAPISO TODOBRILLO PLUS CRM.FLORAL1.8ML,Cuidado del Hogar,Limpieza de Baños
+280104,DESODORANTE ALGABO  ROLLON FRESH 60 ML,Cuidado Personal,Cuidado de la Piel
 280105,ESPONJA ALGABO CARE  GUANTE,Cuidado Personal,Cuidado de la Piel
 280106,ESPONJA ALGABO DE BANO,Cuidado Personal,Cuidado de la Piel
 280107,ESPONJA  ALGABO BANO ESPUMA,Cuidado Personal,Cuidado de la Piel
@@ -15905,7 +15906,7 @@ id_producto,producto,categoria,subcategoria
 551993,Licor Amarula Cream Raspberry 750 ml,Bebidas,Licores
 551994,Chizitos La Costeña 100 gr,Abarrotes,Snack
 551995,Pipoca La Estrella 80 gr,Abarrotes,Snack
-551998,CHOCOLATE BREICK TANTA WAWITA CJA 75G,Abarrotes,Temporada
+551998,Chocolate Breick Tanta Wawita 75 gr,Abarrotes,Temporada
 551999,CHOCOLATE BREICK CALAVERA PINTADA 100 GR,Abarrotes,Temporada
 552000,CHOCOLATE BREICK ESCALERITA CJA 75 GR,Abarrotes,Temporada
 552004,Pack Gin Beefeater 700 ml + Copa,Bebidas,Licores
@@ -17464,6 +17465,8 @@ id_producto,producto,categoria,subcategoria
 554197,CHUPETIN PUSH POP SURTIDO 14 GR,Abarrotes,Productos Americanos
 554198,GOMITA AMBROSOLI AMBROREINO 90G,Abarrotes,Golosinas - Varias
 554199,GOMITA AMBROSOLI AMBROSAURIOS 90G,Abarrotes,Golosinas - Varias
+554200,CHOCOL CALABAZA PINT BOSA VERDE 65G,Abarrotes,Temporada
+554203,CHOCOLATE BREICK PINT BOCA ROJO 65G,Abarrotes,Temporada
 554206,CHICLE SPLOT CHICLE ZOMBIE 205 GR,Abarrotes,Temporada
 554333,Cerveza Paceña Lata Roja 473 Cc,Bebidas,Cervezas
 554466,Detergente Liquido Ola Futuro Limpieza Completa 5 L,Cuidado del Hogar,Limpieza de la Ropa
@@ -23538,6 +23541,7 @@ id_producto,producto,categoria,subcategoria
 673849,Chorizo Parrillero Cielo Ahumado kg,Fiambres,Fiambres Externos
 673851,Chorizo Parrillero Cielo Tipo Argentino Ahumado kg,Fiambres,Fiambres Externos
 673852,Chorizo Parrillero Cielo Tipo Argentino kg,Fiambres,Fiambres Externos
+673853,CHORIZO PARRILLERO CIELO TIPO ARGENTINO PICANTE GRANEL,Fiambres,Fiambres Externos
 673854,Chorizo Cielo Tipo Tarateno A Granel,Fiambres,Fiambres Externos
 673855,Chorizo Cielo Tipo Calabresa A Granel,Fiambres,Fiambres Externos
 673856,Morcilla Cielo Premium A Granel,Fiambres,Fiambres Externos
@@ -25452,7 +25456,9 @@ id_producto,producto,categoria,subcategoria
 765628,Galleta De Agua Crick 1 kg,Abarrotes,Galletas
 765734,Pan con Chia y Sesamo Nasway 6 un,Panadería,Panadería Externa
 765769,DULCE DE LECHE GUARUJA 200 GRS.,Lácteos y Derivados,Dulces de Leche y Manjares
+765823,ALFAJOR HELADO BOB 16X62GR. ARCOR,Congelados,"Helados, Cassattas y Picoleses"
 765836,Huevos Avicola Paurito Subsidio 15 un,Lácteos y Derivados,Huevos
+765845,HELADO COFLER DDL 16X63GR. ARCOR,Congelados,"Helados, Cassattas y Picoleses"
 765872,Pan con Linaza y Sesamo Nasway 6 un,Panadería,Panadería Externa
 765874,Huevos Avicola Paurito Subsidio 18 un,Lácteos y Derivados,Huevos
 765876,Mantequilla Repostera Sin Sal Da Gusto 1 kg,Lácteos y Derivados,Mantequillas y Margarinas
@@ -27918,6 +27924,10 @@ id_producto,producto,categoria,subcategoria
 841000,Ropa de Mascota Invierno N5-7,Bazar,Mascotas General
 841005,Chamarra de Mascota N3-4,Bazar,Mascotas General
 841080,AUTO ESPELHAMENTO CENTRAL SUL 500 ML,Bazar,Automotriz
+841082,CH 26 8 TOMATODO TERMICO 900ML AZUL BORDE TRANSPARENTE,Bazar Importación,Menaje Metálico
+841083,CH 26 9 TOMATODO TERMICO 900ML VERDE BORDE TRANSPARENTE,Bazar Importación,Menaje Metálico
+841084,CH 26 10 TOMATODO TERMICO 900ML GRIS BORDE TRANSPARENTE,Bazar Importación,Menaje Metálico
+841102,CH 26 11 TOMATODO TERMICO 900ML FUCSIA BORDE TRANSPARENTE,Bazar Importación,Menaje Metálico
 841123,Agua Viscachani Cereza 600 ml,Bebidas,Aguas
 841162,CH J26 1 FUENTE ANTIDESLIZANTE 45X31CM  BANDEJA,Bazar Importación,Menaje Plástico
 841164,CH J26 2 FUENTE CUADRADA ANTIDESLIZANTE  BANDEJA,Bazar Importación,Menaje Plástico
