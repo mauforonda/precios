@@ -3779,6 +3779,8 @@ id_producto,producto,categoria,subcategoria
 60106,SEMILLA D GIRASOL 3PIBES DP 130G,Abarrotes,Snack
 60109,FOUR LOKO AILIVE LTA 695ML,Bebidas,Licores
 60114,BON O BON CORAZON S COCO 75G,Abarrotes,Chocolates y Caramelos
+60120,ALMIDON D MAIZ CPA 1KG,Abarrotes,Básicos
+60121,ALMIDON AGRIO D MANDIOCA CPA 1KG,Abarrotes,Básicos
 60122,CHOCOLATE P TI LECHE TE AMO TAB 100G,Abarrotes,Chocolates y Caramelos
 60468,Licor Cusenier Limoncello 750 ml,Bebidas,Licores
 60469,Vino Etchart Cafayate Rose 750 ml,Bebidas,Vinos y Champagne
@@ -3865,6 +3867,8 @@ id_producto,producto,categoria,subcategoria
 65799,BOMBON LIBERTAD JOYERO CUADRADO 240 GR,Abarrotes,Chocolates y Caramelos
 66508,Jugo de Tomate V8 Campbell Juice 11.5 oz,Abarrotes,Productos Americanos
 66818,Papa Pringles Crema Cebolla 124 gr,Abarrotes,Snack
+67001,CHUPETE BONBONBUM SURTIDO BOTE 1680G,Abarrotes,Chocolates y Caramelos
+67003,GASEOSA MENDOCINA LIMA LIMON 300ML,Bebidas,Gaseosas
 67020,Cigarrillo Marlboro Ice Xpres 20 un,Bebidas,Cigarrillos
 67047,Achocolatado Instant Kriskao 1 kg,Abarrotes,Nutrición Infantil
 67096,Te Frutte Jengibre Limon Miel 20 Sobres,Abarrotes,Café y Sucedáneos
@@ -3935,6 +3939,7 @@ id_producto,producto,categoria,subcategoria
 69169,CAFE WINDSOR PREMIUM MOLIDO DP 450G,Abarrotes,Café y Sucedáneos
 69170,CAFE WINDSOR PREMIUM GRANO DP 450G,Abarrotes,Café y Sucedáneos
 69173,GALLETA E LINEA CHIPS CACAO SIN AZUC 120,Abarrotes,Dietéticos y Saludables
+69174,MERMELADA E LINEA MORA SIN AZUC DP 350G,Abarrotes,Dietéticos y Saludables
 69175,Fideo Trattoria Fusilli 400 gr,Abarrotes,Básicos
 69180,GASEOSA FRISCH COCO SIN AZUC 500ML,Bebidas,Gaseosas
 69182,CHUPETE B BON BUM LIMON PINK 336G,Abarrotes,Chocolates y Caramelos
@@ -4008,6 +4013,7 @@ id_producto,producto,categoria,subcategoria
 77178,Salsa Kris Churrasco Kriolla 200 gr,Abarrotes,Aderezos
 79570,Pierna de Cerdo kg,Carnes,Otras Carnes
 79596,Lomo de Cerdo kg,Carnes,Otras Carnes
+79701,Almidon de Mandioca Cpa 1 kg,Abarrotes,Básicos
 80349,Pegamento Uhu Stic Mediano 40 gr,Bazar,Librería
 80861,Yogurt Pil Frutado Coco 750 ml,Lácteos y Derivados,Yogures
 80870,Yogurt Pil Frutado Frutilla 750 ml,Lácteos y Derivados,Yogures
@@ -7579,6 +7585,7 @@ id_producto,producto,categoria,subcategoria
 210053,MASTICABLE DORI LUA CHEIA FRUTAS 500G,Abarrotes,Golosinas - Varias
 210054,CARAMELO DORI HORTELA MINT BSA 500G,Abarrotes,Chocolates y Caramelos
 210055,SAN BITTER PALMENIA 1LT,Bebidas,Licores
+210057,CAFE ALTOMAYO INSTANT GOURMET FCO 170G,Abarrotes,Café y Sucedáneos
 210062,ENERGIZANTE RUSH MUNDIAL LTA 269ML,Bebidas,Energizantes
 210064,LICOR CRISTALINO CHAIRU PREMIUM 750ML,Bebidas,Licores
 210065,GALLETA MABEL CREMOSITAS MAX 216 GR,Abarrotes,Galletas
@@ -7589,6 +7596,7 @@ id_producto,producto,categoria,subcategoria
 210070,GALLETA D ARROZ MACROBIOTICA MULTICEREAL 102G,Abarrotes,Dietéticos y Saludables
 210071,GALLETA D ARROZ MACROBIOTICA DULCE 102G,Abarrotes,Dietéticos y Saludables
 210072,GALLETA D ARROZ MACROBIOTICA SIN SAL 102,Abarrotes,Dietéticos y Saludables
+210075,CAFE ALTOMAYO INSTANT CLASICO DP 140G,Abarrotes,Café y Sucedáneos
 210076,JUGO ALOE VERA SALUTE ORIGINAL 500ML,Bebidas,Bebidas Varias
 210080,ENDULCORANTE DEZERO C STEVIA 250 ML,Abarrotes,Dietéticos y Saludables
 210081,GALLETA COFLER TORTITAS BLACK 84G,Abarrotes,Galletas
@@ -10026,6 +10034,7 @@ id_producto,producto,categoria,subcategoria
 244961,Chocolate Para Ti Surtido 240 gr,Abarrotes,Chocolates y Caramelos
 245021,Protector Diario Kotex Pure 50 un,Cuidado Personal,Cuidado Familiar
 245100,Arroz Caisy Perlado 1 kg,Abarrotes,Básicos
+245105,CHOCOLATE NESTLE SUBLIME TAB 14G,Abarrotes,Golosinas - Varias
 245560,Refresco Arcor Limonada 18 gr,Bebidas,Refrescos en Polvo
 245788,Jugo Ice Fruit Citrus Punch  Pet 500 ml,Bebidas,"Jugos, Néctar"
 245790,Jugo Ice Fruit Citrus Punch 2 L,Bebidas,"Jugos, Néctar"
@@ -24210,6 +24219,7 @@ id_producto,producto,categoria,subcategoria
 674850,DULCE DE LECHE PASTELERO CAROVA 1KGR,Lácteos y Derivados,Dulces de Leche y Manjares
 674856,NUGGETS SOFIA DINO BOLSA 30 UNIDADES,Congelados,Carnes Congeladas
 674857,LECHE DESLACTOSADA PIL/CAFE X 800 ML (BOLSA),Lácteos y Derivados,Leches
+674858,TOCINO AHUMADO SOFIA UNIDAD,Fiambres,Fiambres Externos
 674859,TOCINETA DE CERDO AL VACIO SOFIA KGR,Fiambres,Fiambres Externos
 674861,MINI TORTA BOUQUET DE TRES LECHES DELIZIA,Congelados,"Helados, Cassattas y Picoleses"
 674862,MINI TORTA TRILOG A (DULCE DE LECHE/GRANIZADO/CHOCOLATE),Congelados,"Helados, Cassattas y Picoleses"
