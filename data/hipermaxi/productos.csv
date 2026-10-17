@@ -3870,6 +3870,9 @@ id_producto,producto,categoria,subcategoria
 67001,CHUPETE BONBONBUM SURTIDO BOTE 1680G,Abarrotes,Chocolates y Caramelos
 67003,GASEOSA MENDOCINA LIMA LIMON 300ML,Bebidas,Gaseosas
 67020,Cigarrillo Marlboro Ice Xpres 20 un,Bebidas,Cigarrillos
+67030,SOPA INSTANT AL TOKE CAMARON VASO 65G,Abarrotes,Básicos
+67031,SOPA INSTANT AL TOKE CARNE VASO 65G,Abarrotes,Básicos
+67033,SOPA INSTANT AL TOKE POLLO VASO 65G,Abarrotes,Básicos
 67047,Achocolatado Instant Kriskao 1 kg,Abarrotes,Nutrición Infantil
 67096,Te Frutte Jengibre Limon Miel 20 Sobres,Abarrotes,Café y Sucedáneos
 67097,Te Frutte Gengibre Miel 20 Sobres,Abarrotes,Café y Sucedáneos
@@ -3912,6 +3915,7 @@ id_producto,producto,categoria,subcategoria
 69126,MARSMALLOWS BUFFYS TWISTER FRUTAL 125G,Abarrotes,Chocolates y Caramelos
 69127,SALCHICHA FRISA T VIENA LTA 180G,Abarrotes,Comidas en Conserva
 69131,GOMITA MOGUL JELLY TERRORIFICO 50G,Abarrotes,Temporada
+69133,BALDE ARCOR MURCIELAGO 92G,Abarrotes,Temporada
 69134,Gomita Mogul Mini Gusanito Halloween 80 gr,Abarrotes,Temporada
 69135,BON O BON ARCOR COCO CJA 150G,Abarrotes,Chocolates y Caramelos
 69136,KETCHUP EN LINEA SIN AZUC BAJO SODIO 700,Abarrotes,Dietéticos y Saludables
@@ -7587,7 +7591,9 @@ id_producto,producto,categoria,subcategoria
 210053,MASTICABLE DORI LUA CHEIA FRUTAS 500G,Abarrotes,Golosinas - Varias
 210054,Caramelo Hortela Mint Dori Bolsa 500 gr,Abarrotes,Chocolates y Caramelos
 210055,SAN BITTER PALMENIA 1LT,Bebidas,Licores
+210056,CAFE ALTOMAYO INSTANT GOURMET DP 140G,Abarrotes,Café y Sucedáneos
 210057,CAFE ALTOMAYO INSTANT GOURMET FCO 170G,Abarrotes,Café y Sucedáneos
+210059,CAFE ALTOMAYO INSTANT ARMONICO FCO 170G,Abarrotes,Café y Sucedáneos
 210062,ENERGIZANTE RUSH MUNDIAL LTA 269ML,Bebidas,Energizantes
 210064,LICOR CRISTALINO CHAIRU PREMIUM 750ML,Bebidas,Licores
 210065,GALLETA MABEL CREMOSITAS MAX 216 GR,Abarrotes,Galletas
@@ -9639,7 +9645,7 @@ id_producto,producto,categoria,subcategoria
 232066,MAYONESA HERDEZ HABANERO 305 GR,Abarrotes,Aderezos
 232067,MAYONES HERDEZ JALAPANO 305 GR,Abarrotes,Aderezos
 232069,MAYONEZA HERDEZ CHIPOTLE 305 GR,Abarrotes,Aderezos
-232078,DETERGENTE TODO BRILLO ORIGINAL 500 GR,Cuidado del Hogar,Limpieza de la Ropa
+232078,Detergente Polvo Todo Brillo Original 500 gr,Cuidado del Hogar,Limpieza de la Ropa
 232079,LIMPIAPISO TODOBRILLO PLUS FLORAL 1800ML,Cuidado del Hogar,Limpieza de Baños
 232084,Chocolate Para Ti Caja Mimbre Surtido 250 gr,Abarrotes,Chocolates y Caramelos
 232234,Shampoo Classic Manzana 950 ml,Cuidado Personal,Cuidado del Cabello
@@ -11161,6 +11167,7 @@ id_producto,producto,categoria,subcategoria
 317269,Limpiador Desinfectante Jardin Cremoso Lavanda 900 ml,Cuidado del Hogar,Limpieza de Baños
 317659,Leche Classic de Pepino 380 ml,Cuidado Personal,Cuidado de la Piel
 317748,Ambientador Aerosol Arom Jardin Lavanda 360 cm,Cuidado del Hogar,Limpieza de Living y Ropero
+317756,Ambientador Aerosol Arom Frutilla 360 cm,Cuidado del Hogar,Limpieza de Living y Ropero
 317764,Ambientador Aerosol Arom Frescura Citrica 360 cm,Cuidado del Hogar,Limpieza de Living y Ropero
 317810,Ambientador Aerosol Arom Lluvia de Flores 360 cm,Cuidado del Hogar,Limpieza de Living y Ropero
 317829,Ambientador Aerosol Arom Vainilla en Flor 360 cm,Cuidado del Hogar,Limpieza de Living y Ropero
@@ -11650,7 +11657,7 @@ id_producto,producto,categoria,subcategoria
 333963,Labial Maybelline Matte In City 118,Cuidado Personal,Cuidado de la Piel
 333996,Insecticida Tyson Max Mata Todo 500 cm,Cuidado del Hogar,Insecticidas
 333997,Insecticida Tyson Mata Cucaracha Verde 500 cm,Cuidado del Hogar,Insecticidas
-333998,Insecticida Tysoon Mata Mosca Azul,Cuidado del Hogar,Insecticidas
+333998,Insecticida Tyson Mata Mosca Azul,Cuidado del Hogar,Insecticidas
 334065,Te Supremo Hierbas Surtida 20 Sobres,Abarrotes,Café y Sucedáneos
 334079,Galleta Wafer Marilan Frutilla 115 gr,Abarrotes,Galletas
 334090,Te Supremo Matico 20 Sobres,Abarrotes,Café y Sucedáneos
@@ -12024,6 +12031,9 @@ id_producto,producto,categoria,subcategoria
 350750,Pañitos Intimos Nosotras Frescura Extrema 16 un,Cuidado Personal,Cuidado del Adulto
 350760,Jabon Intimo Nivea Cuidado Suave 250 ml,Cuidado Personal,Cuidado del Adulto
 350787,Salsa de Tomate Lazzaroni 200 gr,Abarrotes,Salsas y Extracto de Tomate
+350852,Ambientador Cono Arom Frambuesa 190 gr,Cuidado del Hogar,Limpieza de Living y Ropero
+350855,Ambientador Cono Arom Vainilla Coco 190 gr,Cuidado del Hogar,Limpieza de Living y Ropero
+350856,Ambientador Cono Arom Mnazana Canela 190 gr,Cuidado del Hogar,Limpieza de Living y Ropero
 350992,Shampoo Head Shoulders Old Spice Men 200 ml,Cuidado Personal,Cuidado del Cabello
 351000,Maquina de Afeitar Gillette Venus Divine,Cuidado Personal,Cuidado de la Piel
 351001,Repuesto Maquina de Afeitar Gillette Venus Divine 2 un,Cuidado Personal,Cuidado de la Piel
@@ -20581,7 +20591,7 @@ id_producto,producto,categoria,subcategoria
 660331,BETUN PASTA NEGRA VIRGINIA 80ML,Cuidado del Hogar,Limpieza de Zapatos
 660332,ARCHER LIMPIADOR CREMOSO DESINF. CEDRON,Cuidado del Hogar,Limpieza de Baños
 660333,ARCHER LIMPIADOR CREMOSO DESINF. CEDRON,Cuidado del Hogar,Limpieza de Baños
-660334,DETERGENTE EN POLVO TODO BRILLO LIMON 50,Cuidado del Hogar,Limpieza de la Ropa
+660334,Detergente Polvo Todo Brillo Limon 500 gr,Cuidado del Hogar,Limpieza de la Ropa
 660335,PANO MULTIUSO BRILHEX 28X50  X 5,Cuidado del Hogar,Accesorios del Hogar
 660336,PANO  P/FREGADERO BRILHEX X 3 - 28X30,Cuidado del Hogar,Accesorios del Hogar
 660337,PANO LIMPIEZA LEVE BRILHEX 50X25X3,Cuidado del Hogar,Accesorios del Hogar
@@ -28951,22 +28961,22 @@ id_producto,producto,categoria,subcategoria
 854906,Aceite Oliva Fragata Extra Virgen 1 L,Abarrotes,Productos Importados
 854907,Canasta Ovalada Mediana con Asas,Bazar Importación,Living y Dormitorio
 854908,Canasta Ovalada Pequeña con Asas,Bazar Importación,Living y Dormitorio
-854911,Aceite Fragata Extra Virgen 500 ml,Abarrotes,Básicos
+854911,Aceite Fragata Extra Virgen 500 ml,Abarrotes,Productos Importados
 854928,Espuma Carnavalera Rey Momo 500 ml,Bazar,Temporada Carnaval
 854952,Jarra Medidora 1000 ml,Bazar Importación,Menaje Vidrio/Cristal
 854953,Jarra Medidora 500 ml,Bazar Importación,Menaje Vidrio/Cristal
 854956,CH J5 7 VASO DE VIDRIO LARGO 630ML,Bazar Importación,Menaje Vidrio/Cristal
 854993,JC DISFRAZ SURTIDO DE NINA,Bazar,Temporada Carnaval
-855003,Aceituna Fragata con Pimiento 350 gr,Abarrotes,Verduras en Conserva
+855003,Aceituna Fragata con Pimiento 350 gr,Abarrotes,Productos Importados
 855004,Cojin Color Azul y Blanco 44x44 cm,Bazar Importación,Living y Dormitorio
 855005,Cojin Amarillo 44X44Cm,Bazar Importación,Living y Dormitorio
 855011,CH 53 12 PLANTA ARTIFICIAL HOJAS PARA DECORACION EN MACETA N,Bazar Importación,Regalos/Adornos
 855014,CH 49 1 FLORES ARTIFICIALES EN RAMA COLORES SURTIDOS,Bazar Importación,Regalos/Adornos
-855018,Aceituna Fragata con Salmon 350 gr,Abarrotes,Verduras en Conserva
+855018,Aceituna Fragata con Salmon 350 gr,Abarrotes,Productos Importados
 855019,Flores Artificiales Malus Spectabilis en Rama,Bazar Importación,Regalos/Adornos
 855021,Flores Artificiales Orquidea En Rama 95Cm,Bazar Importación,Regalos/Adornos
 855022,Flores Artificiales Orquidea en Rama 95 cm,Bazar Importación,Regalos/Adornos
-855023,Aceituna Fragata con Anchoa 350 gr,Abarrotes,Verduras en Conserva
+855023,Aceituna Fragata con Anchoa 350 gr,Abarrotes,Productos Importados
 855024,CH 49 9 FLORES ARTIFICIALES EN RAMA 90CM,Bazar Importación,Regalos/Adornos
 855025,CH 45 1 FLORES ARTIFICIALES EN RAMA DALIAS,Bazar Importación,Regalos/Adornos
 855027,Flores Artificiales Lirio Pequeño,Bazar Importación,Regalos/Adornos
@@ -28979,8 +28989,8 @@ id_producto,producto,categoria,subcategoria
 855052,Individual Para Mesa Colores Surtidos 30 x 45,Bazar Importación,Temporada Navidad
 855053,Individual de Mesa Redondo Colores Surtido 38 cm,Bazar Importación,Cocina General
 855087,Set Posa Vaso Redondo 4 un 10 cm,Bazar Importación,Cocina General
-855098,Aceite Oliva Fragata Orujo 1 L,Abarrotes,Básicos
-855107,Aceite Oliva Fragata Pomace 2 L,Abarrotes,Básicos
+855098,Aceite Oliva Fragata Orujo 1 L,Abarrotes,Productos Importados
+855107,Aceite Oliva Fragata Pomace 2 L,Abarrotes,Productos Importados
 855112,Cigarrillo L&M Menthol 20 un,Bebidas,Cigarrillos
 855113,CH 52 04 DH BOWL TERRACOTA CON BORDE BLANCO 8 5X 4 8CM,Bazar Importación,Menaje Porcelana/Cerámica
 855132,Palmito Campo Verde Rodaja 800 gr,Abarrotes,Verduras en Conserva
@@ -30833,7 +30843,7 @@ id_producto,producto,categoria,subcategoria
 892322,AC TEMPERA ESCOLAR X7 COLROES + PINCEL,Bazar,Librería
 892606,Papel Aluminio Diamont,Bazar,Articulos de Cocina
 892735,Galleta Tortitas Black 125 gr,Abarrotes,Galletas
-892755,Aceite Oliva Fragata Orujo 250 ml,Abarrotes,Básicos
+892755,Aceite Oliva Fragata Orujo 250 ml,Abarrotes,Productos Importados
 893639,TR BOWL 16*4 CM  2 PCS SET,Bazar Importación,Menaje Porcelana/Cerámica
 893829,ESPATULA CONFITERO 21162177,Bazar,Articulos de Cocina
 893837,JGO TRINCHE 2PZ TRAMONTINA NATURAL WOOD,Bazar,Churrasquería
@@ -30998,7 +31008,7 @@ id_producto,producto,categoria,subcategoria
 906968,Servilletas Olego Coctel 20 un,Cuidado Personal,Cuidado Familiar
 906969,Servilletas De Cena Olego Pack 20 un,Cuidado Personal,Cuidado Familiar
 907138,Molde Brioche Tramontina,Bazar,Articulos de Cocina
-907211,MOPA NOVICIA ABRASIVO PALO,Cuidado del Hogar,Accesorios del Hogar
+907211,Mopa Abrasivo Con Palo Novicia,Cuidado del Hogar,Accesorios del Hogar
 907213,Secador Piso Grande Bettanin No.126,Cuidado del Hogar,Accesorios del Hogar
 907214,Mopa Novica Bettanin Algodón No.1322,Cuidado del Hogar,Accesorios del Hogar
 907218,Balde Novica Bettanin Con Escurridor,Cuidado del Hogar,Accesorios del Hogar
