@@ -1523,6 +1523,8 @@ id_producto,producto,categoria,subcategoria
 24001,Vape Umo Grape Ice 18000 Puffs,Bebidas,Cigarrillos
 24005,Gelatina Four Loko Shot 248 gr,Bebidas,Licores
 24007,Cereal Kelloggs Corn Flakes 200 gr,Abarrotes,Nutrición Infantil
+24009,Cereal Choconick Chocolate 250 gr,Abarrotes,Nutrición Infantil
+24010,Cereal  Frutinick 7C 250 gr,Abarrotes,Nutrición Infantil
 24016,Hidratante Life Sante Naranja 500 ml sin azucar,Bebidas,Isotónicos
 24017,Hidratante Life Sante Fresa 500 ml sin azucar,Bebidas,Isotónicos
 24018,Gomita Mogul Moras 80 gr,Abarrotes,Golosinas - Varias
@@ -1977,6 +1979,7 @@ id_producto,producto,categoria,subcategoria
 25402,Bebida Flow Chuflay Hard Zalzer 300 ml,Bebidas,Licores
 25403,Bebida Flow Sandia Fresh 473 ml,Bebidas,Licores
 25404,Hidratante Life Inti Uva 500 ml,Bebidas,Isotónicos
+25405,CEREAL CHOCONICK CHOCOLATE DP 700G,Abarrotes,Nutrición Infantil
 25406,Energizante Volt Ponche de Frutas 473 ml,Bebidas,Energizantes
 25407,Chupete Bon Bon Bum Zombie 336 gr,Abarrotes,Chocolates y Caramelos
 25408,Caramelo Colombina Menta Helada 400 gr,Abarrotes,Chocolates y Caramelos
@@ -3924,6 +3927,7 @@ id_producto,producto,categoria,subcategoria
 69141,JUGO ALOE VERA SALUTE ORIGINAL 300ML,Bebidas,Bebidas Varias
 69142,JUGO ALOE VERA SALUTE PINA 300ML,Bebidas,Bebidas Varias
 69143,MERMELADA E LINEA FRAMB SIN AZUC DP 350G,Abarrotes,Dietéticos y Saludables
+69145,CHOCOBISCUIT BAUDUCO LECHE 36GR,Abarrotes,Galletas
 69146,PURE D PAPAS YUSPE BSA 125G,Abarrotes,Básicos
 69147,ACEITUNA VANOLI C MORRON DP 80G,Abarrotes,Verduras en Conserva
 69148,ACEITUNA VANOLI SIN CAROZO DP 80G,Abarrotes,Verduras en Conserva
@@ -3954,8 +3958,10 @@ id_producto,producto,categoria,subcategoria
 69194,BEBIDA MAMBO MOJITO LTA 355ML,Bebidas,Licores
 69195,BEBIDA MAMBO PINA COLADA 355ML,Bebidas,Licores
 69196,BEBIDA MAMBO COCKTAIL SPRITZ 355ML,Bebidas,Licores
+69197,SOPA NISSIN RAMEN CARNE PICANT 85G,Abarrotes,Básicos
 69201,MOJITO URBANO LTA 550ML,Bebidas,Licores
 69202,BEBIDA URBANO BLUE LTA 550ML,Bebidas,Licores
+69203,PACK SALSARETTI PIZZA ACEITUNA CHOCLO,Abarrotes,Salsas y Extracto de Tomate
 69230,Fideo Carozzi Tallarin 87 Espinaca 400 gr,Abarrotes,Básicos
 69248,Lasaña Carozzi Tradicional 400 gr,Abarrotes,Básicos
 69256,Fideo Carozzi Caracoquesos 296 gr,Abarrotes,Básicos
@@ -7161,6 +7167,7 @@ id_producto,producto,categoria,subcategoria
 178632,Papa Chippitas Tradicional 185 gr,Abarrotes,Snack
 179191,Espiral X5 Mata Mosquito 150 gr,Cuidado del Hogar,Insecticidas
 179248,Insecticida X-5 Mata Mosca Mosquito 360 cm,Cuidado del Hogar,Insecticidas
+179256,CUCARACHICIDA X5 280GR,Cuidado del Hogar,Insecticidas
 179264,Franela Amarilla 40X60 Falonber,Cuidado del Hogar,Productos Americanos
 179914,Galleta Golpe Oblea Rellena 25 gr,Abarrotes,Golosinas - Varias
 180092,Vaso de Cristal Capri Soda,Bazar,Menaje Vidrio/Cristal
@@ -9409,7 +9416,7 @@ id_producto,producto,categoria,subcategoria
 231611,DETERGENTE UNO PARAISO TROPICAL 650 GRS,Cuidado del Hogar,Limpieza de la Ropa
 231612,Detergente Polvo Uno Paraiso Tropical 4.7 kg,Cuidado del Hogar,Limpieza de la Ropa
 231615,PACK ELVIVECREMA500+SHHIDRA370ML,Cuidado Personal,Cuidado del Cabello
-231616,PACK ELVIVE CR 500ML 3 EN 1 + SH 370ML G,Cuidado Personal,Cuidado del Cabello
+231616,Pack Elvive Crema Para Peinar 500 ml 3 En 1 + Shampoo 370 ml,Cuidado Personal,Cuidado del Cabello
 231617,Mousse Capilar Dexe Foam Wax Keratin 300 ml,Cuidado Personal,Cuidado del Cabello
 231618,Spray Fijador Capilar Dexe Flex Keratin 420 ml,Cuidado Personal,Cuidado del Cabello
 231619,ESCURRIDOR ALKLIN 60 CM. CON CABO,Cuidado del Hogar,Accesorios del Hogar
@@ -10355,6 +10362,7 @@ id_producto,producto,categoria,subcategoria
 280123,PANO MULTIUSO PERFEX BLANCO X5,Cuidado del Hogar,Accesorios del Hogar
 280131,CEPILLO COLGATE EXTRA CLEAN X1,Cuidado Personal,Cuidado Bucal
 280133,PACK HAIR FOOD PINA SH + MASCARA,Cuidado Personal,Cuidado del Cabello
+280136,PACK MAGIC  LOREAL CASTANO CLARO 40,Cuidado Personal,Cuidado del Cabello
 280140,PACK PANO PANOTEK+ ESPONJA ALKLIN,Cuidado del Hogar,Limpieza de Cocina
 280141,PACK ALKLIN CEPILLO+2ESPONJAS,Cuidado del Hogar,Accesorios del Hogar
 280145,DETERGENTE EN POLVO LIDER MATIC 650 GR,Cuidado del Hogar,Limpieza de la Ropa
@@ -10435,8 +10443,23 @@ id_producto,producto,categoria,subcategoria
 280430,SHAMPOO BALLERINA MANZANILLA DP 350ML,Cuidado Personal,Cuidado del Cabello
 280432,CREMA NIVEA PIEL NORMAL 100ML,Cuidado Personal,Cuidado de la Piel
 280433,TOALLA HIGIENICA CARISSA DIA 10 UNDS,Cuidado Personal,Cuidado Familiar
+280444,PACK ESPUMA DE AFEITAR DR. SELBY 149GR,Cuidado Personal,Cuidado de la Piel
+280445,TIO NACHO SH. HENNA 415 ML,Cuidado Personal,Cuidado del Cabello
+280448,SUAVIZANTE BORITA  TRADICIONAL 3000 ML,Cuidado del Hogar,Limpieza de la Ropa
+280450,SUAVIZANTE BORITA DP SOL 3 LTS,Cuidado del Hogar,Limpieza de la Ropa
+280451,SUAVIZANTE BORITA DP BEBE 3000 ML,Cuidado del Hogar,Limpieza de la Ropa
+280452,TRALALA DESODORANTE KIDS 65 ML,Cuidado del Bebé,Kids
+280453,TRALALA  DESODORANTE SUAVE KIDS 65 ML,Cuidado del Bebé,Kids
 280454,MASC  PESTANAS BODY  WTP VERY BLACK,Cuidado Personal,Cuidado de la Piel
 280455,MASC  PESTANA  BODY  VERY BLACK WSH,Cuidado Personal,Cuidado de la Piel
+280456,CONTORNO SCULPTING STIX HAZY TAUPE 012,Cuidado Personal,Cuidado de la Piel
+280457,CONTORNO SCULPTING DIFFUS MOCHA CONT 04,Cuidado Personal,Cuidado de la Piel
+280458,RUBOR CLOUDTOPIA TWILIGHT BERRY,Cuidado Personal,Cuidado de la Piel
+280459,RUBOR CLOUDTOPIA DIVINE CRIMSON,Cuidado Personal,Cuidado de la Piel
+280460,RUBOR CLOUDTOPIA CORAL ILLUSION,Cuidado Personal,Cuidado de la Piel
+280461,RUBOR CLOUDTOPIA ENCHANT MAUVE,Cuidado Personal,Cuidado de la Piel
+280462,RUBOR CLOUDTOPIA SOLAR SERENITY,Cuidado Personal,Cuidado de la Piel
+280463,CONTORNO SCULPTING STIX BLACK BLUR 016,Cuidado Personal,Cuidado de la Piel
 280512,Crema Nivea 30 ml,Cuidado Personal,Cuidado de la Piel
 281077,Cafe Colcafe Instantaneo Polvo 170 gr,Abarrotes,Café y Sucedáneos
 281703,Galleta Arcor Hogareña 7 Semillas 181 gr,Abarrotes,Galletas
@@ -17398,6 +17421,7 @@ id_producto,producto,categoria,subcategoria
 554075,LIMON DESHID WARAS EN RODAJAS 50 GR,Abarrotes,Frutas en Conserva
 554076,FRUTILLA DESHID WARAS CHOCOLATE 45 GR,Abarrotes,Frutas en Conserva
 554077,VODKA 1825 QUINOA REAL CJA 700 ML,Bebidas,Licores
+554078,BEBIDA CIN PINA PET 3 LT,Bebidas,Bebidas Varias
 554080,SALSA HOT CHIMO BARBACOA PIC PET 140 ML,Abarrotes,Aderezos
 554081,PACK 6 NECTAL DEL SOL 300ML,Bebidas,"Jugos, Néctar"
 554082,PACK 2 PEPSI  2.5 LT,Bebidas,Gaseosas
@@ -17497,6 +17521,9 @@ id_producto,producto,categoria,subcategoria
 554206,CHICLE SPLOT CHICLE ZOMBIE 205 GR,Abarrotes,Temporada
 554224,KETCHUP DEL VALLE PICANTE 410 GR,Abarrotes,Aderezos
 554225,KETCHUP DEL VALLE TRADICIONAL 410 GR,Abarrotes,Aderezos
+554231,CHOCOLATADO IRUPANA CHOCO BROS 400 GR,Abarrotes,Nutrición Infantil
+554237,ATUN SAN LUCAS GRATED ACEITE 165 GR,Abarrotes,Comidas en Conserva
+554238,ATUN SAN LUCAS GRATED AGUA SAL 165 GR,Abarrotes,Comidas en Conserva
 554333,Cerveza Paceña Lata Roja 473 Cc,Bebidas,Cervezas
 554466,Detergente Liquido Ola Futuro Limpieza Completa 5 L,Cuidado del Hogar,Limpieza de la Ropa
 554468,Suavizante Ropa Ola Suavecito Original 5 L,Cuidado del Hogar,Limpieza de la Ropa
@@ -20496,11 +20523,13 @@ id_producto,producto,categoria,subcategoria
 660167,Crema Corporal Lechuga No. 1 100 ml,Cuidado Personal,Cuidado de la Piel
 660169,Crema Corporal Lechuga No. 2 100 ml,Cuidado Personal,Cuidado de la Piel
 660172,LECHE JOJOBA NO. 1,Cuidado Personal,Cuidado de la Piel
+660173,TOALLITAS HUMEDAS CARINOSITOS TH X100,Cuidado del Bebé,Cuidado del Bebé
 660174,CREMA PARA PEINAR NIÑAS 320 GR,Cuidado del Bebé,Kids
 660176,Tratamiento Capilar Belestral Pro Estimulante Y Engrosadora 1000 gr,Cuidado Personal,Cuidado del Cabello
 660177,Tratamiento Capilar Belestral Pro Reparadora 1000 gr,Cuidado Personal,Cuidado del Cabello
 660180,Limpiador Sacagrasa Sapolio Naranja Doypack 500 ml,Cuidado del Hogar,Limpieza de Cocina
 660182,Tratamiento Capilar Belestral Pro Revitalizadora 1000 gr,Cuidado Personal,Cuidado del Cabello
+660183,TOALLITAS HUMEDAS CARINOSITOS TH X50,Cuidado del Bebé,Cuidado del Bebé
 660186,Maquina de Afeitar Schick Piel Delicada Mujer 2 Hojas,Cuidado Personal,Cuidado de la Piel
 660189,Maquina de Afeitar Schick Piel Delicada Mujer 4 Hojas,Cuidado Personal,Cuidado de la Piel
 660192,Maquina de Afeitar Schick Piel Sensible Hombre 2 Hojas,Cuidado Personal,Cuidado de la Piel
@@ -20671,6 +20700,7 @@ id_producto,producto,categoria,subcategoria
 660428,LIMPIA LENTES FANTASTICO 100 ML,Cuidado del Hogar,Limpieza de Living y Ropero
 660429,ANTISARRO FANTASTICO REFILL 860ML,Cuidado del Hogar,Limpieza de Baños
 660430,ANTISARRO FANTASTICO 5L,Cuidado del Hogar,Limpieza de Baños
+660431,ANTISARRO FANTASTICO CON PULVERIZADOR 86,Cuidado del Hogar,Limpieza de Baños
 660432,CREMA LECHUGA CORP HIDRATACION 350 ML,Cuidado Personal,Cuidado de la Piel
 660433,DESMAQUILLANTE OJOS Y ROSTRO BEAUTIK BIF,Cuidado Personal,Cuidado de la Piel
 660434,SERUM FACIAL BEAUTIK ALOE+ACIDO HUALURON,Cuidado Personal,Cuidado de la Piel
@@ -22338,6 +22368,7 @@ id_producto,producto,categoria,subcategoria
 670397,Paneton Bauducco 400 gr,Panadería,Panadería Externa
 670402,Queso Colinas del Sol Madurado Viejo de Apote kg,Lácteos y Derivados,Quesos
 670404,Budin Aguila Black 230 gr,Pastelería y Masas Típicas,Pastelería Externa
+670405,Budin Aguila Mix 230 gr,Pastelería y Masas Típicas,Pastelería Externa
 670407,Paneton Bauducco Chocottone 400 gr,Panadería,Panadería Externa
 670416,Tomate Valenciana Oliva Gourmet 190 gr,Abarrotes,Verduras en Conserva
 670419,Escabeche Valenciana Locoto 200 gr,Abarrotes,Verduras en Conserva
@@ -26916,6 +26947,7 @@ id_producto,producto,categoria,subcategoria
 809931,Timbre Halloween con Luces y Sonido 19x11 cm,Bazar Importación,Temporada Halloween
 809949,BR AZUCARERO PLASTICO SANREMO 350ML,Bazar Importación,Cocina General
 809956,ACONDIC TRALAL KIDS HIDRA 480 ML,Cuidado del Bebé,Kids
+809976,CREMA DE PEINAR TRALALA KIDS 300 ML,Cuidado del Bebé,Kids
 809978,BR PORTA DETERGENTE PLASTICO SANREMO,Bazar Importación,Menaje Plástico
 809980,BR JUEGO TAZA MEDIDORA PLASTICO SANREMO,Bazar Importación,Menaje Plástico
 809984,BR ORGANIZADOR PIA PLASTICO SANREMO,Bazar Importación,Menaje Plástico
@@ -27764,6 +27796,7 @@ id_producto,producto,categoria,subcategoria
 836127,Muñeca de Niña,Juguetería,Juguetería Niña/Bebé
 836359,Filete de Trucha Congelado kg,Congelados,Carnes Congeladas
 836364,Filete Pejerrey Lagos Titicaca kg,Congelados,Carnes Congeladas
+836375,Sombreros Halloween,Bazar,Temporada Halloween
 836460,CI DUCHA ELECTRICA TRAMONTINA TEMP VARIABLE,Bazar,Ferretería
 836631,Jamon Artesanal Stege 1 kg,Fiambres,Fiambres Externos
 836646,Yogurt Pil Bebible Frutilla Bote 1 L,Lácteos y Derivados,Yogures
@@ -28564,10 +28597,14 @@ id_producto,producto,categoria,subcategoria
 848809,TRINCHE CHURRASQUERO 2X1,Bazar,Articulos de Cocina
 848826,Bolsa Zipper Guardar 20 un,Bazar,Articulos de Cocina
 848871,Vincha Murcielagos Negros Halloween 27 x 34 cm,Bazar Importación,Temporada Halloween
+848898,JC.MASCARA CATRINA PLASTICO,Bazar,Temporada Halloween
 848908,Vincha Enfermera 20 x 20 cm,Bazar Importación,Temporada Halloween
 848909,Balde Calabaza Negra Halloween 18 x 17 cm,Bazar Importación,Temporada Halloween
 848925,JC.VELA .5,Bazar,Temporada Halloween
+848934,Sombrero De Pirata Varon Con Cabello Y Parche JC 1 un,Bazar,Temporada Halloween
+848935,JAN ADORNO LUMINOSO HALLOWEN PARED 14,Bazar,Temporada Halloween
 848937,JAN VINCHAS CALABAZAS HOLLEWEN 14,Bazar,Temporada Halloween
+848938,JAN MASCARAS ANIMALES  18,Bazar,Temporada Halloween
 848940,JAN VINCHAS CUERNOS HALLOWEN 14,Bazar,Temporada Halloween
 848944,Galleta Suprema Crackers 1 kg,Abarrotes,Galletas
 849046,CH 7 137 CANDELABRO HALLOWEEN CON LUZ 31X12 5CM,Bazar Importación,Temporada Halloween
@@ -29843,6 +29880,7 @@ id_producto,producto,categoria,subcategoria
 861799,JAN ADORNO GLOBO HALLOWEN  14,Bazar,Temporada Halloween
 861800,JAN GLOBO NUMERO 8,Bazar,Temporada Halloween
 861801,JAN VINCHAS SOMBRERO HALLOWEN 14,Bazar,Temporada Halloween
+861816,JAN LAMPARA HALLOWEN  LUZ 20,Bazar,Temporada Halloween
 861836,PAT RECOGEDOR DE HECES 35,Bazar,Mascotas General
 861838,PAT CEPILLO C/EXPULSOR 55,Bazar,Mascotas General
 861847,PAT BANDEJA ARENERO PLASTICO 60,Bazar,Mascotas General
@@ -30047,6 +30085,12 @@ id_producto,producto,categoria,subcategoria
 866231,Bebida Ice 51 Limon 275 ml,Bebidas,Licores
 866246,Bebida Ice 51 Maracuya 275 ml,Bebidas,Licores
 866253,HIP SET DE FRANELA X 3 UND 78,TEXTILES Y ZAPATOS,ROPA BEBE 0 - 24
+866403,JAN ADORNO CALABEZA ESQUELETO 28,Bazar,Temporada Halloween
+866405,JAN ADORNO ANILLO HALLOWEN  10,Bazar,Temporada Halloween
+866406,JAN  STIKER ROSTRO HALLOWEN 15,Bazar,Temporada Halloween
+866413,JAN ADORNO DE CARTON HALLOWEN  18,Bazar,Temporada Halloween
+866416,JAN COLLAR DE HALLOWEN  13,Bazar,Temporada Halloween
+866418,JAN FALDAS DE HAALLOWEN  45,Bazar,Temporada Halloween
 866480,SOPORTE ROJO P/PAPEL ABSORBENTE UZ,Bazar,Menaje Plástico
 866484,Ron Bacardi Carta Blanca 1750 ml,Bebidas,Licores
 866518,FILM PVC ALPFILM 250X28CM,Bazar,Articulos de Cocina
@@ -30257,7 +30301,10 @@ id_producto,producto,categoria,subcategoria
 869217,JAN CORTINA HALLOWEN  14,Bazar,Temporada Halloween
 869218,Adorno Halloween,Bazar,Temporada Halloween
 869222,JAN MASCARA HALLOWEN  25,Bazar,Temporada Halloween
-869223,JAN MASCARA HALLOWEN SCARI 20,Bazar,Temporada Halloween
+869223,Mascara Halloween Scary,Bazar,Temporada Halloween
+869237,Ambientador Todo Brillo Manzana Canela 50 ml,Bazar,Living y Dormitorio
+869239,Ambientador Todo Brillo Lavanda 50 ml,Bazar,Living y Dormitorio
+869241,Ambientador Todo Brillo Vainilla 50 ml,Bazar,Living y Dormitorio
 869304,JAN  PORTA BOTELLA NAVIDAD  23,Bazar,Temporada Navidad
 869305,Bolsa De Vino Navidad,Bazar,Temporada Navidad
 869306,JAN BOLSA DE VINO NAVIDAD 12,Bazar,Temporada Navidad
@@ -30378,6 +30425,7 @@ id_producto,producto,categoria,subcategoria
 873319,PAT BOLSA P/R HECES MASCOTA MEDIANO 32,Bazar,Mascotas General
 873390,Antifas Carnavaleros 12 Piezas,Bazar,Temporada Carnaval
 873391,JAN  MASCARA INFANTIL  CARNAVAL 10,Bazar,Temporada Carnaval
+873393,JAN DIFRACES DE NINA HALLOWEN 75,Bazar,Temporada Carnaval
 873394,Serpentina,Bazar,Temporada Carnaval
 873481,JAN STIKER DE PARED NAVIDAD 9,Bazar,Temporada Navidad
 873483,Juguete de Mascota 2,Bazar,Mascotas General
@@ -30706,10 +30754,11 @@ id_producto,producto,categoria,subcategoria
 887555,JAN GLOBO FELIZ CUMPLEA¤OS,Bazar,Temporada Halloween
 887562,CA JUGUETE MALETA SET BELLEZA.125,Juguetería,Juguetería Didáctica/Temporada
 887574,JAN VINCHAS HALLOWEN 25,Bazar,Temporada Halloween
+887578,JAN ADORNO GOMA EVA HALLOWEN 10,Bazar,Temporada Halloween
 887580,JAN ADORNO MANO HALLOWEN C LUZ  20,Bazar,Temporada Halloween
 887584,JAN ADORNO FAROL HALLOWEN 14,Bazar,Temporada Halloween
 887587,JAN BALDE HALLOWEN  25,Bazar,Temporada Halloween
-887588,JAN CAPA BRUJA  45,Bazar,Temporada Halloween
+887588,JAN CAPA NINOS BRUJAS HALLOWEN 35,Bazar,Temporada Halloween
 887619,PLATILLO DESECHABLE COPOBRAS X10UND,Bazar,Cotillón
 887621,JAN VINCHAS MALEFICA  28,Bazar,Temporada Halloween
 887630,CARGADOR TELEFONO +PD PLANO HUAVI,Bazar,Telefonía y Accesorios
@@ -30829,6 +30878,7 @@ id_producto,producto,categoria,subcategoria
 892083,JAN BOTAS DE NAVIDAD  14,Bazar,Temporada Navidad
 892084,JAN ADORNO NAVIDAD SILICONA 10,Bazar,Temporada Navidad
 892086,JAN ADORNO TIJERA HALLOWEN  14,Bazar,Temporada Halloween
+892088,JAN ADORNO CANDEL.C/LUZ HALLOWEN 20,Bazar,Temporada Halloween
 892092,JAN ADORNO CARA PAPA NOEL 9,Bazar,Temporada Navidad
 892093,JAN ADORNO METALICO NAVIDAD 16,Bazar,Temporada Navidad
 892094,JAN GUANTES COCINA NAVIDAD 18,Bazar,Temporada Navidad
