@@ -1963,6 +1963,7 @@ id_producto,producto,categoria,subcategoria
 25376,Sal Marina La Autentica 500 gr,Abarrotes,Básicos
 25377,Vino Tabernero Tuyo gran Rose 750 ml,Bebidas,Vinos y Champagne
 25379,Mani Pinzones con Chocolate 100 gr,Abarrotes,Snack
+25381,MANI DORICHIPS C UVA BSA 200G,Abarrotes,Snack
 25382,DULCE DACOLONIA CHOCOLATE C MANI 120G,Abarrotes,Chocolates y Caramelos
 25383,DULCE DACOLONIA CHOCOLATE BLANCO 120G,Abarrotes,Chocolates y Caramelos
 25384,Whisky Royal Label 1 L,Bebidas,Licores
@@ -3934,6 +3935,7 @@ id_producto,producto,categoria,subcategoria
 69150,MASTICABLE FRUIT TELLA MORANGO 40G,Abarrotes,Golosinas - Varias
 69152,MASTICABLE FRUIT TELLA CHERRY 40G,Abarrotes,Golosinas - Varias
 69153,CHUPETE BIG BOM PINTA BOCA 384G,Abarrotes,Chocolates y Caramelos
+69155,CHUPETE BIG BOM SURTIDO 384G,Abarrotes,Chocolates y Caramelos
 69156,MERMELADA E LINEA MORA SIN AZUC 320G,Abarrotes,Dietéticos y Saludables
 69157,ACHACHAIRU BR CONCENTRADO DP 400G,Bebidas,Refrescos en Polvo
 69158,CEREAL SIMSA CHOCOLUS BSA 400G,Abarrotes,Nutrición Infantil
@@ -8237,9 +8239,9 @@ id_producto,producto,categoria,subcategoria
 223791,Detergente Polvo Urca Maxx 5 kg,Cuidado del Hogar,Limpieza de la Ropa
 223792,Pañal Tena Slip Dermacare L 20 un,Cuidado Personal,Cuidado del Adulto
 223798,Escoba Novica Jumbo Esfrebom Escobillon,Cuidado del Hogar,Accesorios del Hogar
-223800,Alcohol Nostas 70% X 1 L,Cuidado Personal,Cuidado de la Piel
-223801,Alcohol Nostas 70% 600 ml,Cuidado Personal,Cuidado de la Piel
-223802,Alcohol Nostas Clorhexidina 2% 1 L,Cuidado Personal,Cuidado de la Piel
+223800,Alcohol Nostas 70% X 1 L,CUDADOS OTC,OTC
+223801,Alcohol Nostas 70% 600 ml,CUDADOS OTC,OTC
+223802,Alcohol Nostas Clorhexidina 2% 1 L,CUDADOS OTC,OTC
 223803,Alcohol Nostas Clorhexidina 2 % 600 ml,Cuidado Personal,Cuidado de la Piel
 223804,Protector de Cama Prudential 20 un,Cuidado Personal,Cuidado del Adulto
 223805,Pañuelo Facial Elite Aloe Vera 4 un,Cuidado Personal,Cuidado Familiar
@@ -9537,6 +9539,7 @@ id_producto,producto,categoria,subcategoria
 231769,LIMPIA PISO MAXIBRILL ULTRA ENERGIA 900,Cuidado del Hogar,Limpieza de Baños
 231771,LIMPIA PISO MAXIBRILL ULTRA BOSQUE 6 LTS,Cuidado del Hogar,Limpieza de Baños
 231772,LIMPIA PISO MAXIBRILL ULTRA BOSQUE 1800,Cuidado del Hogar,Limpieza de Baños
+231774,MAXIBRILL LIMPIA PISO ULTRA SERENIDAD 6,Cuidado del Hogar,Limpieza de Baños
 231775,LIMPIA PISO MAXIBRILL ULTRA  LAVANDA1800,Cuidado del Hogar,Limpieza de Baños
 231777,LIMPIA PISO MAXIBRILL ULTRA  ALEGRA DIA,Cuidado del Hogar,Limpieza de Baños
 231778,LIMPIA PISO MAXIBRILL ULTRA ALEGRA DIA 9,Cuidado del Hogar,Limpieza de Baños
@@ -9629,6 +9632,7 @@ id_producto,producto,categoria,subcategoria
 232006,Gaseosa Conti Guarana 350 ml,Bebidas,Gaseosas
 232007,Gaseosa Conti Cola 350 ml,Bebidas,Gaseosas
 232039,ESMALTE EFECTO GEL CACAO,Cuidado Personal,Cuidado de la Piel
+232042,ESMALTE EFECTO GEL PLACER,Cuidado Personal,Cuidado de la Piel
 232043,ESMALTE EFECTO GEL AVELLANA,Cuidado Personal,Cuidado de la Piel
 232044,Gin Tonica Du Royale 275 Ml,Bebidas,Licores
 232046,ESMALTE EFECTO GEL  MOCHA,Cuidado Personal,Cuidado de la Piel
@@ -10409,6 +10413,7 @@ id_producto,producto,categoria,subcategoria
 280193,BETUM LIQ CAFE  TODO BRILLO 70 ML,Cuidado del Hogar,Limpieza de Zapatos
 280200,SET ESPONJA VIRULIN BONNY X3 UNI.,Cuidado del Hogar,Accesorios del Hogar
 280201,TRIPACK HUGGIES LIMPIEZA DIARIA 3X112 UN,Cuidado del Bebé,Cuidado del Bebé
+280202,PANO ALKLIN LAVAPLATO 28X30,Cuidado del Hogar,Accesorios del Hogar
 280203,ESPONJA  ESFREBOM LIMPIEZA EXTREMA X4UND,Cuidado del Hogar,Accesorios del Hogar
 280204,ESPONJA ACERO INOX. ESFREBOM 1X3,Cuidado del Hogar,Accesorios del Hogar
 280205,ESPONJA MAGICA ESFREBON 1,Cuidado del Hogar,Accesorios del Hogar
@@ -14625,6 +14630,7 @@ id_producto,producto,categoria,subcategoria
 506082,CEPILLO DENTAL CONDOR PLUS 3X2 RF8108-0,Cuidado Personal,Cuidado Bucal
 506083,Cepillo Dental Condor Dinossaur 3173-0,Cuidado del Bebé,Kids
 506086,Cepillo Dental Condor Galinha 3161-3,Cuidado del Bebé,Kids
+506087,Cangrejo Crab Meat Roland 170 gr,Abarrotes,Productos Americanos
 506088,Cepillo Dental Condor Lilica Repilica 2 3167,Cuidado del Bebé,Kids
 506089,Cepillo Dental Condor Lilica Repilica 3 3170,Cuidado del Bebé,Kids
 506090,Cepillo Dental Condor Lilica Repilica Junior 3160,Cuidado del Bebé,Kids
@@ -14691,6 +14697,7 @@ id_producto,producto,categoria,subcategoria
 516112,Energizante Monster Green 473 ml,Bebidas,Energizantes
 516119,Cafe Excell 100% Puro 250 gr,Abarrotes,Café y Sucedáneos
 516139,Fideo Don Vittorio Codo 400 gr,Abarrotes,Básicos
+516201,Camaron Pelado Roland Lata 200 gr,Abarrotes,Productos Americanos
 516211,Jabon Barra Harmony Fruity Limon 150 gr,Cuidado Personal,Cuidado de la Piel
 516236,Sal El Salerito Yodofluorarada 600 gr,Abarrotes,Básicos
 516260,Salchicha Extralarga Hipermaxi 1 kg,Fiambres,Fiambres Hipermaxi
@@ -17422,6 +17429,7 @@ id_producto,producto,categoria,subcategoria
 554076,FRUTILLA DESHID WARAS CHOCOLATE 45 GR,Abarrotes,Frutas en Conserva
 554077,VODKA 1825 QUINOA REAL CJA 700 ML,Bebidas,Licores
 554078,BEBIDA CIN PINA PET 3 LT,Bebidas,Bebidas Varias
+554079,BEBIDA CIN MANZANA PET 3 LT,Bebidas,Bebidas Varias
 554080,SALSA HOT CHIMO BARBACOA PIC PET 140 ML,Abarrotes,Aderezos
 554081,PACK 6 NECTAL DEL SOL 300ML,Bebidas,"Jugos, Néctar"
 554082,PACK 2 PEPSI  2.5 LT,Bebidas,Gaseosas
@@ -19492,6 +19500,7 @@ id_producto,producto,categoria,subcategoria
 654278,Limpiador de Baño Procenex con Gatillo 500 ml,Cuidado del Hogar,Limpieza de Baños
 654297,PANO P/LIMPIEZA LEVE ALKLIN 33X50,Cuidado del Hogar,Accesorios del Hogar
 654299,PANO P/LIMPIEZA LEVE AZUL ALKLIN 33X50,Cuidado del Hogar,Accesorios del Hogar
+654302,FRANELA ALKLIN AMARILLA 28*38,Cuidado del Hogar,Accesorios del Hogar
 654304,Cepillo Alklin Multiuso con Cabo,Cuidado del Hogar,Accesorios del Hogar
 654328,Toallas Humedas Panolini Aloe Vera 20 un,Cuidado del Bebé,Cuidado del Bebé
 654330,Limpiador de Baño Ola Maximus 5 L,Cuidado del Hogar,Limpieza de Baños
@@ -20745,6 +20754,7 @@ id_producto,producto,categoria,subcategoria
 660560,SH SIN SAL PALTA DP 18X350ML,Cuidado Personal,Cuidado del Cabello
 660561,AC MANZANILLA DP 18X350ML,Cuidado Personal,Cuidado del Cabello
 660562,PACK AHORRO LIMPIEZA   SURTIDO,Cuidado del Hogar,Limpieza de Living y Ropero
+660571,BRILLINA CERA CREMA TIERRA COLOR SASHET,Cuidado del Hogar,Limpieza de Living y Ropero
 660711,Galleta Noel Octagonal Surtida 260 gr,Abarrotes,Temporada
 660852,Te Frutte Laxte 20 Sobres,Abarrotes,Café y Sucedáneos
 661150,Insecticida Tableta Raid Mata Mosquito Doble Accion 24 un,Cuidado del Hogar,Productos Americanos
@@ -24350,6 +24360,7 @@ id_producto,producto,categoria,subcategoria
 674982,CU¥APIZZA ABIZCOCHADOS  SABOR NAPOLITANA,Pastelería y Masas Típicas,Masas Típicas Externas
 674983,CU¥APIZZA ABIZCOCHADO SABOR FUGAZZETTA 1,Pastelería y Masas Típicas,Masas Típicas Externas
 674986,JAMON PIZZERO SOFIA KILOGRAMO,Fiambres,Fiambres Externos
+674988,PALETA MONACO MOCA COB CHOCOLATE 115ML,Congelados,"Helados, Cassattas y Picoleses"
 675011,CHORIZO CERVECERO SOFIA A GRANEL KGR,Fiambres,Fiambres Externos
 675012,MAPLE DE HUEVO ROLON 30 NIDADES GRANEL,Lácteos y Derivados,Huevos
 675245,Miel de Abeja Eva Promiel 250 gr,Abarrotes,"Mermel, Mieles"
