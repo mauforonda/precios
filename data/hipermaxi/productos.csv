@@ -692,6 +692,7 @@ id_producto,producto,categoria,subcategoria
 14361,Gaseosa Schweppes Ginger Ale 990 ml,Bebidas,Gaseosas
 14364,Vino Napoleon Syrah 750 ml,Bebidas,Vinos y Champagne
 14365,Agua Tonica Schweppers 990 ml,Bebidas,Bebidas Varias
+14369,Hongos Porcini Foresta Oro Deshidraatado 20 gr,Abarrotes,Verduras en Conserva
 14375,Bom Bon Billiken Frutales Classic 350 gr,Abarrotes,Chocolates y Caramelos
 14381,Aceituna Nucete Relleno Jalapeño 330 gr,Abarrotes,Verduras en Conserva
 14382,Pure de Tomate Arcor 210 gr,Abarrotes,Salsas y Extracto de Tomate
@@ -3726,6 +3727,7 @@ id_producto,producto,categoria,subcategoria
 60024,GALLETA RELL TITA CHOCOL BLACK 132G,Abarrotes,Galletas
 60025,GALLETA RELL TITA VAINILLA 132G,Abarrotes,Galletas
 60026,GALLETA RELL TITA FRUTILLA 132G,Abarrotes,Galletas
+60027,CEREAL MFS FRUTINICK DP 700G,Abarrotes,Nutrición Infantil
 60028,MANI PINZONES C CHOCOLATE DP 220G,Abarrotes,Chocolates y Caramelos
 60038,GOMITA YUMMY FRUTILLA C CREMA 150G,Abarrotes,Golosinas - Varias
 60039,GOMITA YUMMY SANDIA BSA 500G,Abarrotes,Golosinas - Varias
@@ -3775,6 +3777,7 @@ id_producto,producto,categoria,subcategoria
 60091,LIFE TEA DURAZNO ZERO AZUC PET 500ML,Bebidas,Bebidas Varias
 60092,LIFE TEA FRUTOS ROJOS PET 500ML,Bebidas,Bebidas Varias
 60094,MEZCLA PRINCESA PANCAKE AVENA SIN AZUC 3,Abarrotes,Repostería
+60095,MEZCLA PRINCESA PANCAKE AVENA TRADIC 300,Abarrotes,Repostería
 60097,VINO LOPEZ CHATEAU CHARDONNAY GR 750ML,Bebidas,Vinos y Champagne
 60098,VINO LOPEZ DULCE NATURAL BCO 750 ML,Bebidas,Vinos y Champagne
 60099,VINO LOPEZ SAUVIGNON BLANC 750ML,Bebidas,Vinos y Champagne
@@ -7603,6 +7606,7 @@ id_producto,producto,categoria,subcategoria
 210056,CAFE ALTOMAYO INSTANT GOURMET DP 140G,Abarrotes,Café y Sucedáneos
 210057,CAFE ALTOMAYO INSTANT GOURMET FCO 170G,Abarrotes,Café y Sucedáneos
 210059,CAFE ALTOMAYO INSTANT ARMONICO FCO 170G,Abarrotes,Café y Sucedáneos
+210061,CAFE ALTOMAYO INSTANT GOURMET FCO 45G,Abarrotes,Café y Sucedáneos
 210062,ENERGIZANTE RUSH MUNDIAL LTA 269ML,Bebidas,Energizantes
 210064,LICOR CRISTALINO CHAIRU PREMIUM 750ML,Bebidas,Licores
 210065,GALLETA MABEL CREMOSITAS MAX 216 GR,Abarrotes,Galletas
@@ -16956,6 +16960,7 @@ id_producto,producto,categoria,subcategoria
 553331,Bebida Cin Canela 3 L,Bebidas,Bebidas Varias
 553332,Bebida Cin Coco 3 L,Bebidas,Bebidas Varias
 553333,Bebida Cin Linaza 3 L,Bebidas,Bebidas Varias
+553334,Bebida Cin Chicha Morada 3 L,Bebidas,Bebidas Varias
 553335,LECHE NIDO CRECIM 1 DP 2KG,Abarrotes,Nutrición Infantil
 553336,Leche En Polvo De Sesamo Fit Mit Pote 500 gr,Abarrotes,Nutrición Infantil
 553337,Leche En Polvo De Almendra Fit Mit Pote 500 gr,Abarrotes,Nutrición Infantil
@@ -17529,6 +17534,7 @@ id_producto,producto,categoria,subcategoria
 554206,CHICLE SPLOT CHICLE ZOMBIE 205 GR,Abarrotes,Temporada
 554224,KETCHUP DEL VALLE PICANTE 410 GR,Abarrotes,Aderezos
 554225,KETCHUP DEL VALLE TRADICIONAL 410 GR,Abarrotes,Aderezos
+554226,VAPE UMO  WATERMELON ICE 12K 5P,Bebidas,Cigarrillos
 554231,CHOCOLATADO IRUPANA CHOCO BROS 400 GR,Abarrotes,Nutrición Infantil
 554237,ATUN SAN LUCAS GRATED ACEITE 165 GR,Abarrotes,Comidas en Conserva
 554238,ATUN SAN LUCAS GRATED AGUA SAL 165 GR,Abarrotes,Comidas en Conserva
@@ -18833,6 +18839,8 @@ id_producto,producto,categoria,subcategoria
 629901,CHUPETE BOLLIPOP BONART 11 GR,Abarrotes,Productos Americanos
 629917,PAPAS FRITAS SUN CHIPS SABOR CHEEDAR 67.3GR,Abarrotes,Productos Americanos
 629918,PAPAS FRITAS SUN CHIPS SABOR SALSA JARDIN 67.3 GR,Abarrotes,Productos Americanos
+629922,MOSTAZA HEINZ NATURAL 794GR,Abarrotes,Productos Americanos
+629923,SALSA BARBECUE HEINZ 970GR,Abarrotes,Productos Americanos
 630010,Alimento Pedigree Cachorro 1.5 kg,Abarrotes,Mascotas
 630011,Gaseosa Crush Piña 355 ml,Bebidas,Bebidas Usa
 630012,Cereal Kelloggs Cocoa Krispies 439 gr,Abarrotes,Productos Americanos
@@ -19650,7 +19658,7 @@ id_producto,producto,categoria,subcategoria
 655492,Jugo Aloe Vera Savia Frutilla 1500 ml,Bebidas,Bebidas Varias
 655493,Albahaca Carmencita 10 gr,Abarrotes,Condimentos y Legumbres
 655495,Cebolla Carmencita Polvo 35 gr,Abarrotes,Condimentos y Legumbres
-655502,ESPECIAS P/COCKTAIL S GIN&TONIC DISPLAY,Abarrotes,Condimentos y Legumbres
+655502,Especias Para Cocktails Gin & Tonic Carmencita 50 gr,Abarrotes,Condimentos y Legumbres
 655505,Hierbas Carmencita Provenzales 18 gr,Abarrotes,Condimentos y Legumbres
 655508,Pimienta Carmencita Blanca,Abarrotes,Condimentos y Legumbres
 655509,Pimienta Negra Carmencita Grano 47 gr,Abarrotes,Condimentos y Legumbres
@@ -20729,6 +20737,7 @@ id_producto,producto,categoria,subcategoria
 660453,AQUANET GRANDE 14OZ (397G),Cuidado Personal,Cuidado del Cabello
 660454,AQUANET MEDIANO 5OZ (140G),Cuidado Personal,Cuidado del Cabello
 660455,AQUANET 4OZ (110G),Cuidado Personal,Cuidado del Cabello
+660456,FIJADOR DE CABELLO TOUGH GUARD (660ML),Cuidado Personal,Cuidado del Cabello
 660457,PANO PISO  Q BRILLE BLANCO 60X90,Cuidado del Hogar,Accesorios del Hogar
 660459,3 ESPONJAS SCOTCH BRITE X4+POTE,Cuidado del Hogar,Accesorios del Hogar
 660460,CEPILLO PLANCHA MULTIUSO,Cuidado del Hogar,Accesorios del Hogar
@@ -20748,6 +20757,7 @@ id_producto,producto,categoria,subcategoria
 660536,BIPACK KOTEX FEMENINA DIA Y NOCHE,Cuidado Personal,Cuidado Familiar
 660537,BIPACK KOTEX FEMENINA ULTRAFINA + MAXI P,Cuidado Personal,Cuidado Familiar
 660539,DOVE SERUM CORP FIRME PRO RETINOL 400ML,Cuidado Personal,Cuidado de la Piel
+660541,TEATRICAL COREANO 100 GR.,Cuidado Personal,Cuidado de la Piel
 660548,Cafe Copacabana Exportado Tostado 250 gr,Abarrotes,Café y Sucedáneos
 660557,AC GRANADA +AH DP 18X350ML,Cuidado Personal,Cuidado del Cabello
 660559,AC SIN SAL PALTA 18X350ML,Cuidado Personal,Cuidado del Cabello
@@ -25517,7 +25527,7 @@ id_producto,producto,categoria,subcategoria
 764875,Pan con Ajo Santa Elena Precocido 2 un,Panadería,Panadería Externa
 764879,SANTA SOYA IDEAL SAB.CHOCOLATE 300 ML.,Lácteos y Derivados,Leches
 764893,PIERNA CON CUERO CONG.AL VACIO SFIA KG.,Congelados,Carnes Congeladas
-764897,ESP.PAN MOLDE INTEGRAL T.AMERICANO HIPERMAXI 560 GR.,Panadería,Panadería Especialidades Hipermaxi
+764897,Pan Molde Tipo Americano Hipermaxi Integral,Panadería,Panadería Especialidades Hipermaxi
 764954,FINGERS ESTILO AMERICANO SOFIA 500 GRS.,Congelados,Carnes Congeladas
 765024,Magdalenas Paris 10 un,Panadería,Panadería Externa
 765136,PALETAS DE ASAI BIOFOOD CAJA X 8 UND.,Congelados,"Helados, Cassattas y Picoleses"
@@ -28611,6 +28621,7 @@ id_producto,producto,categoria,subcategoria
 848898,JC.MASCARA CATRINA PLASTICO,Bazar,Temporada Halloween
 848908,Vincha Enfermera 20 x 20 cm,Bazar Importación,Temporada Halloween
 848909,Balde Calabaza Negra Halloween 18 x 17 cm,Bazar Importación,Temporada Halloween
+848924,JAN LAMPARA DE HALLOWEN 14,Bazar,Temporada Halloween
 848925,JC.VELA .5,Bazar,Temporada Halloween
 848934,Sombrero De Pirata Varon Con Cabello Y Parche JC 1 un,Bazar,Temporada Halloween
 848935,JAN ADORNO LUMINOSO HALLOWEN PARED 14,Bazar,Temporada Halloween
