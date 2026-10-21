@@ -2669,7 +2669,7 @@ id_producto,producto,categoria,subcategoria
 30472,Salsa Kris Golf 200 cm,Abarrotes,Aderezos
 30473,Jugo La Granja Durazno 2 L,Bebidas,"Jugos, Néctar"
 30474,Jugo La Granja Manzana 2 L,Bebidas,"Jugos, Néctar"
-30475,Jugo La Granja Naranja 2 L,Bebidas,"Jugos, Néctar"
+30475,Jugo De La Granja Naranja 2 L,Bebidas,"Jugos, Néctar"
 30476,Jugo La Granja Manzana 3 L,Bebidas,"Jugos, Néctar"
 30477,Jugo La Granja Naranja 3 L,Bebidas,"Jugos, Néctar"
 30478,Biscoito Nestle Chocolate 90 gr,Abarrotes,Chocolates y Caramelos
@@ -3876,7 +3876,11 @@ id_producto,producto,categoria,subcategoria
 66818,Papa Pringles Crema Cebolla 124 gr,Abarrotes,Snack
 67001,CHUPETE BONBONBUM SURTIDO BOTE 1680G,Abarrotes,Chocolates y Caramelos
 67003,GASEOSA MENDOCINA LIMA LIMON 300ML,Bebidas,Gaseosas
+67013,GALLETA MARILAN ROSQUINA INTEGRAL 300G,Abarrotes,Dietéticos y Saludables
+67014,GALLETA MARILAN TORTINHA MARACUYA 300G,Abarrotes,Galletas
 67020,Cigarrillo Marlboro Ice Xpres 20 un,Bebidas,Cigarrillos
+67027,GALLETA MARILAN MAIZENA INTEGRAL 300G,Abarrotes,Dietéticos y Saludables
+67029,CARAMELO DORI GOTA COLA BSA 100G,Abarrotes,Chocolates y Caramelos
 67030,SOPA INSTANT AL TOKE CAMARON VASO 65G,Abarrotes,Básicos
 67031,SOPA INSTANT AL TOKE CARNE VASO 65G,Abarrotes,Básicos
 67033,SOPA INSTANT AL TOKE POLLO VASO 65G,Abarrotes,Básicos
@@ -3938,6 +3942,7 @@ id_producto,producto,categoria,subcategoria
 69150,MASTICABLE FRUIT TELLA MORANGO 40G,Abarrotes,Golosinas - Varias
 69152,MASTICABLE FRUIT TELLA CHERRY 40G,Abarrotes,Golosinas - Varias
 69153,CHUPETE BIG BOM PINTA BOCA 384G,Abarrotes,Chocolates y Caramelos
+69154,CHUPETE BIG BOM FRESA 384G,Abarrotes,Chocolates y Caramelos
 69155,CHUPETE BIG BOM SURTIDO 384G,Abarrotes,Chocolates y Caramelos
 69156,MERMELADA E LINEA MORA SIN AZUC 320G,Abarrotes,Dietéticos y Saludables
 69157,ACHACHAIRU BR CONCENTRADO DP 400G,Bebidas,Refrescos en Polvo
@@ -7605,6 +7610,7 @@ id_producto,producto,categoria,subcategoria
 210055,SAN BITTER PALMENIA 1LT,Bebidas,Licores
 210056,CAFE ALTOMAYO INSTANT GOURMET DP 140G,Abarrotes,Café y Sucedáneos
 210057,CAFE ALTOMAYO INSTANT GOURMET FCO 170G,Abarrotes,Café y Sucedáneos
+210058,CAFE ALTOMAYO INSTANT CLASICO FCO 170G,Abarrotes,Café y Sucedáneos
 210059,CAFE ALTOMAYO INSTANT ARMONICO FCO 170G,Abarrotes,Café y Sucedáneos
 210061,CAFE ALTOMAYO INSTANT GOURMET FCO 45G,Abarrotes,Café y Sucedáneos
 210062,ENERGIZANTE RUSH MUNDIAL LTA 269ML,Bebidas,Energizantes
@@ -10469,6 +10475,7 @@ id_producto,producto,categoria,subcategoria
 280461,RUBOR CLOUDTOPIA ENCHANT MAUVE,Cuidado Personal,Cuidado de la Piel
 280462,RUBOR CLOUDTOPIA SOLAR SERENITY,Cuidado Personal,Cuidado de la Piel
 280463,CONTORNO SCULPTING STIX BLACK BLUR 016,Cuidado Personal,Cuidado de la Piel
+280469,PACK NINET CLASICA X 30 UNID,Cuidado del Bebé,Cuidado del Bebé
 280512,Crema Nivea 30 ml,Cuidado Personal,Cuidado de la Piel
 281077,Cafe Colcafe Instantaneo Polvo 170 gr,Abarrotes,Café y Sucedáneos
 281703,Galleta Arcor Hogareña 7 Semillas 181 gr,Abarrotes,Galletas
@@ -10884,6 +10891,8 @@ id_producto,producto,categoria,subcategoria
 310396,CHIPILOS DULCE CORONADO BSA 200G,Abarrotes,Snack
 310398,CERVEZA BURGUESA 47 BOT 330ML,Bebidas,Cervezas
 310399,CERVEZA BURGUESA 47 LTA 350ML,Bebidas,Cervezas
+310400,MAIZ FRITO AVATI S QUESO BSA 80G,Abarrotes,Snack
+310401,MAIZ FRITO AVATI MOSTAZ MIEL BSA 80G,Abarrotes,Snack
 310402,GOMITA DOCILE JELLY BEANS SURTIDO 80G,Abarrotes,Golosinas - Varias
 310403,GOMITA DOCILE MIX DIVERTIDO BSA 80G,Abarrotes,Golosinas - Varias
 310404,GOMITA DOCILE UNICORNIO BSA 80G,Abarrotes,Golosinas - Varias
@@ -17287,7 +17296,7 @@ id_producto,producto,categoria,subcategoria
 553799,Sal Kollita con Picante 460 gr,Abarrotes,Básicos
 553800,Sal Kollita con Ablandador 460 gr,Abarrotes,Básicos
 553801,PACK 6 ENERGIZANTE RAPTOR 350 ML,Bebidas,Energizantes
-553803,Jugo La granja Pomelo  Pet 2 L,Bebidas,"Jugos, Néctar"
+553803,Jugo De La Granja Pomelo 2 L,Bebidas,"Jugos, Néctar"
 553804,FIDEO DON MAXIMO CARACOLITO 400 GR,Abarrotes,Básicos
 553805,FIDEO DON MAXIMO ARITO 400 GR,Abarrotes,Básicos
 553806,SNOT CANDY NOVA SNACK 30 GR,Abarrotes,Productos Americanos
@@ -17456,7 +17465,7 @@ id_producto,producto,categoria,subcategoria
 554099,MANGO EN ALMIBAR CHIMORE LONJAS 860 GR,Abarrotes,Frutas en Conserva
 554100,MANGO EN ALMIBAR CHIMORE TROZOS 860 GR,Abarrotes,Frutas en Conserva
 554101,PALMITO CHIMORE  TROZOS 400 GR,Abarrotes,Verduras en Conserva
-554102,GALLETA LA FRANCESA MINI SUCREMA 220 GR,Abarrotes,Galletas
+554102,GALLETITA FRANCESA DULCE MINI SUCREMA 22,Abarrotes,Galletas
 554103,CREMA COFFEE MATE 15 OZ,Abarrotes,Productos Americanos
 554104,SALSA PICANTE VALENTINA 150 ML,Abarrotes,Productos Americanos
 554105,ALIMENTO NEGRITO MAX PERRO ADULTO 3 KG,Abarrotes,Mascotas
@@ -17503,7 +17512,7 @@ id_producto,producto,categoria,subcategoria
 554163,GALLETAS RONDITA CHOCOL FRUTILL 240G,Abarrotes,Galletas
 554164,GALLETA RONDITAS VAINILLA CHOCOL 240G,Abarrotes,Galletas
 554165,Gaseosa Ghost Face Fanta 500 ml,Bebidas,Gaseosas
-554166,JUGO LA GRANJA MANDARINA PET 2 LT,Bebidas,"Jugos, Néctar"
+554166,Jugo De La Granja Mandarina 2 L,Bebidas,"Jugos, Néctar"
 554167,MERMELADA REYNA FRUTILLA POTE 200G,Abarrotes,"Mermel, Mieles"
 554171,MASTICABLE YOGURTE FRESA BSA 500 GR,Abarrotes,Chocolates y Caramelos
 554173,MASTICABLES LOKINO BSA 400 GR,Abarrotes,Chocolates y Caramelos
@@ -24373,6 +24382,7 @@ id_producto,producto,categoria,subcategoria
 674988,PALETA MONACO MOCA COB CHOCOLATE 115ML,Congelados,"Helados, Cassattas y Picoleses"
 675011,CHORIZO CERVECERO SOFIA A GRANEL KGR,Fiambres,Fiambres Externos
 675012,MAPLE DE HUEVO ROLON 30 NIDADES GRANEL,Lácteos y Derivados,Huevos
+675016,PACK SALCHICHAS ZAMPO¤A TORITO (2 PIEZAS),Fiambres,Fiambres Externos
 675245,Miel de Abeja Eva Promiel 250 gr,Abarrotes,"Mermel, Mieles"
 675948,SALCHICHA VIENA DON PIOTR 500GRS VACIO,Fiambres,Fiambres Externos
 675949,SALCHICHA BOCK DON PIOTR 500GRS VACIO,Fiambres,Fiambres Externos
@@ -25352,6 +25362,7 @@ id_producto,producto,categoria,subcategoria
 761458,YUCA PRE COCIDA CONGELADA CORTE BASTON P,Congelados,Masas y Comidas Congeladas
 761469,PACK YOGURELLO FRUTILLA X12 CON ESTUCHERA,Lácteos y Derivados,Yogures
 761475,PACK YOGURELLO X12 CON ESTUCHERA,Lácteos y Derivados,Yogures
+761479,LECHE FRESCA DEL CAMPO 800 ML. BOLSA,Lácteos y Derivados,Leches
 761486,Huevos Aranjuez Economico Subsidio 18 un,Lácteos y Derivados,Huevos
 761487,CUNAPE ABIZCOCHADO CRUJITOS 90 GRS.,Pastelería y Masas Típicas,Masas Típicas Externas
 761519,Pulpa Congelada Mattafah Surtido 500 gr,Congelados,Pulpas y Frutas Congeladas
@@ -28625,7 +28636,7 @@ id_producto,producto,categoria,subcategoria
 848925,JC.VELA .5,Bazar,Temporada Halloween
 848934,Sombrero De Pirata Varon Con Cabello Y Parche JC 1 un,Bazar,Temporada Halloween
 848935,JAN ADORNO LUMINOSO HALLOWEN PARED 14,Bazar,Temporada Halloween
-848937,JAN VINCHAS CALABAZAS HOLLEWEN 14,Bazar,Temporada Halloween
+848937,JAN VINCHAS FELIZ CUMPLEA¤OS    4,Bazar,Temporada Halloween
 848938,JAN MASCARAS ANIMALES  18,Bazar,Temporada Halloween
 848940,JAN VINCHAS CUERNOS HALLOWEN 14,Bazar,Temporada Halloween
 848944,Galleta Suprema Crackers 1 kg,Abarrotes,Galletas
@@ -29902,6 +29913,7 @@ id_producto,producto,categoria,subcategoria
 861799,JAN ADORNO GLOBO HALLOWEN  14,Bazar,Temporada Halloween
 861800,JAN GLOBO NUMERO 8,Bazar,Temporada Halloween
 861801,JAN VINCHAS SOMBRERO HALLOWEN 14,Bazar,Temporada Halloween
+861814,JAN MASCARA HALLOWEN 21,Bazar,Temporada Halloween
 861816,JAN LAMPARA HALLOWEN  LUZ 20,Bazar,Temporada Halloween
 861836,PAT RECOGEDOR DE HECES 35,Bazar,Mascotas General
 861838,PAT CEPILLO C/EXPULSOR 55,Bazar,Mascotas General
@@ -30110,9 +30122,16 @@ id_producto,producto,categoria,subcategoria
 866403,JAN ADORNO CALABEZA ESQUELETO 28,Bazar,Temporada Halloween
 866405,JAN ADORNO ANILLO HALLOWEN  10,Bazar,Temporada Halloween
 866406,JAN  STIKER ROSTRO HALLOWEN 15,Bazar,Temporada Halloween
+866409,JAN GLOBOS LATEX ROJO,Bazar,Temporada Halloween
+866410,JAN JUG HUEVO SORPRESA 12,Bazar,Temporada Halloween
+866411,JAN PIRANA HALLOWEN  14,Bazar,Temporada Halloween
 866413,JAN ADORNO DE CARTON HALLOWEN  18,Bazar,Temporada Halloween
+866414,JAN JUGU.MUNECOS  HALLOWEN  120,Bazar,Temporada Halloween
 866416,JAN COLLAR DE HALLOWEN  13,Bazar,Temporada Halloween
+866417,JAN ALAS DE HALLOWEN  25,Bazar,Temporada Halloween
 866418,JAN FALDAS DE HAALLOWEN  45,Bazar,Temporada Halloween
+866420,JAN HIELERA DE HALLOWEN  99,Bazar,Temporada Halloween
+866421,JAN COPA DE HALLOWEN 14,Bazar,Temporada Halloween
 866480,SOPORTE ROJO P/PAPEL ABSORBENTE UZ,Bazar,Menaje Plástico
 866484,Ron Bacardi Carta Blanca 1750 ml,Bebidas,Licores
 866518,FILM PVC ALPFILM 250X28CM,Bazar,Articulos de Cocina
@@ -30778,7 +30797,9 @@ id_producto,producto,categoria,subcategoria
 887574,JAN VINCHAS HALLOWEN 25,Bazar,Temporada Halloween
 887578,JAN ADORNO GOMA EVA HALLOWEN 10,Bazar,Temporada Halloween
 887580,JAN ADORNO MANO HALLOWEN C LUZ  20,Bazar,Temporada Halloween
+887583,JAN ADORNO ARANA HALLOWEN 14,Bazar,Temporada Halloween
 887584,JAN ADORNO FAROL HALLOWEN 14,Bazar,Temporada Halloween
+887586,JAN BALDE HALLOWEN .18,Bazar,Temporada Halloween
 887587,JAN BALDE HALLOWEN  25,Bazar,Temporada Halloween
 887588,JAN CAPA NINOS BRUJAS HALLOWEN 35,Bazar,Temporada Halloween
 887619,PLATILLO DESECHABLE COPOBRAS X10UND,Bazar,Cotillón
