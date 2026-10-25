@@ -29,4 +29,15 @@ jobs:
           git config --global user.email "precios-bot@example.com"
           git config --global user.name "precios-bot"
           git add -A
-          git diff --quiet && git diff --staged --quiet || (git commit -m "[ci] fidalga + farmacorp: $(date '+%Y-%m-%d')"; git push -q "https://$GH_TOKEN@github.com/mauforonda/precios.git" master)
+          if ! git diff --cached --quiet; then
+            git commit -m "[ci] fidalga + farmacorp: $(date '+%Y-%m-%d')"
+            for attempt in 1 2 3; do
+              git pull --rebase origin master
+              if git push -q "https://$GH_TOKEN@github.com/mauforonda/precios.git" HEAD:master; then
+                exit 0
+              fi
+              echo "Push failed on attempt $attempt; retrying after syncing with master."
+            done
+            echo "Push failed after 3 attempts." >&2
+            exit 1
+          fi
