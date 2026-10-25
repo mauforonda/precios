@@ -3672,6 +3672,7 @@ id_producto,producto,categoria,subcategoria
 50042,GALLETA DIVELLA CHOCOLATE 400G,Abarrotes,Galletas
 50066,Salsa Mr.Olive Pepinillo Mostaza 355 ml,Abarrotes,Productos Americanos
 50075,Gin Tanqueray Bot 750 ml,Bebidas,Licores
+50082,Crountons Cesar New York Garlic Butter 142 gr,Abarrotes,Productos Americanos
 50096,MASTICABLE FINI TUBES MORANGO ACIDO 20 G,Abarrotes,Golosinas - Varias
 50106,Champiñon Isamar Entero 425 gr,Abarrotes,Verduras en Conserva
 50145,Bacalao A La Vizcaina Dani 108 gr,Abarrotes,Comidas en Conserva
@@ -3783,11 +3784,13 @@ id_producto,producto,categoria,subcategoria
 60090,LIFE TEA FRUTO ROJOS ZERO AZUC PET 500ML,Bebidas,Bebidas Varias
 60091,LIFE TEA DURAZNO ZERO AZUC PET 500ML,Bebidas,Bebidas Varias
 60092,LIFE TEA FRUTOS ROJOS PET 500ML,Bebidas,Bebidas Varias
+60093,ALMIDON YUCA NUTRIFOODS BSA 400G,Abarrotes,Básicos
 60094,MEZCLA PRINCESA PANCAKE AVENA SIN AZUC 3,Abarrotes,Repostería
 60095,MEZCLA PRINCESA PANCAKE AVENA TRADIC 300,Abarrotes,Repostería
 60097,VINO LOPEZ CHATEAU CHARDONNAY GR 750ML,Bebidas,Vinos y Champagne
 60098,VINO LOPEZ DULCE NATURAL BCO 750 ML,Bebidas,Vinos y Champagne
 60099,VINO LOPEZ SAUVIGNON BLANC 750ML,Bebidas,Vinos y Champagne
+60102,MAIZ PIPOCA NUTRIFOODS BSA 250G,Abarrotes,Snack
 60103,MANI TOSTADO MAYA SIN CASCARA 130G,Abarrotes,Snack
 60104,SEMILLA D GIRASOL 3PIBES DP 250G,Abarrotes,Snack
 60106,SEMILLA D GIRASOL 3PIBES DP 130G,Abarrotes,Snack
@@ -3886,6 +3889,7 @@ id_producto,producto,categoria,subcategoria
 67013,GALLETA MARILAN ROSQUINA INTEGRAL 300G,Abarrotes,Dietéticos y Saludables
 67014,GALLETA MARILAN TORTINHA MARACUYA 300G,Abarrotes,Galletas
 67020,Cigarrillo Marlboro Ice Xpres 20 un,Bebidas,Cigarrillos
+67026,SINGANI DONA VITA ETIQ NEGRA 750ML,Bebidas,Licores
 67027,GALLETA MARILAN MAIZENA INTEGRAL 300G,Abarrotes,Dietéticos y Saludables
 67028,GOMITA DELIKET BEANS FRUTA SURTIDA 70G,Abarrotes,Golosinas - Varias
 67029,CARAMELO DORI GOTA COLA BSA 100G,Abarrotes,Chocolates y Caramelos
@@ -3894,13 +3898,17 @@ id_producto,producto,categoria,subcategoria
 67033,SOPA INSTANT AL TOKE POLLO VASO 65G,Abarrotes,Básicos
 67038,PACK 1GALLETA FRAC 1GOMITA 90G,Abarrotes,Galletas
 67041,PACK CAFE MONACO 200G 2TETRA 330 1TAZA,Abarrotes,Café y Sucedáneos
+67042,PATITAS D POLLO PODIUM DESHID DP 100G,Abarrotes,Mascotas
+67045,VINO KOHLBERG ICONO QUERKUS 750ML,Bebidas,Vinos y Champagne
 67047,Achocolatado Instant Kriskao 1 kg,Abarrotes,Nutrición Infantil
+67055,TRAQUEA D CERDO PODIUM DESHID DP 100G,Abarrotes,Mascotas
 67063,VERMUT YERBASANTA ANDINO BCO 750ML,Bebidas,Licores
 67064,VERMUT YERBASANTA ROSSO AMAZ 750ML,Bebidas,Licores
 67096,Te Frutte Jengibre Limon Miel 20 Sobres,Abarrotes,Café y Sucedáneos
 67097,Te Frutte Gengibre Miel 20 Sobres,Abarrotes,Café y Sucedáneos
 67117,Achocolatado Chocolyne Splenda 200 gr,Abarrotes,Nutrición Infantil
 67130,Mermelada Smuckers Sweet Oranje 18 oz,Abarrotes,Productos Americanos
+67187,Crountons Cesar New York Ensalada 142 gr,Abarrotes,Productos Americanos
 67190,Vinagre Balsamico Divella 500 ml,Abarrotes,Básicos
 67520,Leche de Soya Norland Saborizada 1 L,Lácteos y Derivados,Leches
 67547,Leche de Soya Nordland Chocolate 160 ml,Lácteos y Derivados,Leches
@@ -5626,6 +5634,7 @@ id_producto,producto,categoria,subcategoria
 111701,Repelente Moskitoff Locion 200 ml,Cuidado Personal,Cuidado de la Piel
 111702,Repelente Moskitoff Aerosol 165 ml,Cuidado Personal,Cuidado de la Piel
 111703,Repelente Moskitff Locion Kids 100 ml,Cuidado del Bebé,Kids
+111705,REPELENTE MOSKITOFF LOCION KIDS 200 ML.,Cuidado del Bebé,Kids
 111800,Desodorante Aerosol Deo Pies Clinical Recamier 260 ml,Cuidado Personal,Cuidado de la Piel
 111831,Desodorante Gel Old Spice Antitraspirante Fresh 80 gr,Cuidado Personal,Cuidado de la Piel
 111832,Desodorante Gel Old Spice Antitraspirante Pure Sport 80 gr,Cuidado Personal,Cuidado de la Piel
@@ -6023,6 +6032,7 @@ id_producto,producto,categoria,subcategoria
 115555,Franela Hipertex Naranja Surtido 35X40 Cm,Cuidado del Hogar,Accesorios del Hogar
 115602,Shampoo Dove Men Sport 400 ml,Cuidado Personal,Cuidado del Cabello
 115603,Desodorante Rexona Odorono 60 gr,Cuidado Personal,Cuidado de la Piel
+115701,GALLETA L FRANCESA SURTIDA PESEBRE 450G,Abarrotes,Galletas
 115707,Jugo Del Valle Fresh 3 L,Bebidas,"Jugos, Néctar"
 115710,Galleta Oreo Mini 40 gr,Abarrotes,Golosinas - Varias
 115777,Pack Cerveza Prost Weiss 2 Botella + Vaso,Bebidas,Cervezas
@@ -10312,6 +10322,7 @@ id_producto,producto,categoria,subcategoria
 266043,Jabon Liquido Aval Flor Manzana 400 ml,Cuidado Personal,Cuidado de la Piel
 266051,Jabon Liquido Aval Lavanda Francesa 400 ml,Cuidado Personal,Cuidado de la Piel
 266280,Jabon Barra Asepxia Exfoliante 100 gr,Cuidado Personal,Cuidado de la Piel
+266388,Gel Asepxia Imperfecciones 28 gr,Cuidado Personal,Cuidado de la Piel
 266469,Queso Tilsit Flor de Leche Dietetico kg,Lácteos y Derivados,Quesos
 267341,Toallas Humeda Babysec X-Suave 50 un,Cuidado del Bebé,Cuidado del Bebé
 267384,Bloqueador Solar Leblon Kids Bubble Gum Fps50 X 190 g,Cuidado del Bebé,Kids
@@ -10472,6 +10483,8 @@ id_producto,producto,categoria,subcategoria
 280433,TOALLA HIGIENICA CARISSA DIA 10 UNDS,Cuidado Personal,Cuidado Familiar
 280444,PACK ESPUMA DE AFEITAR DR. SELBY 149GR,Cuidado Personal,Cuidado de la Piel
 280445,TIO NACHO SH. HENNA 415 ML,Cuidado Personal,Cuidado del Cabello
+280446,TIO NACHO SH. HENNA 950,Cuidado Personal,Cuidado del Cabello
+280447,TIO NACHO SH. HENNA 1L,Cuidado Personal,Cuidado del Cabello
 280448,SUAVIZANTE BORITA  TRADICIONAL 3000 ML,Cuidado del Hogar,Limpieza de la Ropa
 280450,SUAVIZANTE BORITA DP SOL 3 LTS,Cuidado del Hogar,Limpieza de la Ropa
 280451,SUAVIZANTE BORITA DP BEBE 3000 ML,Cuidado del Hogar,Limpieza de la Ropa
@@ -10491,6 +10504,9 @@ id_producto,producto,categoria,subcategoria
 280470,DEINFECT AROMA Y DEO ROCIO NAVIDAD  360,Cuidado del Hogar,Limpieza de Living y Ropero
 280476,PACK NOSOTRAS DIARIO NORM 100 2X1,Cuidado Personal,Cuidado Familiar
 280477,PROTECTORE DIARIO PRECIS 15 UNDS,Cuidado Personal,Cuidado Familiar
+280479,TOALLA HIG PRECIS FINA ANSORBENTE 10 UND,Cuidado Personal,Cuidado Familiar
+280488,PANAL PLUSEC ADULTO G 8X10 UNDS,Cuidado Personal,Cuidado del Adulto
+280489,PANAL PLUSSEC ADUTO XG 8X10 UNDS,Cuidado Personal,Cuidado del Adulto
 280490,PANAL PLUSSEC ADULTO M 8X10 UNDS,Cuidado Personal,Cuidado del Adulto
 280491,TOALLAS HUMEDA MAMI 24X48 UNID,Cuidado del Bebé,Cuidado del Bebé
 280492,TOALLA HUMEDA MI BEBE 24X48 UNID,Cuidado del Bebé,Cuidado del Bebé
@@ -11290,6 +11306,7 @@ id_producto,producto,categoria,subcategoria
 321351,CHOCOLATE TABOACA C AMARANTO TAB 100G,Abarrotes,Chocolates y Caramelos
 321352,CHOCOLATE TABOADA FRUTILLA TAB 100G,Abarrotes,Chocolates y Caramelos
 321353,CHOCOLATE BCO TABOADA C FRUTILLA TAB 100,Abarrotes,Chocolates y Caramelos
+321354,KETCHUP HEINZ TOMATE 32 OZ,Abarrotes,Productos Americanos
 321355,CHOCOLATE TABOADA C NARANJA TAB 100G,Abarrotes,Chocolates y Caramelos
 321357,Vodka Rajska Tridestilada 1 L,Bebidas,Licores
 321358,Vino Concha Y Toro Reservado Frutal Melon 750 ml,Bebidas,Vinos y Champagne
@@ -11356,8 +11373,10 @@ id_producto,producto,categoria,subcategoria
 321984,LIMPIA PISO TODOBRILLO PLUS ORG 5LT,Cuidado del Hogar,Limpieza de Baños
 321985,DETERGENTE TODOBRILLO GOLD 9.5KG,Cuidado del Hogar,Limpieza de la Ropa
 321986,DETERGENTE ASTRO FLORAL 710 GR,Cuidado del Hogar,Limpieza de la Ropa
+321987,TIO NACHO SH 2 EN 1 CASPA PROP 415 ML,Cuidado Personal,Cuidado del Cabello
 321988,Shampoo Tio Nacho Keratina 415 ml,Cuidado Personal,Cuidado del Cabello
 321989,Shampoo Tio Nacho Keratina 950 ml,Cuidado Personal,Cuidado del Cabello
+321991,Shampoo Tio Nacho 2 En 1 Anticaspa 950 ml,Cuidado Personal,Cuidado del Cabello
 321992,Acondicionador Tío Nacho Keratina 415 ml,Cuidado Personal,Cuidado del Cabello
 321993,TEATRICAL COREANO 200G,Cuidado Personal,Cuidado de la Piel
 322101,Vino Casillero del Diablo Red Blend Reserva 750 ml,Bebidas,Vinos y Champagne
@@ -14155,6 +14174,7 @@ id_producto,producto,categoria,subcategoria
 466674,Toallas Higienicas Nosotras Con Alas Tela Pack 8 un,Cuidado Personal,Cuidado Familiar
 466817,Pañal Para Adulto Tena Slip Talla L Unisex Pack 16 un,Cuidado Personal,Cuidado del Adulto
 466841,Toallas Para Incontinencia Tena Discreet Extra Absorción Pack 8 un,Cuidado Personal,Cuidado del Adulto
+466881,PANAL TENA SLIP ULTRA PROTEC L 4X20,Cuidado Personal,Cuidado del Adulto
 466882,MIEL D ABEJA TERBOL PROPOLEO 230G,Abarrotes,"Mermel, Mieles"
 466884,MIEL D ABEJA TERBOL LIMON C PROPOLEO 230,Abarrotes,"Mermel, Mieles"
 466885,MIEL D ABEJA TERBOL C JENGIBRE 230G,Abarrotes,"Mermel, Mieles"
@@ -17558,6 +17578,7 @@ id_producto,producto,categoria,subcategoria
 554199,GOMITA AMBROSOLI AMBROSAURIOS 90G,Abarrotes,Golosinas - Varias
 554200,CHOCOL CALABAZA PINT BOSA VERDE 65G,Abarrotes,Temporada
 554201,Chocolate Pint Boca Amarilla Chocol Calabaza 65 gr,Abarrotes,Temporada
+554202,Chocolate Pint Boca Azul Chocol Calabaza 65 gr,Abarrotes,Temporada
 554203,Chocolate Breick Pint Boca Rojo 65 gr,Abarrotes,Temporada
 554204,SNACK SALADIX PIZZA 23 GR.,Abarrotes,Snack
 554206,CHICLE SPLOT CHICLE ZOMBIE 205 GR,Abarrotes,Temporada
@@ -18006,7 +18027,7 @@ id_producto,producto,categoria,subcategoria
 600627,Te Akbar Lavender Herbal 25 gr,Abarrotes,Café y Sucedáneos
 600629,Te Akbar Earl Grey 100 gr,Abarrotes,Café y Sucedáneos
 600645,Ron Flor de Caña Gold 18 Años 750 ml,Bebidas,Licores
-600650,Chocolate Breick Calabaza 100 gr,Abarrotes,Temporada
+600650,Chocolate Breick Calavera 100 gr,Abarrotes,Temporada
 600651,Ron Flor de Caña Gran Reserva 7 Años 750 ml,Bebidas,Licores
 600655,Ron Flor de Caña Black 5 Años 1750 ml,Bebidas,Licores
 600661,Ron Flor de Caña Oro 4 Años 1750 ml,Bebidas,Licores
@@ -18193,7 +18214,7 @@ id_producto,producto,categoria,subcategoria
 614858,Ajo Saboryn Molido 30 gr,Abarrotes,Condimentos y Legumbres
 615100,Sal Lobos Fina 1000 gr,Abarrotes,Básicos
 615360,Agua Tonica Polar Quinina Natural 1 L,Bebidas,Bebidas Usa
-615361,SNACK PRETZEL CRISPS BUFFALO WINGS 204GR,Abarrotes,Productos Americanos
+615361,Pretzels Buffalo Wings Snack Factory 204 gr,Abarrotes,Productos Americanos
 615362,Pretzel Crispis Galic Parm Snack Factory 204 gr,Abarrotes,Productos Americanos
 615575,Bloqueador Bahia Faces Spf 90 x 120 ml,Cuidado Personal,Cuidado de la Piel
 615578,Pomada Multifrost 100 gr,Cuidado Personal,Cuidado de la Piel
@@ -18380,7 +18401,7 @@ id_producto,producto,categoria,subcategoria
 617723,Chocolate Breick Cobertura Amargo 250 gr,Abarrotes,Chocolates y Caramelos
 617733,Pasankalla Tucucas Crispy Chips 160 gr,Abarrotes,Snack
 617734,Pasankalla Tucucas Crispy Chips 400 gr,Abarrotes,Snack
-617735,Galleta Mabel Surtido Especial 380 gr,Abarrotes,Galletas
+617735,Galleta Mabel Surtido Especial 360 gr,Abarrotes,Galletas
 617736,Galleta Mabel Surtido Especial 230 gr,Abarrotes,Galletas
 617759,Galleta Chispitas Rubal 350 gr,Abarrotes,Galletas
 617760,Cereal Kris Azucaraditas 900 gr,Abarrotes,Nutrición Infantil
@@ -18806,7 +18827,7 @@ id_producto,producto,categoria,subcategoria
 629789,Bebida Happy Vibes Piña Colada 1 L,Bebidas,Bebidas Usa
 629790,Cereal Kelloggs Red Berries 323 gr,Abarrotes,Productos Americanos
 629791,Cereal Crumbl Chispas Chocolate Kelloggs 357 g,Abarrotes,Productos Americanos
-629794,Cereal Oreo Puffs 283 g,Abarrotes,Productos Americanos
+629794,Cereal Oreo Puffs 283 gr,Abarrotes,Productos Americanos
 629805,Tajin Clasico Con Limon 142 gr,Abarrotes,Productos Americanos
 629806,TAJIN CLASICO C/LIMON REDUCIDO EN SODIO 142GR,Abarrotes,Productos Americanos
 629807,GENERAL MILLS LUCKY CHARMS MARSHMALLOW 652GR,Abarrotes,Productos Americanos
@@ -19654,6 +19675,7 @@ id_producto,producto,categoria,subcategoria
 655255,Pasta Dental Colgate Smile 75 ml,Cuidado del Bebé,Kids
 655268,Chocolate Costa Rolls Crispy 130 gr,Abarrotes,Chocolates y Caramelos
 655289,Fideo Carozzi Caracoquesos Pizza 296 gr,Abarrotes,Básicos
+655300,BON O BON COCO 270 GR,Abarrotes,Chocolates y Caramelos
 655306,Te Akbar Earl Grey Lata 100 gr,Abarrotes,Café y Sucedáneos
 655307,Te Akbar English Breakfast Lata 100 gr,Abarrotes,Café y Sucedáneos
 655308,Te Akbar Gold Lata 100 gr,Abarrotes,Café y Sucedáneos
@@ -20796,6 +20818,9 @@ id_producto,producto,categoria,subcategoria
 660560,SH SIN SAL PALTA DP 18X350ML,Cuidado Personal,Cuidado del Cabello
 660561,AC MANZANILLA DP 18X350ML,Cuidado Personal,Cuidado del Cabello
 660562,PACK AHORRO LIMPIEZA   SURTIDO,Cuidado del Hogar,Limpieza de Living y Ropero
+660567,BRILLINA CERA CREMA AMARILLA SASHET 480M,Cuidado del Hogar,Limpieza de Living y Ropero
+660569,BRILLINA CERA CREMA ROJA SASHET 480ML X1,Cuidado del Hogar,Limpieza de Living y Ropero
+660570,BRILLINA CERA CREMA INCOLORA SASHET 480M,Cuidado del Hogar,Limpieza de Living y Ropero
 660571,BRILLINA CERA CREMA TIERRA COLOR SASHET,Cuidado del Hogar,Limpieza de Living y Ropero
 660711,Galleta Noel Octagonal Surtida 260 gr,Abarrotes,Temporada
 660852,Te Frutte Laxte 20 Sobres,Abarrotes,Café y Sucedáneos
@@ -24104,6 +24129,7 @@ id_producto,producto,categoria,subcategoria
 674564,QUESO MOZZARELLA NOELIA BARRA KGR,Lácteos y Derivados,Quesos
 674568,CHOCOMILK LA PURITA UHT 110ML,Lácteos y Derivados,Leches
 674569,PURICHOC LA PURITA 110ML,Lácteos y Derivados,Leches
+674570,LECHE CON AVENA LA PURITA 110ML,Lácteos y Derivados,Leches
 674571,GALLETA QUINUA NARANJA VALECA 200GRS,Pastelería y Masas Típicas,Pastelería Externa
 674572,GALLETA AVENA Y YOGURT VALECA 200GRS,Pastelería y Masas Típicas,Pastelería Externa
 674573,CHIPS SESAMO Y ESPINACA VALECA 60GRS,Pastelería y Masas Típicas,Pastelería Externa
@@ -24393,6 +24419,9 @@ id_producto,producto,categoria,subcategoria
 674965,BIZCOCHO DE CHOCOLATE OVOPLUS BOLSA 10 UNIDADES,Pastelería y Masas Típicas,Pastelería Externa
 674966,HAMBURGUESAS DE TRUCHA TITIKAKA 2 UNI 180 GRS,Congelados,Carnes Congeladas
 674968,NESKRAFT QUESO SANDWICHERO LAMINADO 140GRS,Lácteos y Derivados,Quesos
+674971,PALITOS CON QUINUA CEAB 12UNI,Pastelería y Masas Típicas,Pastelería Externa
+674972,PALITOS CON SESAMO CEAB 12UNI,Pastelería y Masas Típicas,Pastelería Externa
+674973,PALITOS CON CHIA CEAB 12NI,Pastelería y Masas Típicas,Pastelería Externa
 674975,HELADO PALETA DELIZIA TENTACION CLASICO 100ML,Congelados,"Helados, Cassattas y Picoleses"
 674976,PAN MOLDE INTEGRAL SANTONIO MASA MADRE 550GR,Panadería,Panadería Externa
 674978,PAN DULCE BUDIN TRADICIONAL SANTONIO 200GRS,Pastelería y Masas Típicas,Pastelería Externa
@@ -24471,6 +24500,7 @@ id_producto,producto,categoria,subcategoria
 676843,Papa Crujipap Mediterranea 53 gr,Abarrotes,Snack
 676844,Papa Crujipap Pimenton 53 gr,Abarrotes,Snack
 676859,Cola de Res kg,Carnes,Carne de Res
+676889,PANETONE ANIVERSARIO 1KGR LA FRANCESA,Panadería,Panadería Externa
 676894,Charque San Borja Envase Grande Taper 150 gr,Carnes,Carnes Procesadas
 676896,Chaque San Borja Pequeño 50 gr,Carnes,Carnes Procesadas
 676897,Trucha Entera Congelada Titikaka kg,Congelados,Carnes Congeladas
@@ -25579,6 +25609,7 @@ id_producto,producto,categoria,subcategoria
 765823,ALFAJOR HELADO BOB 16X62GR. ARCOR,Congelados,"Helados, Cassattas y Picoleses"
 765836,Huevos Avicola Paurito Subsidio 15 un,Lácteos y Derivados,Huevos
 765845,HELADO COFLER DDL 16X63GR. ARCOR,Congelados,"Helados, Cassattas y Picoleses"
+765863,MINI HELADITOS MOGUL EXTREME X20 UND.,Congelados,"Helados, Cassattas y Picoleses"
 765872,Pan con Linaza y Sesamo Nasway 6 un,Panadería,Panadería Externa
 765874,Huevos Avicola Paurito Subsidio 18 un,Lácteos y Derivados,Huevos
 765876,Mantequilla Repostera Sin Sal Da Gusto 1 kg,Lácteos y Derivados,Mantequillas y Margarinas
@@ -26522,6 +26553,7 @@ id_producto,producto,categoria,subcategoria
 795413,Dulce de Leche En Linea Plus con Stevia 380 gr,Lácteos y Derivados,Dulces de Leche y Manjares
 795427,Dulce de Leche En Linea Sin Lactosa Sin Azucar 380 gr,Lácteos y Derivados,Dulces de Leche y Manjares
 795451,Sazonador Goya Salad Vegetable 1.41 oz,Abarrotes,Condimentos y Legumbres
+795478,DESECHABLE DIAMOND AIR FRYER 20X20CM,Bazar,Articulos de Cocina
 795580,Gaseosa Fanta Strawberry 355 ml,Bebidas,Bebidas Usa
 795621,Nuggets Dino Sofia 500 gr,Congelados,Carnes Congeladas
 795635,Manjar Blanco La Florida Premium 450 gr,Lácteos y Derivados,Dulces de Leche y Manjares
@@ -29715,6 +29747,7 @@ id_producto,producto,categoria,subcategoria
 858324,Galleta La Francesa Salvado 500 gr,Abarrotes,Galletas
 858327,BRA BOTELLA TOMATODO SPORT BLANCO 350ML,Bazar Importación,Menaje Plástico
 858335,CP ARANDANO DESHIDRATADO 1 KG,Granos y Hortalizas,A GRANEL E INSUFLADOS
+858339,WAFER LA FRANCESA CHOCOLATE 230G,Abarrotes,Galletas
 858358,CP ALMENDRA ENTERA 1 KG,Frutas y Verduras,GRANOS
 858364,Vino Concha y Toro Reservado Merlot 750 Ml,Bebidas,Vinos y Champagne
 858375,Zapallo Picado 1 Kg,Granos y Hortalizas,Hortalizas Delifresh
@@ -31068,6 +31101,7 @@ id_producto,producto,categoria,subcategoria
 902523,Azucarera Rey Imperial,Bazar,Articulos de Cocina
 902604,Esponja Scotch Brite Easy Eraser 2 un,Cuidado del Hogar,Accesorios del Hogar
 902620,Paño Scotch Brite Para Pisos,Cuidado del Hogar,Accesorios del Hogar
+903257,USA BOLSA P/PAVOS REYNOLD 482X596 MM),Bazar,Articulos de Cocina
 903486,Juego de Colgadores de Ropa 12 un,Bazar,Living y Dormitorio
 903520,Panquequera Tramontina Loreton 22 cm,Bazar,Articulos de Cocina
 903906,Vela Roja,Bazar,Living y Dormitorio
