@@ -3895,7 +3895,7 @@ id_producto,producto,categoria,subcategoria
 67029,CARAMELO DORI GOTA COLA BSA 100G,Abarrotes,Chocolates y Caramelos
 67030,SOPA INSTANT AL TOKE CAMARON VASO 65G,Abarrotes,Básicos
 67031,SOPA INSTANT AL TOKE CARNE VASO 65G,Abarrotes,Básicos
-67033,SOPA INSTANT AL TOKE POLLO VASO 65G,Abarrotes,Básicos
+67033,SOPA INSTANT AL TOKE POLLO VASO 65G,Abarrotes,Básicos
 67038,PACK 1GALLETA FRAC 1GOMITA 90G,Abarrotes,Galletas
 67041,PACK CAFE MONACO 200G 2TETRA 330 1TAZA,Abarrotes,Café y Sucedáneos
 67042,PATITAS D POLLO PODIUM DESHID DP 100G,Abarrotes,Mascotas
@@ -7609,6 +7609,7 @@ id_producto,producto,categoria,subcategoria
 210018,VAPE WAKA SOLO2 STRAWB KIWI 3500PUF,Bebidas,Cigarrillos
 210026,MAYONESA TRADICIONAL CEPERA PET 200G,Abarrotes,Aderezos
 210027,KETCHUP TRADICIONAL CEPERA PET 210G,Abarrotes,Aderezos
+210029,BEBIDA GANESHA GIN FRUTOS ROJOS 2LT,Bebidas,Licores
 210030,CERVEZA CORONA CERO BOT 330ML,Bebidas,Cervezas
 210031,ACEITUNA NUCETE RELL LIMON FCO 330G,Abarrotes,Verduras en Conserva
 210032,ACEITUNA NUCETE VERDE SIN CAROZ DP 220G,Abarrotes,Verduras en Conserva
@@ -10392,6 +10393,7 @@ id_producto,producto,categoria,subcategoria
 280114,JABON ARTHE COCO AVENA 85 GR,Cuidado Personal,Cuidado de la Piel
 280115,JABON ARTHE COCO MACADAMIA 85 G,Cuidado Personal,Cuidado de la Piel
 280117,BODY SPLASH FARMAX SANDIA 190 ML,Cuidado Personal,Cuidado de la Piel
+280118,BODY SPLASH FARMAX  MARACUYA 190 ML,Cuidado Personal,Cuidado de la Piel
 280119,CEPILLO CONDOR DYNAMIC 2PACK 8121,Cuidado Personal,Cuidado Bucal
 280120,CEPILLO DENTAL CONDOR HW 8260 2PACK,Cuidado Personal,Cuidado Bucal
 280121,CEPILLO DENT CONDOR HW KIT +5 ANOS 8370,Cuidado Personal,Cuidado Bucal
@@ -10502,9 +10504,11 @@ id_producto,producto,categoria,subcategoria
 280463,CONTORNO SCULPTING STIX BLACK BLUR 016,Cuidado Personal,Cuidado de la Piel
 280469,PACK NINET CLASICA X 30 UNID,Cuidado del Bebé,Cuidado del Bebé
 280470,DEINFECT AROMA Y DEO ROCIO NAVIDAD  360,Cuidado del Hogar,Limpieza de Living y Ropero
+280475,GUANTES DE GOMA DOMESTICOS TOTES  XL,Cuidado del Hogar,Accesorios del Hogar
 280476,PACK NOSOTRAS DIARIO NORM 100 2X1,Cuidado Personal,Cuidado Familiar
 280477,PROTECTORE DIARIO PRECIS 15 UNDS,Cuidado Personal,Cuidado Familiar
 280479,TOALLA HIG PRECIS FINA ANSORBENTE 10 UND,Cuidado Personal,Cuidado Familiar
+280480,TOALLA HIG PRECIS NOCTURNA ULTRA 8UNDS,Cuidado Personal,Cuidado Familiar
 280488,PANAL PLUSEC ADULTO G 8X10 UNDS,Cuidado Personal,Cuidado del Adulto
 280489,PANAL PLUSSEC ADUTO XG 8X10 UNDS,Cuidado Personal,Cuidado del Adulto
 280490,PANAL PLUSSEC ADULTO M 8X10 UNDS,Cuidado Personal,Cuidado del Adulto
@@ -10923,6 +10927,7 @@ id_producto,producto,categoria,subcategoria
 310390,LICOR D CAFE BUEN AMIGO BOT 1LT,Bebidas,Licores
 310394,PACK WAFER MUNDIAL 6X100G 4VASOS,Abarrotes,Galletas
 310396,CHIPILOS DULCE CORONADO BSA 200G,Abarrotes,Snack
+310397,CAFE ILLY IPERESPRESSO INTENSO 18 CAPS,Abarrotes,Café y Sucedáneos
 310398,CERVEZA BURGUESA 47 BOT 330ML,Bebidas,Cervezas
 310399,CERVEZA BURGUESA 47 LTA 350ML,Bebidas,Cervezas
 310400,MAIZ FRITO AVATI S QUESO BSA 80G,Abarrotes,Snack
@@ -17587,6 +17592,7 @@ id_producto,producto,categoria,subcategoria
 554226,VAPE UMO  WATERMELON ICE 12K 5P,Bebidas,Cigarrillos
 554231,CHOCOLATADO IRUPANA CHOCO BROS 400 GR,Abarrotes,Nutrición Infantil
 554232,CHOCOLATADO IRUPANA CHOCO BROS 200 GR,Abarrotes,Nutrición Infantil
+554234,WAFLES LA FRANCESA VAINILLA 230 GR,Abarrotes,Galletas
 554237,ATUN SAN LUCAS GRATED ACEITE 165 GR,Abarrotes,Comidas en Conserva
 554238,ATUN SAN LUCAS GRATED AGUA SAL 165 GR,Abarrotes,Comidas en Conserva
 554333,Cerveza Paceña Lata Roja 473 Cc,Bebidas,Cervezas
@@ -20619,8 +20625,8 @@ id_producto,producto,categoria,subcategoria
 660229,Shampoo Sedal Toque De Seda 190 ml,Cuidado Personal,Cuidado del Cabello
 660230,Desodorante En Aerosol Dove Intensive Care Y Frambuesa Pack 2 un 150 ml,Cuidado Personal,Cuidado de la Piel
 660231,Mascarilla De Tratamiento Sedal Toque De Seda 300 gr,Cuidado Personal,Cuidado del Cabello
-660234,Serum Oleo Capilar Sedal Toque De Seda 60 ml,Cuidado Personal,Cuidado del Cabello
-660235,Serum Capilar Sedal Toque De Seda 100 ml,Cuidado Personal,Cuidado del Cabello
+660234,Serum Oleo Capilar Sedal Toque De Seda 60 ml,Cuidado Personal,Cuidado de la Piel
+660235,Serum Capilar Sedal Toque De Seda 100 ml,Cuidado Personal,Cuidado de la Piel
 660236,Shampoo Carissa Anticaspa Doypack 750 ml,Cuidado Personal,Cuidado del Cabello
 660246,Shampoo Classic For Men Sin Sal 950 ml,Cuidado Personal,Cuidado del Cabello
 660247,SHAMPOO CLASSIC ARGAN Y MACADAMIA 950 ML,Cuidado Personal,Cuidado del Cabello
@@ -20647,6 +20653,7 @@ id_producto,producto,categoria,subcategoria
 660268,PK PAMPCONFSE XXG 112PX1U,Cuidado del Bebé,Pañales
 660269,PK PAMPCONFSE XG 116P X1U,Cuidado del Bebé,Pañales
 660270,PK PAMPCONFSE XXXG 88PX1U,Cuidado del Bebé,Pañales
+660271,Crema Anti Arrugas Nivea Q10 Power Daa FPS 30 50 ml,Cuidado Personal,Cuidado de la Piel
 660272,Crema Facial Nivea Cuidado Nutritivo 100 ml,Cuidado Personal,Cuidado de la Piel
 660276,Pack Oral-B Cepillo Color + Crema Dental Bicarbonato 1 un,Cuidado Personal,Cuidado Bucal
 660277,Pack Oral-B Cepillo 7 Beneficios Carbón + Crema Dental Cuidado Bucal 1 un,Cuidado Personal,Cuidado Bucal
@@ -20811,8 +20818,10 @@ id_producto,producto,categoria,subcategoria
 660536,BIPACK KOTEX FEMENINA DIA Y NOCHE,Cuidado Personal,Cuidado Familiar
 660537,BIPACK KOTEX FEMENINA ULTRAFINA + MAXI P,Cuidado Personal,Cuidado Familiar
 660539,DOVE SERUM CORP FIRME PRO RETINOL 400ML,Cuidado Personal,Cuidado de la Piel
+660540,JABON ARTHE COCO ARGAN 85 GR,Cuidado Personal,Cuidado de la Piel
 660541,TEATRICAL COREANO 100 GR.,Cuidado Personal,Cuidado de la Piel
 660548,Cafe Copacabana Exportado Tostado 250 gr,Abarrotes,Café y Sucedáneos
+660550,SHAVING FOAM - OLIVE OIL 200 ML,Cuidado Personal,Cuidado de la Piel
 660557,AC GRANADA +AH DP 18X350ML,Cuidado Personal,Cuidado del Cabello
 660559,AC SIN SAL PALTA 18X350ML,Cuidado Personal,Cuidado del Cabello
 660560,SH SIN SAL PALTA DP 18X350ML,Cuidado Personal,Cuidado del Cabello
@@ -20822,6 +20831,7 @@ id_producto,producto,categoria,subcategoria
 660569,BRILLINA CERA CREMA ROJA SASHET 480ML X1,Cuidado del Hogar,Limpieza de Living y Ropero
 660570,BRILLINA CERA CREMA INCOLORA SASHET 480M,Cuidado del Hogar,Limpieza de Living y Ropero
 660571,BRILLINA CERA CREMA TIERRA COLOR SASHET,Cuidado del Hogar,Limpieza de Living y Ropero
+660572,PONDS CR CLARANT B3 FPS30 100G,Cuidado Personal,Cuidado de la Piel
 660711,Galleta Noel Octagonal Surtida 260 gr,Abarrotes,Temporada
 660852,Te Frutte Laxte 20 Sobres,Abarrotes,Café y Sucedáneos
 661150,Insecticida Tableta Raid Mata Mosquito Doble Accion 24 un,Cuidado del Hogar,Productos Americanos
@@ -22155,7 +22165,7 @@ id_producto,producto,categoria,subcategoria
 669359,Maquina De Afeitar Gillette Prestobarba 3 Carbón Pack 4 x 36 un,Cuidado Personal,Cuidado de la Piel
 669360,Cepillos Dentales Oral-B Advanced 7 Beneficios Pack 3 un,Cuidado Personal,Cuidado Bucal
 669361,Maquina De Afeitar Gillette Prestobarba 3 Carbón Pack 2 x 72 un,Cuidado Personal,Cuidado de la Piel
-669362,Serum Sedal Luminoso UV 6x110 ml,Cuidado Personal,Cuidado del Cabello
+669362,Serum Sedal Luminoso UV 6x110 ml,Cuidado Personal,Cuidado de la Piel
 669363,Mascarilla Sedal Tratamiento Luminoso UV 6x300 gr,Cuidado Personal,Cuidado del Cabello
 669364,PANOS MICROFIBRA TOTES REUTILIZABLE 30 H,Cuidado del Hogar,Accesorios del Hogar
 669365,PANOS MICROFIBRA TOTES REUTILIZABLE 30 H,Cuidado del Hogar,Accesorios del Hogar
@@ -24422,6 +24432,7 @@ id_producto,producto,categoria,subcategoria
 674971,PALITOS CON QUINUA CEAB 12UNI,Pastelería y Masas Típicas,Pastelería Externa
 674972,PALITOS CON SESAMO CEAB 12UNI,Pastelería y Masas Típicas,Pastelería Externa
 674973,PALITOS CON CHIA CEAB 12NI,Pastelería y Masas Típicas,Pastelería Externa
+674974,PALITOS CON QUESO CEAB 12UNI,Pastelería y Masas Típicas,Pastelería Externa
 674975,HELADO PALETA DELIZIA TENTACION CLASICO 100ML,Congelados,"Helados, Cassattas y Picoleses"
 674976,PAN MOLDE INTEGRAL SANTONIO MASA MADRE 550GR,Panadería,Panadería Externa
 674978,PAN DULCE BUDIN TRADICIONAL SANTONIO 200GRS,Pastelería y Masas Típicas,Pastelería Externa
@@ -24431,6 +24442,7 @@ id_producto,producto,categoria,subcategoria
 674982,CU¥APIZZA ABIZCOCHADOS  SABOR NAPOLITANA,Pastelería y Masas Típicas,Masas Típicas Externas
 674983,CU¥APIZZA ABIZCOCHADO SABOR FUGAZZETTA 1,Pastelería y Masas Típicas,Masas Típicas Externas
 674986,JAMON PIZZERO SOFIA KILOGRAMO,Fiambres,Fiambres Externos
+674987,PALETA MONACO VAINILLA COB CHOCOLATE,Congelados,"Helados, Cassattas y Picoleses"
 674988,PALETA MONACO MOCA COB CHOCOLATE 115ML,Congelados,"Helados, Cassattas y Picoleses"
 675011,CHORIZO CERVECERO SOFIA A GRANEL KGR,Fiambres,Fiambres Externos
 675012,MAPLE DE HUEVO ROLON 30 NIDADES GRANEL,Lácteos y Derivados,Huevos
