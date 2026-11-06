@@ -10459,6 +10459,7 @@ id_producto,producto,categoria,subcategoria
 280191,SHAMPOO VITANE ALT NUTRICION 400ML,Cuidado Personal,Cuidado del Cabello
 280192,ACONDC VITANE ALT NUTRICION 400ML,Cuidado Personal,Cuidado del Cabello
 280193,BETUM LIQ CAFE  TODO BRILLO 70 ML,Cuidado del Hogar,Limpieza de Zapatos
+280194,Pack Dove UV Repair & Glow: Shampoo + Acondicionador + Óleo + Mascarilla,Cuidado Personal,Cuidado del Cabello
 280200,SET ESPONJA VIRULIN BONNY X3 UNI.,Cuidado del Hogar,Accesorios del Hogar
 280201,TRIPACK HUGGIES LIMPIEZA DIARIA 3X112 UN,Cuidado del Bebé,Cuidado del Bebé
 280202,PANO ALKLIN LAVAPLATO 28X30,Cuidado del Hogar,Accesorios del Hogar
@@ -10982,6 +10983,7 @@ id_producto,producto,categoria,subcategoria
 312112,Maiz Pipoca Nutrifoods 450 gr,Abarrotes,Snack
 312113,Mani Entero Nutrifoods Bolsa 250 gr,Abarrotes,Condimentos y Legumbres
 312114,Nuez Pelada Nutrifood 100 gr,Abarrotes,Snack
+312115,Champiñon Entero La Viña Lata 425 gr,Abarrotes,Verduras en Conserva
 312117,Api Morado Nutrifoods 450 gr,Abarrotes,Café y Sucedáneos
 312119,Frutos Secos Nutrifood Surtido 130 gr,Abarrotes,Snack
 312120,Mani Tostado Nutrifoods 170 gr,Abarrotes,Snack
@@ -17609,6 +17611,7 @@ id_producto,producto,categoria,subcategoria
 554224,Ketchup Picante Del Valle 410 gr,Abarrotes,Aderezos
 554225,Ketchup Tradicional Del Valle 410 gr,Abarrotes,Aderezos
 554226,Vape Umo Watermelon Ice 12000 Puffs,Bebidas,Cigarrillos
+554227,Vape Umo Grape Ice 12000 Puffs,Bebidas,Cigarrillos
 554228,Vape Umo Mint Mania 12000 Puffs,Bebidas,Cigarrillos
 554229,Vape Umo Blueberry 12000 Puffs,Bebidas,Cigarrillos
 554230,Achocolatado Choco Bros Irupana 1000 gr,Abarrotes,Nutrición Infantil
@@ -17620,6 +17623,7 @@ id_producto,producto,categoria,subcategoria
 554239,Mix Frutos Secos Waras 250 gr,Abarrotes,Frutas en Conserva
 554240,MIX WARAS FRUTA DESHID CON CHOCOLATE 90,Abarrotes,Frutas en Conserva
 554244,PACK CONDOR CHOC HALLOWEEN CJA150 GR,Abarrotes,Temporada
+554259,HARINA D TRIGO KRIOLLA 000 1KG,Abarrotes,Básicos
 554333,Cerveza Paceña Lata Roja 473 Cc,Bebidas,Cervezas
 554466,Detergente Liquido Ola Futuro Limpieza Completa 5 L,Cuidado del Hogar,Limpieza de la Ropa
 554468,Suavizante Ropa Ola Suavecito Original 5 L,Cuidado del Hogar,Limpieza de la Ropa
@@ -18011,6 +18015,7 @@ id_producto,producto,categoria,subcategoria
 600265,Sopa de Mani Cocinero 200 gr,Abarrotes,Básicos
 600267,Crema Ponds Rejuvenese 100 gr,Cuidado Personal,Cuidado de la Piel
 600271,PONDS CR CLARANT B3 GRASA 50 GR.,Cuidado Personal,Cuidado de la Piel
+600273,PONDS CR CLARANT B3 SECA 50 GR.,Cuidado Personal,Cuidado de la Piel
 600279,Blondor Wella Camomila,Cuidado Personal,Cuidado del Cabello
 600291,Pañales Plenitud Adulto M 8 un,Cuidado Personal,Cuidado del Adulto
 600300,Aji Amarillo Cocinero Picante 200 gr,Abarrotes,Condimentos y Legumbres
@@ -24483,6 +24488,7 @@ id_producto,producto,categoria,subcategoria
 675011,CHORIZO CERVECERO SOFIA A GRANEL KGR,Fiambres,Fiambres Externos
 675012,MAPLE DE HUEVO ROLON 30 NIDADES GRANEL,Lácteos y Derivados,Huevos
 675016,PACK SALCHICHAS ZAMPO¤A TORITO (2 PIEZAS),Fiambres,Fiambres Externos
+675021,HELADO NORDLAND CASATA PREMIUM CHOCOLATE/CHISPAS 1000ML,Congelados,"Helados, Cassattas y Picoleses"
 675022,LECHE NORDLAND ORIGINAL SIN AZUCAR 900ML BOLSA,Lácteos y Derivados,Leches
 675025,CHORIZO CERVECERO SOFIA VACIO 5 UNIDADES,Fiambres,Fiambres Externos
 675027,YOGURT TIPO GRIEGO O AZCAR MANZANA VERDE GALAKTOS 500GR,Lácteos y Derivados,Yogures
@@ -25416,11 +25422,14 @@ id_producto,producto,categoria,subcategoria
 761203,Queso Crema De Yogurt Natural Bontana 150 ml,Lácteos y Derivados,Quesos
 761214,Queso Crema De Yogurt Ajo Y Oregano Bontana 150 ml,Lácteos y Derivados,Quesos
 761224,Yogurt Bebible Friedland Probiotico Frutilla 1 L,Lácteos y Derivados,Yogures
+761225,Yogurt Bebible Bontana Probiótico Sabor Coco 1 L,Lácteos y Derivados,Yogures
+761236,Yogurt Bebible Bontana Probiótico Sabor Frutilla 1 L,Lácteos y Derivados,Yogures
 761248,Crema Tres Leches Dagusto 1 L,Lácteos y Derivados,Crema de Leche
 761252,PULPA CONG.FRUTAS Y VEGETALES DETOX X5 UNID.CELEBRE,Congelados,Pulpas y Frutas Congeladas
-761257,YOGURT BEB.PROB.SAB.NATURAL BONTANA 1 LT.,Lácteos y Derivados,Yogures
+761257,Yogurt Bebible Bontana Probiótico Sabor Natural 1 L,Lácteos y Derivados,Yogures
 761258,Porotos Hess Conserva 340 gr,Fiambres,Fiambres Externos
 761263,Berenjenas Hess Conserva 330 gr,Fiambres,Fiambres Externos
+761268,Yogurt Bebible Bontana Probiótico Mora 1 L,Lácteos y Derivados,Yogures
 761282,YOGURT BEB.PROBOT.DESLACT.MANDARINA H.P.1LT.,Lácteos y Derivados,Yogures
 761291,YOGURT BEB.PROB.DESLACT.FRUT.FRUTOS ROJOS H.P.1LT.,Lácteos y Derivados,Yogures
 761294,YOGURT BEB.PROBIOT.DESLACT.FRUT.FRAMBUESA H.P.1LT.,Lácteos y Derivados,Yogures
@@ -27025,6 +27034,12 @@ id_producto,producto,categoria,subcategoria
 809729,TR SALERO SET X2 RITA 67CC,Bazar Importación,Cocina General
 809730,TR ACEITERO TAPA VERDE NATURAL 750CC,Bazar Importación,Cocina General
 809732,Tomatodo Renga de Vidrio 500 cc,Bazar Importación,Menaje Vidrio/Cristal
+809750,CH 5414 ADORNO NAVIDENO PAPA NOEL RENO MUNECO DE NIEVE,Bazar Importación,Temporada Navidad
+809751,CH 2104 MUNECO NAVIDENO ELFO PIERNAS LARGAS 60CM,Bazar Importación,Temporada Navidad
+809752,CH 2116 MUNECO ELFO 23CM,Bazar Importación,Temporada Navidad
+809756,CH 7582 MUNECO NAVIDENO S PIERNAS PAPA NOEL MUNECO NIEVE 30,Bazar Importación,Temporada Navidad
+809759,CH 7560 MUNECO NAVIDENO JENGIBRE SENTADO 28 35CM,Bazar Importación,Temporada Navidad
+809767,CH 2208 MUNECO NAVIDENO RETRACTIL RENO 45X75CM,Bazar Importación,Temporada Navidad
 809814,Sarten Antiadherente Azul 28 cm,Bazar Importación,Cocina General
 809815,Sarten Antiadherente Gris 28 cm,Bazar Importación,Cocina General
 809816,Sarten Antiadherente Gris Oscuro 28 cm,Bazar Importación,Cocina General
@@ -27113,6 +27128,13 @@ id_producto,producto,categoria,subcategoria
 810251,BR JUEGO HERMET PLAST SANREMO 280ML 10UN,Bazar Importación,Menaje Plástico
 810255,BR HERMETICO PS SANREMO 1 5L,Bazar Importación,Menaje Plástico
 810258,BR BOTELLA GOLE GUT PLASTICO SANREMO 500ML,Bazar Importación,Menaje Plástico
+810284,CH 207B MUNECO DE NIEVE 48CM,Bazar Importación,Temporada Navidad
+810285,CH 207A MUNECO NAVIDENO PAPA NOEL 48CM,Bazar Importación,Temporada Navidad
+810291,CH 7614 MUNECO NAVIDENO RENO RETRACTIL 70CM,Bazar Importación,Temporada Navidad
+810292,CH 7606 MUNECO NAVIDENO RENO 70CM,Bazar Importación,Temporada Navidad
+810296,CH 2473 MUNECO NAVIDENO DUENDE PIERNAS LARGAS 70CM,Bazar Importación,Temporada Navidad
+810297,CH 2474 MUNECO NAVIDENO DUENDE SENTADO 48CM,Bazar Importación,Temporada Navidad
+810335,CH 174 ADORNO NAVIDENO RENO 18CM,Bazar Importación,Temporada Navidad
 810338,CH 29 4 TABLA DE CORTAR SET X4 PZAS 38X30CM,Bazar Importación,Churrasquería
 810339,CH 29 5 TABLA DE CORTAR SET X6 PZAS 28X19CM,Bazar Importación,Churrasquería
 810340,CH 29 6 TABLA DE CORTAR SET X3 PZAS 19X29 25X34 29X38CM,Bazar Importación,Churrasquería
@@ -30542,6 +30564,9 @@ id_producto,producto,categoria,subcategoria
 871447,Letrero Cumpleañero Infantil,Bazar,Cotillón
 871448,Globos con Plumas Surtidas,Bazar,Cotillón
 871449,LAMPARA DE PAPEL GRANDE,Bazar,Living y Dormitorio
+871454,CH L5 28 DUENDECILLA NAVIDENA PIERNAS LARGAS 52CM,Bazar Importación,Temporada Navidad
+871466,CH L5 34 MUNECO DE NIEVE SENTADO BEIGE DORADO 30CM,Bazar Importación,Temporada Navidad
+871467,CH L5 36 BOTA NAVIDENA MUNECO DE NIEVE 35X22CM,Bazar Importación,Temporada Navidad
 871676,LAPICES COLOR ANIMALES X24 CARTON,Bazar,Librería
 871832,Cuchillo Universal Para Cocina N7,Bazar,Articulos de Cocina
 871847,Cuchillo Universal Para Cocina N8,Bazar,Articulos de Cocina
