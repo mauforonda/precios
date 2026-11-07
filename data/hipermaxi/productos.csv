@@ -1924,7 +1924,7 @@ id_producto,producto,categoria,subcategoria
 25324,Masticable Mogul Ladrillos 100 gr,Abarrotes,Golosinas - Varias
 25325,TE WINDSOR21 WINFEM 21G,Abarrotes,Dietéticos y Saludables
 25326,Te Windsor 21 Winfit 21 gr,Abarrotes,Dietéticos y Saludables
-25327,Te Windsor 21 Winrelax 21 gr,Abarrotes,Dietéticos y Saludables
+25327,Te Windsor 21 Winrelax 21 Sobres,Abarrotes,Dietéticos y Saludables
 25328,PACK 2 CHOCAPIC BOOM 170 GR,Abarrotes,Nutrición Infantil
 25329,TALLARIN LA SUPREMA 400G,Abarrotes,Básicos
 25330,Fideo La Suprema Spaguetti 400 gr,Abarrotes,Básicos
@@ -3888,6 +3888,7 @@ id_producto,producto,categoria,subcategoria
 66818,Papa Pringles Crema Cebolla 124 gr,Abarrotes,Snack
 67001,Chupete Surtido Bonbonbum Bote 1680 gr,Abarrotes,Chocolates y Caramelos
 67003,Gaseosa Mendocina Lima Limon 300 ml,Bebidas,Gaseosas
+67004,CIGARRILLO MALBORO ICE BREEZE 20UND,Bebidas,Cigarrillos
 67013,Galleta Marilan Rosquina Integral 300 gr,Abarrotes,Dietéticos y Saludables
 67014,Galleta Tortinha Maracuya Marilan 300 gr,Abarrotes,Galletas
 67020,Cigarrillo Marlboro Ice Xpres 20 un,Bebidas,Cigarrillos
@@ -3903,6 +3904,7 @@ id_producto,producto,categoria,subcategoria
 67042,PATITAS D POLLO PODIUM DESHID DP 100G,Abarrotes,Mascotas
 67045,VINO KOHLBERG ICONO QUERKUS 750ML,Bebidas,Vinos y Champagne
 67047,Achocolatado Instant Kriskao 1 kg,Abarrotes,Nutrición Infantil
+67051,GALLETA MARILAN TORTINA MARACUYA 140G,Abarrotes,Galletas
 67055,TRAQUEA D CERDO PODIUM DESHID DP 100G,Abarrotes,Mascotas
 67063,VERMUT YERBASANTA ANDINO BCO 750ML,Bebidas,Licores
 67064,VERMUT YERBASANTA ROSSO AMAZ 750ML,Bebidas,Licores
@@ -7695,8 +7697,8 @@ id_producto,producto,categoria,subcategoria
 211008,Gomets Dori Crema Fruta Tubo 96 gr,Abarrotes,Golosinas - Varias
 211010,Ron Kayana Oro 5 Años 1 L,Bebidas,Licores
 211012,Galleta Bon O Bon Beijinho 76 gr,Abarrotes,Galletas
-211013,GALLETA BON O BON ORIGINAL 76G,Abarrotes,Galletas
-211014,GALLETA BON O BON PISTACHE 76G,Abarrotes,Galletas
+211013,Galleta Bon O Bon Original 76 gr,Abarrotes,Galletas
+211014,Galleta Bon O Bon Pistache 76 gr,Abarrotes,Galletas
 211016,Secador Piso Master Doble Goma Plus 30 cm,Cuidado del Hogar,Accesorios del Hogar
 211017,Pala Basura Aseo Cruz Grande Max,Cuidado del Hogar,Accesorios del Hogar
 211338,Te Negro Chapare 100 gr,Abarrotes,Café y Sucedáneos
@@ -10492,6 +10494,10 @@ id_producto,producto,categoria,subcategoria
 280245,MASCARILLA FACIAL DEXE BLACK SACHET 20GR,Cuidado Personal,Cuidado de la Piel
 280246,MASCARILLA FACIAL DEXE GOLD POTE 120ML,Cuidado Personal,Cuidado de la Piel
 280247,MASCARILLA FACIAL DEXE GOLD SACHET 20GR*,Cuidado Personal,Cuidado de la Piel
+280326,PACK ABOVE ROLLON WOMEN,Cuidado Personal,Cuidado de la Piel
+280327,PACK ABOVE  AEROSOL ELEMENTS,Cuidado Personal,Cuidado de la Piel
+280328,PACK ABOVE AEROSOL WOMEN + ROLLON,Cuidado Personal,Cuidado de la Piel
+280329,PACK ABOVE AEROSOL MEN + ROLLON,Cuidado Personal,Cuidado de la Piel
 280428,PACK PAPEL ELITE  DUO  DJ 6X8,Cuidado Personal,Cuidado Familiar
 280429,SHAMPOO BALLERINA GRANADA DP 350ML,Cuidado Personal,Cuidado del Cabello
 280430,SHAMPOO BALLERINA MANZANILLA DP 350ML,Cuidado Personal,Cuidado del Cabello
@@ -10548,6 +10554,7 @@ id_producto,producto,categoria,subcategoria
 282642,Lavavajilla Sapolio Limon 500 ml,Cuidado del Hogar,Limpieza de Cocina
 282650,Lavavajilla Sapolio Manzana 500 ml,Cuidado del Hogar,Limpieza de Cocina
 282677,Cera Sapolio Para Auto 200 gr,Bazar,Automotriz
+283025,PACK ABOVE ROLLON MEN,Cuidado Personal,Cuidado de la Piel
 283479,Salsa Tostitos Natural Medium 15.5 oz,Abarrotes,Productos Americanos
 283851,Maizena Duryea 500 gr,Abarrotes,Básicos
 283990,Azucar Unagro Morena 5 kg,Abarrotes,Básicos
@@ -11208,7 +11215,7 @@ id_producto,producto,categoria,subcategoria
 313644,Labial Maybelline S Stay Matte Ink Pink Pathfinder,Cuidado Personal,Cuidado de la Piel
 313646,Labial Maybelline S Stay Matte Ink Pink Savant 155,Cuidado Personal,Cuidado de la Piel
 313647,Agua Micelar Revitalitf Hilauronico 200 ml,Cuidado Personal,Cuidado de la Piel
-313750,Preservativo Pantera Caja x 3 und,CUDADOS OTC,OCT SALAS
+313750,Preservativo Pantera Caja x 3 und,Cuidados Otc,OCT SALAS
 313810,Toallas Humedas Pampers Bebe 48 un,Cuidado del Bebé,Cuidado del Bebé
 313811,Toallas Humeda Pampers Aloe Vera 48 un,Cuidado del Bebé,Cuidado del Bebé
 313812,Toallas Humedas Pampers Lavanda 48 un,Cuidado del Bebé,Cuidado del Bebé
@@ -17504,7 +17511,7 @@ id_producto,producto,categoria,subcategoria
 554075,Limon Deshidratado En Rodajas Waras 50 gr,Abarrotes,Frutas en Conserva
 554076,Frutilla Deshidratada Chocolate Waras 45 gr,Abarrotes,Frutas en Conserva
 554077,Vodka Real 1825 De Quinoa Caja 700 ml,Bebidas,Licores
-554078,BEBIDA CIN PINA PET 3 LT,Bebidas,Bebidas Varias
+554078,Bebida Cin Piña 3 L,Bebidas,Bebidas Varias
 554079,Bebida Cin Manzana 3 L,Bebidas,Bebidas Varias
 554080,SALSA HOT CHIMO BARBACOA PIC PET 140 ML,Abarrotes,Aderezos
 554081,PACK 6 NECTAL DEL SOL 300ML,Bebidas,"Jugos, Néctar"
@@ -17577,6 +17584,7 @@ id_producto,producto,categoria,subcategoria
 554165,Gaseosa Ghost Face Fanta 500 ml,Bebidas,Gaseosas
 554166,Jugo De La Granja Mandarina 2 L,Bebidas,"Jugos, Néctar"
 554167,Mermelada Reyna Frutilla Pote 200 gr,Abarrotes,"Mermel, Mieles"
+554169,SALSA CARNO PINA HABANERO PIC DP 360 GR,Abarrotes,Aderezos
 554171,Caramelo Masticable Yoghurt Fresa Bolsa 500 gr,Abarrotes,Chocolates y Caramelos
 554172,Caramelo Relleno Miel Dori Bolsa 500 gr,Abarrotes,Chocolates y Caramelos
 554173,Caramelos Masticables Lokino Bolsa 400 gr,Abarrotes,Chocolates y Caramelos
@@ -17624,6 +17632,7 @@ id_producto,producto,categoria,subcategoria
 554240,MIX WARAS FRUTA DESHID CON CHOCOLATE 90,Abarrotes,Frutas en Conserva
 554244,PACK CONDOR CHOC HALLOWEEN CJA150 GR,Abarrotes,Temporada
 554259,HARINA D TRIGO KRIOLLA 000 1KG,Abarrotes,Básicos
+554282,GALLETAS AUNT BAKER LTA CUAD 100 GR,Abarrotes,Productos Americanos
 554333,Cerveza Paceña Lata Roja 473 Cc,Bebidas,Cervezas
 554466,Detergente Liquido Ola Futuro Limpieza Completa 5 L,Cuidado del Hogar,Limpieza de la Ropa
 554468,Suavizante Ropa Ola Suavecito Original 5 L,Cuidado del Hogar,Limpieza de la Ropa
@@ -19961,6 +19970,7 @@ id_producto,producto,categoria,subcategoria
 656591,Yogurt Kream Durazno 2 L,Lácteos y Derivados,Yogures
 656593,Leche Kream Chocolatada 170 ml,Lácteos y Derivados,Leches
 656613,Yogurt Kream Chirimoya 2 L,Lácteos y Derivados,Yogures
+656622,PANETONE LINEA INFANTIL MINI CHIPS 70GR,Panadería,Panadería Externa
 656659,MANTEQUILLA DE MANI CEAB 300GR,Lácteos y Derivados,Mantequillas y Margarinas
 656660,Pan Molde Cuadrado Ceab 600 gr,Panadería,Panadería Externa
 656661,Pan Molde Ceab Integral 500 gr,Panadería,Panadería Externa
@@ -24491,6 +24501,7 @@ id_producto,producto,categoria,subcategoria
 675021,HELADO NORDLAND CASATA PREMIUM CHOCOLATE/CHISPAS 1000ML,Congelados,"Helados, Cassattas y Picoleses"
 675022,LECHE NORDLAND ORIGINAL SIN AZUCAR 900ML BOLSA,Lácteos y Derivados,Leches
 675025,CHORIZO CERVECERO SOFIA VACIO 5 UNIDADES,Fiambres,Fiambres Externos
+675026,YOGURT TIPO GRIEGO O AZUCAR VAINILLA GALAKTOS 500GRS,Lácteos y Derivados,Yogures
 675027,YOGURT TIPO GRIEGO O AZCAR MANZANA VERDE GALAKTOS 500GR,Lácteos y Derivados,Yogures
 675245,Miel de Abeja Eva Promiel 250 gr,Abarrotes,"Mermel, Mieles"
 675948,SALCHICHA VIENA DON PIOTR 500GRS VACIO,Fiambres,Fiambres Externos
@@ -27034,6 +27045,7 @@ id_producto,producto,categoria,subcategoria
 809729,TR SALERO SET X2 RITA 67CC,Bazar Importación,Cocina General
 809730,TR ACEITERO TAPA VERDE NATURAL 750CC,Bazar Importación,Cocina General
 809732,Tomatodo Renga de Vidrio 500 cc,Bazar Importación,Menaje Vidrio/Cristal
+809748,CH 8416 ADORNO NAVIDENO PAPA NOEL MUNECO DE NIEVE 13X22CM,Bazar Importación,Temporada Navidad
 809750,CH 5414 ADORNO NAVIDENO PAPA NOEL RENO MUNECO DE NIEVE,Bazar Importación,Temporada Navidad
 809751,CH 2104 MUNECO NAVIDENO ELFO PIERNAS LARGAS 60CM,Bazar Importación,Temporada Navidad
 809752,CH 2116 MUNECO ELFO 23CM,Bazar Importación,Temporada Navidad
@@ -27130,10 +27142,13 @@ id_producto,producto,categoria,subcategoria
 810258,BR BOTELLA GOLE GUT PLASTICO SANREMO 500ML,Bazar Importación,Menaje Plástico
 810284,CH 207B MUNECO DE NIEVE 48CM,Bazar Importación,Temporada Navidad
 810285,CH 207A MUNECO NAVIDENO PAPA NOEL 48CM,Bazar Importación,Temporada Navidad
+810290,CH 7612 MUNECO NAVIDENO RENO SENTADO 45CM,Bazar Importación,Temporada Navidad
 810291,CH 7614 MUNECO NAVIDENO RENO RETRACTIL 70CM,Bazar Importación,Temporada Navidad
 810292,CH 7606 MUNECO NAVIDENO RENO 70CM,Bazar Importación,Temporada Navidad
+810294,CH 7608 MUNECO NAVIDENO RENO EN CUATRO PATAS 60CM,Bazar Importación,Temporada Navidad
 810296,CH 2473 MUNECO NAVIDENO DUENDE PIERNAS LARGAS 70CM,Bazar Importación,Temporada Navidad
 810297,CH 2474 MUNECO NAVIDENO DUENDE SENTADO 48CM,Bazar Importación,Temporada Navidad
+810299,CH 2558 BOTA NAVIDENA RENO PAPA NOEL MUNECO DE NIEVE 65CM,Bazar Importación,Temporada Navidad
 810335,CH 174 ADORNO NAVIDENO RENO 18CM,Bazar Importación,Temporada Navidad
 810338,CH 29 4 TABLA DE CORTAR SET X4 PZAS 38X30CM,Bazar Importación,Churrasquería
 810339,CH 29 5 TABLA DE CORTAR SET X6 PZAS 28X19CM,Bazar Importación,Churrasquería
@@ -30565,8 +30580,10 @@ id_producto,producto,categoria,subcategoria
 871448,Globos con Plumas Surtidas,Bazar,Cotillón
 871449,LAMPARA DE PAPEL GRANDE,Bazar,Living y Dormitorio
 871454,CH L5 28 DUENDECILLA NAVIDENA PIERNAS LARGAS 52CM,Bazar Importación,Temporada Navidad
+871462,CH L5 29 DUENDECILLA NAVIDENA PIERNAS LARGAS FIRMES 54CM,Bazar Importación,Temporada Navidad
 871466,CH L5 34 MUNECO DE NIEVE SENTADO BEIGE DORADO 30CM,Bazar Importación,Temporada Navidad
 871467,CH L5 36 BOTA NAVIDENA MUNECO DE NIEVE 35X22CM,Bazar Importación,Temporada Navidad
+871472,CH L5 37 BOTA NAVIDENA RENO 35X22CM,Bazar Importación,Temporada Navidad
 871676,LAPICES COLOR ANIMALES X24 CARTON,Bazar,Librería
 871832,Cuchillo Universal Para Cocina N7,Bazar,Articulos de Cocina
 871847,Cuchillo Universal Para Cocina N8,Bazar,Articulos de Cocina
