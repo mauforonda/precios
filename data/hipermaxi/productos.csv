@@ -370,7 +370,7 @@ id_producto,producto,categoria,subcategoria
 5729,Sufle de Brocoli Hipermaxi 400 gr,Granos y Hortalizas,Derivados Hipermaxi
 5730,Sufle de Coliflor Hipermaxi 400 gr,Granos y Hortalizas,Derivados Hipermaxi
 5731,Pastel de Choclo Hipermaxi 400 gr,Granos y Hortalizas,Derivados Hipermaxi
-5748,CP PACK 3X2 HOJUELAS DE AVENA 500 G,Granos y Hortalizas,Fraccionados Hipermaxi
+5748,Pack 3x2 Hojuela de Avena 500 gr,Granos y Hortalizas,Fraccionados Hipermaxi
 5758,Maiz Dulce Pelado 1 kg,Frutas y Verduras,Verduras
 5788,Arroz Popular Hipermaxi 1 kg,Granos y Hortalizas,Fraccionados Hipermaxi
 5791,Arroz Estaquilla Hipermaxi 1 kg,Granos y Hortalizas,Fraccionados Hipermaxi
@@ -1581,7 +1581,7 @@ id_producto,producto,categoria,subcategoria
 24086,Fideo Gustoso Mod 35 Corbata 400 gr,Abarrotes,Básicos
 24087,Fideo Gustoso Mod 31 Linguine 400 gr,Abarrotes,Básicos
 24088,Fideo Gustoso Mod 16 Tubito 400 gr,Abarrotes,Básicos
-24089,Café Iguazu Instantaneo lata 100 g,Abarrotes,Café y Sucedáneos
+24089,Cafe Iguazu Instantaneo lata 100 g,Abarrotes,Café y Sucedáneos
 24091,Pack Ron Abuelo 7 Año 750 ml + Vaso Termico,Bebidas,Licores
 24092,Pack Ron Abuelo 12 Año 750 ml + Oaks 200 ml,Bebidas,Licores
 24097,Cigarrillo Bohem Mango Double 20 un,Bebidas,Cigarrillos
@@ -1907,7 +1907,7 @@ id_producto,producto,categoria,subcategoria
 25299,Vodka Matrioshka 750 ml,Bebidas,Licores
 25303,Trigo Insuflado Favorita 150 gr,Abarrotes,Nutrición Infantil
 25304,Chucrut Rincon Maderas 480 gr,Abarrotes,Verduras en Conserva
-25306,SALSA PICANTE INF VERDE EXT FUERTE 55ML,Abarrotes,Aderezos
+25306,Salsa Picante Verde Extra Fuerte Inf 55 ml,Abarrotes,Aderezos
 25307,Vino Rose Puerta Del Fuerte Syrah 750 ml,Bebidas,Vinos y Champagne
 25308,Mermelada La Rinconada Tuti Frutti 300 gr,Abarrotes,"Mermel, Mieles"
 25312,BEBIDA SPARKLY ICE UVA BOT 300ML,Bebidas,Licores
@@ -3899,6 +3899,9 @@ id_producto,producto,categoria,subcategoria
 67030,Sopa Instantanea Al Toke Camaron Vaso 65 gr,Abarrotes,Básicos
 67031,Sopa Instantanea Al Toke Carne Vaso 65 gr,Abarrotes,Básicos
 67033,Sopa Instantanea Al Toke Pollo Vaso 65 gr,Abarrotes,Básicos
+67034,NACHO SALADIX REE PICANTE 180 GR,Abarrotes,Snack
+67035,NACHO SALADIX QUESO BSA 180G,Abarrotes,Snack
+67036,NACHO SALADIX QUESO PICANTE 180G,Abarrotes,Snack
 67038,PACK 1GALLETA FRAC 1GOMITA 90G,Abarrotes,Galletas
 67041,Pack Cafe Monaco 200 gr + 2 Leches con Cafe Tetra 330 ml + 1 Taza,Abarrotes,Café y Sucedáneos
 67042,PATITAS D POLLO PODIUM DESHID DP 100G,Abarrotes,Mascotas
@@ -3906,14 +3909,31 @@ id_producto,producto,categoria,subcategoria
 67047,Achocolatado Instant Kriskao 1 kg,Abarrotes,Nutrición Infantil
 67051,GALLETA MARILAN TORTINA MARACUYA 140G,Abarrotes,Galletas
 67055,TRAQUEA D CERDO PODIUM DESHID DP 100G,Abarrotes,Mascotas
+67057,MIX D FRUTAS LIOBIT DESHID DP 35G,Abarrotes,Frutas en Conserva
+67058,PINA AMAZONICA LIOBIT DESHID DP 35G,Abarrotes,Frutas en Conserva
+67060,GUINEO CROCANTE LIOBIT DESHID DP 40G,Abarrotes,Frutas en Conserva
+67061,FRUTILLA LIOBIT CUB C CHOCOLATE DP 30G,Abarrotes,Frutas en Conserva
 67063,VERMUT YERBASANTA ANDINO BCO 750ML,Bebidas,Licores
 67064,VERMUT YERBASANTA ROSSO AMAZ 750ML,Bebidas,Licores
+67068,MALVAVISCO BUFFYS FELICES FIESTAS 200G,Abarrotes,Temporada
 67078,Pack Hidratante Powerade Mora 990 ml + 2 Vital,Bebidas,Bebidas Varias
+67080,BATON GAROTO CHOCOSTICK CARIBE 24G,Abarrotes,Golosinas - Varias
+67081,BATON GAROTO CHOCOSTICK C CREAM 26G,Abarrotes,Golosinas - Varias
 67086,SOPA INSTANT AL TOKE CARNE BOWL 94G,Abarrotes,Básicos
 67087,SOPA INSTANT AL TOKE POLLO BOWL 94G,Abarrotes,Básicos
+67090,MAYONESA KRIS POMO RETRO 360ML,Abarrotes,Aderezos
+67092,KETCHUP KRIS POMO RETRO 400 G,Abarrotes,Aderezos
+67093,MOSTAZA KRIS POMO RETRO 400 G,Abarrotes,Aderezos
+67094,FOUR LOKO ACAI COCO LTA 695ML,Bebidas,Licores
 67096,Te Frutte Jengibre Limon Miel 20 Sobres,Abarrotes,Café y Sucedáneos
 67097,Te Frutte Gengibre Miel 20 Sobres,Abarrotes,Café y Sucedáneos
 67099,MALVAVISCO ANGELITOS TORCIDO FRESA 200G,Abarrotes,Chocolates y Caramelos
+67100,MOSTAZA ARTESANO PET 400G,Abarrotes,Aderezos
+67102,MOSTAZA ARTESANO DP 200G,Abarrotes,Aderezos
+67103,MOSTAZA ARTESANO DP 490G,Abarrotes,Aderezos
+67104,ACEITE BERTOLLI EXTRA VIRG PET 250ML,Abarrotes,Básicos
+67106,ACEITE BERTOLLI EXTRA VIRG PET 500ML,Abarrotes,Básicos
+67108,ACEITE BERTOLLI EXTRA VIRG PET 750ML,Abarrotes,Básicos
 67117,Achocolatado Chocolyne Splenda 200 gr,Abarrotes,Nutrición Infantil
 67130,Mermelada Smuckers Sweet Oranje 18 oz,Abarrotes,Productos Americanos
 67187,Crountons Cesar New York Ensalada 142 gr,Abarrotes,Productos Americanos
@@ -3999,6 +4019,7 @@ id_producto,producto,categoria,subcategoria
 69195,Bebida Mambo Piña Colada Lata 355 ml,Bebidas,Licores
 69196,Bebida Cocktail Spritz Mambo Lata 355 ml,Bebidas,Licores
 69197,Sopa Instantanea Nissin Ramen Sabor Carne Picante 85 gr,Abarrotes,Básicos
+69198,Te Pura Vida Limon Canela 2 L,Bebidas,Bebidas Varias
 69201,Bebida Urbano Mojito Lata 550 ml,Bebidas,Licores
 69202,Bebida Urbana Blue Lata 550 ml,Bebidas,Licores
 69203,Pack Salsa Salsaretti Pizza Aceituna Choclo,Abarrotes,Salsas y Extracto de Tomate
@@ -8923,6 +8944,7 @@ id_producto,producto,categoria,subcategoria
 228166,Pasta Dental Carissa Kids Fresa 50 gr,Cuidado del Bebé,Kids
 228167,Pasta Dental Carissa Triple Acción 50 gr,Cuidado Personal,Cuidado Bucal
 228169,Shampoo Control Caida Revive 850 ml,Cuidado Personal,Cuidado del Cabello
+228172,PACK NUTRISSE 67 + ESTUCHE,Cuidado Personal,Cuidado del Cabello
 228173,PACK NUTRISSE 6660 + ESTUCHE,Cuidado Personal,Cuidado del Cabello
 228174,CREMA NIVEA MILK 5EN1 250 ML,Cuidado del Hogar,Productos Americanos
 228175,Crema De Manos Lechuga Intensiva 75 gr,Cuidado Personal,Cuidado de la Piel
@@ -9591,6 +9613,10 @@ id_producto,producto,categoria,subcategoria
 231778,LIMPIA PISO MAXIBRILL ULTRA ALEGRA DIA 9,Cuidado del Hogar,Limpieza de Baños
 231779,LIMPIA PISO MAXIBRILL LECHE LAVANDA 1800,Cuidado del Hogar,Limpieza de Baños
 231780,LIMPIA BANO MAXIBRILL RCGA 940 ML,Cuidado del Hogar,Limpieza de Baños
+231792,LIMPIA PISO LIDER LAVANDA FRESH 1800ML,Cuidado del Hogar,Limpieza de Baños
+231793,LIMPIA PISO LIDER PINO FRESH DE 1800ML,Cuidado del Hogar,Limpieza de Baños
+231794,LIMPIA PISO LIDER CEDRON CREMA 1800ML,Cuidado del Hogar,Limpieza de Baños
+231795,LIMPIA PISO LIDER MARINE FRESH 1800ML,Cuidado del Hogar,Limpieza de Baños
 231796,LIMPIA PSIO TODO BRILLO PLUS FLORAL CREM,Cuidado del Hogar,Limpieza de Baños
 231798,LIMPIA PISO TODOBRILLO PLUS ORG CREMA900,Cuidado del Hogar,Limpieza de Baños
 231799,LIMPIAPISO TODOBRILLO PLUS LAVANDA1800M,Cuidado del Hogar,Limpieza de Baños
@@ -9850,6 +9876,9 @@ id_producto,producto,categoria,subcategoria
 240589,TRIPACK MI BEBE TOALLA HUMEDA 3X100 UNDS,Cuidado del Bebé,Cuidado del Bebé
 240590,TOALLAS HUMEDAS  MY CARE X 50 UNDS,Cuidado del Bebé,Cuidado del Bebé
 240592,TOALLA HUMEDA MYCARE  100 UNDS,Cuidado del Bebé,Cuidado del Bebé
+240593,LIMPIA PISO LIDER MARINE FRESH 5 LT.,Cuidado del Hogar,Limpieza de Living y Ropero
+240594,LIMPIA PISO LIDER PINO FRESH 5 LT.,Cuidado del Hogar,Limpieza de Living y Ropero
+240595,LIMPIA PISO LIDER LAVANDA FRESH 5 LT.,Cuidado del Hogar,Limpieza de Living y Ropero
 240596,LIMPIA BANO LIDER RECARGA 850 ML.,Cuidado del Hogar,Limpieza de Baños
 240597,LIMPIA BANO LIDER ATOMIZADOR 850 ML.,Cuidado del Hogar,Limpieza de Baños
 240598,Jabon Liquido Naturessa Coconut 1 L,Cuidado Personal,Cuidado de la Piel
@@ -10209,6 +10238,10 @@ id_producto,producto,categoria,subcategoria
 250681,Tinte Casting Tono 610 Café Late,Cuidado Personal,Cuidado del Cabello
 250732,Limpiador Desinfectante Jardin Lavanda 4 L,Cuidado del Hogar,Limpieza de Baños
 250901,Bolsa Basura Belen Rayada 60X80 cm,Cuidado del Hogar,Accesorios del Hogar
+251001,MOSTAZA ARTESANO DP 985G,Abarrotes,Aderezos
+251002,KETCHUP ARTESANO PET 400G,Abarrotes,Aderezos
+251004,MAYONESA ARTESANO DP 485ML,Abarrotes,Aderezos
+251005,KETCHUP ARTESANO DP 490G,Abarrotes,Aderezos
 251055,Salsa Criollita Picante de Lengua 300 ml,Abarrotes,Condimentos y Legumbres
 251056,Salsa Criolla Picante de Pollo 300 ml,Abarrotes,Condimentos y Legumbres
 251057,Salsa Criolla Falso Conejo 300 ml,Abarrotes,Condimentos y Legumbres
@@ -10522,6 +10555,7 @@ id_producto,producto,categoria,subcategoria
 280461,RUBOR CLOUDTOPIA ENCHANT MAUVE,Cuidado Personal,Cuidado de la Piel
 280462,RUBOR CLOUDTOPIA SOLAR SERENITY,Cuidado Personal,Cuidado de la Piel
 280463,CONTORNO SCULPTING STIX BLACK BLUR 016,Cuidado Personal,Cuidado de la Piel
+280465,VAJILLERO FINISH  20 UNDS,Cuidado del Hogar,Productos Americanos
 280469,PACK NINET CLASICA X 30 UNID,Cuidado del Bebé,Cuidado del Bebé
 280470,DEINFECT AROMA Y DEO ROCIO NAVIDAD  360,Cuidado del Hogar,Limpieza de Living y Ropero
 280475,GUANTES DE GOMA DOMESTICOS TOTES  XL,Cuidado del Hogar,Accesorios del Hogar
@@ -10559,6 +10593,9 @@ id_producto,producto,categoria,subcategoria
 283851,Maizena Duryea 500 gr,Abarrotes,Básicos
 283990,Azucar Unagro Morena 5 kg,Abarrotes,Básicos
 283991,Azucar Unagro Morena 1 kg,Abarrotes,Básicos
+284023,JABON LIQ CARISSA MANZANA CANELA 360ML,Cuidado Personal,Cuidado de la Piel
+284024,JABON LIQ  CARISSA NAVIDAD CREMA 360ML,Cuidado Personal,Cuidado de la Piel
+284027,PAPEL NACIONAL SELECTO TH MEGA 12 UNDS,Cuidado Personal,Cuidado Familiar
 284084,Masticable Skittles Original 61.5 gr,Abarrotes,Golosinas - Varias
 284092,Masticable Skittles Wild Berry 61.5 gr,Abarrotes,Golosinas - Varias
 284107,Masticable Skittles Sour 51 gr,Abarrotes,Golosinas - Varias
@@ -11117,6 +11154,7 @@ id_producto,producto,categoria,subcategoria
 312286,PACK 2 VINO C SOLANA ROSE 1MANJAR D ORO,Bebidas,Vinos y Champagne
 312287,PACK LAZZARONI 1QUINUA 1INTEGRAL 1UTENS,Abarrotes,Básicos
 312288,Harina De Quinoa Nutrace 1 kg,Abarrotes,Básicos
+312289,Sal Rosada Montesal Pescados Y Mariscos Frasco 120 gr,Abarrotes,Condimentos y Legumbres
 312290,Huevo Bon o Bon Leche 110 gr,Abarrotes,Temporada
 312291,Sal Rosada Montesal Carnes Frasco 120 gr,Abarrotes,Condimentos y Legumbres
 312292,Sal Rosada Montesal Pollo Y Aves Frasco 120 gr,Abarrotes,Condimentos y Legumbres
@@ -11245,7 +11283,7 @@ id_producto,producto,categoria,subcategoria
 314081,Crema Lechuga Manos Anti Edad 75 gr,Cuidado Personal,Cuidado de la Piel
 314536,Jugo Ocean Spray Cranberry 64 oz,Bebidas,Bebidas Usa
 314587,Poroto Bushs Homestyle 28 oz,Abarrotes,Productos Americanos
-314625,Shampooo Neutro  Neutro 1recuentre  S,Bazar,Mascotas General
+314625,Shampoo Neutro  Neutro 1recuentre  S,Bazar,Mascotas General
 314900,Canaston Especial A Scz,Abarrotes,Temporada
 314978,Bombon Nestle Especialidades 251 gr,Abarrotes,Chocolates y Caramelos
 314994,Galleta Champañera Victoria 99 gr,Abarrotes,Galletas
@@ -12751,6 +12789,7 @@ id_producto,producto,categoria,subcategoria
 373827,Papel Higienico Clasico Celeste 12 un,Cuidado Personal,Cuidado Familiar
 373828,Papel Higienico Clasico Celeste 6 un,Cuidado Personal,Cuidado Familiar
 373860,Vasos Desechable Dispack 150 ml 100 un,Bazar,Cotillón
+373917,DA BANDEJA DE MADERA 49,Bazar,Menaje Mimbre/Madera/Bambhu
 373951,ASADERA RECTANGULAR MARINEX 2.7LT ASAS 6535,Bazar,Menaje Vidrio/Cristal
 373955,Bandeja Marinex Asadera Ovalada 4.2 L,Bazar,Menaje Vidrio/Cristal
 373956,Asadera Rectangu.ar Marinex 3.5 L,Bazar,Menaje Vidrio/Cristal
@@ -14784,6 +14823,15 @@ id_producto,producto,categoria,subcategoria
 516287,Hielo Hipermaxi 2 kg,Bebidas,Hielos
 516720,BON O BON LECHE 112 GR,Abarrotes,Chocolates y Caramelos
 516807,Paño Esponja Esfrebom Bettanin 1 un,Cuidado del Hogar,Accesorios del Hogar
+517113,MAYONESA ARTESANO DP 225ML,Abarrotes,Aderezos
+517114,MAYONESA ARTESANO DP 980ML,Abarrotes,Aderezos
+517115,KETCHUP ARTESANO DP 985G,Abarrotes,Aderezos
+517116,DURAZNO AL JUGO ARTESANO 820G,Abarrotes,Frutas en Conserva
+517120,MAYONESA ARTESANO PET 360ML,Abarrotes,Aderezos
+517121,KETCHUP ARTESANO DP 200G,Abarrotes,Aderezos
+517123,MAYONESA ARTESANO DP 2860ML,Abarrotes,Aderezos
+517124,KETCHUP ARTESANO DP 2860G,Abarrotes,Aderezos
+517128,CAFE ARTESANO INSTANT FCO 200G,Abarrotes,Café y Sucedáneos
 517313,Vinagre Favinco de Vino 500 ml,Abarrotes,Básicos
 517321,Vinagre Favinco de Manzana 500 ml,Abarrotes,Básicos
 517330,Vinagre Favinco de Alcohol 500 ml,Abarrotes,Básicos
@@ -16628,7 +16676,7 @@ id_producto,producto,categoria,subcategoria
 552885,GALLETAS SURTIDA DE ORO SAN GABRIEL 600,Abarrotes,Temporada
 552886,GALLETAS SURTIDO DIN DON DAN CARSA 600 G,Abarrotes,Temporada
 552887,GALLETAS SURTIDAS TONINO CARSA 600 GR,Abarrotes,Temporada
-552888,GALLETAS SURT TONINO CARSA 300 GR,Abarrotes,Temporada
+552888,Galleta Carsa Surtido Tonino 300 gr,Abarrotes,Temporada
 552889,GALLETAS DULCE HOGAR CARSA CAJA 800 GR,Abarrotes,Temporada
 552890,HARINA TRIGAL SUPREMA 11.35 KG,Abarrotes,Básicos
 552891,Bebida Proteica Delizia Piña 500 ml,Bebidas,Bebidas Varias
@@ -17066,7 +17114,7 @@ id_producto,producto,categoria,subcategoria
 553362,Espumante Chakana Nuna Brut Nature 750 ml,Bebidas,Vinos y Champagne
 553364,PACK 2 GALLETA WAFER COLOMBINA,Abarrotes,Galletas
 553365,PACK GALLETA BRINKY CHOCOL VAINILLA 300G,Abarrotes,Galletas
-553366,Grageas De Cafe Y Chocolate 75% Con Stevia Ruah 50 gr,Abarrotes,Chocolates y Caramelos
+553366,Grageas De Cafe Y Chocolate 75% Con Stevia Ruah 50 gr,Abarrotes,Dietéticos y Saludables
 553367,Nibs De Cacao Chocolate Amargo 75% Ruah 50 gr,Abarrotes,Chocolates y Caramelos
 553368,Grageas De Quinua Con Chocolate Y Stevia Ruah 50 gr,Abarrotes,Chocolates y Caramelos
 553370,CEREAL SPECIAL K TRIPLE BERRY 331 GR,Abarrotes,Productos Americanos
@@ -17585,6 +17633,7 @@ id_producto,producto,categoria,subcategoria
 554166,Jugo De La Granja Mandarina 2 L,Bebidas,"Jugos, Néctar"
 554167,Mermelada Reyna Frutilla Pote 200 gr,Abarrotes,"Mermel, Mieles"
 554169,SALSA CARNO PINA HABANERO PIC DP 360 GR,Abarrotes,Aderezos
+554170,Salsa Barbacoa Carno Doypack 360 gr,Abarrotes,Aderezos
 554171,Caramelo Masticable Yoghurt Fresa Bolsa 500 gr,Abarrotes,Chocolates y Caramelos
 554172,Caramelo Relleno Miel Dori Bolsa 500 gr,Abarrotes,Chocolates y Caramelos
 554173,Caramelos Masticables Lokino Bolsa 400 gr,Abarrotes,Chocolates y Caramelos
@@ -17600,6 +17649,10 @@ id_producto,producto,categoria,subcategoria
 554183,Caramelo Relleno Chocolate Love Colombina 450 gr,Abarrotes,Chocolates y Caramelos
 554184,Chocolate Mani epico 28 gr,Abarrotes,Golosinas - Varias
 554186,Vape Waka Cherry Bomb Apex 30000 Puffs,Bebidas,Cigarrillos
+554187,Barra Multicereal Berries Gabriel 240 gr,Abarrotes,Nutrición Infantil
+554188,Barra Multicereal Frutos Rojos Gabriel 240 gr,Abarrotes,Nutrición Infantil
+554189,Barra Multicereal Chocomani Gabriel 240 gr,Abarrotes,Nutrición Infantil
+554190,Barra Multicereal Mantequilla De Mani Gabriel 240 gr,Abarrotes,Nutrición Infantil
 554191,Chupete Spring Pop Tradicional Surtido 12 gr,Abarrotes,Productos Americanos
 554192,Chupete Ring Pop Tradicional Surtido 10 gr,Abarrotes,Productos Americanos
 554193,Chupete Ring Pop Twisted Surtido 10 gr,Abarrotes,Productos Americanos
@@ -17625,14 +17678,26 @@ id_producto,producto,categoria,subcategoria
 554230,Achocolatado Choco Bros Irupana 1000 gr,Abarrotes,Nutrición Infantil
 554231,Achocolatado Choco Bros Irupana 400 gr,Abarrotes,Nutrición Infantil
 554232,Achocolatado Choco Bros Irupana 200 gr,Abarrotes,Nutrición Infantil
+554233,WAFLES LA FRANCESA  MOKA 230 GR,Abarrotes,Galletas
 554234,WAFLES LA FRANCESA VAINILLA 230 GR,Abarrotes,Galletas
 554237,Atun San Lucas Grated En Aceite 165 gr,Abarrotes,Comidas en Conserva
 554238,Atun San Lucas Grated En Agua Y Sal 165 gr,Abarrotes,Comidas en Conserva
 554239,Mix Frutos Secos Waras 250 gr,Abarrotes,Frutas en Conserva
 554240,MIX WARAS FRUTA DESHID CON CHOCOLATE 90,Abarrotes,Frutas en Conserva
 554244,PACK CONDOR CHOC HALLOWEEN CJA150 GR,Abarrotes,Temporada
+554254,AVENA IRUPANA INSTANTANEA CJA 300 GR,Abarrotes,Nutrición Infantil
 554259,HARINA D TRIGO KRIOLLA 000 1KG,Abarrotes,Básicos
+554260,BEBIDA CONTINI ICE MANGA BOT 275ML,Bebidas,Licores
+554261,BEBIDA CONTINI ICE POMELO BOT 275ML,Bebidas,Licores
+554262,BEBIDA CONTINI ICE SANDIA BOT 275ML,Bebidas,Licores
+554280,GALLETAS AUNT BAKER DISENOS LTA 100 GR,Abarrotes,Productos Americanos
+554281,GALLETAS AUNT BAKER DISENOS LTA 270 GR,Abarrotes,Productos Americanos
 554282,GALLETAS AUNT BAKER LTA CUAD 100 GR,Abarrotes,Productos Americanos
+554283,WAFER ROLLS CHOCOLATE LTA 100 GR,Abarrotes,Productos Americanos
+554284,WAFER ROLLS FRUTILLA LTA 100 GR,Abarrotes,Productos Americanos
+554285,WAFER ROLLS CAPPUCINO LTA 100 GR,Abarrotes,Productos Americanos
+554286,GALLETAS CARILO LATA OVALADA 340 GR,Abarrotes,Productos Americanos
+554287,MERMELADA D FRUT HIGO 0 AZUCAR FCO 355 G,Abarrotes,Dietéticos y Saludables
 554333,Cerveza Paceña Lata Roja 473 Cc,Bebidas,Cervezas
 554466,Detergente Liquido Ola Futuro Limpieza Completa 5 L,Cuidado del Hogar,Limpieza de la Ropa
 554468,Suavizante Ropa Ola Suavecito Original 5 L,Cuidado del Hogar,Limpieza de la Ropa
@@ -18664,6 +18729,7 @@ id_producto,producto,categoria,subcategoria
 619861,Oregano Molido Badia 1.5 oz,Abarrotes,Productos Americanos
 619903,Chocolate Lindt Classic White 125 gr,Abarrotes,Chocolates y Caramelos
 619969,Cereal Kelloggs Corn Flakes 12 oz,Abarrotes,Productos Americanos
+619970,Cereal Kelloggs Corn Flakes 18 oz,Abarrotes,Productos Americanos
 619995,Galleta Wafer Pirouline Hazelnet Chocolate 92 gr,Abarrotes,Chocolates y Caramelos
 620004,Cereal Kelloggs Special Red Berries 331 gr,Abarrotes,Productos Americanos
 620011,Aji Amarillo Grano de Oro Vaina 100 gr,Abarrotes,Condimentos y Legumbres
@@ -18928,6 +18994,9 @@ id_producto,producto,categoria,subcategoria
 629868,Canela En Polvo Badia 113.4 gr,Abarrotes,Productos Americanos
 629869,SODA DR PEPPER VANILLA FLOAT 355ML,Bebidas,Bebidas Usa
 629870,Aceituna Negras Lindsay 170 gr,Abarrotes,Productos Americanos
+629872,SODA SAN PELLEGRINO CIAO LIME 330 ML,Bebidas,Bebidas Usa
+629873,SODA SAN PELLEGRINO CIAO DURAZNO 330ML,Bebidas,Bebidas Usa
+629874,SODA SAN PELLEGRINO CIAO BLOOD ORANGE 330ML,Bebidas,Bebidas Usa
 629876,TOALLAS DE PAPEL BOUNTY PRINTS,Cuidado del Hogar,Productos Americanos
 629881,Salsa Hellmanns Barbacoa 375 gr,Abarrotes,Productos Importados
 629882,Salsa Hellmanns Golf 250 gr,Abarrotes,Productos Importados
@@ -18938,6 +19007,7 @@ id_producto,producto,categoria,subcategoria
 629899,CEREAL APPLE CINNAMON CHERRIOS 311 GR,Abarrotes,Productos Americanos
 629901,CHUPETE BOLLIPOP BONART 11 GR,Abarrotes,Productos Americanos
 629911,SALSA PREGO CREMA PARMESANO 411 GR,Abarrotes,Productos Americanos
+629915,SALSA PREGO PARMESANO AJO ASADO 411 GR,Abarrotes,Productos Americanos
 629917,PAPAS FRITAS SUN CHIPS SABOR CHEEDAR 67.3GR,Abarrotes,Productos Americanos
 629918,PAPAS FRITAS SUN CHIPS SABOR SALSA JARDIN 67.3 GR,Abarrotes,Productos Americanos
 629922,Mostaza Heinz Natural 794 gr,Abarrotes,Productos Americanos
@@ -25074,7 +25144,7 @@ id_producto,producto,categoria,subcategoria
 690488,Chocolate Breick Semi Amargo 0 Azucar 100 gr,Abarrotes,Chocolates y Caramelos
 690495,Chocolate Breick Blanco Sin Azucar 100 gr,Abarrotes,Chocolates y Caramelos
 690496,Chocolate Breick Leche Mani 0 Azucar 100 gr,Abarrotes,Chocolates y Caramelos
-690497,Chocolate Breick Almendra 0 Azucar 100 gr,Abarrotes,Chocolates y Caramelos
+690497,Chocolate Breick Almendra 0 Azucar 100 gr,Abarrotes,Dietéticos y Saludables
 690498,Chocolate Breick Leche 0 Azucar 100 gr,Abarrotes,Chocolates y Caramelos
 690504,Chocolate Breick Relleno Surtido 95 gr,Abarrotes,Chocolates y Caramelos
 690519,Bombon Breick Selectos 130 gr,Abarrotes,Chocolates y Caramelos
@@ -26917,6 +26987,7 @@ id_producto,producto,categoria,subcategoria
 808166,Barquillo Costa Obsesion Almendra Chocolate 85 gr,Abarrotes,Galletas
 808168,BR HERVIDOR DE LECHE 12CM CL SUPREMA VAN,Bazar Importación,Cocina General
 808288,BR SARTEN WOK C TAPA 24 CM CL SUPREMA VAN,Bazar Importación,Cocina General
+808292,BR SARTEN WOK C TAPA 28 CM CL SUPREMA VAN,Bazar Importación,Cocina General
 808294,BR OLLA C TAPA 16 CM CL SUPREMA VAN,Bazar Importación,Cocina General
 808302,BR OLLA C TAPA 18 CM CL SUPREMA VAN,Bazar Importación,Cocina General
 808313,BR OLLA C TAPA 20CM CL SUPREMA VAN,Bazar Importación,Cocina General
@@ -26937,6 +27008,8 @@ id_producto,producto,categoria,subcategoria
 809041,BR OLLA A PRESION 3L C L VAPT GRIS,Bazar Importación,Cocina General
 809093,BR OLLA A PRESION 3L C L VAPT VAN,Bazar Importación,Cocina General
 809101,BR OLLA A PRESION 4 5L C L VAPT GRIS,Bazar Importación,Cocina General
+809133,BR OLLA A PRESION 4 5L C L VAPT VAN,Bazar Importación,Cocina General
+809146,BR OLLA A PRESION 7 5L C L VAPT VAN,Bazar Importación,Cocina General
 809162,BR CUCHARA DE POSTRE 12 PZAS ACERO INOX 0 6MM LINEA SIENA,Bazar Importación,Cocina General
 809168,BR CUCHARA DE MESA NEGRO 3PZAS LINEA ITAPARICA,Bazar Importación,Cocina General
 809170,BR CUCHARA DE MESA ROJO LINEA ITAPARICA 3PZAS BLISTER,Bazar Importación,Cocina General
@@ -26950,6 +27023,7 @@ id_producto,producto,categoria,subcategoria
 809183,BR JUEGO DE CUBIERTOS 24 PZAS RIVERA NEGRO,Bazar Importación,Cocina General
 809184,Juego de Cubierto Itaparica Negro Acero Inox 16 un,Bazar Importación,Cocina General
 809185,Juego de Cubierto Itaparica Rojo Acero Inox 16 un,Bazar Importación,Cocina General
+809187,BR JUEGO CUBIERTOS P BARBACOA JUMBO 12PZS NEG,Bazar Importación,Cocina General
 809192,BR JUEGO 6 PZAS DE ESPATULAS PARA MANTEQUILLA,Bazar Importación,Cocina General
 809193,BR CUCHARA 3 PZAS PARA HELADO ACERO INOXIDABLE,Bazar Importación,Cocina General
 809196,BR ABRIDOR DE LATAS PLUS VERONA ACERI INOXIDABLE,Bazar Importación,Cocina General
@@ -27236,6 +27310,8 @@ id_producto,producto,categoria,subcategoria
 815548,CH 42 3 COJIN GRIS CON LINEAS BLANCAS Y GRISES 42X42CM,Bazar Importación,Living y Dormitorio
 815549,CH 42 5 COJIN VERDE CON LINEAS PEQUENAS BLANCAS 42X42CM,Bazar Importación,Living y Dormitorio
 816328,Posa Vasos Con Base de Bambu Set 6 un,Bazar Importación,Cocina General
+816332,CH 36 1 SET DE ASEO PERSONAL X5 PZAS EN ENVASE DE BAMBU,Bazar Importación,Baño General
+816333,CH 36 2 SET DE ASEO PERSONAL X5 PZAS EN ENVASE DE BAMBU,Bazar Importación,Baño General
 816334,CH 36 3 SET DE ASEO PERSONAL X6PZAS EN ENVASE DE BAMBU,Bazar Importación,Baño General
 816356,Maletin de Manicure,Juguetería,Juguetería Niña/Bebé
 816361,DISE¥O BRAZALETES COLORIDOS,Juguetería,Juguetería Niña/Bebé
@@ -27692,6 +27768,7 @@ id_producto,producto,categoria,subcategoria
 821472,Copa de Champagne Aragon Liso,Bazar,Menaje Vidrio/Cristal
 821474,Vasoo Liso Po Popular 6recuentre 2860 P,Bazar,Menaje Vidrio/Cristal
 821530,Quitamanchas Vanish Poder Oxi Action 450 gr,Cuidado del Hogar,Limpieza de la Ropa
+821536,CH S01 TAZA CON DISENO DE RAYAS EN TONOS PASTEL 350ML,Bazar Importación,Menaje Porcelana/Cerámica
 821565,Jabon Barra Cavallaro Coco 500 gr,Cuidado del Hogar,Limpieza de la Ropa
 822028,Cafe Nescafe Tradicion Tapa Roja 100 gr,Abarrotes,Café y Sucedáneos
 822062,PAN 3349 SET D ZUNCHOS 100PZAS,Bazar Importación,Ferretería
@@ -27711,12 +27788,15 @@ id_producto,producto,categoria,subcategoria
 824326,Sazonador McCormick Italian 177 gr,Abarrotes,Condimentos y Legumbres
 824331,Sazonador McCormick Oregano 141 gr,Abarrotes,Condimentos y Legumbres
 824351,Sazonador McCormick Steak Montreal 822 gr,Abarrotes,Condimentos y Legumbres
+824581,CH ZR02 INDIVIDUAL REDONDO 38CM COLOR GRIS CLARO,Bazar Importación,Cocina General
+824582,CH ZR03 INDIVIDUAL REDONDO 38CM COLOR BEIGE,Bazar Importación,Cocina General
 824688,Mermelada Smucker's Fresa 340 gr,Abarrotes,"Mermel, Mieles"
 824716,Jabonera con Escurridor,Bazar,Menaje Plástico
 824826,Jugo V8 Splash Fruit Medley 16 oz,Bebidas,Bebidas Usa
 824831,JUGO V8 SPLASH BERRY BLEND 16 OZ,Abarrotes,Productos Americanos
 824846,JUGO V8 SPLASH STRAWBERRY KIWI 16 OZ,Abarrotes,Productos Americanos
 824866,JUGO V8 SPLASH TROPICAL BLEND 16 OZ,Abarrotes,Productos Americanos
+825048,CH R02 1 INDIVIDUAL RECTANGULAR 30X45CM PLOMO OSCURO,Bazar Importación,Cocina General
 825641,Refresco Livean Naranja 9 gr,Abarrotes,Dietéticos y Saludables
 825661,Refresco Livean Fresa 9 gr,Abarrotes,Dietéticos y Saludables
 825676,Refresco Livean Durazno 9 gr,Abarrotes,Dietéticos y Saludables
@@ -27979,12 +28059,19 @@ id_producto,producto,categoria,subcategoria
 836364,Filete Pejerrey Lagos Titicaca kg,Congelados,Carnes Congeladas
 836375,Sombreros Halloween,Bazar,OTROS
 836460,CI DUCHA ELECTRICA TRAMONTINA TEMP VARIABLE,Bazar,Ferretería
+836514,CH 23 41 TAZA BICOLOR COLORES SURTIDOS 8 6X13 5CM,Bazar Importación,Menaje Porcelana/Cerámica
+836549,CH 796 1 INDIVIDUAL PARA MESA 30X45CM,Bazar Importación,Cocina General
+836565,CH 796 2 INDIVIDUAL PARA MESA BORDE GRUESO 30X45CM,Bazar Importación,Cocina General
+836572,CH 796 3 INDIVIDUAL PARA MESA DOBLE BORDE 30X45CM,Bazar Importación,Cocina General
+836574,CH 796 5 INDIVIDUAL BORDE ONDULADO COLOR SURTIDO 38CM,Bazar Importación,Cocina General
 836631,Jamon Artesanal Stege 1 kg,Fiambres,Fiambres Externos
 836646,Yogurt Pil Bebible Frutilla Bote 1 L,Lácteos y Derivados,Yogures
 836651,Yogurt Pil Bebible Light Frutilla 1 L,Lácteos y Derivados,Yogures
+836665,CH 796 9 INDIVIDUAL REDONDO COLOR SURTIDO 38CM,Bazar Importación,Cocina General
 836666,Yogurt Pil Bebible Durazno Bote 1 L,Lácteos y Derivados,Yogures
 836671,Yogurt Pil Bebible Light Durazno 1 L,Lácteos y Derivados,Yogures
 836686,Yogurt Pil Bebible Natural Bote 1 L,Lácteos y Derivados,Yogures
+836689,CH 796 10 INDIVIDUAL REDONDO COLOR SURTIDO 38CM,Bazar Importación,Cocina General
 836700,Jugo de Naranja 500 ml,Frutas y Verduras,Ofertas Especiales
 836801,Paliglogo 12 un,Bazar,Cotillón
 836860,Pilas Energizer Alcalina AA 6 un,Bazar,Ferretería
@@ -28094,9 +28181,13 @@ id_producto,producto,categoria,subcategoria
 839737,Porta Vela de Vidrio,Bazar,Living y Dormitorio
 839756,Juguete Set Bomberos,Juguetería,Juguetería Niño/Bebé
 839770,Globo Diseños Surtidos,Bazar,Cotillón
+839796,CH 29 1 TAZA LISA COLOR ENTERO 500ML,Bazar Importación,Menaje Porcelana/Cerámica
+839797,CH 29 2 TAZA FONDO BLANCO 500ML,Bazar Importación,Menaje Porcelana/Cerámica
 839800,FIL PVC ALPFILM 28X300 MT,Bazar,Articulos de Cocina
 839810,Set Cuchara Tramontina Roja,Bazar,Articulos de Cocina
+839819,CH 29 6 TAZA GRANDE JASPEADA 700ML COLOR SURTIDO,Bazar Importación,Menaje Porcelana/Cerámica
 839824,VASO TERMICO DESECAHBLE DART 300ML,Bazar,Cotillón
+839859,CH 29 18 TAZA CON RAYAS VERTICALES 500ML,Bazar Importación,Menaje Porcelana/Cerámica
 839895,Palitos Sticks Hueso de Carne 70 gr,Bazar,Mascotas General
 839896,Alimento Sticks Palitos Hueso Natural 70 gr,Bazar,Mascotas General
 839902,Palitos Sticks Hueso de Pollo 70 gr,Bazar,Mascotas General
@@ -28178,6 +28269,9 @@ id_producto,producto,categoria,subcategoria
 841061,CH 14 21 JARRA DE VIDRIO 950ML CON INFUSOR DE ACERO Y TAPA P,Bazar Importación,Cocina General
 841062,CH 14 22 JARRA DE VIDRIO 550ML CON INFUSOR DE ACERO Y TAPA P,Bazar Importación,Cocina General
 841064,CH 14 24 JARRA DE VIDRIO 750ML CON INFUSOR DE ACERO BASE CUA,Bazar Importación,Cocina General
+841066,CH 29 3B TAZA LINEAS DELGADAS EN RELIEVE 550ML,Bazar Importación,Menaje Porcelana/Cerámica
+841067,CH 29 4A TAZA FONDO BLANCO 450ML COLOR SURTIDO,Bazar Importación,Menaje Porcelana/Cerámica
+841073,CH 19 4 BOWL LINEAS HORIZONTALES 450ML COLOR SURTIDO,Bazar Importación,Menaje Porcelana/Cerámica
 841080,AUTO ESPELHAMENTO CENTRAL SUL 500 ML,Bazar,Automotriz
 841082,Tomatodo Termico Azul Borde Transparente 900 ml,Bazar Importación,Menaje Metálico
 841083,Tomatodo Termico Verde Borde Transparente 900 ml,Bazar Importación,Menaje Metálico
@@ -28268,6 +28362,9 @@ id_producto,producto,categoria,subcategoria
 842486,JUEGO CUBIERTOS 24PZAS MALIBU NEGRO,Bazar,Articulos de Cocina
 842499,JUEGO UTENSILIOS 5PZAS ABILITY NEGRO,Bazar,Articulos de Cocina
 842527,Bolsa Zipper Congelar 15 un,Bazar,Articulos de Cocina
+842722,CH 26 14 BOTELLA TERMICA 900ML COLOR BEIGE OSCURO,Bazar Importación,Menaje Metálico
+842723,CH 26 15 BOTELLA TERMICA 900ML COLOR BEIGE CLARO,Bazar Importación,Menaje Metálico
+842725,CH 26 17 BOTELLA TERMICA 900ML COLOR NEGRO,Bazar Importación,Menaje Metálico
 843151,Plato Sopero,Bazar Importación,Menaje Porcelana/Cerámica
 843169,CH S20 15 RECIPIENTE HERMETICO PLASTICO REDONDO CON TAPA COL,Bazar Importación,Temporada Carnaval
 843174,CH S20 20 RECIPIENTE HERMETICO PLASTICO CUADRADO CON TAPA CO,Bazar Importación,Temporada Carnaval
@@ -28655,6 +28752,14 @@ id_producto,producto,categoria,subcategoria
 847061,Taper Rectangular Con 2 Divisiones - M&R,Bazar,Menaje Plástico
 847092,Curry El Cocinero 65 gr,Abarrotes,Condimentos y Legumbres
 847101,Comino El Cocinero Completo 75 gr,Abarrotes,Condimentos y Legumbres
+847151,Bowl Con Diseño De Gotas y Borde Cafe 11.5x6.5 cm,Bazar Importación,Menaje Porcelana/Cerámica
+847152,Bowl Con Diseño Floral Bode Cafe 11.5x6.5 cm,Bazar Importación,Menaje Porcelana/Cerámica
+847154,Bowl Con Diseño Flores Cafe y Azul 11.5x6.5 cm,Bazar Importación,Menaje Porcelana/Cerámica
+847155,Bowl Con Diseño Flores Azules Borde Cafe 11.5x6.5 cm,Bazar Importación,Menaje Porcelana/Cerámica
+847157,Bowl Con Diseño Flores Cafe y Azul 11.5x6.5 cm,Bazar Importación,Menaje Porcelana/Cerámica
+847158,Bowl Con Diseño Abstracto 11.5x6.5 cm,Bazar Importación,Menaje Porcelana/Cerámica
+847160,Bowl Con Diseño Hojas Azules Borde Oscuro 11.5x6.5 cm,Bazar Importación,Menaje Porcelana/Cerámica
+847166,Bowl Con Diseño Azules Borde Café 11.5x6.5 cm,Bazar Importación,Menaje Porcelana/Cerámica
 847283,Chupon en Cajita,Bazar,Articulos de Bebé
 847291,Plato de Mascota 2x1,Bazar,Mascotas General
 847334,Gaseosa Simba Pomelo 2 L,Bebidas,Gaseosas
@@ -28833,11 +28938,14 @@ id_producto,producto,categoria,subcategoria
 849477,Vincha Flores Negras Halloween 19 x 20 cm,Bazar Importación,OTROS
 849478,CH 7 214 VINCHA CATRINA HALLOWEEN 23X20CM,Bazar Importación,OTROS
 849488,Vincha Ojos Halloween 21 x 21 cm,Bazar Importación,OTROS
+849607,Tinte Koleston Tono 5546 Rojo Exotico,Cuidado Personal,Cuidado del Cabello
 849616,CH 7 22 MANO VERDE HALLOWEEN PARA DULCES 63X19CM,Bazar Importación,OTROS
 849635,CH HM 44 PLATO PLANO GRANDE 27X27CM BORDE MARRON,Bazar Importación,Menaje Porcelana/Cerámica
 849846,Limpiador Desinfectante Ola Aromatic Flores 5 L,Cuidado del Hogar,Limpieza de Baños
 849850,Mermelada Campagnola Durazno 454 gr,Abarrotes,"Mermel, Mieles"
+849884,CH 12 8 TERMO 1500ML C TAPA Y VASO PLATEADP COLOR SURTIDO,Bazar Importación,Cocina General
 849897,Limpiador Desinfectante Ola Aromatic Pino 5 L,Cuidado del Hogar,Limpieza de Baños
+849904,CH 12 20 VASO TERMICO 1200ML AMSZM COLORES SURTIDOS,Bazar Importación,Menaje Metálico
 849952,Set Condimenteros Tapa Bambu 6 un,Bazar Importación,Cocina General
 849953,Set 5 Bandeja Bandeja Cuadrada con 3 Salsero,Bazar Importación,Menaje Porcelana/Cerámica
 849956,Bandeja para Torta con Tapa Set 2 pz,Bazar Importación,Cocina General
@@ -29959,6 +30067,7 @@ id_producto,producto,categoria,subcategoria
 859738,Crema Pil de Leche 1 L,Lácteos y Derivados,Crema de Leche
 859764,Exprimidor de Jugo Black Deker,Bazar,Electrodoméstico/Línea Blanca-Hogar
 859815,CUCHILLO PELADOR 9.5 CM NERO ILKO,Bazar,Articulos de Cocina
+859838,CH 41 3 SET DE ASEO PERSONAL X7PZAS EN ENVASE DE BAMBU 23X17,Bazar Importación,Baño General
 859879,Leña El Fogon Sku Familiar 1.4 kg,Bazar,Churrasquería
 859880,Leña El Fogon Sku Familiar 8 kg,Bazar,Churrasquería
 859984,CH 24 49 BOWL FONDO BLANCO 500ML,Bazar Importación,Menaje Porcelana/Cerámica
@@ -29994,6 +30103,7 @@ id_producto,producto,categoria,subcategoria
 861068,PINZA DE DEPILAR PUNTA CANGR. BETER,Bazar,Bijouteria/Cuidado Personal
 861069,RIZADOR PARA PESTANAS  BETER,Bazar,Bijouteria/Cuidado Personal
 861070,Corta Cuticula Beter,Bazar,Bijouteria/Cuidado Personal
+861106,DA PLATO CHURASQUERO  49,Bazar,Menaje Mimbre/Madera/Bambhu
 861127,Agua de Coco Goya Coconut 350 ml,Bebidas,Bebidas Varias
 861152,Spaguetti Barilla 454 gr,Abarrotes,Productos Americanos
 861198,JAN NESECER MEDIANO  28,Bazar,Bijouteria/Cuidado Personal
@@ -30050,11 +30160,13 @@ id_producto,producto,categoria,subcategoria
 861455,JAN NESECER X2  45,Bazar,Bijouteria/Cuidado Personal
 861470,Masticable Dori Frutas Rojas 600 gr,Abarrotes,Chocolates y Caramelos
 861486,Audifonos Stereo Huavi E,Bazar,Computadora/Cámara/Filmadora y Accesorio
+861487,CH 26 13 TAZA TEXTURA DE LINEAS 450ML COLORES SURTIDOS,Bazar Importación,Menaje Porcelana/Cerámica
 861501,MONDADIENTES PARANA BAMBU 100UND,Bazar,Churrasquería
 861508,AMBIENT.AUTO CALIFORNIA SCENTS HIELO,Bazar,Automotriz
 861517,BANDEJA PLASTICA BELEN 200 CCX25UND,Bazar,Cotillón
 861519,BANDEJA CUADRADA BELEN 1/8X25UND,Bazar,Cotillón
 861521,BANDEJA PLASTICA BELEN 1/2 X25UND,Bazar,Cotillón
+861562,CH 26 14 TAZA TEXTURA DE LINEAS GRUESAS 450ML COLOR SURTIDO,Bazar Importación,Menaje Porcelana/Cerámica
 861571,Conservador Hermetico Rey 4 L,Bazar,Menaje Plástico
 861598,Mojo Marinade Badia 20 oz,Abarrotes,Aderezos
 861612,JAN PIRANA METALICA 10,Bazar,Bijouteria/Cuidado Personal
@@ -30197,6 +30309,8 @@ id_producto,producto,categoria,subcategoria
 863989,BANDEJA COPOBRAS CR001 X10UND,Bazar,Cotillón
 864030,HIP SET DE TOALLAS 99,TEXTILES Y ZAPATOS,TOALLAS
 864081,HIP TOALLA CON CAPUCHA NINO 78,TEXTILES Y ZAPATOS,TOALLAS
+864153,CH 263 TAZA AZUL MARINO 414ML,Bazar Importación,Menaje Porcelana/Cerámica
+864195,CH 12 17 TERMO 1600ML CON PICO COLOR NEGRO,Bazar Importación,Cocina General
 864258,TAPER CLICK BASA 430ML CUADRADO,Bazar,Menaje Plástico
 864261,TAPER CLICK BASA 1.3LT RECTANGULAR,Bazar,Menaje Plástico
 864323,JAN MUNECO NAVIDAD GRANDE 21,Bazar,Temporada Navidad
@@ -30384,6 +30498,7 @@ id_producto,producto,categoria,subcategoria
 867796,CO TOMA TODO  PLASTICA MUNDIAL DURAMAS,Bazar,Temporadas Restantes
 867797,CO ALCANCIAS PELOTA MUNDIALERA DURAMAS,Bazar,Temporadas Restantes
 867800,Rábano,Frutas y Verduras,Verduras
+867837,BR HERVIDOR  14 CM CL SUPREMA VAN,Bazar Importación,Cocina General
 867863,Figuritas Mundial Panini FIFA 2026,Bazar,Temporadas Restantes
 867864,Album Mundial Panini FIFA 2026,Bazar,Temporadas Restantes
 867880,JAN TAZA DE CERAMICA 19,Bazar,Menaje Porcelana/Cerámica
@@ -30430,6 +30545,8 @@ id_producto,producto,categoria,subcategoria
 868301,PACK LYSOFORM 285 X 2,Cuidado del Hogar,Limpieza de Baños
 868324,X SHOT SKINS JURASSIC FLUX,Juguetería,Juguetería Niño/Bebé
 868345,RAINBOCORNS PUPPYCORN,Juguetería,Juguetería Didáctica/Temporada
+868366,BR TETERA PUSH 2 7 L CON PITO ROMA,Bazar Importación,Cocina General
+868367,BR TETERA C  SILBIDO 2 7 L ROMA VAN,Bazar Importación,Cocina General
 868407,CH 9801 JUEGO DE MESA AJEDREZ,Juguetería Importación,Juguetería Didáctica/Temporada
 868413,CH 8604 JUGUETE PISTA PARA CARROS CON GIROS DE 360 GRADOS,Juguetería Importación,Juguetería Niño/Bebé
 868435,CH YW8 3 PECHERA C CORREA PARA MASCOTA 120X4CM,Bazar Importación,MASCOTAS GENERAL
