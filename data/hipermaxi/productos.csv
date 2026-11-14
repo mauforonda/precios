@@ -1891,7 +1891,7 @@ id_producto,producto,categoria,subcategoria
 25282,Lonchera Juguito Pil,Bebidas,"Jugos, Néctar"
 25283,Tomillo Deshidratado Damabrava 25 gr,Abarrotes,Condimentos y Legumbres
 25284,Paprika Damabrava Molido 65 gr,Abarrotes,Condimentos y Legumbres
-25285,Cebolla Molida Damabrava Bolsa 70 gr,Abarrotes,Condimentos y Legumbres
+25285,Cebolla Molida Damabrava 70 gr,Abarrotes,Condimentos y Legumbres
 25286,Te Brissol Eucalipto Huira Huira Set 20 saquitos,Abarrotes,Dietéticos y Saludables
 25287,Te Brissol Jengibre Hinojo Anis Set 20 saquitos,Abarrotes,Dietéticos y Saludables
 25288,Vino La Curiosa Trivarietal 750 ml,Bebidas,Vinos y Champagne
@@ -3686,11 +3686,19 @@ id_producto,producto,categoria,subcategoria
 51322,Palmito Chimore Entero 850 gr,Abarrotes,Verduras en Conserva
 51471,Flan Miki Naranja 120 gr,Abarrotes,Repostería
 51616,Aceite De Cecco Oliva 500 ml,Abarrotes,Productos Importados
+51704,TE WINDSOR C CANELA LIMON 100SOB,Abarrotes,Café y Sucedáneos
+51708,TE WINDSOR C CANELA SIN SOB 50SAQ,Abarrotes,Café y Sucedáneos
+51709,TE WINDSOR C CANELA Y CLAVO OLOR 50SAQ,Abarrotes,Café y Sucedáneos
+51710,TE WINDSOR CLASICO SIN CANELA 100SAQ,Abarrotes,Café y Sucedáneos
 51730,Fideo De Cecco Tagliatelle All Uovo 104 250 gr,Abarrotes,Productos Importados
 51926,Agua Mineral Cabaña Sin Gas 500 ml,Bebidas,Aguas
 51993,Paño Mr. Trapo Piso Gris 1 un,Cuidado del Hogar,Productos Americanos
 52027,Franela Naranjada Aridam 40x50 cm,Cuidado del Hogar,Productos Americanos
 52257,Gin Beefeater Tradicional 1 L,Bebidas,Licores
+52700,TE WINDSOR C CANELA 100SOB,Abarrotes,Café y Sucedáneos
+52702,MANI PINZONES ORIGINAL BSA 100G,Abarrotes,Snack
+52703,MANI PINZONES S QUESO BSA 100G,Abarrotes,Snack
+52704,MANI PINZONES PICANTE BSA 100G,Abarrotes,Snack
 52706,Aceite Coco Copra Extra Virgen 500 ml,Abarrotes,Básicos
 53767,Galleta Noel Sodas 213 gr,Abarrotes,Galletas
 53937,Galleta Festival Recreo 108 gr,Abarrotes,Galletas
@@ -3924,6 +3932,7 @@ id_producto,producto,categoria,subcategoria
 67068,MALVAVISCO BUFFYS FELICES FIESTAS 200G,Abarrotes,Temporada
 67076,AZUCAR BLANCA AGUAI BSA 200 SOB,Abarrotes,Básicos
 67078,Pack Hidratante Powerade Mora 990 ml + 2 Vital,Bebidas,Bebidas Varias
+67079,MANI PINZONES S PIZZA 100G,Abarrotes,Snack
 67080,BATON GAROTO CHOCOSTICK CARIBE 24G,Abarrotes,Golosinas - Varias
 67081,BATON GAROTO CHOCOSTICK C CREAM 26G,Abarrotes,Golosinas - Varias
 67086,SOPA INSTANT AL TOKE CARNE BOWL 94G,Abarrotes,Básicos
@@ -5601,6 +5610,7 @@ id_producto,producto,categoria,subcategoria
 111054,Te Windsor Mate Boldo 100 Sobres,Abarrotes,Café y Sucedáneos
 111058,Te Windsor Mate Cedron 100 Sobres,Abarrotes,Café y Sucedáneos
 111062,Gomita Trululu Casquitos 90 gr,Abarrotes,Golosinas - Varias
+111071,GALLETA SALADIX CHEDDAR CJA 90G,Abarrotes,Galletas
 111073,Papa Super Papitas Crocante 100 gr,Abarrotes,Snack
 111087,Ciruela Disecadas Cocinero Pereira 320 gr,Abarrotes,Frutas en Conserva
 111116,Jabon Liquido Exfoliante Hidraderm Manzanilla 180 ml,Cuidado Personal,Cuidado de la Piel
@@ -6921,6 +6931,7 @@ id_producto,producto,categoria,subcategoria
 151576,Nuggets Pollo Fridosa Crocante 300 gr,Congelados,Carnes Congeladas
 151594,Tira de Costilla de Cerdo Sofia kg,Congelados,Carnes Congeladas
 151595,Enrollado de Cerdo Sofia Barra kg,Fiambres,Fiambres Externos
+151705,PANETON LA FRANCESA EXTRA FINO DE 750GR,Panadería,Panadería Externa
 151711,GALLETA FRANCESA NAVIDENA JOJOJO 220 G,Abarrotes,Temporada
 151713,Galleta Francesa Dulces 420 gr,Abarrotes,Galletas
 151715,Mortadela Lyonesa Sofia Kg,Fiambres,Fiambres Externos
@@ -9414,6 +9425,7 @@ id_producto,producto,categoria,subcategoria
 230940,SHAMPOO REVIVE CURLY 600,Cuidado Personal,Cuidado del Cabello
 230941,ACON.REVIVE CURLY 600ML,Cuidado Personal,Cuidado del Cabello
 230942,PACK NINET CLASICA X100 + CLASICA X 60,Cuidado del Bebé,Cuidado del Bebé
+230948,AROMATI TEXTIL SAPHIRUS CEREZA  250 ML,Cuidado del Hogar,Limpieza de Living y Ropero
 230950,Desodorante Aerosol Nivea Invisible Men 150 ml,Cuidado Personal,Cuidado de la Piel
 231001,Desodorante Aerosol Rexona Invisible 150 ml,Cuidado Personal,Cuidado de la Piel
 231002,Desodorante Aerosol Rexona Invisible Men 150 ml,Cuidado Personal,Cuidado de la Piel
@@ -9853,6 +9865,8 @@ id_producto,producto,categoria,subcategoria
 240464,Fideo Divella Rigatoni 500 gr,Abarrotes,Básicos
 240465,Fideo Divella Fusilli 500 gr,Abarrotes,Básicos
 240466,Galleta Divella Ottimini Integral 400 gr,Abarrotes,Galletas
+240521,AROMATIZ  SAPHIRUS TEXTIL ERBA 250ML,Cuidado del Hogar,Limpieza de Living y Ropero
+240522,AROMATIZ SAPHIRUS TEXTIL PISTACHO 250ML,Cuidado del Hogar,Limpieza de Living y Ropero
 240533,Shampoo Elvive Micelar Pure 300 ml,Cuidado Personal,Cuidado del Cabello
 240535,Reparador Revive Aceite de Coco 70 ml,Cuidado Personal,Cuidado del Cabello
 240537,RODO PARA PIA ALKLIN 20CM,Cuidado del Hogar,Accesorios del Hogar
@@ -10442,6 +10456,7 @@ id_producto,producto,categoria,subcategoria
 278789,Yerba Mate Kurupi Compuesta Citrus 500 gr,Abarrotes,Café y Sucedáneos
 279021,Tequila Jose Cuervo Especial 750 ml,Bebidas,Licores
 280102,LIMPIAPISO TODOBRILLO PLUS CRM.FLORAL1.8,Cuidado del Hogar,Limpieza de Baños
+280103,AROMATIZ TEXTIL SAPHIRUS HAWAI 250 ML,Cuidado del Hogar,Limpieza de Living y Ropero
 280104,DESODORANTE ALGABO  ROLLON FRESH 60 ML,Cuidado Personal,Cuidado de la Piel
 280105,ESPONJA ALGABO CARE  GUANTE,Cuidado Personal,Cuidado de la Piel
 280106,ESPONJA ALGABO DE BANO,Cuidado Personal,Cuidado de la Piel
@@ -10614,6 +10629,8 @@ id_producto,producto,categoria,subcategoria
 284023,JABON LIQ CARISSA MANZANA CANELA 360ML,Cuidado Personal,Cuidado de la Piel
 284024,JABON LIQ  CARISSA NAVIDAD CREMA 360ML,Cuidado Personal,Cuidado de la Piel
 284027,PAPEL NACIONAL SELECTO TH MEGA 12 UNDS,Cuidado Personal,Cuidado Familiar
+284028,JABON MAR ANTIBACT SOFT SKIN 125 GR,Cuidado Personal,Cuidado de la Piel
+284029,AMBT GLDE AUTMTC RPTO FRT ROJO 177 GR,Cuidado del Hogar,Limpieza de Living y Ropero
 284030,PACK AHORRO BLUE UP AZUL,Cuidado del Hogar,Limpieza de la Ropa
 284031,PACK AHORRO BLUE UP LIMON,Cuidado del Hogar,Limpieza de la Ropa
 284044,DOVE DEO STI AP ENERGY BOOST 45G,Cuidado Personal,Cuidado de la Piel
@@ -11156,6 +11173,9 @@ id_producto,producto,categoria,subcategoria
 312239,Nacho Nax Limon 200 gr,Abarrotes,Snack
 312241,Cigarrillo L&M Rojo 20 un,Bebidas,Cigarrillos
 312242,Cigarrillo L&M Azul 20 un,Bebidas,Cigarrillos
+312243,ACEITE OLIVA LAG BRAVA EXT VIRG INTENSO,Abarrotes,Básicos
+312244,ACEITE OLIVA LAG BRAVA EXT VIRGEN 250 ML,Abarrotes,Básicos
+312246,ACEITE OLIVA LAG BRAVA EXT VIRG PET 1LT,Abarrotes,Básicos
 312247,Salsa Tomate Cayetana Tipo Mexicano 400 gr,Abarrotes,Salsas y Extracto de Tomate
 312248,Pulpa De Mango Cayetana Lata 280 gr,Abarrotes,Frutas en Conserva
 312249,Mermelada Cayetana Ciruelo Rojo 280 gr,Abarrotes,"Mermel, Mieles"
@@ -12998,6 +13018,7 @@ id_producto,producto,categoria,subcategoria
 385379,Guantes Scotch Brite Lavanderia Talla M,Cuidado del Hogar,Accesorios del Hogar
 385441,Acido Nitrico Vicas 1 L,Cuidado del Hogar,Limpieza de Baños
 385478,PAN BARBIE PRINCESA RUBIA,Juguetería Importación,Jugueteria Marcas
+385571,JABON VERITAS ESENCIAS 120 GR,Cuidado Personal,Cuidado de la Piel
 385580,JABON VERITAS LAVANDA 120 GR,Cuidado Personal,Cuidado de la Piel
 385891,Queso Mozzarella San Javier 500 gr,Lácteos y Derivados,Quesos
 386073,Toallas Humeda Pompiglos Premium 60 un,Cuidado del Bebé,Cuidado del Bebé
@@ -14862,6 +14883,7 @@ id_producto,producto,categoria,subcategoria
 517124,KETCHUP ARTESANO DP 2860G,Abarrotes,Aderezos
 517125,SALSA ARTESANO BARBACOA PET 400G,Abarrotes,Aderezos
 517128,CAFE ARTESANO INSTANT FCO 200G,Abarrotes,Café y Sucedáneos
+517137,PACK ARCOR NAVIDENO D DULCES UND,Abarrotes,Temporada
 517313,Vinagre Favinco de Vino 500 ml,Abarrotes,Básicos
 517321,Vinagre Favinco de Manzana 500 ml,Abarrotes,Básicos
 517330,Vinagre Favinco de Alcohol 500 ml,Abarrotes,Básicos
@@ -17339,7 +17361,7 @@ id_producto,producto,categoria,subcategoria
 553674,Mani Entero Nutrifoods Bolsa 450 gr,Abarrotes,Condimentos y Legumbres
 553675,Trigo Pelado Nutrifoods Bolsa 450 gr,Abarrotes,Condimentos y Legumbres
 553676,Chaque De Trigo Nutrifoods Bolsa 450 gr,Abarrotes,Condimentos y Legumbres
-553677,QUINUA EN GRANO NUTRIFOODS 450 GR,Abarrotes,Condimentos y Legumbres
+553677,Quinua Nutrifoods Real Blanca 450 gr,Abarrotes,Condimentos y Legumbres
 553678,Galleta Wafer Marilan Ginger Bread 80 gr,Abarrotes,Galletas
 553679,Galleta Wafer Marilan Candy Cane 80 gr,Abarrotes,Galletas
 553680,Pack 2 Jugo De La granja Naranja Durazno 2 L,Bebidas,"Jugos, Néctar"
@@ -17716,6 +17738,7 @@ id_producto,producto,categoria,subcategoria
 554239,Mix Frutos Secos Waras 250 gr,Abarrotes,Frutas en Conserva
 554240,MIX WARAS FRUTA DESHID CON CHOCOLATE 90,Abarrotes,Frutas en Conserva
 554244,PACK CONDOR CHOC HALLOWEEN CJA150 GR,Abarrotes,Temporada
+554245,TRAQUEA DE RES CHEMSITOS 100 GR,Abarrotes,Mascotas
 554254,AVENA IRUPANA INSTANTANEA CJA 300 GR,Abarrotes,Nutrición Infantil
 554258,AVENA INSTANT KRIS DP 450G,Abarrotes,Nutrición Infantil
 554259,HARINA D TRIGO KRIOLLA 000 1KG,Abarrotes,Básicos
@@ -17730,6 +17753,9 @@ id_producto,producto,categoria,subcategoria
 554285,WAFER ROLLS CAPPUCINO LTA 100 GR,Abarrotes,Productos Americanos
 554286,GALLETAS CARILO LATA OVALADA 340 GR,Abarrotes,Productos Americanos
 554287,MERMELADA D FRUT HIGO 0 AZUCAR FCO 355 G,Abarrotes,Dietéticos y Saludables
+554291,JUGO CIN FLOR DE JAMAICA PET 2 LT,Bebidas,"Jugos, Néctar"
+554298,JUGO CIN CEBADA TOSTADA PET 2 LT,Bebidas,"Jugos, Néctar"
+554300,JUGO CIN SEMILLAS LINAZA PET 2 LT,Bebidas,"Jugos, Néctar"
 554305,FIDEO KRIOLLA CORTO 400 GR,Abarrotes,Básicos
 554333,Cerveza Paceña Lata Roja 473 Cc,Bebidas,Cervezas
 554466,Detergente Liquido Ola Futuro Limpieza Completa 5 L,Cuidado del Hogar,Limpieza de la Ropa
@@ -25732,6 +25758,7 @@ id_producto,producto,categoria,subcategoria
 764356,Helado De Pulpa De Copoazu Biofood 1 L,Congelados,"Helados, Cassattas y Picoleses"
 764423,PAN DANES SALVADO DE TRIGO UNID.,Panadería,Panadería Externa
 764512,Budin Victoria Chocolate 250 gr,Pastelería y Masas Típicas,Pastelería Externa
+764514,TORTILLA DE TRIGO INTEGRAL RIQUISIMA X12 UND.,Congelados,Masas y Comidas Congeladas
 764521,MANTEQUILLA DE MANI MAIS FIT 100 GRS.,Lácteos y Derivados,Mantequillas y Margarinas
 764523,PIZZA PRECOC.CONG.JAMON Y MUZZARELLA BAHREM UND.,Congelados,Masas y Comidas Congeladas
 764524,Budin Victoria Vainilla  250 gr,Pastelería y Masas Típicas,Pastelería Externa
@@ -26571,6 +26598,7 @@ id_producto,producto,categoria,subcategoria
 789590,Leche Evaporada Pil Cremosa 400 gr,Lácteos y Derivados,Leches
 789593,Lomo de Cerdo Ahumado Personal Merida 320 gr,Fiambres,Fiambres Externos
 789596,Frutos del Bosque Congelado Minuto Verde 400 gr,Congelados,Pulpas y Frutas Congeladas
+789607,ESP.PAN CON AJO Y QUESO HIPERMAXI X4 UND.,Panadería,Panadería Especialidades Hipermaxi
 789614,Bife de Cerdo Congelado Sofia kg,Congelados,Carnes Congeladas
 789618,Suspiros Davieds Merengue 150 gr,Pastelería y Masas Típicas,Pastelería Externa
 789620,Bife Angosto Fridosa Premium al Vacio kg,Carnes,Carnes al Vacio Externas
@@ -27159,13 +27187,23 @@ id_producto,producto,categoria,subcategoria
 809729,TR SALERO SET X2 RITA 67CC,Bazar Importación,Cocina General
 809730,TR ACEITERO TAPA VERDE NATURAL 750CC,Bazar Importación,Cocina General
 809732,Tomatodo Renga de Vidrio 500 cc,Bazar Importación,Menaje Vidrio/Cristal
-809748,CH 8416 ADORNO NAVIDENO PAPA NOEL MUNECO DE NIEVE 13X22CM,Bazar Importación,Temporada Navidad
-809750,CH 5414 ADORNO NAVIDENO PAPA NOEL RENO MUNECO DE NIEVE,Bazar Importación,Temporada Navidad
-809751,CH 2104 MUNECO NAVIDENO ELFO PIERNAS LARGAS 60CM,Bazar Importación,Temporada Navidad
-809752,CH 2116 MUNECO ELFO 23CM,Bazar Importación,Temporada Navidad
-809756,CH 7582 MUNECO NAVIDENO S PIERNAS PAPA NOEL MUNECO NIEVE 30,Bazar Importación,Temporada Navidad
-809759,CH 7560 MUNECO NAVIDENO JENGIBRE SENTADO 28 35CM,Bazar Importación,Temporada Navidad
-809767,CH 2208 MUNECO NAVIDENO RETRACTIL RENO 45X75CM,Bazar Importación,Temporada Navidad
+809748,Adorno Navideño Papá Noel Y Muñeco De Nieve 13x22 cm,Bazar Importación,Temporada Navidad
+809750,"Adorno Navideño Papá Noel, Reno Y Muñeco De Nieve",Bazar Importación,Temporada Navidad
+809751,Muñeco Navideño Elfo Piernas Largas 60 cm,Bazar Importación,Temporada Navidad
+809752,Muñeco Elfo 23 cm,Bazar Importación,Temporada Navidad
+809756,Muñeco Navideño Sin Piernas Papá Noel Y Muñeco De Nieve 30 cm,Bazar Importación,Temporada Navidad
+809759,Muñeco Navideño Jengibre Sentado 28x35 cm,Bazar Importación,Temporada Navidad
+809760,Adorno Navideño Muñeco Jengibre Para Puerta 14x27 cm,Bazar Importación,Temporada Navidad
+809767,Muñeco Navideño Retractil Reno 45x75 cm,Bazar Importación,Temporada Navidad
+809787,Adorno Navideño Papá Noel Y Muñeco De Nieve 16x7x12 cm,Bazar Importación,Temporada Navidad
+809788,"Adorno Navideño Arbol Con Casa, Papá Noel Y Muñeco De Nieve",Bazar Importación,Temporada Navidad
+809790,Adorno Vela Navideña Con Papá Noel Y Muñeco De Nieve,Bazar Importación,Temporada Navidad
+809791,Adorno Chimenea Navideña Con Papá Noel Y Muñeco De Nieve,Bazar Importación,Temporada Navidad
+809794,Adorno Bota Navideña Con Papá Noel Y Muñeco De Nieve 9 cm,Bazar Importación,Temporada Navidad
+809799,Adorno Navideño Papá Noel Y Muñeco De Nieve,Bazar Importación,Temporada Navidad
+809800,Adorno Navideño Papá Noel Y Muñeco De Nieve En Moto,Bazar Importación,Temporada Navidad
+809803,Adorno Navideño 18x6x17 cm,Bazar Importación,Temporada Navidad
+809804,Adorno Navideño Muñeco De Nieve Y Papá Noel 11x11x16 cm,Bazar Importación,Temporada Navidad
 809814,Sarten Antiadherente Azul 28 cm,Bazar Importación,Cocina General
 809815,Sarten Antiadherente Gris 28 cm,Bazar Importación,Cocina General
 809816,Sarten Antiadherente Gris Oscuro 28 cm,Bazar Importación,Cocina General
@@ -27254,16 +27292,16 @@ id_producto,producto,categoria,subcategoria
 810251,BR JUEGO HERMET PLAST SANREMO 280ML 10UN,Bazar Importación,Menaje Plástico
 810255,BR HERMETICO PS SANREMO 1 5L,Bazar Importación,Menaje Plástico
 810258,BR BOTELLA GOLE GUT PLASTICO SANREMO 500ML,Bazar Importación,Menaje Plástico
-810284,CH 207B MUNECO DE NIEVE 48CM,Bazar Importación,Temporada Navidad
-810285,CH 207A MUNECO NAVIDENO PAPA NOEL 48CM,Bazar Importación,Temporada Navidad
-810290,CH 7612 MUNECO NAVIDENO RENO SENTADO 45CM,Bazar Importación,Temporada Navidad
-810291,CH 7614 MUNECO NAVIDENO RENO RETRACTIL 70CM,Bazar Importación,Temporada Navidad
-810292,CH 7606 MUNECO NAVIDENO RENO 70CM,Bazar Importación,Temporada Navidad
-810294,CH 7608 MUNECO NAVIDENO RENO EN CUATRO PATAS 60CM,Bazar Importación,Temporada Navidad
-810296,CH 2473 MUNECO NAVIDENO DUENDE PIERNAS LARGAS 70CM,Bazar Importación,Temporada Navidad
-810297,CH 2474 MUNECO NAVIDENO DUENDE SENTADO 48CM,Bazar Importación,Temporada Navidad
-810299,CH 2558 BOTA NAVIDENA RENO PAPA NOEL MUNECO DE NIEVE 65CM,Bazar Importación,Temporada Navidad
-810335,CH 174 ADORNO NAVIDENO RENO 18CM,Bazar Importación,Temporada Navidad
+810284,Muñeco De Nieve 48 cm,Bazar Importación,Temporada Navidad
+810285,Muñeco Navideño Papá Noel 48 cm,Bazar Importación,Temporada Navidad
+810290,Muñeco Navideño Reno Sentado 45 cm,Bazar Importación,Temporada Navidad
+810291,Muñeco Navideño Reno Retractil 70 cm,Bazar Importación,Temporada Navidad
+810292,Muñeco Navideño Reno 70 cm,Bazar Importación,Temporada Navidad
+810294,Muñeco Navideño Reno En Cuatro Patas 60 cm,Bazar Importación,Temporada Navidad
+810296,Muñeco Navideño Duende Piernas Largas 70 cm,Bazar Importación,Temporada Navidad
+810297,Muñeco Navideño Duende Sentado 48 cm,Bazar Importación,Temporada Navidad
+810299,Bota Navideña Reno Papá Noel Y Muñeco De Nieve 65 cm,Bazar Importación,Temporada Navidad
+810335,Adorno Navideño Reno 18 cm,Bazar Importación,Temporada Navidad
 810338,CH 29 4 TABLA DE CORTAR SET X4 PZAS 38X30CM,Bazar Importación,Churrasquería
 810339,CH 29 5 TABLA DE CORTAR SET X6 PZAS 28X19CM,Bazar Importación,Churrasquería
 810340,CH 29 6 TABLA DE CORTAR SET X3 PZAS 19X29 25X34 29X38CM,Bazar Importación,Churrasquería
@@ -28087,6 +28125,7 @@ id_producto,producto,categoria,subcategoria
 835781,CH N20 12 BOLAS NAVIDENAS SET X24 5CM,Bazar Importación,Temporada Navidad
 835796,LPZ HUESO ROJO,Carnes,Carne de Res
 835801,PIQUE MACHO 1 KG,Carnes,Carne de Res
+835847,TR 1242 ENVASE P  CEREALES C TAPA Y CUCHARA,Bazar Importación,Menaje Vidrio/Cristal
 835896,Costilla Especial kg,Carnes,Carne de Res
 835905,Carne Picada Kg,Carnes,Carne de Res
 835922,TR 1402 NATURAL ACEITERO 500CC,Bazar Importación,Cocina General
@@ -28220,7 +28259,7 @@ id_producto,producto,categoria,subcategoria
 839646,CH 14 13 PRENSA FRANCESA TAPA Y ASA PLATEADO 600ML,Bazar Importación,Cocina General
 839737,Porta Vela de Vidrio,Bazar,Living y Dormitorio
 839756,Juguete Set Bomberos,Juguetería,Juguetería Niño/Bebé
-839761,CH L1 14 TAZA  NAVIDENA COLORES SURTIDOS CAPACIDAD 420ML,Bazar Importación,Temporada Navidad
+839761,Taza Navideña De Colores Surtidos 420 ml,Bazar Importación,Temporada Navidad
 839770,Globo Diseños Surtidos,Bazar,Cotillón
 839796,CH 29 1 TAZA LISA COLOR ENTERO 500ML,Bazar Importación,Menaje Porcelana/Cerámica
 839797,CH 29 2 TAZA FONDO BLANCO 500ML,Bazar Importación,Menaje Porcelana/Cerámica
@@ -28251,7 +28290,7 @@ id_producto,producto,categoria,subcategoria
 840150,CH J22 6 PAPA NOEL SENTADO 40X24 CM,Bazar Importación,Temporada Navidad
 840151,CH J22 5 MUNECO DE NIEVE SENTADO 40X29CM,Bazar Importación,Temporada Navidad
 840153,CH J22 17 GNOMO PIERNAS SUELTAS 40X17CM,Bazar Importación,Temporada Navidad
-840165,CH J22 18 GNOMO C GORRO LARGO 30X10CM,Bazar Importación,Temporada Navidad
+840165,Adorno Gnomo Con Gorro Largo 30x10 cm,Bazar Importación,Temporada Navidad
 840167,CH J22 16 GNOMO NAVIDENO SENTADO 27X16CM,Bazar Importación,Temporada Navidad
 840172,Gnomo Navideño Parado 43x20 cm,Bazar Importación,Temporada Navidad
 840184,CH N20 1 BOLAS NAVIDENAS SET X 20 6CM,Bazar Importación,Temporada Navidad
@@ -28568,7 +28607,7 @@ id_producto,producto,categoria,subcategoria
 846270,CH Y47 12 ADORNO NAVIDENO PARA PUERTA FELIZ NAVIDAD 30CM,Bazar Importación,Temporada Navidad
 846271,CH Y47 13 ADORNO NAVIDENO PARA PUERTA FELIZ NAVIDAD MUNECO,Bazar Importación,Temporada Navidad
 846272,CH Y47 14 ADORNO NAVIDENO PARA PUERTA FELIZ NAVIDAD 30CM,Bazar Importación,Temporada Navidad
-846273,CH Y47 15 ADORNO NAVIDENO PAPA NOEL SENTADO 24X47 CM,Bazar Importación,Temporada Navidad
+846273,Adorno Navideño Papá Noel Sentado 24x47 cm,Bazar Importación,Temporada Navidad
 846274,CH Y47 16 ADORNO NAVIDENO MUNECO DE NIEVE SENTADO 24X47CM,Bazar Importación,Temporada Navidad
 846275,CH Y47 17 ADORNO NAVIDENO RENO SENTADO 24X47CM,Bazar Importación,Temporada Navidad
 846276,CH Y47 18 CANASTA NAVIDENA PAPA NOEL MUNECO DE NIEVE RENO 20,Bazar Importación,Temporada Navidad
@@ -28670,7 +28709,7 @@ id_producto,producto,categoria,subcategoria
 846577,CH Y3 7 ADORNO NAVIDENO CORONA WELCOME RENO 40X30CM,Bazar Importación,Temporada Navidad
 846578,CH Y3 8 ADORNO NAVIDENO CORONA PAPA NOEL MUNECO DE NIEVE,Bazar Importación,Temporada Navidad
 846580,CH Y3 9 ADORNO BOTA NAVIDENA MERRY CHRISTMAS  47X29CM,Bazar Importación,Temporada Navidad
-846583,CH Y3 13 ADORNO NAVIDENO PARA PUERTA CARA PAPA NOEL 38X19CM,Bazar Importación,Temporada Navidad
+846583,Adorno Navideño Para Puerta Cara Papá Noel 38x19 cm,Bazar Importación,Temporada Navidad
 846586,Adorno Navideño Moño Color Rojo Con Verde 28x32cm,Bazar Importación,Temporada Navidad
 846587,Adorno Navideño Moño Color Rojo Con Verde 23x32cm,Bazar Importación,Temporada Navidad
 846588,Adorno Navideño Moño Color Rojo 23x32cm,Bazar Importación,Temporada Navidad
@@ -28882,6 +28921,7 @@ id_producto,producto,categoria,subcategoria
 848237,HW JUEGO LANZADOR D CARROS HOT WHEELS,Juguetería,Juguetería Marcas
 848252,CH 7 92 VARILLA UNICORNIO LUMINOSO SURTIDO 6X22CM,Bazar Importación,OTROS
 848316,CH 7 93 VARILLA HALLOWEEN LUMINOSO 7X19CM,Bazar Importación,OTROS
+848353,Vincha Verde Navideña 14 cm,Bazar Importación,Temporada Navidad
 848354,Barra Luminosa Glow Stick Surtido 35 x 2 cm,Bazar Importación,OTROS
 848355,Adorno Con Luz Halloween Calavera 12 x 5 cm,Bazar Importación,OTROS
 848356,CH 7 97 ADORNO CON LUZ HALLOWEEN TELARANA 8 5X8 5CM,Bazar Importación,OTROS
@@ -28970,6 +29010,7 @@ id_producto,producto,categoria,subcategoria
 849347,Vaso Halloween Surtido 9 x 13 cm,Bazar Importación,OTROS
 849364,CH 7 145 ARANA PELUDA A PILAS HALLOWEEN 70X23CM,Bazar Importación,Temporada Halloween
 849390,Jabon Liquido Ballerina Crema Humectacion 350 ml,Cuidado Personal,Cuidado de la Piel
+849397,Juguete Hueso Navideño Para Mascota 16x9 cm,Bazar Importación,Temporada Navidad
 849404,Mascara De Terror Halloween 25 x 21 cm,Bazar Importación,OTROS
 849414,Jabon Liquido Ballerina Hipoalergenico 350 ml,Cuidado Personal,Cuidado de la Piel
 849417,CH 7 178 MASCARA DE TERROR HALLOWEEN 25X21CM,Bazar Importación,OTROS
@@ -29144,7 +29185,7 @@ id_producto,producto,categoria,subcategoria
 852770,CH J15 1B ADORNO NAVIDENO MUNECO DE NIEVE CON GORRO Y BUFAND,Bazar Importación,Temporada Navidad
 852771,CH J15 1C ADORNO NAVIDENO RENO CON GORRO Y BUFANDA,Bazar Importación,Temporada Navidad
 852772,CH J15 1A ADORNO NAVIDENO PAPA NOEL PARADO 48CM,Bazar Importación,Temporada Navidad
-852773,CH J15 2A ADORNO NAVIDENO PAPA NOEL CON CANASTA 20X35CM,Bazar Importación,Temporada Navidad
+852773,Adorno Navideño Papá Noel Con Canasta 20x35 cm,Bazar Importación,Temporada Navidad
 852774,CH J15 2B ADORNO NAVIDENO MUNECO DE NIEVE CON CANASTA,Bazar Importación,Temporada Navidad
 852775,CH J15 2C ADORNO NAVIDENO RENO CON CANASTA 20X35CM,Bazar Importación,Temporada Navidad
 852776,Adorno Navideño Reno Sentado 24 x 47 cm,Bazar Importación,Temporada Navidad
@@ -29829,12 +29870,12 @@ id_producto,producto,categoria,subcategoria
 857501,CH S1 3 MUNECO RENO CON CHALINA ROJA SACO PLOMO 48CM,Bazar Importación,Temporada Navidad
 857502,CH S1 4 MUNECO DE NIEVE C CHALINA A RAYAS ROJO Y BLANCO 40CM,Bazar Importación,Temporada Navidad
 857503,CH S1 5 MUNECO PAPA NOEL BLANCO CON ROJO 40CM,Bazar Importación,Temporada Navidad
-857504,CH S1 6 MUNECO RENO CON CHALINA ROJA SACO PLOMO 40CM,Bazar Importación,Temporada Navidad
+857504,Muñeco Reno Con Chalina Roja Y Saco Plomo 40 cm,Bazar Importación,Temporada Navidad
 857505,CH S1 11 ADORNO PAPA NOEL BIENVENIDO 56X28CM,Bazar Importación,Temporada Navidad
 857506,CH S1 21 ADORNO BOTA NAVIDENA MUNECO DE NIEVE 35X22CM,Bazar Importación,Temporada Navidad
-857507,CH S1 22 ADORNO BOTA NAVIDENA PAPA NOEL 35X22CM,Bazar Importación,Temporada Navidad
-857508,CH S1 23 ADORNO BOTA NAVIDENA RENO 35X22CM,Bazar Importación,Temporada Navidad
-857510,CH S1 24 ADORNO BOTA NAVIDENA MUNECO DE NIEVE 35X22CM,Bazar Importación,Temporada Navidad
+857507,Adorno Bota Navideña Papá Noel 35x22 cm,Bazar Importación,Temporada Navidad
+857508,Adorno Bota Navideña Reno 35x22 cm,Bazar Importación,Temporada Navidad
+857510,Adorno Bota Navideña Muñeco De Nieve 35x22 cm,Bazar Importación,Temporada Navidad
 857511,CH S1 25 ADORNO BOTA NAVIDENA PAPA NOEL C ROJO CON COPOS 35X,Bazar Importación,Temporada Navidad
 857512,CH S1 26 ADORNO BOTA NAVIDENA RENO OJO C COPOS 35X22CM,Bazar Importación,Temporada Navidad
 857513,CH S1 30 ADORNO BOTA NAVIDENA MUNECO DE NIEVE 38X25CM,Bazar Importación,Temporada Navidad
@@ -29909,7 +29950,7 @@ id_producto,producto,categoria,subcategoria
 857629,Romero 1 kg,Frutas y Verduras,Verduras
 857660,Lechuga Hidroponica Cima,Frutas y Verduras,Gourmet
 857661,CH S5 1 BOTA NAVIDENA PAPA NOEL MUNECO DE BIEVE Y RENO 27CM,Bazar Importación,Temporada Navidad
-857662,CH S5 2 BOTA NAVIDENA REO PAPA NOEL MUNECO DE BNIEVE 56X20X2,Bazar Importación,Temporada Navidad
+857662,Bota Navideña Reno Papá Noel Y Muñeco De Nieve 56x20x2 cm,Bazar Importación,Temporada Navidad
 857664,CH S5 3 ADORNO NAVIDENO PAPA NOEL MUNECO DE NIEVE Y RENO,Bazar Importación,Temporada Navidad
 857665,CH S5 4 ADORNO FELIZ NAVIDAD PAPA NOEL RENO MUNECO DE NIEVE,Bazar Importación,Temporada Navidad
 857666,CH S5 5 ADORNO FELIZ NAVIDAD MUNECO DE NIEVE Y PAPA NOEL,Bazar Importación,Temporada Navidad
@@ -29918,11 +29959,11 @@ id_producto,producto,categoria,subcategoria
 857670,CH S5 10 MUNECO DE NIEVE PAPA NOEL RENO C ZAPATOS,Bazar Importación,Temporada Navidad
 857671,Corona Navideña con Moño Gnomo,Bazar Importación,Temporada Navidad
 857672,Corona Navideña con Moño Gnomo a Rayas,Bazar Importación,Temporada Navidad
-857673,CH S5 13 ADORNO NAVIDENO CON MONO ROJO Y PAPA NOEL 42X5X36,Bazar Importación,Temporada Navidad
+857673,Adorno Navideño Con Moño Rojo Y Papá Noel 42x5x36 cm,Bazar Importación,Temporada Navidad
 857674,CH S5 14 ADORNO NAVIDENO CON MONO ROJO Y MUNECO DE NIEVE,Bazar Importación,Temporada Navidad
 857682,CH S5 24 MUNECO DE NIEVE PAPA NOEL RENO C ZAPATOS NEGROS,Bazar Importación,Temporada Navidad
 857684,CH S5 25 PAPA NOEL CHOMPA ROJA 70X9X24,Bazar Importación,Temporada Navidad
-857685,CH S5 26 RENO MUNECO DE NIEVE PAPA NOEL ZAPATOS NEGROS 50X8X,Bazar Importación,Temporada Navidad
+857685,"Reno, Muñeco De Nieve Y Papá Noel Con Zapatos Negros",Bazar Importación,Temporada Navidad
 857686,CH S5 27 MUNECO DE NIEVE RENOS PAPA NOEL PANTALON A CUADROS,Bazar Importación,Temporada Navidad
 857694,CH S5 28 MUNECO DE NIEVE RENO PAPA NOEL SENTADOS C CHAQUETA,Bazar Importación,Temporada Navidad
 857696,CH S5 30 MUNECO DE NIEVE PANTALON VERDE PAPA NOEL PANTALON,Bazar Importación,Temporada Navidad
@@ -29930,7 +29971,7 @@ id_producto,producto,categoria,subcategoria
 857717,CH S5 33 ADORNO PARA PUERTA CARA PAPA NOEL MUNECO DE NIIEVE,Bazar Importación,Temporada Navidad
 857718,CH S5 34 MUNECO RENO CON CHOMPA BLANCA 24CM,Bazar Importación,Temporada Navidad
 857782,CH S5 36 GNOMO PANTALON ROJO 66X20X30 CM,Bazar Importación,Temporada Navidad
-857783,CH S5 37 GNOMO PANTALON ROJO CON GORRO ROJO Y PUNTOS BLANCOS,Bazar Importación,Temporada Navidad
+857783,Gnomo Pantalón Rojo Con Gorro Rojo Y Puntos Blancos,Bazar Importación,Temporada Navidad
 857815,Tallo de Apio kg,Frutas y Verduras,Verduras
 857830,Kale Granja Ventilla 1 un,Frutas y Verduras,Gourmet
 857882,CH S5 39 GNOMO PANTALON ROJO 35X12X20CM,Bazar Importación,Temporada Navidad
@@ -29942,6 +29983,7 @@ id_producto,producto,categoria,subcategoria
 857961,Manzana Rosada 1 kg,Frutas y Verduras,Frutas
 857976,Palta un,Frutas y Verduras,Verduras
 857979,CP MANI SALADO 1 KG,Granos y Hortalizas,A GRANEL E INSUFLADOS
+857980,Porta Tarjetas Navideño Papá Noel Y Muñeco De Nieve,Bazar Importación,Temporada Navidad
 857987,CH S5 54 DULCERO NAVIDENO ROJO PAPA NOEL MUNECO DE NIEVE,Bazar Importación,Temporada Navidad
 857989,CH S5 56 ADORNO NAVIDENO ESCALERA ROJA CON PAPA NOEL Y MUNEC,Bazar Importación,Temporada Navidad
 857991,CH S5 57 DULCERO PAPA NOEL ROJO MUNECO DE NIEVE VERDE,Bazar Importación,Temporada Navidad
@@ -29951,7 +29993,7 @@ id_producto,producto,categoria,subcategoria
 857997,CH S8 3 MUEECO JENGIBRE CON PANTALON VERDE 38CM,Bazar Importación,Temporada Navidad
 857998,CH S8 4 ADORNO NAVIDENO FAMILIA MUNECOS JENGIBRE,Bazar Importación,Temporada Navidad
 857999,CH S8 5 ADORNO NAVIDENO FAMILIA MUNECOS JENGIBRE 28CM,Bazar Importación,Temporada Navidad
-858001,CH S9 1 MUNECO JENGIBRE C CHALECO MUNECA C VESTICDO PIERNA L,Bazar Importación,Temporada Navidad
+858001,Muñeco Jengibre Con Chaleco Y Muñeca Con Vestido Pierna Larga,Bazar Importación,Temporada Navidad
 858003,CH S9 2 GNOMO BLANCO Y PLATEADO CON ZAPATOS PLATEADOS,Bazar Importación,Temporada Navidad
 858005,CH S9 4 GNOMO COLOR BLANCO CON BRAZOS A RAYAS GRIS 52CM,Bazar Importación,Temporada Navidad
 858006,CH S9 5 GNOMO CON GORRO DISENO DE COPOS DE NIEVE DORADO 36CM,Bazar Importación,Temporada Navidad
@@ -30229,9 +30271,9 @@ id_producto,producto,categoria,subcategoria
 861679,CH 26 29 PLATO PLANO HOJAS VERDES 26CM,Bazar Importación,Menaje Porcelana/Cerámica
 861680,JAN AGARRAPELO CBLISTER  14,Bazar,Bijouteria/Cuidado Personal
 861681,JAN  AGARRAPELO  X3 BLISTER 14,Bazar,Bijouteria/Cuidado Personal
-861717,CH L1 1 TAZON NAVIDENO CON ASAS 500ML FONDO BLANCO SURTIDO,Bazar Importación,Temporada Navidad
-861737,CH L1 2 TAZA 480ML ASA Y DISENO ROJO FONDO BLANCO SURTIDO,Bazar Importación,Menaje Porcelana/Cerámica
-861740,CH L1 3 TAZA NAVIDENA 550ML SURTIDO,Bazar Importación,Temporada Navidad
+861717,Tazón Navideño Con Asas Fondo Blanco Surtido 500 ml,Bazar Importación,Temporada Navidad
+861737,Taza Con Asa Y Diseño Rojo Fondo Blanco Surtido 480 ml,Bazar Importación,Menaje Porcelana/Cerámica
+861740,Taza Navideña Surtida 550 ml,Bazar Importación,Temporada Navidad
 861744,Lapices Ecolapices Faber Castell Madera Negra Soft 100 Colores,Bazar,Librería
 861799,JAN ADORNO GLOBO HALLOWEN  14,Bazar,OTROS
 861800,JAN GLOBO NUMERO 8,Bazar,Temporada Halloween
@@ -30256,8 +30298,8 @@ id_producto,producto,categoria,subcategoria
 861923,JAN LAMPARA NAVIDAD  20,Bazar,Temporada Navidad
 861935,Esponjero de Plastico,Bazar,Librería
 861954,Caramelo Gumball Dispensador Hot 40 gr,Abarrotes,Productos Americanos
-861957,CH L1 13 TAZA NAVIDENA ASA ARBOL 450ML SURTIDO,Bazar Importación,Temporada Navidad
-861977,CH L1 25 TAZA RENO 480ML COLOR SURTIDO,Bazar Importación,Temporada Navidad
+861957,Taza Navideña Con Asa De Arbol Surtida 450 ml,Bazar Importación,Temporada Navidad
+861977,Taza Reno Color Surtido 480 ml,Bazar Importación,Temporada Navidad
 861993,TAPETE HIGUIENICO PROCAO 80X60,Bazar,Mascotas General
 862026,Mostaza French Sweet Honey 12 oz,Abarrotes,Aderezos
 862221,PAPEL ALUMINIO MELLO 7.5MT X45CMM,Bazar,Articulos de Cocina
@@ -30285,6 +30327,7 @@ id_producto,producto,categoria,subcategoria
 862880,Extensiones Carnaval,Bazar,Temporada Carnaval
 862881,Mechas Carnavaleras Surtidas,Bazar,Temporada Carnaval
 862883,Antifas Gamusado,Bazar,Temporada Carnaval
+862923,Adorno Navideño Casa Jengibre Recargable USB 10x10x1 cm,Bazar Importación,Temporada Navidad
 862937,Vino Trapiche Roble Malbec 750 ml,Bebidas,Vinos y Champagne
 862946,Regleta Huavi 5 R-37 Power Socket,Bazar,Ferretería
 862957,Vino Don Nicanor Cabernet Sauvignon 750 ml,Bebidas,Vinos y Champagne
@@ -30314,11 +30357,13 @@ id_producto,producto,categoria,subcategoria
 863430,Te Frutte Tranquilito 20 Sobres,Abarrotes,Café y Sucedáneos
 863445,Te Frutte Duermete 20 Sobres,Abarrotes,Café y Sucedáneos
 863450,Te Frutte No Stress 20 Sobres,Abarrotes,Café y Sucedáneos
+863464,Adorno Cascanueces Con Luces Recargable USB 14x10x4 cm,Bazar Importación,Temporada Navidad
 863474,CAJA PLASTICO DISENO NINOS,Bazar,Menaje Plástico
 863492,PILAS ALCALINAS EVEREADY AAAX6,Bazar,Ferretería
 863502,FRI TOMA TODO PLASTICO 80,Bazar,Menaje Plástico
 863541,Paninera Taurus Crispy Co Electro,Bazar,Electrodoméstico/Línea Blanca-Hogar
 863542,HERVIDOR PRACTIKA NAPOLES BLACK 2.5LT,Bazar,Electrodoméstico/Línea Blanca-Hogar
+863545,Adorno Cascanueces Con Luces Recargables USB 14x10 cm,Bazar Importación,Temporada Navidad
 863585,YOL PELUCHES JUGADOR 80,Juguetería,Juguetería Didáctica/Temporada
 863613,Cortador de Cabello Mallory Smart Power,Bazar,Electrodoméstico Cuidado Personal
 863638,Chicle Fini Huevos de Dinosaurio 80 gr,Abarrotes,Golosinas - Varias
@@ -30743,21 +30788,35 @@ id_producto,producto,categoria,subcategoria
 871448,Globos con Plumas Surtidas,Bazar,Cotillón
 871449,LAMPARA DE PAPEL GRANDE,Bazar,Living y Dormitorio
 871454,CH L5 28 DUENDECILLA NAVIDENA PIERNAS LARGAS 52CM,Bazar Importación,Temporada Navidad
-871462,CH L5 29 DUENDECILLA NAVIDENA PIERNAS LARGAS FIRMES 54CM,Bazar Importación,Temporada Navidad
-871466,CH L5 34 MUNECO DE NIEVE SENTADO BEIGE DORADO 30CM,Bazar Importación,Temporada Navidad
-871467,CH L5 36 BOTA NAVIDENA MUNECO DE NIEVE 35X22CM,Bazar Importación,Temporada Navidad
-871472,CH L5 37 BOTA NAVIDENA RENO 35X22CM,Bazar Importación,Temporada Navidad
+871462,Duendecilla Navideña Piernas Largas Firmes 54 cm,Bazar Importación,Temporada Navidad
+871466,Muñeco De Nieve Sentado Beige Dorado 30 cm,Bazar Importación,Temporada Navidad
+871467,Bota Navideña Muñeco De Nieve 35x22 cm,Bazar Importación,Temporada Navidad
+871472,Bota Navideña Reno 35x22 cm,Bazar Importación,Temporada Navidad
+871482,Bota Navideña Reno Con Bufanda Verde 42x20 cm,Bazar Importación,Temporada Navidad
+871652,Esfera Navideña Blanco Con Dorado 8 cm,Bazar Importación,Temporada Navidad
+871653,Adorno Navideño Colgante En Forma De Sol Blanco 10 cm,Bazar Importación,Temporada Navidad
+871657,Adorno Navideño Colgante Carruaje 12 cm,Bazar Importación,Temporada Navidad
+871673,Adorno Navideño Reno Colgante Dorado Con Blanco 13 cm,Bazar Importación,Temporada Navidad
 871676,LAPICES COLOR ANIMALES X24 CARTON,Bazar,Librería
+871729,Letrero Navideño Colgante Merry Christmas 14 cm,Bazar Importación,Temporada Navidad
+871750,Adorno Navideño Blanco Estrella Con Muñeco De Nieve,Bazar Importación,Temporada Navidad
 871832,Cuchillo Universal Para Cocina N7,Bazar,Articulos de Cocina
+871838,Adorno Navideño Papá Noel Colgante 26x33 cm,Bazar Importación,Temporada Navidad
+871841,Adorno Navideño Papá Noel Y Muñeco De Nieve 25x11 cm,Bazar Importación,Temporada Navidad
 871847,Cuchillo Universal Para Cocina N8,Bazar,Articulos de Cocina
+871854,Adorno Navideño Joy Con Papá Noel En Escalera,Bazar Importación,Temporada Navidad
+871874,Adorno Navideño Bastón Dulce Rojo Y Blanco 30 cm,Bazar Importación,Temporada Navidad
 871878,Juguete Set Aeropuerto,Juguetería,Juguetería Niño/Bebé
 871880,Pelota Plastica Hipermaxi,Juguetería Importación,Juguetería Niño/Bebé
 871885,Juego Bloques Didacticos,Juguetería,Juguetería Didáctica/Temporada
 871948,FRI CARTERAS DE NINA BS 18,Bazar,Bolsos/Carteras/Maletas
+871958,Adorno Navideño Papá Noel Rojo Con Cascabeles Colgante 18 cm,Bazar Importación,Temporada Navidad
+871959,CH L3 67 COLGANTE NAVIDENO 25CM MUNECO DE NIEVE BLANCO CON C,Bazar Importación,Temporada Navidad
 871982,Regla Twist Flex Maped 30 cm,Bazar,Librería
 871983,Globo Inflable Numeros,Bazar,Cotillón
 871992,Shampoo Mascota Vera Srecuentre 1 V,Bazar,Mascotas General
 871993,Shampoo Auto Su Super 2recuentre  P/S,Bazar,Automotriz
+872021,Adorno Navideño Colgante Con Moño Y Campana Roja 13 cm,Bazar Importación,Temporada Navidad
 872026,PAPEL ALUMINIO ALPFILM 45X7.5CM,Bazar,Articulos de Cocina
 872172,Tostadora Philips,Bazar,Electrodoméstico/Línea Blanca-Hogar
 872209,COPA VINO BRUNELLO 1X12 20713100,Bazar,Menaje Vidrio/Cristal
@@ -30779,6 +30838,9 @@ id_producto,producto,categoria,subcategoria
 872497,Espuma Carnavalera Alegria Niña 500 ml,Bazar,Temporada Carnaval
 872529,"Toallas Humedas Huggies Limpieza Efectiva 48 un
 ",Cuidado del Bebé,Cuidado del Bebé
+872534,Papel Regalo Navideño Con Diseños Surtidos 70x100 cm,Bazar Importación,Temporada Navidad
+872564,Calendario Navideño De Adviento 6x10x3 cm,Bazar Importación,Temporada Navidad
+872624,Letrero Navideño Welcome Con Oso 9.5x20x2.8 cm,Bazar Importación,Temporada Navidad
 872650,CA JUEGO DE DARDO 85,Juguetería,Juguetería Didáctica/Temporada
 872655,Ambientador Dual Refresh Breeze Meadow,Bazar,Automotriz
 872662,Lustramueble Archer Gatillo 860 ml,Cuidado del Hogar,Limpieza de Living y Ropero
@@ -30891,6 +30953,7 @@ id_producto,producto,categoria,subcategoria
 876606,JAN FLOR DE NAVIDAD  15,Bazar,Temporada Navidad
 876607,JAN ADORNO PAPA NOEL CARA 14,Bazar,Temporada Navidad
 876625,JAN CINTA NAVIDAD 12,Bazar,Temporada Navidad
+876652,Adorno Navideño Caramelo Rojo Y Blanco 8x2 cm,Bazar Importación,Temporada Navidad
 876654,CARACOL DIDACTICO ARTI GOMA EVA,Bazar,Librería
 876670,EELS PORTA RETRATO DE BS 33,Bazar,Living y Dormitorio
 876702,Cuaderno Lider Espiral Carta 100 Hojas,Bazar,Librería
