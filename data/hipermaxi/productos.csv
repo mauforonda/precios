@@ -524,6 +524,7 @@ id_producto,producto,categoria,subcategoria
 14013,Vino Campos de Solana Tannat Marselan 750 ml,Bebidas,Vinos y Champagne
 14014,Sal El Salar Parrillera Ahumada 750 gr,Abarrotes,Básicos
 14015,Sazonador Morton All 3.25 oz,Abarrotes,Condimentos y Legumbres
+14018,Te Camba con Canela 20 Sobres,Abarrotes,Café y Sucedáneos
 14020,Chicle Bloops Surtido 480 gr,Abarrotes,Golosinas - Varias
 14027,Pack Isotonico Activade 1 L,Bebidas,Isotónicos
 14029,"Isotonico Activade Six Pack 600 ml
@@ -1760,7 +1761,7 @@ id_producto,producto,categoria,subcategoria
 25117,Galleta Family Farm Arroz Sin Sal 110 gr,Abarrotes,Dietéticos y Saludables
 25118,Galleta Family Farm Arroz con Sal 110 gr,Abarrotes,Dietéticos y Saludables
 25120,Vino Kohlberg Cautivo 750 ml,Bebidas,Vinos y Champagne
-25121,Mantequilla de Mani Mr Nuts Crocante Sin Azucar 360 g,Abarrotes,Repostería
+25121,Mantequilla de Mani Mr Nuts Crocante Sin Azucar 360 gr,Abarrotes,Repostería
 25122,Mantequilla de Mani Mr Nuts Cremosa Original 360 g,Abarrotes,Repostería
 25123,Mantequilla de Mani Mr Nuts Cremosa sin azucar 360 g,Abarrotes,Repostería
 25124,Mani Croppers Salado 350 gr,Abarrotes,Snack
@@ -4369,6 +4370,7 @@ id_producto,producto,categoria,subcategoria
 100642,Salsa Celina Dulce de Leche 400 gr,Abarrotes,Repostería
 100643,Chocolate Sublime Almendra 100 gr,Abarrotes,Chocolates y Caramelos
 100644,Gin Republica Reserva del Maestro 700 ml,Bebidas,Licores
+100645,LECHE CONDENSADA MOCOCA TETRA 395 GR,Abarrotes,Nutrición Infantil
 100646,Sazonador McCormick Completo 148 gr,Abarrotes,Condimentos y Legumbres
 100647,Sal McCormick Marina Negra 100 gr,Abarrotes,Condimentos y Legumbres
 100648,Sal McCormick Marina Hiebras 110 gr,Abarrotes,Condimentos y Legumbres
@@ -4404,6 +4406,9 @@ id_producto,producto,categoria,subcategoria
 100836,Salsa B&R Agridulce Barbacoa 270 gr,Abarrotes,Aderezos
 100849,Galleta Cremosita Dark Vainilla 228 gr,Abarrotes,Galletas
 100873,Mostaza Dijon Roland Extra Fuerte 198 gr,Abarrotes,Productos Americanos
+100917,Alimento Primocao Pate Carne 300 gr,Abarrotes,Mascotas
+100918,Alimento Primocao Pate Junior 300 gr,Abarrotes,Mascotas
+100919,Alimento Primocao Pate Carne Vegetales 300 gr,Abarrotes,Mascotas
 100926,Chocolate Arcor Blanco 70 gr,Abarrotes,Chocolates y Caramelos
 100927,Chocolate Arcor Brigadeiro 80 gr,Abarrotes,Chocolates y Caramelos
 100928,Chocolate Arcor Medio Amargo 80 gr,Abarrotes,Chocolates y Caramelos
@@ -7288,6 +7293,7 @@ id_producto,producto,categoria,subcategoria
 189391,Basurero San Remo De Pie 6.5 L,Cuidado del Hogar,Accesorios del Hogar
 190009,Te Twinings Limon Jengibre 30 gr,Abarrotes,Productos Americanos
 190010,Te Twinings Chai 20 Sobres,Abarrotes,Productos Americanos
+191507,NESCAFE DOLCA ORIGINAL FCO 170G,Abarrotes,Café y Sucedáneos
 191630,Pastilla de Baño Pato Adhesivo Citrus 3 un,Cuidado del Hogar,Limpieza de Baños
 191841,Helado Cabrera Alfajor,Congelados,"Helados, Cassattas y Picoleses"
 191950,Vino Escorihuela Malbec 750 ml,Bebidas,Vinos y Champagne
@@ -9219,7 +9225,7 @@ id_producto,producto,categoria,subcategoria
 228989,Suavizante Ropa Asi Clasico 900 ml,Cuidado del Hogar,Limpieza de la Ropa
 228991,LIMPPANO ANTIMOHO CLOSET ROMERO 200G,Cuidado del Hogar,Limpieza de Living y Ropero
 228992,PERFUME ASI  TELA PINK POWER 300ML,Cuidado del Hogar,Limpieza de Living y Ropero
-228993,Jabon Liquido intimo Asi 300 ml,Cuidado Personal,Cuidado del Adulto
+228993,Jabon Liquido intimo Asi 300 ml,Cuidado del Hogar,Limpieza de la Ropa
 228994,PERFUME ASI TELA  LAVANDA 300ML,Cuidado del Hogar,Limpieza de Living y Ropero
 228995,PERFUME ASI  TELA  ANTIOLOR 300ML,Cuidado del Hogar,Limpieza de Living y Ropero
 228996,PLANCA FACIL ASI GATILLO 500ML,Cuidado del Hogar,Limpieza de la Ropa
@@ -9743,9 +9749,20 @@ id_producto,producto,categoria,subcategoria
 231939,CUNAPE MERENDA ESPINACA 8 UND,Congelados,Masas y Comidas Congeladas
 231941,MUFFIN MERENDA CHOCOLATE 8 UNDS,Congelados,Masas y Comidas Congeladas
 231942,LABIAL NIVEA ROSE 4.8 GR,Cuidado del Hogar,Productos Americanos
+231994,PANAL NENESOFT PRIMIUM RN 4KG 20 UNDS,Cuidado del Bebé,Pañales
+231995,PANAL NENESOFT PREMIUM RN 5KG 20 UND,Cuidado del Bebé,Pañales
+231996,PANAL NENESOFT PREMIUM XXXG 28 UNDS,Cuidado del Bebé,Pañales
+231997,TOALLA HUMEDA NENESOFT 100 UNDS,Cuidado del Bebé,Cuidado del Bebé
+231998,TOALLA HUMEDA NENESOFT 50 UNDS,Cuidado del Bebé,Cuidado del Bebé
+231999,TOALLA HIGIENICA RUBY DIARIA 15 UND,Cuidado Personal,Cuidado Familiar
+232000,TOALLA HIGIENICA RUBY JUVENIL 10 UND,Cuidado Personal,Cuidado Familiar
+232002,TOALLA HIGIENICA RUBY NORMAL 10 UND,Cuidado Personal,Cuidado Familiar
 232003,Bebida Ice 51 Balada 275 ml,Bebidas,Licores
+232004,TOALLA HIGIENICA RUBY RAPISEC 10 UNDS,Cuidado Personal,Cuidado Familiar
+232005,TOALLA HIGIENICA RUBY NOCTURNA 10UND,Cuidado Personal,Cuidado Familiar
 232006,Gaseosa Conti Guarana 350 ml,Bebidas,Gaseosas
 232007,Gaseosa Conti Cola 350 ml,Bebidas,Gaseosas
+232020,TOALLA HIG RUBY NOCTURNA X-LARG 8 UNDS,Cuidado Personal,Cuidado Familiar
 232039,ESMALTE EFECTO GEL CACAO,Cuidado Personal,Cuidado de la Piel
 232042,ESMALTE EFECTO GEL PLACER,Cuidado Personal,Cuidado de la Piel
 232043,ESMALTE EFECTO GEL AVELLANA,Cuidado Personal,Cuidado de la Piel
@@ -10560,6 +10577,7 @@ id_producto,producto,categoria,subcategoria
 280214,PAPEL HIGIENOL DH 12 UNDS,Cuidado Personal,Cuidado Familiar
 280215,PAPE HIG  NOBLE DH  PLUS 12 UND,Cuidado Personal,Cuidado Familiar
 280218,LAVANDINA ULTRA POWER 5LT,Cuidado del Hogar,Limpieza de la Ropa
+280224,PACK EXCELLENCE 8+ GLYCO 200 ML.,Cuidado Personal,Cuidado del Cabello
 280233,PASTA DENTAL DEXE TOTAL 12 120 GR,Cuidado Personal,Cuidado Bucal
 280234,PASTA DENTAL DEXE 7 EFECTOS 120GR,Cuidado Personal,Cuidado Bucal
 280235,PASTA DENTAL DEXE ANTICARIES 120GR,Cuidado Personal,Cuidado Bucal
@@ -13038,6 +13056,7 @@ id_producto,producto,categoria,subcategoria
 385379,Guantes Scotch Brite Lavanderia Talla M,Cuidado del Hogar,Accesorios del Hogar
 385441,Acido Nitrico Vicas 1 L,Cuidado del Hogar,Limpieza de Baños
 385478,PAN BARBIE PRINCESA RUBIA,Juguetería Importación,Jugueteria Marcas
+385570,JABONCILLO VERITAS PERFUME 120 GR,Cuidado Personal,Cuidado de la Piel
 385571,JABON VERITAS ESENCIAS 120 GR,Cuidado Personal,Cuidado de la Piel
 385580,JABON VERITAS LAVANDA 120 GR,Cuidado Personal,Cuidado de la Piel
 385891,Queso Mozzarella San Javier 500 gr,Lácteos y Derivados,Quesos
@@ -14030,6 +14049,11 @@ id_producto,producto,categoria,subcategoria
 458362,Tapsin Caliente Noche Limon/Jengibre x 1 sobre,Farmacia Otc,Sistema Respiratorio
 458382,Prudence Gel Intimo Neutro x 100 gr,Cuidados Otc,OCT SALAS
 458511,Miel Syrup Karo Dark Corn 16 470 ml,Abarrotes,Productos Americanos
+458701,"PANAL NENESOFT ""P""X48 (3 A 6KG)",Cuidado del Bebé,Pañales
+458702,"PANAL NENESOFT ""M""X44 (4 A 10KG)",Cuidado del Bebé,Pañales
+458704,"PANAL NENESOFT ""G""X40 (9 A 13KG)",Cuidado del Bebé,Pañales
+458705,"PANAL NENESOFT ""XG""X36 (MAS DE 12KG)",Cuidado del Bebé,Pañales
+458706,"PANAL NENESOFT ""XXG""X32 (MAS DE 15KG)",Cuidado del Bebé,Pañales
 458727,Caramelo Propoleo Miel Limon 80 gr,Abarrotes,Chocolates y Caramelos
 458981,Suplemento Forty Shake Chocolate 380 gr,Abarrotes,Dietéticos y Saludables
 458982,Suplemento Forty Shake Vainilla 380 gr,Abarrotes,Dietéticos y Saludables
@@ -14902,9 +14926,15 @@ id_producto,producto,categoria,subcategoria
 517121,KETCHUP ARTESANO DP 200G,Abarrotes,Aderezos
 517123,MAYONESA ARTESANO DP 2860ML,Abarrotes,Aderezos
 517124,KETCHUP ARTESANO DP 2860G,Abarrotes,Aderezos
-517125,SALSA ARTESANO BARBACOA PET 400G,Abarrotes,Aderezos
+517125,SALSA BARBACOA ARTESANO PET 400G,Abarrotes,Aderezos
 517128,CAFE ARTESANO INSTANT FCO 200G,Abarrotes,Café y Sucedáneos
 517137,PACK ARCOR NAVIDENO D DULCES UND,Abarrotes,Temporada
+517139,ALIMENTO PRIMOGATO PESCADO DP 85G,Abarrotes,Mascotas
+517140,ALIMENTO PRIMOCAO CACHORRO DP 100G,Abarrotes,Mascotas
+517141,ALIMENTO PRIMOGATO CARNE DP 85G,Abarrotes,Mascotas
+517142,ALIMENTO PRIMOCAO CARNE DP 100G,Abarrotes,Mascotas
+517144,ALIMENTO PRIMOGATO GATITO DP 85G,Abarrotes,Mascotas
+517145,ALIMENTO PRIMOCAO CARNE VEGET DP 100G,Abarrotes,Mascotas
 517313,Vinagre Favinco de Vino 500 ml,Abarrotes,Básicos
 517321,Vinagre Favinco de Manzana 500 ml,Abarrotes,Básicos
 517330,Vinagre Favinco de Alcohol 500 ml,Abarrotes,Básicos
@@ -20144,7 +20174,7 @@ id_producto,producto,categoria,subcategoria
 656683,PANETTONE ZELADA BOLSA 650 GR,Panadería,Panadería Externa
 656688,PANETTONE ZELADA BOMBOM CAJA  550GR.,Panadería,Panadería Externa
 656690,ROSCA DE FRUTAS ZELADA 600GR.,Pastelería y Masas Típicas,Pastelería Externa
-656691,ROSCA DE CANELA ZELADA 550GR,Pastelería y Masas Típicas,Pastelería Externa
+656691,ROSCA DE CANELA ZELADA 600GR,Pastelería y Masas Típicas,Pastelería Externa
 656700,Pan Molido Zelada 1 kg,Panadería,Panadería Externa
 656727,Yogurt Kefir Cereza 1 L,Lácteos y Derivados,Yogures
 656729,Yogurt Kefir Mango 1 L,Lácteos y Derivados,Yogures
@@ -21044,6 +21074,7 @@ id_producto,producto,categoria,subcategoria
 660571,BRILLINA CERA CREMA TIERRA COLOR SASHET,Cuidado del Hogar,Limpieza de Living y Ropero
 660572,PONDS CR CLARANT B3 FPS30 100G,Cuidado Personal,Cuidado de la Piel
 660573,AXE BS INDIGO HAZE 12X96G/150ML,Cuidado Personal,Cuidado de la Piel
+660644,SEDAL SH ZERO CASPA 2EN1 190ML,Cuidado Personal,Cuidado del Cabello
 660711,Galleta Noel Octagonal Surtida 260 gr,Abarrotes,Temporada
 660852,Te Frutte Laxte 20 Sobres,Abarrotes,Café y Sucedáneos
 661150,Insecticida Tableta Raid Mata Mosquito Doble Accion 24 un,Cuidado del Hogar,Productos Americanos
@@ -22301,7 +22332,7 @@ id_producto,producto,categoria,subcategoria
 669207,BASE FIT ME FRESH TINT FPS 50 2.5,Cuidado Personal,Cuidado de la Piel
 669209,CORRECTOR LIQUIDO MATE NATURAL NATURAL,Cuidado Personal,Cuidado de la Piel
 669210,Base De Maquillaje Fit Me Fresh Tint Maybelline FPS 50 Tono 9.5 30 ml,Cuidado Personal,Cuidado de la Piel
-669211,POLVO ESSENTIAL CAPUCCINO,Cuidado Personal,Cuidado de la Piel
+669211,Polvo Compacto Essential Tono Capuccino 10 gr,Cuidado Personal,Cuidado de la Piel
 669212,BASE EN POLVO RESIST PETALO,Cuidado Personal,Cuidado de la Piel
 669215,Labial Colorissimo Extra Brillo Rose,Cuidado Personal,Cuidado de la Piel
 669216,LABIAL COLORISSIMO SANDIA,Cuidado Personal,Cuidado de la Piel
@@ -24028,6 +24059,7 @@ id_producto,producto,categoria,subcategoria
 674084,Leche Vegetal Impostor Milk Banana 946 ml,Lácteos y Derivados,Leches
 674085,Leche Vegetal Impostor Milk Banana 140 ml,Lácteos y Derivados,Leches
 674086,Leche Vegetal Impostor Milk Frutilla 140 ml,Lácteos y Derivados,Leches
+674087,SALCHICHA WEINER CON PIEL STEGE 10 UNIDADES,Fiambres,Fiambres Externos
 674094,Queso Flor de Leche Florandino Light kg,Lácteos y Derivados,Quesos
 674095,Yogurt Kefir Natural 2 L,Lácteos y Derivados,Yogures
 674101,Palitos de Avena con Queso 17 un,Pastelería y Masas Típicas,Pastelería Externa
@@ -24671,6 +24703,9 @@ id_producto,producto,categoria,subcategoria
 675025,CHORIZO CERVECERO SOFIA VACIO 5 UNIDADES,Fiambres,Fiambres Externos
 675026,YOGURT TIPO GRIEGO O AZUCAR VAINILLA GALAKTOS 500GRS,Lácteos y Derivados,Yogures
 675027,YOGURT TIPO GRIEGO O AZCAR MANZANA VERDE GALAKTOS 500GR,Lácteos y Derivados,Yogures
+675033,YOGURT LIGHT SBELT SABOR FRUTILLA 1000GR,Lácteos y Derivados,Yogures
+675034,YOGURT LIGHT SBELT SABOR DURAZNO 1000GR,Lácteos y Derivados,Yogures
+675036,LECHE CON CAFE CAPUCHINO 330ML TETRA MONACO,Lácteos y Derivados,Leches
 675038,YOGURT GRIEGO 0 AZUCAR DELIZIA 800GRS,Lácteos y Derivados,Yogures
 675245,Miel de Abeja Eva Promiel 250 gr,Abarrotes,"Mermel, Mieles"
 675948,SALCHICHA VIENA DON PIOTR 500GRS VACIO,Fiambres,Fiambres Externos
@@ -26575,6 +26610,7 @@ id_producto,producto,categoria,subcategoria
 789066,Sandwich Panini Lomito Ahumado Congelado Ventura Factory,Pastelería y Masas Típicas,Pastelería Externa
 789112,Queso Brie de Vaca Colinas del Sol kg,Lácteos y Derivados,Quesos
 789121,Empanada Integral Paris 4 un,Panadería,Panadería Externa
+789123,HAMBURGUESA LA CRIOLLITA FRIDOSA TUBO X 12 HAMB.,Congelados,Carnes Congeladas
 789129,Queso Criollo Guapurutu 480 gr,Lácteos y Derivados,Quesos
 789132,Palitos Integrales de Sesamo Paris 16 un,Panadería,Panadería Externa
 789146,Palitos Integrales con Queso Paris 16 un,Panadería,Panadería Externa
@@ -30030,6 +30066,7 @@ id_producto,producto,categoria,subcategoria
 857976,Palta un,Frutas y Verduras,Verduras
 857979,CP MANI SALADO 1 KG,Granos y Hortalizas,A GRANEL E INSUFLADOS
 857980,Porta Tarjetas Navideño Papá Noel Y Muñeco De Nieve,Bazar Importación,Temporada Navidad
+857985,TE WINDSOR CANELA CLAVO OLOR 100SOB,Abarrotes,Café y Sucedáneos
 857987,CH S5 54 DULCERO NAVIDENO ROJO PAPA NOEL MUNECO DE NIEVE,Bazar Importación,Temporada Navidad
 857989,CH S5 56 ADORNO NAVIDENO ESCALERA ROJA CON PAPA NOEL Y MUNEC,Bazar Importación,Temporada Navidad
 857991,CH S5 57 DULCERO PAPA NOEL ROJO MUNECO DE NIEVE VERDE,Bazar Importación,Temporada Navidad
