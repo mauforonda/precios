@@ -49,6 +49,8 @@ id_producto,producto,categoria,subcategoria
 1717,Sazonador Badia Completa 9 oz,Abarrotes,Condimentos y Legumbres
 1718,Ajo Badia Polvo 8 oz,Abarrotes,Condimentos y Legumbres
 1719,Sal Badia de Ajo 16 oz,Abarrotes,Condimentos y Legumbres
+1722,CHOCOL NEUGEBAUER BCO COOKIES 80G,Abarrotes,Chocolates y Caramelos
+1724,CHOCOL NEUGEBAUER LECHE TAB 80G,Abarrotes,Chocolates y Caramelos
 1730,Agua Fentimans Rose Limonade 200 ml,Bebidas,Aguas
 1731,Fideo Carozzi Spaguettini 3 400 gr,Abarrotes,Básicos
 1734,Cerveza Prost Six Pack 355 ml,Bebidas,Cervezas
@@ -3433,6 +3435,7 @@ id_producto,producto,categoria,subcategoria
 31576,Jugo Aloe Vera Tai Dragon Fruit 550 ml,Bebidas,Bebidas Varias
 31578,Jugo Aloe Vera Tai Original 0 Azucar 550 ml,Bebidas,Bebidas Varias
 31579,Maizena Paladio 800 gr,Abarrotes,Repostería
+31580,Esencia de Vainilla Paladio Oscuro 1 L,Abarrotes,Repostería
 31581,Chicle Wrigleys Extra Peppermint 15 Sticks,Abarrotes,Golosinas - Varias
 31582,Chicle Wrigleys Extra Polar Ice 15 Sticks,Abarrotes,Golosinas - Varias
 31583,Chicle Wrigleys Extra Watermelon 15 Sticks,Abarrotes,Golosinas - Varias
@@ -3945,6 +3948,7 @@ id_producto,producto,categoria,subcategoria
 67081,BATON GAROTO CHOCOSTICK C CREAM 26G,Abarrotes,Golosinas - Varias
 67082,BOMBON NEUGEB AMOR CARIOCA BCO 200G,Abarrotes,Chocolates y Caramelos
 67084,BOMBON NEUGEB AMOR CARIOCA DUO 200G,Abarrotes,Chocolates y Caramelos
+67085,CHOCOL NEUGEBAUER 1891 C AVELLANAS 90G,Abarrotes,Chocolates y Caramelos
 67086,SOPA INSTANT AL TOKE CARNE BOWL 94G,Abarrotes,Básicos
 67087,SOPA INSTANT AL TOKE POLLO BOWL 94G,Abarrotes,Básicos
 67089,GASEOSA CIELO LIMON ANTIOXID LTA 473ML,Bebidas,Gaseosas
@@ -3952,6 +3956,7 @@ id_producto,producto,categoria,subcategoria
 67092,KETCHUP KRIS POMO RETRO 400 G,Abarrotes,Aderezos
 67093,MOSTAZA KRIS POMO RETRO 400 G,Abarrotes,Aderezos
 67094,FOUR LOKO ACAI COCO LTA 695ML,Bebidas,Licores
+67095,CHOCOL NEUGEBAUER 1891 INTENSE 90G,Abarrotes,Chocolates y Caramelos
 67096,Te Frutte Jengibre Limon Miel 20 Sobres,Abarrotes,Café y Sucedáneos
 67097,Te Frutte Gengibre Miel 20 Sobres,Abarrotes,Café y Sucedáneos
 67099,MALVAVISCO ANGELITOS TORCIDO FRESA 200G,Abarrotes,Chocolates y Caramelos
@@ -7490,6 +7495,10 @@ id_producto,producto,categoria,subcategoria
 204065,TOALLA HUMEDA DR BABE BEA 50 UNDS,Cuidado del Bebé,Cuidado del Bebé
 204066,TOLALLA HUMEDA DR BABY POCOYO 25 UNS,Cuidado del Bebé,Cuidado del Bebé
 204067,TOALLA HUMEDA DR BABE BEA 25 UNDS,Cuidado del Bebé,Cuidado del Bebé
+204068,LIMPIA PISO TODO BRILLO PLUS NAVIDAD 180,Cuidado del Hogar,Limpieza de Baños
+204069,LIMPIAPISO TODOBRILLO PLUS NAVIDAD 5LT,Cuidado del Hogar,Limpieza de Baños
+204071,JABON LIQ CARISSA NAVIDAD MANZ CANELA DP,Cuidado Personal,Cuidado de la Piel
+204075,AMBIENT TODOBRILLO MANZ CANELA NAVIDAD 3,Cuidado del Hogar,Limpieza de Living y Ropero
 204109,Chocolate Cofler Block 300 gr,Abarrotes,Chocolates y Caramelos
 204154,Ice Tea Hindu Manzana Light 300 gr,Bebidas,Refrescos en Polvo
 204159,Aceituna Vanoli rellena con Pimiento 300 gr,Abarrotes,Verduras en Conserva
@@ -10304,6 +10313,10 @@ id_producto,producto,categoria,subcategoria
 251002,KETCHUP ARTESANO PET 400G,Abarrotes,Aderezos
 251004,MAYONESA ARTESANO DP 485ML,Abarrotes,Aderezos
 251005,KETCHUP ARTESANO DP 490G,Abarrotes,Aderezos
+251006,CHOCOL NEUGEBAUER 1891 LECHE TAB 90G,Abarrotes,Chocolates y Caramelos
+251007,CHOCOL NEUGEBAUER CARAMELO TAB 80G,Abarrotes,Chocolates y Caramelos
+251008,CHOCOL NEUGEBAUER 1891 DARK TAB 90G,Abarrotes,Chocolates y Caramelos
+251009,CHOCOL NEUGEBAUER MANI TAB 80G,Abarrotes,Chocolates y Caramelos
 251055,Salsa Criollita Picante de Lengua 300 ml,Abarrotes,Condimentos y Legumbres
 251056,Salsa Criolla Picante de Pollo 300 ml,Abarrotes,Condimentos y Legumbres
 251057,Salsa Criolla Falso Conejo 300 ml,Abarrotes,Condimentos y Legumbres
@@ -14750,7 +14763,7 @@ id_producto,producto,categoria,subcategoria
 499331,Jabon Senador Glicerina Red. Stone X 130 gr,Cuidado Personal,Cuidado de la Piel
 499501,Champagne Chandon Extra Brut 750 ml,Bebidas,Vinos y Champagne
 500261,MERMELADA HELIOS DAMASCO 340 GR,Abarrotes,Productos Importados
-500262,MERMELADA HELIOS ARANDANO 340 GR,Abarrotes,Productos Importados
+500262,Mermelada Helios Arandanos 340 gr,Abarrotes,Productos Importados
 500263,Mermelada Helios Frutilla 340 gr,Abarrotes,Productos Importados
 500264,MERMELADA HELIOS FRUTOS DEL BOSQUE 340 GR,Abarrotes,Productos Importados
 500265,MERMELADA HELIOS MORA 340 GR,Abarrotes,Productos Importados
@@ -14927,6 +14940,7 @@ id_producto,producto,categoria,subcategoria
 517123,MAYONESA ARTESANO DP 2860ML,Abarrotes,Aderezos
 517124,KETCHUP ARTESANO DP 2860G,Abarrotes,Aderezos
 517125,SALSA BARBACOA ARTESANO PET 400G,Abarrotes,Aderezos
+517126,KETCHUP ARTESANO PET 184G,Abarrotes,Aderezos
 517128,CAFE ARTESANO INSTANT FCO 200G,Abarrotes,Café y Sucedáneos
 517137,PACK ARCOR NAVIDENO D DULCES UND,Abarrotes,Temporada
 517139,ALIMENTO PRIMOGATO PESCADO DP 85G,Abarrotes,Mascotas
@@ -14935,6 +14949,7 @@ id_producto,producto,categoria,subcategoria
 517142,ALIMENTO PRIMOCAO CARNE DP 100G,Abarrotes,Mascotas
 517144,ALIMENTO PRIMOGATO GATITO DP 85G,Abarrotes,Mascotas
 517145,ALIMENTO PRIMOCAO CARNE VEGET DP 100G,Abarrotes,Mascotas
+517150,SALSA BARBACOA ARTESANO DP 200G,Abarrotes,Aderezos
 517313,Vinagre Favinco de Vino 500 ml,Abarrotes,Básicos
 517321,Vinagre Favinco de Manzana 500 ml,Abarrotes,Básicos
 517330,Vinagre Favinco de Alcohol 500 ml,Abarrotes,Básicos
@@ -15402,7 +15417,7 @@ id_producto,producto,categoria,subcategoria
 550459,Barra Multicereal Roquin 6 un 30 gr,Abarrotes,Nutrición Infantil
 550460,Pisco Tabernero Chicha Morada 700 ml,Bebidas,Licores
 550461,Pisco Tabernero Mango 700 ml,Bebidas,Licores
-550462,PISCO TABERNERO COL  PRIVADA MOSCO VERDE,Bebidas,Licores
+550462,Pisco Tabernero Colección Privada Mosto Verde 750 ml,Bebidas,Licores
 550464,Pisco Tabernero Tres Cepas 500 ml,Bebidas,Licores
 550465,Pisco Tabernero Botija Quebranta 700 ml,Bebidas,Licores
 550466,Nuez Cocinero Moscada 2 un,Abarrotes,Condimentos y Legumbres
@@ -16597,7 +16612,7 @@ id_producto,producto,categoria,subcategoria
 552691,QUINUA REAL MI SUCO 455 GR,Abarrotes,Condimentos y Legumbres
 552692,HOJUELA DE QUINUA MI SUCO 400 GR,Abarrotes,Condimentos y Legumbres
 552693,TRIGO PELADO MI SUCO 455 GR,Abarrotes,Condimentos y Legumbres
-552694,LENTEJA EN GRANO MI SUCO 455 GR,Abarrotes,Condimentos y Legumbres
+552694,Lenteja Suco en Grano 455 gr,Abarrotes,Condimentos y Legumbres
 552695,Habas Seca Mi Suco 455 gr,Abarrotes,Condimentos y Legumbres
 552696,Singani Don Rolo Premium 750 ml,Bebidas,Licores
 552698,Cereal Kelloggs Choco Krispis 260 gr,Abarrotes,Nutrición Infantil
@@ -17946,6 +17961,7 @@ id_producto,producto,categoria,subcategoria
 568263,Oregano Savoryn Molido 60 gr,Abarrotes,Condimentos y Legumbres
 568264,Paprika Savoryn 77 gr,Abarrotes,Condimentos y Legumbres
 568265,Pimienta Blanca Savoryn 65 gr,Abarrotes,Condimentos y Legumbres
+568266,Pimienta Dulce Savoryn Molida 60 gr,Abarrotes,Condimentos y Legumbres
 568267,Pimienta Negra Savoryn Molida 65 gr,Abarrotes,Condimentos y Legumbres
 568269,Albahaca Savoryn 15 gr,Abarrotes,Condimentos y Legumbres
 568272,Cilantro Savoryn 30 gr,Abarrotes,Condimentos y Legumbres
@@ -24703,6 +24719,7 @@ id_producto,producto,categoria,subcategoria
 675025,CHORIZO CERVECERO SOFIA VACIO 5 UNIDADES,Fiambres,Fiambres Externos
 675026,YOGURT TIPO GRIEGO O AZUCAR VAINILLA GALAKTOS 500GRS,Lácteos y Derivados,Yogures
 675027,YOGURT TIPO GRIEGO O AZCAR MANZANA VERDE GALAKTOS 500GR,Lácteos y Derivados,Yogures
+675028,SANDWICH HELADO DUO VAINILLA Y FRUTILLA DELIZIA 100ML,Congelados,"Helados, Cassattas y Picoleses"
 675033,YOGURT LIGHT SBELT SABOR FRUTILLA 1000GR,Lácteos y Derivados,Yogures
 675034,YOGURT LIGHT SBELT SABOR DURAZNO 1000GR,Lácteos y Derivados,Yogures
 675036,LECHE CON CAFE CAPUCHINO 330ML TETRA MONACO,Lácteos y Derivados,Leches
