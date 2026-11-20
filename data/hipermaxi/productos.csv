@@ -563,6 +563,7 @@ id_producto,producto,categoria,subcategoria
 14081,Ajo Badia Black Fina Picado 226.7 gr,Abarrotes,Productos Americanos
 14084,Aceite Becoco Mct Premium 500 ml,Abarrotes,Dietéticos y Saludables
 14088,Lenteja Cocinero 1 kg,Abarrotes,Condimentos y Legumbres
+14089,Maiz de Pipoca Cocinero 450 gr,Abarrotes,Snack
 14091,Pack Jugo del Valle Manzana 6 un 300 ml,Bebidas,"Jugos, Néctar"
 14098,Cereal Granix Fibra Pasas Total 400 gr,Abarrotes,Nutrición Infantil
 14099,Cereal Granix Copos Maiz Azucarados 1000 gr,Abarrotes,Nutrición Infantil
@@ -627,6 +628,7 @@ id_producto,producto,categoria,subcategoria
 14225,Vodka 360 Double Chocolate 750 ml,Bebidas,Licores
 14226,Tequila Rose Strawberry Cream 750 ml,Bebidas,Licores
 14230,Chia Benexia Omega 3 700 gr,Abarrotes,Nutrición Infantil
+14233,Nuez Cocinero Pelada 100 gr,Abarrotes,Snack
 14234,Durazno al Jugo Isamar 820 gr,Abarrotes,Frutas en Conserva
 14235,Piña al Jugo Isamar 820 gr,Abarrotes,Frutas en Conserva
 14236,Galleta Wafer Isabella Pack 3 un,Abarrotes,Galletas
@@ -878,7 +880,7 @@ id_producto,producto,categoria,subcategoria
 15106,Aceituna Pramesa Verde 180 gr,Abarrotes,Verduras en Conserva
 15250,Salsa Kral Ranch 230 gr,Abarrotes,Aderezos
 15251,Salsa Kral Queso 230 gr,Abarrotes,Aderezos
-15252,Salsa Kral Nacho Dip 230 gr,Abarrotes,Aderezos
+15252,Salsa Kral Nacho Dip 230 gr,Abarrotes,Snack
 15255,Salsa Kral Queso Jalapeno Dip 230 gr,Abarrotes,Aderezos
 15334,Salsa Mix McCormick Garlic Alfredo 35 gr,Abarrotes,Condimentos y Legumbres
 15385,Sazonador McCormick Chili Mild 35 gr,Abarrotes,Condimentos y Legumbres
@@ -1289,10 +1291,10 @@ id_producto,producto,categoria,subcategoria
 17823,Vino El Viejo Toro Tinto 1125 ml,Bebidas,Vinos y Champagne
 17824,Sangria Dos Hermanos 4 L,Bebidas,Licores
 17827,Cereal Torremolino Choko Buho 220 gr,Abarrotes,Nutrición Infantil
-17831,Salsa B&R Nacho Guacamole 320 gr,Abarrotes,Aderezos
+17831,Salsa B&R Nacho Guacamole 320 gr,Abarrotes,Snack
 17832,Salsa B&R Nacho Pico de Gallo 320 gr,Abarrotes,Aderezos
-17833,Salsa B&R Nacho De Porotos 320 gr,Abarrotes,Aderezos
-17834,Salsa B&R Nacho Espinaca 320 gr,Abarrotes,Aderezos
+17833,Salsa B&R Nacho De Porotos 320 gr,Abarrotes,Snack
+17834,Salsa B&R Nacho Espinaca 320 gr,Abarrotes,Snack
 17837,Alimento Pedigree Rodeo Adulto Carne 70 gr,Abarrotes,Mascotas
 17838,Alimento Pedigree Rodeo Adulto Pollo 70 gr,Abarrotes,Mascotas
 17839,Yuca Frita Dorichips Natural 100 gr,Abarrotes,Snack
@@ -3959,6 +3961,7 @@ id_producto,producto,categoria,subcategoria
 67095,CHOCOL NEUGEBAUER 1891 INTENSE 90G,Abarrotes,Chocolates y Caramelos
 67096,Te Frutte Jengibre Limon Miel 20 Sobres,Abarrotes,Café y Sucedáneos
 67097,Te Frutte Gengibre Miel 20 Sobres,Abarrotes,Café y Sucedáneos
+67098,SIX PACK ISOTONICO SUEROX 6X5 630ML,Bebidas,Isotónicos
 67099,MALVAVISCO ANGELITOS TORCIDO FRESA 200G,Abarrotes,Chocolates y Caramelos
 67100,MOSTAZA ARTESANO PET 400G,Abarrotes,Aderezos
 67102,MOSTAZA ARTESANO DP 200G,Abarrotes,Aderezos
@@ -4407,7 +4410,7 @@ id_producto,producto,categoria,subcategoria
 100821,Gelatina Yellylight Naranja 100 gr,Abarrotes,Dietéticos y Saludables
 100822,Gelatina Gelly Limon Light 100 gr,Abarrotes,Dietéticos y Saludables
 100823,Gelatina Gelly Piña Light 100 gr,Abarrotes,Dietéticos y Saludables
-100835,Salsa B&R Nacho 360 gr,Abarrotes,Aderezos
+100835,Salsa B&R Nacho 360 gr,Abarrotes,Snack
 100836,Salsa B&R Agridulce Barbacoa 270 gr,Abarrotes,Aderezos
 100849,Galleta Cremosita Dark Vainilla 228 gr,Abarrotes,Galletas
 100873,Mostaza Dijon Roland Extra Fuerte 198 gr,Abarrotes,Productos Americanos
@@ -7744,6 +7747,9 @@ id_producto,producto,categoria,subcategoria
 210086,Fideo Divella Fusilli Integral 500 gr,Abarrotes,Dietéticos y Saludables
 210087,Gaseosa Cielo Pera Antioxidante 600 ml,Bebidas,Gaseosas
 210100,Mani Alimentarte con Uvas 360 gr,Abarrotes,Snack
+210117,GALLETA GUSTOSSI RELLENA CHOCOL 264 GR,Abarrotes,Galletas
+210118,GALLETA GUSTOSSI RELLENA FRUTILLA 264 GR,Abarrotes,Galletas
+210119,GALLETA GUSTOSSI RELLENA VAINILLA 264 GR,Abarrotes,Galletas
 210153,Salsa Soya Cepera 1.01 L,Abarrotes,Condimentos y Legumbres
 210157,Salsa Soya Cepera 500 ml,Abarrotes,Condimentos y Legumbres
 210358,Globos de Agua Carnavaleros Todo Blue,Bazar,Temporada Carnaval
@@ -7769,6 +7775,7 @@ id_producto,producto,categoria,subcategoria
 211006,Aceituna Verde Nucete Rellena Con Cebolla 330 gr,Abarrotes,Verduras en Conserva
 211007,Gomets Doti Frutas Tubo 96 gr,Abarrotes,Golosinas - Varias
 211008,Gomets Dori Crema Fruta Tubo 96 gr,Abarrotes,Golosinas - Varias
+211009,Vinagre De Manzana Castelo PET 400 ml,Abarrotes,Básicos
 211010,Ron Kayana Oro 5 Años 1 L,Bebidas,Licores
 211012,Galleta Bon O Bon Beijinho 76 gr,Abarrotes,Galletas
 211013,Galleta Bon O Bon Original 76 gr,Abarrotes,Galletas
@@ -10218,7 +10225,7 @@ id_producto,producto,categoria,subcategoria
 248726,Gelatina Universal Dietetico Fresa con Stevia 19 gr,Abarrotes,Dietéticos y Saludables
 248778,Champagne Maschio Cavalieri 750 ml,Bebidas,Vinos y Champagne
 248780,Salsa B&R Alfredo 360 gr,Abarrotes,Aderezos
-248781,Salsa B&R Bolognesa con Carne 320 gr,Abarrotes,Aderezos
+248781,Salsa B&R Bolognesa con Carne 320 gr,Abarrotes,Salsas y Extracto de Tomate
 248908,Cigarrillo Camel Amarillo 10 un,Bebidas,Cigarrillos
 248940,Atun Campagnola Lomitos Al Agua 170 gr,Abarrotes,Comidas en Conserva
 249001,Repelente Escudo Duracion 200 gr,Cuidado del Hogar,Productos Americanos
@@ -10309,6 +10316,7 @@ id_producto,producto,categoria,subcategoria
 250681,Tinte Casting Tono 610 Café Late,Cuidado Personal,Cuidado del Cabello
 250732,Limpiador Desinfectante Jardin Lavanda 4 L,Cuidado del Hogar,Limpieza de Baños
 250901,Bolsa Basura Belen Rayada 60X80 cm,Cuidado del Hogar,Accesorios del Hogar
+250988,Caramelo Ice Breakers Mint Berry 42 gr,Abarrotes,Productos Americanos
 251001,MOSTAZA ARTESANO DP 985G,Abarrotes,Aderezos
 251002,KETCHUP ARTESANO PET 400G,Abarrotes,Aderezos
 251004,MAYONESA ARTESANO DP 485ML,Abarrotes,Aderezos
@@ -10840,7 +10848,7 @@ id_producto,producto,categoria,subcategoria
 300013,Limpiador Desinfectante Ola Aromatic Cremoso Cedron 1.8 L,Cuidado del Hogar,Limpieza de Baños
 300014,Detergente Polvo Bianco Floral 5 kg,Cuidado del Hogar,Limpieza de la Ropa
 300140,Salsa B&R Miel Y Mostaza 270 gr,Abarrotes,Aderezos
-300141,Salsa B&R Nachos Crema Agria 340 gr,Abarrotes,Aderezos
+300141,Salsa B&R Nachos Crema Agria 340 gr,Abarrotes,Snack
 300142,Salsa B&R Nachos de Queso 340 gr,Abarrotes,Aderezos
 300170,Aceite Doña Luisa Soya Pet 900 ml,Abarrotes,Básicos
 300225,Polvo de Hornear Kris 57  gr,Abarrotes,Repostería
@@ -11397,7 +11405,7 @@ id_producto,producto,categoria,subcategoria
 316539,Cepillo Dental Foramen Exper 3 Duro 2 un,Cuidado Personal,Cuidado Bucal
 316580,Cepillo Interdental Foramen 6 un,Cuidado Personal,Cuidado Bucal
 316778,Salsa B&R Nachos Picante 360 gr,Abarrotes,Aderezos
-316779,Salsa B&R Nachos Cilantro 360 gr,Abarrotes,Aderezos
+316779,Salsa B&R Nachos Cilantro 360 gr,Abarrotes,Snack
 316814,Mostaza Kris 1000 gr,Abarrotes,Aderezos
 316822,Mayonesa Kris 980 ml,Abarrotes,Aderezos
 316830,Ketchup Kris 985 gr,Abarrotes,Aderezos
@@ -12498,7 +12506,7 @@ id_producto,producto,categoria,subcategoria
 356670,Dulce Orieta Batata Vainilla 425 gr,Abarrotes,"Mermel, Mieles"
 356697,Mermelada Orieta Frutilla 500 gr,Abarrotes,"Mermel, Mieles"
 356700,Mermelada Orieta Durazno 500 gr,Abarrotes,"Mermel, Mieles"
-356890,Salsa B&R Tuco Goumet 320 gr,Abarrotes,Aderezos
+356890,Salsa B&R Tuco Goumet 320 gr,Abarrotes,Salsas y Extracto de Tomate
 357049,Filete de Anchoas 90 Gr Marbella,Abarrotes,Comidas en Conserva
 357072,Sazonador Goya Fajita Red Mix 1.25 oz,Abarrotes,Condimentos y Legumbres
 357190,Salmon Robinson Crusoe Ahumado en Aceite 170 gr,Abarrotes,Comidas en Conserva
@@ -13629,7 +13637,7 @@ id_producto,producto,categoria,subcategoria
 427560,Gaseosa Coca Cola Sin Azucar 500 ml,Bebidas,Gaseosas
 427578,Gaseosa Coca Cola Zero 2 L,Bebidas,Gaseosas
 427764,Chocolate Lindt Lindor Hazelnut 100 gr,Abarrotes,Chocolates y Caramelos
-427888,Salsa Vanoli Pomarola Frasco 340 gr,Abarrotes,Aderezos
+427888,Salsa Vanoli Pomarola Frasco 340 gr,Abarrotes,Salsas y Extracto de Tomate
 427900,Lasaña Carozzi Precocida 360 gr,Abarrotes,Básicos
 427942,Galleta Costa Obsesion Mani Barquillo 85 gr,Abarrotes,Galletas
 427985,Vodka Grey Goose 750 ml,Bebidas,Licores
@@ -14581,7 +14589,7 @@ id_producto,producto,categoria,subcategoria
 480575,Pimienta Negra Bloch Entera 20 gr,Abarrotes,Condimentos y Legumbres
 480577,Pimienta Negra Bloch Molida 20 gr,Abarrotes,Condimentos y Legumbres
 480579,Gaseosa Fanta Naranja 2.5 L,Bebidas,Gaseosas
-480580,LLajua Bloch Instantanea 40 gr,Abarrotes,Aderezos
+480580,LLajua Bloch Instantanea 40 gr,Abarrotes,Condimentos y Legumbres
 480600,Mantequilla de Mani Pim 550 gr,Abarrotes,Repostería
 480601,Chairo Pim 150 gr,Abarrotes,Básicos
 480603,Fricase Pim Paceño 170 gr,Abarrotes,Condimentos y Legumbres
@@ -14949,7 +14957,9 @@ id_producto,producto,categoria,subcategoria
 517142,ALIMENTO PRIMOCAO CARNE DP 100G,Abarrotes,Mascotas
 517144,ALIMENTO PRIMOGATO GATITO DP 85G,Abarrotes,Mascotas
 517145,ALIMENTO PRIMOCAO CARNE VEGET DP 100G,Abarrotes,Mascotas
+517146,"MASTICAB MENTOS ROLLS HIERBABUENA 29,5G",Abarrotes,Golosinas - Varias
 517150,SALSA BARBACOA ARTESANO DP 200G,Abarrotes,Aderezos
+517155,PACK 3X2 ENERGIZ SIRUIS PET 350ML,Bebidas,Energizantes
 517313,Vinagre Favinco de Vino 500 ml,Abarrotes,Básicos
 517321,Vinagre Favinco de Manzana 500 ml,Abarrotes,Básicos
 517330,Vinagre Favinco de Alcohol 500 ml,Abarrotes,Básicos
@@ -17734,6 +17744,7 @@ id_producto,producto,categoria,subcategoria
 554136,Nachos Don Taco Jalapeño Tocino 200 gr,Abarrotes,Snack
 554138,GALLETAS NUTELLA BISCUITS  12 UNID,Abarrotes,Productos Americanos
 554140,Chocolates Surtidos Kamila Caja Roja 250 gr,Abarrotes,Productos Americanos
+554145,Aceituna Kalamata Pitted Olives 20 oz,Abarrotes,Productos Americanos
 554146,Salsa Soya Kikko Botella 160 ml,Abarrotes,Condimentos y Legumbres
 554147,Salsa Soya Kikko Botella 500 ml,Abarrotes,Condimentos y Legumbres
 554148,Salsa Soya Kikko Botella 1 L,Abarrotes,Condimentos y Legumbres
@@ -17805,6 +17816,7 @@ id_producto,producto,categoria,subcategoria
 554240,MIX WARAS FRUTA DESHID CON CHOCOLATE 90,Abarrotes,Frutas en Conserva
 554244,PACK CONDOR CHOC HALLOWEEN CJA150 GR,Abarrotes,Temporada
 554245,TRAQUEA DE RES CHEMSITOS 100 GR,Abarrotes,Mascotas
+554246,ESOFAGO DE RES CHEMSITOS 100 GR,Abarrotes,Mascotas
 554248,PALITOS CHEMSITOS CARNE Y VERDURA 100 GR,Abarrotes,Mascotas
 554249,SOPA DE RES CHEMSITOS BSA 100 GR,Abarrotes,Mascotas
 554251,EDULCORANTE HONNY STEVIA SOBRES 100 UNID,Abarrotes,Dietéticos y Saludables
@@ -17828,12 +17840,15 @@ id_producto,producto,categoria,subcategoria
 554290,JUGO CIN PULPA DE MANZANA PET 2 LT,Bebidas,"Jugos, Néctar"
 554291,JUGO CIN FLOR DE JAMAICA PET 2 LT,Bebidas,"Jugos, Néctar"
 554292,GALLETA MON AMOUR FRANCESA LTA 300G,Abarrotes,Galletas
+554296,PACK VIZZIO MANI  VIZZIO CRUNCH,Abarrotes,Chocolates y Caramelos
 554297,PACK 2 GALLETA FRAC GORRO NAVIDENO,Abarrotes,Temporada
 554298,JUGO CIN CEBADA TOSTADA PET 2 LT,Bebidas,"Jugos, Néctar"
 554299,JUGO CIN TAMARINDO PET 2 LT,Bebidas,"Jugos, Néctar"
 554300,JUGO CIN SEMILLAS LINAZA PET 2 LT,Bebidas,"Jugos, Néctar"
 554303,JUGO CIN CANELA PET 2 LT,Bebidas,"Jugos, Néctar"
 554305,FIDEO KRIOLLA CORTO 400 GR,Abarrotes,Básicos
+554312,GALLETA OREO LATA NAVIDENA 324 GR,Abarrotes,Temporada
+554316,FIDEO INST K-MAX POLLO PICANTE SOB 123 G,Abarrotes,Básicos
 554333,Cerveza Paceña Lata Roja 473 Cc,Bebidas,Cervezas
 554466,Detergente Liquido Ola Futuro Limpieza Completa 5 L,Cuidado del Hogar,Limpieza de la Ropa
 554468,Suavizante Ropa Ola Suavecito Original 5 L,Cuidado del Hogar,Limpieza de la Ropa
@@ -20618,6 +20633,7 @@ id_producto,producto,categoria,subcategoria
 658530,Agua Speranza Sin Gas Bidon 6 L,Bebidas,Aguas
 658537,Marshmallow Fini Camping 250 gr,Abarrotes,Chocolates y Caramelos
 658539,Chocolate Rockleton 216 gr,Abarrotes,Chocolates y Caramelos
+658543,AVENA INSTANT PRINCESA BSA 300 GR,Abarrotes,Nutrición Infantil
 658550,Tomate Secos Valenciana Aceite 180 gr,Abarrotes,Verduras en Conserva
 658551,Pesto de Albahaca Valenciana 200 gr,Abarrotes,Verduras en Conserva
 658552,Pepinillo Valenciana Picado 220 gr,Abarrotes,Verduras en Conserva
@@ -24724,6 +24740,7 @@ id_producto,producto,categoria,subcategoria
 675034,YOGURT LIGHT SBELT SABOR DURAZNO 1000GR,Lácteos y Derivados,Yogures
 675036,LECHE CON CAFE CAPUCHINO 330ML TETRA MONACO,Lácteos y Derivados,Leches
 675038,YOGURT GRIEGO 0 AZUCAR DELIZIA 800GRS,Lácteos y Derivados,Yogures
+675042,POLLO AGRIDULCE SOFIA 500GRS,Congelados,Carnes Congeladas
 675245,Miel de Abeja Eva Promiel 250 gr,Abarrotes,"Mermel, Mieles"
 675948,SALCHICHA VIENA DON PIOTR 500GRS VACIO,Fiambres,Fiambres Externos
 675949,SALCHICHA BOCK DON PIOTR 500GRS VACIO,Fiambres,Fiambres Externos
@@ -28093,6 +28110,7 @@ id_producto,producto,categoria,subcategoria
 831742,CA JUG SET DE CAMION 90,Juguetería,Juguetería Niño/Bebé
 831790,Caramelo Kidsmania Dubble Bubble Machine 40 gr,Abarrotes,Productos Americanos
 831804,Resaltador,Bazar,Librería
+831829,Caramelo Ice Breakers Mint Coolmint 42 gr,Abarrotes,Productos Americanos
 831854,Cereal Kelloggs Special Red Berries 43 oz,Abarrotes,Productos Americanos
 831923,Caramelo Nerds Watermelon Cherry 1.65 oz,Abarrotes,Golosinas - Varias
 831970,Galleta La Francesa Savoie Surtida 400 gr,Abarrotes,Galletas
@@ -31447,6 +31465,7 @@ id_producto,producto,categoria,subcategoria
 892096,JAN VINCHAS NAVIDAD 15,Bazar,Temporada Navidad
 892099,"JAN INDIVIDUAL NAVIDAD ,10",Bazar,Temporada Navidad
 892168,Gorro Navidad,Bazar,Temporada Navidad
+892240,Caramelo Ice Breakers Fruit Sours 42 gr,Abarrotes,Productos Americanos
 892260,Chicle Trident Splash Frut Limon 17.1 gr,Abarrotes,Golosinas - Varias
 892272,Boligrafo Faber Castell Negro 0.30,Bazar,Librería
 892279,Marcadores Faber Castell Fiesta 12 Colores,Bazar,Librería
@@ -32279,7 +32298,7 @@ id_producto,producto,categoria,subcategoria
 993979,Plato Plano Diamante Cristalino,Bazar,Menaje Vidrio/Cristal
 994446,ALIZADOR DE PELO LUMA BELLA LB 65013,Bazar,Electrodoméstico Cuidado Personal
 994819,Brintec Par,Cuidado del Hogar,Limpieza de Zapatos
-995047,SUPER TERMO TERMOLAR 5 LT,Bazar,Camping General
+995047,TERMO TERMOLAR DE LT 5 ROJO,Bazar,Camping General
 995109,Vasoo Capri X Capri 1recuentre  X,Bazar,Menaje Vidrio/Cristal
 995207,Taza Disney Metalico con Dibujo 31105,Bazar,Articulos de Bebé
 995277,FRE.CAJA P/FREEZER/MICROONDAS 450ML.,Bazar,Menaje Plástico
