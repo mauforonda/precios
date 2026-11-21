@@ -4399,7 +4399,7 @@ id_producto,producto,categoria,subcategoria
 100766,Vodka Ice Miks Frutas Verdes 275 ml,Bebidas,Licores
 100768,Vodka Ice Miks Limon Gengibre 275 ml,Bebidas,Licores
 100778,Agua Matra Sin Gas 500 ml,Bebidas,Aguas
-100789,MOSTAZA DIJON GRANULADA ROLAND 198 GR,Abarrotes,Productos Americanos
+100789,Mostaza Dijon Roland Granulada 198 gr,Abarrotes,Productos Americanos
 100807,Alimento Primogato Pate Gatitos 150 gr,Abarrotes,Mascotas
 100812,Alimento Primogato Pate Carne 150 gr,Abarrotes,Mascotas
 100813,Alimento Primogato Pate Frutos de Mar 150 gr,Abarrotes,Mascotas
@@ -7502,6 +7502,9 @@ id_producto,producto,categoria,subcategoria
 204069,LIMPIAPISO TODOBRILLO PLUS NAVIDAD 5LT,Cuidado del Hogar,Limpieza de Baños
 204071,JABON LIQ CARISSA NAVIDAD MANZ CANELA DP,Cuidado Personal,Cuidado de la Piel
 204075,AMBIENT TODOBRILLO MANZ CANELA NAVIDAD 3,Cuidado del Hogar,Limpieza de Living y Ropero
+204076,NECESER BABARIA RAYAS HIALURONICO,Cuidado Personal,Cuidado de la Piel
+204077,NECESER BABARIA  RAYAS RETINOL,Cuidado Personal,Cuidado de la Piel
+204078,NECESER BABARIA  RAYAS VITAMINA C,Cuidado Personal,Cuidado de la Piel
 204109,Chocolate Cofler Block 300 gr,Abarrotes,Chocolates y Caramelos
 204154,Ice Tea Hindu Manzana Light 300 gr,Bebidas,Refrescos en Polvo
 204159,Aceituna Vanoli rellena con Pimiento 300 gr,Abarrotes,Verduras en Conserva
@@ -9298,6 +9301,7 @@ id_producto,producto,categoria,subcategoria
 229112,CORRECTOR LIQUIDO VOGUE ARENA 05,Cuidado Personal,Cuidado de la Piel
 229114,Corrector Liquido Vogue Trigo 04,Cuidado Personal,Cuidado de la Piel
 229115,OLEO CAPILAR LOREAL LISO 100 ML,Cuidado Personal,Cuidado del Cabello
+229116,LYSOFORM FRESCURA CITRICA 360  CC,Cuidado del Hogar,Productos Americanos
 229118,Papel Higienico Perlita Premium 30 Metros 12 un,Cuidado Personal,Cuidado Familiar
 229119,Papel Higienico Perlita Premium 50 Metros 12 un,Cuidado Personal,Cuidado Familiar
 229122,Crema Facial Cicatricure Neuro Zen 50 gr,Cuidado Personal,Cuidado de la Piel
@@ -10700,6 +10704,11 @@ id_producto,producto,categoria,subcategoria
 284051,SEDAL SH TOQ SEDA 190ML +SERUM100,Cuidado Personal,Cuidado del Cabello
 284052,DEO REVIVE WOMEN DEO CREMA,Cuidado Personal,Cuidado de la Piel
 284053,DEO  REVIVE MEN DEO CREMA NITRO,Cuidado Personal,Cuidado de la Piel
+284054,PANAL MIBEBE PREMIUM ACC SECA  P 4X30 UN,Cuidado del Bebé,Pañales
+284055,PANAL MI BEBE PREMIUM ACC SECA M 4X48 UN,Cuidado del Bebé,Pañales
+284056,PANAL MI BEBE PREMIUM ACC SECA  G 4X40,Cuidado del Bebé,Pañales
+284057,PANAL MI BEBE PREMIUM ACC SECA  XG 4X36,Cuidado del Bebé,Pañales
+284058,PANAL MI BEBE PREMIUN ACC SECA  XXG 4X32,Cuidado del Bebé,Pañales
 284084,Masticable Skittles Original 61.5 gr,Abarrotes,Golosinas - Varias
 284092,Masticable Skittles Wild Berry 61.5 gr,Abarrotes,Golosinas - Varias
 284107,Masticable Skittles Sour 51 gr,Abarrotes,Golosinas - Varias
@@ -11532,6 +11541,8 @@ id_producto,producto,categoria,subcategoria
 321951,LIMPIAPISO TODOBRILLO PLUS REPELENT900ML,Cuidado del Hogar,Limpieza de Baños
 321953,DETERGENTE BLUE UP AZUL 3.5 KG,Cuidado del Hogar,Limpieza de la Ropa
 321956,DETERGENTE BLUE UP FLORAL 1.8KG,Cuidado del Hogar,Limpieza de la Ropa
+321970,JABON INTIMO COTTON HIDRATANTE 200ML,Cuidado Personal,Cuidado del Adulto
+321971,JABON INTIMO COTTON NATURAL 200ML,Cuidado Personal,Cuidado del Adulto
 321972,JABON INTIMO COTTON NEUTRO 200ML,Cuidado Personal,Cuidado del Adulto
 321973,Desodorante En Aerosol Nivea Antitranspirante 150 ml,Cuidado Personal,Cuidado de la Piel
 321975,Desodorante En Aerosol Nivea Sangría Magma 150 ml,Cuidado Personal,Cuidado de la Piel
@@ -14959,6 +14970,9 @@ id_producto,producto,categoria,subcategoria
 517145,ALIMENTO PRIMOCAO CARNE VEGET DP 100G,Abarrotes,Mascotas
 517146,"MASTICAB MENTOS ROLLS HIERBABUENA 29,5G",Abarrotes,Golosinas - Varias
 517150,SALSA BARBACOA ARTESANO DP 200G,Abarrotes,Aderezos
+517152,MANTEQ MANI SKURZTH CLASICA PET 260G,Abarrotes,Repostería
+517153,MANTEQ MANI SKURZTH CHOCOLATE 260G,Abarrotes,Repostería
+517154,MANTEQ MANI SKURZTH S CANELA 260G,Abarrotes,Repostería
 517155,PACK 3X2 ENERGIZ SIRUIS PET 350ML,Bebidas,Energizantes
 517313,Vinagre Favinco de Vino 500 ml,Abarrotes,Básicos
 517321,Vinagre Favinco de Manzana 500 ml,Abarrotes,Básicos
@@ -17845,10 +17859,13 @@ id_producto,producto,categoria,subcategoria
 554298,JUGO CIN CEBADA TOSTADA PET 2 LT,Bebidas,"Jugos, Néctar"
 554299,JUGO CIN TAMARINDO PET 2 LT,Bebidas,"Jugos, Néctar"
 554300,JUGO CIN SEMILLAS LINAZA PET 2 LT,Bebidas,"Jugos, Néctar"
+554302,JUGO CIN MOCOCHINCHI PET 2 LT,Bebidas,"Jugos, Néctar"
 554303,JUGO CIN CANELA PET 2 LT,Bebidas,"Jugos, Néctar"
-554305,FIDEO KRIOLLA CORTO 400 GR,Abarrotes,Básicos
+554305,FIDEO CORTADO KRIOLLA BSA 400G,Abarrotes,Básicos
+554311,CIGARRILLO BOHEM DOUBLE WINE XL 20 UNID,Bebidas,Cigarrillos
 554312,GALLETA OREO LATA NAVIDENA 324 GR,Abarrotes,Temporada
 554316,FIDEO INST K-MAX POLLO PICANTE SOB 123 G,Abarrotes,Básicos
+554318,FIDEO INST K-MAX QUESO PICANTE SOB 132 G,Abarrotes,Básicos
 554333,Cerveza Paceña Lata Roja 473 Cc,Bebidas,Cervezas
 554466,Detergente Liquido Ola Futuro Limpieza Completa 5 L,Cuidado del Hogar,Limpieza de la Ropa
 554468,Suavizante Ropa Ola Suavecito Original 5 L,Cuidado del Hogar,Limpieza de la Ropa
@@ -21106,7 +21123,10 @@ id_producto,producto,categoria,subcategoria
 660571,BRILLINA CERA CREMA TIERRA COLOR SASHET,Cuidado del Hogar,Limpieza de Living y Ropero
 660572,PONDS CR CLARANT B3 FPS30 100G,Cuidado Personal,Cuidado de la Piel
 660573,AXE BS INDIGO HAZE 12X96G/150ML,Cuidado Personal,Cuidado de la Piel
+660639,GUANTES DE GOMA INDUSTRAIL,Cuidado del Hogar,Accesorios del Hogar
 660644,SEDAL SH ZERO CASPA 2EN1 190ML,Cuidado Personal,Cuidado del Cabello
+660645,PL PANAL BS PREMIUM HIPOAL PAKT XXXG 68,Cuidado del Bebé,Pañales
+660646,PANAL BS SPCTOTALHIPOAL PAKET XXXG 54,Cuidado del Bebé,Pañales
 660711,Galleta Noel Octagonal Surtida 260 gr,Abarrotes,Temporada
 660852,Te Frutte Laxte 20 Sobres,Abarrotes,Café y Sucedáneos
 661150,Insecticida Tableta Raid Mata Mosquito Doble Accion 24 un,Cuidado del Hogar,Productos Americanos
@@ -24736,6 +24756,7 @@ id_producto,producto,categoria,subcategoria
 675026,YOGURT TIPO GRIEGO O AZUCAR VAINILLA GALAKTOS 500GRS,Lácteos y Derivados,Yogures
 675027,YOGURT TIPO GRIEGO O AZCAR MANZANA VERDE GALAKTOS 500GR,Lácteos y Derivados,Yogures
 675028,SANDWICH HELADO DUO VAINILLA Y FRUTILLA DELIZIA 100ML,Congelados,"Helados, Cassattas y Picoleses"
+675031,LECHE SBELT UHT X 800ML (BOLSA),Lácteos y Derivados,Leches
 675033,YOGURT LIGHT SBELT SABOR FRUTILLA 1000GR,Lácteos y Derivados,Yogures
 675034,YOGURT LIGHT SBELT SABOR DURAZNO 1000GR,Lácteos y Derivados,Yogures
 675036,LECHE CON CAFE CAPUCHINO 330ML TETRA MONACO,Lácteos y Derivados,Leches
@@ -29021,14 +29042,14 @@ id_producto,producto,categoria,subcategoria
 848026,KENDY CAJA FRESH REDONDA 1BAJA 0.32LT X1U,Bazar,Menaje Plástico
 848034,CH 7 80 TRIDENTE LUMINOSO HALLOWEEN SURTIDO 20 32CM,Bazar Importación,OTROS
 848045,Varilla Calavera Luminosa Halloween 20 x 6 cm,Bazar Importación,OTROS
-848052,CH 7 82 VARILLA CALAREVA LUMINOSA HAPPY BIRTHDAY 20X3 5CM,Bazar Importación,OTROS
-848056,CH 7 83 VARILLA CALAVERA LUMINOSA FELIZ CUMPLEANOS 18X5CM,Bazar Importación,OTROS
+848052,CH 7 82 VARILLA CALAREVA LUMINOSA HAPPY BIRTHDAY 20X3 5CM,Bazar Importación,Cotillón
+848056,CH 7 83 VARILLA CALAVERA LUMINOSA FELIZ CUMPLEANOS 18X5CM,Bazar Importación,Cotillón
 848076,Calabaza Gato Con Mango 11 x 11 cm,Bazar Importación,OTROS
 848077,CH 7 85 MASCARA OJOS FLUORESCENTE HALLOWEEN 15 2CM,Bazar Importación,OTROS
 848078,CH 7 86 TRIDENTE LUMINOSO HALLOWEEN SURTIDO 20X7CM,Bazar Importación,OTROS
 848079,Varilla Catrina Luminosa Halloween 6 x 19 cm,Bazar Importación,OTROS
 848081,CH 7 88 MASCARA FLUORESCENTE HALLOWEEN 15 2CM,Bazar Importación,OTROS
-848082,CH 7 89 VARILLA DINOSAURIO LUMINOSO SURTID 6X22CM,Bazar Importación,OTROS
+848082,CH 7 89 VARILLA DINOSAURIO LUMINOSO SURTID 6X22CM,Bazar Importación,Cotillón
 848083,CH 7 90 ANILLO LIMUNOSO HALLOWEEN SURTIDO 4X5CM,Bazar Importación,OTROS
 848084,CH 7 91 COLGANTE LUMINOSO HALLOWEEN SURTIDO 3X9CM,Bazar Importación,OTROS
 848194,PASTRY ESPATULA REPOSTERA ANGULAR ILKO,Bazar,Articulos de Cocina
@@ -29036,10 +29057,10 @@ id_producto,producto,categoria,subcategoria
 848209,PLAY-DOH PLASTILINA 4+1,Juguetería,Juguetería Didáctica/Temporada
 848210,MTTL BARBIE FASHIONISTA SURTIDO FBR37,Juguetería Importación,Jugueteria Marcas
 848237,HW JUEGO LANZADOR D CARROS HOT WHEELS,Juguetería,Juguetería Marcas
-848252,CH 7 92 VARILLA UNICORNIO LUMINOSO SURTIDO 6X22CM,Bazar Importación,OTROS
+848252,CH 7 92 VARILLA UNICORNIO LUMINOSO SURTIDO 6X22CM,Bazar Importación,Cotillón
 848316,CH 7 93 VARILLA HALLOWEEN LUMINOSO 7X19CM,Bazar Importación,OTROS
 848353,Vincha Verde Navideña 14 cm,Bazar Importación,Temporada Navidad
-848354,Barra Luminosa Glow Stick Surtido 35 x 2 cm,Bazar Importación,OTROS
+848354,Barra Luminosa Glow Stick Surtido 35 x 2 cm,Bazar Importación,Cotillón
 848355,Adorno Con Luz Halloween Calavera 12 x 5 cm,Bazar Importación,OTROS
 848356,CH 7 97 ADORNO CON LUZ HALLOWEEN TELARANA 8 5X8 5CM,Bazar Importación,OTROS
 848399,HSBR NERF REFILL MEGA FORTNITE,Juguetería,Juguetería Marcas
