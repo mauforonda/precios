@@ -109,22 +109,14 @@ function comparar(a, b, desc) {
 
 // Un archivo se abre una vez: se leen sus metadatos (cola, 128 KB) y se reutilizan
 const archivos = new Map();
-// GitHub Pages no envía Content-Length en HEAD, así que hyparquet calcula mal el tamaño.
-// Se pide el tamaño con un rango de 1 byte (Content-Range) y se pasa explícito.
-async function tamanoRemoto(url) {
-  const r = await fetch(url, { headers: { Range: "bytes=0-0" } });
-  const total = Number((r.headers.get("content-range") || "").split("/")[1]);
-  if (!total) throw new Error(`No se pudo leer el tamaño de ${url}`);
-  return total;
-}
-
-function abrirArchivo(ruta) {
+// El tamaño de cada archivo viene del manifiesto. Así no hace falta HEAD ni rangos
+// para conocerlo: GitHub Pages no envía Content-Length en HEAD.
+function abrirArchivo(ruta, bytes) {
   if (!archivos.has(ruta)) {
     archivos.set(
       ruta,
       (async () => {
-        const byteLength = await tamanoRemoto(ruta);
-        const file = await asyncBufferFromUrl({ url: ruta, byteLength });
+        const file = await asyncBufferFromUrl({ url: ruta, byteLength: bytes });
         const metadata = await parquetMetadataAsync(file, { initialFetchSize: 32 * 1024 });
         return { file, metadata };
       })()
@@ -146,7 +138,7 @@ async function leerCobertura(ciudad, dias) {
   if (!estado.cache.has(clave)) {
     const info = estado.ciudades[ciudad];
     const rango = info.coberturas[dias];
-    const { file, metadata } = await abrirArchivo(`parquet/${info.archivo}`);
+    const { file, metadata } = await abrirArchivo(`parquet/${info.archivo}`, info.bytes);
     const filas = await parquetReadObjects({
       file,
       metadata,
@@ -167,7 +159,7 @@ function leerRanking(ciudad) {
   const clave = `${estado.supermercado}/${ciudad}`;
   if (!rankings.has(clave)) {
     const info = estado.ciudades[ciudad];
-    const promesa = abrirArchivo(`parquet/${info.ranking}`)
+    const promesa = abrirArchivo(`parquet/${info.ranking}`, info.bytes_ranking)
       .then(({ file, metadata }) =>
         parquetReadObjects({
           file,

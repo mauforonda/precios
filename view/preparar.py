@@ -277,7 +277,9 @@ def escribir_ciudad(supermercado, ciudad, nombre_ciudad, productos):
     return {
         "nombre": nombre_ciudad,
         "archivo": ruta.relative_to(SALIDA).as_posix(),
+        "bytes": ruta.stat().st_size,
         "ranking": ruta_ranking.relative_to(SALIDA).as_posix(),
+        "bytes_ranking": ruta_ranking.stat().st_size,
         "filas": int(len(filas)),
         "ultima_fecha": df.index[-1].strftime("%Y-%m-%d"),
         "coberturas": coberturas,
