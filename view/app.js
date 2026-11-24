@@ -244,8 +244,10 @@ async function seleccionarSupermercado(id) {
   for (const b of $("#supermercados").children) {
     b.setAttribute("aria-pressed", b.dataset.id === id ? "true" : "false");
   }
-  renderCiudades();
-  renderTiempo();
+  animarAltura(document.querySelector(".controles"), () => {
+    renderCiudades();
+    renderTiempo();
+  });
   await renderDia();
 }
 
@@ -287,7 +289,7 @@ function renderCiudades() {
     estado.ciudadRecordada[estado.supermercado] = id;
     guardar("ciudad", JSON.stringify(estado.ciudadRecordada));
     estado.dia = coberturaCercana(estado.dia);
-    renderTiempo();
+    animarAltura(document.querySelector(".controles"), renderTiempo);
     await renderDia();
   };
 }
@@ -574,7 +576,6 @@ function renderTabla(filas) {
     "form",
     {
       class: "tabla-scroll",
-      style: `max-height: ${FILAS_TABLA * ALTURA_FILA}px;`,
     },
     [el("table", { class: "tabla-tabla" }, [colgrupo(), cuerpo])]
   );
@@ -589,23 +590,56 @@ function renderTabla(filas) {
 // ---------- ciclo principal ----------
 
 // La búsqueda se conserva al cambiar de supermercado, ciudad o cobertura
+// Carga: la tabla pulsa suavemente. Su altura es fija desde el inicio.
+function mostrarCarga(activa) {
+  $("#tabla").classList.toggle("cargando", activa);
+}
+
+// Anima el cambio de altura de un elemento cuando cambia su contenido
+function animarAltura(elemento, cambiar) {
+  const antes = elemento.getBoundingClientRect().height;
+  cambiar();
+  const despues = elemento.getBoundingClientRect().height;
+  if (Math.abs(despues - antes) < 1) return;
+  if (matchMedia("(prefers-reduced-motion: reduce)").matches) return;
+  // Una animación nueva reemplaza a la anterior en el mismo elemento
+  elemento.getAnimations().forEach((a) => a.cancel());
+  const version = (elemento.dataset.version = String(Number(elemento.dataset.version || 0) + 1));
+  elemento.style.overflow = "hidden";
+  const animacion = elemento.animate(
+    [{ height: `${antes}px` }, { height: `${despues}px` }],
+    { duration: 240, easing: "cubic-bezier(0.2, 0, 0, 1)" }
+  );
+  // Solo la última animación quita el recorte
+  const terminar = () => {
+    if (elemento.dataset.version === version) elemento.style.overflow = "";
+  };
+  animacion.finished.then(terminar, terminar);
+  setTimeout(terminar, 300); // respaldo si el evento de fin no llega
+}
+
 async function renderDia({ conservarBusqueda = true } = {}) {
   const token = ++estado.token;
   const query = conservarBusqueda ? $("#busqueda input")?.value ?? "" : "";
   performance.mark(`cobertura-pedida-${estado.dia}`);
-  const [filas, ranking] = await Promise.all([
-    leerCobertura(estado.ciudad, estado.dia),
-    leerRanking(estado.ciudad).catch((e) => {
-      console.error(e);
-      return [];
-    }),
-  ]);
-  if (token !== estado.token) return; // llegó una selección más reciente
-  // Solo filas con precio hoy y previo; el orden ya viene del archivo
-  estado.dataDia = filas;
-  estado.ranking = ranking;
-  renderClasificaciones();
-  renderBusqueda(query);
+  mostrarCarga(true);
+  try {
+    const [filas, ranking] = await Promise.all([
+      leerCobertura(estado.ciudad, estado.dia),
+      leerRanking(estado.ciudad).catch((e) => {
+        console.error(e);
+        return [];
+      }),
+    ]);
+    if (token !== estado.token) return; // llegó una selección más reciente
+    // Solo filas con precio hoy y previo; el orden ya viene del archivo
+    estado.dataDia = filas;
+    estado.ranking = ranking;
+    animarAltura(document.querySelector(".controles"), renderClasificaciones);
+    renderBusqueda(query);
+  } finally {
+    if (token === estado.token) mostrarCarga(false);
+  }
 }
 
 function fechaHace(dias) {
@@ -638,11 +672,13 @@ function leerCiudadesRecordadas() {
 
 async function iniciar() {
   performance.mark("inicio");
+  mostrarCarga(true);
   try {
     estado.manifiesto = await cargarManifiesto();
     performance.mark("manifiesto");
   } catch (e) {
     console.error(e);
+    mostrarCarga(false);
     $("#tabla").textContent = "No se pudieron cargar los datos.";
     return;
   }

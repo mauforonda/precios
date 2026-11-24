@@ -2,7 +2,7 @@
 // Sirve view/ tal como está en disco y view/dist/parquet en /parquet/ (generados por view/preparar.py).
 // Cambios en CSS: se recarga la hoja sin recargar la página.
 // Cambios en HTML, JS o parquet: se recarga la página.
-// Uso: node view/desarrollo.mjs [puerto=8080]
+// Uso: node view/desarrollo.mjs [puerto=8080] [latencia_parquet_ms=0]
 
 import http from 'node:http';
 import fs from 'node:fs';
@@ -13,6 +13,8 @@ const aquí = path.dirname(fileURLToPath(import.meta.url));
 const raiz = aquí;                          // sitio
 const parquet = path.resolve(aquí, 'dist', 'parquet');
 const puerto = Number(process.argv[2] ?? 8080);
+// Latencia artificial (ms) para las respuestas de parquet, útil para probar indicadores de carga
+const latencia = Number(process.argv[3] ?? 0);
 
 const tipos = {
   '.html': 'text/html; charset=utf-8', '.js': 'text/javascript; charset=utf-8', '.mjs': 'text/javascript; charset=utf-8',
@@ -41,7 +43,7 @@ const cliente = `
 
 // Clientes conectados para avisarles de los cambios
 const clientes = new Set();
-http.createServer((req, res) => {
+function manejar(req, res) {
   const url = new URL(req.url, 'http://x');
   if (url.pathname === '/__recargar') {
     res.writeHead(200, { 'Content-Type': 'text/event-stream', 'Cache-Control': 'no-cache', Connection: 'keep-alive' });
@@ -87,7 +89,16 @@ http.createServer((req, res) => {
     res.writeHead(200, { ...cabeceras, 'Content-Length': st.size });
     fs.createReadStream(archivo).pipe(res);
   });
-}).listen(puerto, () => console.log(`Desarrollo: http://localhost:${puerto}  (sitio: ${raiz}, datos: ${parquet})`));
+}
+
+http.createServer((req, res) => {
+  const url = new URL(req.url, 'http://x');
+  if (latencia > 0 && url.pathname.startsWith('/parquet/')) {
+    setTimeout(() => manejar(req, res), latencia);
+  } else {
+    manejar(req, res);
+  }
+}).listen(puerto, () => console.log(`Desarrollo: http://localhost:${puerto}  (sitio: ${raiz}, datos: ${parquet}, latencia parquet: ${latencia} ms)`));
 
 // Vigilancia de cambios por sondeo de fechas de modificación (cada 250 ms).
 // No depende de fs.watch, que no recibe eventos en algunos sistemas de archivos

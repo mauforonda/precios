@@ -28,6 +28,7 @@
     --up-rgb: 255 138 112;
     --down: #6fcf97;
     --down-rgb: 111 207 151;
+    --accent: #9e9e9e;
     color-scheme: dark;
   }
 }
@@ -442,6 +443,26 @@ body {
   width: 0.8em;
   margin-right: 0.5em;
   color: var(--ink);
+}
+
+/* ---------- carga y altura de la tabla ---------- */
+
+/* La tabla ocupa su altura completa desde el inicio (encabezado + 34 filas); no cambia al cargar */
+.tabla {
+  min-height: calc(34 * 22px + 33px);
+}
+
+.tabla-scroll {
+  height: calc(34 * 22px);
+}
+
+/* Al cambiar una selección la tabla baja de opacidad y vuelve al cargar los datos */
+.tabla {
+  transition: opacity 200ms ease;
+}
+
+.tabla.cargando {
+  opacity: 0.35;
 }
 
 /* ---------- pie (igual que dolares/vista) ---------- */
