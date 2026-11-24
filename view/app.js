@@ -109,12 +109,22 @@ function comparar(a, b, desc) {
 
 // Un archivo se abre una vez: se leen sus metadatos (cola, 128 KB) y se reutilizan
 const archivos = new Map();
+// GitHub Pages no envía Content-Length en HEAD, así que hyparquet calcula mal el tamaño.
+// Se pide el tamaño con un rango de 1 byte (Content-Range) y se pasa explícito.
+async function tamanoRemoto(url) {
+  const r = await fetch(url, { headers: { Range: "bytes=0-0" } });
+  const total = Number((r.headers.get("content-range") || "").split("/")[1]);
+  if (!total) throw new Error(`No se pudo leer el tamaño de ${url}`);
+  return total;
+}
+
 function abrirArchivo(ruta) {
   if (!archivos.has(ruta)) {
     archivos.set(
       ruta,
       (async () => {
-        const file = await asyncBufferFromUrl({ url: ruta });
+        const byteLength = await tamanoRemoto(ruta);
+        const file = await asyncBufferFromUrl({ url: ruta, byteLength });
         const metadata = await parquetMetadataAsync(file, { initialFetchSize: 32 * 1024 });
         return { file, metadata };
       })()
