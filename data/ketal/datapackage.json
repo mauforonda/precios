@@ -1,0 +1,83 @@
+{
+  "$schema": "https://datapackage.org/profiles/2.0/datapackage.json",
+  "name": "ketal",
+  "title": "Ketal: productos y precios diarios",
+  "description": "Catálogo de productos y precios diarios de Ketal. Un archivo por mes (AAAA_MM.csv), de noviembre de 2021 a octubre de 2022. La tienda dejó de publicar precios.",
+  "sources": [
+    {
+      "title": "Ketal",
+      "path": "https://www.ketal.com.bo"
+    }
+  ],
+  "resources": [
+    {
+      "name": "productos",
+      "path": "productos.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "description": "Catálogo de productos.",
+      "schema": {
+        "fields": [
+          {
+            "name": "id",
+            "type": "integer",
+            "description": "Código del producto."
+          },
+          {
+            "name": "name",
+            "type": "string",
+            "description": "Nombre del producto."
+          },
+          {
+            "name": "brand",
+            "type": "string",
+            "description": "Marca."
+          },
+          {
+            "name": "category",
+            "type": "string",
+            "description": "Categoría."
+          }
+        ],
+        "primaryKey": [
+          "id"
+        ]
+      }
+    },
+    {
+      "name": "precios",
+      "path": "20*.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "description": "Precios diarios, un archivo por mes.",
+      "schema": {
+        "fields": [
+          {
+            "name": "time",
+            "type": "date",
+            "description": "Día del precio."
+          },
+          {
+            "name": "id",
+            "type": "integer",
+            "description": "Código del producto. Une con productos.csv."
+          },
+          {
+            "name": "price",
+            "type": "number",
+            "description": "Precio de venta en bolivianos."
+          },
+          {
+            "name": "quantity",
+            "type": "integer",
+            "description": "Cantidad registrada por la fuente."
+          }
+        ],
+        "primaryKey": [
+          "time",
+          "id"
+        ]
+      }
+    }
+  ]
+}

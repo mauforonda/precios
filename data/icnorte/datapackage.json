@@ -1,0 +1,78 @@
+{
+  "$schema": "https://datapackage.org/profiles/2.0/datapackage.json",
+  "name": "icnorte",
+  "title": "IC Norte: productos y precios diarios",
+  "description": "Catálogo de productos y precios diarios de IC Norte, a nivel nacional. Un archivo de precios por mes (AAAA_MM.csv). Sus últimos precios son de septiembre de 2026.",
+  "sources": [
+    {
+      "title": "IC Norte",
+      "path": "https://www.icnorte.com"
+    }
+  ],
+  "resources": [
+    {
+      "name": "productos",
+      "path": "productos.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "description": "Catálogo de productos.",
+      "schema": {
+        "fields": [
+          {
+            "name": "id_producto",
+            "type": "integer",
+            "description": "Código del producto en la tienda."
+          },
+          {
+            "name": "producto",
+            "type": "string",
+            "description": "Nombre del producto."
+          },
+          {
+            "name": "proveedor",
+            "type": "string",
+            "description": "Proveedor o marca."
+          },
+          {
+            "name": "categoria",
+            "type": "string",
+            "description": "Categoría. Vacía si la tienda no la publica."
+          }
+        ],
+        "primaryKey": [
+          "id_producto"
+        ]
+      }
+    },
+    {
+      "name": "precios",
+      "path": "precios/*.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "description": "Precios diarios, un archivo por mes.",
+      "schema": {
+        "fields": [
+          {
+            "name": "fecha",
+            "type": "date",
+            "description": "Día del precio."
+          },
+          {
+            "name": "id_producto",
+            "type": "integer",
+            "description": "Código del producto. Une con productos.csv."
+          },
+          {
+            "name": "precio",
+            "type": "number",
+            "description": "Precio de venta en bolivianos ese día."
+          }
+        ],
+        "primaryKey": [
+          "fecha",
+          "id_producto"
+        ]
+      }
+    }
+  ]
+}

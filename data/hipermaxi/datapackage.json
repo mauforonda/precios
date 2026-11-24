@@ -1,0 +1,184 @@
+{
+  "$schema": "https://datapackage.org/profiles/2.0/datapackage.json",
+  "name": "hipermaxi",
+  "title": "Hipermaxi: productos y precios diarios",
+  "description": "Catálogo de productos y precios diarios de Hipermaxi en La Paz, Cochabamba y Santa Cruz. Un archivo de precios por ciudad y mes (AAAA_MM.csv).",
+  "sources": [
+    {
+      "title": "Hipermaxi",
+      "path": "https://www.hipermaxi.com"
+    }
+  ],
+  "resources": [
+    {
+      "name": "productos",
+      "path": "productos.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "description": "Catálogo de productos.",
+      "schema": {
+        "fields": [
+          {
+            "name": "id_producto",
+            "type": "integer",
+            "description": "Código del producto en la tienda."
+          },
+          {
+            "name": "producto",
+            "type": "string",
+            "description": "Nombre del producto."
+          },
+          {
+            "name": "categoria",
+            "type": "string",
+            "description": "Categoría."
+          },
+          {
+            "name": "subcategoria",
+            "type": "string",
+            "description": "Subcategoría."
+          }
+        ],
+        "primaryKey": [
+          "id_producto"
+        ]
+      }
+    },
+    {
+      "name": "sucursales",
+      "path": "sucursales.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "description": "Sucursales y su región.",
+      "schema": {
+        "fields": [
+          {
+            "name": "id_sucursal",
+            "type": "integer",
+            "description": "Código de la sucursal."
+          },
+          {
+            "name": "sucursal",
+            "type": "string",
+            "description": "Nombre de la sucursal."
+          },
+          {
+            "name": "id_region",
+            "type": "integer",
+            "description": "Código de la región."
+          },
+          {
+            "name": "region",
+            "type": "string",
+            "description": "Nombre de la región."
+          }
+        ]
+      }
+    },
+    {
+      "name": "precios-la-paz",
+      "path": "la_paz/*.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "description": "Precios diarios en La Paz, un archivo por mes.",
+      "schema": {
+        "fields": [
+          {
+            "name": "fecha",
+            "type": "date",
+            "description": "Día del precio."
+          },
+          {
+            "name": "id_producto",
+            "type": "integer",
+            "description": "Código del producto. Une con productos.csv."
+          },
+          {
+            "name": "precio",
+            "type": "number",
+            "description": "Precio de venta en bolivianos ese día."
+          },
+          {
+            "name": "oferta",
+            "type": "integer",
+            "description": "1 si el precio es oferta, 0 si no."
+          }
+        ],
+        "primaryKey": [
+          "fecha",
+          "id_producto"
+        ]
+      }
+    },
+    {
+      "name": "precios-cochabamba",
+      "path": "cochabamba/*.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "description": "Precios diarios en Cochabamba, un archivo por mes.",
+      "schema": {
+        "fields": [
+          {
+            "name": "fecha",
+            "type": "date",
+            "description": "Día del precio."
+          },
+          {
+            "name": "id_producto",
+            "type": "integer",
+            "description": "Código del producto. Une con productos.csv."
+          },
+          {
+            "name": "precio",
+            "type": "number",
+            "description": "Precio de venta en bolivianos ese día."
+          },
+          {
+            "name": "oferta",
+            "type": "integer",
+            "description": "1 si el precio es oferta, 0 si no."
+          }
+        ],
+        "primaryKey": [
+          "fecha",
+          "id_producto"
+        ]
+      }
+    },
+    {
+      "name": "precios-santa-cruz",
+      "path": "santa_cruz/*.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "description": "Precios diarios en Santa Cruz, un archivo por mes.",
+      "schema": {
+        "fields": [
+          {
+            "name": "fecha",
+            "type": "date",
+            "description": "Día del precio."
+          },
+          {
+            "name": "id_producto",
+            "type": "integer",
+            "description": "Código del producto. Une con productos.csv."
+          },
+          {
+            "name": "precio",
+            "type": "number",
+            "description": "Precio de venta en bolivianos ese día."
+          },
+          {
+            "name": "oferta",
+            "type": "integer",
+            "description": "1 si el precio es oferta, 0 si no."
+          }
+        ],
+        "primaryKey": [
+          "fecha",
+          "id_producto"
+        ]
+      }
+    }
+  ]
+}

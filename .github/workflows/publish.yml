@@ -1,69 +1,64 @@
-name: Publish Monitor
+name: Publicar visor
+
 on:
-  schedule:
-    - cron: '0 4 * * *'
+  # Después de cada actualización de datos exitosa
+  workflow_run:
+    workflows:
+      - "Update Hipermaxi"
+      - "Update multicenter"
+      - "Update Fidalga Farmacorp"
+    types: [completed]
+  # Manual
   workflow_dispatch:
-    inputs:
-      skip_update:
-        description: 'Skip update'
-        required: false
-        default: 'false'
-        type: choice
-        options:
-          - 'true'
-          - 'false'
+  # Cambios del visor o del generador de parquet
+  push:
+    branches: [master]
+    paths:
+      - "view/**"
+      - ".github/workflows/publish.yml"
+
+# Una publicación a la vez; las siguientes esperan en cola
+concurrency:
+  group: publicar-visor
+  cancel-in-progress: false
+
+permissions:
+  contents: write
 
 jobs:
-  update:
-    uses: ./.github/workflows/update.yml
-    if: ${{ github.event_name != 'workflow_dispatch' || github.event.inputs.skip_update != 'true' }}
-  publish:
-    name: publish
-    needs: [update]
-    if: ${{ success() || (github.event_name == 'workflow_dispatch' && github.event.inputs.skip_update == 'true') }}
+  publicar:
+    name: publicar
+    if: ${{ github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success' }}
     runs-on: ubuntu-latest
     steps:
-    - name: Checkout
-      uses: actions/checkout@master
+      - name: checkout
+        uses: actions/checkout@v4
+        with:
+          ref: master
 
-    - name: setup docs
-      run: |
-        mkdir -p docs
-        touch docs/.nojekyll
+      - name: python setup
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+          cache-dependency-path: view/requirements.txt
 
-    - name: setup python
-      uses: actions/setup-python@v5
-      with:
-        python-version: '3.12'
+      - name: python install
+        run: pip install -r view/requirements.txt
 
-    - name: python install
-      run: |
-        python -m pip install --upgrade pip
-        pip install pandas
+      - name: sitio
+        run: python view/build.py
 
-    - name: variaciones
-      run: |
-        python view/src/data/variaciones.py
+      - name: parquet
+        run: python view/preparar.py
 
-    - name: setup node
-      uses: actions/setup-node@v4
-      with:
-        node-version: 20
-        cache: "npm"
-        cache-dependency-path: ./view/package-lock.json
+      - name: sin jekyll
+        run: touch view/dist/.nojekyll
 
-    - name: dependencias
-      working-directory: ./view
-      run: npm ci
-
-    - name: build
-      working-directory: ./view
-      run: npm run build
-
-    - name: publicar
-      uses: peaceiris/actions-gh-pages@v3
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_dir: ./docs
-        user_name: precios-bot
-        user_email: precios-bot@example.com
+      - name: publicar en gh-pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./view/dist
+          user_name: precios-bot
+          user_email: precios-bot@example.com

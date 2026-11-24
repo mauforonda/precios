@@ -1,5 +1,8 @@
 name: Update Hipermaxi
-on: [workflow_call]
+on:
+  schedule:
+    - cron: '0 4 * * *'
+  workflow_dispatch:
 jobs:
   update:
     name: update
