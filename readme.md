@@ -32,9 +32,9 @@ Datos al **2026-11-25**. Se genera con `update/cobertura.py` y también está en
 
 | Tienda | Ciudad | Desde | Hasta | Días con datos | Días sin datos | Productos en el último día | Productos en total |
 | --- | --- | --- | --- | ---: | ---: | ---: | ---: |
-| [Hipermaxi](data/hipermaxi/) | La Paz | 2024-07-28 | 2026-11-24 | 840 | 10 | 13,823 | 23,111 |
-| [Hipermaxi](data/hipermaxi/) | Cochabamba | 2024-07-28 | 2026-11-24 | 840 | 10 | 13,296 | 22,838 |
-| [Hipermaxi](data/hipermaxi/) | Santa Cruz | 2024-07-28 | 2026-11-24 | 840 | 10 | 13,489 | 22,717 |
+| [Hipermaxi](data/hipermaxi/) | La Paz | 2024-07-28 | 2026-11-25 | 841 | 10 | 13,890 | 23,180 |
+| [Hipermaxi](data/hipermaxi/) | Cochabamba | 2024-07-28 | 2026-11-25 | 841 | 10 | 13,358 | 22,901 |
+| [Hipermaxi](data/hipermaxi/) | Santa Cruz | 2024-07-28 | 2026-11-25 | 841 | 10 | 13,522 | 22,768 |
 | [Fidalga](data/fidalga/) | Nacional | 2025-06-13 | 2026-11-25 | 531 | 0 | 879 | 1,128 |
 | [Farmacorp](data/farmacorp/) | Nacional | 2025-06-13 | 2026-11-25 | 531 | 0 | 16,576 | 24,137 |
 | [Multicenter](data/multicenter/) | Nacional | 2025-06-15 | 2026-11-25 | 529 | 0 | 10,855 | 23,566 |
@@ -47,7 +47,7 @@ Días sin datos:
 
 Categorías principales entre los productos del último día:
 
-- Hipermaxi en La Paz: Abarrotes (4,908), Cuidado Personal (2,414), Bebidas (1,527), Cuidado del Hogar (1,254), Bazar Importación (769), Bazar (703)
+- Hipermaxi en La Paz: Abarrotes (4,918), Cuidado Personal (2,410), Bebidas (1,518), Cuidado del Hogar (1,254), Bazar Importación (827), Bazar (704)
 - Multicenter: Herramientas (2,292), Hogar (1,623), Juguetería (1,028), navidad (671), Dormitorio y Baño (611), Oficina (530)
 - IC Norte: CUIDADO PERSONAL (1,102), ABARROTES Y DESPENSA (920), LIMPIEZA Y DETERGENTES (434), Panadería y Repostería (172), CARNES, MARISCOS Y PESCADO (162), FRUTAS Y VERDURAS (162)
 - Fidalga y Farmacorp: sin categoría principal (ver más abajo).
