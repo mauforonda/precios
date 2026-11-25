@@ -35,8 +35,8 @@ Datos al **2026-11-25**. Se genera con `update/cobertura.py` y también está en
 | [Hipermaxi](data/hipermaxi/) | La Paz | 2024-07-28 | 2026-11-24 | 840 | 10 | 13,823 | 23,111 |
 | [Hipermaxi](data/hipermaxi/) | Cochabamba | 2024-07-28 | 2026-11-24 | 840 | 10 | 13,296 | 22,838 |
 | [Hipermaxi](data/hipermaxi/) | Santa Cruz | 2024-07-28 | 2026-11-24 | 840 | 10 | 13,489 | 22,717 |
-| [Fidalga](data/fidalga/) | Nacional | 2025-06-13 | 2026-11-24 | 530 | 0 | 879 | 1,128 |
-| [Farmacorp](data/farmacorp/) | Nacional | 2025-06-13 | 2026-11-24 | 530 | 0 | 16,605 | 24,132 |
+| [Fidalga](data/fidalga/) | Nacional | 2025-06-13 | 2026-11-25 | 531 | 0 | 879 | 1,128 |
+| [Farmacorp](data/farmacorp/) | Nacional | 2025-06-13 | 2026-11-25 | 531 | 0 | 16,576 | 24,137 |
 | [Multicenter](data/multicenter/) | Nacional | 2025-06-15 | 2026-11-25 | 529 | 0 | 10,855 | 23,566 |
 | [IC Norte](data/icnorte/) | Nacional | 2025-06-15 | 2026-09-24 (sin actualizar) | 467 | 0 | 1,771 | 1,775 |
 | [Ketal](data/ketal/) | Nacional | 2021-11-15 | 2022-10-31 (cerrada) | 346 | 5 | n/d | 10,011 |
