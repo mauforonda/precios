@@ -244,15 +244,21 @@ async function seleccionarSupermercado(id) {
 }
 
 // Solo aparece si el supermercado tiene más de una ciudad
+// Muestra u oculta la fila de ciudades con la altura animada del bloque de tiendas
 function renderCiudades() {
+  animarAltura(document.querySelector(".fila-tiendas"), pintarCiudades);
+}
+
+function pintarCiudades() {
   const contenedor = $("#ciudades");
   const entradas = Object.entries(estado.ciudades);
+  const fila = $("#fila-ciudades");
   if (entradas.length <= 1) {
     contenedor.replaceChildren();
-    contenedor.hidden = true;
+    fila.hidden = true;
     return;
   }
-  contenedor.hidden = false;
+  fila.hidden = false;
   const botones = entradas.map(([id, info]) =>
     el(
       "button",
@@ -401,7 +407,11 @@ function renderClasificaciones() {
   const filas = TIPOS_CLASIFICACION.map(([tipo, titulo]) => {
     const grupos = estado.ranking
       .filter((g) => g.dias === dias && g.tipo === tipo)
-      .sort((a, b) => b.promedio_cambio - a.promedio_cambio);
+      .sort((a, b) =>
+        estado.direccion === "sube"
+          ? b.promedio_cambio - a.promedio_cambio
+          : a.promedio_cambio - b.promedio_cambio
+      );
     if (!grupos.length) return null;
     const chips = grupos.map((g) =>
       el(
@@ -467,6 +477,33 @@ function actualizarTabla() {
 
 // ---------- tabla ----------
 
+// Filas con el nombre expandido en móvil (por id_producto). Se reinicia al cambiar de selección.
+const expandidas = new Set();
+
+// Alterna el nombre de una fila entre una línea y todo el texto, animando la altura.
+function alternarNombre(div) {
+  const id = div.dataset.id;
+  const antes = div.getBoundingClientRect().height;
+  if (expandidas.has(id)) expandidas.delete(id);
+  else expandidas.add(id);
+  div.classList.toggle("expandida", expandidas.has(id));
+  const despues = div.getBoundingClientRect().height;
+  if (Math.abs(despues - antes) < 1) return;
+  if (matchMedia("(prefers-reduced-motion: reduce)").matches) return;
+  div.getAnimations().forEach((a) => a.cancel());
+  div.style.overflow = "hidden";
+  const animacion = div.animate(
+    [{ height: `${antes}px` }, { height: `${despues}px` }],
+    { duration: 240, easing: "cubic-bezier(0.2, 0, 0, 1)" }
+  );
+  const terminar = () => {
+    if (div.getAnimations().length) return setTimeout(terminar, 50);
+    div.style.overflow = "";
+  };
+  animacion.finished.then(terminar, terminar);
+  setTimeout(terminar, 300);
+}
+
 function renderTabla(filas) {
   const dia = estado.dia;
   const columnas = [
@@ -476,13 +513,21 @@ function renderTabla(filas) {
     { clave: "cambio", titulo: "variación", derecha: true, fmt: (v) => tendencia(v) },
   ];
 
-  let orden = { clave: "cambio", desc: true };
+  let orden = { clave: "cambio", desc: estado.direccion === "sube" };
   const cuerpo = el("tbody");
+  cuerpo.addEventListener("click", (ev) => {
+    const texto = ev.target.closest(".nombre-texto");
+    if (!texto || !matchMedia("(max-width: 600px)").matches) return;
+    alternarNombre(texto);
+  });
   const cabeceras = columnas.map((c) => {
     const flecha = el("span");
     const th = el(
       "th",
-      { title: c.clave, class: c.derecha ? "num" : null },
+      {
+        title: c.clave,
+        class: [c.derecha ? "num" : null, c.clave === "cambio" ? "sin-orden" : null].filter(Boolean).join(" ") || null,
+      },
       [flecha, c.titulo]
     );
     th._flecha = flecha;
@@ -500,7 +545,16 @@ function renderTabla(filas) {
     for (const c of columnas) {
       const v = f[c.clave];
       const td = el("td", { class: c.derecha ? "num" : null });
-      if (definido(v)) td.append(c.fmt(v));
+      if (c.clave === "producto") {
+        const texto = el("div", {
+          class: expandidas.has(String(f.id_producto)) ? "nombre-texto expandida" : "nombre-texto",
+          "data-id": f.id_producto,
+        });
+        if (definido(v)) texto.textContent = c.fmt(v);
+        td.append(texto);
+      } else if (definido(v)) {
+        td.append(c.fmt(v));
+      }
       tr.append(td);
     }
     return tr;
@@ -533,12 +587,14 @@ function renderTabla(filas) {
 
   const pintarFlechas = () => {
     for (const th of cabeceras) {
+      // La variación no tiene flecha: su orden lo fija el control "precios que"
       th._flecha.textContent =
-        th._clave === orden.clave ? (orden.desc ? "▾" : "▴") : "";
+        th._clave !== "cambio" && th._clave === orden.clave ? (orden.desc ? "▾" : "▴") : "";
     }
   };
 
   cabeceras.forEach((th) => {
+    if (th._clave === "cambio") return; // sin orden propio: sigue el control "precios que"
     th.addEventListener("click", (ev) => {
       if (orden.clave === th._clave) {
         orden = { clave: th._clave, desc: !orden.desc };
@@ -587,6 +643,28 @@ function mostrarCarga(activa) {
   $("#tabla").classList.toggle("cargando", activa);
 }
 
+// "precios que [suben|bajan]": un solo botón que alterna la dirección.
+// Define el orden de la tabla y de las sugerencias.
+const TEXTO_DIRECCION = { sube: "suben", baja: "bajan" };
+
+function renderDireccion() {
+  const boton = el("button", {
+    type: "button",
+    class: "boton-direccion",
+    "data-direccion": estado.direccion,
+    "aria-label": "Cambiar entre precios que suben y precios que bajan",
+  }, TEXTO_DIRECCION[estado.direccion]);
+  boton.addEventListener("click", () => {
+    estado.direccion = estado.direccion === "sube" ? "baja" : "sube";
+    guardar("direccion", estado.direccion);
+    boton.dataset.direccion = estado.direccion;
+    boton.textContent = TEXTO_DIRECCION[estado.direccion];
+    renderClasificaciones();
+    actualizarTabla();
+  });
+  $("#direccion").replaceChildren(boton);
+}
+
 // Anima el cambio de altura de un elemento cuando cambia su contenido
 function animarAltura(elemento, cambiar) {
   const antes = elemento.getBoundingClientRect().height;
@@ -604,7 +682,10 @@ function animarAltura(elemento, cambiar) {
   );
   // Solo la última animación quita el recorte
   const terminar = () => {
-    if (elemento.dataset.version === version) elemento.style.overflow = "";
+    if (elemento.dataset.version !== version) return;
+    // Si la animación sigue en curso, se vuelve a intentar en un instante
+    if (elemento.getAnimations().length) return setTimeout(terminar, 50);
+    elemento.style.overflow = "";
   };
   animacion.finished.then(terminar, terminar);
   setTimeout(terminar, 300); // respaldo si el evento de fin no llega
@@ -627,6 +708,7 @@ async function renderDia({ conservarBusqueda = true } = {}) {
     // Solo filas con precio hoy y previo; el orden ya viene del archivo
     estado.dataDia = filas;
     estado.ranking = ranking;
+    expandidas.clear();
     animarAltura(document.querySelector(".controles"), renderClasificaciones);
     renderBusqueda(query);
   } finally {
@@ -691,8 +773,10 @@ async function iniciar() {
       : Object.keys(supers)[0];
   estado.ciudadRecordada = leerCiudadesRecordadas();
   estado.dia = leer("dias") ?? DIA_DEFECTO;
+  estado.direccion = leer("direccion") === "baja" ? "baja" : "sube";
 
   renderSupermercados();
+  renderDireccion();
   await seleccionarSupermercado(supermercado);
 }
 

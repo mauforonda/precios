@@ -17,22 +17,32 @@
       </header>
 
       <section class="controles" aria-label="Controles">
-        <div class="fila">
-          <span class="fila-etiqueta">Tienda</span>
-          <div class="fila-contenido">
-            <div class="segmentos" id="supermercados" role="group" aria-label="Supermercado"></div>
-            <div class="ciudades" id="ciudades" hidden></div>
+        <div class="columnas">
+          <div class="columna">
+            <div class="fila fila-tiendas">
+              <div class="fila-contenido">
+                <div class="segmentos" id="supermercados" role="group" aria-label="Supermercado"></div>
+              </div>
+              <div class="fila-contenido fila-ciudades" id="fila-ciudades" hidden>
+                <div class="ciudades" id="ciudades"></div>
+              </div>
+            </div>
+            <div class="fila">
+              <div class="fila-contenido frase">
+                <span class="palabra">precios que</span>
+                <div class="direccion" id="direccion"></div>
+                <span class="palabra">desde</span>
+                <div id="tiempo"></div>
+              </div>
+            </div>
           </div>
-        </div>
-        <div class="fila">
-          <span class="fila-etiqueta">Cambios</span>
-          <div class="fila-contenido" id="tiempo"></div>
-        </div>
-        <div class="fila">
-          <span class="fila-etiqueta">Productos</span>
-          <div class="fila-contenido">
-            <div id="busqueda"></div>
-            <div class="sugerencias" id="sugerencias"></div>
+          <div class="columna">
+            <div class="fila">
+              <div class="fila-contenido">
+                <div id="busqueda"></div>
+                <div class="sugerencias" id="sugerencias"></div>
+              </div>
+            </div>
           </div>
         </div>
       </section>

@@ -5,10 +5,10 @@
   --background: rgb(250, 250, 250);
   --surface: #fff;
   --ink: #383838;
-  --background-soft: color-mix(in srgb, var(--ink) 2%, var(--background));
   --line: color-mix(in srgb, var(--ink) 12%, var(--background));
   --accent: #e1e1e1;
   --on-accent: var(--ink);
+  --espacio: 12px; /* separación única entre componentes de las filas de controles */
 
   --up: #c2472e;
   --up-rgb: 194 71 46;
@@ -28,7 +28,7 @@
     --up-rgb: 255 138 112;
     --down: #6fcf97;
     --down-rgb: 111 207 151;
-    --accent: #9e9e9e;
+    --accent: #323232;
     color-scheme: dark;
   }
 }
@@ -98,7 +98,7 @@ body {
 
 .fila {
   display: grid;
-  grid-template-columns: 104px minmax(0, 1fr);
+  grid-template-columns: minmax(0, 1fr);
   align-items: start;
   gap: 12px;
   padding: 10px 14px;
@@ -107,11 +107,6 @@ body {
   border-radius: 3px;
 }
 
-.fila-etiqueta {
-  padding-top: 6px;
-}
-
-.fila-etiqueta,
 .etiqueta,
 .etiqueta-clasificacion,
 .busqueda-campo output {
@@ -123,7 +118,7 @@ body {
   display: flex;
   flex-wrap: wrap;
   align-items: center;
-  gap: 8px 12px;
+  gap: 8px var(--espacio);
   min-width: 0;
 }
 
@@ -132,17 +127,17 @@ body {
 .segmentos {
   display: flex;
   flex-wrap: nowrap;
-  gap: 6px;
+  gap: var(--espacio);
 }
 
 .segmento {
   font: inherit;
   font-size: 13px;
-  color: var(--ink);
-  padding: 4px 10px;
+  color: color-mix(in srgb, var(--ink) 60%, var(--background));
+  padding: 2px 8px;
   border: 1px solid transparent;
   border-radius: 4px;
-  background: var(--background);
+  background: transparent;
   cursor: pointer;
   white-space: nowrap;
 }
@@ -154,60 +149,107 @@ body {
 .segmento[aria-pressed="true"] {
   background: var(--accent);
   border-color: var(--accent);
-  color: var(--on-accent);
+  color: var(--ink);
 }
 
 .ciudades {
   display: flex;
   align-items: center;
   flex-wrap: nowrap;
-  gap: 6px;
+  gap: var(--espacio);
   flex-shrink: 0;
+
+  .etiqueta {
+    color: var(--ink);
+  }
 }
 
-/* Fila de tiendas y ciudades: una línea en escritorio; en móvil, las ciudades bajan a otra línea
-   dentro del mismo bloque. Cada grupo se desplaza en horizontal si no cabe. */
-.fila:first-child .fila-contenido {
-  flex-wrap: wrap;
-}
-
-.fila:first-child .segmentos,
-.fila:first-child .ciudades {
+/* Filas de tiendas y ciudades: una sola línea; si no caben, se desplazan en horizontal */
+.fila-tiendas .fila-contenido,
+.fila-ciudades .fila-contenido {
   flex-wrap: nowrap;
   overflow-x: auto;
   scrollbar-width: none;
-  max-width: 100%;
-  min-width: 0;
 }
 
-.fila:first-child .segmentos::-webkit-scrollbar,
-.fila:first-child .ciudades::-webkit-scrollbar {
+.fila-tiendas .fila-contenido::-webkit-scrollbar,
+.fila-ciudades .fila-contenido::-webkit-scrollbar {
   display: none;
 }
 
-.fila:first-child .segmento {
+.fila-tiendas .segmento,
+.fila-ciudades .segmento {
   flex: 0 0 auto;
 }
 
-@media (min-width: 601px) {
-  .fila:first-child .fila-contenido {
-    flex-wrap: nowrap;
+/* Columnas: en escritorio, tiendas | cobertura y productos; en teléfono, todo apilado */
+.columnas,
+.columna {
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+}
+
+/* La última fila de cada columna ocupa el espacio restante, así ambas terminan al mismo nivel */
+.columna > .fila:last-child {
+  flex: 1 1 auto;
+}
+
+@media (min-width: 720px) {
+  .columnas {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+  }
+
+  .columna + .columna {
+    border-left: 1px solid var(--line);
   }
 }
 
-@media (max-width: 600px) {
-  .fila:first-child .ciudades {
-    width: 100%;
-  }
+/* ---------- frase de cambios: precios que [suben] desde [cobertura] ---------- */
+
+.frase {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: var(--espacio);
 }
 
-/* ---------- cobertura ---------- */
+.palabra {
+  font-size: 13px;
+  color: var(--ink);
+}
+
+.boton-direccion {
+  font: inherit;
+  font-size: 13px;
+  padding: 2px 8px;
+  border: 1px solid transparent;
+  border-radius: 4px;
+  cursor: pointer;
+  font-weight: 600;
+}
+
+.boton-direccion[data-direccion="sube"] {
+  color: var(--up);
+  background: rgb(var(--up-rgb) / 0.22);
+}
+
+.boton-direccion[data-direccion="baja"] {
+  color: var(--down);
+  background: rgb(var(--down-rgb) / 0.22);
+}
+
+.boton-direccion:focus-visible {
+  outline: 2px solid var(--ink);
+  outline-offset: 1px;
+}
 
 /* ---------- selector propio (cobertura) ---------- */
 
 .selector {
   position: relative;
-  min-width: 180px;
+  min-width: 155px;
 }
 
 .selector-boton {
@@ -218,8 +260,8 @@ body {
   gap: 8px;
   font: inherit;
   font-size: 13px;
-  color: var(--on-accent);
-  padding: 4px 8px;
+  /* color: var(--on-accent); */
+  padding: 2px 8px;
   border: 1px solid var(--accent);
   border-radius: 4px;
   background: var(--accent);
@@ -253,7 +295,7 @@ body {
 }
 
 .selector-opcion {
-  padding: 4px 8px;
+  padding: 2px 8px;
   font-size: 13px;
   color: var(--ink);
   cursor: pointer;
@@ -262,7 +304,7 @@ body {
 .selector-opcion:hover,
 .selector-opcion.activa {
   background: var(--accent);
-  color: var(--on-accent);
+  /* color: var(--on-accent); */
 }
 
 .selector-opcion[aria-selected="true"] {
@@ -286,15 +328,15 @@ body {
   font: inherit;
   font-size: 13px;
   color: var(--ink);
-  padding: 4px 8px;
+  padding: 2px 8px;
   border: 1px solid var(--accent);
   border-radius: 4px;
   background: var(--accent);
-  color: var(--on-accent);
+  /* color: var(--on-accent); */
 }
 
 .busqueda-campo input[type="search"]::placeholder {
-  color: var(--on-accent);
+  /* color: var(--on-accent); */
   opacity: 0.7;
 }
 
@@ -364,10 +406,18 @@ body {
 
 .tabla {
   margin: 5px 0;
+  min-height: calc(
+    34 * 22px + 33px
+  ); /* altura completa desde el inicio, sin saltos al cargar */
   background: var(--surface);
   border: 1px solid var(--line);
   border-radius: 6px;
   overflow: hidden;
+  transition: opacity 200ms ease;
+}
+
+.tabla.cargando {
+  opacity: 0.35;
 }
 
 .tabla-cabecera {
@@ -379,6 +429,7 @@ body {
 .tabla-scroll {
   display: block;
   width: 100%;
+  height: calc(34 * 22px);
   overflow-y: auto;
   margin: 0;
   scrollbar-width: none; /* Firefox: sin barra visible, el scroll sigue activo */
@@ -416,6 +467,10 @@ body {
   user-select: none;
 }
 
+.tabla-cabecera th.sin-orden {
+  cursor: default;
+}
+
 .tabla-scroll tbody tr:not(:last-child) td {
   border-bottom: 1px solid var(--line);
 }
@@ -445,24 +500,23 @@ body {
   color: var(--ink);
 }
 
-/* ---------- carga y altura de la tabla ---------- */
+/* ---------- nombre de producto alternable (móvil) ---------- */
 
-/* La tabla ocupa su altura completa desde el inicio (encabezado + 34 filas); no cambia al cargar */
-.tabla {
-  min-height: calc(34 * 22px + 33px);
+.nombre-texto {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
 }
 
-.tabla-scroll {
-  height: calc(34 * 22px);
-}
+@media (max-width: 600px) {
+  .nombre-texto {
+    cursor: pointer;
+  }
 
-/* Al cambiar una selección la tabla baja de opacidad y vuelve al cargar los datos */
-.tabla {
-  transition: opacity 200ms ease;
-}
-
-.tabla.cargando {
-  opacity: 0.35;
+  .nombre-texto.expandida {
+    white-space: normal;
+    overflow-wrap: anywhere;
+  }
 }
 
 /* ---------- pie (igual que dolares/vista) ---------- */
