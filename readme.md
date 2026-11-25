@@ -28,7 +28,7 @@ Qué no hay en los datos:
 ### Cobertura
 
 <!-- cobertura:inicio -->
-Datos al **2026-11-24**. Se genera con `update/cobertura.py` y también está en [cobertura.json](cobertura.json).
+Datos al **2026-11-25**. Se genera con `update/cobertura.py` y también está en [cobertura.json](cobertura.json).
 
 | Tienda | Ciudad | Desde | Hasta | Días con datos | Días sin datos | Productos en el último día | Productos en total |
 | --- | --- | --- | --- | ---: | ---: | ---: | ---: |
@@ -37,7 +37,7 @@ Datos al **2026-11-24**. Se genera con `update/cobertura.py` y también está en
 | [Hipermaxi](data/hipermaxi/) | Santa Cruz | 2024-07-28 | 2026-11-24 | 840 | 10 | 13,489 | 22,717 |
 | [Fidalga](data/fidalga/) | Nacional | 2025-06-13 | 2026-11-24 | 530 | 0 | 879 | 1,128 |
 | [Farmacorp](data/farmacorp/) | Nacional | 2025-06-13 | 2026-11-24 | 530 | 0 | 16,605 | 24,132 |
-| [Multicenter](data/multicenter/) | Nacional | 2025-06-15 | 2026-11-24 | 528 | 0 | 10,841 | 23,559 |
+| [Multicenter](data/multicenter/) | Nacional | 2025-06-15 | 2026-11-25 | 529 | 0 | 10,855 | 23,566 |
 | [IC Norte](data/icnorte/) | Nacional | 2025-06-15 | 2026-09-24 (sin actualizar) | 467 | 0 | 1,771 | 1,775 |
 | [Ketal](data/ketal/) | Nacional | 2021-11-15 | 2022-10-31 (cerrada) | 346 | 5 | n/d | 10,011 |
 
@@ -48,8 +48,8 @@ Días sin datos:
 Categorías principales entre los productos del último día:
 
 - Hipermaxi en La Paz: Abarrotes (4,908), Cuidado Personal (2,414), Bebidas (1,527), Cuidado del Hogar (1,254), Bazar Importación (769), Bazar (703)
-- Multicenter: Herramientas (2,295), Hogar (1,625), Juguetería (1,026), navidad (671), Dormitorio y Baño (602), Oficina (531)
-- IC Norte: CUIDADO PERSONAL (1,102), ABARROTES Y DESPENSA (920), LIMPIEZA Y DETERGENTES (434), Panadería y Repostería (172), FRUTAS Y VERDURAS (162), CARNES, MARISCOS Y PESCADO (162)
+- Multicenter: Herramientas (2,292), Hogar (1,623), Juguetería (1,028), navidad (671), Dormitorio y Baño (611), Oficina (530)
+- IC Norte: CUIDADO PERSONAL (1,102), ABARROTES Y DESPENSA (920), LIMPIEZA Y DETERGENTES (434), Panadería y Repostería (172), CARNES, MARISCOS Y PESCADO (162), FRUTAS Y VERDURAS (162)
 - Fidalga y Farmacorp: sin categoría principal (ver más abajo).
 <!-- cobertura:fin -->
 

@@ -1,5 +1,5 @@
 {
-  "datos_al": "2026-11-24",
+  "datos_al": "2026-11-25",
   "moneda": "BOB",
   "series": [
     {
@@ -357,29 +357,29 @@
       "ciudad": "nacional",
       "ciudad_nombre": "Nacional",
       "desde": "2025-06-15",
-      "hasta": "2026-11-24",
-      "dias_con_datos": 528,
+      "hasta": "2026-11-25",
+      "dias_con_datos": 529,
       "dias_sin_datos": 0,
       "rangos_sin_datos": [],
-      "productos_historicos": 23559,
-      "productos_ultimo_dia": 10841,
+      "productos_historicos": 23566,
+      "productos_ultimo_dia": 10855,
       "productos_por_dia_min": 9625,
       "productos_por_dia_max": 12689,
-      "filas": 5913034,
+      "filas": 5923889,
       "filas_repetidas": 245,
-      "filas_precio_cero": 4156,
+      "filas_precio_cero": 4165,
       "categorias_ultimo_dia": [
         {
           "categoria": "Herramientas",
-          "productos": 2295
+          "productos": 2292
         },
         {
           "categoria": "Hogar",
-          "productos": 1625
+          "productos": 1623
         },
         {
           "categoria": "Juguetería",
-          "productos": 1026
+          "productos": 1028
         },
         {
           "categoria": "navidad",
@@ -387,27 +387,27 @@
         },
         {
           "categoria": "Dormitorio y Baño",
-          "productos": 602
+          "productos": 611
         },
         {
           "categoria": "Oficina",
-          "productos": 531
+          "productos": 530
         },
         {
           "categoria": "Electrohogar",
-          "productos": 520
+          "productos": 524
         },
         {
           "categoria": "tecnología",
-          "productos": 507
+          "productos": 505
         },
         {
           "categoria": "Decoración",
-          "productos": 428
+          "productos": 430
         },
         {
           "categoria": "Muebles",
-          "productos": 422
+          "productos": 418
         },
         {
           "categoria": "Jardineria",
@@ -423,19 +423,19 @@
         },
         {
           "categoria": "Viaje y regalos",
-          "productos": 245
+          "productos": 253
         },
         {
           "categoria": "Iluminación",
-          "productos": 244
+          "productos": 245
         },
         {
           "categoria": "Limpieza & Bioseguridad",
-          "productos": 235
+          "productos": 236
         },
         {
           "categoria": "Mascotas",
-          "productos": 190
+          "productos": 188
         },
         {
           "categoria": "Deportes y Ocio",
@@ -451,7 +451,7 @@
         },
         {
           "categoria": "Pinturas",
-          "productos": 40
+          "productos": 41
         },
         {
           "categoria": "Caja",
@@ -494,11 +494,11 @@
           "productos": 172
         },
         {
-          "categoria": "FRUTAS Y VERDURAS",
+          "categoria": "CARNES, MARISCOS Y PESCADO",
           "productos": 162
         },
         {
-          "categoria": "CARNES, MARISCOS Y PESCADO",
+          "categoria": "FRUTAS Y VERDURAS",
           "productos": 162
         },
         {
