@@ -10,7 +10,7 @@ on:
     types: [completed]
   # Manual
   workflow_dispatch:
-  # Cambios del visor o del generador de parquet
+  # Cambios del visor o del generador de datos
   push:
     branches: [master]
     paths:
@@ -36,6 +36,17 @@ jobs:
         with:
           ref: master
 
+      # Publicación anterior: de ahí se retienen los archivos de datos de las últimas versiones.
+      # Una pestaña abierta con un manifiesto viejo (o un CDN que aún sirve el manifiesto viejo)
+      # sigue encontrando sus archivos. Si gh-pages no existe, se publica sin retención.
+      - name: publicación anterior
+        uses: actions/checkout@v4
+        continue-on-error: true
+        with:
+          ref: gh-pages
+          path: previo
+          fetch-depth: 1
+
       - name: python setup
         uses: actions/setup-python@v5
         with:
@@ -49,8 +60,13 @@ jobs:
       - name: sitio
         run: python view/build.py
 
-      - name: parquet
-        run: python view/preparar.py
+      - name: datos
+        run: |
+          if [ -d previo/datos ]; then
+            python view/preparar.py --previo previo/datos
+          else
+            python view/preparar.py
+          fi
 
       - name: sin jekyll
         run: touch view/dist/.nojekyll
@@ -62,3 +78,5 @@ jobs:
           publish_dir: ./view/dist
           user_name: precios-bot
           user_email: precios-bot@example.com
+          # gh-pages queda en un solo commit: sin esto cada publicación suma decenas de MB al historial
+          force_orphan: true

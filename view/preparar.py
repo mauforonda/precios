@@ -18,17 +18,23 @@ de cada grupo. Solo grupos con al menos MIN_PRODUCTOS y solo los TOP_GRUPOS
 primeros. Es lo único que el visor descarga antes de elegir una clasificación.
 """
 
+import argparse
+import hashlib
 import json
-from datetime import datetime
+import shutil
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 import numpy as np
 import pandas as pd
-import pyarrow as pa
-import pyarrow.parquet as pq
 
 RAIZ = Path(__file__).resolve().parent.parent  # precios_supermercados
-SALIDA = Path(__file__).resolve().parent / "dist" / "parquet"
+SALIDA = Path(__file__).resolve().parent / "dist" / "datos"
+
+# Cambiar cuando cambie el formato de los archivos: el visor recarga si no coincide
+ESQUEMA = 2
+FILAS_CABEZA = 60  # filas con más subida y filas con más bajada en la cabeza
+RETENCION_DIAS = 2  # versiones publicadas que se conservan
 
 PERIODOS = {
     1: "ayer",
@@ -62,19 +68,6 @@ FUENTES = {
     "farmacorp": {"nombre": "Farmacorp", "ciudades": {"nacional": "Nacional"}},
     "multicenter": {"nombre": "Multicenter", "ciudades": {"nacional": "Nacional"}},
 }
-
-COLUMNAS = [
-    "dias",
-    "id_producto",
-    "producto",
-    "categoria",
-    "subcategoria",
-    "proveedor",
-    "hoy",
-    "previo",
-    "cambio",
-]
-
 
 def archivos_precios(supermercado, ciudad):
     base = RAIZ / "data" / supermercado
@@ -223,6 +216,44 @@ def calcular_ranking(filas):
     return ranking[["dias", "tipo", "grupo", "n", "promedio", "promedio_cambio"]]
 
 
+def centavos(serie):
+    """Precio en centavos enteros. Avisa si algún precio no es múltiplo de un centavo."""
+    c = np.round(serie.to_numpy(dtype="float64") * 100)
+    desvio = np.abs(serie.to_numpy(dtype="float64") * 100 - c)
+    if (desvio > 1e-3).any():
+        print(f"    aviso: {(desvio > 1e-3).sum()} precios con fracciones de centavo (se redondean)")
+    return c.astype("int64")
+
+
+def diccionario(serie):
+    """Valores únicos ordenados y el índice de cada fila en ellos (-1 = sin valor)."""
+    valores = sorted(serie.dropna().unique())
+    indice = {v: i for i, v in enumerate(valores)}
+    return valores, [indice[v] if isinstance(v, str) else -1 for v in serie]
+
+
+def columnar(f):
+    """Filas como columnas: textos repetidos por diccionario, precios en centavos."""
+    salida = {"producto": f["producto"].tolist()}
+    dic = {}
+    for tipo in TIPOS:
+        dic[tipo], salida[tipo] = diccionario(f[tipo])
+    salida["dic"] = dic
+    salida["previo"] = f["previo_c"].tolist()
+    salida["hoy"] = f["hoy_c"].tolist()
+    return salida
+
+
+def escribir_json(ruta_base, objeto):
+    """Escribe <ruta_base>.<hash>.json y devuelve la ruta relativa a SALIDA."""
+    datos = json.dumps(objeto, ensure_ascii=False, separators=(",", ":")).encode("utf-8")
+    h = hashlib.sha256(datos).hexdigest()[:10]
+    ruta = ruta_base.with_name(f"{ruta_base.name}.{h}.json")
+    ruta.parent.mkdir(parents=True, exist_ok=True)
+    ruta.write_bytes(datos)
+    return ruta.relative_to(SALIDA).as_posix(), len(datos)
+
+
 def escribir_ciudad(supermercado, ciudad, nombre_ciudad, productos):
     archivos = archivos_precios(supermercado, ciudad)
     if not archivos:
@@ -236,62 +267,108 @@ def escribir_ciudad(supermercado, ciudad, nombre_ciudad, productos):
     filas = pd.concat(bloques, ignore_index=True)
     filas = filas.join(productos, on="id_producto")
     filas["producto"] = filas["producto"].fillna("")
-
-    esquema = pa.schema(
-        [
-            ("dias", pa.int16()),
-            ("id_producto", pa.int64()),
-            ("producto", pa.string()),
-            ("categoria", pa.string()),
-            ("subcategoria", pa.string()),
-            ("proveedor", pa.string()),
-            ("hoy", pa.float32()),
-            ("previo", pa.float32()),
-            ("cambio", pa.float32()),
-        ]
-    )
-    tabla = pa.Table.from_pandas(filas[COLUMNAS], preserve_index=False, schema=esquema)
-
-    carpeta = SALIDA / f"supermercado={supermercado}" / f"ciudad={ciudad}"
-    carpeta.mkdir(parents=True, exist_ok=True)
-    ruta = carpeta / "cambios.parquet"
-    pq.write_table(tabla, ruta, row_group_size=4096, compression="snappy", write_statistics=False)
-
+    filas["hoy_c"] = centavos(filas["hoy"])
+    filas["previo_c"] = centavos(filas["previo"])
     ranking = calcular_ranking(filas)
-    ruta_ranking = carpeta / "ranking.parquet"
-    pq.write_table(pa.Table.from_pandas(ranking, preserve_index=False), ruta_ranking, compression="snappy")
 
-    # Rangos de filas por cobertura (contiguos por orden de escritura)
+    base = SALIDA / supermercado / ciudad
     coberturas = {}
-    inicio = 0
-    for b in bloques:
-        dias = int(b["dias"].iloc[0])
-        fin = inicio + len(b)
-        coberturas[str(dias)] = {"etiqueta": PERIODOS[dias], "inicio": inicio, "fin": fin}
-        inicio = fin
+    total = 0
+    for dias, f in filas.groupby("dias", sort=True):
+        dias = int(dias)
+        # Por cambio descendente según los mismos centavos que ve el visor
+        orden = (f["hoy_c"] / f["previo_c"]).to_numpy().argsort(kind="stable")[::-1]
+        f = f.iloc[orden]
+        n = len(f)
+        completo = n <= 2 * FILAS_CABEZA
+        extremos = f if completo else pd.concat([f.head(FILAS_CABEZA), f.tail(FILAS_CABEZA)])
+        r = ranking[ranking["dias"] == dias].drop(columns="dias")
+        cabeza = {
+            "completo": completo,
+            "ranking": r.to_dict("records"),
+            "filas": columnar(extremos),
+        }
+        ruta_h, bytes_h = escribir_json(base / f"h{dias}", cabeza)
+        info = {"etiqueta": PERIODOS[dias], "n": n, "cabeza": ruta_h}
+        if completo:
+            info["datos"] = None  # la cabeza ya trae todas las filas
+        else:
+            info["datos"], bytes_c = escribir_json(base / f"c{dias}", columnar(f))
+            total += bytes_c
+        total += bytes_h
+        coberturas[str(dias)] = info
 
     print(
-        f"  {supermercado}/{ciudad}: {len(filas)} filas, {ruta.stat().st_size/1e6:.1f} MB; "
-        f"ranking {len(ranking)} grupos, {ruta_ranking.stat().st_size/1e3:.1f} KB"
+        f"  {supermercado}/{ciudad}: {len(filas)} filas, {len(coberturas)} coberturas, "
+        f"{total/1e6:.1f} MB sin comprimir"
     )
     return {
         "nombre": nombre_ciudad,
-        "archivo": ruta.relative_to(SALIDA).as_posix(),
-        "bytes": ruta.stat().st_size,
-        "ranking": ruta_ranking.relative_to(SALIDA).as_posix(),
-        "bytes_ranking": ruta_ranking.stat().st_size,
-        "filas": int(len(filas)),
         "ultima_fecha": df.index[-1].strftime("%Y-%m-%d"),
         "coberturas": coberturas,
     }
 
 
+def archivos_de(manifiesto):
+    """Rutas de datos que menciona un manifiesto."""
+    rutas = set()
+    for s in manifiesto["supermercados"].values():
+        for c in s["ciudades"].values():
+            for cob in c["coberturas"].values():
+                rutas.update(r for r in (cob["cabeza"], cob["datos"]) if r)
+    return rutas
+
+
+def retener(previo, manifiesto, ahora):
+    """Copia los archivos de versiones recientes ya publicadas y devuelve el historial nuevo."""
+    historial = []
+    if previo and (previo / "historial.json").exists():
+        limite = (ahora - timedelta(days=RETENCION_DIAS)).strftime("%Y-%m-%dT%H:%M:%SZ")
+        for e in json.loads((previo / "historial.json").read_text(encoding="utf-8")):
+            if e["generado"] < limite or e["generado"] == manifiesto["generado"]:
+                continue
+            copiados = 0
+            for ruta in e["archivos"]:
+                destino = SALIDA / ruta
+                origen = previo / ruta
+                if destino.exists():
+                    continue
+                if origen.exists():
+                    destino.parent.mkdir(parents=True, exist_ok=True)
+                    shutil.copy2(origen, destino)
+                    copiados += 1
+            historial.append(e)
+            print(f"  retenida {e['generado']}: {copiados} archivos copiados")
+    historial.append({"generado": manifiesto["generado"], "archivos": sorted(archivos_de(manifiesto))})
+    return historial
+
+
 def main():
+    global RAIZ, SALIDA
+    ap = argparse.ArgumentParser()
+    ap.add_argument("--datos", type=Path, default=RAIZ, help="carpeta que contiene data/ (por defecto el repositorio)")
+    ap.add_argument("--salida", type=Path, default=SALIDA)
+    ap.add_argument("--previo", type=Path, help="carpeta datos/ de la publicación anterior, para retener sus archivos")
+    args = ap.parse_args()
+    RAIZ, SALIDA = args.datos.resolve(), args.salida.resolve()
+    if args.previo and args.previo.resolve() == SALIDA:
+        raise SystemExit("--previo no puede ser igual a --salida")
+    previo = args.previo.resolve() if args.previo else None
+
+    if SALIDA.exists():
+        shutil.rmtree(SALIDA)
+    SALIDA.mkdir(parents=True)
+
+    ahora = datetime.now(timezone.utc)
     manifiesto = {
-        "generado": datetime.now().strftime("%Y-%m-%d %H:%M"),
+        "esquema": ESQUEMA,
+        "generado": ahora.strftime("%Y-%m-%dT%H:%M:%SZ"),
         "supermercados": {},
     }
     for s, cfg in FUENTES.items():
+        if not (RAIZ / "data" / s / "productos.csv").exists():
+            print(f"{s}: sin datos, se omite")
+            continue
         print(s)
         productos = leer_productos(s)
         ciudades = {}
@@ -301,9 +378,13 @@ def main():
                 ciudades[c] = info
         manifiesto["supermercados"][s] = {"nombre": cfg["nombre"], "ciudades": ciudades}
 
-    with open(SALIDA / "manifiesto.json", "w", encoding="utf-8") as f:
-        json.dump(manifiesto, f, ensure_ascii=False, indent=2)
-    print("manifiesto.json")
+    historial = retener(previo, manifiesto, ahora)
+    (SALIDA / "historial.json").write_text(json.dumps(historial, ensure_ascii=False), encoding="utf-8")
+    # El manifiesto se escribe al final: nunca apunta a archivos que no existen
+    (SALIDA / "manifiesto.json").write_text(
+        json.dumps(manifiesto, ensure_ascii=False, separators=(",", ":")), encoding="utf-8"
+    )
+    print(f"manifiesto.json ({len(archivos_de(manifiesto))} archivos, {len(historial)} versiones en el historial)")
 
 
 if __name__ == "__main__":

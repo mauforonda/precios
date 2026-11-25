@@ -1,25 +1,33 @@
 // Servidor de desarrollo con recarga en caliente.
-// Sirve view/ tal como está en disco y view/dist/parquet en /parquet/ (generados por view/preparar.py).
+// Sirve view/ tal como está en disco y view/dist/datos en /datos/ (generados por view/preparar.py).
 // Cambios en CSS: se recarga la hoja sin recargar la página.
-// Cambios en HTML, JS o parquet: se recarga la página.
-// Uso: node view/desarrollo.mjs [puerto=8080] [latencia_parquet_ms=0]
+// Cambios en HTML, JS o datos: se recarga la página.
+// Uso: node view/desarrollo.mjs [puerto=8080] [latencia_datos_ms=0]
+//
+// Modo Pages: node view/desarrollo.mjs [puerto] [latencia_ms] pages   (DIST=carpeta cambia view/dist)
+// Sirve view/dist tal como lo serviría GitHub Pages (medido en mauforonda.github.io/precios):
+// Cache-Control max-age=600, ETag con 304, gzip (no en Range), query string ignorado, sin recarga en caliente.
 
 import http from 'node:http';
 import fs from 'node:fs';
 import path from 'node:path';
+import zlib from 'node:zlib';
+import crypto from 'node:crypto';
 import { fileURLToPath } from 'node:url';
 
 const aquí = path.dirname(fileURLToPath(import.meta.url));
-const raiz = aquí;                          // sitio
-const parquet = path.resolve(aquí, 'dist', 'parquet');
+const modoPages = process.argv[4] === 'pages';
+const dist = process.env.DIST ? path.resolve(process.env.DIST) : path.resolve(aquí, 'dist');
+const raiz = modoPages ? dist : aquí;   // sitio
+const datos = path.join(dist, 'datos');
 const puerto = Number(process.argv[2] ?? 8080);
-// Latencia artificial (ms) para las respuestas de parquet, útil para probar indicadores de carga
+// Latencia artificial (ms) para las respuestas de datos, útil para probar indicadores de carga
 const latencia = Number(process.argv[3] ?? 0);
 
 const tipos = {
   '.html': 'text/html; charset=utf-8', '.js': 'text/javascript; charset=utf-8', '.mjs': 'text/javascript; charset=utf-8',
   '.css': 'text/css; charset=utf-8', '.json': 'application/json; charset=utf-8', '.png': 'image/png',
-  '.svg': 'image/svg+xml', '.parquet': 'application/octet-stream',
+  '.svg': 'image/svg+xml',
 };
 
 const cliente = `
@@ -55,12 +63,12 @@ function manejar(req, res) {
 
   let archivo;
   let p = decodeURIComponent(url.pathname);
-  if (p.startsWith('/parquet/')) archivo = path.join(parquet, p.slice('/parquet/'.length));
+  if (!modoPages && p.startsWith('/datos/')) archivo = path.join(datos, p.slice('/datos/'.length));
   else {
     if (p.endsWith('/')) p += 'index.html';
     archivo = path.join(raiz, p);
   }
-  const permitido = archivo.startsWith(parquet) || archivo.startsWith(raiz);
+  const permitido = archivo.startsWith(datos) || archivo.startsWith(raiz);
   if (!permitido) { res.writeHead(403); return res.end(); }
 
   fs.stat(archivo, (err, st) => {
@@ -70,6 +78,7 @@ function manejar(req, res) {
       'Accept-Ranges': 'bytes',
       'Cache-Control': 'no-store',
     };
+    if (modoPages) return servirComoPages(req, res, archivo, st, cabeceras);
     if (path.extname(archivo) === '.html') {
       fs.readFile(archivo, 'utf8', (e, html) => {
         const salida = html.replace('</body>', `${cliente}\n</body>`);
@@ -91,18 +100,45 @@ function manejar(req, res) {
   });
 }
 
+// Imita a GitHub Pages: ETag, max-age=600, gzip sin Range, 304
+function servirComoPages(req, res, archivo, st, base) {
+  const etag = `"${crypto.createHash('md5').update(`${st.mtimeMs}-${st.size}`).digest('hex').slice(0, 12)}"`;
+  const cab = {
+    ...base,
+    'Cache-Control': 'max-age=600',
+    ETag: etag,
+    'Last-Modified': st.mtime.toUTCString(),
+    'Access-Control-Allow-Origin': '*',
+    Vary: 'Accept-Encoding',
+  };
+  if (req.headers['if-none-match'] === etag) { res.writeHead(304, cab); return res.end(); }
+  const rango = req.headers.range && /bytes=(\d*)-(\d*)/.exec(req.headers.range);
+  if (rango) {
+    const inicio = rango[1] ? Number(rango[1]) : st.size - Number(rango[2]);
+    const fin = rango[1] && rango[2] ? Math.min(Number(rango[2]), st.size - 1) : st.size - 1;
+    res.writeHead(206, { ...cab, 'Content-Range': `bytes ${inicio}-${fin}/${st.size}`, 'Content-Length': fin - inicio + 1 });
+    return fs.createReadStream(archivo, { start: inicio, end: fin }).pipe(res);
+  }
+  if (/\bgzip\b/.test(req.headers['accept-encoding'] ?? '') && /\.(html|js|css|json)$/.test(archivo)) {
+    res.writeHead(200, { ...cab, 'Content-Encoding': 'gzip' });
+    return fs.createReadStream(archivo).pipe(zlib.createGzip()).pipe(res);
+  }
+  res.writeHead(200, { ...cab, 'Content-Length': st.size });
+  fs.createReadStream(archivo).pipe(res);
+}
+
 http.createServer((req, res) => {
   const url = new URL(req.url, 'http://x');
-  if (latencia > 0 && url.pathname.startsWith('/parquet/')) {
+  if (latencia > 0 && url.pathname.startsWith('/datos/')) {
     setTimeout(() => manejar(req, res), latencia);
   } else {
     manejar(req, res);
   }
-}).listen(puerto, () => console.log(`Desarrollo: http://localhost:${puerto}  (sitio: ${raiz}, datos: ${parquet}, latencia parquet: ${latencia} ms)`));
+}).listen(puerto, () => console.log(`Desarrollo: http://localhost:${puerto}  (sitio: ${raiz}, datos: ${datos}, latencia datos: ${latencia} ms${modoPages ? ', modo Pages' : ''})`));
 
 // Vigilancia de cambios por sondeo de fechas de modificación (cada 250 ms).
 // No depende de fs.watch, que no recibe eventos en algunos sistemas de archivos
-// (redes, contenedores, WSL). Solo mira view/ y view/dist/parquet.
+// (redes, contenedores, WSL). Solo mira view/ y view/dist/datos.
 function listarVigilados() {
   const archivos = new Map();
   const recorrer = (dir, recursivo) => {
@@ -110,12 +146,12 @@ function listarVigilados() {
       if (nombre.name.startsWith('.') || nombre.name.startsWith('dist') || nombre.name.endsWith('~')) continue;
       const ruta = path.join(dir, nombre.name);
       if (nombre.isDirectory()) { if (recursivo) recorrer(ruta, true); continue; }
-      if (dir === parquet && !/\.(json|parquet)$/.test(nombre.name)) continue;
+      if (dir.startsWith(datos) && !/\.json$/.test(nombre.name)) continue;
       archivos.set(ruta, true);
     }
   };
-  recorrer(raiz, true);
-  recorrer(parquet, true);
+  if (!modoPages) recorrer(raiz, true);
+  if (!modoPages && fs.existsSync(datos)) recorrer(datos, true);
   return archivos;
 }
 

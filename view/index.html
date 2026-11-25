@@ -7,6 +7,12 @@
     <title>Precios en Bolivia</title>
     <link rel="icon" type="image/svg+xml" href="https://mauforonda.github.io/images/icon.svg"/>
     <link rel="stylesheet" href="style.css"/>
+    <script>
+      // Empieza a pedir el manifiesto sin esperar a que cargue app.js
+      window.__manifiesto = fetch("datos/manifiesto.json", { cache: "no-cache" })
+        .then((r) => (r.ok ? r.json() : Promise.reject(new Error("manifiesto: " + r.status))));
+      window.__manifiesto.catch(() => {});
+    </script>
     <script type="module" src="app.js"></script>
   </head>
   <body>

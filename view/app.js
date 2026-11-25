@@ -1,12 +1,13 @@
 // Visor de precios: JavaScript sin frameworks.
-// Los datos son parquet generados por preparar.py en dist/parquet. Cada cobertura
-// es un rango contiguo de filas, así que solo se descarga el rango elegido.
+// Los datos son JSON generados por preparar.py en datos/. Cada archivo lleva el hash de su
+// contenido en el nombre y nunca cambia. El manifiesto es lo único mutable: apunta a los archivos
+// vigentes y se revalida sin avisar al volver a la pestaña y al hacer una selección. Cada cobertura tiene una cabeza pequeña
+// (ranking y filas extremas, para pintar de inmediato) y un archivo completo (búsqueda y filtros).
 
-import {
-  asyncBufferFromUrl,
-  parquetMetadataAsync,
-  parquetReadObjects,
-} from "https://cdn.jsdelivr.net/npm/hyparquet@1.32.0/+esm";
+// Debe coincidir con ESQUEMA en preparar.py
+const ESQUEMA = 2;
+// Entre dos revisiones del manifiesto por selecciones del usuario
+const REVISION_MIN_MS = 30 * 1000;
 
 const SUPERMERCADO_DEFECTO = "hipermaxi";
 const DIA_DEFECTO = "3";
@@ -18,16 +19,6 @@ const TIPOS_CLASIFICACION = [
   ["categoria", "Categoría"],
   ["subcategoria", "Subcategoría"],
   ["proveedor", "Proveedor"],
-];
-const COLUMNAS_LECTURA = [
-  "id_producto",
-  "producto",
-  "categoria",
-  "subcategoria",
-  "proveedor",
-  "hoy",
-  "previo",
-  "cambio",
 ];
 
 const $ = (sel) => document.querySelector(sel);
@@ -47,6 +38,22 @@ function guardar(clave, valor) {
     localStorage.setItem(clave, valor);
   } catch {
     /* sin almacenamiento: el visor sigue funcionando */
+  }
+}
+
+function leerSesion(clave) {
+  try {
+    return sessionStorage.getItem(clave);
+  } catch {
+    return null;
+  }
+}
+
+function guardarSesion(clave, valor) {
+  try {
+    sessionStorage.setItem(clave, valor);
+  } catch {
+    /* sin almacenamiento */
   }
 }
 
@@ -105,71 +112,98 @@ function comparar(a, b, desc) {
   return (definido(b) - definido(a)) || (a < b ? -1 : a > b ? 1 : a >= b ? 0 : NaN);
 }
 
-// ---------- datos (parquet) ----------
+// ---------- datos (JSON) ----------
 
-// Un archivo se abre una vez: se leen sus metadatos (cola, 128 KB) y se reutilizan
-const archivos = new Map();
-// El tamaño de cada archivo viene del manifiesto. Así no hace falta HEAD ni rangos
-// para conocerlo: GitHub Pages no envía Content-Length en HEAD.
-function abrirArchivo(ruta, bytes) {
-  if (!archivos.has(ruta)) {
-    archivos.set(
-      ruta,
-      (async () => {
-        const file = await asyncBufferFromUrl({ url: ruta, byteLength: bytes });
-        const metadata = await parquetMetadataAsync(file, { initialFetchSize: 32 * 1024 });
-        return { file, metadata };
-      })()
-    );
-  }
-  return archivos.get(ruta);
+// Los archivos de datos no cambian nunca (el hash va en el nombre): "force-cache" evita
+// revalidar. GitHub Pages ignora el query string, por eso el nombre es la única versión.
+async function pedirJSON(ruta) {
+  const r = await fetch(`datos/${ruta}`, { cache: "force-cache" });
+  if (!r.ok) throw new Error(`${ruta}: ${r.status}`);
+  return r.json();
 }
 
+class EsquemaDistinto extends Error {}
+
+// Siempre se revalida (ETag): el manifiesto es el único archivo mutable
 async function cargarManifiesto() {
-  const r = await fetch("parquet/manifiesto.json");
+  // index.html empieza a pedirlo antes de que este módulo cargue; solo sirve la primera vez
+  const adelantado = window.__manifiesto;
+  window.__manifiesto = null;
+  let m;
+  try {
+    m = await (adelantado ?? fetchManifiesto());
+  } catch (e) {
+    if (!adelantado) throw e;
+    m = await fetchManifiesto();
+  }
+  if (m.esquema !== ESQUEMA) throw new EsquemaDistinto();
+  return m;
+}
+
+async function fetchManifiesto() {
+  const r = await fetch("datos/manifiesto.json", { cache: "no-cache" });
   if (!r.ok) throw new Error(`manifiesto: ${r.status}`);
   return r.json();
 }
 
-// Filas de una cobertura: rango contiguo [inicio, fin) del archivo de la ciudad
-async function leerCobertura(ciudad, dias) {
-  // La clave incluye el supermercado: "nacional" existe en varias fuentes
-  const clave = `${estado.supermercado}/${ciudad}/${dias}`;
-  if (!estado.cache.has(clave)) {
-    const info = estado.ciudades[ciudad];
-    const rango = info.coberturas[dias];
-    const { file, metadata } = await abrirArchivo(`parquet/${info.archivo}`, info.bytes);
-    const filas = await parquetReadObjects({
-      file,
-      metadata,
-      columns: COLUMNAS_LECTURA,
-      rowStart: rango.inicio,
-      rowEnd: rango.fin,
-    });
-    // hyparquet devuelve int64 como BigInt; los códigos caben en Number
-    for (const f of filas) f.id_producto = Number(f.id_producto);
-    estado.cache.set(clave, filas);
-  }
-  return estado.cache.get(clave);
+// Esta página es de una publicación anterior a los datos: se recarga una vez
+function recargarPorEsquema() {
+  if (leerSesion("recarga-esquema")) return false;
+  guardarSesion("recarga-esquema", "1");
+  location.reload();
+  return true;
 }
 
-// Ranking de clasificaciones por cobertura: archivo pequeño, se descarga completo una vez
-const rankings = new Map();
-function leerRanking(ciudad) {
-  const clave = `${estado.supermercado}/${ciudad}`;
-  if (!rankings.has(clave)) {
-    const info = estado.ciudades[ciudad];
-    const promesa = abrirArchivo(`parquet/${info.ranking}`, info.bytes_ranking)
-      .then(({ file, metadata }) =>
-        parquetReadObjects({
-          file,
-          metadata,
-          columns: ["dias", "tipo", "grupo", "n", "promedio", "promedio_cambio"],
-        })
-      );
-    rankings.set(clave, promesa);
+// Columnas -> filas. Los precios vienen en centavos; el cambio se calcula aquí.
+function filasDesdeColumnas(d) {
+  const n = d.producto.length;
+  const filas = new Array(n);
+  const texto = (tipo, i) => (d[tipo][i] < 0 ? null : d.dic[tipo][d[tipo][i]]);
+  for (let i = 0; i < n; i++) {
+    const previo = d.previo[i] / 100;
+    const hoy = d.hoy[i] / 100;
+    filas[i] = {
+      i,
+      producto: d.producto[i],
+      categoria: texto("categoria", i),
+      subcategoria: texto("subcategoria", i),
+      proveedor: texto("proveedor", i),
+      previo,
+      hoy,
+      cambio: hoy / previo - 1,
+    };
   }
-  return rankings.get(clave);
+  return filas;
+}
+
+const cabezas = new Map(); // ruta -> promesa de { completo, ranking, filas }
+const completos = new Map(); // ruta -> promesa de filas
+const completosListos = new Map(); // ruta -> filas, solo si ya llegaron
+
+function leerCabeza(ruta, dias) {
+  if (!cabezas.has(ruta)) {
+    const p = pedirJSON(ruta).then((d) => ({
+      completo: d.completo,
+      ranking: d.ranking.map((g) => ({ ...g, dias })),
+      filas: filasDesdeColumnas(d.filas),
+    }));
+    p.catch(() => cabezas.delete(ruta));
+    cabezas.set(ruta, p);
+  }
+  return cabezas.get(ruta);
+}
+
+function leerCompleto(ruta) {
+  if (!completos.has(ruta)) {
+    const p = pedirJSON(ruta).then((d) => {
+      const filas = filasDesdeColumnas(d);
+      completosListos.set(ruta, filas);
+      return filas;
+    });
+    p.catch(() => completos.delete(ruta));
+    completos.set(ruta, p);
+  }
+  return completos.get(ruta);
 }
 
 // ---------- estado ----------
@@ -177,14 +211,16 @@ function leerRanking(ciudad) {
 const estado = {
   clasificacion: null, // { tipo, grupo } elegido en el ranking; null = sin filtro
   ranking: [],
-  manifiesto: null,
+  manifiesto: null, // solo supermercados y ciudades vigentes
+  generado: null, // identificador del manifiesto publicado que se está usando
+  completo: false, // dataDia tiene todas las filas (y no solo la cabeza)
+  error: false,
   supermercado: null,
   ciudades: null,
   ciudad: null,
   ciudadRecordada: {}, // última ciudad elegida por supermercado con ciudades
   dia: null,
   dataDia: [],
-  cache: new Map(),
   token: 0,
 };
 
@@ -467,17 +503,25 @@ function renderBusqueda(query = "") {
 
 function actualizarTabla() {
   const query = $("#busqueda input").value;
+  const filtrando = estado.clasificacion !== null || query.trim() !== "";
+  // Con solo la cabeza, filtrar daría resultados incompletos: se espera al archivo completo
+  const esperando = !estado.completo && filtrando;
+  mostrarCarga(esperando);
+  if (esperando) {
+    $("#busqueda output").textContent = "cargando…";
+    return;
+  }
   const base = estado.clasificacion
     ? estado.dataDia.filter((f) => f[estado.clasificacion.tipo] === estado.clasificacion.grupo)
     : estado.dataDia;
   const resultado = filtrar(base, query, ["producto", "subcategoria"]);
-  $("#busqueda output").textContent = `${resultado.length} productos`;
+  $("#busqueda output").textContent = `${(estado.completo ? resultado.length : coberturaActual().n).toLocaleString("en")} productos`;
   renderTabla(resultado);
 }
 
 // ---------- tabla ----------
 
-// Filas con el nombre expandido en móvil (por id_producto). Se reinicia al cambiar de selección.
+// Filas con el nombre expandido en móvil (por posición en el archivo). Se reinicia al cambiar de selección.
 const expandidas = new Set();
 
 // Alterna el nombre de una fila entre una línea y todo el texto, animando la altura.
@@ -541,14 +585,14 @@ function renderTabla(filas) {
 
   const filaEl = (f) => {
     const tr = el("tr");
-    tr.append(el("td", {}, [el("input", { type: "checkbox", value: f.id_producto, disabled: true })]));
+    tr.append(el("td", {}, [el("input", { type: "checkbox", value: f.i, disabled: true })]));
     for (const c of columnas) {
       const v = f[c.clave];
       const td = el("td", { class: c.derecha ? "num" : null });
       if (c.clave === "producto") {
         const texto = el("div", {
-          class: expandidas.has(String(f.id_producto)) ? "nombre-texto expandida" : "nombre-texto",
-          "data-id": f.id_producto,
+          class: expandidas.has(String(f.i)) ? "nombre-texto expandida" : "nombre-texto",
+          "data-id": f.i,
         });
         if (definido(v)) texto.textContent = c.fmt(v);
         td.append(texto);
@@ -596,6 +640,8 @@ function renderTabla(filas) {
   cabeceras.forEach((th) => {
     if (th._clave === "cambio") return; // sin orden propio: sigue el control "precios que"
     th.addEventListener("click", (ev) => {
+      // Con solo la cabeza, ordenar mostraría un subconjunto
+      if (!estado.completo) return;
       if (orden.clave === th._clave) {
         orden = { clave: th._clave, desc: !orden.desc };
       } else {
@@ -691,29 +737,130 @@ function animarAltura(elemento, cambiar) {
   setTimeout(terminar, 300); // respaldo si el evento de fin no llega
 }
 
+function coberturaActual() {
+  return coberturas()[estado.dia];
+}
+
+// Si la clasificación elegida ya no está en el ranking (datos nuevos), se quita el filtro
+function validarClasificacion() {
+  const c = estado.clasificacion;
+  if (!c) return;
+  const dias = Number(estado.dia);
+  if (!estado.ranking.some((g) => g.dias === dias && g.tipo === c.tipo && g.grupo === c.grupo)) {
+    estado.clasificacion = null;
+  }
+}
+
+function pintarDia(query) {
+  expandidas.clear();
+  validarClasificacion();
+  animarAltura(document.querySelector(".controles"), renderClasificaciones);
+  renderBusqueda(query);
+}
+
 async function renderDia({ conservarBusqueda = true } = {}) {
   const token = ++estado.token;
   const query = conservarBusqueda ? $("#busqueda input")?.value ?? "" : "";
+  const cob = coberturaActual();
   performance.mark(`cobertura-pedida-${estado.dia}`);
   mostrarCarga(true);
+  estado.error = false;
+  revisarEnSegundoPlano();
   try {
-    const [filas, ranking] = await Promise.all([
-      leerCobertura(estado.ciudad, estado.dia),
-      leerRanking(estado.ciudad).catch((e) => {
-        console.error(e);
-        return [];
-      }),
-    ]);
+    const completoListo = cob.datos ? completosListos.get(cob.datos) : null;
+    // El archivo completo se pide ya, en paralelo con la cabeza
+    const pedidoCompleto = cob.datos && !completoListo ? leerCompleto(cob.datos) : null;
+    pedidoCompleto?.catch(() => {}); // el error se atiende más abajo, si la selección sigue vigente
+    const cabeza = await leerCabeza(cob.cabeza, Number(estado.dia));
     if (token !== estado.token) return; // llegó una selección más reciente
-    // Solo filas con precio hoy y previo; el orden ya viene del archivo
-    estado.dataDia = filas;
-    estado.ranking = ranking;
+    estado.ranking = cabeza.ranking;
+    const listo = cob.datos ? completosListos.get(cob.datos) : null;
+    estado.completo = cabeza.completo || Boolean(listo);
+    estado.dataDia = listo ?? cabeza.filas;
+    pintarDia(query);
+    if (estado.completo) return;
+    performance.mark(`cabeza-lista-${estado.dia}`);
+    estado.dataDia = await pedidoCompleto;
+    if (token !== estado.token) return;
+    estado.completo = true;
     expandidas.clear();
-    animarAltura(document.querySelector(".controles"), renderClasificaciones);
-    renderBusqueda(query);
+    actualizarTabla();
+  } catch (e) {
+    if (token !== estado.token) return;
+    console.error(e);
+    // Un archivo puede haber desaparecido por una publicación nueva: se revisa el manifiesto.
+    // Si cambió, esa revisión ya vuelve a pintar la selección.
+    if (await revisarManifiesto()) return;
+    if (token !== estado.token) return;
+    estado.error = true;
+    $("#tabla").textContent = "No se pudieron cargar los datos.";
   } finally {
-    if (token === estado.token) mostrarCarga(false);
+    if (token === estado.token && (estado.completo || estado.error)) mostrarCarga(false);
   }
+}
+
+// ---------- manifiesto vigente ----------
+
+let revisando = null;
+
+// Pide el manifiesto. Si hay una publicación nueva, lo adopta y vuelve a pintar la selección
+// actual conservando búsqueda y clasificación. Devuelve true si cambió.
+function revisarManifiesto() {
+  if (!revisando) {
+    ultimaRevision = Date.now();
+    revisando = (async () => {
+      try {
+        const nuevo = await cargarManifiesto();
+        if (nuevo.generado === estado.generado) return false;
+        await adoptarManifiesto(nuevo);
+        return true;
+      } catch (e) {
+        if (e instanceof EsquemaDistinto) recargarPorEsquema();
+        else console.warn("No se pudo revisar el manifiesto", e);
+        return false;
+      } finally {
+        revisando = null;
+      }
+    })();
+  }
+  return revisando;
+}
+
+async function adoptarManifiesto(nuevo) {
+  const supers = filtrarVigentes(nuevo.supermercados);
+  estado.generado = nuevo.generado;
+  estado.manifiesto = { ...nuevo, supermercados: supers };
+  if (!Object.keys(supers).length) return;
+  if (!estado.supermercado) return; // todavía en el inicio: lo termina iniciar()
+  if (!supers[estado.supermercado]) estado.supermercado = Object.keys(supers)[0];
+  estado.ciudades = supers[estado.supermercado].ciudades;
+  if (!estado.ciudades[estado.ciudad]) estado.ciudad = Object.keys(estado.ciudades)[0];
+  estado.dia = coberturaCercana(estado.dia);
+  renderSupermercados();
+  renderCiudades();
+  renderTiempo();
+  await renderDia();
+}
+
+// Una pestaña puede quedar abierta días: al volver a ella se revisa si hay datos nuevos.
+// También se revisa en segundo plano al hacer una selección (sin esperar el resultado).
+let ultimaRevision = Date.now();
+function revisarEnSegundoPlano() {
+  if (Date.now() - ultimaRevision < REVISION_MIN_MS) return;
+  revisarManifiesto();
+}
+
+function vigilarManifiesto() {
+  const revisar = () => {
+    if (document.visibilityState !== "visible") return;
+    revisarManifiesto().then((cambio) => {
+      // Si la última carga falló (sin red) y no hubo cambio, se reintenta
+      if (!cambio && estado.error) renderDia();
+    });
+  };
+  document.addEventListener("visibilitychange", revisar);
+  window.addEventListener("online", revisar);
+  window.addEventListener("pageshow", (ev) => ev.persisted && revisar());
 }
 
 function fechaHace(dias) {
@@ -747,10 +894,12 @@ function leerCiudadesRecordadas() {
 async function iniciar() {
   performance.mark("inicio");
   mostrarCarga(true);
+  let inicial;
   try {
-    estado.manifiesto = await cargarManifiesto();
+    inicial = await cargarManifiesto();
     performance.mark("manifiesto");
   } catch (e) {
+    if (e instanceof EsquemaDistinto && recargarPorEsquema()) return;
     console.error(e);
     mostrarCarga(false);
     $("#tabla").textContent = "No se pudieron cargar los datos.";
@@ -758,8 +907,9 @@ async function iniciar() {
   }
 
 
-  const supers = filtrarVigentes(estado.manifiesto.supermercados);
-  estado.manifiesto.supermercados = supers;
+  const supers = filtrarVigentes(inicial.supermercados);
+  estado.generado = inicial.generado;
+  estado.manifiesto = { ...inicial, supermercados: supers };
   if (!Object.keys(supers).length) {
     $("#supermercados").replaceChildren();
     $("#tabla").textContent = "No hay supermercados con datos recientes.";
@@ -778,6 +928,7 @@ async function iniciar() {
   renderSupermercados();
   renderDireccion();
   await seleccionarSupermercado(supermercado);
+  vigilarManifiesto();
 }
 
 iniciar();
