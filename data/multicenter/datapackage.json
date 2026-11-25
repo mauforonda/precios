@@ -2,7 +2,17 @@
   "$schema": "https://datapackage.org/profiles/2.0/datapackage.json",
   "name": "multicenter",
   "title": "Multicenter: productos y precios diarios",
-  "description": "Catálogo de productos y precios diarios de Multicenter, a nivel nacional. Un archivo de precios por mes (AAAA_MM.csv).",
+  "description": "Catálogo de productos y precios diarios de Multicenter (hogar, ferretería, juguetes, decoración, tecnología; casi sin alimentos; tienda VTEX), a nivel nacional, desde 2025-06-15. Un archivo de precios por mes (AAAA_MM.csv). Sirve para bienes durables y del hogar, no para alimentos. Sus precios cambian mucho (cerca del 9 % de los productos por día) y cerca de 3 de cada 10 cambios se revierten en la observación siguiente: probablemente rebajas temporales. Para medir inflación usar promedios mensuales y no cambios diarios. Cada producto tiene una sola categoría, la primera que declara la tienda. Cobertura al día (fechas, días sin datos, productos): cobertura.json en la raíz del repositorio.",
+  "homepage": "https://github.com/mauforonda/precios",
+  "keywords": [
+    "precios",
+    "Bolivia",
+    "inflación",
+    "supermercados",
+    "series diarias",
+    "hogar",
+    "ferretería"
+  ],
   "sources": [
     {
       "title": "Multicenter",
@@ -15,28 +25,39 @@
       "path": "productos.csv",
       "format": "csv",
       "mediatype": "text/csv",
-      "description": "Catálogo de productos.",
+      "encoding": "utf-8",
+      "description": "Catálogo de productos. Algunos nombres tienen texto dañado (por ejemplo 'NescafÃ©'); se repara con texto.encode('latin-1').decode('utf-8').",
       "schema": {
         "fields": [
           {
             "name": "id_producto",
             "type": "integer",
-            "description": "Código del producto en la tienda."
+            "description": "Código del producto en la tienda.",
+            "constraints": {
+              "required": true,
+              "unique": true
+            }
           },
           {
             "name": "producto",
             "type": "string",
-            "description": "Nombre del producto."
+            "description": "Nombre del producto. Incluye peso o volumen cuando la tienda lo publica en el nombre.",
+            "constraints": {
+              "required": true
+            }
           },
           {
             "name": "proveedor",
             "type": "string",
-            "description": "Proveedor o marca."
+            "description": "Marca o proveedor que declara la tienda."
           },
           {
             "name": "categoria",
             "type": "string",
-            "description": "Categoría. Vacía si la tienda no la publica."
+            "description": "Ruta de categorías con barras: /Nivel1/Nivel2/Nivel3/ (24 valores en Nivel1). Separar por '/'. Algunos niveles se repiten con otras mayúsculas ('Tecnología' y 'tecnología', 'Navidad' y 'navidad').",
+            "missingValues": [
+              ""
+            ]
           }
         ],
         "primaryKey": [
@@ -49,28 +70,45 @@
       "path": "precios/*.csv",
       "format": "csv",
       "mediatype": "text/csv",
-      "description": "Precios diarios, un archivo por mes.",
+      "encoding": "utf-8",
+      "description": "Precios diarios, un archivo por mes. Algunos productos tienen filas con precio 0 (sin precio). Cada día solo hay fila de los productos listados ese día: el conjunto cambia con el tiempo. Una fila ausente no es un precio cero ni un cambio de precio. La clave lógica es (fecha, id_producto), pero puede haber filas idénticas repetidas (ejecuciones repetidas el mismo día; nunca con precios distintos). Usar SELECT DISTINCT antes de agregar.",
       "schema": {
         "fields": [
           {
             "name": "fecha",
-            "type": "date",
-            "description": "Día del precio."
+            "type": "datetime",
+            "description": "Día en que se consultó el precio, en hora de La Paz. Incluye una hora siempre igual a 00:00:00; usar fecha::DATE.",
+            "format": "%Y-%m-%d %H:%M:%S",
+            "constraints": {
+              "required": true
+            }
           },
           {
             "name": "id_producto",
             "type": "integer",
-            "description": "Código del producto. Une con productos.csv."
+            "description": "Código del producto en la tienda. Une con productos.csv.",
+            "constraints": {
+              "required": true
+            }
           },
           {
             "name": "precio",
             "type": "number",
-            "description": "Precio de venta en bolivianos ese día."
+            "description": "Precio de venta en bolivianos (BOB) ese día. El valor 0 significa que no había precio: excluir precio > 0 en cálculos.",
+            "constraints": {
+              "required": true,
+              "minimum": 0
+            }
           }
         ],
-        "primaryKey": [
-          "fecha",
-          "id_producto"
+        "foreignKeys": [
+          {
+            "fields": "id_producto",
+            "reference": {
+              "resource": "productos",
+              "fields": "id_producto"
+            }
+          }
         ]
       }
     }

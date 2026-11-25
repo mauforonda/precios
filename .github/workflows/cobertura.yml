@@ -1,0 +1,63 @@
+name: Cobertura
+
+on:
+  # Después de cada actualización de datos exitosa
+  workflow_run:
+    workflows:
+      - "Update Hipermaxi"
+      - "Update multicenter"
+      - "Update Fidalga Farmacorp"
+      - "Update ICNorte"
+    types: [completed]
+  # Manual
+  workflow_dispatch:
+
+# Una ejecución a la vez: solo este flujo escribe cobertura.json y la tabla del readme
+concurrency:
+  group: cobertura
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  cobertura:
+    name: cobertura
+    if: ${{ github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success' }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout
+        uses: actions/checkout@v4
+        with:
+          ref: master
+
+      - name: python setup
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+          cache-dependency-path: update/requirements_cobertura.txt
+
+      - name: python install
+        run: pip install -r update/requirements_cobertura.txt
+
+      - name: cobertura
+        run: python update/cobertura.py
+
+      - name: commit
+        run: |
+          git config --global user.email "precios-bot@example.com"
+          git config --global user.name "precios-bot"
+          git add cobertura.json readme.md
+          if ! git diff --cached --quiet; then
+            git commit -m "[ci] cobertura: $(date '+%Y-%m-%d')"
+            for attempt in 1 2 3; do
+              git pull --rebase origin master
+              if git push -q origin HEAD:master; then
+                exit 0
+              fi
+              echo "Push failed on attempt $attempt; retrying after syncing with master."
+            done
+            echo "Push failed after 3 attempts." >&2
+            exit 1
+          fi

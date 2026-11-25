@@ -1,0 +1,543 @@
+{
+  "datos_al": "2026-11-24",
+  "moneda": "BOB",
+  "series": [
+    {
+      "fuente": "hipermaxi",
+      "nombre": "Hipermaxi",
+      "ciudad": "la_paz",
+      "ciudad_nombre": "La Paz",
+      "desde": "2024-07-28",
+      "hasta": "2026-11-24",
+      "dias_con_datos": 840,
+      "dias_sin_datos": 10,
+      "rangos_sin_datos": [
+        "2025-06-04 a 2025-06-10",
+        "2025-12-22",
+        "2026-01-11",
+        "2026-03-12"
+      ],
+      "productos_historicos": 23111,
+      "productos_ultimo_dia": 13823,
+      "productos_por_dia_min": 10714,
+      "productos_por_dia_max": 13881,
+      "filas": 10094195,
+      "filas_repetidas": 9,
+      "filas_precio_cero": 0,
+      "categorias_ultimo_dia": [
+        {
+          "categoria": "Abarrotes",
+          "productos": 4908
+        },
+        {
+          "categoria": "Cuidado Personal",
+          "productos": 2414
+        },
+        {
+          "categoria": "Bebidas",
+          "productos": 1527
+        },
+        {
+          "categoria": "Cuidado del Hogar",
+          "productos": 1254
+        },
+        {
+          "categoria": "Bazar Importación",
+          "productos": 769
+        },
+        {
+          "categoria": "Bazar",
+          "productos": 703
+        },
+        {
+          "categoria": "Lácteos y Derivados",
+          "productos": 564
+        },
+        {
+          "categoria": "Congelados",
+          "productos": 476
+        },
+        {
+          "categoria": "Cuidado del Bebé",
+          "productos": 321
+        },
+        {
+          "categoria": "Fiambres",
+          "productos": 221
+        },
+        {
+          "categoria": "Panadería",
+          "productos": 199
+        },
+        {
+          "categoria": "Pastelería y Masas Típicas",
+          "productos": 141
+        },
+        {
+          "categoria": "Frutas y Verduras",
+          "productos": 101
+        },
+        {
+          "categoria": "Carnes",
+          "productos": 84
+        },
+        {
+          "categoria": "Juguetería Importación",
+          "productos": 58
+        },
+        {
+          "categoria": "Juguetería",
+          "productos": 55
+        },
+        {
+          "categoria": "Granos y Hortalizas",
+          "productos": 23
+        },
+        {
+          "categoria": "TEXTILES Y ZAPATOS",
+          "productos": 3
+        },
+        {
+          "categoria": "IMPORTACIONES TEXTIL",
+          "productos": 2
+        }
+      ]
+    },
+    {
+      "fuente": "hipermaxi",
+      "nombre": "Hipermaxi",
+      "ciudad": "cochabamba",
+      "ciudad_nombre": "Cochabamba",
+      "desde": "2024-07-28",
+      "hasta": "2026-11-24",
+      "dias_con_datos": 840,
+      "dias_sin_datos": 10,
+      "rangos_sin_datos": [
+        "2025-06-04 a 2025-06-10",
+        "2025-12-22",
+        "2026-01-11",
+        "2026-03-12"
+      ],
+      "productos_historicos": 22838,
+      "productos_ultimo_dia": 13296,
+      "productos_por_dia_min": 10333,
+      "productos_por_dia_max": 13520,
+      "filas": 9994194,
+      "filas_repetidas": 55,
+      "filas_precio_cero": 0,
+      "categorias_ultimo_dia": [
+        {
+          "categoria": "Abarrotes",
+          "productos": 4527
+        },
+        {
+          "categoria": "Cuidado Personal",
+          "productos": 2440
+        },
+        {
+          "categoria": "Bebidas",
+          "productos": 1384
+        },
+        {
+          "categoria": "Cuidado del Hogar",
+          "productos": 1265
+        },
+        {
+          "categoria": "Bazar Importación",
+          "productos": 766
+        },
+        {
+          "categoria": "Bazar",
+          "productos": 745
+        },
+        {
+          "categoria": "Lácteos y Derivados",
+          "productos": 498
+        },
+        {
+          "categoria": "Congelados",
+          "productos": 481
+        },
+        {
+          "categoria": "Cuidado del Bebé",
+          "productos": 313
+        },
+        {
+          "categoria": "Fiambres",
+          "productos": 232
+        },
+        {
+          "categoria": "Panadería",
+          "productos": 177
+        },
+        {
+          "categoria": "Pastelería y Masas Típicas",
+          "productos": 170
+        },
+        {
+          "categoria": "Carnes",
+          "productos": 89
+        },
+        {
+          "categoria": "Frutas y Verduras",
+          "productos": 61
+        },
+        {
+          "categoria": "Juguetería",
+          "productos": 56
+        },
+        {
+          "categoria": "Juguetería Importación",
+          "productos": 54
+        },
+        {
+          "categoria": "Granos y Hortalizas",
+          "productos": 19
+        },
+        {
+          "categoria": "IMPORTACIONES TEXTIL",
+          "productos": 14
+        },
+        {
+          "categoria": "TEXTILES Y ZAPATOS",
+          "productos": 5
+        }
+      ]
+    },
+    {
+      "fuente": "hipermaxi",
+      "nombre": "Hipermaxi",
+      "ciudad": "santa_cruz",
+      "ciudad_nombre": "Santa Cruz",
+      "desde": "2024-07-28",
+      "hasta": "2026-11-24",
+      "dias_con_datos": 840,
+      "dias_sin_datos": 10,
+      "rangos_sin_datos": [
+        "2025-06-04 a 2025-06-10",
+        "2025-12-22",
+        "2026-01-11",
+        "2026-03-12"
+      ],
+      "productos_historicos": 22717,
+      "productos_ultimo_dia": 13489,
+      "productos_por_dia_min": 10362,
+      "productos_por_dia_max": 13494,
+      "filas": 9907591,
+      "filas_repetidas": 36,
+      "filas_precio_cero": 0,
+      "categorias_ultimo_dia": [
+        {
+          "categoria": "Abarrotes",
+          "productos": 4025
+        },
+        {
+          "categoria": "Cuidado Personal",
+          "productos": 2070
+        },
+        {
+          "categoria": "Cuidado del Hogar",
+          "productos": 1652
+        },
+        {
+          "categoria": "Bebidas",
+          "productos": 1480
+        },
+        {
+          "categoria": "Bazar Importación",
+          "productos": 996
+        },
+        {
+          "categoria": "Bazar",
+          "productos": 864
+        },
+        {
+          "categoria": "Congelados",
+          "productos": 507
+        },
+        {
+          "categoria": "Lácteos y Derivados",
+          "productos": 464
+        },
+        {
+          "categoria": "Cuidado del Bebé",
+          "productos": 361
+        },
+        {
+          "categoria": "Fiambres",
+          "productos": 239
+        },
+        {
+          "categoria": "Panadería",
+          "productos": 213
+        },
+        {
+          "categoria": "Frutas y Verduras",
+          "productos": 155
+        },
+        {
+          "categoria": "Pastelería y Masas Típicas",
+          "productos": 136
+        },
+        {
+          "categoria": "Juguetería",
+          "productos": 76
+        },
+        {
+          "categoria": "Cuidados Otc",
+          "productos": 71
+        },
+        {
+          "categoria": "Carnes",
+          "productos": 63
+        },
+        {
+          "categoria": "Juguetería Importación",
+          "productos": 53
+        },
+        {
+          "categoria": "Granos y Hortalizas",
+          "productos": 32
+        },
+        {
+          "categoria": "TEXTILES Y ZAPATOS",
+          "productos": 24
+        },
+        {
+          "categoria": "Farmacia Otc",
+          "productos": 7
+        },
+        {
+          "categoria": "Farmacia Éticos",
+          "productos": 1
+        }
+      ]
+    },
+    {
+      "fuente": "fidalga",
+      "nombre": "Fidalga",
+      "ciudad": "nacional",
+      "ciudad_nombre": "Nacional",
+      "desde": "2025-06-13",
+      "hasta": "2026-11-24",
+      "dias_con_datos": 530,
+      "dias_sin_datos": 0,
+      "rangos_sin_datos": [],
+      "productos_historicos": 1128,
+      "productos_ultimo_dia": 879,
+      "productos_por_dia_min": 493,
+      "productos_por_dia_max": 879,
+      "filas": 389102,
+      "filas_repetidas": 0,
+      "filas_precio_cero": 169,
+      "categorias_ultimo_dia": []
+    },
+    {
+      "fuente": "farmacorp",
+      "nombre": "Farmacorp",
+      "ciudad": "nacional",
+      "ciudad_nombre": "Nacional",
+      "desde": "2025-06-13",
+      "hasta": "2026-11-24",
+      "dias_con_datos": 530,
+      "dias_sin_datos": 0,
+      "rangos_sin_datos": [],
+      "productos_historicos": 24132,
+      "productos_ultimo_dia": 16605,
+      "productos_por_dia_min": 12459,
+      "productos_por_dia_max": 16972,
+      "filas": 8228923,
+      "filas_repetidas": 1636,
+      "filas_precio_cero": 946,
+      "categorias_ultimo_dia": []
+    },
+    {
+      "fuente": "multicenter",
+      "nombre": "Multicenter",
+      "ciudad": "nacional",
+      "ciudad_nombre": "Nacional",
+      "desde": "2025-06-15",
+      "hasta": "2026-11-24",
+      "dias_con_datos": 528,
+      "dias_sin_datos": 0,
+      "rangos_sin_datos": [],
+      "productos_historicos": 23559,
+      "productos_ultimo_dia": 10841,
+      "productos_por_dia_min": 9625,
+      "productos_por_dia_max": 12689,
+      "filas": 5913034,
+      "filas_repetidas": 245,
+      "filas_precio_cero": 4156,
+      "categorias_ultimo_dia": [
+        {
+          "categoria": "Herramientas",
+          "productos": 2295
+        },
+        {
+          "categoria": "Hogar",
+          "productos": 1625
+        },
+        {
+          "categoria": "Juguetería",
+          "productos": 1026
+        },
+        {
+          "categoria": "navidad",
+          "productos": 671
+        },
+        {
+          "categoria": "Dormitorio y Baño",
+          "productos": 602
+        },
+        {
+          "categoria": "Oficina",
+          "productos": 531
+        },
+        {
+          "categoria": "Electrohogar",
+          "productos": 520
+        },
+        {
+          "categoria": "tecnología",
+          "productos": 507
+        },
+        {
+          "categoria": "Decoración",
+          "productos": 428
+        },
+        {
+          "categoria": "Muebles",
+          "productos": 422
+        },
+        {
+          "categoria": "Jardineria",
+          "productos": 405
+        },
+        {
+          "categoria": "Alimentos y Bebidas",
+          "productos": 299
+        },
+        {
+          "categoria": "Camping",
+          "productos": 260
+        },
+        {
+          "categoria": "Viaje y regalos",
+          "productos": 245
+        },
+        {
+          "categoria": "Iluminación",
+          "productos": 244
+        },
+        {
+          "categoria": "Limpieza & Bioseguridad",
+          "productos": 235
+        },
+        {
+          "categoria": "Mascotas",
+          "productos": 190
+        },
+        {
+          "categoria": "Deportes y Ocio",
+          "productos": 144
+        },
+        {
+          "categoria": "Exteriores",
+          "productos": 92
+        },
+        {
+          "categoria": "Bebés",
+          "productos": 59
+        },
+        {
+          "categoria": "Pinturas",
+          "productos": 40
+        },
+        {
+          "categoria": "Caja",
+          "productos": 1
+        }
+      ]
+    },
+    {
+      "fuente": "icnorte",
+      "nombre": "IC Norte",
+      "ciudad": "nacional",
+      "ciudad_nombre": "Nacional",
+      "desde": "2025-06-15",
+      "hasta": "2026-09-24",
+      "dias_con_datos": 467,
+      "dias_sin_datos": 0,
+      "rangos_sin_datos": [],
+      "productos_historicos": 1775,
+      "productos_ultimo_dia": 1771,
+      "productos_por_dia_min": 1771,
+      "productos_por_dia_max": 1773,
+      "filas": 827457,
+      "filas_repetidas": 0,
+      "filas_precio_cero": 0,
+      "categorias_ultimo_dia": [
+        {
+          "categoria": "CUIDADO PERSONAL",
+          "productos": 1102
+        },
+        {
+          "categoria": "ABARROTES Y DESPENSA",
+          "productos": 920
+        },
+        {
+          "categoria": "LIMPIEZA Y DETERGENTES",
+          "productos": 434
+        },
+        {
+          "categoria": "Panadería y Repostería",
+          "productos": 172
+        },
+        {
+          "categoria": "FRUTAS Y VERDURAS",
+          "productos": 162
+        },
+        {
+          "categoria": "CARNES, MARISCOS Y PESCADO",
+          "productos": 162
+        },
+        {
+          "categoria": "BEBIDAS, CERVEZAS Y LICORES",
+          "productos": 156
+        },
+        {
+          "categoria": "BEBÉS",
+          "productos": 148
+        },
+        {
+          "categoria": "LÁCTEOS",
+          "productos": 114
+        },
+        {
+          "categoria": "Fiambres y Quesos",
+          "productos": 92
+        },
+        {
+          "categoria": "MASCOTAS",
+          "productos": 58
+        },
+        {
+          "categoria": "Automotriz",
+          "productos": 22
+        }
+      ]
+    }
+  ],
+  "ketal": {
+    "fuente": "ketal",
+    "nombre": "Ketal",
+    "ciudad": "nacional",
+    "ciudad_nombre": "Nacional",
+    "desde": "2021-11-15",
+    "hasta": "2022-10-31",
+    "dias_con_datos": 346,
+    "dias_sin_datos": 5,
+    "productos_historicos": 10011,
+    "filas": 1967395
+  }
+}

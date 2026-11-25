@@ -2,7 +2,15 @@
   "$schema": "https://datapackage.org/profiles/2.0/datapackage.json",
   "name": "hipermaxi",
   "title": "Hipermaxi: productos y precios diarios",
-  "description": "Catálogo de productos y precios diarios de Hipermaxi en La Paz, Cochabamba y Santa Cruz. Un archivo de precios por ciudad y mes (AAAA_MM.csv).",
+  "description": "Catálogo de productos y precios diarios de Hipermaxi (supermercado) en La Paz, Cochabamba y Santa Cruz, desde 2024-07-28. Un archivo de precios por ciudad y mes (AAAA_MM.csv). Es la fuente con más historia y más productos de supermercado del repositorio. Los precios de cada ciudad vienen de una sola sucursal: Achumani (La Paz, id 34), Sacaba (Cochabamba, id 48) y Las Brisas (Santa Cruz, id 91). El catálogo es compartido entre ciudades, pero cerca de la mitad de los productos no está en las tres. Los precios cambian poco (menos del 1 % de los productos por día). Cobertura al día (fechas, días sin datos, productos): cobertura.json en la raíz del repositorio.",
+  "homepage": "https://github.com/mauforonda/precios",
+  "keywords": [
+    "precios",
+    "Bolivia",
+    "inflación",
+    "supermercados",
+    "series diarias"
+  ],
   "sources": [
     {
       "title": "Hipermaxi",
@@ -15,28 +23,36 @@
       "path": "productos.csv",
       "format": "csv",
       "mediatype": "text/csv",
-      "description": "Catálogo de productos.",
+      "encoding": "utf-8",
+      "description": "Catálogo de todos los productos vistos desde 2024-07-28, incluidos los que ya no se venden. Se conserva el último nombre y categoría de cada producto. Compartido por las tres ciudades.",
       "schema": {
         "fields": [
           {
             "name": "id_producto",
             "type": "integer",
-            "description": "Código del producto en la tienda."
+            "description": "Código del producto en la tienda.",
+            "constraints": {
+              "required": true,
+              "unique": true
+            }
           },
           {
             "name": "producto",
             "type": "string",
-            "description": "Nombre del producto."
+            "description": "Nombre del producto. Incluye peso o volumen cuando la tienda lo publica en el nombre.",
+            "constraints": {
+              "required": true
+            }
           },
           {
             "name": "categoria",
             "type": "string",
-            "description": "Categoría."
+            "description": "Categoría (27 valores). Algunas categorías pequeñas están repetidas con otro nombre, por ejemplo 'Cuidados Otc' y 'CUDADOS OTC'."
           },
           {
             "name": "subcategoria",
             "type": "string",
-            "description": "Subcategoría."
+            "description": "Subcategoría dentro de la categoría."
           }
         ],
         "primaryKey": [
@@ -49,13 +65,18 @@
       "path": "sucursales.csv",
       "format": "csv",
       "mediatype": "text/csv",
-      "description": "Sucursales y su región.",
+      "encoding": "utf-8",
+      "description": "Sucursales activas y su región. Es una referencia: los precios no son por sucursal (ver descripción del paquete) y la consulta de sucursales está desactivada en update/hipermaxi.py, por lo que el archivo no se actualiza.",
       "schema": {
         "fields": [
           {
             "name": "id_sucursal",
             "type": "integer",
-            "description": "Código de la sucursal."
+            "description": "Código de la sucursal.",
+            "constraints": {
+              "required": true,
+              "unique": true
+            }
           },
           {
             "name": "sucursal",
@@ -65,13 +86,16 @@
           {
             "name": "id_region",
             "type": "integer",
-            "description": "Código de la región."
+            "description": "Código de la región: 1 Santa Cruz, 2 La Paz, 3 Cochabamba."
           },
           {
             "name": "region",
             "type": "string",
             "description": "Nombre de la región."
           }
+        ],
+        "primaryKey": [
+          "id_sucursal"
         ]
       }
     },
@@ -80,33 +104,55 @@
       "path": "la_paz/*.csv",
       "format": "csv",
       "mediatype": "text/csv",
-      "description": "Precios diarios en La Paz, un archivo por mes.",
+      "encoding": "utf-8",
+      "description": "Precios diarios en La Paz (sucursal Achumani), un archivo por mes. No hay datos del 2025-06-04 al 2025-06-10, ni del 2025-12-22, 2026-01-11 y 2026-03-12. Cada día solo hay fila de los productos listados ese día: el conjunto cambia con el tiempo. Una fila ausente no es un precio cero ni un cambio de precio. La clave lógica es (fecha, id_producto), pero puede haber filas idénticas repetidas (ejecuciones repetidas el mismo día; nunca con precios distintos). Usar SELECT DISTINCT antes de agregar.",
       "schema": {
         "fields": [
           {
             "name": "fecha",
             "type": "date",
-            "description": "Día del precio."
+            "description": "Día en que se consultó el precio, en hora de La Paz.",
+            "constraints": {
+              "required": true
+            }
           },
           {
             "name": "id_producto",
             "type": "integer",
-            "description": "Código del producto. Une con productos.csv."
+            "description": "Código del producto en la tienda. Une con productos.csv.",
+            "constraints": {
+              "required": true
+            }
           },
           {
             "name": "precio",
             "type": "number",
-            "description": "Precio de venta en bolivianos ese día."
+            "description": "Precio de venta en bolivianos (BOB) ese día. Si oferta = 1, es el precio rebajado. El valor 0 significa que no había precio: excluir precio > 0 en cálculos.",
+            "constraints": {
+              "required": true,
+              "minimum": 0
+            }
           },
           {
             "name": "oferta",
             "type": "integer",
-            "description": "1 si el precio es oferta, 0 si no."
+            "description": "1 si el sitio mostraba el producto con un precio original mayor al de venta (precio rebajado), 0 si no. No se guarda el precio original.",
+            "constraints": {
+              "enum": [
+                0,
+                1
+              ]
+            }
           }
         ],
-        "primaryKey": [
-          "fecha",
-          "id_producto"
+        "foreignKeys": [
+          {
+            "fields": "id_producto",
+            "reference": {
+              "resource": "productos",
+              "fields": "id_producto"
+            }
+          }
         ]
       }
     },
@@ -115,33 +161,55 @@
       "path": "cochabamba/*.csv",
       "format": "csv",
       "mediatype": "text/csv",
-      "description": "Precios diarios en Cochabamba, un archivo por mes.",
+      "encoding": "utf-8",
+      "description": "Precios diarios en Cochabamba (sucursal Sacaba), un archivo por mes. No hay datos del 2025-06-04 al 2025-06-10, ni del 2025-12-22, 2026-01-11 y 2026-03-12. Cada día solo hay fila de los productos listados ese día: el conjunto cambia con el tiempo. Una fila ausente no es un precio cero ni un cambio de precio. La clave lógica es (fecha, id_producto), pero puede haber filas idénticas repetidas (ejecuciones repetidas el mismo día; nunca con precios distintos). Usar SELECT DISTINCT antes de agregar.",
       "schema": {
         "fields": [
           {
             "name": "fecha",
             "type": "date",
-            "description": "Día del precio."
+            "description": "Día en que se consultó el precio, en hora de La Paz.",
+            "constraints": {
+              "required": true
+            }
           },
           {
             "name": "id_producto",
             "type": "integer",
-            "description": "Código del producto. Une con productos.csv."
+            "description": "Código del producto en la tienda. Une con productos.csv.",
+            "constraints": {
+              "required": true
+            }
           },
           {
             "name": "precio",
             "type": "number",
-            "description": "Precio de venta en bolivianos ese día."
+            "description": "Precio de venta en bolivianos (BOB) ese día. Si oferta = 1, es el precio rebajado. El valor 0 significa que no había precio: excluir precio > 0 en cálculos.",
+            "constraints": {
+              "required": true,
+              "minimum": 0
+            }
           },
           {
             "name": "oferta",
             "type": "integer",
-            "description": "1 si el precio es oferta, 0 si no."
+            "description": "1 si el sitio mostraba el producto con un precio original mayor al de venta (precio rebajado), 0 si no. No se guarda el precio original.",
+            "constraints": {
+              "enum": [
+                0,
+                1
+              ]
+            }
           }
         ],
-        "primaryKey": [
-          "fecha",
-          "id_producto"
+        "foreignKeys": [
+          {
+            "fields": "id_producto",
+            "reference": {
+              "resource": "productos",
+              "fields": "id_producto"
+            }
+          }
         ]
       }
     },
@@ -150,33 +218,55 @@
       "path": "santa_cruz/*.csv",
       "format": "csv",
       "mediatype": "text/csv",
-      "description": "Precios diarios en Santa Cruz, un archivo por mes.",
+      "encoding": "utf-8",
+      "description": "Precios diarios en Santa Cruz (sucursal Las Brisas), un archivo por mes. No hay datos del 2025-06-04 al 2025-06-10, ni del 2025-12-22, 2026-01-11 y 2026-03-12. Cada día solo hay fila de los productos listados ese día: el conjunto cambia con el tiempo. Una fila ausente no es un precio cero ni un cambio de precio. La clave lógica es (fecha, id_producto), pero puede haber filas idénticas repetidas (ejecuciones repetidas el mismo día; nunca con precios distintos). Usar SELECT DISTINCT antes de agregar.",
       "schema": {
         "fields": [
           {
             "name": "fecha",
             "type": "date",
-            "description": "Día del precio."
+            "description": "Día en que se consultó el precio, en hora de La Paz.",
+            "constraints": {
+              "required": true
+            }
           },
           {
             "name": "id_producto",
             "type": "integer",
-            "description": "Código del producto. Une con productos.csv."
+            "description": "Código del producto en la tienda. Une con productos.csv.",
+            "constraints": {
+              "required": true
+            }
           },
           {
             "name": "precio",
             "type": "number",
-            "description": "Precio de venta en bolivianos ese día."
+            "description": "Precio de venta en bolivianos (BOB) ese día. Si oferta = 1, es el precio rebajado. El valor 0 significa que no había precio: excluir precio > 0 en cálculos.",
+            "constraints": {
+              "required": true,
+              "minimum": 0
+            }
           },
           {
             "name": "oferta",
             "type": "integer",
-            "description": "1 si el precio es oferta, 0 si no."
+            "description": "1 si el sitio mostraba el producto con un precio original mayor al de venta (precio rebajado), 0 si no. No se guarda el precio original.",
+            "constraints": {
+              "enum": [
+                0,
+                1
+              ]
+            }
           }
         ],
-        "primaryKey": [
-          "fecha",
-          "id_producto"
+        "foreignKeys": [
+          {
+            "fields": "id_producto",
+            "reference": {
+              "resource": "productos",
+              "fields": "id_producto"
+            }
+          }
         ]
       }
     }

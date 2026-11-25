@@ -2,7 +2,15 @@
   "$schema": "https://datapackage.org/profiles/2.0/datapackage.json",
   "name": "fidalga",
   "title": "Fidalga: productos y precios diarios",
-  "description": "Catálogo de productos y precios diarios de Fidalga, a nivel nacional. Un archivo de precios por mes (AAAA_MM.csv).",
+  "description": "Catálogo de productos y precios diarios de Fidalga (abarrotes y bebidas de consumo masivo, tienda Shopify), a nivel nacional, desde 2025-06-13. Canasta pequeña (cerca de 900 productos por día) y muy estable: menos del 1 % de los productos cambia de precio por día. Un archivo de precios por mes (AAAA_MM.csv). Se guarda el precio de la primera presentación de cada producto. Cobertura al día (fechas, días sin datos, productos): cobertura.json en la raíz del repositorio.",
+  "homepage": "https://github.com/mauforonda/precios",
+  "keywords": [
+    "precios",
+    "Bolivia",
+    "inflación",
+    "supermercados",
+    "series diarias"
+  ],
   "sources": [
     {
       "title": "Fidalga",
@@ -15,28 +23,39 @@
       "path": "productos.csv",
       "format": "csv",
       "mediatype": "text/csv",
-      "description": "Catálogo de productos.",
+      "encoding": "utf-8",
+      "description": "Catálogo de productos. Algunos nombres, marcas y categorías tienen texto dañado (por ejemplo 'NescafÃ©'); se repara con texto.encode('latin-1').decode('utf-8').",
       "schema": {
         "fields": [
           {
             "name": "id_producto",
             "type": "integer",
-            "description": "Código del producto en la tienda."
+            "description": "Código del producto en la tienda.",
+            "constraints": {
+              "required": true,
+              "unique": true
+            }
           },
           {
             "name": "producto",
             "type": "string",
-            "description": "Nombre del producto."
+            "description": "Nombre del producto. Incluye peso o volumen cuando la tienda lo publica en el nombre.",
+            "constraints": {
+              "required": true
+            }
           },
           {
             "name": "proveedor",
             "type": "string",
-            "description": "Proveedor o marca."
+            "description": "Marca o proveedor que declara la tienda."
           },
           {
             "name": "categoria",
             "type": "string",
-            "description": "Categoría. Vacía si la tienda no la publica."
+            "description": "Tipo de producto, muy específico (cerca de 500 valores, sin jerarquía). Vacía en pocos productos.",
+            "missingValues": [
+              ""
+            ]
           }
         ],
         "primaryKey": [
@@ -49,28 +68,45 @@
       "path": "precios/*.csv",
       "format": "csv",
       "mediatype": "text/csv",
-      "description": "Precios diarios, un archivo por mes.",
+      "encoding": "utf-8",
+      "description": "Precios diarios, un archivo por mes. Pocas filas tienen precio 0. Cada día solo hay fila de los productos listados ese día: el conjunto cambia con el tiempo. Una fila ausente no es un precio cero ni un cambio de precio. La clave lógica es (fecha, id_producto), pero hoy no hay filas repetidas. Si el script corre dos veces el mismo día, repite filas: usar SELECT DISTINCT.",
       "schema": {
         "fields": [
           {
             "name": "fecha",
-            "type": "date",
-            "description": "Día del precio."
+            "type": "datetime",
+            "description": "Día en que se consultó el precio, en hora de La Paz. Incluye una hora siempre igual a 00:00:00; usar fecha::DATE.",
+            "format": "%Y-%m-%d %H:%M:%S",
+            "constraints": {
+              "required": true
+            }
           },
           {
             "name": "id_producto",
             "type": "integer",
-            "description": "Código del producto. Une con productos.csv."
+            "description": "Código del producto en la tienda. Une con productos.csv.",
+            "constraints": {
+              "required": true
+            }
           },
           {
             "name": "precio",
             "type": "number",
-            "description": "Precio de venta en bolivianos ese día."
+            "description": "Precio de venta en bolivianos (BOB) ese día. El valor 0 significa que no había precio: excluir precio > 0 en cálculos.",
+            "constraints": {
+              "required": true,
+              "minimum": 0
+            }
           }
         ],
-        "primaryKey": [
-          "fecha",
-          "id_producto"
+        "foreignKeys": [
+          {
+            "fields": "id_producto",
+            "reference": {
+              "resource": "productos",
+              "fields": "id_producto"
+            }
+          }
         ]
       }
     }
