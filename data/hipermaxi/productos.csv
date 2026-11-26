@@ -1493,6 +1493,7 @@ id_producto,producto,categoria,subcategoria
 22348,Te Indu Frutales Surtidos 50 Sobres,Abarrotes,Café y Sucedáneos
 22356,Salsa Aguila de Chocolate 320 gr,Abarrotes,Repostería
 22358,Flan Anapqui con Quinua Real 100 gr,Abarrotes,Repostería
+22367,Cereal Cheerios General Mills 8.9 oz,Abarrotes,Productos Americanos
 22382,Mostaza Zaeli 180 gr,Abarrotes,Aderezos
 22605,Fideo Divella Penne Sin Gluten 400 gr,Abarrotes,Básicos
 22606,Fideo Divella Spaguetti Sin Gluten 400 gr,Abarrotes,Básicos
@@ -3694,6 +3695,7 @@ id_producto,producto,categoria,subcategoria
 51616,Aceite De Cecco Oliva 500 ml,Abarrotes,Productos Importados
 51701,GOMITA MOGUL 360 FRUTI ARAND OSITOS 26G,Abarrotes,Golosinas - Varias
 51704,TE WINDSOR C CANELA LIMON 100SOB,Abarrotes,Café y Sucedáneos
+51707,ACEITUNA NUCETE NEGRA LIGHT FCO 360G,Abarrotes,Verduras en Conserva
 51708,TE WINDSOR C CANELA SIN SOB 50SAQ,Abarrotes,Café y Sucedáneos
 51709,TE WINDSOR C CANELA Y CLAVO OLOR 50SAQ,Abarrotes,Café y Sucedáneos
 51710,TE WINDSOR CLASICO SIN CANELA 100SAQ,Abarrotes,Café y Sucedáneos
@@ -3944,7 +3946,7 @@ id_producto,producto,categoria,subcategoria
 67073,GOMITA MOGUL 360 OSITOS 61G,Abarrotes,Golosinas - Varias
 67074,GOMITA MOGUL 360 MANGO 61G,Abarrotes,Golosinas - Varias
 67076,AZUCAR BLANCA AGUAI BSA 200 SOB,Abarrotes,Básicos
-67078,Pack Hidratante Powerade Mora 990 ml + 2 Vital,Bebidas,Bebidas Varias
+67078,Pack Hidratante Powerade Mora 990 ml + 2 Vital,Bebidas,Aguas
 67079,MANI PINZONES S PIZZA 100G,Abarrotes,Snack
 67080,BATON GAROTO CHOCOSTICK CARIBE 24G,Abarrotes,Golosinas - Varias
 67081,BATON GAROTO CHOCOSTICK C CREAM 26G,Abarrotes,Golosinas - Varias
@@ -4043,12 +4045,14 @@ id_producto,producto,categoria,subcategoria
 69168,Cafe Windsor Premium Molido Doypack 225 gr,Abarrotes,Café y Sucedáneos
 69169,Cafe Windsor Premium Molido Doypack 450 gr,Abarrotes,Café y Sucedáneos
 69170,Cafe Windsor Premium En Grano Doypack 450 gr,Abarrotes,Café y Sucedáneos
+69171,WAFER LA FRANCESA FRUTILLA 230G,Abarrotes,Galletas
 69173,Galleta En Linea Chips Cacao Sin Azucar 120 gr,Abarrotes,Dietéticos y Saludables
 69174,Mermelada En Linea Mora Sin Azucar Doypack 350 gr,Abarrotes,Dietéticos y Saludables
 69175,Fideo Trattoria Fusilli 400 gr,Abarrotes,Básicos
 69176,Mermelada En Linea Frutilla Sin Azucar Doypack 350 gr,Abarrotes,Dietéticos y Saludables
 69180,Gaseosa Frisch Coco Sin Azucar 500 ml,Bebidas,Gaseosas
 69182,Chupete Limon Pink Bon Bon Bum 336 gr,Abarrotes,Chocolates y Caramelos
+69184,CAFE MOLIDO ALTURA NEGRA DP 250G,Abarrotes,Café y Sucedáneos
 69186,Gaseosa Frisch Chirimoya Sin Azucar 500 ml,Bebidas,Gaseosas
 69187,Gaseosa Frisch Guayaba Sin Azucar 500 ml,Bebidas,Gaseosas
 69188,Marshmallows Gongys Mini Billiken 200 gr,Abarrotes,Chocolates y Caramelos
@@ -7506,10 +7510,26 @@ id_producto,producto,categoria,subcategoria
 204076,NECESER BABARIA RAYAS HIALURONICO,Cuidado Personal,Cuidado de la Piel
 204077,NECESER BABARIA  RAYAS RETINOL,Cuidado Personal,Cuidado de la Piel
 204078,NECESER BABARIA  RAYAS VITAMINA C,Cuidado Personal,Cuidado de la Piel
+204079,PERF TEXTIL SAPHIRUS ATLANTIS 250ML,Cuidado del Hogar,Limpieza de Living y Ropero
+204082,PERF TELA SAPHIRUS CELEBRITY SHOE 250ML,Cuidado del Hogar,Limpieza de Living y Ropero
+204083,PERF TELA SAPHIRUS CELESTIAL WINGS 250ML,Cuidado del Hogar,Limpieza de Living y Ropero
+204084,PERF TELA SAPHIRUS GOLDEN LADY,Cuidado del Hogar,Limpieza de Living y Ropero
+204085,PERF TELA SAPHIRUS SAILOR MAN 250ML,Cuidado del Hogar,Limpieza de Living y Ropero
+204086,PERF TELA SAPHIRUS SHADOW STORM 250ML,Cuidado del Hogar,Limpieza de Living y Ropero
+204087,PERF TELA SAPHIRUS SILVER BOT 250ML,Cuidado del Hogar,Limpieza de Living y Ropero
+204088,PERF TELA SAPHIRUS GOSSIP KING 250ML,Cuidado del Hogar,Limpieza de Living y Ropero
+204091,PERF TELA SAPHIRUS DARK NIGHT 250ML,Cuidado del Hogar,Limpieza de Living y Ropero
+204092,PERF TELA SAPHIRUS DEEP DESERT 250ML,Cuidado del Hogar,Limpieza de Living y Ropero
 204109,Chocolate Cofler Block 300 gr,Abarrotes,Chocolates y Caramelos
 204154,Ice Tea Hindu Manzana Light 300 gr,Bebidas,Refrescos en Polvo
 204159,Aceituna Vanoli rellena con Pimiento 300 gr,Abarrotes,Verduras en Conserva
+204180,PERF TELA SAPHIRUS SUIT YOURSELF 250ML,Cuidado del Hogar,Limpieza de Living y Ropero
 204199,Vino Riccitelli Republica Malbec 750 ml,Bebidas,Vinos y Champagne
+204210,PERF TELA SAPHIRUS CAPRI SUMMER 250ML,Cuidado del Hogar,Limpieza de Living y Ropero
+204211,PERF TEXTIL SAPHIRUS GOSSIP P 250ML,Cuidado del Hogar,Limpieza de Living y Ropero
+204212,PERF TELA SAPHIRUS GLITTER BOT 250ML,Cuidado del Hogar,Limpieza de Living y Ropero
+204213,PANAL TENA PANTS COMFORT GEG 4X16,Cuidado Personal,Cuidado del Adulto
+204214,TP NOVA CLASICA DH 17M 12X1,Cuidado del Hogar,Limpieza de Cocina
 204251,Salsa Soya Sakura 250 ml,Abarrotes,Condimentos y Legumbres
 204279,Chocolate Para Ti Naranja 140 gr,Abarrotes,Chocolates y Caramelos
 204310,Salsa Jerez Verde 240 gr,Abarrotes,Salsas y Extracto de Tomate
@@ -8404,6 +8424,7 @@ id_producto,producto,categoria,subcategoria
 223839,Bipack Pañal Huggies Triple Proteccion XG 2x40 un,Cuidado del Bebé,Pañales
 223840,Bipack Pañal Huggies Triple Proteccion XXG 2x36 un,Cuidado del Bebé,Pañales
 223841,Balde Guanda 10 L,Cuidado del Hogar,Accesorios del Hogar
+223843,SERVILLETA OLEBOL NAVIDENA 20 UNDS,Cuidado Personal,Cuidado Familiar
 223852,Servilleta Olebol Coctel Borgoña 20 un,Cuidado Personal,Cuidado Familiar
 223853,Servilletas De Cóctel Olebol Caribe Pack 20 un,Cuidado Personal,Cuidado Familiar
 223855,SERVILLETA OLEBOL COCTEL FUCSIA 20 UN,Cuidado Personal,Cuidado Familiar
@@ -9775,7 +9796,7 @@ id_producto,producto,categoria,subcategoria
 231996,PANAL NENESOFT PREMIUM XXXG 28 UNDS,Cuidado del Bebé,Pañales
 231997,TOALLA HUMEDA NENESOFT 100 UNDS,Cuidado del Bebé,Cuidado del Bebé
 231998,TOALLA HUMEDA NENESOFT 50 UNDS,Cuidado del Bebé,Cuidado del Bebé
-231999,TOALLA HIGIENICA RUBY DIARIA 15 UND,Cuidado Personal,Cuidado Familiar
+231999,PROTECTOR DIARIO RUBY 15 UNDS,Cuidado Personal,Cuidado Familiar
 232000,TOALLA HIGIENICA RUBY JUVENIL 10 UND,Cuidado Personal,Cuidado Familiar
 232002,TOALLA HIGIENICA RUBY NORMAL 10 UND,Cuidado Personal,Cuidado Familiar
 232003,Bebida Ice 51 Balada 275 ml,Bebidas,Licores
@@ -10179,6 +10200,7 @@ id_producto,producto,categoria,subcategoria
 241813,Salsa Ricos Cheese Para Nachos 99 gr,Abarrotes,Aderezos
 241822,Salsa Ragu Tradicional 14 oz,Abarrotes,Productos Americanos
 241881,Mermelada Smuckers Strawberry Preserve 12 oz,Abarrotes,Productos Americanos
+241887,Chocolate Lindt Lindor White 100 gr,Abarrotes,Chocolates y Caramelos
 242136,Syrup Aunt Jemima Lite 24 oz,Abarrotes,Productos Americanos
 242155,Choclo Oderich Lata 2 kg,Abarrotes,Verduras en Conserva
 242164,Achocolatado Choco Listo Fresa 200 gr,Abarrotes,Nutrición Infantil
@@ -10398,7 +10420,7 @@ id_producto,producto,categoria,subcategoria
 255410,Ron Viejo de Caldas 5 Años 750 ml,Bebidas,Licores
 255416,Tocino Ahumado de Cerdo Sofia kg,Fiambres,Fiambres Externos
 255620,Suavizante Ropa Borita Tradicional 4 L,Cuidado del Hogar,Limpieza de la Ropa
-255771,Leche de Coco Campo Verde 400 ml,Bebidas,Bebidas Varias
+255771,Leche de Coco Campo Verde 400 ml,Abarrotes,Repostería
 255780,Six Pack Malta Real 350 ml,Bebidas,Bebidas Varias
 256099,Desodorante Aerosol Sack Para Pies 150 ml,Cuidado Personal,Cuidado de la Piel
 256102,Talco Para Pies Sack 80 gr,Cuidado Personal,Cuidado de la Piel
@@ -10627,6 +10649,13 @@ id_producto,producto,categoria,subcategoria
 280327,PACK ABOVE  AEROSOL ELEMENTS,Cuidado Personal,Cuidado de la Piel
 280328,PACK ABOVE AEROSOL WOMEN + ROLLON,Cuidado Personal,Cuidado de la Piel
 280329,PACK ABOVE AEROSOL MEN + ROLLON,Cuidado Personal,Cuidado de la Piel
+280330,ESCOBA LIMPAMANIA ENCANTADA 5202,Cuidado del Hogar,Accesorios del Hogar
+280331,PALA LIMPAMANIA SELETA 5219,Cuidado del Hogar,Accesorios del Hogar
+280332,GOMA LIMPAMANIA RODO 30 CM 5203,Cuidado del Hogar,Accesorios del Hogar
+280333,GOMA LIMPAMANIA RODO 40 CM 5205,Cuidado del Hogar,Accesorios del Hogar
+280334,ESCOBA LIMPAMANIA VARRE PORCELANATO 5214,Cuidado del Hogar,Accesorios del Hogar
+280335,ESCOBA LIMPAMANIA TIERRA 5211,Cuidado del Hogar,Accesorios del Hogar
+280336,ESCOBA LIMPAMANIA JARDINERA 5216,Cuidado del Hogar,Accesorios del Hogar
 280337,COLGATE LUMINOUS WHITE CARBON 66ML,Cuidado Personal,Cuidado Bucal
 280428,PACK PAPEL ELITE  DUO  DJ 6X8,Cuidado Personal,Cuidado Familiar
 280429,SHAMPOO BALLERINA GRANADA DP 350ML,Cuidado Personal,Cuidado del Cabello
@@ -10849,6 +10878,7 @@ id_producto,producto,categoria,subcategoria
 298711,Maizena Miki 400 gr,Abarrotes,Repostería
 298890,Huevo Sapito Confites 30 gr,Abarrotes,Temporada
 298964,Leche De Coco Sococo 500 ml,Abarrotes,Productos Americanos
+298999,Agua San Pellegrino Edding 1 L,Bebidas,Bebidas Usa
 299529,Shampoo Head Shoulders Proteccion Caida Cafeina 375 ml,Cuidado Personal,Cuidado del Cabello
 299553,Shampoo Head Shoulders Proteccion Caida Cafeina 180 ml,Cuidado Personal,Cuidado del Cabello
 299634,Gomita Fini Banana 100 gr,Abarrotes,Golosinas - Varias
@@ -11680,7 +11710,7 @@ id_producto,producto,categoria,subcategoria
 328014,Aceite Oliva Borges Extra Virgen 250 ml,Abarrotes,Básicos
 328022,Pilas Energizer Alcalina AAA 2 un,Bazar,Ferretería
 328057,Aceite Oliva Borges Extra Virgen 250 ml,Abarrotes,Básicos
-328065,Aceite Olivia Borges Ext Virg Bot 500Ml,Abarrotes,Básicos
+328065,Aceite Olivia Borges Extra Virgen Bot 500 ml,Abarrotes,Básicos
 328084,Locion Suavizante St Ives Hidratante Vitamina E 621 ml,Cuidado Personal,Cuidado de la Piel
 328103,Aceite Oliva Borges Extra Virgen 750 ml,Abarrotes,Básicos
 328120,Galleta Mana Leche 145 gr,Abarrotes,Galletas
@@ -13101,7 +13131,7 @@ id_producto,producto,categoria,subcategoria
 386073,Toallas Humeda Pompiglos Premium 60 un,Cuidado del Bebé,Cuidado del Bebé
 386081,Queso de Cerdo Hipermaxi kg,Fiambres,Fiambres Hipermaxi
 386090,Enrollado de Cerdo Hipermaxi a Granel kg,Fiambres,Fiambres Hipermaxi
-386528,USA MU¥ECA DE PLAYA  BARBIE,Juguetería Importación,Juguetería Niña/Bebé
+386528,USA MU¥ECA DE PLAYA  BARBIE,Juguetería,Juguetería Niña/Bebé
 386600,Cerveza Corona Botella 355 ml,Bebidas,Cervezas
 386774,Panceta Ahumada Tocino De Cerdo Hipermaxi kg,Fiambres,Fiambres Hipermaxi
 386782,Lomito Ahumado Hipermaxi al Vacio kg,Fiambres,Fiambres Hipermaxi
@@ -13446,6 +13476,7 @@ id_producto,producto,categoria,subcategoria
 405639,Gelatina Ambrosoli Naranja 100 gr,Abarrotes,Repostería
 405655,Gelatina Ambrosoli Piña 100 gr,Abarrotes,Repostería
 405663,Gelatina Ambrosoli Frambuesa 100 gr,Abarrotes,Repostería
+405892,CHOCOLATE COSTA MECANO 19 GR,Abarrotes,Golosinas - Varias
 406010,Protectores Diarios Nosotras Flexible 30 un,Cuidado Personal,Cuidado Familiar
 406021,Leche Past Ilva Natural 1 L,Lácteos y Derivados,Leches
 406070,Pañal Adulto Plenitud Act Plus P/M 8 un,Cuidado Personal,Cuidado del Adulto
@@ -14975,6 +15006,7 @@ id_producto,producto,categoria,subcategoria
 517144,ALIMENTO PRIMOGATO GATITO DP 85G,Abarrotes,Mascotas
 517145,ALIMENTO PRIMOCAO CARNE VEGET DP 100G,Abarrotes,Mascotas
 517146,"MASTICAB MENTOS ROLLS HIERBABUENA 29,5G",Abarrotes,Golosinas - Varias
+517147,MASTICAB FRUIT TELLA SANDIA 40G,Abarrotes,Golosinas - Varias
 517150,SALSA BARBACOA ARTESANO DP 200G,Abarrotes,Aderezos
 517152,MANTEQ MANI SKURZTH CLASICA PET 260G,Abarrotes,Repostería
 517153,MANTEQ MANI SKURZTH CHOCOLATE 260G,Abarrotes,Repostería
@@ -14983,6 +15015,8 @@ id_producto,producto,categoria,subcategoria
 517171,CHOCOL TABOADA C LICOR NAVID DP 200G,Abarrotes,Chocolates y Caramelos
 517172,CHOCOL SURTIDO TABOADA NAVID DP 200G,Abarrotes,Temporada
 517173,CHOCOL TABOADA FELIZ NAVIDAD TAB 100G,Abarrotes,Temporada
+517174,BEBIDA FLOW X ZALZER ACHACHAIRU LTA 355M,Bebidas,Licores
+517175,CREMA D COCO YARA TETRA 1LT,Abarrotes,Dietéticos y Saludables
 517313,Vinagre Favinco de Vino 500 ml,Abarrotes,Básicos
 517321,Vinagre Favinco de Manzana 500 ml,Abarrotes,Básicos
 517330,Vinagre Favinco de Alcohol 500 ml,Abarrotes,Básicos
@@ -15107,6 +15141,7 @@ id_producto,producto,categoria,subcategoria
 535149,Jabon Barra Heno de Pravia Crema 150 gr,Cuidado del Hogar,Productos Americanos
 535192,VIRUTILLA VIRUTEX MEDIANA GRUESA N.4,Cuidado del Hogar,Accesorios del Hogar
 535216,Mermelada Candy Durazno 320 gr,Abarrotes,"Mermel, Mieles"
+536202,PRETZEL STICKS LA FRANCESA 226 GR,Abarrotes,Snack
 536210,GALLETA FRANCESA AMANDI SURTIDA 500 GR,Abarrotes,Galletas
 536849,Pañuelo Kleenex Junior Disney 50 un,Cuidado Personal,Cuidado Familiar
 537012,Escoba Clorinda Tradicional,Cuidado del Hogar,Accesorios del Hogar
@@ -17231,12 +17266,12 @@ id_producto,producto,categoria,subcategoria
 553326,Angulas Al Ajillo Surtim Danitormenta 110 gr,Abarrotes,Comidas en Conserva
 553327,Preparado Para Paella Mix Dani 195 gr,Abarrotes,Comidas en Conserva
 553328,Bebida Cin Mocochinchi 3 L,Bebidas,Bebidas Varias
-553329,Bebida Cin Cebada 3 L,Bebidas,Bebidas Varias
-553330,Bebida Cin Tamarindo 3 L,Bebidas,Bebidas Varias
-553331,Bebida Cin Canela 3 L,Bebidas,Bebidas Varias
-553332,Bebida Cin Coco 3 L,Bebidas,Bebidas Varias
-553333,Bebida Cin Linaza 3 L,Bebidas,Bebidas Varias
-553334,Bebida Cin Chicha Morada 3 L,Bebidas,Bebidas Varias
+553329,Bebida Cin Cebada 3 L,Bebidas,"Jugos, Néctar"
+553330,Bebida Cin Tamarindo 3 L,Bebidas,"Jugos, Néctar"
+553331,Bebida Cin Canela 3 L,Bebidas,"Jugos, Néctar"
+553332,Bebida Cin Coco 3 L,Bebidas,"Jugos, Néctar"
+553333,Bebida Cin Linaza 3 L,Bebidas,"Jugos, Néctar"
+553334,Bebida Cin Chicha Morada 3 L,Bebidas,"Jugos, Néctar"
 553335,LECHE NIDO CRECIM 1 DP 2KG,Abarrotes,Nutrición Infantil
 553336,Leche En Polvo De Sesamo Fit Mit Pote 500 gr,Abarrotes,Nutrición Infantil
 553337,Leche En Polvo De Almendra Fit Mit Pote 500 gr,Abarrotes,Nutrición Infantil
@@ -17295,7 +17330,7 @@ id_producto,producto,categoria,subcategoria
 553394,Jugo True Life Guayaba Lata 500 ml,Bebidas,Bebidas Usa
 553395,Jugo True Life Manzana Lata 500 ml,Bebidas,Bebidas Usa
 553396,Jugo Sandia True Life Lata 500 ml,Bebidas,Bebidas Usa
-553397,JUGO MANGO TRUE LIFE LTA 500 ML,Bebidas,Bebidas Usa
+553397,Jugo True Life Mango Lata 500 ml,Bebidas,Bebidas Usa
 553398,Agua de Coco True Life con Pulpa 500 ml,Bebidas,Bebidas Usa
 553399,Jugo Piña True Life Lata 500 ml,Bebidas,Bebidas Usa
 553400,Compota Gerber Pera 113 gr,Abarrotes,Productos Americanos
@@ -17710,8 +17745,8 @@ id_producto,producto,categoria,subcategoria
 554075,Limon Deshidratado En Rodajas Waras 50 gr,Abarrotes,Frutas en Conserva
 554076,Frutilla Deshidratada Chocolate Waras 45 gr,Abarrotes,Frutas en Conserva
 554077,Vodka Real 1825 De Quinoa Caja 700 ml,Bebidas,Licores
-554078,Bebida Cin Piña 3 L,Bebidas,Bebidas Varias
-554079,Bebida Cin Manzana 3 L,Bebidas,Bebidas Varias
+554078,Bebida Cin Piña 3 L,Bebidas,"Jugos, Néctar"
+554079,Bebida Cin Manzana 3 L,Bebidas,"Jugos, Néctar"
 554080,Salsa Hot Barbacoa Picante Chimo PET 140 ml,Abarrotes,Aderezos
 554081,PACK 6 NECTAL DEL SOL 300ML,Bebidas,"Jugos, Néctar"
 554082,Pack Gaseosa Pepsi 2 un 2.5 L,Bebidas,Gaseosas
@@ -19466,9 +19501,11 @@ id_producto,producto,categoria,subcategoria
 650225,Mermelada Podravka Rosa 360 gr,Abarrotes,Productos Importados
 650226,Mermelada Podravka Frutas Mixtas 360 gr,Abarrotes,Productos Importados
 650228,Mermelada Podravka Albaricoque 360 gr,Abarrotes,Productos Importados
+650229,Linaza Andes Molida 40 gr,Abarrotes,Condimentos y Legumbres
 650231,Mermelada Podravka Ciruela 350 gr,Abarrotes,Productos Importados
 650234,Mermelada Podravka Extra Frutos del Bosque 320 gr,Abarrotes,Productos Importados
 650235,Lino Lada Gold Creamy 350 g,Abarrotes,Productos Importados
+650239,Nuez Moscada Andes Entera 10 gr,Abarrotes,Condimentos y Legumbres
 650243,Nuez Moscada Molida Andes 10 gr,Abarrotes,Condimentos y Legumbres
 650249,Oregano Andes Entero 55 gr,Abarrotes,Condimentos y Legumbres
 650253,Oregano Andes Molido 22 gr,Abarrotes,Condimentos y Legumbres
@@ -20520,7 +20557,7 @@ id_producto,producto,categoria,subcategoria
 657842,Salsa B&R Picante De Aji Amrillo 400 gr,Abarrotes,Aderezos
 657843,Salsa B&R Chorrellana Casera Foods 400 gr,Abarrotes,Aderezos
 657844,Salsa B&R Chimichirri Churrasquero 400 gr,Abarrotes,Aderezos
-657845,Mocochinchi Concentrado Foods 400 ml,Bebidas,Bebidas Varias
+657845,Mocochinchi Concentrado Foods 400 ml,Bebidas,"Jugos, Néctar"
 657916,Salsa Soya Sakura Tradicional 1 L,Abarrotes,Condimentos y Legumbres
 657920,Salsa Soya Sakura Light 1 L,Abarrotes,Condimentos y Legumbres
 657944,Paella Kremmore de Quinua 140 gr,Abarrotes,Básicos
@@ -21148,6 +21185,8 @@ id_producto,producto,categoria,subcategoria
 660645,PL PANAL BS PREMIUM HIPOAL PAKT XXXG 68,Cuidado del Bebé,Pañales
 660646,PANAL BS SPCTOTALHIPOAL PAKET XXXG 54,Cuidado del Bebé,Pañales
 660648,LIMPIA PISOS BANDA PULPIN 900 ML,Cuidado del Hogar,Limpieza de Baños
+660651,LIMPIA PISOS FLORAL PULPIN 5000 ML,Cuidado del Hogar,Limpieza de Baños
+660653,TOALLA HUMEDA MULTIUSO FINESSE 12X96 UNI,Cuidado del Bebé,Cuidado del Bebé
 660711,Galleta Noel Octagonal Surtida 260 gr,Abarrotes,Temporada
 660852,Te Frutte Laxte 20 Sobres,Abarrotes,Café y Sucedáneos
 661150,Insecticida Tableta Raid Mata Mosquito Doble Accion 24 un,Cuidado del Hogar,Productos Americanos
@@ -24783,6 +24822,9 @@ id_producto,producto,categoria,subcategoria
 675036,LECHE CON CAFE CAPUCHINO 330ML TETRA MONACO,Lácteos y Derivados,Leches
 675038,YOGURT GRIEGO 0 AZUCAR DELIZIA 800GRS,Lácteos y Derivados,Yogures
 675042,POLLO AGRIDULCE SOFIA 500GRS,Congelados,Carnes Congeladas
+675051,MINI SALCHICHA TIPO VIENA SOFIA 10 UNIDADES,Fiambres,Fiambres Externos
+675052,LECHE DE COCO YARA LETRA 1LT,Abarrotes,Repostería
+675053,LECHE D COCO YARA TETRA 200ML,Abarrotes,Repostería
 675245,Miel de Abeja Eva Promiel 250 gr,Abarrotes,"Mermel, Mieles"
 675948,SALCHICHA VIENA DON PIOTR 500GRS VACIO,Fiambres,Fiambres Externos
 675949,SALCHICHA BOCK DON PIOTR 500GRS VACIO,Fiambres,Fiambres Externos
@@ -26063,6 +26105,7 @@ id_producto,producto,categoria,subcategoria
 776732,Nuggets Sadia Tradicional 300 gr,Congelados,Carnes Congeladas
 776983,Yogurt Danoninho Bebible Banana Y Manzana 100 gr,Lácteos y Derivados,Yogures
 777022,Energizante Gatorade Lima Limon Polvo 51 oz,Bebidas,Bebidas Usa
+777062,Bebida Energizante Gatorade Fruit Punch 591 ml,Bebidas,Bebidas Usa
 777359,Cereal Kelloggs Corn Flakes 43 oz,Abarrotes,Productos Americanos
 777711,Pack Ron Flor de Caña 5 Años 1 L + Coca Cola 2 L,Bebidas,Licores
 778154,Frijoles Goya Black Beans Soup 15 oz,Abarrotes,Comidas en Conserva
@@ -27350,6 +27393,7 @@ id_producto,producto,categoria,subcategoria
 809791,Adorno Chimenea Navideña Con Papá Noel Y Muñeco De Nieve,Bazar Importación,Temporada Navidad
 809794,Adorno Bota Navideña Con Papá Noel Y Muñeco De Nieve 9 cm,Bazar Importación,Temporada Navidad
 809796,Adorno Arbolito Navideño Con Papá Noel Y Muñeco De Nieve,Bazar Importación,Temporada Navidad
+809797,CH 5028 ADORNO CASA NAVIDENA ROJA CON PAPA NOEL 6X5X9CM,Bazar Importación,Temporada Navidad
 809799,Adorno Navideño Papá Noel Y Muñeco De Nieve,Bazar Importación,Temporada Navidad
 809800,Adorno Navideño Papá Noel Y Muñeco De Nieve En Moto,Bazar Importación,Temporada Navidad
 809801,Adorno Navideño Muñeco De Nieve Y Papá Noel Con Sombrero,Bazar Importación,Temporada Navidad
@@ -27446,6 +27490,9 @@ id_producto,producto,categoria,subcategoria
 810262,CH 219 8 SALERO Y PIMENTERO MUNECO DE NIEVE,Bazar Importación,Temporada Navidad
 810265,Lechera Papá Noel 450 ml,Bazar Importación,Temporada Navidad
 810266,CH 216 1 BANDEJA NAVIDENA MUNECO DE NIEVE 24X17CM,Bazar Importación,Temporada Navidad
+810270,CH J4 9 LUCES NAVIDENAS PARA EXTERIOR BLNCO ROSADO CALIDO 5M,Bazar Importación,Temporada Navidad
+810271,CH J4 20 LUCES NAVIDENAS X 240 FOCOS BLANCO ROSADO CON PANEL,Bazar Importación,Temporada Navidad
+810272,CH J4 24 LUCES NAVIDENAS X100 FOCOS BLANCO ROSADO 12M,Bazar Importación,Temporada Navidad
 810284,Muñeco De Nieve 48 cm,Bazar Importación,Temporada Navidad
 810285,Muñeco Navideño Papá Noel 48 cm,Bazar Importación,Temporada Navidad
 810289,CH 209A MUNECO NAVIDENO PAPA NOEL RETRACTIL 100CM,Bazar Importación,Temporada Navidad
@@ -27456,7 +27503,10 @@ id_producto,producto,categoria,subcategoria
 810296,Muñeco Navideño Duende Piernas Largas 70 cm,Bazar Importación,Temporada Navidad
 810297,Muñeco Navideño Duende Sentado 48 cm,Bazar Importación,Temporada Navidad
 810299,Bota Navideña Reno Papá Noel Y Muñeco De Nieve 65 cm,Bazar Importación,Temporada Navidad
+810307,CH S2 24 BOLAS NAVIDENAS ROJO Y BLANCO SET X20PZAS,Bazar Importación,Temporada Navidad
+810311,CH S2 29 BOLAS NAVIDE¥AS Y PI¥AS PLATEADAS SET X12PZAS 6CM,Bazar Importación,Temporada Navidad
 810312,CH S2 32 CINTA NAVIDENA CON BORDE DORADO DISENO SURTIDO 2 7M,Bazar Importación,Temporada Navidad
+810313,Bolas Navideñas Y Piñas Color Rojo Rosado Set Por 15 un,Bazar Importación,Temporada Navidad
 810319,Bolas Navideñas Transparentes Con Muñeco De Nieve Set Por 6 un,Bazar Importación,Temporada Navidad
 810335,Adorno Navideño Reno 18 cm,Bazar Importación,Temporada Navidad
 810338,CH 29 4 TABLA DE CORTAR SET X4 PZAS 38X30CM,Bazar Importación,Churrasquería
@@ -28277,7 +28327,7 @@ id_producto,producto,categoria,subcategoria
 835758,TOMAHAWK STEAK 1KG A V,Carnes,Carne de Res
 835759,Picaña al Vacio kg,Carnes,Carne de Res
 835763,Bolas Navideñas Set 6 un 6 cm,Bazar Importación,Temporada Navidad
-835764,CH N20 7 BOLAS NAVIDENAS SET X6PZAS 6CM,Bazar Importación,Temporada Navidad
+835764,Bolas Navideñas Set Por 6 un,Bazar Importación,Temporada Navidad
 835765,CH N20 3 CENTRO DE MESA PORTA VELA X4 21X21CM,Bazar Importación,Temporada Navidad
 835766,CH N20 19 BOLAS NAVIDENAS SET X12 5CM,Bazar Importación,Temporada Navidad
 835767,Carne Para Sopa kg,Carnes,Carne de Res
@@ -28432,7 +28482,9 @@ id_producto,producto,categoria,subcategoria
 839819,CH 29 6 TAZA GRANDE JASPEADA 700ML COLOR SURTIDO,Bazar Importación,Menaje Porcelana/Cerámica
 839824,VASO TERMICO DESECAHBLE DART 300ML,Bazar,Cotillón
 839859,CH 29 18 TAZA CON RAYAS VERTICALES 500ML,Bazar Importación,Menaje Porcelana/Cerámica
+839867,CH N8 3 VELA NAVIDENA FLORES C TAPA 4X6CM DISENOS VARIADOS,Bazar Importación,Temporada Navidad
 839869,CH N8 5 VELA NAVIDENA ENVASE DE VIDRIO DISENOS VARIADOS 5X3,Bazar Importación,Temporada Navidad
+839882,CH 8 13 VELA NAVIDENA ENVASE DE VIDRIO 5X6CM,Bazar Importación,Temporada Navidad
 839893,CH 77R SET X4 VELAS LARGAS C ROJO 26X9X2CM,Bazar Importación,Temporada Navidad
 839895,Palitos Sticks Hueso de Carne 70 gr,Bazar,Mascotas General
 839896,Alimento Sticks Palitos Hueso Natural 70 gr,Bazar,Mascotas General
@@ -28442,6 +28494,8 @@ id_producto,producto,categoria,subcategoria
 839914,CH 8 79 VELA ARBOL NAVIDENO C VERDE Y ROJO 9X5X5CM,Bazar Importación,Temporada Navidad
 839942,CH 8 83 VELA ARBOLES NAVIDENOSROJO Y VERDE 10 5X7 5X7CM,Bazar Importación,Temporada Navidad
 839943,CH 8 80 VELA ARBOL NAVIDENO COLOR VERDE Y ROJO 15X7X7CM,Bazar Importación,Temporada Navidad
+839944,CH 8 81 VELA PINA NAVIDENA BICOLOR 10X8X8CM,Bazar Importación,Temporada Navidad
+839951,CH 8 84 VELA ESFERA NAVIDENA VERDE Y ROJO 8X6 5X6 5CM,Bazar Importación,Temporada Navidad
 839958,Arena Para Gato Super Mix 3 kg,Bazar,Mascotas General
 840006,Mermelada Gigante Fresa 1 kg,Abarrotes,"Mermel, Mieles"
 840090,CH N20 15 BOLAS NAVIDENAS NARANJAS SET X 10 6CM,Bazar Importación,Temporada Navidad
@@ -28741,7 +28795,7 @@ id_producto,producto,categoria,subcategoria
 846219,CH Y64 3 ADORNO NAVIDENO RACIMO DE UVAS COLOR DORADO 3 6CM,Bazar Importación,Temporada Navidad
 846220,CH Y64 4 ADORNO NAVIDENO RACIMO DE UVAS COLOR MORADO 3 6CM,Bazar Importación,Temporada Navidad
 846223,Bolas Navideñas Bronce Set 12 un,Bazar Importación,Temporada Navidad
-846224,CH Y64 7 ADORNO BOLAS DE NAVIDAD SETX18 PZA 6CM ESTRELLAS,Bazar Importación,Temporada Navidad
+846224,Adorno Bolas De Navidad Con Estrellas Set Por 18 un,Bazar Importación,Temporada Navidad
 846225,CH Y64 8 ADORNO BOLAS DE NAVIDAD SETX18 PZAS BRONCE,Bazar Importación,Temporada Navidad
 846226,CH Y64 9 ADORNO BOLAS DE NAVIDAD SET X6 BRONCE PUNTOS 6CM,Bazar Importación,Temporada Navidad
 846227,CH Y64 10 ADORNO BOLAS DE NAVIDAD SET X 6 BRONCE RAYAS 6CM,Bazar Importación,Temporada Navidad
@@ -29011,8 +29065,10 @@ id_producto,producto,categoria,subcategoria
 847155,Bowl Con Diseño Flores Azules Borde Cafe 11.5x6.5 cm,Bazar Importación,Menaje Porcelana/Cerámica
 847157,Bowl Con Diseño Flores Cafe y Azul 11.5x6.5 cm,Bazar Importación,Menaje Porcelana/Cerámica
 847158,Bowl Con Diseño Abstracto 11.5x6.5 cm,Bazar Importación,Menaje Porcelana/Cerámica
+847159,CH 49 8 BOWL CON BORDE CAFE 115X 6 5CM,Bazar Importación,Menaje Porcelana/Cerámica
 847160,Bowl Con Diseño Hojas Azules Borde Oscuro 11.5x6.5 cm,Bazar Importación,Menaje Porcelana/Cerámica
 847166,Bowl Con Diseño Azules Borde Café 11.5x6.5 cm,Bazar Importación,Menaje Porcelana/Cerámica
+847174,CH 49 11 BOWL FLORES Y HOJAS VERDES 11 5X6 5CM,Bazar Importación,Menaje Porcelana/Cerámica
 847283,Chupon en Cajita,Bazar,Articulos de Bebé
 847291,Plato de Mascota 2x1,Bazar,Mascotas General
 847334,Gaseosa Simba Pomelo 2 L,Bebidas,Gaseosas
@@ -30585,6 +30641,7 @@ id_producto,producto,categoria,subcategoria
 864180,CH 288 PLATO PANERO BLANCO 21X21CM,Bazar Importación,Menaje Porcelana/Cerámica
 864181,CH 289 BOWL BLANCO 16X16CM,Bazar Importación,Menaje Porcelana/Cerámica
 864195,CH 12 17 TERMO 1600ML CON PICO COLOR NEGRO,Bazar Importación,Cocina General
+864205,CH 26 3 BOWL 580 ML SURTIDO,Bazar Importación,Menaje Porcelana/Cerámica
 864206,CH 26 4 BOWL 1200ML CON LINEAS HORIZONTALES,Bazar Importación,Menaje Porcelana/Cerámica
 864207,CH 26 18 TAZA BLANCA CON BORDE MARRON 480ML,Bazar Importación,Menaje Porcelana/Cerámica
 864214,CH 19 7 PLATO PLANO GRIS BORDE ELEVADO 27 5CM,Bazar Importación,Menaje Porcelana/Cerámica
@@ -30738,8 +30795,12 @@ id_producto,producto,categoria,subcategoria
 867324,JAN VASO DE WHISQUERO LISO  26,Bazar,Menaje Vidrio/Cristal
 867358,Insecticida Sapolio Cucaracha  Hormiga 360 ml,Cuidado del Hogar,Insecticidas
 867363,Insecticida Sapolio Mosca Mosquito 360 ml,Cuidado del Hogar,Insecticidas
+867373,CH N1 2 LUCES DE COLORES X100 FOCOS 9M CABLE NEGRO,Bazar Importación,Temporada Navidad
 867378,Insecticida Sapolio Mata Pulgas 360 ml,Cuidado del Hogar,Insecticidas
 867381,BANDEJA FOAM C/3DIVICI.C/TAPA X6UND,Bazar,Cotillón
+867385,CH N1 3 LUCES DE COLORES X 300 FOCOS 10M CABLE NEGRO,Bazar Importación,Temporada Navidad
+867386,CH N1 4 LUCES DE COLORES X100 FOCOS 5M CABLE NEGRO,Bazar Importación,Temporada Navidad
+867389,CH N1 7 LUCES DE COLORES X100 FOCOS 9M CABLE NEGRO,Bazar Importación,Temporada Navidad
 867400,BLISTER ECOLAPICES AMARILLO FLUOR X2 FABER CASTELL,Bazar,Librería
 867405,LAPIZ COLOR KIDS BIC X12PZ 8535,Bazar,Librería
 867408,LAPIZ COLOR KIDS BIC X18PZ 8536,Bazar,Librería
@@ -30991,6 +31052,7 @@ id_producto,producto,categoria,subcategoria
 871514,CH L3 2 CAMPANA DORADA CON ADORNO DE COPO DE NIEVE,Bazar Importación,Temporada Navidad
 871526,CH L3 3 CAMPANA DORADA CON ADORNO DE ESTRELLAS PEQUENAS,Bazar Importación,Temporada Navidad
 871527,CH L3 14 BOLAS NAVIDENAS 10CM SET X4PZAS ROJO Y BLANCO,Bazar Importación,Temporada Navidad
+871578,CH L3 15 BOLAS NAVIDENAS 10CM SET X4PZAS ROJO Y BLANCO,Bazar Importación,Temporada Navidad
 871631,CH L3 16 ADORNO NAVIDENO MONO 17X26CM ROJO VERDE C COPOS,Bazar Importación,Temporada Navidad
 871633,CH L3 18 ADORNO NAVIDENO MONO 17X26CM BLANCO CON DISENO,Bazar Importación,Temporada Navidad
 871651,CH L3 24 ESTRELLA NAVIDENA CON MONO 17CM BLANCO DORADO,Bazar Importación,Temporada Navidad
@@ -31020,6 +31082,7 @@ id_producto,producto,categoria,subcategoria
 871880,Pelota Plastica Hipermaxi,Juguetería Importación,Juguetería Niño/Bebé
 871885,Juego Bloques Didacticos,Juguetería,Juguetería Didáctica/Temporada
 871917,CH L3 59 ADORNO BOTA NAVIDENA 9 5X10CM A RAYAS ROJO BLANCO,Bazar Importación,Temporada Navidad
+871918,CH L3 60 ADONO PINAS NAVIDENAS 4CM SET X20PZAS C ESCARCHA,Bazar Importación,Temporada Navidad
 871919,CH L3 61 ADORNO PINAS NAVIDENAS 6CM SET X4 PZAS C ESCARCHA R,Bazar Importación,Temporada Navidad
 871934,CH L3 62 ADORNO COPO DE NIEVE DORARO VERDE 36CM COLGANTE,Bazar Importación,Temporada Navidad
 871948,FRI CARTERAS DE NINA BS 18,Bazar,Bolsos/Carteras/Maletas
@@ -31041,16 +31104,21 @@ id_producto,producto,categoria,subcategoria
 872055,CH L3 78 ADORNOS NAVIEDENOS SET X16PZAS DORADO SURTIDO,Bazar Importación,Temporada Navidad
 872077,CH L3 79 BOLAS NAVIDENAS SET X20PZAS ROSADO 5CM,Bazar Importación,Temporada Navidad
 872117,CH L3 80 ADORNOS NAVIDENOS SET X20PZAS CORADO CHAMPANA 5CM,Bazar Importación,Temporada Navidad
+872152,CH L3 81 ADORNOS NAVIDENOS SET X16PZAS NARANJA DORADO 6CM,Bazar Importación,Temporada Navidad
 872172,Tostadora Philips,Bazar,Electrodoméstico/Línea Blanca-Hogar
 872205,CH L3 83 BOLAS NAVIDENAS SET X12PZAS SURTIDO DORADO CHAMPAGN,Bazar Importación,Temporada Navidad
 872209,COPA VINO BRUNELLO 1X12 20713100,Bazar,Menaje Vidrio/Cristal
 872210,Copa de Champagne Barone,Bazar,Menaje Vidrio/Cristal
+872221,CH L3 85 ADORNOS NAVIDENOS SET X12PZAS SURTIDO ROJO 5CM,Bazar Importación,Temporada Navidad
 872259,Sombrero Año Nuevo,Bazar,Temporadas Restantes
+872277,CH L3 87 BOLAS NAVIDENAS SET X20PZAS ROJO 3CM,Bazar Importación,Temporada Navidad
+872297,CH L3 88 ADORNOS NAVIDENOS SET X15PZAS SURTIDO ROJO,Bazar Importación,Temporada Navidad
 872311,CH L3 89 BOLAS NAVIDE¥AS SET X3 VERDES EN CAJA,Bazar Importación,Temporada Navidad
 872327,CH L3 91 BOLAS NAVIDENAS SET X3 PLATEADAS EN CAJA,Bazar Importación,Temporada Navidad
 872349,CH L3 92 BOLAS NAVIDENAS SET X3 ROJAS EN CAJA,Bazar Importación,Temporada Navidad
 872364,CH L3 96 BOLAS NAVIDENAS SET X12 PZAS VERDES Y ROJOS,Bazar Importación,Temporada Navidad
 872367,CH L3 98 BOLAS NAVIDENAS SET X16PZAS 6CM,Bazar Importación,Temporada Navidad
+872377,CH L3 107 ESFERA COLGANTE 8CM CON CASA NIEVE EN EL INTERIOR,Bazar Importación,Temporada Navidad
 872378,CH L3 108 ESFERA NAVIDENA COLGANTE 8CM PINO CON BAYAS NIEVE,Bazar Importación,Temporada Navidad
 872379,CH L3 109 ESFERA NAVIDENA COLGANTE 8CM MUNECO DE NIEVE CON A,Bazar Importación,Temporada Navidad
 872390,LAPICES COLOR ARTESCO 16UND 16316607,Bazar,Librería
@@ -31073,6 +31141,8 @@ id_producto,producto,categoria,subcategoria
 ",Cuidado del Bebé,Cuidado del Bebé
 872534,Papel Regalo Navideño Con Diseños Surtidos 70x100 cm,Bazar Importación,Temporada Navidad
 872564,Calendario Navideño De Adviento 6x10x3 cm,Bazar Importación,Temporada Navidad
+872621,CH L7 173 ADORNOS NAVIDENOS SET X12 DISENOS SURTIDOS 14X14X1,Bazar Importación,Temporada Navidad
+872623,CH L7 174 ADORNOS NAVIDENOS SET X12 DISENOS SURTIDOS GRIS,Bazar Importación,Temporada Navidad
 872624,Letrero Navideño Welcome Con Oso 9.5x20x2.8 cm,Bazar Importación,Temporada Navidad
 872628,CH L7 207 BOLSAS DE REGALO PEQUENO 14 5X15 6CM DISENOS NAVID,Bazar Importación,Temporada Navidad
 872631,CH L7 207 BOLSAS DE REGALO MEDIANO 23X18X10CM DISENOS NAVIDE,Bazar Importación,Temporada Navidad
@@ -31085,6 +31155,8 @@ id_producto,producto,categoria,subcategoria
 872693,JAN FUNDAS COJIN NAVIDAD 20,Bazar,Living y Dormitorio
 872701,Tapetes Absorvente Didi Para Mascotas 10 un,Bazar,Mascotas General
 872740,Bolsa de Regalo,Bazar,Regalos/Adornos
+872848,CH L4 2 CINTAS NAVIDENAS 2 7MX5 8CM PATRONES CUADRADOS ROJO,Bazar Importación,Temporada Navidad
+872849,CH L4 3 CINTAS NAVIDENAS 2 7MX5 8CM DISENOS SURTIDOS,Bazar Importación,Temporada Navidad
 872882,JAN ANTIFAS CRAQUELADO CARANAVAL 8,Bazar,Temporada Carnaval
 872889,Globos Carnavaleros con Cargador,Bazar,Temporada Carnaval
 872908,CH N63 7 LAMPARA DE MESA CAFE PANTALLA CONICA ESTRUCTURA ARQ,Bazar Importación,Living y Dormitorio
@@ -31201,7 +31273,10 @@ id_producto,producto,categoria,subcategoria
 876606,JAN FLOR DE NAVIDAD  15,Bazar,Temporada Navidad
 876607,JAN ADORNO PAPA NOEL CARA 14,Bazar,Temporada Navidad
 876625,JAN CINTA NAVIDAD 12,Bazar,Temporada Navidad
+876627,CH N3 5 BOLAS NAVIDENAS SET X30PZAS DISENO SURTIDO COLOR ROJ,Bazar Importación,Temporada Navidad
 876628,CH N3 5 BOLAS NAVIDENAS SET X30PZAS DISENO SURTIDO VERDE,Bazar Importación,Temporada Navidad
+876629,CH N3 7 ADORNO NAVIDENO BELLOTAS SET X4PZAS ROSADO 8CM,Bazar Importación,Temporada Navidad
+876630,CH N3 7 ADORNO NAVIDENO BELLOTAS SET X4PZAS VERDE 8CM,Bazar Importación,Temporada Navidad
 876652,Adorno Navideño Caramelo Rojo Y Blanco 8x2 cm,Bazar Importación,Temporada Navidad
 876654,CARACOL DIDACTICO ARTI GOMA EVA,Bazar,Librería
 876670,EELS PORTA RETRATO DE BS 33,Bazar,Living y Dormitorio
@@ -31287,6 +31362,7 @@ id_producto,producto,categoria,subcategoria
 879361,Crema Maggie de Tomate 45 gr,Abarrotes,Básicos
 879407,JAN VINCHAS CATRINA VELO  28,Bazar,OTROS
 879486,PLAYDOH-DRIZZY HELADERIA CREATIVA,Juguetería,Juguetería Didáctica/Temporada
+879518,JAN SERVILLETA NAVIDAD 13,Bazar,Temporada Navidad
 879534,Achocolatado Kriskao 200 gr,Abarrotes,Nutrición Infantil
 879552,Juguete de Mascota 5,Bazar,Mascotas General
 879553,Bolsa Zipper Freezer Diamond,Bazar,Articulos de Cocina
