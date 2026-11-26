@@ -28,15 +28,15 @@ Qué no hay en los datos:
 ### Cobertura
 
 <!-- cobertura:inicio -->
-Datos al **2026-11-25**. Se genera con `update/cobertura.py` y también está en [cobertura.json](cobertura.json).
+Datos al **2026-11-26**. Se genera con `update/cobertura.py` y también está en [cobertura.json](cobertura.json).
 
 | Tienda | Ciudad | Desde | Hasta | Días con datos | Días sin datos | Productos en el último día | Productos en total |
 | --- | --- | --- | --- | ---: | ---: | ---: | ---: |
 | [Hipermaxi](data/hipermaxi/) | La Paz | 2024-07-28 | 2026-11-25 | 841 | 10 | 13,890 | 23,180 |
 | [Hipermaxi](data/hipermaxi/) | Cochabamba | 2024-07-28 | 2026-11-25 | 841 | 10 | 13,358 | 22,901 |
 | [Hipermaxi](data/hipermaxi/) | Santa Cruz | 2024-07-28 | 2026-11-25 | 841 | 10 | 13,522 | 22,768 |
-| [Fidalga](data/fidalga/) | Nacional | 2025-06-13 | 2026-11-25 | 531 | 0 | 879 | 1,128 |
-| [Farmacorp](data/farmacorp/) | Nacional | 2025-06-13 | 2026-11-25 | 531 | 0 | 16,576 | 24,137 |
+| [Fidalga](data/fidalga/) | Nacional | 2025-06-13 | 2026-11-26 | 532 | 0 | 879 | 1,128 |
+| [Farmacorp](data/farmacorp/) | Nacional | 2025-06-13 | 2026-11-26 | 532 | 0 | 16,820 | 24,269 |
 | [Multicenter](data/multicenter/) | Nacional | 2025-06-15 | 2026-11-25 | 529 | 0 | 10,855 | 23,566 |
 | [IC Norte](data/icnorte/) | Nacional | 2025-06-15 | 2026-09-24 (sin actualizar) | 467 | 0 | 1,771 | 1,775 |
 | [Ketal](data/ketal/) | Nacional | 2021-11-15 | 2022-10-31 (cerrada) | 346 | 5 | n/d | 10,011 |
