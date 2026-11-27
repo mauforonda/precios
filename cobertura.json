@@ -357,17 +357,17 @@
       "ciudad": "nacional",
       "ciudad_nombre": "Nacional",
       "desde": "2025-06-15",
-      "hasta": "2026-11-26",
-      "dias_con_datos": 530,
+      "hasta": "2026-11-27",
+      "dias_con_datos": 531,
       "dias_sin_datos": 0,
       "rangos_sin_datos": [],
-      "productos_historicos": 23567,
-      "productos_ultimo_dia": 10847,
+      "productos_historicos": 23625,
+      "productos_ultimo_dia": 10912,
       "productos_por_dia_min": 9625,
       "productos_por_dia_max": 12689,
-      "filas": 5934736,
+      "filas": 5945648,
       "filas_repetidas": 245,
-      "filas_precio_cero": 4174,
+      "filas_precio_cero": 4182,
       "categorias_ultimo_dia": [
         {
           "categoria": "Herramientas",
@@ -375,55 +375,55 @@
         },
         {
           "categoria": "Hogar",
-          "productos": 1620
+          "productos": 1662
         },
         {
           "categoria": "Juguetería",
-          "productos": 1027
+          "productos": 1034
         },
         {
           "categoria": "navidad",
-          "productos": 667
+          "productos": 665
         },
         {
           "categoria": "Dormitorio y Baño",
-          "productos": 607
+          "productos": 608
         },
         {
           "categoria": "Oficina",
-          "productos": 530
+          "productos": 528
         },
         {
           "categoria": "Electrohogar",
-          "productos": 525
+          "productos": 521
         },
         {
           "categoria": "tecnología",
-          "productos": 510
+          "productos": 508
         },
         {
           "categoria": "Decoración",
-          "productos": 428
-        },
-        {
-          "categoria": "Muebles",
-          "productos": 416
+          "productos": 427
         },
         {
           "categoria": "Jardineria",
-          "productos": 406
+          "productos": 417
+        },
+        {
+          "categoria": "Muebles",
+          "productos": 411
         },
         {
           "categoria": "Alimentos y Bebidas",
-          "productos": 300
+          "productos": 302
         },
         {
           "categoria": "Camping",
-          "productos": 260
+          "productos": 265
         },
         {
           "categoria": "Viaje y regalos",
-          "productos": 253
+          "productos": 257
         },
         {
           "categoria": "Iluminación",
@@ -435,15 +435,15 @@
         },
         {
           "categoria": "Mascotas",
-          "productos": 187
+          "productos": 197
         },
         {
           "categoria": "Deportes y Ocio",
-          "productos": 144
+          "productos": 142
         },
         {
           "categoria": "Exteriores",
-          "productos": 92
+          "productos": 93
         },
         {
           "categoria": "Bebés",

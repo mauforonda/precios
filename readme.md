@@ -37,7 +37,7 @@ Datos al **2026-11-27**. Se genera con `update/cobertura.py` y también está en
 | [Hipermaxi](data/hipermaxi/) | Santa Cruz | 2024-07-28 | 2026-11-26 | 842 | 10 | 13,587 | 22,830 |
 | [Fidalga](data/fidalga/) | Nacional | 2025-06-13 | 2026-11-27 | 533 | 0 | 879 | 1,128 |
 | [Farmacorp](data/farmacorp/) | Nacional | 2025-06-13 | 2026-11-27 | 533 | 0 | 16,580 | 24,270 |
-| [Multicenter](data/multicenter/) | Nacional | 2025-06-15 | 2026-11-26 | 530 | 0 | 10,847 | 23,567 |
+| [Multicenter](data/multicenter/) | Nacional | 2025-06-15 | 2026-11-27 | 531 | 0 | 10,912 | 23,625 |
 | [IC Norte](data/icnorte/) | Nacional | 2025-06-15 | 2026-09-24 (sin actualizar) | 467 | 0 | 1,771 | 1,775 |
 | [Ketal](data/ketal/) | Nacional | 2021-11-15 | 2022-10-31 (cerrada) | 346 | 5 | n/d | 10,011 |
 
@@ -48,7 +48,7 @@ Días sin datos:
 Categorías principales entre los productos del último día:
 
 - Hipermaxi en La Paz: Abarrotes (4,948), Cuidado Personal (2,442), Bebidas (1,542), Cuidado del Hogar (1,295), Bazar Importación (851), Bazar (701)
-- Multicenter: Herramientas (2,292), Hogar (1,620), Juguetería (1,027), navidad (667), Dormitorio y Baño (607), Oficina (530)
+- Multicenter: Herramientas (2,292), Hogar (1,662), Juguetería (1,034), navidad (665), Dormitorio y Baño (608), Oficina (528)
 - IC Norte: CUIDADO PERSONAL (1,102), ABARROTES Y DESPENSA (920), LIMPIEZA Y DETERGENTES (434), Panadería y Repostería (172), CARNES, MARISCOS Y PESCADO (162), FRUTAS Y VERDURAS (162)
 - Fidalga y Farmacorp: sin categoría principal (ver más abajo).
 <!-- cobertura:fin -->
