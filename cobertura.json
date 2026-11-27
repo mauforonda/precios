@@ -8,8 +8,8 @@
       "ciudad": "la_paz",
       "ciudad_nombre": "La Paz",
       "desde": "2024-07-28",
-      "hasta": "2026-11-26",
-      "dias_con_datos": 842,
+      "hasta": "2026-11-27",
+      "dias_con_datos": 843,
       "dias_sin_datos": 10,
       "rangos_sin_datos": [
         "2025-06-04 a 2025-06-10",
@@ -17,33 +17,33 @@
         "2026-01-11",
         "2026-03-12"
       ],
-      "productos_historicos": 23239,
-      "productos_ultimo_dia": 14061,
+      "productos_historicos": 23242,
+      "productos_ultimo_dia": 14034,
       "productos_por_dia_min": 10714,
       "productos_por_dia_max": 14061,
-      "filas": 10122146,
+      "filas": 10136180,
       "filas_repetidas": 9,
       "filas_precio_cero": 0,
       "categorias_ultimo_dia": [
         {
           "categoria": "Abarrotes",
-          "productos": 4948
+          "productos": 4961
         },
         {
           "categoria": "Cuidado Personal",
-          "productos": 2442
+          "productos": 2448
         },
         {
           "categoria": "Bebidas",
-          "productos": 1542
+          "productos": 1537
         },
         {
           "categoria": "Cuidado del Hogar",
-          "productos": 1295
+          "productos": 1296
         },
         {
           "categoria": "Bazar Importación",
-          "productos": 851
+          "productos": 850
         },
         {
           "categoria": "Bazar",
@@ -51,11 +51,11 @@
         },
         {
           "categoria": "Lácteos y Derivados",
-          "productos": 567
+          "productos": 553
         },
         {
           "categoria": "Congelados",
-          "productos": 481
+          "productos": 479
         },
         {
           "categoria": "Cuidado del Bebé",
@@ -63,35 +63,35 @@
         },
         {
           "categoria": "Fiambres",
-          "productos": 225
+          "productos": 221
         },
         {
           "categoria": "Panadería",
-          "productos": 206
+          "productos": 196
         },
         {
           "categoria": "Pastelería y Masas Típicas",
-          "productos": 142
+          "productos": 138
         },
         {
           "categoria": "Frutas y Verduras",
-          "productos": 103
+          "productos": 98
         },
         {
           "categoria": "Carnes",
           "productos": 84
         },
         {
-          "categoria": "Juguetería Importación",
+          "categoria": "Juguetería",
           "productos": 57
         },
         {
-          "categoria": "Juguetería",
+          "categoria": "Juguetería Importación",
           "productos": 56
         },
         {
           "categoria": "Granos y Hortalizas",
-          "productos": 25
+          "productos": 23
         },
         {
           "categoria": "TEXTILES Y ZAPATOS",
@@ -109,8 +109,8 @@
       "ciudad": "cochabamba",
       "ciudad_nombre": "Cochabamba",
       "desde": "2024-07-28",
-      "hasta": "2026-11-26",
-      "dias_con_datos": 842,
+      "hasta": "2026-11-27",
+      "dias_con_datos": 843,
       "dias_sin_datos": 10,
       "rangos_sin_datos": [
         "2025-06-04 a 2025-06-10",
@@ -118,61 +118,61 @@
         "2026-01-11",
         "2026-03-12"
       ],
-      "productos_historicos": 22961,
-      "productos_ultimo_dia": 13514,
+      "productos_historicos": 22967,
+      "productos_ultimo_dia": 13452,
       "productos_por_dia_min": 10333,
       "productos_por_dia_max": 13520,
-      "filas": 10021066,
+      "filas": 10034518,
       "filas_repetidas": 55,
       "filas_precio_cero": 0,
       "categorias_ultimo_dia": [
         {
           "categoria": "Abarrotes",
-          "productos": 4557
+          "productos": 4555
         },
         {
           "categoria": "Cuidado Personal",
-          "productos": 2469
+          "productos": 2465
         },
         {
           "categoria": "Bebidas",
-          "productos": 1407
+          "productos": 1406
         },
         {
           "categoria": "Cuidado del Hogar",
-          "productos": 1288
+          "productos": 1282
         },
         {
           "categoria": "Bazar Importación",
-          "productos": 860
+          "productos": 859
         },
         {
           "categoria": "Bazar",
-          "productos": 743
+          "productos": 742
         },
         {
           "categoria": "Lácteos y Derivados",
-          "productos": 501
+          "productos": 487
         },
         {
           "categoria": "Congelados",
-          "productos": 485
+          "productos": 472
         },
         {
           "categoria": "Cuidado del Bebé",
-          "productos": 314
+          "productos": 313
         },
         {
           "categoria": "Fiambres",
-          "productos": 233
+          "productos": 230
         },
         {
           "categoria": "Panadería",
-          "productos": 186
+          "productos": 180
         },
         {
           "categoria": "Pastelería y Masas Típicas",
-          "productos": 175
+          "productos": 167
         },
         {
           "categoria": "Carnes",
@@ -188,11 +188,11 @@
         },
         {
           "categoria": "Juguetería Importación",
-          "productos": 53
+          "productos": 52
         },
         {
           "categoria": "Granos y Hortalizas",
-          "productos": 17
+          "productos": 16
         },
         {
           "categoria": "IMPORTACIONES TEXTIL",
@@ -210,8 +210,8 @@
       "ciudad": "santa_cruz",
       "ciudad_nombre": "Santa Cruz",
       "desde": "2024-07-28",
-      "hasta": "2026-11-26",
-      "dias_con_datos": 842,
+      "hasta": "2026-11-27",
+      "dias_con_datos": 843,
       "dias_sin_datos": 10,
       "rangos_sin_datos": [
         "2025-06-04 a 2025-06-10",
@@ -219,25 +219,25 @@
         "2026-01-11",
         "2026-03-12"
       ],
-      "productos_historicos": 22830,
-      "productos_ultimo_dia": 13587,
+      "productos_historicos": 22835,
+      "productos_ultimo_dia": 13583,
       "productos_por_dia_min": 10362,
       "productos_por_dia_max": 13587,
-      "filas": 9934700,
+      "filas": 9948283,
       "filas_repetidas": 36,
       "filas_precio_cero": 0,
       "categorias_ultimo_dia": [
         {
           "categoria": "Abarrotes",
-          "productos": 4016
+          "productos": 4010
         },
         {
           "categoria": "Cuidado Personal",
-          "productos": 2069
+          "productos": 2063
         },
         {
           "categoria": "Cuidado del Hogar",
-          "productos": 1665
+          "productos": 1660
         },
         {
           "categoria": "Bebidas",
@@ -245,11 +245,11 @@
         },
         {
           "categoria": "Bazar Importación",
-          "productos": 1080
+          "productos": 1076
         },
         {
           "categoria": "Bazar",
-          "productos": 869
+          "productos": 868
         },
         {
           "categoria": "Congelados",
@@ -257,23 +257,23 @@
         },
         {
           "categoria": "Lácteos y Derivados",
-          "productos": 459
+          "productos": 474
         },
         {
           "categoria": "Cuidado del Bebé",
-          "productos": 361
+          "productos": 362
         },
         {
           "categoria": "Fiambres",
-          "productos": 245
+          "productos": 250
         },
         {
           "categoria": "Panadería",
-          "productos": 213
+          "productos": 211
         },
         {
           "categoria": "Frutas y Verduras",
-          "productos": 155
+          "productos": 154
         },
         {
           "categoria": "Pastelería y Masas Típicas",
@@ -281,7 +281,7 @@
         },
         {
           "categoria": "Juguetería",
-          "productos": 83
+          "productos": 84
         },
         {
           "categoria": "Cuidados Otc",
@@ -293,7 +293,7 @@
         },
         {
           "categoria": "Juguetería Importación",
-          "productos": 52
+          "productos": 51
         },
         {
           "categoria": "Granos y Hortalizas",
