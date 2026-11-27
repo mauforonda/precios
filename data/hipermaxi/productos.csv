@@ -1091,6 +1091,7 @@ id_producto,producto,categoria,subcategoria
 17287,Galleta La Suprema Surtida Navidad 300 gr,Abarrotes,Galletas
 17288,Galleta La Suprema Surtida Navidad 400 gr,Abarrotes,Galletas
 17289,Leche Evaporada Bonle 400 gr,Abarrotes,Nutrición Infantil
+17291,JUGO ARUBA CITRUS PUNCH 3LT,Bebidas,"Jugos, Néctar"
 17292,Cafe Segafredo Selection Molido 500 gr,Abarrotes,Café y Sucedáneos
 17294,Galleta Costa Gran Cereal Chocolate 110 gr,Abarrotes,Galletas
 17296,Gin Puerto Indias Classic 750 ml,Bebidas,Licores
@@ -1107,6 +1108,7 @@ id_producto,producto,categoria,subcategoria
 17317,Yerba Mate Canarias Serena 1 kg,Abarrotes,Café y Sucedáneos
 17318,Yerba Mate Canarias Te Rojo Centella 1 kg,Abarrotes,Café y Sucedáneos
 17322,Alimento Primocao Cachorro Carne Leche 1 kg,Abarrotes,Mascotas
+17330,BON O BON ARCOR ARBOL NAVIDAD 75G,Abarrotes,Chocolates y Caramelos
 17331,Frejol Negro El Cocinero 800 gr,Abarrotes,Condimentos y Legumbres
 17332,Lenteja El Cocinero Harinosa 800 gr,Abarrotes,Condimentos y Legumbres
 17333,Trigo El Cocinero Pelado 800 gr,Abarrotes,Condimentos y Legumbres
@@ -15012,6 +15014,7 @@ id_producto,producto,categoria,subcategoria
 517153,MANTEQ MANI SKURZTH CHOCOLATE 260G,Abarrotes,Repostería
 517154,MANTEQ MANI SKURZTH S CANELA 260G,Abarrotes,Repostería
 517155,PACK 3X2 ENERGIZ SIRUIS PET 350ML,Bebidas,Energizantes
+517170,LECHE SBELT LIGHT POLVO BSA 760G,Abarrotes,Dietéticos y Saludables
 517171,CHOCOL TABOADA C LICOR NAVID DP 200G,Abarrotes,Chocolates y Caramelos
 517172,CHOCOL SURTIDO TABOADA NAVID DP 200G,Abarrotes,Temporada
 517173,CHOCOL TABOADA FELIZ NAVIDAD TAB 100G,Abarrotes,Temporada
@@ -17872,12 +17875,14 @@ id_producto,producto,categoria,subcategoria
 554238,Atun San Lucas Grated En Agua Y Sal 165 gr,Abarrotes,Comidas en Conserva
 554239,Mix Frutos Secos Waras 250 gr,Abarrotes,Frutas en Conserva
 554240,MIX WARAS FRUTA DESHID CON CHOCOLATE 90,Abarrotes,Frutas en Conserva
+554243,PAPAS  MINKA ATIVAS MIX 100 GR,Abarrotes,Snack
 554244,PACK CONDOR CHOC HALLOWEEN CJA150 GR,Abarrotes,Temporada
 554245,TRAQUEA DE RES CHEMSITOS 100 GR,Abarrotes,Mascotas
 554246,ESOFAGO DE RES CHEMSITOS 100 GR,Abarrotes,Mascotas
 554247,CHARQUE DE PULMON CHEMSITOS 100 GR,Abarrotes,Mascotas
 554248,PALITOS CHEMSITOS CARNE Y VERDURA 100 GR,Abarrotes,Mascotas
 554249,SOPA DE RES CHEMSITOS BSA 100 GR,Abarrotes,Mascotas
+554250,ISPIS CHEMSITOS BSA 100 GR,Abarrotes,Mascotas
 554251,EDULCORANTE HONNY STEVIA SOBRES 100 UNID,Abarrotes,Dietéticos y Saludables
 554254,AVENA IRUPANA INSTANTANEA CJA 300 GR,Abarrotes,Nutrición Infantil
 554258,AVENA INSTANT KRIS DP 450G,Abarrotes,Nutrición Infantil
@@ -17907,6 +17912,7 @@ id_producto,producto,categoria,subcategoria
 554302,JUGO CIN MOCOCHINCHI PET 2 LT,Bebidas,"Jugos, Néctar"
 554303,JUGO CIN CANELA PET 2 LT,Bebidas,"Jugos, Néctar"
 554305,FIDEO CORTADO KRIOLLA BSA 400G,Abarrotes,Básicos
+554308,CEREAL IRUPANA NUTRI FRUTTI CJA 200 GR,Abarrotes,Nutrición Infantil
 554310,CIGARRILLO WINSTON YELLOW MIX 20 UNID,Bebidas,Cigarrillos
 554311,CIGARRILLO BOHEM DOUBLE WINE XL 20 UNID,Bebidas,Cigarrillos
 554312,GALLETA OREO LATA NAVIDENA 324 GR,Abarrotes,Temporada
@@ -21186,6 +21192,7 @@ id_producto,producto,categoria,subcategoria
 660646,PANAL BS SPCTOTALHIPOAL PAKET XXXG 54,Cuidado del Bebé,Pañales
 660648,LIMPIA PISOS BANDA PULPIN 900 ML,Cuidado del Hogar,Limpieza de Baños
 660651,LIMPIA PISOS FLORAL PULPIN 5000 ML,Cuidado del Hogar,Limpieza de Baños
+660652,SERVILLETA FINESSE 6X500 UNID,Cuidado Personal,Cuidado Familiar
 660653,TOALLA HUMEDA MULTIUSO FINESSE 12X96 UNI,Cuidado del Bebé,Cuidado del Bebé
 660711,Galleta Noel Octagonal Surtida 260 gr,Abarrotes,Temporada
 660852,Te Frutte Laxte 20 Sobres,Abarrotes,Café y Sucedáneos
@@ -23318,6 +23325,7 @@ id_producto,producto,categoria,subcategoria
 672274,Bife de Cerdo Sofia Congelado kg,Congelados,Carnes Congeladas
 672275,Punta de S Sofia de Cerdo kg,Congelados,Carnes Congeladas
 672276,Queso San Mateo Oaxaca 410 gr,Lácteos y Derivados,Quesos
+672279,Queso Criollo San Mateo con Albahaca 400 gr,Lácteos y Derivados,Quesos
 672283,Salteñas Saltucas Congeladas 6 un,Congelados,Masas y Comidas Congeladas
 672289,Palitos Integrales Con Queso Jenecheru,Pastelería y Masas Típicas,Pastelería Externa
 672290,Papa Sofia Pre Fritas Tradicional 9 Mm 2500 gr,Congelados,Masas y Comidas Congeladas
@@ -24812,6 +24820,7 @@ id_producto,producto,categoria,subcategoria
 675021,HELADO NORDLAND CASATA PREMIUM CHOCOLATE/CHISPAS 1000ML,Congelados,"Helados, Cassattas y Picoleses"
 675022,LECHE NORDLAND ORIGINAL SIN AZUCAR 900ML BOLSA,Lácteos y Derivados,Leches
 675023,PANETON ZELADA CHOCOLATE COBERTURA BOLSA 700GRS,Panadería,Panadería Externa
+675024,ROSCA NAVIDENA ZELADA CHOCOLATE CAJA 600GRS,Pastelería y Masas Típicas,Pastelería Externa
 675025,CHORIZO CERVECERO SOFIA VACIO 5 UNIDADES,Fiambres,Fiambres Externos
 675026,YOGURT TIPO GRIEGO O AZUCAR VAINILLA GALAKTOS 500GRS,Lácteos y Derivados,Yogures
 675027,YOGURT TIPO GRIEGO O AZCAR MANZANA VERDE GALAKTOS 500GR,Lácteos y Derivados,Yogures
@@ -29446,7 +29455,7 @@ id_producto,producto,categoria,subcategoria
 853007,Caramelo Menthoplus Cherry 30.6 gr,Abarrotes,Golosinas - Varias
 853010,METRALLETA NEFR ELITE TETRAD QS4,Juguetería,Juguetería Marcas
 853012,Caramelo Menthoplus Miel 30.6 gr,Abarrotes,Golosinas - Varias
-853017,Muñeca Barbie Basica,Juguetería Importación,Jugueteria Marcas
+853017,Muñeca Barbie Basica,Juguetería,Juguetería Niña/Bebé
 853022,VEHICULO DE CARRERA RC HOT WHEELS,Juguetería,Juguetería Niño/Bebé
 853032,Caramelo Menthoplus Strong 30.6 gr,Abarrotes,Golosinas - Varias
 853038,Matchbox Auto Pullback,Juguetería,Juguetería Niño/Bebé
@@ -29502,7 +29511,7 @@ id_producto,producto,categoria,subcategoria
 853961,PLATILLO BLANCO PLASTOFORMO 23CM,Bazar,Cotillón
 853965,BRB BARBIE SIRENA BASICA,Juguetería,Juguetería Niña/Bebé
 853969,BRB BARBIE PRINCESA BASICA,Juguetería,Juguetería Niña/Bebé
-853971,BRB BARBIE ZAPATOS/CARTERA GLITZ,Juguetería,Juguetería Niña/Bebé
+853971,BRB BARBIE ZAPATOS CARTERA GLITZ,Juguetería,Juguetería Niña/Bebé
 854000,Arroz Caisy Japones 5 kg,Abarrotes,Básicos
 854035,Galleta Granix Sesamo con Hierro 185 gr,Abarrotes,Galletas
 854055,Galleta Granix Sesamo sin Sal 175 gr,Abarrotes,Galletas
@@ -32259,7 +32268,7 @@ id_producto,producto,categoria,subcategoria
 948948,Fosforo Parana Gigante 50 un,Bazar,Churrasquería
 950466,Vasoo 7Oz X10 Plastico 7recuentreP,Bazar,Cotillón
 950475,Inflador de Globos Manual,Bazar,Cotillón
-950520,Auto Hot Wheels 3 un,Juguetería,Juguetería Marcas
+950520,Auto Hot Wheels 3 un,Juguetería,Juguetería Niño/Bebé
 951157,DESPIERTA AL CAMELLO,Juguetería,Juguetería Didáctica/Temporada
 951167,Tijera Nuby Metalica Baby con Tapa,Bazar,Articulos de Bebé
 951414,Vela Cumpleaños Fuego,Bazar,Cotillón
