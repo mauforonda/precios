@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <meta name="theme-color" content="rgb(250, 250, 250)"/>
+    <title>Precios en Bolivia</title>
+    <link rel="icon" type="image/svg+xml" href="https://mauforonda.github.io/images/icon.svg"/>
+    <link rel="stylesheet" href="style.css?v=20261128132044"/>
+    <script>
+      // Empieza a pedir el manifiesto sin esperar a que cargue app.js
+      window.__manifiesto = fetch("datos/manifiesto.json", { cache: "no-cache" })
+        .then((r) => (r.ok ? r.json() : Promise.reject(new Error("manifiesto: " + r.status))));
+      window.__manifiesto.catch(() => {});
+    </script>
+    <script type="module" src="app.js?v=20261128132044"></script>
+  </head>
+  <body>
+    <main class="pagina">
+      <header class="encabezado">
+        <h1 class="titulo">Precios en Bolivia</h1>
+        <p class="subtitulo">¿Qué precios <span class="up">suben</span> o <span class="down">bajan</span>?</p>
+      </header>
+
+      <section class="controles" aria-label="Controles">
+        <div class="columnas">
+          <div class="columna">
+            <div class="fila fila-tiendas">
+              <div class="fila-contenido">
+                <div class="segmentos" id="supermercados" role="group" aria-label="Supermercado"></div>
+              </div>
+              <div class="fila-contenido fila-ciudades" id="fila-ciudades" hidden>
+                <div class="ciudades" id="ciudades"></div>
+              </div>
+            </div>
+            <div class="fila">
+              <div class="fila-contenido frase">
+                <span class="palabra">precios que</span>
+                <div class="direccion" id="direccion"></div>
+                <span class="palabra">desde</span>
+                <div id="tiempo"></div>
+              </div>
+            </div>
+          </div>
+          <div class="columna">
+            <div class="fila">
+              <div class="fila-contenido">
+                <div id="busqueda"></div>
+                <div class="sugerencias" id="sugerencias"></div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="tabla" id="tabla"></section>
+
+      <footer class="page-footer">
+        <a href="https://github.com/mauforonda/precios" target="_blank" rel="noopener noreferrer">
+          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <circle cx="18" cy="18" r="3"/>
+            <circle cx="6" cy="6" r="3"/>
+            <path d="M13 6h3a2 2 0 0 1 2 2v7"/>
+            <path d="M11 18H8a2 2 0 0 1-2-2V9"/>
+          </svg>
+          <span>Datos y Código</span>
+        </a>
+      </footer>
+    </main>
+  </body>
+</html>
